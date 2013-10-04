@@ -6,8 +6,8 @@ else
   words="$@"
 fi
 
-cat1="cryptids"
-cat2="dinosaurs"
+cat1=$(ls data | head -n 1)
+cat2=$(ls data | tail -n 1)
 
 n_cat1=$(ls data/$cat1/* | wc -l)
 n_cat2=$(ls data/$cat2/* | wc -l)
