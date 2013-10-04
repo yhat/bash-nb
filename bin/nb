@@ -56,14 +56,14 @@ p_cat1=0
 p_cat2=0
 for word in ${words}
 do
-    n_occur_cat1=$(echo $cat1_words | grep -o -E "${word}" | wc -l)
-    n_occur_cat2=$(echo $cat2_words | grep -o -E "${word}" | wc -l)
+    n_occur_cat1=$(echo ${cat1_words} | grep -o -E "${word}" | wc -l)
+    n_occur_cat2=$(echo ${cat2_words} | grep -o -E "${word}" | wc -l)
 
-    p_word_cat1=$(echo "scale=10; $n_occur_cat1 / $n_words_cat1" | bc)
-    p_word_cat2=$(echo "scale=10; $n_occur_cat2 / $n_words_cat2" | bc)
+    p_word_cat1=$(echo "scale=10; ${n_occur_cat1} / ${n_words_cat1}" | bc)
+    p_word_cat2=$(echo "scale=10; ${n_occur_cat2} / ${n_words_cat2}" | bc)
 
-    p_cat1=$(echo "scale=10; l($p_word_cat1 + 1) / l(10) + $p_cat1" | bc -l)
-    p_cat2=$(echo "scale=10; l($p_word_cat2 + 1) / l(10) + $p_cat2" | bc -l)
+    p_cat1=$(echo "scale=10; l(${p_word_cat1} + 1) / l(10) + ${p_cat1}" | bc -l)
+    p_cat2=$(echo "scale=10; l(${p_word_cat2} + 1) / l(10) + ${p_cat2}" | bc -l)
 
     p_cat1_word=$(echo "scale=10;${p_word_cat1}*${prior_cat1}" | bc)
     p_cat2_word=$(echo "scale=10;${p_word_cat2}*${prior_cat2}" | bc)
