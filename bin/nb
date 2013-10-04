@@ -1,6 +1,11 @@
 #!/bin/bash
 
-words="$@"
+if [ "$#" == "0" ]; then
+  words=$(while IFS= read -r line; do printf '%s\n' "$line" done)
+else
+  words="$@"
+fi
+
 cat1="cryptids"
 cat2="dinosaurs"
 

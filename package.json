@@ -1,5 +1,5 @@
 {
-  "name": "nb",
+  "name": "naivebayes",
   "version": "0.0.1",
   "description": "Naive Bayes implemented in bash.",
   "bin": {
