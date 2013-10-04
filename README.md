@@ -16,7 +16,20 @@
 
 ### Make some predictions
 
-    $ nb monster carnivore hairy fins 
+    $ nb monster carnivore hairy fins
+    
+    P(cryptids|monster)=.9989355354
+    P(dinosaurs|monster)=.0010644645
+    ==============================
+    P(cryptids|carnivore)=.5186436777
+    P(dinosaurs|carnivore)=.4813563222
+    ==============================
+    P(cryptids|hairy)=1.0000000000
+    P(dinosaurs|hairy)=0
+    ==============================
+    P(cryptids|fins)=.9259958352
+    P(dinosaurs|fins)=.0740041647
+    ==============================
 
 ## htmlToText
 
