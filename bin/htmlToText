@@ -30,8 +30,12 @@ process.stdin.on "data", (data) ->
   html += data.toString()
 
 process.stdin.on "end", (err) ->
+  html = $(html)
+  if selector != ''
+    html = html.find(selector)
+
   if output=='text'
-    process.stdout.write $(html).find(selector).text()
+    process.stdout.write $(html).text()
   else
-    process.stdout.write $(html).find(selector).html()
+    process.stdout.write $(html).html()
 

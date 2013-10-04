@@ -1,0 +1,1168 @@
+
+
+ ADSPACE: homepage/main/top.1x1 
+ ADSPACE-END 
+
+         SET EDITION:  U.S. INTERNATIONAL MÉXICO ARABIC    TV:   CNN CNNi CNN en Español HLN      Sign up Log in                Home TV & Video CNN Trends U.S. World Politics Justice Entertainment Tech Health Living Travel Opinion iReport Money Sports include virtual="/.element/ssi/www/misc/3.0/header/menu.bleacher.html"   
+
+
+ CALLOUT|http://ads.cnn.com/html.ng/site=cnn&cnn_pagetype=main&cnn_position=970x66_top&cnn_rollup=homepage&page.allowcompete=no&params.styles=fs|CALLOUT 
+ ADSPACE: homepage/main/top.970x66 
+
+
+ ADSPACE-END 
+
+
+
+ this is where the breaking news CSI code will go 
+
+
+
+
+
+
+
+
+
+
+
+updated 11:48 AM EDT, Fri October 4, 2013
+
+[if IE]>
+<a href class="realmLink" onclick="this.style.behavior='url(#default#homepage)';this.setHomePage(window.location);" href="Javascript:void();">Make CNN Your Homepage</a>
+<style>#makeHPLink{display:none;}</style>
+<![endif]
+Make CNN Your Homepage
+
+
+
+
+
+
+
+
+
+
+
+Shutdown
+Capitol shooting
+Voice of Siri
+Muhammad Ali
+Bikers vs. SUV
+Madonna
+Fossil find
+Kaitlyn Hunt
+Michelle Rodriguez
+
+
+
+
+
+
+
+
+ landscape T1 
+
+
+
+
+
+BREAKING NEWS
+
+
+D.C. CHASE: WHY?
+
+
+
+
+
+
+
+
+
+
+
+Source: Meds for mental disorders found
+
+
+
+
+Miriam Carey, the woman killed by police after a chase in Washington on Thursday, had medications in her apartment to treat schizophrenia and other mental disorders, a law enforcement source said.
+FULL STORY 
+
+
+
+
+
+
+
+
+
+   Incredible video of chase      
+
+
+
+
+
+ T2s 
+
+
+
+ THE LATEST     Hope for deal on raising debt limit     Reid: Nation comes before Boehner     Gulf on alert for Karen  |  Tracker    NEW Alex Rodriguez suing MLB    LIVE: Pope Francis in Assisi      Police have ID of biker suspect     Wife of SUV driver speaks out       Iowa State coach's post-game tirade     MORE TOP STORIES     Adobe says 2.9M customers hacked     Gupta: Obamacare's coverage gap     Obamacare cheap or pricey?     Deadly hornets are world's largest     Facebook building staff quarters Time    Frail Muhammad Ali at event     McConnell, Paul caught on hot mic       GOP Rep.: You're beautiful but...       Cop finds dog tied up, giving birth        Inside the secret lives of pirates     Is Britney's video too sexy? EW    Rare two-headed birth is a 'miracle'        OPINION     Did D.C. cops have to shoot to kill?     GOP House doesn't speak for America     IN CASE YOU MISSED IT     Amanda Knox's ex-lover: Life is hell       New Chinese law: Flush the toilet     Actress says her son is Sinatra's       What killed the man with blue skin?       Great white sharks munch on whale       
+
+
+
+
+
+  CNN EXCLUSIVE: MEET THE VOICE ON YOUR IPHONE        Say hello to 'Siri'   Susan Bennett says she is the voice of Apple's virtual assistant. Apple won't talk, but Bennett does -- with CNN. FULL STORY          More:    Bennett on her 'Siri' identity       'Siri' comes out on 'New Day'       15 top 'Siri' jokes     Remember the Moviefone guy?      
+  READ THIS, WATCH THAT           Four cops strip woman naked  4:08       FBI says it nabbed online crime kingpin         Shutdown's top dirty name-callers  2:25           See what led to doctor's road rage  3:32       Kaitlyn Hunt pleads no contest         Why you should always stop for trains  :38        Madonna's obsession         Does this video show a snoozing Bigfoot?  :52       Shocking celebrity splits       NFL QBs need to protect themselves         Guy's backflip over ocean goes viral  :44       'Fast & Furious' beauty comes out    
+content.bins.C4 is empty
+content.bins.C5 is empty
+content.bins.C6 is empty
+content.bins.C7 is empty
+
+
+
+
+
+
+
+
+Weather
+
+
+
+
+
+
+Edit location
+Go
+
+
+
+
+
+
+ CALLOUT|http://ads.cnn.com/html.ng/site=cnn&cnn_pagetype=main&cnn_position=143x31_spon1&cnn_rollup=homepage&cnn_section=weather&page.allowcompete=no&params.styles=fs|CALLOUT 
+ ADSPACE: homepage/weather/main/spon1.143x31 
+
+
+ ADSPACE-END 
+
+
+ 
+
+
+
+
+
+
+ CALLOUT|http://ads.cnn.com/html.ng/site=cnn&cnn_pagetype=main&cnn_position=300x250_rgt&cnn_rollup=homepage&page.allowcompete=no&params.styles=fs|CALLOUT 
+ ADSPACE: homepage/main/rgt.300x250 
+
+
+ ADSPACE-END 
+
+
+
+
+
+
+
+
+LIVE TV
+
+
+
+
+
+
+
+<div class="cnn_column cnnNowPlaying">
+<a class="tn" data-bind="click:function(){document.location=$data.link()+'?hpt=hp_livenow_tve_img'}">
+<div class="nowPlaying thumbnail" id="nowPlayingThumbnail">
+<img class="badge" data-bind="attr:{src:thumbnail()}" class="thumb"/>
+<img class="bug" src="http://i.cdn.turner.com/cnn/.e/img/3.0/main/cnntv/on-tv.png" />
+</div>
+</a>
+<div id="infoBox">
+<h4 data-bind="text:title(),click:function(){document.location=$data.link()+'?hpt=hp_livenow_tve_txt'}" class="headline"></h4>
+<span class="airtime" data-bind="text:time(),visible:(isTVE())"></span>
+<span data-bind="text:description126(),visible:(isTVE())" class="description"></span>
+</div>
+</div>
+
+
+
+
+
+
+
+Shows and Schedules
+----------------------------------------
+Today's schedule
+----- CNN Weekdays -----
+Anderson Cooper 360
+CNN Newsroom
+Crossfire
+Early Start
+Erin Burnett OutFront
+The Lead with Jake Tapper
+New Day
+Piers Morgan Live
+The Situation Room
+Starting Point
+Stroumboulopoulos
+----- CNN Weekends -----
+Anthony Bourdain Parts Unknown
+Crimes of the Century
+Fareed Zakaria GPS
+Inside Man
+The Next List
+Reliable Sources
+Sanjay Gupta MD
+State of the Union
+Your Bottom Line
+Your Money
+----- Other CNN -----
+CNN Heroes
+CNN Presents
+CNN Student News
+In America
+Spec. Investigations Unit
+----- HLN -----
+Clark Howard
+Dr. Drew On Call
+Evening Express
+Jane Velez-Mitchell
+Making it in America
+Morning Express with Robin Meade
+Nancy Grace
+Raising America
+Showbiz Tonight
+Weekend Express with Natasha Curry
+What Would You Do?
+
+
+
+
+Full Schedules:  CNN TV · HLN TV
+
+
+
+
+
+
+
+Markets
+
+
+
+
+
+
+Updated 
+12:07 pm EDT Oct 4
+
+My quotes
+Indexes
+
+
+
+
+  left side 
+
+Dow
+
+15,037.10
+
+
+
+(+0.27 %)
+
+
++40.62
+
+
+
+
+  left side 
+
+Nasdaq
+
+3,798.10
+
+
+
+(+0.63 %)
+
+
++23.76
+
+
+
+
+  left side 
+
+S&P
+
+1,685.21
+
+
+
+(+0.39 %)
+
+
++6.55
+
+
+
+
+
+
+
+				
+                    
+                        Get Quotes
+						
+					
+                
+				
+
+
+
+
+CNNMoney.com
+ | 
+NEW: My Portfolio
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+U.S.
+
+
+
+
+
+
+ 
+
+
+ Mars mission in limbo
+
+
+
+ Debate over biker video
+
+ Elderly couple charged in killings
+
+ U.S. expels Venezuelan diplomats
+
+ Gay teen offered 3rd plea deal
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+World
+
+
+
+
+
+
+ 
+
+
+ Qatar: We're no slave state
+
+
+
+ Netanyahu: I'd talk to Rouhani
+
+ Giant hornets wreaking havoc
+ 
+
+ $1 million tossed from plane
+
+ Jellyfish prompt nuclear shutdown
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Politics
+
+
+
+
+
+
+ 
+
+
+ Debt: Dem cheers Boehner
+
+
+
+ Reid explains CNN outburst
+ 
+
+ Congress: Who's keeping paycheck? 
+
+ Woman dead after DC car chase
+
+ Photos: Shooting on Capitol Hill
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tech
+
+
+
+
+
+
+ 
+
+
+ 5 problems with iOS 7, and how to fix them
+
+
+
+ Website maps 1.2 billion Facebook faces
+
+ Apple passes Coke as world's top brand
+
+ The death of the stereo system
+
+ How good is the iPhone 5S camera?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Business
+
+
+
+        What's up with the debt ceiling?     Buffett: Debt politics like 'nuclear' bomb      Twitter is not ready for Wall Street   Why a default threat won't spike rates   A luxurious quarry-turned-pool     
+ subtype found: adTag 
+
+
+
+
+
+ CALLOUT|http://ads.cnn.com/html.ng/site=cnn&cnn_pagetype=main&cnn_position=126x31_spon3&cnn_rollup=homepage&page.allowcompete=no&params.styles=fs|CALLOUT 
+ ADSPACE: homepage/spon3.126x31 
+
+
+ ADSPACE-END 
+
+
+
+
+
+
+
+Opinion
+
+
+
+
+
+
+ 
+
+
+ Drug prohibition a global folly
+
+
+
+ Treat hate crimes with compassion
+
+ NASA shutdown cripples science 
+
+ GOP, don't give up on Latinos
+
+ Is anti-biker bias at work?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CNN BuzzFeed
+
+
+
+ A glimpse into the lives of Somali pirates
+
+ 4 people who really went for it
+
+ 6 ways people found courage
+
+ Dubai: City of extremes
+
+ When celebs get awkward
+
+ Lessons from epic fails
+
+ Frightening facts about sinkholes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Entertainment
+
+
+
+
+
+
+ 
+
+
+ 'Gravity' out of this world
+
+
+
+ 'Scandal': What's to come in season 3
+
+ Celebs who have been homeless
+
+ Sinead to Miley: Put your clothes on
+
+ 'Glee' star's overdose ruled accidental
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Travel
+
+
+
+
+
+
+ 
+
+
+ 10 things to know before visiting Copenhagen
+
+
+
+ 10 amazing American adventures
+
+ World's best airport food
+
+ Flier pleads guilty to slapping crying boy
+
+ 6 ways to explore space from Earth
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Living
+
+
+
+
+
+
+ 
+
+
+ Eek! What a stylish haunt!
+
+
+
+ The new wedding rules
+
+ How to curate your cubicle
+
+ Who will head to toy hall of fame?
+
+ The dish on Copenhagen cuisine
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Health
+
+
+
+
+
+
+ 
+
+
+ In extreme pain, she waits
+
+
+
+ Breast cancer screening FAQs
+
+ You don't need that antibiotic
+
+ Obamacare call center chaos
+ 
+
+ HMO? PPO? How to pick a plan
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Photography
+
+
+
+
+
+ 
+
+
+
+
+
+ The world of men and dolls
+ 
+
+
+
+ Unseen Dorothea Lange
+ 
+
+ Changing the tides
+ 
+
+ The gaming community
+ 
+
+ Kukis of Northeast India
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sports
+
+
+
+
+
+Alex Rodriguez suing MLB
+
+
+Dwight Howard finally comfortable
+
+
+MLB playoff team's manager out
+
+
+Golfer befriends squirrel
+
+
+
+LeBron near 10M Twitter followers
+
+
+Longtime NFL starting QB released
+
+
+Gay slurs from Ole Miss players?
+
+
+Michael Jordan comeback at 50?
+
+
+NFL teams guaranteed to lose
+
+
+
+ subtype found: adTag 
+
+
+
+
+
+ CALLOUT|http://ads.cnn.com/html.ng/site=cnn&cnn_pagetype=main&cnn_position=126x31_spon1&cnn_rollup=homepage&page.allowcompete=no&params.styles=fs|CALLOUT 
+ ADSPACE: homepage/spon1.126x31 
+
+
+ ADSPACE-END 
+
+
+
+
+
+
+
+Sponsored links
+
+
+
+ CALLOUT|http://ads.cnn.com/html.ng/site=cnn&cnn_pagetype=main&cnn_position=230x250_adlinks&cnn_rollup=homepage&page.allowcompete=no&params.styles=fs|CALLOUT 
+ ADSPACE: homepage/main/adlinks.230x250 
+
+
+ ADSPACE-END 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HLNtv.com
+
+
+
+
+
+Mia & Frank + Woody: A history
+
+
+Two-headed calf is born
+
+
+
+Snapchat debuts video
+
+
+What happened to 'Tree man'?
+
+
+
+Is it time for U.S. Government 2.0?
+
+
+
+What's next for Jackson family?
+
+
+Groom's Pinterest proposal is adorable
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mother Nature
+
+
+
+ Bad day? 7 ways to turn it around
+
+ Quiz: Fast-food calorie count
+
+ Climate 'refugee' seeks asylum
+
+ Algae: Bizarre and ... beautiful?
+
+ Lake turns animals into statues
+
+ Google Maps inspires dog rescue
+
+ Hippie creates wind energy empire
+
+
+
+
+
+
+
+
+
+
+
+
+
+Indeed.com Job Search
+
+
+
+
+
+Search 3 million Jobs on Indeed
+
+
+Browse Jobs by Company, Title, or Location
+
+
+Receive Job Alerts by Email
+
+
+View 124k Insurance Jobs
+
+
+Find Marketing Jobs
+
+
+Apply for Health Care Jobs
+
+
+Employers: Post your jobs on Indeed
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Play CNN Games!
+
+
+
+
+
+
+
+Play Mahjongg Dimensions!
+
+Play Tri Peaks Solitaire!
+
+Play now: CNN Jigsaw!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+TV Programs
+----------------------------------------
+Today's schedule
+----- CNN Weekdays -----
+Anderson Cooper 360
+CNN Newsroom
+Crossfire
+Early Start
+Erin Burnett OutFront
+The Lead with Jake Tapper
+New Day
+Piers Morgan Live
+The Situation Room
+Starting Point
+Stroumboulopoulos
+----- CNN Weekends -----
+Anthony Bourdain Parts Unknown
+Crimes of the Century
+Fareed Zakaria GPS
+Inside Man
+The Next List
+Reliable Sources
+Sanjay Gupta MD
+State of the Union
+Your Bottom Line
+Your Money
+----- Other CNN -----
+CNN Heroes
+CNN Presents
+CNN Student News
+In America
+Spec. Investigations Unit
+----- HLN -----
+Clark Howard
+Dr. Drew On Call
+Evening Express
+Jane Velez-Mitchell
+Making it in America
+Morning Express with Robin Meade
+Nancy Grace
+Raising America
+Showbiz Tonight
+Weekend Express with Natasha Curry
+What Would You Do?
+
+
+TV & Video
+
+
+
+
+
+
+<div data-bind="click:function(){document.location=$data.link()+'?hpt=hp_tvvideo'}" class="cnn_column cnnNowPlaying">
+<a class="tn">
+<div class="nowPlaying thumbnail">
+<img data-bind="attr:{src:thumbnail()}" class="thumb"/>
+<span data-bind="text:status()" class="onNow">On Now</span>
+</div>
+</a>
+<div class="gradient_vert"></div>
+<div id="infoBox">
+<h4 data-bind="text:title(),click:function(){document.location=$data.link()+'?hpt=hp_tvvideo'}" class="headline"></h4>
+<span class="airtime" data-bind="text:time(),visible:(isTVE())"></span>
+<span data-bind="text:description126(),visible:(isTVE())" class="description"></span>
+<a data-bind="attr:{href: $data.link()+'?hpt=hp_tvvideo'}" class="button">&nbsp;</a>
+</div>
+</div>
+
+
+
+
+
+
+HLN · Full Schedule
+Must Watch TV
+
+ 
+The Situation Room5pm ET / 2pm PT on CNN
+ 
+Crossfire6:30 ET / 3:30 PT on CNN
+ 
+Erin Burnett: OutFront7pm ET / 4pm PT on CNN
+ 
+AC 3608pm ET / 5pm PT on CNN
+ 
+Piers Morgan Live9pm ET / PT on CNN
+
+
+View Collections
+Trending Video
+
+<ol data-bind="foreach:videos().slice(0,5),visible:(videos().length>0)" class="cnnTrendingVideo">
+<li data-bind="click:function(){document.location=($data.clickbackUrl()+'&hpt=hp_tvvideo')},attr:{title:clickbackUrl}" data-vr-contentbox="">
+<img data-bind="attr:{src:thumbnail}"/>
+<span data-bind="text:headline" class="clipHeadline"></span>
+<span data-bind="text:formatTRT" class="videoTRT"></span>
+</li>
+</ol>
+
+
+
+
+
+
+
+
+
+
+
+        ADSPACE: homepage/main/bot1.300x100 
+ CALLOUT|http://ads.cnn.com/html.ng/site=cnn&cnn_pagetype=main&cnn_position=300x100_bot1&cnn_rollup=homepage&page.allowcompete=no&params.styles=fs|CALLOUT 
+
+
+ ADSPACE-END      ADSPACE: homepage/main/bot2.300x100 
+ CALLOUT|http://ads.cnn.com/html.ng/site=cnn&cnn_pagetype=main&cnn_position=300x100_bot2&cnn_rollup=homepage&page.allowcompete=no&params.styles=fs|CALLOUT 
+
+
+ ADSPACE-END      ADSPACE: homepage/main/bot3.300x100 
+ ADSPACE-END                         Home | Video | CNN Trends | U.S. | World | Politics | Justice | Entertainment | Tech | Health | Living | Travel | Opinion | iReport | Money | Sports Tools & widgets | RSS | Podcasts | Blogs | CNN mobile | My profile | E-mail alerts | CNN shop | Site map | Contact us     CNN en ESPAÑOL | CNN México | CNN Chile | CNN Expansión العربية | 日本語 | Türkçe CNN TV | HLN | Transcripts |    © 2013 Cable News Network. Turner Broadcasting System, Inc. All Rights Reserved. Terms of service | Privacy guidelines | Ad choices | Advertise with us | About us | Work for us | Help CNN Newsource | License Footage           
+jsmd
+
+
+
+/jsmd
+
+ ADSPACE: homepage/main/BG_Skin 
+ ADSPACE-END 
+ CALLOUT|http://ads.cnn.com/html.ng/site=cnn&cnn_pagetype=main&cnn_position=1x1_bot&cnn_rollup=homepage&page.allowcompete=no&params.styles=fs|CALLOUT 
+ ADSPACE: homepage/bot.1x1 
+
+
+ ADSPACE-END 
+
+
+
+
+
+#pmWeather .cnn_adspc88x31
+{
+height:auto;
+}
+

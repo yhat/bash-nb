@@ -1,7 +1,18 @@
+#!/bin/bash
 
 if [ "$#" == "0" ]; then
-  echo 2
+  words=$(while read line
+do
+  echo $line
+done)
 else
-  echo 1
+  words="$@"
 fi
-echo "$@"
+
+
+echo ${words}
+
+for word in ${words}
+do
+  echo $word
+done

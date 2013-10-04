@@ -1,7 +1,7 @@
 #!/bin/bash
 
 if [ "$#" == "0" ]; then
-  words=$(while IFS= read -r line; do printf '%s\n' "$line" done)
+  words=$(while read line; do echo $line; done)
 else
   words="$@"
 fi
@@ -48,7 +48,13 @@ n_words_cat2=$(echo ${cat2_words} | wc -w)
 echo "Prior ${cat1}: ${prior_cat1}"
 echo "Prior ${cat2}: ${prior_cat2}"
 
-for word in $(echo ${words})
+
+echo "     =============================="
+echo "     ==========P(words)============"
+echo "     =============================="
+p_cat1=0
+p_cat2=0
+for word in ${words}
 do
     n_occur_cat1=$(echo $cat1_words | grep -o -E "${word}" | wc -l)
     n_occur_cat2=$(echo $cat2_words | grep -o -E "${word}" | wc -l)
@@ -56,15 +62,32 @@ do
     p_word_cat1=$(echo "scale=10; $n_occur_cat1 / $n_words_cat1" | bc)
     p_word_cat2=$(echo "scale=10; $n_occur_cat2 / $n_words_cat2" | bc)
 
+    p_cat1=$(echo "scale=10; l($p_word_cat1 + 1) / l(10) + $p_cat1" | bc -l)
+    p_cat2=$(echo "scale=10; l($p_word_cat2 + 1) / l(10) + $p_cat2" | bc -l)
+
     p_cat1_word=$(echo "scale=10;${p_word_cat1}*${prior_cat1}" | bc)
     p_cat2_word=$(echo "scale=10;${p_word_cat2}*${prior_cat2}" | bc)
 
     p_word_total=$(echo "scale=10; ${p_cat1_word} + ${p_cat2_word}" | bc)
-    p_cat1=$(echo "scale=10; ${p_cat1_word} / ${p_word_total}" | bc)
-    p_cat2=$(echo "scale=10; ${p_cat2_word} / ${p_word_total}" | bc)
+    p_word_cat1=$(echo "scale=10; ${p_cat1_word} / ${p_word_total}" | bc)
+    p_word_cat2=$(echo "scale=10; ${p_cat2_word} / ${p_word_total}" | bc)
 
-    echo "P(${cat1}|${word})=${p_cat1}"
-    echo "P(${cat2}|${word})=${p_cat2}"
-    echo "=============================="
+    echo "     =============================="
+    echo "===> P(${cat1}|${word})=${p_word_cat1}"
+    echo "===> P(${cat2}|${word})=${p_word_cat2}"
 done
+
+p_cat1=$(echo "scale=10;${p_cat1}*${prior_cat1}" | bc -l)
+p_cat2=$(echo "scale=10;${p_cat2}*${prior_cat2}" | bc -l)
+
+p_total=$(echo "scale=10; ${p_cat1} + ${p_cat2}" | bc)
+p_cat1=$(echo "scale=10; ${p_cat1} / ${p_total}" | bc)
+p_cat2=$(echo "scale=10; ${p_cat2} / ${p_total}" | bc)
+
+echo
+echo "==================="
+echo "Final Probabilities"
+echo "==================="
+echo "P(${cat1})=${p_cat1}"
+echo "P(${cat2})=${p_cat2}"
 
