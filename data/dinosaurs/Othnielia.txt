@@ -1,0 +1,386 @@
+
+
+
+Othnielia - Wikipedia, the free encyclopedia
+
+
+
+
+
+
+
+
+
+
+
+
+a:lang(ar),a:lang(ckb),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:0de201fdea5d684523607ed88007b127 */
+
+
+
+
+[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.22wmf19/skins/vector/csshover.min.htc")}</style><![endif]
+
+		
+		
+		
+			
+			
+						 CentralNotice 
+						Othnielia
+			
+								From Wikipedia, the free encyclopedia
+								
+												
+					Jump to:					navigation, 					search
+				
+				
+
+
+Othnielia
+Temporal range: Late Jurassic, 150Ma
+
+PreЄ
+Є
+O
+S
+D
+C
+P
+T
+J
+K
+Pg
+N
+
+
+
+↓
+
+
+
+
+
+
+
+
+
+Dentary and ilium of Nanosaurus agilis above, left femur of O. rex below
+
+
+Scientific classification 
+
+
+Kingdom:
+Animalia
+
+
+Phylum:
+Chordata
+
+
+Clade:
+Sauropsida
+
+
+Clade:
+Dinosauria
+
+
+Order:
+†Ornithischia
+
+
+Clade:
+†Neornithischia
+
+
+Genus:
+†Othnielia
+Galton, 1977
+
+
+Type species
+
+
+†Nanosaurus rex
+Marsh, 1877
+
+
+Species
+
+
+
+†Othnielia rex (Marsh, 1877)
+
+
+
+Synonyms
+
+
+
+Nanosaurus rex Marsh, 1877
+
+
+
+
+Othnielia is a genus of ornithischian dinosaur, named after its original describer, Professor Othniel Charles Marsh, an American paleontologist of the 19th century. The taxon, Othnielia rex, was named by Peter Galton in 1977 from a species Marsh (1877) called Nanosaurus rex.[1]
+
+
+Contents
+
+
+1 Description
+2 Discovery
+3 Referred specimens
+
+3.1 DMNH 21716
+
+
+4 Footnotes
+5 References
+6 External links
+
+
+Description[edit]
+Without the remains now included in Othnielosaurus, this animal is dubious, and can only be described in generalities based on similar animals. It was relatively small for a dinosaur, at around 1.5 to 2 metres (4.9 to 6.6 ft) long, and 10 kilograms (22 lb) in weight, and an agile bipedal herbivore with proportionally small arms and long legs.[2] Animals of this genus were included in the novel Jurassic Park as "othys", tree-climbing small herbivores, although there is no evidence for this kind of behavior.
+Discovery[edit]
+Remains assigned to Othnielia have been found in Wyoming, Utah, and Colorado in rocks of the Late Jurassic age (Oxfordian-Tithonian) Morrison Formation,[2] but with Galton's 2007 revision of Morrison ornithischians, the only definite remains are YPM 1875 (the holotype femur of "Nanosaurus" 'rex') and possibly some other associated postcranial bits. He considered the femur undiagnostic and thus Othnielia to be a dubious name, and removed two partial skeletons to the new genus Othnielosaurus.[3] It remains to be seen if this will be widely accepted, but this sort of taxonomic decision has much precedent (for example, Marasuchus versus Lagosuchus).
+Referred specimens[edit]
+Only the original holotype of Othnielia and two partial skeletons were specifically dealt with in Galton's paper, leaving unsettled the assignment of several other specimens that have appeared in the literature. Included among these are a nearly complete specimen in the Aathal Museum nicknamed "Barbara",[4] and a dentary (MWC 5822, again referred to O. rex).[5] That Galton considered Othnielia a nomen dubium, means that according to him these other specimens could not be referred to it.
+DMNH 21716[edit]
+Kathleen Brill and Kenneth Carpenter reported a baby ornithopod, possibly Othnielia rex from the Morrison Formation at Garden Park, Colorado.[6] The specimen is speculated to be immature on the basis of its small bones, unfused neural arches, and the ends of its long bones are "spongy and incompletely formed."[6] The specimen is catalogued as DMNH 21716.[7] The skeleton was encased in five blocks of maroon sandstone.[7] If the specimen is truly O. rex, it is about one third the size of a known adult specimen.[8] However, the chronological age of the specimen could not be estimated because Othnielia eggs and hatchlings were unknown.[8]
+Footnotes[edit]
+
+
+^ Marsh (1877). Galton (1977).
+^ a b Foster (2003).
+^ Galton (2007).
+^ Glut (2006). Page 206. Hartman
+^ Pierce (2006).
+^ a b "Abstract," Brill and Carpenter (2001). Page 197.
+^ a b "Introduction," Brill and Carpenter (2001). Page 198.
+^ a b "Discussion," Brill and Carpenter (2001). Page 404.
+
+
+References[edit]
+
+
+
+
+Dinosaurs portal
+
+
+
+
+Brill, K.; and Carpenter, K. (2001). "A baby ornithopod from the Morrison Formation of Garden Park, Colorado". In Tanke, D.H.; and Carpenter, K. (eds.). Mesozoic Vertebrate Life. Bloomington and Indianapolis: Indiana University Press. pp. 197–205. ISBN 0-253-33907-3. 
+Foster, J.R. (2003). Paleoecological Analysis of the Vertebrate Fauna of the Morrison Formation (Upper Jurassic), Rocky Mountain Region, U.S.A. New Mexico Museum of Natural History and Science Bulletin 23.
+Galton, P.M. (1977). The ornithopod dinosaur Dryosaurus and a Laurasia-Gondwanaland connection in the Upper Jurassic. Nature 268: 230-232.
+Galton, P.M. (2007). Teeth of ornithischian dinosaurs (mostly Ornithopoda) from the Morrison Formation (Upper Jurassic) of the western United States. in: Carpenter, K. (ed.). Horns and Beaks: Ceratopsian and Ornithopod Dinosaurs. Indiana University Press: Bloomington, 17-47. ISBN 0-253-34817-X.
+Glut, Donald F. (2006). Dinosaurs: The Encyclopedia, Supplement 4. Jefferson, North Carolina: McFarland & Company, Inc. pp. p. 206. ISBN 0-7864-2295-5. 
+Scott Hartman. "othnielia". Retrieved 2007-01-25. 
+Marsh, O.C. (1877). Notice of new dinosaurian reptiles from the Jurassic formations. American Journal of Sciences (Series 3) 14:514-516.
+Pierce, R.J. (2006). "A nearly complete dentary of the ornithopod dinosaur Othnielia rex from the Morrison Formation of Wyoming". In Foster, J.R.; and Lucas, S.G. (eds.). Paleontology and Geology of the Upper Jurassic Morrison Formation. New Mexico Museum of Natural History and Science Bulletin, 36. Albuquerque, New Mexico: New Mexico Museum of Natural History and Science. pp. 163–164. 
+
+External links[edit]
+
+Othnielia on Thescelosaurus!
+
+
+
+ 
+NewPP limit report
+CPU time usage: 4.636 seconds
+Real time usage: 4.882 seconds
+Preprocessor visited node count: 23363/1000000
+Preprocessor generated node count: 39684/1500000
+Post‐expand include size: 72244/2048000 bytes
+Template argument size: 41373/2048000 bytes
+Highest expansion depth: 39/40
+Expensive parser function count: 1/500
+Lua time usage: 0.066s
+Lua memory usage: 1.58 MB
+
+
+ Saved in parser cache with key enwiki:pcache:idhash:2274034-0!*!0!!en!4!* and timestamp 20131001111601 
+								
+				Retrieved from "http://en.wikipedia.org/w/index.php?title=Othnielia&oldid=568341840"				
+												Categories: Nomina dubiaOrnithischiansJurassic dinosaursDinosaurs of North AmericaMorrison faunaHidden categories: Articles with 'species' microformats												
+							
+		
+		
+			Navigation menu
+			
+				
+	Personal tools
+	
+Create accountLog in	
+
+				
+					
+	Namespaces
+	
+					Article
+					Talk
+			
+
+
+	
+		
+	Variants
+	
+		
+					
+	
+
+				
+				
+					
+	Views
+	
+					Read
+					Edit
+					View history
+			
+
+
+	Actions
+	
+		
+					
+	
+
+
+	Search
+	
+				
+																				
+		
+	
+
+				
+			
+			
+					
+				
+	Navigation
+	
+		
+			Main page
+			Contents
+			Featured content
+			Current events
+			Random article
+			Donate to Wikipedia
+		
+	
+
+
+	Interaction
+	
+		
+			Help
+			About Wikipedia
+			Community portal
+			Recent changes
+			Contact page
+		
+	
+
+
+	Toolbox
+	
+		
+			What links here
+			Related changes
+			Upload file
+			Special pages
+			Permanent link
+			Page information
+			Data item
+Cite this page		
+	
+
+
+	Print/export
+	
+		
+			Create a book
+			Download as PDF
+			Printable version
+		
+	
+
+
+	Languages
+	
+		
+			Català
+			Česky
+			Deutsch
+			Español
+			Français
+			한국어
+			Hrvatski
+			Italiano
+			Magyar
+			Nederlands
+			日本語
+			Polski
+			Português
+			Simple English
+			Srpskohrvatski / српскохрватски
+			中文
+			
+			Edit links
+		
+	
+
+			
+		
+		
+							
+											 This page was last modified on 13 August 2013 at 11:06.
+											Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. 
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+									
+							
+											Privacy policy
+											About Wikipedia
+											Disclaimers
+											Contact Wikipedia
+											Developers
+											Mobile view
+									
+										
+					
+						
+					
+					
+						
+					
+				
+						
+		
+		
+
+
+ Served by mw1112 in 0.247 secs. 
+	
+if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Othnielia","wgTitle":"Othnielia","wgCurRevisionId":568341840,"wgRevisionId":568341840,"wgArticleId":2274034,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with 'species' microformats","Nomina dubia","Ornithischians","Jurassic dinosaurs","Dinosaurs of North America","Morrison fauna"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Othnielia","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgVectorEnabledModules":{"collapsiblenav":true,"experiments":true},"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"templateEditor":false,"templates":false,"preview":false,"previewDialog":false,"publish":false,"toc":false},"wgArticleFeedbackv5Permissions":{"aft-reader":false,"aft-member":false,"aft-editor":false,"aft-monitor":false,"aft-administrator":false,"aft-oversighter":false,"aft-noone":false},"wgVisualEditor":{"isPageWatched":false,"magnifyClipIconURL":"//bits.wikimedia.org/static-1.22wmf19/skins/common/images/magnify-clip.png","pageLanguageCode":"en","pageLanguageDir":"ltr"},"wikilove-recipient":"","wikilove-anon":0,"wgGuidedTourHelpGuiderUrl":"Help:Guided tours/guider","wgULSAcceptLanguageList":[],"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia","aftv5Article":{"id":2274034,"title":"Othnielia","namespace":0,"categories":["Articles with 'species' microformats","Dinosaurs of North America","Jurassic dinosaurs","Morrison fauna","Nomina dubia","Ornithischians"],"permissionLevel":false},"wgWikibaseItemId":"Q131783"});
+}if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":false,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,
+"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"useeditwarning":1,"prefershttps":1,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"vector-simplesearch":1,"vector-collapsiblenav":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"aftv5-last-filter":null,"visualeditor-enable":0,"visualeditor-enable-experimental":0,"visualeditor-betatempdisable":0,"wikilove-enabled":1,"echo-subscriptions-web-page-review":true,"echo-subscriptions-email-page-review":false,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"echo-notify-show-link":true,"echo-show-alert":true,"echo-email-frequency":0,"echo-email-format":"html","echo-subscriptions-email-system":true,"echo-subscriptions-web-system":true,"echo-subscriptions-email-other":false,"echo-subscriptions-web-other":true,"echo-subscriptions-email-edit-user-talk":false,"echo-subscriptions-web-edit-user-talk":true,
+"echo-subscriptions-email-reverted":false,"echo-subscriptions-web-reverted":true,"echo-subscriptions-email-article-linked":false,"echo-subscriptions-web-article-linked":false,"echo-subscriptions-email-mention":false,"echo-subscriptions-web-mention":true,"echo-subscriptions-web-edit-thank":true,"echo-subscriptions-email-edit-thank":false,"gettingstarted-task-toolbar-show-intro":true,"uls-preferences":"","language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs446":false,"searchNs447":false
+,"searchNs710":false,"searchNs711":false,"searchNs828":false,"searchNs829":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-mySandbox":1,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:156d8fe0ae17f8afd74198057563e45d */
+}if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","ext.visualEditor.viewPageTarget.init","ext.wikimediaShopLink.core","ext.uls.init","ext.uls.interface","wikibase.client.init","ext.centralNotice.bannerController","skins.vector.js"]);
+}/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}if(window.mw){
+mw.loader.load(["mobile.desktop","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.cite","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","mw.MwEmbedSupport.style","ext.vector.collapsibleNav","ext.articleFeedbackv5.startup","ext.gettingstarted.logging","ext.gettingstarted.openTask","schema.HttpsSupport","ext.coreEvents.httpsSupport","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","mw.PopUpMediaTransform"],null,true);
+}

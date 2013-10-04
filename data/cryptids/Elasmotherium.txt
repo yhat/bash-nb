@@ -1,0 +1,1096 @@
+
+
+
+Elasmotherium - Wikipedia, the free encyclopedia
+
+
+
+
+
+
+
+
+
+
+
+
+a:lang(ar),a:lang(ckb),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:0de201fdea5d684523607ed88007b127 */
+
+
+
+
+[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.22wmf18/skins/vector/csshover.min.htc")}</style><![endif]
+
+		
+		
+		
+			
+			
+						 CentralNotice 
+						Elasmotherium
+			
+								From Wikipedia, the free encyclopedia
+								
+												
+					Jump to:					navigation, 					search
+				
+				For other uses of "Sibiricum", see Sibiricum (disambiguation).  For other uses of "Caucasicum", see Caucasicum (disambiguation).
+
+
+
+Elasmotherium
+Temporal range: Late Pliocene to Late Pleistocene
+
+
+
+
+
+Elasmotherium sibiricum skull cast at the Museum für Naturkunde, Berlin
+
+
+Scientific classification
+
+
+Kingdom:
+Animalia
+
+
+Phylum:
+Chordata
+
+
+Class:
+Mammalia
+
+
+Infraclass:
+Eutheria
+
+
+Order:
+Perissodactyla
+
+
+Suborder:
+Ceratomorpha
+
+
+Superfamily:
+Rhinocerotoidea
+
+
+Family:
+Rhinocerotidae
+
+
+Genus:
+†Elasmotherium
+J. Fischer, 1808[1]
+
+
+Species
+
+
+
+
+†E. caucasicum
+†E. chaprovicum
+†E. sibiricum (type species)
+
+
+
+
+
+Elasmotherium ("Thin Plate Beast") is an extinct genus of giant rhinoceros endemic to Eurasia during the Late Pliocene through the Pleistocene, documented from 2.6 Ma to as late as 50,000 years ago, possibly later, in the Late Pleistocene, an approximate span of slightly less than 2.6 million years. Three species are recognised. The best known, E. sibiricum was the size of a mammoth and is thought to have borne a large, thick horn on its forehead which was used for defense, attracting mates, driving away competitors, sweeping snow from the grass in winter and digging for water and plant roots. Like all rhinoceroses, elasmotheres were herbivorous. Unlike any others, its high-crowned molars were ever-growing. Its legs were longer than those of other rhinos and were designed for galloping, giving it a horse-like gait.
+
+
+Contents
+
+
+1 Discovery
+2 Description
+
+2.1 Morphology
+2.2 Diet
+2.3 Dentition
+2.4 Habitats
+2.5 Cursorial distal limbs
+2.6 Horn morphology
+
+
+3 Taxonomy
+
+3.1 Classification within the rhinoceros family
+3.2 Species
+
+
+4 Evolution
+
+4.1 Evolution of Rhinocerotidae
+4.2 Evolution of grassland
+
+
+5 Possible historical witnesses
+
+5.1 Eastern Eurasia
+5.2 Western Eurasia
+
+
+6 See also
+7 Notes
+8 References
+9 External links
+
+
+Discovery[edit]
+
+
+
+
+The "Moscow mandible", holotype of E. sibiricum
+
+
+The fossil received its name from Johann Fischer von Waldheim,[2] the Dirécteur Perpétuel of the Natural History Museum, Moscow University, at a presentation before the Societé Impériale des Naturalistes in 1808. The next year in the Mémoires of the society he reported what he had said in the Programme d'invitation:[3]
+
+Elasmotherium is an animal with an elongated head without incisors or canines, with 5 molars on each side [made] from sinuous layers.[4]
+
+Then he noted on his derivation of the name:
+
+From the Greek word ἐλασμος [elasmos], layer, to designate the layered form of the molar teeth.[5]
+
+All he had before him was one lower jaw donated to the museum by Yekaterina Romanovna Vorontsova-Dashkova, which he named Elasmotherium sibiricum, lamenting that it was the sole species of which he knew. The molars, the only teeth in the jaw, had formed in layers like tree rings, except the "rings", or lamellae, were highly corrugated. The edges in the grinding surface were elaborately sinuous to better break down the grasses on which the animal fed.
+Description[edit]
+
+
+
+
+One example of a restoration.
+
+
+Various theories of Elasmothere morphology, nutrition and habits have been the cause of wide variation in reconstruction. Some show the beast trotting like a horse with a horn; others hunched over with head to the ground, like a bison, and still others immersed in swamps like a hippopotamus. The use of the horn and whether or not there was one, and how large, have been popular topics. The statistical correlations of modern paleontology have taken much of the speculation out of the subject, although some details remain undetermined.
+Morphology[edit]
+The known specimens of E. sibiricum reach up to 4.5 m (15 ft) in body length with shoulder heights over 2 m (6 ft 7 in) while E. caucasicum reaches at least 5 m (16 ft) in body length with an estimated mass of 3.6–4.5 tonnes (4–5 short tons), based on isolated molars that significantly exceed those known from the Siberian species.[6] Both species were among the largest in the family Rhinocerotidae, comparable in size to the woolly mammoth and larger than the contemporary woolly rhinoceros.[7][8] The feet were unguligrade, the front larger than the rear, with 4 digits at the front and 3 at the rear.[9]
+Diet[edit]
+Herbivores can be divided into two general groups on the basis of nutrition, which grade into each other morphologically: "foregut fermenters" and "hindgut fermenters". The border region is correlated to bulk: up to 600 to 1,200 kilograms (1,300 to 2,600 lb) are the former; over it, the latter. In foregut fermentation the animal must "browse" to select the most nutritious plants and then ruminate to make up for the shorter digestive tract. The hind-gut fermenters are "bulk-feeders": they ingest large quantities of low-nutrient food, which they process for a longer time in a much longer intestine. The main food in that category is grass, indicating that Elasmotherium, like the elephants, was probably a grassland "grazer" moving over long distances to take advantage of the growth phases of grass in different regions.[10] The standard is not without exception, as Indricotherium, the largest land mammal ever, with a weight of 15–20 tons, subsisted by browsing the treetops.
+There are also paleontological indications of the grazing. In general, the normal position of the head can be determined by the angle between a vertical plane coinciding with the occiput of the cranium, which is always vertical, and a plane through the base of the cranium. A right or acute angle would indicate a head held high for browsing leaves at various heights. Elasmotherium had the most obtuse angle of the Rhinocerotids. It could only reach the lowest levels and therefore must have grazed habitually.[11] This morphological feature favors the identification of the one-horned beast depicted in Rouffignac Cave (shown in this article) as Elasmotherium and lends some validity to the bison-like restorations based on it.
+Dentition[edit]
+
+
+
+
+Side view of skull and reconstructed horn
+
+
+A third type of evidence that Elasmotherium was a grazer is that of tooth wear and morphology. Like all Rhinocerotidae, E. had cheek teeth evolved for herbivory: two premolars and three molars (originally taken for five molars), no incisors, no canines.[12] Where some of the browsers kept the incisors in the form of tusks, E, had instead a spoon-like symphysis, or tip, of the lower mandible and a rostrum, or beak, of the upper, which served as a bony basis for a soft-tissue labial grasping and tearing mechanism.[13] Grass, a very tough, fibrous material, contains phytoliths, microscopic granules mainly of silica, which act as sandpaper on the molars of grazers. Their response in geologic time is to evolve cheek teeth with large crowns (hypsodonty). There appears to be a correlation between grazing and hypsodonty:[14]
+
+As a general rule, extant herbivores with low-crowned teeth are predominantly browsers and species with high-crowned teeth are predominantly grazers.
+
+Vladimir Onufryevich Kovalevsky first proposed a connection between hypsodonty and grazing for horses in 1873.[15] Since then the concept has been expanded to all mammalian grazers at any time and has further been elaborated into hypsodonty or proto-hypsodonty and hypselodonty or euhypsodonty.[16] The euhypsodonts, of which, surprisingly for its bulk, E. was one,[17] have ever-growing high-crowned teeth. Most other examples are to be found among diminutive mammals such as Rodentia, which already casts doubt on the correlation, as they do not generally graze grass.
+Teeth form from the top down through the deposition of enamel on a cement core by formative soft tissue in the jaw. The enamel of hypsodont Perissodactyla is highly rugose rather than sharp. In brachydont species, such as humans, when the crown is complete, the roots are deposited and finally the completed tooth erupts. Hypselodonty is a condition of tooth eruption and continued crown formation before a delayed root formation. In its most developed variety, the roots never form. Only rare fossils of E. show any sign of a root, and that on a premolar. No molars have roots, or, in the terminology of some, the roots are "open".
+Habitats[edit]
+
+
+
+
+Restoration of possible habitat
+
+
+If all grazers are hypsodont, not all hypsodonts are grazers. The supposed correlation between grass-eating and hypsodonty proved difficult to support in a number of instances. Koenigswald, for example, pointed out that hypsodonty had occurred among the Gondwanatheria of the Mesozoic, a group of mammals so primitive that he describes their cheek teeth as "molariform", as they are neither clearly molars nor premolars.[18] Molariform hypsodonty "cannot be correlated with a grass diet, since grasses were not present". Instead he suggests for his example, Sudamerica ameghinioi, that it lived a "semiaquatic and perhaps a burrowing way of life". Modern species provide many examples from beavers to hippopotamuses.
+Attempts have been made to link the wear on Elasmotherium teeth to grazing. In 1938, H.E. Wood, a Rhinocerotid tooth specialist, pointed out that interproximal wear, or loss of tooth surface between teeth, due to abrasion during mastication, of Elasmotherium is similar to that of the white rhinoceros, the only remaining Rhinocerotid grazer, which has hypsodont teeth.[19] Data such as this led to an intuitive concept of some sort of correlation between grass-eating and hypsodonty, but it has been difficult to isolate mathematically.
+A 2007 study by Mendoza and Palmqvist compared the habitats and diets of 134 species of living ungulates, for which this data is known, both Artiodactyla and Perissodactyla, against "thirty-two craniodental measurements" to discover what correlations exist for the group studied and to test hypotheses concerning hypsodonty and mode of life.[20] Habitats considered were open (savanna, deserts), mixed (wooded savanna, brush) and closed (riverine and forest). Diets considered were grazing, mixed grazing and browsing, browsing, omnivory and special niches, such as treetop browsing. Measurements included the Hypsodonty Index (HI) and Muzzle Width (MZW). The results showed that, except for the "high-level" browsers, hypsodonty is correlated to "open and mixed habitats". The HI was not precise enough to discriminate between open and mixed. However, high MZW is correlated to grazing in the open category, although some forest species also have wide muzzles. Grazers therefore are distinguished by a combination of high-crowned cheek teeth and wide muzzles, both of which are possessed by Elasmotherium. Life in the open is implied.
+Cursorial distal limbs[edit]
+The preponderance of evidence is that Elasmotherium, as far as is known now, was a grassland grazer. It is in this context that Deng and Zheng, experts in the few surviving leg bones, conclude, concerning the morphology of the legs:[21]
+
+Combined with hypsodont cheek teeth with much cement and strong enamel plication, the slender distal limb bones of E. caucasicum indicate that it is cursorial and dwells in an open steppe as a typical grazer.
+
+By distal they mean "furthest outward"; that is, the extremities. Cursorial animals are unequivocally "runners" although the authors did not examine what sort of gait scientifically should be proposed as "running". They selected caucasicum for study because of the availability of a few dozen limb bone fragments from Nihewan, China. These made possible a selective comparison with the fewer bones remaining of other fossil rhinocerotids. In comparison with them, the long legs of Elasmotherium. are the most derived; that is, the others did not have the same cursorial capabilities. The authors approach but do not solve the problem of how to reconcile the weight with the supposed mobility. They say elsewhere in the article that the legs of caucasicum are to be distinguished from those of other fossil Rhinocerotids at Nihewan by their "enormous size".[22]
+The white rhinoceros at an estimated weight of 2.5 ton[ambiguous] has been photographed galloping at a speed of about 30 km/h (19 mph). In a gallop, all feet are off the ground ("ballistic phase") twice a cycle, a feat that elephants, at 2.5-11 ton, cannot perform. They can walk up to 20 km/h (12 mph); however, their straight, relatively inflexible legs are those of striders, not the bent and spring-like legs of gallopers, which utilize haunches, ankle mobility and knee flexion to spring off the ground on alternative legs of a pair. Elasmotherium legs are sufficiently like those of the White Rhino to hypothesize a similar gait even though Elasmotherium weighed 4.5-5 ton.[23]
+Horn morphology[edit]
+
+
+
+
+First published restoration (1878) of E. sibiricum, by Rashevsky, under supervision of A.F. Brant
+
+
+The Ceratomorpha are so-called because their families, such as the Rhinocerotidae, of which Elasmotherium is undisputably one, are characterized by the presence of hooves, or horns and hooves, made of keratin, the same substance of which hair is made. These keratin structures appear to have formed in the Mesozoic, a remnant in humans being the nails. A keratin horn is to be distinguished from a bone horn and a tusk. Bone forms the base of most horns but in some cases the horn is entirely of bone. A tusk is a modified canine or incisor tooth. Rhinocerotidae have had tusks, but not Elasmotherium. Two open questions are whether they were horned or hornless, hairy or hairless. Most Rhinocerotidae have and have had horns, but there are some instances of hornlessness, and most are or were hairy, such as the Wooly Rhinoceros, but no instances of hair or horn have yet been found for Elasmotherium. Only circumstantial evidence of them exists.
+The main evidence suggestive of a horn on Elasmotherium is a frontal protuberance, which struck the attention of the late 19th century paleontologists and was immediately interpreted as the bony basis for a horn by most investigators from that time forward. A skull of E. sibiricum from the Volga region (cast shown in this article's lead picture) described by Alexander Brandt in the Russian journal, Niwa, and reported in Nature in 1878 offers the following description of the protuberance: hemispherical, 5 inches (13 cm) deep, furrowed surface, circumference of 3 feet (0.91 m). The furrows are interpreted as the seats of blood vessels for the tissues that generated the horn:[24]
+
+The whole analogy with the rhinoceros points with the greatest certainty to the previous existence of a horn, which, to judge from the size of the blood vessels once encircling the base, must have possessed enormous dimensions.
+
+Brandt was already familiar with the legend of a unicorn among the Tatars of Siberia with a horn so large it required a sledge for transport, and made the connection in interpreting the bump as the base of a horn. He also interpreted the rostrum of the upper mandible as the basis of a nasal horn, a hypothesis now rejected in favor of the cropping labia. In any case the non-circular base indicates a section through the horn would not have been circular. This possibility is supported by another fossil with a non-circular partially healed puncture wound in the base, chiefly interpreted as the result of dueling other males with the horn.[13]
+The ungulates typically combine keratin and bone in various structures. If horns are keratinous, they have a bone core. Rhinocerotids horns, however, are uniquely derived. Hieronymus, an expert in Rhinoceros dermatology, says:[25]
+
+... extant rhinocerotids are unique in possessing a massive entirely keratinous horn that approximates the functions of keratin-and-bone horns such as those of bovid artiodactyls ...."
+
+He defines rhinocerotid horns as:
+
+... cylindrical blocks of constantly growing cornified papillary epidermis.
+
+This tissue is "strikingly convergent" with other "cornified epidermis" in horses, cetaceans, artiodactyls and birds. The horn is not attached to the bone of the boss but grows from the surface of a dense dermal tissue. The top layer keratinizes itself to form tubules about 1-2 millimeter high, the cells of which then die. The next layer forms below it.[26] As the layers age the horn loses diameter by degradation of the keratin due to ultraviolet light, desiccation and mechanical wear from contact with objects and agonistic behavior.[27] However, melanin and calcium deposits in the center harden the keratin there, causing differential wear and shaping of the horn.[28]
+The dermis generating the horn is anchored to the boss by interpenetration between rugosities – various irregularities of bone, which it creates by deposition.[29] This tissue is a specialization of dermal armor, which, whenever it attaches to bone, deposits the rugosities to strengthen the attachment. The author states that rugosity is "a bony signature of dermal armor".[30] Cranial rugisoty is an indication, but not a sure sign, of a horn. If, on the other hand, an annular (ring-shaped) pattern is visible in the rugosity, it is due to "stress concentration at the edges of horns" and is "the signature for epidermal horns".
+Hieronymus found annular rugosities in all living and some fossil Rhinocerotidae. The rings had previously been noted on additional fossils. To date Elasmotherium has not been examined for rings under lighting designed to show them up; however, based on the observations of other paleontologists, the author says "squamosal rugosity" is the "most pronounced cranial rugosity in the elasmotherine lineage".[31] This fact suggests an especially firm attachment was required, which, combined with the extraordinarily large hump of muscle for managing the head, suggest a large and heavy horn. In the early 19th century the state of the fossils had not yet revealed the presence of a horn. By 1910 and for all the time since then the paleontologists have not ventured a mathematical estimate but have preferred to refer to the horn as immense, enormous, great or huge. As the size and shape of the horn depended on the concentration of melanin and calcium, and no known indicator of those remains, any further estimate of horn morphology is purely speculative.
+In 1968 Björn Kurtén's The Age of Dinosaurs pronounced, without a clue of the reasoning followed, that Elasmotherium "carried a single frontal horn two meters in length".[32] This figure is often repeated in non-technical books and articles, as it is the only one available. The number is speculative, but coincidentally it happens to be the shoulder height of E. sibiricum. If in fact Elasmotherium swept snow with the horn, or excavated holes in the terrain with it, the length can hardly have been less to reach the ground.
+Taxonomy[edit]
+
+
+
+
+Sculpture
+
+
+The genus is known from hundreds of find sites, mainly of cranial fragments and teeth, but in some cases nearly complete skeletons of post-cranial bones, scattered over Eurasia from Eastern Europe to China. For example, Kazakhstan alone has 30 sites of E. sibiricum.[33] Dozens of crania have been reconstructed and given archaeological identifiers. The division into species is based mainly on the fine distinctions of the teeth and jaws and the shape of the skull.[34] The finds can be dated only by context.
+Classification within the rhinoceros family[edit]
+The classification of all the species and genera of the Rhinoceros family below the level of Rhinoceratidae has changed more rapidly in the first decade of the 21st century due to first the continued discovery of fossils representing new species and genera from China and Mongolia and second the number of points of morphology to be compared in computerized phylogenetic analysis. Two branches are generally recognized, that leading to the smaller Rhinoceroses and the Pliocene/Pleistocene branch of the larger elasmotheres. Both began from small species in the steppes of the Far East, but those in turn are comparable to North American species. Whether the branch point is considered to be at the subfamily level (Elasmotheriinae versus Rhinocerotinae) or at the tribe level (Elasmotheriini versus Rhinocerotini, the currently accepted[citation needed] version) or whether the elasmotheres existed at the subtribe level (Elasmotheriina, a discontinued taxon) is a matter of the status quo in publications, fossils and software programs.
+In 2002 P. O. Antoine performed a cladistic analysis using 282 "cranial, dental and postcranial characters"[35] of 28 "terminal taxa"[36] of "elasmotheriines from China and Mongolia" and four outgroups. He found that the elasmotheres were a monophyletic group. He says:
+
+The main characters of derived elasmotheres (huge size, frontal horn, ossified nasal septum, enamel folding, hypsodonty, loss of anterior dentition, lengthening of the molar series ...) are absent in Middle Miocene Elasmotheriina from China and Mongolia. Most of these features appear somewhat later, during the Late Miocene or the Pliocene, in Parelasmotherium, Sinotherium and then Elasmotherium.
+
+Antoine was following the now discontinued practice of considering the Miocene ancestral species as elasmotheres. They were not, however, distinguished by the features of an elasmothere. The original ancestors were "minute brachydont animals". Elasmotherium was a "mammoth-sized hypsodont". In his view,
+
+Such cranio-dental evolution demonstrates unequivocally the increasing proportion of grass-eating in the elasmotherine diet throughout the Middle Miocene.
+
+V.A. Terjaev in 1948 had a different view of the cause of the hypsodonty, maintaining that it was caused by the heavier grains in soil on plants pulled from moister environments, and that consequently Elasmotherians lived in "riparian biotopes".[37] Noskova points out that Elasmotherium's diet was comparable to that of the concurrent Archidiskon, which ranged over both steppe and riverland.
+Species[edit]
+Elasmotherium is believed to have descended from the Late Pliocene genus of Central Asia, Sinotherium. Elasmotherium is thought to be the most derived genus of elasmothere, with E. caucasicum in turn being more derived than E. sibiricum.[38] The two Chinese fossils, formerly considered distinct species, E. inexpectatum and E. peii, defined by Chow in 1958, have been sunk into E. caucasicum.[39] They were found in northern China from the Early Pleistocene Nihewan Faunal Assemblage (from the same valley as nearby Nihewan in Shanxi Province) and were extinct at approximately 1.6 Ma.[37]
+
+
+
+
+Elasmotherium caucasicum
+
+
+E. caucasicum, defined by Borissjak in 1914, flourished in the Black Sea region, as a member of the Early Pleistocene Tamanian Faunal Unit (1.1–0.8 Ma, Taman Peninsula). However, an elasmotherian species turned up in the preceding Khaprovian or Khaprov Faunal Complex, which was at first taken to be E. caucasicum,[40] and then on the basis of the dentition was redefined as a new species, E. chaprovicum (Shvyreva, 2004), named after the Khaprov Faunal Complex.[34] The Khaprov is in the MIddle Villafranchian, MN17, which spans the Piacenzian of the Late Pliocene and the Gelasian of the Early Pleistocene of Northern Caucasus, Moldova and Asia and has been dated to 2.6–2.2 Ma.[41]
+E. sibiricum, described by Johann Fischer von Waldheim in 1808 and chronologically the latest species of the sequence, coming from E. caucasicum in the Middle Pleistocene, ranged from southwestern Russia to western Siberia and southward into Ukraine and Moldova. It appears in the Middle Pleistocene Khazar Faunal Complex of the Sea of Azov region, which has "no exact stratigraphic situation".[42]
+The end of the elasmotheres is questionable; new evidence continues to turn up. The latest is from two caves in southern Siberia, a E. sibericum tooth in Smelovskaya Cave 11[43] and remains from Batpak,[44] both associated with Middle Pleistocene relict species, including large herbivores and predators. They must have been dragged into the caves by some predator, perhaps even modern man. The elasmothere tooth and one of a cave hyena from Smelovskaya were carbon dated to slightly greater than 50,000 BP in the Late Pleistocene.[45] A recent study of relict Late Pleistocene remains in the Beringia region (Alaska, Eastern Siberia) identified a pattern of "imbedded micrometeorites" consistent with a space impact event similar to the Tunguska event of 1908, only carbon-dated to 37,000 BP. A Siberian Elasmotherium skull in a museum was found to have this pattern.[46]
+Evolution[edit]
+The evolution of Rhinocerotidae follows a very similar pattern to the evolution of the Equidae, both being facets of the evolution of mammalian herbivores during the Cenozoic. The overall pattern is based on the evolutionary development of grass and grassland, and further the changing distribution of C3 and C4 types of plant metabolism, so-called because they generate a molecule containing 3 or 4 Carbon atoms by different metabolic pathways (sequences of chemical reactions).
+Evolution of Rhinocerotidae[edit]
+The Rhinocerotoids of the early Eocene and subsequently the Hyracodontidae and Amynodontidae show no sign of dermal armor or horns. The oldest known genus of Rhinocerotids, or true rhinoceroses, is Teletaceras from the Middle Eocene of North America and the Late Eocene of Asia. Due to the timing of bridges, it does not appear in South America.[47] It features the first known Rhinocerotid tusks, a derived feature, which are still extant in three species and are "the primary offensive weapons" of those species. They appear to have been sexually dimorphic features convergent with the development of tusks in pigs, hippopotamuses and elephant seals.[48]
+The first dermal armor is indicated by cranial rugosity on Trigonias osborni, Late Eocene, 42-32 Mya. It appears more developed in Subhyracodon, early Oligocene, 33 Mya, both of North America.[49] There appears to have been a correlation between the tusks and the armor later (4 Mya later) defending against them.[50]
+Having begun to diversify (increase in species and genera) in America the Rhinocerotids spread rapidly over Beringia when that bridge appeared in the Early Oligocene to Eurasia, where subsequently they became highly diverse. The family reached a maximum floruit in the Miocene. At that time they entered Africa, but never were very diverse there. In the Pliocene they declined, disappearing from America. The Pleistocene brought extinction from Eurasia but African and Southeast Asian species survived.[47]
+Elasmotherium appeared in the Late Pliocene, apparently deriving from the Miocene—Pliocene Sinotherium, sometimes informally aggregated with it. Sinotherium in turn appeared to be related to Iranotherium; that is, Elasmotherium was believed to have been an iranotheriine. A 1995 cladistic analysis by Cerdeño asserted that Elasmotherium was most closely related to Coelodonta, the "Wooly Rhinoceros", whose soft-tissue corpus has been found in a few locations. By implication, Sinotherium was not an iranothere.[51] However, Antoine's 2002 analysis reaffirmed that the elasmotheriine line was iranotheriine. Certainty concerning the exact line of descent remains elusive; fossils and techniques of the future will perhaps resolve it.
+Evolution of grassland[edit]
+
+
+
+
+Pair of E. sibiricum
+
+
+C3 plant metabolism was chronologically first. It requires large amounts of water (which is lost through transpiration), moderate temperatures and moderate sunlight. About 95% of plants are C3. In places where the water supply is minimal, the temperature is too high, or the sunlight too bright, C3 plants cannot thrive, but C4 metabolism evolved at multiple locations convergently within the same families by a slight alteration of the metabolic process. It requires a fraction of the water, and thrives in warmer environments and bright sunlight. C4 plants spread where C3 plants must decline. About 5% of the Earth's plants are C4, far less than for grasses, for which the number is 46%.
+The grass of grasslands belongs predominantly to the Poaceae family, also called the "true grasses". Species can be divided into "warm season grasses", which utilize C4, and "cool season grasses", which utilize C3. The evolution of grasses preceded the evolution of grasslands, which were created by the spreading of grasses from the forest onto the plains in the Miocene. These initial grasslands were C3, which happen to be more nutritious than C4 species.[52]
+The evolution of Rhinocerotidae and Equidae in the Miocene grasslands proceeded along parallel lines from similar causes. Diminutive, cursorial, browsing, brachydont species expanded their ranges from the Oligocene forests into the nutritious C3 Miocene grasslands and there over the millions of years of the Miocene evolved diverse and flourishing populations on the ample food supply, gradually increasing in size.[53] Some of these species exploited the grazing niche. Hispanotherium, Chilotherium and Teleoceras "show a clear tendency to hypsodonty, and a grazing feeding adaptation has usually been attributed to them."
+By the late Miocene, C4 metabolism was well established on the plains. In place of the prehistoric C3 grasslands (which are no longer extant) was the savanna, today's subtropical mixture of grasses and sedges. The deciding factors in this turn of evolution were a documented increase in temperature and aridity over the period. Faced with scant nutrition from browsing, the smaller Rhinocerotidae and Equidae declined in diversity, the gate in that direction, so to speak, now being closed.[54]
+The evolutionary response in the Pliocene was in the direction of bulk-feeding. Massive grazers, such as Elasmotherium, maximally hypsodont, moved across vast ranges consuming C4 grass in bulk. While the horses and other more nearly modern grazers could rely on galloping for mobility in any circumstance, there is a question as to what degree the brachypodial giants can be said to be "cursorial". Elephants, for example, must keep one foot on the ground, where true gallopers are entirely off it for brief intervals. The horns and impenetrable body armor insured that the giants would not be required to gallop away for any predator. At least until the arrival of man, they were, as the legends relate, lords of the savanna.
+Possible historical witnesses[edit]
+Legends and names referring to a special type of unicorn or mysterious beast with one horn, as opposed to the delicate imaginary unicorns of Europe based on narwhal horns, are scattered across the former range of Elasmotherium from China to Eastern Europe. They have been noted there since the first known literature of the Middle Ages.
+Eastern Eurasia[edit]
+The Chinese k'i-lin, referring to some sort of beast, was loaned in various forms into the Turkic and Mongolic languages and lore.[55] The writers of works in those languages have not known how to depict these strange beasts. A common theme is that they have a single horn, are dark and are huge.
+
+
+
+
+Restoration by Heinrich Harder from ca. 1920
+
+
+For example, a book of divination in the Old Turkic language uses kälän käyik, "tawny beast", (the kilin is altered to kälän by vowel harmony). The Han I Araha Manju Gisun I Buleku Bithe, "Mirror of the Manchu Language", dating from the 18th century, defines the kilin as[56]
+
+... a quadruped with the body of a deer, the tail of a cow, the head of a sheep, the limbs of a horse, the hooves of a cow, and a big horn. His body is of five colors, his height a dozen feet. Of a gentle nature, he does not crush the worms or break the plants.
+
+The Chinese had other unicorns, such as the Xiezhi, but the latter was less like a real animal and more a symbolic figure. It had the ability to discriminate right from wrong and therefore a representation of it was placed in the courtrooms of the Han Dynasty and, in the 3rd and 4th centuries, on the caps of judges. It looks like a seated or standing lion with a horn rising from the top of the head. In contrast to this mythical beast, the k'i-lin is presented as an animal actually caught by hunting parties of the past. The Shiji ("Historical Records") of Sima Qian in the 2nd century mentions the capture of a "deer-like" animal with one horn in 122 BC. The Chunqin, an encyclopedia of the 3rd century BC, states that a unicorn was captured in 481 BC, but without any description. Chinese representations of unicorns vary quite a lot, but an engraving on a bronze vessel of the Warring States period shows an animal very like the cave paintings supposed to be of Elasmotherium: head down for grazing, horn protruding horizontally from the forehead, neck and shoulders humped.[57]
+In the northeast of the range, in 1866 Vasily Radlov reported a legend among the Yakuts of Siberia of a "huge black bull" killed by spear, who had "a single horn" so large it required a sledge for transportation. In 1878 A. F. Brandt suggested the beast was an Elasmotherium.[58]
+Western Eurasia[edit]
+
+
+
+
+Paleolithic art from Rouffignac Cave, France, judged on the basis of the single horn to depict Elasmotherium by Schaurte in 1964 and again independently by N. Spassov in 2001. If true, the judgement would extend the range to Western Europe.[59]
+
+
+
+
+
+
+E. sibiricum restoration
+
+
+From medieval northern Russia, probably Veliky Novgorod, a collection of ballads has survived, combined into a spiritual theme deriving ultimately from Zoroastrianism, but with Christian overtones, called the Stikh o Golubinoi knige, or in another version the Golubinaia kniga, "The Book of the Dove".[60] The "dove", or golub of the Christian work is probably an alteration of glub, "depth", so that the reconstructed name, *Glubinnaia kniga, is on the same theme as the Zend Avesta and similar works in Iran, the struggle between cosmic good and evil.[61]
+The force of pravda, or "rightness", is symbolized by a beast called mainly the Indrik, but also Indra, Beloiandrikh, Kondryk, Edinrog and Edinor.[62] The name is a calque: Greek mono-keros ("single-horn") > ino-rog (in, "one"; rogom, "horn") > edinrog > Indrik.[63] As a unicorn struggling with a lion representing krivda, "lies", the Indrik has the body of a goat or a horse in representations.
+An Indrik composite from all the variants of the ballads depicts the Indrik as dwelling in the Holy Mountain, which it consumes for sustenance. It is the mother or the father of all animals. It wanders unseen on the plain by day. When other beasts encounter it they must do obeisance. The Indrik saves the world from draught by digging springs of pure water. By night it wanders in the subterranean world, forging a path with its horn. There it purifies all the waters and releases them from any blockages.
+The righteous but fantastic unicorn appears also in the Bundahišn or Zand Āgāhīh, a Middle Persian Zoroastrian composition concerning the "deep and miraculous utterances" about the creation, the archetype of the *Gubinnaia kniga, "Book of the Deep". Its unicorn is an ass of 3 feet, 6 eyes, 9 mouths, 2 ears, 1 horn, a dark blue head and a white body, which is a symbolic rather than a real entity. It stands in the sea of Fraxwkand (wherever that is) and purifies the waters by urinating in them so that life may continue.[64] The Russian concept of a unicorn was apparently based on a different experience.
+In fact the Arabo-Persian word for unicorn in the region was karkadann, which extended also to India, and was loaned into the Turkmen language as kergeden and the Ottoman Turkish language as gergeden, among others. The word had an equivocal meaning: unicorn and rhinoceros.[65] This rhinoceros has capabilities and habits not possessed by the Indian rhinoceros: it indulges in mortal combat with elephants, which it kills by goring underneath with its horn. The symbol of evil is thus transferred to the elephant in that milieu; however, the two conduct their combats over grasslands never populated by either in historical times. The root of the word is Sanskrit Khadga-, Khadga dhenu-, "rhinoceros". In Christianity the single horn becomes a symbol of monotheism.
+Science writer and cryptozoologist Willy Ley theorised that these legends have simply been passed down since a hunting association with the beast in prehistoric times, and that the animals did not actually survive into recorded history.[66] One argument for survival is the testimony by the medieval traveller, Ibn Fadlan.[67] His account states:[68]
+
+Near this river (the Volga) is a vast wilderness wherein they say is an animal that is less than a camel and more like a bull in size. Its head is like the head of a camel, and its tail is like the tail of a bull, while its body is like the body of a mule, and its hooves are like the cloven hooves of a bull. In the center of its head, it has a thick round horn, which as it rises from the head of the animal gets to be thinner until it becomes like the point of a lance. The length of some of these horns is from three to five cubits, and there are those that may attain to a greater or lesser length. The animal grazes on the leaves of trees, which are quite green. When it sees a horseman, it makes straight for him, and if he happens to have under him a fast horse, he is rendered safe from it with some effort. If it overtakes him, it removes him from the back of his horse with its horn, hurls him into the air, and then catches him with its horn. It continues in this manner until it kills him. It does not bother the horse in any form or manner. They seek out this animal in the forests in order to kill it. They do that by climbing the tall trees among which it is found, and with this object in mind, they assemble a number of archers with poisoned arrows. When it stands in their midst, they shoot at it until it is severely wounded and killed by them. I saw in the king's house three large bowls which looked like [they were made of] the onyx of Yemen. The king informed me that it was made from the base of the horn of the animal. Some of the people of the country told me that it was a rhinoceros.
+
+See also[edit]
+
+
+
+
+Extinction portal
+
+
+
+Paleontology portal
+
+
+
+Prehistoric mammals portal
+
+
+
+
+Aegyrcitherium
+Bugtirhinus
+Hispanotherium
+Sinotherium
+Tahash
+
+Notes[edit]
+
+
+^ "Elasmotherium". PaleoBiology Database: Basic info. National Center for Ecological Analysis and Synthesis. 2000-. Retrieved 23 March 2011. 
+^ J. Fischer, who signed G. Fischer from a middle name, Gotthelf.
+^ Fischer, G. (1809). "21. Sur L'Elasmotherium et le Trogontothérium". Memoires de la Société Impériale des Naturalistes de Moscou. Tome II. Moscou: Imprimerie de l'Université Impériale. p. 255 .
+^ "L'elasmotherium est un animal à tête elongée sans dents incisives et sans canines, de chaque coté 5 molaires à lames contournées."
+^ "Du mot grec ἐλασμος, lamelle, pour designer la forme lamelleuse des dents molaires."
+^ Zhegallo 2005, pp. 20–21
+^ Cerdeño, Esperanza; Nieto, Manuel (1995). "Changes in Western European Rhinocerotidae related to climatic variations". Palaeo (114): 328. 
+^ Cerdeño 1998, p. 25
+^ Belyaeva, E.I. (1977). "About the Hyroideum, Sternum and Metacarpale V Bones of Elasmotherium sibiricum Fischer (Rhinocerotidae)". Journal of the Palaeontological Society of India 20: 10–15. 
+^ van der Made & Grube 2010, p. 387
+^ van der Made & Grube 2010, p. 388
+^ Zhegallo 2005, p. 20
+^ a b Zhegallo 2005, p. 21
+^ MacFadden 2000, p. 226
+^ Macfadden 2000, p. 224
+^ Koenigswald 1999, pp. 275–276
+^ Koenigswald 1999, pp. 281
+^ Koenigswald 1999, p. 263
+^ Wood, Horace Elmer, 2nd (1938). "Causal Factors Shortening Tooth Series with Age". Journal of Dental Research 17 (1): 6–7. 
+^ Mendoza, M.; Palmqvist, P. (February, 2008). "Hypsodonty in ungulates: an adaptation for grass consumption or for foraging in open habitat?". Journal of Zoology 273 (2): 134–142. doi:10.1111/j.1469-7998.2007.00365.x. 
+^ Deng & Zheng 2005, p. 120
+^ Deng & Zheng 2005, p. 118
+^ Paul, Gregory S. (December, 1998). "Limb Designs, Function and Running Performance in Ostrich-mimics and Tyrannosaurs". Gaia (15): 258–259. 
+^ Brandt, Alexander; Lockyer, Norman (August 8, 1878). "The Elasmotherium". Nature. XVIII: 287–389. doi:10.1038/018387b0. 
+^ Hieronymus 2009, p. 21
+^ Hieronymus 2009, p. 24
+^ Hieronymus 2009, p. 27
+^ Hieronymus 2009, p. 28
+^ Hieronymus 2009, pp. 221–223
+^ Hieronymus 2009, p. 35
+^ Hieronymus 2009, p. 36
+^ Kurtén, Björn (1968). The age of dinosaurs. New York: McGraw-Hill. p. 232. 
+^ Tleuberdina, Piruza; Nazymbetova, Gulzhan (2010). "Distribution of Elasmotherium in Kazakhstan". In Titov, V.V.; Tesakov, A.S. Quaternary stratigraphy and paleontology of the Southern Russia: connections between Europe, Africa and Asia: Abstracts of the International INQUA-SEQS Conference (Rostov-on-Don, June 21–26, 2010). Rostov-on-Don: Russian Academy of Science. pp. 171–173 
+^ a b Titov 2008, p. 226
+^ Antoine 2003, p. 109
+^ Antoine 2003, p. 107
+^ a b Noskova, N.G. (2001). "Elasmotherians – evolution, distribution and ecology". In Cavarretta, G.; Gioia, P.; Mussi, M. et al. The World of Elephants. Roma: Consiglio Nazionale delle Ricerche. pp. 126–128. ISBN 88-8080-025-6  |displayeditors= suggested (help)
+^ Deng & Zheng 2005, p. 119
+^ Deng & Zheng 2005, p. 112
+^ Logvynenko, Vitaliy. "The Development of the Late Pleistocene to Early Middle Pleistocene Large Mammal Fauna of Ukraine". 18th International Senckenberg Conference 2004 in Weimar (Abstracts). Senckenberg Gesellschaft für Naturforschung (SGN). 
+^ Bajgusheva, Vera S.; Titov, Vadim V. "Results of the Khapry Faunal Unit revision". 18th International Senckenberg Conference 2004 in Weimar (Abstracts). Senckenberg Gesellschaft für Naturforschung (SGN). 
+^ Baigusheva, Vera; Titov, Vadim (2010). "Pleistocene Large Mammal Associations of the Sea of Azov and Adjacent Regions". In Titov, V.V.; Tesakov, A.S. Quaternary stratigraphy and paleontology of the Southern Russia: connections between Europe, Africa and Asia: Abstracts of the International INQUA-SEQS Conference (Rostov-on-Don, June 21–26, 2010). Rostov-on-Don: Russian Academy of Science. pp. 24–27 
+^ 52°27′N 59°30′E﻿ / ﻿52.450°N 59.500°E﻿ / 52.450; 59.500
+^ 50°30′N 72°30′E﻿ / ﻿50.500°N 72.500°E﻿ / 50.500; 72.500
+^ Kosintsev, Pavel (2010). "Relict Mammal Species of the Middle Pleistocene in Late Pleistocene Fauna of the Western Siberia South". In Titov, V.V.; Tesakov, A.S. Quaternary stratigraphy and paleontology of the Southern Russia: connections between Europe, Africa and Asia: Abstracts of the International INQUA-SEQS Conference (Rostov-on-Don, June 21–26, 2010). Rostov-on-Don: Russian Academy of Science. pp. 78–79 
+^ Hagstrum, J. T.; Firestone, R. B.; West, A. (2009). "Beringian Megafaunal Extinctions at ~37 ka B.P.: Do Micrometeorites Embedded in Fossil Tusks and Skulls Indicate an Extraterrestial Precursor to the Younger Dryas Event?". American Geophysical Union, Fall Meeting 2009, abstract #PP31D-1385 (The Smithsonian/NASA Astrophysics Data System) 31: 1385. Bibcode:2009AGUFMPP31D1385H. 
+^ a b Cerdeño 1998, pp. 18–19
+^ Hieronymus 2009, p. 37.
+^ Hieronymus 2009, pp. 34–35
+^ Hieronymus 2009, p. 37
+^ Cerdeño 1998, p. 23
+^ Barbehenn, Raymond V.; Chen, Zhong; Karowe, David N.; Spickards, Angela (2004). "C3 grasses have higher nutritional quality than C4 grasses under ambient and elevated atmospheric CO2". Global Change Biology (10): 1565–1575. doi:10.1111/j.1365-2486.2004.00833.x. 
+^ Cerdeño 1998, p. 29
+^ Cerdeño 1998, pp. 28–29
+^ Sinon 1960, p. 168
+^ Sinon 1960, p. 169
+^ Bates, Roy (2008). 29 Chinese Mysteries. Beijing: TuDragons Books Ltd. pp. 80–82. 
+^ Zhegallo 2005, p. 16
+^ Zhegallo 2005, pp. 34–35
+^ Russell 2009, p. 141
+^ Russell 2009, p. 142
+^ Russell 2009, p. 185
+^ Russell 2009, p. 180
+^ Russell 2009, p. 187
+^ Sinon 1960, p. 174
+^ Newton, Michael (2009). Hidden animals: a field guide to Batsquatch, Chupacabra, and other elusive creatures. Santa Barbara, California: Greenwood Press. p. 185. 
+^ Glavin, Terry (2007). The Sixth Extinction (First U.S. ed.). New York: Thomas Dunne Books (St. Martin's Press). pp. 129–130. 
+^ Ibn Faḍlān, Ahmad; Richard N. Frye (October 2005). Ibn Fadlan's Journey to Russia: A Tenth-century Traveller from Baghdad to the Volga River. Princeton: Markus Wiener Publishers. p. 60. ISBN 978-1-55876-366-1. 
+
+
+References[edit]
+
+
+
+Wikimedia Commons has media related to Elasmotherium.
+
+
+
+
+Antoine, Pierre-Olivier (March 2003). "Middle Miocene elasmotheriine Rhinocerotidae from China and Mongolia: taxonomic revision and phylogenetic relationships". Zoologica Scripta (The Norwegian Academy of Science and Letters) 32 (2): 95–118. doi:10.1046/j.1463-6409.2003.00106.x. 
+Cerdeño, Esperenza (1998). "Diversity and evolutionary trends of the Family Rhinocerotidae (Perissodactyla)". Palaeo (141): 13–34. 
+Deng, Tao; Zheng, Min (2005). "Limb Bones of Elasmotherium (Rhinocerotidae, Perissodactyla) from Nihewan (Hebei, China)". Vertebrata Palasiatica (in Chinese with English translations) (4): 110–121. 
+Hieronymus, Tobin L. (2009). Osteological Correlates of Cephalic Skin Structures in Amniota: Documenting the Evolution of Display and Feeding Structures with Fossil Data (Doctoral Thesis). College of Arts and Sciences of Ohio University. 
+Koenigswald, Wighart v.; Goin, Francisco; Pascual, Rosendo (1999). "Hypsodonty and enamel microstructure in the Paleocene gondwanatherian mammal Sudamerica amerghinoi". Acta Palaeontologica Polonica 44 (3): 263–300. 
+MacFadden, Bruce J. (2000). "Origin and evolution of the grazing guild in Cenozoic New World terrestrial mammals". In Sues, Hans-Dieter. Evolution of Herbivory in Terrestrial Vertebrates: Perspectives from the Fossil Record. Cambridge: Cambridge University Press. pp. 223–244 
+Russell, James R. (2009). "From Zoroastrian Cosmology and Armenian heresiology to the Russian novel". In Allison, Christine; Joristen-Pruschke, Anke; Wendtland, Antje. From Daēnā to Dîn: Religion, Kultur und Sprache in der iranischen Welt; Festschrift für Philip Kezenbroek zum 60. Geburstag. Wiesbaden: Harrassowitz. pp. 141–208 
+Sinon, Denis (1960). "Sur les noms altaïque de la licorne". Wiener Zeitschrift für der Kunde des Morgenlandes (in French) (56): 168–176. 
+
+
+Titov, V.V. (2008). Late Pliocene large mammals from Northeastern Sea of Azov Region (in Russian with English translations). Rostov-on-Don: SSC RAS Publishing. 
+van der Made, Jan; Grube, René (2010). "The rhinoceroses from Neumark-Nord and their nutrition". In Meller, Harald. Elefantenreich – Eine Fossilwelt in Europa (in German with English translations). Halle/Saale. pp. 382–394 
+Zhegallo, V.; Kalandadze, N.; Shapovalov, A.; Bessudnova, Z.; Noskova, N.; Tesakova, E. (2005). "On the fossil rhinoceros Elasmotherium (including the collections of the Russian Academy of Sciences)". Cranium 22 (1): 17–40. 
+
+
+External links[edit]
+
+Parker, Jeannie Thomas (2009). "13. The Real Unicorn Elasmotherium". Chinese Unicorn: all about the Zhi. WordPress. Retrieved August 30, 2013. 
+Piper, Ross (2010). "Elasmotherium and the case of the massive horn". Scrubmuncher's Blog. Nature Blog Network. Retrieved August 30, 2013. 
+Strauss, Bob. "Elasmotherium - About.com Prehistoric Mammals". Dinosaurs at About.com. About.com. Retrieved August 30, 2013. 
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Cryptozoology and cryptobotany
+
+
+
+
+
+
+
+
+
+
+ 
+Overview
+
+
+
+
+
+
+
+
+
+
+
+Core topics
+
+
+
+
+Cryptid
+List of cryptids
+Zoology
+Botany
+Megafauna discovered in modern times
+Pseudoscience
+
+
+
+
+
+
+
+
+
+Cryptozoologists
+
+
+
+
+Bernard Heuvelmans
+Karl Shuker
+Jonathan Downes
+Jon-Erik Beckjord
+John Bindernagel
+Richard Freeman
+Loren Coleman
+Alexandr Mikhailovych Kondratov
+Roy Mackal
+Ivan T. Sanderson
+Organizations
+
+
+
+
+
+
+
+
+
+Books and television
+
+
+
+
+Animal X
+Arthur C. Clarke's Mysterious World
+Beast Hunter
+Beast Legends
+Destination Truth
+Fact or Faked: Paranormal Files
+Fortean TV
+In Search of...
+Is It Real?
+Lost Tapes
+MonsterQuest
+On the Track of Unknown Animals
+Sasquatch: Legend Meets Science
+The X Creatures
+The Secret Saturdays
+Weird Travels
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Zoological cryptids
+
+
+
+
+
+
+
+
+
+
+
+Africa
+
+
+
+
+Adjule
+Agogwe
+Emela-ntouka
+Ennedi tiger
+Gambo
+Grootslang
+Gustave
+Inkanyamba
+Kongamato
+Mbielu-Mbielu-Mbielu
+Mokele-mbembe
+Malawi terror beast
+Mamlambo
+Muhuru
+Nandi Bear
+Ngoubou
+Olitiau
+Nguma-monene
+Popobawa
+Salawa
+Trunko
+Zanzibar Leopard
+
+
+
+
+
+
+
+
+
+Asia
+
+
+
+
+Ahool
+Akkorokamui
+Almas
+Amomongo
+Ayia Napa sea monster
+Barmanou
+Batutut
+Bergman's Bear
+Brosno dragon
+Bukit Timah Monkey Man
+Buru
+Cat-fox
+Devil Bird
+Hibagon
+Issie
+Kappa
+Kting Voar
+Kussie
+Lake Tianchi Monster
+Lake Van Monster
+Maltese Tiger
+Mongolian Death Worm
+Monkey-man of Delhi
+Orang Pendek
+Phaya Naga
+Qilin
+Ropen
+Sigbin
+Sarimanok
+Sumxu
+Tsuchinoko
+Veo
+Yeren
+Yeti
+
+
+
+
+
+
+
+
+
+Australasia-
+Oceania
+
+
+
+
+Amomongo
+Blue Mountains panther
+Bunyip
+Ebu Gogo
+Four Mile Globster
+Gippsland phantom cat
+Globster
+Manaul
+Megalania
+Moehau
+Zuiyo-maru carcass
+New Zealand Globster
+Queensland Tiger
+Siyokoy
+Tasmanian Globster
+Thylacoleo
+Tikbalang
+Waitoreke
+Yowie
+
+
+
+
+
+
+
+
+
+Europe
+
+
+
+
+Afanc
+Ayia Napa sea monster
+Beast of Gévaudan
+Bishop-fish
+British big cats
+Canvey Island Monster
+Dahu
+Dobhar-chú
+Each uisge
+Eachy
+Elwetritsch
+Fear liath
+Fish-man of Liérganes
+Giglioli's Whale
+Hebrides Blob
+Jenny Haniver
+Kellas Cat
+Kraken
+Lagarfljót Worm
+Lariosauro
+Lindworm
+Loch Ness Monster
+Morag
+Morgawr
+Muc-sheilch
+Owlman
+Sea monk
+Sea serpent
+Selma
+Skvader
+Storsjöodjuret
+Stronsay Beast
+Tatzelwurm
+Wolpertinger
+
+
+
+
+
+
+
+
+
+North
+America
+
+
+
+
+Altamaha-ha
+Bear Lake Monster
+Beast of Bladenboro
+Beast of Bray Road
+Beast of Busco
+Bermuda Blob
+Bermuda Blob 2
+Bessie
+Bigfoot
+Cadborosaurus willsi
+Champ
+Chessie
+Chupacabra
+Crawfordsville monster
+Dover Demon
+Flatwoods monster
+Fouke Monster
+Goatman
+Grassman
+Hodag
+Homo gardarensis
+Honey Island Swamp monster
+Hoop snake
+Huay Chivo
+Igopogo
+Iliamna Lake Monster
+Jersey Devil
+Kingstie
+Lake Worth Monster
+Lizard Man of Scape Ore Swamp
+Loveland frog
+Lusca
+MacFarlane's bear
+Manipogo
+Melon heads
+Michigan Dogman
+Minnesota Iceman
+Momo the Monster
+Montauk Monster
+Mothman
+Mussie
+Nantucket Blob
+Newfoundland Blob
+Nuk-luk
+Ogopogo
+Old Yellow Top
+Ozark Howler
+Panama Creature
+Pope Lick Monster
+Shunka Warakin
+Sidehill gouger
+Skunk Ape
+St. Augustine Monster
+Tahoe Tessie
+Thunderbird
+Trinity Alps giant salamander
+Tsul 'Kalu
+Turtle Lake Monster
+Waheela
+Wampus cat
+
+
+
+
+
+
+
+
+
+South
+America
+
+
+
+
+Ameranthropoides loysi
+Andean Wolf
+Bloop
+Cherufe
+Chilean Blob
+Chupacabra
+Giant anaconda
+Mapinguari
+Minhocão
+Mono Grande
+Mylodon
+Nahuelito
+Peuchen
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Botanical cryptids
+
+
+
+
+
+
+
+
+
+Raskovnik
+Man-eating tree
+Umdhlebi
+Vegetable Lamb of Tartary
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+NewPP limit report
+CPU time usage: 4.004 seconds
+Real time usage: 4.350 seconds
+Preprocessor visited node count: 11681/1000000
+Preprocessor generated node count: 53448/1500000
+Post‐expand include size: 201746/2048000 bytes
+Template argument size: 26112/2048000 bytes
+Highest expansion depth: 29/40
+Expensive parser function count: 4/500
+Lua time usage: 0.347s
+Lua memory usage: 3.3 MB
+
+
+ Saved in parser cache with key enwiki:pcache:idhash:503948-0!*!0!!en!4!* and timestamp 20131002222109 
+								
+				Retrieved from "http://en.wikipedia.org/w/index.php?title=Elasmotherium&oldid=572547918"				
+												Categories: Prehistoric rhinocerosesPleistocene odd-toed ungulatesPleistocene extinctionsMegafauna of EurasiaCryptidsUnicornsPliocene odd-toed ungulatesHidden categories: Articles with inconsistent citation formatsPages using citations with old-style implicit et al.Articles with 'species' microformatsArticles containing non-English-language textWikipedia articles needing clarification from January 2012All articles with unsourced statementsArticles with unsourced statements from April 2012Commons category with local link same as on Wikidata												
+							
+		
+		
+			Navigation menu
+			
+				
+	Personal tools
+	
+Create accountLog in	
+
+				
+					
+	Namespaces
+	
+					Article
+					Talk
+			
+
+
+	
+		
+	Variants
+	
+		
+					
+	
+
+				
+				
+					
+	Views
+	
+					Read
+					Edit
+					View history
+			
+
+
+	Actions
+	
+		
+					
+	
+
+
+	Search
+	
+				
+																				
+		
+	
+
+				
+			
+			
+					
+				
+	Navigation
+	
+		
+			Main page
+			Contents
+			Featured content
+			Current events
+			Random article
+			Donate to Wikipedia
+		
+	
+
+
+	Interaction
+	
+		
+			Help
+			About Wikipedia
+			Community portal
+			Recent changes
+			Contact page
+		
+	
+
+
+	Toolbox
+	
+		
+			What links here
+			Related changes
+			Upload file
+			Special pages
+			Permanent link
+			Page information
+			Data item
+Cite this page		
+	
+
+
+	Print/export
+	
+		
+			Create a book
+			Download as PDF
+			Printable version
+		
+	
+
+
+	Languages
+	
+		
+			Azərbaycanca
+			Български
+			Català
+			Česky
+			Deutsch
+			Euskara
+			Français
+			한국어
+			Bahasa Indonesia
+			Italiano
+			עברית
+			Magyar
+			Nederlands
+			日本語
+			Norsk bokmål
+			Polski
+			Русский
+			Simple English
+			Slovenčina
+			Suomi
+			Svenska
+			Tiếng Việt
+			中文
+			
+			Edit links
+		
+	
+
+			
+		
+		
+							
+											 This page was last modified on 11 September 2013 at 22:47.
+											Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. 
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+									
+							
+											Privacy policy
+											About Wikipedia
+											Disclaimers
+											Contact Wikipedia
+											Developers
+											Mobile view
+									
+										
+					
+						
+					
+					
+						
+					
+				
+						
+		
+		
+
+
+ Served by mw1174 in 0.162 secs. 
+	
+if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Elasmotherium","wgTitle":"Elasmotherium","wgCurRevisionId":572547918,"wgArticleId":503948,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with inconsistent citation formats","Pages using citations with old-style implicit et al.","Articles with 'species' microformats","Articles containing non-English-language text","Wikipedia articles needing clarification from January 2012","All articles with unsourced statements","Articles with unsourced statements from April 2012","Commons category with local link same as on Wikidata","Prehistoric rhinoceroses","Pleistocene odd-toed ungulates","Pleistocene extinctions","Megafauna of Eurasia","Cryptids","Unicorns","Pliocene odd-toed ungulates"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Elasmotherium","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgVectorEnabledModules":{"collapsiblenav":true,"experiments":true},"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"templateEditor":false,"templates":false,"preview":false,"previewDialog":false,"publish":false,"toc":false},"wgArticleFeedbackv5Permissions":{"aft-reader":true,"aft-member":false,"aft-editor":false,"aft-monitor":false,"aft-administrator":false,"aft-oversighter":false,"aft-noone":false},"wgVisualEditor":{"isPageWatched":false,"magnifyClipIconURL":"//bits.wikimedia.org/static-1.22wmf18/skins/common/images/magnify-clip.png","pageLanguageCode":"en","pageLanguageDir":"ltr"},"wikilove-recipient":"","wikilove-anon":0,"wgGuidedTourHelpGuiderUrl":"Help:Guided tours/guider","wgULSAcceptLanguageList":["en-us","en"],"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia","aftv5Article":{"id":503948,"title":"Elasmotherium","namespace":0,"categories":["All articles with unsourced statements","Articles containing non-English-language text","Articles with 'species' microformats","Articles with inconsistent citation formats","Articles with unsourced statements from April 2012","Commons category with local link same as on Wikidata","Cryptids","Megafauna of Eurasia","Pages using citations with old-style implicit et al.","Pleistocene extinctions","Pleistocene odd-toed ungulates","Pliocene odd-toed ungulates","Prehistoric rhinoceroses","Unicorns","Wikipedia articles needing clarification from January 2012"],"permissionLevel":false},"wgWikibaseItemId":"Q131678"});
+}if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":false,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,
+"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"useeditwarning":1,"prefershttps":1,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"vector-simplesearch":1,"vector-collapsiblenav":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"aftv5-last-filter":null,"visualeditor-enable":0,"visualeditor-enable-experimental":0,"visualeditor-betatempdisable":0,"wikilove-enabled":1,"echo-subscriptions-web-page-review":true,"echo-subscriptions-email-page-review":false,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"echo-notify-show-link":true,"echo-show-alert":true,"echo-email-frequency":0,"echo-email-format":"html","echo-subscriptions-email-system":true,"echo-subscriptions-web-system":true,"echo-subscriptions-email-other":false,"echo-subscriptions-web-other":true,"echo-subscriptions-email-edit-user-talk":false,"echo-subscriptions-web-edit-user-talk":true,
+"echo-subscriptions-email-reverted":false,"echo-subscriptions-web-reverted":true,"echo-subscriptions-email-article-linked":false,"echo-subscriptions-web-article-linked":false,"echo-subscriptions-email-mention":false,"echo-subscriptions-web-mention":true,"echo-subscriptions-web-edit-thank":true,"echo-subscriptions-email-edit-thank":false,"gettingstarted-task-toolbar-show-intro":true,"uls-preferences":"","language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs446":false,"searchNs447":false
+,"searchNs710":false,"searchNs711":false,"searchNs828":false,"searchNs829":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-mySandbox":1,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:156d8fe0ae17f8afd74198057563e45d */
+}if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","ext.visualEditor.viewPageTarget.init","ext.wikimediaShopLink.core","ext.uls.init","ext.uls.interface","wikibase.client.init","ext.centralNotice.bannerController","skins.vector.js"]);
+}/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}if(window.mw){
+mw.loader.load(["mobile.desktop","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.cite","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","mw.MwEmbedSupport.style","ext.vector.collapsibleNav","ext.articleFeedbackv5.startup","ext.gettingstarted.logging","ext.gettingstarted.openTask","schema.HttpsSupport","ext.coreEvents.httpsSupport","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","mw.PopUpMediaTransform"],null,true);
+}

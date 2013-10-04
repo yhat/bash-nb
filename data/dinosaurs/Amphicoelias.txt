@@ -1,0 +1,439 @@
+
+
+
+Amphicoelias - Wikipedia, the free encyclopedia
+
+
+
+
+
+
+
+
+
+
+
+
+a:lang(ar),a:lang(ckb),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:0de201fdea5d684523607ed88007b127 */
+
+
+
+
+[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.22wmf18/skins/vector/csshover.min.htc")}</style><![endif]
+
+		
+		
+		
+			
+			
+						 CentralNotice 
+						Amphicoelias
+			
+								From Wikipedia, the free encyclopedia
+								
+												
+					Jump to:					navigation, 					search
+				
+				
+
+
+
+Amphicoelias
+Temporal range: Late Jurassic, 150Ma
+
+PreЄ
+Є
+O
+S
+D
+C
+P
+T
+J
+K
+Pg
+N
+
+
+
+↓
+
+
+
+
+
+
+
+
+
+Original illustration of E. D. Cope's A. fragillimus specimen
+
+
+Scientific classification 
+
+
+Kingdom:
+Animalia
+
+
+Phylum:
+Chordata
+
+
+Clade:
+Sauropsida
+
+
+Clade:
+Dinosauria
+
+
+Suborder:
+†Sauropodomorpha
+
+
+Superfamily:
+†Diplodocoidea
+
+
+Genus:
+†Amphicoelias
+Cope, 1878
+
+
+Type species
+
+
+†Amphicoelias altus
+Cope, 1878a
+
+
+Species
+
+
+
+†A. altus Cope, 1878a
+†A. fragillimus Cope, 1878b
+
+
+
+
+Amphicoelias (/ˌæmfɨˈsiːliəs/, meaning "biconcave", from the Greek αμφι, amphi: "on both sides", and κοιλος, koilos: "hollow, concave") is a genus of herbivorous sauropod dinosaur that includes what may be the largest dinosaur ever discovered, A. fragillimus. Based on surviving descriptions of a single fossil bone, A. fragillimus may have been the longest known vertebrate at 40 to 60 metres (130 to 200 ft) in length, and may have had a mass of up to 122 tonnes (135 short tons). However, because the only fossil remains were lost at some point after being studied and described in the 1870s, evidence survives only in drawings and field notes. The fossil was found in the Morrison Formation.[1]
+
+
+Contents
+
+
+1 Description
+2 History of A. fragillimus
+
+2.1 Lost fossils
+
+
+3 Size
+4 Classification
+5 Paleobiology
+6 References
+7 External links
+
+
+Description[edit]
+The type species of Amphicoelias, A. altus, was named by paleontologist Edward Drinker Cope in December 1877 (though not published until 1878) for an incomplete skeleton consisting of two vertebrae, a pubis (hip bone), and a femur (upper leg bone).[2] Cope also named a second species, A. latus, in the same paper. However, all subsequent researchers have considered A. latus to be a synonym of A. altus. In 1921, Osborn and Mook assigned additional bones to A. altus—a scapula (shoulder blade), a coracoid (shoulder bone), an ulna (lower arm bone), and a tooth. Henry Fairfield Osborn and Charles Craig Mook noted the overall close similarity between Amphicoelias and Diplodocus, as well as a few key differences, such as proportionally longer forelimbs in Amphicoelias than in Diplodocus. The femur of Amphicoelias is unusually long, slender, and round in cross section; while this roundness was once thought to be another distinguishing characteristic of Amphicoelias, it has since been found in some specimens of Diplodocus as well.[3] A. altus was also similar in size to Diplodocus, estimated to be about 25 m (82 ft) long.[4] While most scientists have used these details to distinguish Amphicoelias and Diplodocus as separate genera, at least one (John Foster, in his 2007 book Jurassic West) has suggested that Amphicoelias is probably the senior synonym of Diplodocus.[5]
+The third named Amphicoelias species, A. fragillimus, is known only from a single, incomplete 1.5 m tall neural arch (the part of a vertebra with spines and processes), either last or second to last in the series of back vertebrae, D (dorsal) 10 or D9, that would have measured 2.7 m (8.8 ft) long in life. In addition to this single vertebra, Cope's field notes contain an entry for an "[i]mmense distal end of femur” located only a few tens of meters away from the giant vertebra, and it is likely that this undescribed leg bone belonged to the same individual animal as the neural spine.[3]
+In 2010, a monograph was made available, but not formally published, by Henry Galiano and Raimund Albersdorfer in which they referred a fourth species to Amphicoelias, as "A. brontodiplodocus" based on several complete specimens found in the Dana Quarry of Big Horn Basin, Wyoming and held in a private collection. The specific name referred to their hypothesis based on these specimens that nearly all Morrison diplodocid species are either growth stages or represent sexual dimorphism among members of the genus Amphicoelias,[6] but this analysis has been met with skepticism[7] and the publication itself has been disclaimed by its lead author, explaining that it is "obviously a drafted manuscript complete with typos, etc., and not a final paper. In fact, no printing or distribution has been attempted" (see comment on previous reference).
+History of A. fragillimus[edit]
+
+
+
+
+Outdated restoration of aquatic A. altus, by Charles R. Knight
+
+
+Amphicoelias fragillimus was collected by Oramel Lucas, a fossil collector employed by E. D. Cope, shortly after he was hired by Cope in 1877. Lucas discovered a partial vertebra (the neural arch and spine) of the new sauropod species in Garden Park, north of Cañon City, Colorado, close to the quarry that yielded Camarasaurus. The vertebra was in poor condition, but astonishingly large, measuring 1.5 metres (4.9 ft) up to 2.7 metres (8.9 ft) in height.[3] Lucas shipped the specimen to Cope in the spring or early summer of 1878, and Cope published it as the holotype specimen (catalogue number AMNH 5777) of a new species, A. fragillimus, that August.[8] The name derives from the Latin fragillimus ("very fragile"), referring to the delicateness of the bone produced by very thin laminae (vertebral walls). As revealed in Cope's notebooks, which he recorded based on Lucas' report on excavation site locations in 1879, the specimen came from a hill south of the Camarasaurus quarry now known as "Cope's Nipple." While Cope originally wrote that the site belonged to the Dakota Formation (mid-Cretaceous in age), the presence of dinosaurs such as Camarasaurus in the same rocks indicates that they probably belong to the Morrison Formation, which places the age of the site at 150 million years ago in the late Jurassic period, specifically the Tithonian age.[9] A gigantic fossilized femur was also recovered in close proximity to the vertebra, and may have belonged to A. fragillimus.
+Lost fossils[edit]
+
+
+
+
+Illustration of A. fragillimus fossils, 1884
+
+
+The gigantic bones attributed to A. fragillimus have often been ignored in summaries of the largest dinosaurs partly because, according to various subsequent reports, the whereabouts of both the vertebra and the femur are unknown, and all attempts to locate them have failed.[8][10] Carpenter, in 2006, presented a possible scenario for the disappearance of the A. fragillimus specimens. As Cope noted in his description, the neural arch bone material was very fragile, and techniques to harden and preserve fossil bone had not yet been invented (Cope's rival, paleontologist O.C. Marsh, was the first to use such chemicals, in the early 1880s). Carpenter observed that the fossil bones known from the A. fragillimus quarry would have been preserved in deeply weathered mudstone, which tends to crumble easily and fragment into small, irregular cubes. Therefore, the bone may have crumbled badly and been discarded by Cope soon after he illustrated it in rear view for his paper (Carpenter suggested that this may explain why Cope drew the vertebra in only one view, rather than from multiple angles as he did for his other discoveries).
+In 1994, an attempt was made to relocate the original quarry where A. fragillimus and other species had been found, using ground-penetrating radar in an attempt to image bones still buried in the ground. This attempt failed because the fossilized mudstone bones were the same density as the surrounding rock, making it impossible to differentiate the two. A study of the local topography also showed that the fossil-bearing rock strata was severely eroded, and probably was so at the time Lucas made his discovery of A. fragillimus, indicating that a majority of the skeleton was gone by the time the vertebra and femur were recovered.[3]
+Carpenter (2006) also noted that, due to the extraordinary size and mysterious disappearance of the fossil, Cope's description of A. fragillimus has been met with skepticism, with some people assuming that there were typographical errors in his measurements. Carpenter argued that there is every reason to take Cope at his word, noting that the paleontologist's reputation was at stake. The discovery took place during the Bone Wars, and Cope's rival Marsh, who was "ever ready to humiliate" Cope, never called the claims into question. Marsh was known to have employed spies to monitor Cope's discoveries, and may have even had confirmation of the enormous size of the Amphicoelias fragillimus bones. Paleontologists Henry Fairfield Osborn and C.C. Mook in 1921, as well as John S. McIntosh in 1998, also accepted Cope's data without question in published reviews.
+Size[edit]
+
+
+
+
+A. fragillimus (orange) and A. altus (green) compared in size with a human
+
+
+
+
+
+
+Size comparison of selected giant sauropod dinosaurs, A. fragillimus in red
+
+
+Producing an estimate of the complete size of A. fragillimus requires scaling the bones of better known species of diplodocid (a family of extremely long and slender sauropods) in the assumption that their relative proportions were similar. In his original paper, Cope did this by speculating on the size of a hypothetical A. fragillimus femur (upper leg bone). Cope noticed that in other sauropod dinosaurs, specifically A. altus and Camarasaurus supremus, the femora were always twice as tall as the tallest dorsal vertebra, and estimated the size of an A. fragillimus femur to be 12 ft (3.7 m) tall.[11]
+In 1994, using the related Diplodocus as a reference, Gregory S. Paul estimated a femur length of 3.1–4 m (10–13 ft) for A. fragillimus.[4] The 2006 re-evaluation of A. fragillimus by Ken Carpenter also used Diplodocus as a scale guide, finding a femur height of 4.3–4.6 m (14–15 ft).[3] Carpenter went on to estimate the complete size of A. fragillimus, though he cautioned that relative proportions in diplodocids could vary from species to species. Assuming the same proportions as the well-known Diplodocus, Carpenter presented an estimated total length of 58 m (190 ft), which he noted fell within the range presented by Paul in 1994 (40–60 m, or 131–196 ft). Carpenter pointed out that even the lowest length estimates for A. fragillimus were higher than those for other giant sauropods, such as the diplodocid Supersaurus (32.5 m, 107 ft), the brachiosaurid Sauroposeidon (34 m, 111 ft), and the titanosaur Argentinosaurus (30 m, 98 ft). Carpenter presented more speculative, specific proportions for A. fragillimus (again, based on a scaled-up Diplodocus), including a neck length of 16.75 m (55 ft), a body length of 9.25 m (30 ft), and a tail length of 32 m (105 ft). He estimated the total forelimb height at 5.75 m (19 ft) and hind limb height at 7.5 m (25 ft), and the overall height (at the highest point on the back) at 9.25 m (30 ft).[3] By comparison the blue whale, which is on average the longest living creature, reaches 30 m (98 ft) in length.[12]
+While A. fragillimus was relatively thin, its enormous size still made it very massive. Weight is much more difficult to determine than length in sauropods, as the more complex equations needed are prone to greater margins of error based on smaller variations in the overall proportions of the animal. Carpenter used Paul's 1994 estimate of the mass of Diplodocus carnegii (11.5 tons) to speculate that A. fragillimus could have weighed up to 122.4 tonnes.[3] The heaviest blue whale on record weighed about 195 tons, and the heaviest dinosaur known from reasonably good remains, Argentinosaurus, weighed 80–100 tons, although if the size estimates can be validated, it would still be lighter than Bruhathkayosaurus, which is estimated to have weighed 139 tons.[13]
+Classification[edit]
+Edward Drinker Cope described his finds in two 1878 issues of the American Naturalist, and assigned them to the new genus Amphicoelias. He placed it in a unique family, Amphicoeliidae, though this is now considered a nomen oblitum (forgotten name). The genus is usually assigned to the family Diplodocidae, though some modern analyses have found it at the base of the larger group Diplodocoidea or as a diplodocid incertae sedis (uncertain placement).[14] The first named species in the genus, Amphicoelias altus (holotype specimen AMHD 5764), was discovered by Cope in 1877. But while it is only represented by a partial skeleton, there are enough diagnostic characteristics to provisionally define the genus. A. altus is known from better remains, but is smaller than A. fragillimus. Cope also named a third species in 1878: Amphicoelias latus.[2]
+Osborn and Mook, in 1921, provisionally synonymized the three species, sinking A. latus into A. altus, and suggesting also that A. fragillimus is just a very large individual of A. altus, a position McIntosh agreed with in 1998.[8][10] Carpenter (2006) disagreed about the synonymy of A. altus and A. fragillimus, however, citing numerous differences in the construction of the vertebra also noted by Cope, and suggested these differences are enough to warrant a separate species or even a separate genus for A. fragillimus. However, he went on to caution that the validity of A. fragillimus as a separate species is nearly impossible to determine without the original specimen to study.
+In 2007, John Foster suggested that the differences usually cited to differentiate Amphicoelias altus from the more well known Diplodocus are not significant and may be due to individual variation. Foster argued that Amphicoelias is probably the senior synonym of Diplodocus, and that if further research bears this out, the familiar name Diplodocus would need to be abandoned in favor of Amphicoelias, as was the case with Brontosaurus and its senior synonym Apatosaurus.[5]
+Paleobiology[edit]
+In his 2006 re-evaluation, Carpenter examined the paleobiology of giant sauropods, including Amphicoelias, and addresses the question of why this group attained such a huge size. He pointed out that gigantic sizes were reached early in sauropod evolution, with very large sized species present as early as the late Triassic Period, and concluded that whatever evolutionary pressure caused large size was present from the early origins of the group. Carpenter cited several studies of giant mammalian herbivores, such as elephants and rhinoceros, which showed that larger size in plant-eating animals leads to greater efficiency in digesting food. Since larger animals have longer digestive systems, food is kept in digestion for significantly longer periods of time, allowing large animals to survive on lower-quality food sources. This is especially true of animals with a large number of 'fermentation chambers' along the intestine which allow microbes to accumulate and ferment plant material, aiding digestion. Throughout their evolutionary history, sauropod dinosaurs were found primarily in semi-arid, seasonally dry environments, with a corresponding seasonal drop in the quality of food during the dry season. The environment of Amphicoelias was essentially a savanna, similar to the arid environments in which modern giant herbivores are found, supporting the idea that poor-quality food in an arid environment promotes the evolution of giant herbivores. Carpenter argued that other benefits of large size, such as relative immunity from predators, lower energy expenditure, and longer life span, are probably secondary advantages.[3]
+The Morrison Formation environment in which Amphicoelias lived would have resembled a modern savanna, though since grass did not appear until the Late Cretaceous, ferns were probably the dominant plant and main food source for Amphicoelias. Though Engelmann et al. (2004) dismissed ferns as a sauropod food source due to their relatively low caloric content,[15] Carpenter argued that the sauropod digestive system, well adapted to handle low-quality food, allows for the consumption of ferns as a large part of the sauropod diet.[3] Carpenter also noted that the occasional presence of large petrified logs indicate the presence of 20–30 m (65–100 ft) tall trees, which would seem to conflict with the savanna comparison. However, the trees are rare, and since tall trees require more water than the savanna environment could generally provide, they probably existed in narrow tracts or "gallery forests" along rivers and gulleys where water could accumulate. Carpenter speculated that giant herbivores like Amphicoelias may have used the shade of the gallery forests to stay cool during the day, and done most of their feeding on the open savanna at night.[3]
+References[edit]
+
+
+^ Foster, J. (2007). "Appendix." Jurassic West: The Dinosaurs of the Morrison Formation and Their World. Indiana University Press. pp. 327–329.
+^ a b Cope, E.D. (1878a). "On the Vertebrata of the Dakota Epoch of Colorado." Proceedings of the American Philosophical Society, 17: 233–247.
+^ a b c d e f g h i j Carpenter, K. (2006). "Biggest of the big: a critical re-evaluation of the mega-sauropod Amphicoelias fragillimus." In Foster, J.R. and Lucas, S.G., eds., 2006, Paleontology and Geology of the Upper Jurassic Morrison Formation. New Mexico Museum of Natural History and Science Bulletin 36: 131–138.
+^ a b Paul, G.S. (1994a). "Big sauropods — really, really big sauropods." The Dinosaur Report, The Dinosaur Society, Fall, p. 12–13.
+^ a b Foster, J. (2007). Jurassic West: The Dinosaurs of the Morrison Formation and Their World. Indiana University Press.
+^ Galiano, H. and Albersdorfer, R. "A new basal diplodocid species, Amphicoelias brontodiplodocus, from the Morrison Formation, Big Horn Basin, Wyoming, with taxonomic reevaluation of Diplodocus, Apatosaurus, and other genera." Dinosauria International, LLC. 44pp. Published online 2010.
+^ Mike Taylor. "The elephant in the living room: Amphicoelias brontodiplodocus". Sauropod Vertebra Picture of the Week. 
+^ a b c McIntosh, J.S. (1998) "New information about the Cope collection of sauropods from Garden Park, Colorado." In Carpenter, K., Chure, D. and Kirkland, J.I., eds., The Morrison Formation: an interdisciplinary study: Modern Geology, 23: 481–506.
+^ Turner, C.E., and Peterson, F. (1999) "Biostratigraphy of dinosaurs in the Upper Jurassic Morrison Formation of the Western Interior, U.S.A." In. Gillette, D., ed., Vertebrate Paleontology in Utah: Utah Geological Survey Miscellaneous Publication, 99(1): 77–114.
+^ a b Osborn, H.F., and Mook, C. C. (1921). "Camarasaurus, Amphicoelias and other sauropods of Cope." Memoirs of the American Museum of Natural History NS, 3(3): 249–387.
+^ Cope, Edward Drinker (1878b). "A new species of Amphicoelias". American Naturalist 12 (8): 563–564. doi:10.1086/272176. Archived from the original on October 25, 2009. 
+^ J. Calambokidis and G. Steiger (1998). Blue Whales. Voyageur Press. ISBN 0-89658-338-4. 
+^ Wedel, M. "SV-POW! showdown: sauropods vs whales." [Weblog entry.] Sauropod Vertebra Picture of the Week. 20 May 2008. Accessed 23 May 2008.
+^ Wilson, J.A., and Smith, M. (1996). "New remains of Amphicoelias Cope (Dinosauria: Sauropoda) from the Upper Jurassic of Montana and diplodocoid phylogeny." Journal of Vertebrate Paleontology, 16(3 Suppl.): 73A.
+^ Engelmann, G.F., Chure, D.J., and Fiorillo, A.R. (2004). "The implications of a dry climate for the paleoecology of the fauna of the Upper Jurassic Morrison Formation." In Turner, C.E., Peterson, F., and Dunagan, S.P., eds., Reconstruction of the extinct ecosystem of the Upper Jurassic Morrison Formation: Sedimentary Geology, 167: 297–308
+
+
+External links[edit]
+
+
+
+
+Dinosaurs portal
+
+
+
+
+
+
+Wikimedia Commons has media related to Amphicoelias.
+
+
+
+Discussion on the Dinosaur Mailing List:
+
+Re: Bruhathkayosaurus
+Re: Largest Dinosaurs.
+
+
+Amphicoelias - DinoData entry
+
+
+
+ 
+NewPP limit report
+CPU time usage: 5.764 seconds
+Real time usage: 6.278 seconds
+Preprocessor visited node count: 29269/1000000
+Preprocessor generated node count: 48252/1500000
+Post‐expand include size: 86601/2048000 bytes
+Template argument size: 47725/2048000 bytes
+Highest expansion depth: 39/40
+Expensive parser function count: 1/500
+Lua time usage: 0.064s
+Lua memory usage: 1.45 MB
+
+
+ Saved in parser cache with key enwiki:pcache:idhash:20597704-0!*!0!!en!4!* and timestamp 20131001102416 
+								
+				Retrieved from "http://en.wikipedia.org/w/index.php?title=Amphicoelias&oldid=559961646"				
+												Categories: Dinosaurs of North AmericaDiplodocoidsJurassic dinosaursDinosaurs of the Morrison FormationHidden categories: Wikipedia indefinitely move-protected pagesGood articlesArticles with 'species' microformatsCommons category with local link same as on Wikidata												
+							
+		
+		
+			Navigation menu
+			
+				
+	Personal tools
+	
+Create accountLog in	
+
+				
+					
+	Namespaces
+	
+					Article
+					Talk
+			
+
+
+	
+		
+	Variants
+	
+		
+					
+	
+
+				
+				
+					
+	Views
+	
+					Read
+					Edit
+					View history
+			
+
+
+	Actions
+	
+		
+					
+	
+
+
+	Search
+	
+				
+																				
+		
+	
+
+				
+			
+			
+					
+				
+	Navigation
+	
+		
+			Main page
+			Contents
+			Featured content
+			Current events
+			Random article
+			Donate to Wikipedia
+		
+	
+
+
+	Interaction
+	
+		
+			Help
+			About Wikipedia
+			Community portal
+			Recent changes
+			Contact page
+		
+	
+
+
+	Toolbox
+	
+		
+			What links here
+			Related changes
+			Upload file
+			Special pages
+			Permanent link
+			Page information
+			Data item
+Cite this page		
+	
+
+
+	Print/export
+	
+		
+			Create a book
+			Download as PDF
+			Printable version
+		
+	
+
+
+	Languages
+	
+		
+			Català
+			Česky
+			Deutsch
+			Español
+			Esperanto
+			Euskara
+			Français
+			한국어
+			Bahasa Indonesia
+			Italiano
+			עברית
+			Magyar
+			Nederlands
+			日本語
+			Norsk bokmål
+			ଓଡ଼ିଆ
+			Polski
+			Português
+			Русский
+			Simple English
+			Suomi
+			Svenska
+			Українська
+			Tiếng Việt
+			中文
+			
+			Edit links
+		
+	
+
+			
+		
+		
+							
+											 This page was last modified on 15 June 2013 at 02:35.
+											Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. 
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+									
+							
+											Privacy policy
+											About Wikipedia
+											Disclaimers
+											Contact Wikipedia
+											Developers
+											Mobile view
+									
+										
+					
+						
+					
+					
+						
+					
+				
+						
+		
+		
+
+
+ Served by mw1184 in 0.169 secs. 
+	
+if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Amphicoelias","wgTitle":"Amphicoelias","wgCurRevisionId":559961646,"wgArticleId":20597704,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Wikipedia indefinitely move-protected pages","Good articles","Articles with 'species' microformats","Commons category with local link same as on Wikidata","Dinosaurs of North America","Diplodocoids","Jurassic dinosaurs","Dinosaurs of the Morrison Formation"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Amphicoelias","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":["sysop"],"wgVectorEnabledModules":{"collapsiblenav":true,"experiments":true},"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"templateEditor":false,"templates":false,"preview":false,"previewDialog":false,"publish":false,"toc":false},"wgArticleFeedbackv5Permissions":{"aft-reader":false,"aft-member":false,"aft-editor":false,"aft-monitor":false,"aft-administrator":false,"aft-oversighter":false,"aft-noone":false},"wgVisualEditor":{"isPageWatched":false,"magnifyClipIconURL":"//bits.wikimedia.org/static-1.22wmf18/skins/common/images/magnify-clip.png","pageLanguageCode":"en","pageLanguageDir":"ltr"},"wikilove-recipient":"","wikilove-anon":0,"wgGuidedTourHelpGuiderUrl":"Help:Guided tours/guider","wgULSAcceptLanguageList":[],"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia","aftv5Article":{"id":20597704,"title":"Amphicoelias","namespace":0,"categories":["Articles with 'species' microformats","Commons category with local link same as on Wikidata","Dinosaurs of North America","Dinosaurs of the Morrison Formation","Diplodocoids","Good articles","Jurassic dinosaurs","Wikipedia indefinitely move-protected pages"],"permissionLevel":false},"wgWikibaseItemId":"Q131091"});
+}if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":false,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,
+"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"useeditwarning":1,"prefershttps":1,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"vector-simplesearch":1,"vector-collapsiblenav":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"aftv5-last-filter":null,"visualeditor-enable":0,"visualeditor-enable-experimental":0,"visualeditor-betatempdisable":0,"wikilove-enabled":1,"echo-subscriptions-web-page-review":true,"echo-subscriptions-email-page-review":false,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"echo-notify-show-link":true,"echo-show-alert":true,"echo-email-frequency":0,"echo-email-format":"html","echo-subscriptions-email-system":true,"echo-subscriptions-web-system":true,"echo-subscriptions-email-other":false,"echo-subscriptions-web-other":true,"echo-subscriptions-email-edit-user-talk":false,"echo-subscriptions-web-edit-user-talk":true,
+"echo-subscriptions-email-reverted":false,"echo-subscriptions-web-reverted":true,"echo-subscriptions-email-article-linked":false,"echo-subscriptions-web-article-linked":false,"echo-subscriptions-email-mention":false,"echo-subscriptions-web-mention":true,"echo-subscriptions-web-edit-thank":true,"echo-subscriptions-email-edit-thank":false,"gettingstarted-task-toolbar-show-intro":true,"uls-preferences":"","language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs446":false,"searchNs447":false
+,"searchNs710":false,"searchNs711":false,"searchNs828":false,"searchNs829":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-mySandbox":1,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:156d8fe0ae17f8afd74198057563e45d */
+}if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","ext.visualEditor.viewPageTarget.init","ext.wikimediaShopLink.core","ext.uls.init","ext.uls.interface","wikibase.client.init","ext.centralNotice.bannerController","skins.vector.js"]);
+}/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}if(window.mw){
+mw.loader.load(["mobile.desktop","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.cite","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","mw.MwEmbedSupport.style","ext.vector.collapsibleNav","ext.articleFeedbackv5.startup","ext.gettingstarted.logging","ext.gettingstarted.openTask","schema.HttpsSupport","ext.coreEvents.httpsSupport","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","mw.PopUpMediaTransform"],null,true);
+}

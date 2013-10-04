@@ -1,0 +1,406 @@
+
+
+
+Brachylophosaurus - Wikipedia, the free encyclopedia
+
+
+
+
+
+
+
+
+
+
+
+
+a:lang(ar),a:lang(ckb),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:0de201fdea5d684523607ed88007b127 */
+
+
+
+
+[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.22wmf18/skins/vector/csshover.min.htc")}</style><![endif]
+
+		
+		
+		
+			
+			
+						 CentralNotice 
+						Brachylophosaurus
+			
+								From Wikipedia, the free encyclopedia
+								
+												
+					Jump to:					navigation, 					search
+				
+				
+
+
+Brachylophosaurus
+Temporal range: Late Cretaceous, 76.5Ma
+
+PreЄ
+Є
+O
+S
+D
+C
+P
+T
+J
+K
+Pg
+N
+
+
+
+↓
+
+
+
+
+
+
+
+
+
+Fossil nicknamed Roberta
+
+
+Scientific classification
+
+
+Kingdom:
+Animalia
+
+
+Phylum:
+Chordata
+
+
+Class:
+Reptilia
+
+
+Superorder:
+Dinosauria
+
+
+Order:
+Ornithischia
+
+
+Suborder:
+Cerapoda
+
+
+Family:
+Hadrosauridae
+
+
+Subfamily:
+Saurolophinae
+
+
+Tribe:
+Brachylophosaurini
+
+
+Genus:
+Brachylophosaurus
+Sternberg, 1953
+
+
+Species
+
+
+
+
+B. canadensis Sternberg, 1953 (type)
+
+
+
+
+
+Brachylophosaurus (/brəˌkɪləfɵˈsɔrəs/ brə-KIL-ə-fo-SAWR-əs or /ˌbrækiˌloʊfəˈsɔrəs/ brak-i-LOH-fə-SAWR-əs; meaning "short-crested lizard", Greek brachys = short + lophos = crest + sauros = lizard, referring to its small crest) was a mid-sized member of the hadrosaurid family of dinosaurs. It is known from several skeletons and bonebed material from the Judith River Formation of Montana and the Oldman Formation of Alberta,[1] living about 76.5 million years ago.[2]
+
+
+Contents
+
+
+1 Description
+2 Discovery and later finds
+3 Habitat
+4 See also
+5 References
+6 External links
+
+
+Description[edit]
+
+
+
+
+Scale diagram comparing relative sizes of Brachylophosaurus and humans
+
+
+
+
+
+
+Restoration
+
+
+This animal is notable for its bony crest, which forms a flat, paddle-like plate over the top of the skull.[3] Some individuals had crests that covered nearly the entire skull roof, while others had shorter, narrower crests.[4] Some researchers have suggested it was used for pushing contests,[5][6] but it may not have been strong enough for this. Other notable features are the unusually long forelimbs and the beak of the upper jaw being wider than other contemporary hadrosaurs.[3]
+Apart from the above, Brachylophosaurus was a typical hadrosaur which reached an adult length of 9 meters (30 ft).[3] Like other hadrosaurs, Brachylophosaurus possessed features like cheeks to keep fodder in the mouth and dental batteries consisting of hundreds of teeth.[3] These teeth could be used to chew efficiently,[3] a feature rare among reptiles, but common among ornithischian dinosaurs like Brachylophosaurus.
+In 2003, evidence of tumors, including hemangiomas, desmoplastic fibroma, metastatic cancer, and osteoblastoma was discovered in fossilized Brachylophosaurus skeletons. Rothschild et al. tested dinosaur vertebrae for tumors using computerized tomography and fluoroscope screening. Several other hadrosaurids, including Edmontosaurus, Gilmoreosaurus, and Bactrosaurus, also tested positive. Although more than 10,000 fossils were examined in this manner, the tumors were limited to Brachylophosaurus and closely related genera. The tumors may have been caused by environmental factors or genetic propensity.[7]
+Discovery and later finds[edit]
+Brachylophosaurus was first described by Charles M. Sternberg in 1953 for a skull and partial skeleton which had been found in 1936, and at first thought to belong to Gryposaurus (or Kritosaurus as it was known at the time).[8] This remained the only described specimen until the 1980s, when Jack Horner described B. goodwini in 1988. This species was found in the Judith River Formation of Montana.[9] Later work indicated that the differences were probably not enough to justify the second species, and that some of the perceived differences were due to a misoriented skull bone.[4] Brachylophosaurus has subsequently become better known from fossils found in Montanta than Alberta, despite its species name canadensis.
+
+
+
+
+Ventral view of the skull and neck of "Leonardo"
+
+
+In 1994, amateur paleontologist Nate Murphy discovered an immaculate, complete and uncrushed brachylophosaur skeleton which he nicknamed "Elvis".[10] More impressive finds lay ahead for Murphy and his team from the Judith River Dinosaur Institute. In 2000, "Leonardo", a fully articulated and partially mummified skeleton of a subadult brachylophosaur, was discovered.[11][12] It is considered one of the most spectacular dinosaur finds ever, and was included in the Guinness Book of World Records.[13] They subsequently excavated "Roberta", an almost complete gracile skeleton, and "Peanut", a partially preserved juvenile with some skin impressions.[14] In May 2008, Steven Cowan, public-relations coordinator at the Houston Museum of Natural Science, discovered a Brachylophosaurus skeleton subsequently dubbed "Marco" from the same area as Leonardo.[15]
+Habitat[edit]
+Some of the less common hadrosaurs in the Dinosaur Park Formation of Dinosaur Provincial Park like Brachylophosaurus may represent the remains of individuals who died while migrating through the region.[16] They might also have had a more upland habitat where they may have nested or fed.[16]
+See also[edit]
+
+
+
+
+Dinosaurs portal
+
+
+
+Related animals
+
+Maiasaura[3]
+Prosaurolophus[3]
+
+References[edit]
+
+
+^ Horner, John R.; Weishampel, David B.; and Forster, Catherine A (2004). "Hadrosauridae". In Weishampel, David B.; Osmólska, Halszka; and Dodson, Peter (eds.). The Dinosauria (2nd ed.). Berkeley: University of California Press. pp. 438–463. ISBN 0-520-24209-2. 
+^ Arbour, V. M.; Burns, M. E.; and Sissons, R. L. (2009). "A redescription of the ankylosaurid dinosaur Dyoplosaurus acutosquameus Parks, 1924 (Ornithischia: Ankylosauria) and a revision of the genus". Journal of Vertebrate Paleontology 29 (4): 1117–1135. doi:10.1671/039.029.0405. 
+^ a b c d e f g "Brachylophosaurus." In: Dodson, Peter & Britt, Brooks & Carpenter, Kenneth & Forster, Catherine A. & Gillette, David D. & Norell, Mark A. & Olshevsky, George & Parrish, J. Michael & Weishampel, David B. The Age of Dinosaurs. Publications International, LTD. p. 134. ISBN 0-7853-0443-6.
+^ a b Prieto-Marquez, Alberto (2005). "New information on the cranium of Brachylophosaurus, with a revision of its phylogenetic position". Journal of Vertebrate Paleontology 25 (1): 144–156. doi:10.1671/0272-4634(2005)025[0144:NIOTCO]2.0.CO;2. 
+^ Hopson, James A. (1975). "The evolution of cranial display structures in hadrosaurian dinosaurs". Paleobiology 1 (1): 21–43. 
+^ Weishampel, David B.; and Horner, Jack R. (1990). "Hadrosauridae". In Weishampel, David B.; Osmólska, Halszka; and Dodson, Peter (eds.). The Dinosauria (1st ed.). Berkeley: University of California Press. pp. 534–561. ISBN 0-520-06727-4. 
+^ Rothschild, B.M.; Tanke, D.H., Helbling II, M. and Martin, L.D. (2003). "Epidemiologic study of tumors in dinosaurs". Naturwissenschaften 90 (11): 495–500. doi:10.1007/s00114-003-0473-9. PMID 14610645. Retrieved 2008-07-25. 
+^ Sternberg, Charles M. (1953). "A new hadrosaur from the Oldman Formation of Alberta: Discussion of nomenclature". Canadian Department of Resource Development Bulletin 128: 1–12. 
+^ Horner, John R. (1988). "A new hadrosaur (Reptilia, Ornithischia) from the Upper Cretaceous Judith River Formation of Montana". Journal of Vertebrate Paleontology 8 (3): 314–321. doi:10.1080/02724634.1988.10011714. 
+^ "Brachylophosaurus dinosaur discovery". Judith River Dinosaur Institute. 2002. Retrieved 2008-07-13. 
+^ Murphy, Nate L.; Trexler, David; and Thompson, Mark (2006). ""Leonardo," a mummified Brachylophosaurus from the Judith River Formation". In Carpenter, Kenneth (ed.). Horns and Beaks: Ceratopsian and Ornithopod Dinosaurs. Bloomington and Indianapolis: Indiana University Press. pp. 117–133. ISBN 0-253-34817-X. 
+^ "Dear Mummy: Rare fossil reveals common dinosaur's soft tissue: Science News Online,". 2002-10-19. Archived from the original on 2007-01-14. Retrieved 2007-07-06. 
+^ "Brachylophosaurus dinosaur discovery". Judith River Dinosaur Institute. 2002. Retrieved 2008-07-13. 
+^ Newhouse, Eric (2008-06-01). "Malta dinosaur museum read to roar". Great Falls Tribune. Retrieved 2008-07-13. [dead link]
+^ Newhouse, Eric (2008-06-02). "Badlands yield another impressive fossil". Great Falls Tribune. Retrieved 2008-07-13. 
+^ a b Tanke, D.H. and Brett-Surman, M.K. 2001. Evidence of Hatchling and Nestling-Size Hadrosaurs (Reptilia:Ornithischia) from Dinosaur Provincial Park (Dinosaur Park Formation: Campanian), Alberta, Canada. pp. 206-218. In: Mesozoic Vertebrate Life—New Research Inspired by the Paleontology of Philip J. Currie. Edited by D.H. Tanke and K. Carpenter. Indiana University Press: Bloomington. xviii + 577 pp.
+
+
+External links[edit]
+
+The Judith River Dinosaur Institute
+Brachylophosaurus from SkeletalDrawing.com
+Brachylophosaurus at DinoData
+
+
+
+ 
+NewPP limit report
+CPU time usage: 2.892 seconds
+Real time usage: 3.177 seconds
+Preprocessor visited node count: 20353/1000000
+Preprocessor generated node count: 36036/1500000
+Post‐expand include size: 92573/2048000 bytes
+Template argument size: 22125/2048000 bytes
+Highest expansion depth: 20/40
+Expensive parser function count: 1/500
+Lua time usage: 0.057s
+Lua memory usage: 2.48 MB
+
+
+ Saved in parser cache with key enwiki:pcache:idhash:2817347-0!*!0!!en!4!* and timestamp 20131002164856 
+								
+				Retrieved from "http://en.wikipedia.org/w/index.php?title=Brachylophosaurus&oldid=557844545"				
+												Categories: Cretaceous dinosaursHadrosaursDinosaurs of North AmericaFossil taxa described in 1953Hidden categories: All articles with dead external linksArticles with dead external links from October 2010Articles with 'species' microformats												
+							
+		
+		
+			Navigation menu
+			
+				
+	Personal tools
+	
+Create accountLog in	
+
+				
+					
+	Namespaces
+	
+					Article
+					Talk
+			
+
+
+	
+		
+	Variants
+	
+		
+					
+	
+
+				
+				
+					
+	Views
+	
+					Read
+					Edit
+					View history
+			
+
+
+	Actions
+	
+		
+					
+	
+
+
+	Search
+	
+				
+																				
+		
+	
+
+				
+			
+			
+					
+				
+	Navigation
+	
+		
+			Main page
+			Contents
+			Featured content
+			Current events
+			Random article
+			Donate to Wikipedia
+		
+	
+
+
+	Interaction
+	
+		
+			Help
+			About Wikipedia
+			Community portal
+			Recent changes
+			Contact page
+		
+	
+
+
+	Toolbox
+	
+		
+			What links here
+			Related changes
+			Upload file
+			Special pages
+			Permanent link
+			Page information
+			Data item
+Cite this page		
+	
+
+
+	Print/export
+	
+		
+			Create a book
+			Download as PDF
+			Printable version
+		
+	
+
+
+	Languages
+	
+		
+			Català
+			Česky
+			Español
+			Français
+			한국어
+			Italiano
+			Magyar
+			Nederlands
+			Polski
+			Português
+			Русский
+			Simple English
+			Slovenčina
+			中文
+			
+			Edit links
+		
+	
+
+			
+		
+		
+							
+											 This page was last modified on 1 June 2013 at 15:38.
+											Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. 
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+									
+							
+											Privacy policy
+											About Wikipedia
+											Disclaimers
+											Contact Wikipedia
+											Developers
+											Mobile view
+									
+										
+					
+						
+					
+					
+						
+					
+				
+						
+		
+		
+
+
+ Served by mw1039 in 0.160 secs. 
+	
+if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Brachylophosaurus","wgTitle":"Brachylophosaurus","wgCurRevisionId":557844545,"wgArticleId":2817347,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["All articles with dead external links","Articles with dead external links from October 2010","Articles with 'species' microformats","Cretaceous dinosaurs","Hadrosaurs","Dinosaurs of North America","Fossil taxa described in 1953"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Brachylophosaurus","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgVectorEnabledModules":{"collapsiblenav":true,"experiments":true},"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"templateEditor":false,"templates":false,"preview":false,"previewDialog":false,"publish":false,"toc":false},"wgArticleFeedbackv5Permissions":{"aft-reader":true,"aft-member":false,"aft-editor":false,"aft-monitor":false,"aft-administrator":false,"aft-oversighter":false,"aft-noone":false},"wgVisualEditor":{"isPageWatched":false,"magnifyClipIconURL":"//bits.wikimedia.org/static-1.22wmf18/skins/common/images/magnify-clip.png","pageLanguageCode":"en","pageLanguageDir":"ltr"},"wikilove-recipient":"","wikilove-anon":0,"wgGuidedTourHelpGuiderUrl":"Help:Guided tours/guider","wgULSAcceptLanguageList":[],"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia","aftv5Article":{"id":2817347,"title":"Brachylophosaurus","namespace":0,"categories":["All articles with dead external links","Articles with 'species' microformats","Articles with dead external links from October 2010","Cretaceous dinosaurs","Dinosaurs of North America","Fossil taxa described in 1953","Hadrosaurs"],"permissionLevel":false},"wgWikibaseItemId":"Q731948"});
+}if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":false,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,
+"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"useeditwarning":1,"prefershttps":1,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"vector-simplesearch":1,"vector-collapsiblenav":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"aftv5-last-filter":null,"visualeditor-enable":0,"visualeditor-enable-experimental":0,"visualeditor-betatempdisable":0,"wikilove-enabled":1,"echo-subscriptions-web-page-review":true,"echo-subscriptions-email-page-review":false,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"echo-notify-show-link":true,"echo-show-alert":true,"echo-email-frequency":0,"echo-email-format":"html","echo-subscriptions-email-system":true,"echo-subscriptions-web-system":true,"echo-subscriptions-email-other":false,"echo-subscriptions-web-other":true,"echo-subscriptions-email-edit-user-talk":false,"echo-subscriptions-web-edit-user-talk":true,
+"echo-subscriptions-email-reverted":false,"echo-subscriptions-web-reverted":true,"echo-subscriptions-email-article-linked":false,"echo-subscriptions-web-article-linked":false,"echo-subscriptions-email-mention":false,"echo-subscriptions-web-mention":true,"echo-subscriptions-web-edit-thank":true,"echo-subscriptions-email-edit-thank":false,"gettingstarted-task-toolbar-show-intro":true,"uls-preferences":"","language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs446":false,"searchNs447":false
+,"searchNs710":false,"searchNs711":false,"searchNs828":false,"searchNs829":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-mySandbox":1,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:156d8fe0ae17f8afd74198057563e45d */
+}if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","ext.visualEditor.viewPageTarget.init","ext.wikimediaShopLink.core","ext.uls.init","ext.uls.interface","wikibase.client.init","ext.centralNotice.bannerController","skins.vector.js"]);
+}/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}if(window.mw){
+mw.loader.load(["mobile.desktop","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.cite","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","mw.MwEmbedSupport.style","ext.vector.collapsibleNav","ext.articleFeedbackv5.startup","ext.gettingstarted.logging","ext.gettingstarted.openTask","schema.HttpsSupport","ext.coreEvents.httpsSupport","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","mw.PopUpMediaTransform"],null,true);
+}

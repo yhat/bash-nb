@@ -1,0 +1,382 @@
+
+
+
+Brontomerus - Wikipedia, the free encyclopedia
+
+
+
+
+
+
+
+
+
+
+
+
+a:lang(ar),a:lang(ckb),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:0de201fdea5d684523607ed88007b127 */
+
+
+
+
+[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.22wmf19/skins/vector/csshover.min.htc")}</style><![endif]
+
+		
+		
+		
+			
+			
+						 CentralNotice 
+						Brontomerus
+			
+								From Wikipedia, the free encyclopedia
+								
+												
+					Jump to:					navigation, 					search
+				
+				
+
+
+Brontomerus
+Temporal range: Lower Cretaceous, Aptian–Albian
+
+PreЄ
+Є
+O
+S
+D
+C
+P
+T
+J
+K
+Pg
+N
+
+
+
+
+
+
+
+
+
+
+
+
+
+Artist's restoration of Brontomerus utilizing its large abductor muscles to defend against a predator
+
+
+Scientific classification 
+
+
+Kingdom:
+Animalia
+
+
+Phylum:
+Chordata
+
+
+Clade:
+Sauropsida
+
+
+Clade:
+Dinosauria
+
+
+Suborder:
+†Sauropodomorpha
+
+
+Clade:
+†Camarasauromorpha
+
+
+Genus:
+†Brontomerus
+Taylor, Wedel & Cifelli, 2011
+
+
+Species
+
+
+
+B. mcintoshi Taylor, Wedel & Cifelli, 2011 (type)
+
+
+
+
+Brontomerus (from Greek bronte meaning "thunder", and merós meaning "thigh") is a dubious[1] genus of camarasauromorph sauropod which lived during the early Cretaceous (Aptian or Albian age, approximately 110 million years ago). It was named in 2011 and the type species is Brontomerus mcintoshi. It is probably a fairly basal camarasauromorph, though the taxon is difficult to resolve due to incompleteness of the material. It is most remarkable for its unusual hipbones, which would have supported the largest thigh muscles, proportionally, of any known sauropod.[2] The specific name is in honor of physicist and North American sauropod guru John "Jack" Stanton McIntosh.[2][3]
+
+
+Contents
+
+
+1 Discovery
+2 Description
+3 Phylogeny
+4 Morphology and behavior
+5 References
+
+
+Discovery[edit]
+
+
+
+
+All known remains
+
+
+Fossils of Brontomerus were recovered from a quarry at the top of the Ruby Ranch Member of the Cedar Mountain Formation in eastern Utah, USA.[2] The specimens were originally collected in 1994 and 1995 by a team of researchers from the Sam Noble museum of Norman, Oklahoma.[4] It was named and described by Michael P. Taylor, Mathew J. Wedel and Richard L. Cifelli, an international team from the University College London, Western University of Health Sciences and the Sam Noble Oklahoma Museum of Natural History.[5] The fossils were recovered from a locality known as the Hotel Mesa Quarry in easternmost Grand County, Utah. The site had been previously known to private collectors, who had already removed a considerable number of fossils, some of which may have been scientifically valuable. Exposed bones that remained were in various states of disrepair: some had even been broken and their pieces used to hold down a plastic tarpaulin.[2] Due in part to this "pillaging" of the fossil site, the team was unable to recover more complete specimens.[5]
+Description[edit]
+
+
+
+
+The unique and massive hipbone of Brontomerus
+
+
+Brontomerus is known from two fragmentary specimens differing in size, likely a juvenile and an adult.[2] The researchers speculate that the adult may have been the mother of the juvenile.[6] The type specimen, OMNH 66430, is represented by the left ilium of the smaller individual. Other recovered fossils include a crushed presacral centrum, several caudal vertebrae, a right-side dorsal rib, a large scapula, and two partial sternal plates.[2] The adult specimen is thought to have weighed around six tons, and probably measured around 14 meters (46 ft) in length. The juvenile specimen had about a third of this length, and probably weighed around 200 kilograms and measured 4.5 meters (15 ft) in length.[6]
+Its assignment to a new species is based on several noteworthy autapomorphies, including an oddly-shaped hipbone which would have permitted the attachment of unusually massive leg muscles.[2] This unique ilium would have given it the largest leg muscles of any sauropod dinosaur.[7] The ilium is unusual in being very deep and having a front part that is much larger than the part behind the hip socket.[2]
+Phylogeny[edit]
+Based on phylogenetic analysis using a 50% majority rule tree, Brontomerus is placed as a basal somphospondyl within Titanosauriformes, in a trichotomy with Euhelopus and the Titanosauria. A strict consensus tree was also calculated, but yielded poorly resolved results.[2] A more recent phylogenetic analysis of the Titanosauriformes determined Brontomerus to be a nomen dubium due to the holotype's fragmentary, nondiagnostic nature.[1]
+Morphology and behavior[edit]
+
+
+
+
+Reconstruction of Brontomerus using its strong femoral protraction muscles to deliver a kick to a Utahraptor
+
+
+Dr. Michael Taylor, one of the dinosaur's describers, theorizes that it can be determined that these muscles were probably used for functions other than speed. He points out that for fast movement, the strong muscles would be oriented at the back of the leg to pull it along, but the actual positioning of the muscles indicates they were more likely used to deliver a kick.[6] This is due to the apparent anchoring of large femoral protraction muscles, which would have been used to move the leg forward powerfully. Large femoral retraction muscles, on the other hand, are needed to for fast forward locomotion, and the ilium of Brontomerus offers little attachment area for these, though this does not necessarily imply weak retraction muscles as these would have been mostly anchored on the tail-base rather than the ilium.[2] The supposed kicks would have possibly been used for fighting over mates or in defense against predators,[6] such as Utahraptor and Deinonychus.[3]
+
+
+
+
+Skeletal restoration
+
+
+Doctor Mathew Wedel, assistant professor of anatomy at the Western University of Health Sciences in Pomona, California, has stated that since it has been commonly been assumed that sauropods tend to prefer drier, upload areas, perhaps Brontomerus may have used its powerful leg muscles for traversing rough, hilly terrain. He described the theoretical use of such muscles in this terrain as "a sort of dinosaur four-wheel drive."[7]
+In addition to powerful protraction muscles, the ilium of Brontomerus would have also anchored abductor muscles, which are muscles used for drawing the leg laterally away from the body. These muscles would have been necessary for creating abduction torque when standing, and could have theoretically aided in an occasional bipedal stance or even limited bipedal walking. Another possible explanation for the proportionally large leg muscles is that they were used to control unusually long legs. While no material from the legs is known, the large anterior expansion of the scapula provides only weak support for this hypothesis. If this interpretation is correct, however, the morphology of Brontomerus may have resembled that of a giraffe.[2]
+Despite these theories, the actual data on the ilium and its powerful muscles indicates only that the animal was "unusually athletic for a sauropod." The authors acknowledge that while the unusual qualities of the hipbone probably have some functional significance, it is difficult to assess without further information about the pelvis, femora and proximal caudals.[2]
+References[edit]
+
+
+
+
+Dinosaurs portal
+
+
+
+
+
+
+Wikimedia Commons has media related to Brontomerus.
+
+
+
+
+^ a b D'Emic, M. D. (2012). "The early evolution of titanosauriform sauropod dinosaurs". Zoological Journal of the Linnean Society 166 (3): 624–671. doi:10.1111/j.1096-3642.2012.00853.x. 
+^ a b c d e f g h i j k l Taylor, Michael P.; Wedel, Mathew J.; Cifelli, Richard L. (2011). "Brontomerus mcintoshi, a new sauropod dinosaur from the Lower Cretaceous Cedar Mountain Formation, Utah, USA". Acta Palaeontologica Polonica 56 (1): 75–98. doi:10.4202/app.2010.0073.  edit
+^ a b "Cosmos - New dinosaur had biggest known hips, thighs". Cosmos magazine. 2011-02-22. Retrieved 2011-02-22. 
+^ "NewsOK - Oklahoma researchers from Sam Noble museum instrumental in new dinosaur discovery". NewsOK news. 2011-02-22. Retrieved 2011-02-22. 
+^ a b "Sify news - Scientists name new dino species 'thunder thighs'". Sify news. 2011-02-22. Retrieved 2011-02-22. 
+^ a b c d "BBC News - Dinosaur had 'thunder-thighs'". Bbc.co.uk. 2011-02-22. Retrieved 2011-02-22. 
+^ a b "News.com.au - 'Thunder Thighs' dinosaur Brontomerus discovered". news.com.au. 2011-02-22. Retrieved 2011-02-22. 
+
+
+
+
+ 
+NewPP limit report
+CPU time usage: 5.592 seconds
+Real time usage: 5.875 seconds
+Preprocessor visited node count: 26900/1000000
+Preprocessor generated node count: 37726/1500000
+Post‐expand include size: 87379/2048000 bytes
+Template argument size: 44358/2048000 bytes
+Highest expansion depth: 39/40
+Expensive parser function count: 2/500
+Lua time usage: 0.053s
+Lua memory usage: 1.76 MB
+
+
+ Saved in parser cache with key enwiki:pcache:idhash:30977487-0!*!0!!en!4!* and timestamp 20131003160122 
+								
+				Retrieved from "http://en.wikipedia.org/w/index.php?title=Brontomerus&oldid=573533866"				
+												Categories: Dinosaurs of North AmericaCretaceous dinosaursSauropodsFossil taxa described in 2011Hidden categories: Articles with 'species' microformatsCommons category template with no category setCommons category with page title same as on Wikidata												
+							
+		
+		
+			Navigation menu
+			
+				
+	Personal tools
+	
+Create accountLog in	
+
+				
+					
+	Namespaces
+	
+					Article
+					Talk
+			
+
+
+	
+		
+	Variants
+	
+		
+					
+	
+
+				
+				
+					
+	Views
+	
+					Read
+					Edit
+					View history
+			
+
+
+	Actions
+	
+		
+					
+	
+
+
+	Search
+	
+				
+																				
+		
+	
+
+				
+			
+			
+					
+				
+	Navigation
+	
+		
+			Main page
+			Contents
+			Featured content
+			Current events
+			Random article
+			Donate to Wikipedia
+		
+	
+
+
+	Interaction
+	
+		
+			Help
+			About Wikipedia
+			Community portal
+			Recent changes
+			Contact page
+		
+	
+
+
+	Toolbox
+	
+		
+			What links here
+			Related changes
+			Upload file
+			Special pages
+			Permanent link
+			Page information
+			Data item
+Cite this page		
+	
+
+
+	Print/export
+	
+		
+			Create a book
+			Download as PDF
+			Printable version
+		
+	
+
+
+	Languages
+	
+		
+			Česky
+			Deutsch
+			Español
+			Français
+			Nederlands
+			Polski
+			Português
+			Русский
+			Українська
+			中文
+			
+			Edit links
+		
+	
+
+			
+		
+		
+							
+											 This page was last modified on 18 September 2013 at 18:28.
+											Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. 
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+									
+							
+											Privacy policy
+											About Wikipedia
+											Disclaimers
+											Contact Wikipedia
+											Developers
+											Mobile view
+									
+										
+					
+						
+					
+					
+						
+					
+				
+						
+		
+		
+
+
+ Served by mw1090 in 0.210 secs. 
+	
+if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Brontomerus","wgTitle":"Brontomerus","wgCurRevisionId":573533866,"wgRevisionId":573533866,"wgArticleId":30977487,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with 'species' microformats","Commons category template with no category set","Commons category with page title same as on Wikidata","Dinosaurs of North America","Cretaceous dinosaurs","Sauropods","Fossil taxa described in 2011"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Brontomerus","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgVectorEnabledModules":{"collapsiblenav":true,"experiments":true},"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"templateEditor":false,"templates":false,"preview":false,"previewDialog":false,"publish":false,"toc":false},"wgArticleFeedbackv5Permissions":{"aft-reader":false,"aft-member":false,"aft-editor":false,"aft-monitor":false,"aft-administrator":false,"aft-oversighter":false,"aft-noone":false},"wgVisualEditor":{"isPageWatched":false,"magnifyClipIconURL":"//bits.wikimedia.org/static-1.22wmf19/skins/common/images/magnify-clip.png","pageLanguageCode":"en","pageLanguageDir":"ltr"},"wikilove-recipient":"","wikilove-anon":0,"wgGuidedTourHelpGuiderUrl":"Help:Guided tours/guider","wgULSAcceptLanguageList":[],"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia","aftv5Article":{"id":30977487,"title":"Brontomerus","namespace":0,"categories":["Articles with 'species' microformats","Commons category template with no category set","Commons category with page title same as on Wikidata","Cretaceous dinosaurs","Dinosaurs of North America","Fossil taxa described in 2011","Sauropods"],"permissionLevel":false},"wgWikibaseItemId":"Q133171"});
+}if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":false,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,
+"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"useeditwarning":1,"prefershttps":1,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"vector-simplesearch":1,"vector-collapsiblenav":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"aftv5-last-filter":null,"visualeditor-enable":0,"visualeditor-enable-experimental":0,"visualeditor-betatempdisable":0,"wikilove-enabled":1,"echo-subscriptions-web-page-review":true,"echo-subscriptions-email-page-review":false,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"echo-notify-show-link":true,"echo-show-alert":true,"echo-email-frequency":0,"echo-email-format":"html","echo-subscriptions-email-system":true,"echo-subscriptions-web-system":true,"echo-subscriptions-email-other":false,"echo-subscriptions-web-other":true,"echo-subscriptions-email-edit-user-talk":false,"echo-subscriptions-web-edit-user-talk":true,
+"echo-subscriptions-email-reverted":false,"echo-subscriptions-web-reverted":true,"echo-subscriptions-email-article-linked":false,"echo-subscriptions-web-article-linked":false,"echo-subscriptions-email-mention":false,"echo-subscriptions-web-mention":true,"echo-subscriptions-web-edit-thank":true,"echo-subscriptions-email-edit-thank":false,"gettingstarted-task-toolbar-show-intro":true,"uls-preferences":"","language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs446":false,"searchNs447":false
+,"searchNs710":false,"searchNs711":false,"searchNs828":false,"searchNs829":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-mySandbox":1,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:156d8fe0ae17f8afd74198057563e45d */
+}if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","ext.visualEditor.viewPageTarget.init","ext.wikimediaShopLink.core","ext.uls.init","ext.uls.interface","wikibase.client.init","ext.centralNotice.bannerController","skins.vector.js"]);
+}/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}if(window.mw){
+mw.loader.load(["mobile.desktop","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.cite","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","mw.MwEmbedSupport.style","ext.vector.collapsibleNav","ext.articleFeedbackv5.startup","ext.gettingstarted.logging","ext.gettingstarted.openTask","schema.HttpsSupport","ext.coreEvents.httpsSupport","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","mw.PopUpMediaTransform"],null,true);
+}

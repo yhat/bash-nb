@@ -1,0 +1,602 @@
+
+
+
+Gryposaurus - Wikipedia, the free encyclopedia
+
+
+
+
+
+
+
+
+
+
+
+
+a:lang(ar),a:lang(ckb),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:0de201fdea5d684523607ed88007b127 */
+
+
+
+
+[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.22wmf18/skins/vector/csshover.min.htc")}</style><![endif]
+
+		
+		
+		
+			
+			
+						 CentralNotice 
+						Gryposaurus
+			
+								From Wikipedia, the free encyclopedia
+								
+												
+					Jump to:					navigation, 					search
+				
+				
+
+
+
+Gryposaurus
+Temporal range: Late Cretaceous, 83–75.5Ma
+
+PreЄ
+Є
+O
+S
+D
+C
+P
+T
+J
+K
+Pg
+N
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mounted skeleton in Utah Museum
+
+
+Scientific classification
+
+
+Kingdom:
+Animalia
+
+
+Phylum:
+Chordata
+
+
+Class:
+Reptilia
+
+
+Superorder:
+Dinosauria
+
+
+Order:
+Ornithischia
+
+
+Family:
+Hadrosauridae
+
+
+Subfamily:
+Saurolophinae
+
+
+Tribe:
+Kritosaurini
+
+
+Genus:
+Gryposaurus
+Lambe, 1914
+
+
+Species
+
+
+
+
+G. notabilis Lambe, 1914 (type)
+G. latidens Horner, 1992
+G. monumentensis Gates & Sampson, 2007
+
+
+
+
+Synonyms
+
+
+
+
+"Hadrosauravus" (nomen nudum) Lambert, 1990
+
+
+
+
+
+Gryposaurus (meaning "hooked-nosed (Greek grypos) lizard";[1] sometimes incorrectly translated as "griffin (Latin gryphus) lizard"[2]) was a genus of duckbilled dinosaur that lived about 83 to 75.5 million years ago, in the Late Cretaceous (late Santonian to late Campanian stages) of North America. Named species of Gryposaurus are known from the Dinosaur Park Formation in Alberta, Canada and the Lower Two Medicine Formation in Montana and the Kaiparowits Formation of Utah in the United States.
+Gryposaurus is similar to Kritosaurus, and for many years was regarded as the same genus. It is known from numerous skulls, some skeletons, and even some skin impressions that show it to have had pyramidal scales pointing out along the midline of the back. It is most easily distinguished from other duckbills by its narrow arching nasal hump, sometimes described as similar to a "Roman nose,"[1] and which may have been used for species or sexual identification, and/or combat with individuals of the same species. A large bipedal/quadrupedal herbivore around 9 meters long (30 ft), it may have preferred river settings.
+
+
+Contents
+
+
+1 Description
+2 Classification
+3 Discovery and history
+
+3.1 Species
+
+
+4 Paleobiology
+
+4.1 Nasal arch
+
+
+5 References
+6 External links
+
+
+Description[edit]
+
+
+
+
+G. notabilis restoration
+
+
+Gryposaurus was a hadrosaurid of typical size and shape; one of the best specimens of this genus, the nearly complete type specimen of Kritosaurus incurvimanus (now regarded as a synonym of Gryposaurus notabilis) came from an animal about 8.2 meters long (27 feet).[3] This specimen also has the best example of skin impressions for Gryposaurus, showing this dinosaur to have had several different types of scalation: pyramidal, ridged, limpet-shaped scutes upwards of 3.8 centimeters long (1.5 inches) on the flank and tail; uniform polygonal scales on the neck and sides of the body; and pyramidal structures, flattened side-to-side, with fluted sides, longer than tall and found along the top of the back in a single midline row.[4]
+The three named species of Gryposaurus differ in details of the skull and lower jaw.[2] The prominent nasal arch found in this genus is formed from the paired nasal bones. In profile view, they rise into a rounded hump in front of the eyes, reaching a height as tall as the highest point of the back of the skull.[5] The skeleton is known in great detail,[6] making it a useful point of reference for other duckbill skeletons.
+Classification[edit]
+Gryposaurus was a hadrosaurine hadrosaurid, a member of the duckbill subfamily without hollow head crests.[7] The general term "gryposaur" is sometimes used for duckbills with arched nasals.[8] Tethyshadros was once thought to fall into this group as well, before it was described (then known under the nickname "Antonio").[9] A subfamily, Gryposaurinae, was coined by Jack Horner for it as part of a larger revision that promoted Hadrosaurinae to family status,[10] but is not in use. The issue of its relationships to other hadrosaurs is equivocal anyway due to the lack of resolution on how it compares to Kritosaurus. At this time, the main differences between the two are location (Alberta and Montana for Gryposaurus, New Mexico for Kritosaurus) and age (Kritosaurus comes from slightly younger rocks than Gryposaurus). Otherwise, the skull of Kritosaurus is incompletely known, lacking most of the bones in front of the eyes, but very similar to that of Gryposaurus.[11]
+The following is a cladogram based on the phylogenetic analysis conducted by Prieto-Márquez and Wagner in 2012, showing the relationships of Gryposaurus among the other Kritosaurini:[12]
+
+
+ Kritosaurini
+
+
+
+
+
+Wulagasaurus
+
+
+
+
+
+
+
+
+
+
+
+
+Kritosaurus
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Gryposaurus latidens
+
+
+
+
+
+
+
+
+
+
+
+
+Gryposaurus notabilis
+
+
+
+
+
+
+
+
+Gryposaurus monumentensis
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Unnamed Big Bend species
+
+
+
+
+
+
+
+
+
+
+
+
+Secernosaurus
+
+
+
+
+
+
+
+
+Willinakaqe
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Discovery and history[edit]
+
+
+
+
+G. notabilis (formerly G. incurvimanus), collected 1918
+
+
+Gryposaurus is based on specimen NMC 2278, a skull and partial skeleton collected in 1913 by George F. Sternberg from what is now known as the Dinosaur Park Formation of Alberta, along the Red Deer River.[2] This specimen was described and named by Lawrence Lambe shortly thereafter, Lambe drawing attention to its unusual nasal crest.[5] A few years earlier, Barnum Brown had collected and described a partial skull from New Mexico, which he named Kritosaurus. This skull was missing the snout, which had eroded into fragments; Brown restored it after the duckbill now known as Anatotitan, which was flat-headed,[13] and believed that some unusual pieces were evidence of compression.[11] Lambe's description of Gryposaurus provided evidence of a different type of head, and by 1916 the Kritosaurus skull had been redone with a nasal arch and both Brown and Charles Gilmore had proposed that Gryposaurus and Kritosaurus were one and the same.[14][15] Although this idea was not fully supported at the time, it was certainly in the air, as shown by William Parks's naming of a nearly complete skeleton from the Dinosaur Park Formation as Kritosaurus incurvimanus, not Gryposaurus incurvimanus (interestingly, he left Gryposaurus notabilis alone in its own genus).[16] Frustratingly, this skeleton is missing the front part of the skull, ending just before the full shape of the nasal arch can be seen. The 1942 publication of the influential Lull and Wright monograph on hadrosaurs sealed the Kritosaurus/Gryposaurus question for nearly fifty years in favor of Kritosaurus. Reviews beginning in the 1990s, however, called into question the identity of Kritosaurus, which has limited material for comparison with other duckbills.[8] Thus, Gryposaurus has once again been separated, at least temporarily, from Kritosaurus.
+
+
+
+
+Skull, Royal Tyrrell Museum
+
+
+This situation is made more confusing by old suggestions by some authors, including Jack Horner, that Hadrosaurus is also the same as either Gryposaurus, Kritosaurus, or both.[17] This hypothesis was most common in the late 1970s-early 1980s, and appears in some popular books;[18][19] one well-known work, The Illustrated Encyclopedia of Dinosaurs, uses Kritosaurus for the Canadian material (Gryposaurus), but confusingly identifies the mounted skeleton of K. incurvimanus as Hadrosaurus in a photo caption.[20] Although Horner in 1979 used the new combination Hadrosaurus [Kritosaurus] notabilis for a partial skull and skeleton and a second less-complete skeleton from the Bearpaw Shale of Montana[17] (which have since fallen out of the literature), by 1990 he had changed his position, and was among the first to again use Gryposaurus in print.[8] Current thought is that Hadrosaurus, although known from fragmentary material, can be distinguished from Gryposaurus by differences in the upper arm and ilium.[21]
+Further research has revealed the presence of a third species, G. latidens, from slightly older rocks in Montana than the classic gryposaur localities of Alberta. Based on two parts of a skeleton collected in 1916 for the American Museum of Natural History,[22] G. latidens is also known from bonebed material. Horner, who described the specimens, considered to be a less derived species.[10]
+New material from the Kaiparowits Formation of Utah, in Grand Staircase-Escalante National Monument, includes a skull and partial skeleton that represent the species G. monumentensis. Its skull was more robust than that of the other species, and its predentary had enlarged prongs along its upper margin, where the lower jaw's beak was based. This new species greatly expands the geographic range of this genus, and there may be a second, more lightly built species present as well.[23] Multiple gryposaur species are known from the Kaiparowits, from cranial and postcranial remains, and were larger than their northern counterparts.[24]
+Species[edit]
+
+
+
+
+Unnamed species from Mexico
+
+
+Three named species are recognized today: G. notabilis, G. latidens, and G. monumentensis.[25] The type species G. notabilis is from the late Campanian-age Upper Cretaceous Dinosaur Park Formation of Alberta, Canada.[25] It is now thought to be the same as another species, G. incurvimanus from the same formation.[25] The two had been differentiated by the size of the nasal arch (larger and closer to the eyes in G. notabilis) and the form of the upper arm (longer and more robust in G. incurvimanus).[10] Ten complete skulls and twelve fragmentary skulls are known for G. notabilis along with postcrania,[7] as well as with two skeletons with skulls that had been assigned to G. incurvimanus.[26] G. latidens, from the late Santonian-early Campanian Lower Two Medicine Formation of Pondera County, Montana, USA, is known from partial skulls and skeletons from several individuals. Its nasal arch is prominent like that of G. notabilis, but farther forward on the snout, and its teeth are less derived, reflecting iguanodont-like characteristics.[10] The informal name "Hadrosauravus"[27] is an early, unused name for this species.[28] G. monumentensis is known from a skull and partial skeleton from Utah.[23]
+Scrappy remains from Alberta originally named Trachodon (Pteropelyx) marginatus[29] were sometimes included with Kritosaurus under the "Kritosaurus=Gryposaurus" hypothesis.[30] This taxon may be the same as G. notabilis,[2] but this synonymy was not supported in the latest review.[7] G. monumentensis was listed second on the top 10 list of new species in 2008 by the International Institute for Species Exploration.[31]
+Paleobiology[edit]
+
+
+
+
+Restored head of G. notabilis.
+
+
+As a hadrosaurid, Gryposaurus would have been a bipedal/quadrupedal herbivore, eating a variety of plants. Its skull had special joints that permitted a grinding motion analogous to chewing, and its teeth were continually replacing and packed into dental batteries that contained hundreds of teeth, only a relative handful of which were in use at any time. Plant material would have been cropped by its broad beak, and held in the jaws by a cheek-like organ. Its feeding range would have extended from the ground to ~4 m (13 ft) above.[7]
+Like other bird-hipped dinosaurs of the Dinosaur Park Formation, Gryposaurus appears to have only existed for part of the duration of time that the rocks were being formed. As the formation was being laid down, it recorded a change to more marine-influenced conditions. Gryposaurus is absent from the upper part of the formation, with Prosaurolophus present instead. Other dinosaurs known from only the lower part of the formation include the horned Centrosaurus and the hollow-crested duckbill Corythosaurus.[26] Gryposaurus may have preferred river-related settings.[7]
+Nasal arch[edit]
+The distinctive nasal arch of Gryposaurus, like other cranial modifications in duckbills, may have been used for a variety of social functions, such as identification of sexes or species and social ranking.[7] It could also have functioned as a tool for broadside pushing or butting in social contests, and there may have been inflatable air sacs flanking it for both visual and auditory signaling.[32] The top of the arch is roughened in some specimens, suggesting that it was covered by thick, keratinized skin,[32] or that there was a cartilaginous extension.[10]
+References[edit]
+
+
+^ a b Creisler, Benjamin S. (2007). "Deciphering duckbills". In Carpenter, Kenneth (ed.). Horns and Beaks: Ceratopsian and Ornithopod Dinosaurs. Bloomington and Indianapolis: Indiana University Press. pp. 185–210. ISBN 0-253-34817-X. 
+^ a b c d Glut, Donald F. (1997). "Gryposaurus". Dinosaurs: The Encyclopedia. Jefferson, North Carolina: McFarland & Co. pp. 445–448. ISBN 0-89950-917-7. 
+^ Lull, Richard Swann; and Wright, Nelda E. (1942). Hadrosaurian Dinosaurs of North America. Geological Society of America Special Paper 40. Geological Society of America. p. 226. 
+^ Lull, Richard Swann; and Wright, Nelda E. (1942). Hadrosaurian Dinosaurs of North America. Geological Society of America Special Paper 40. Geological Society of America. pp. 110–117. 
+^ a b Lambe, Lawrence M. (1914). "On Gryposaurus notabilis, a new genus and species of trachodont dinosaur from the Belly River Formation of Alberta, with a description of the skull of Chasmosaurus belli". The Ottawa Naturalist 27 (11): 145–155. 
+^ Parks, William A. (1920). "The osteology of the trachodont dinosaur Kritosaurus incurvimanus". University of Toronto Studies, Geology Series 11: 1–76. 
+^ a b c d e f Horner, John R.; Weishampel, David B.; and Forster, Catherine A (2004). "Hadrosauridae". In Weishampel, David B.; Dodson, Peter; and Osmólska, Halszka (eds.). The Dinosauria (2nd ed.). Berkeley: University of California Press. pp. 438–463. ISBN 0-520-24209-2. 
+^ a b c Weishampel, David B.; and Horner, Jack R. (1990). "Hadrosauridae". In Weishampel, David B.; Dodson, Peter; and Osmólska, Halszka (eds.). The Dinosauria (1st ed.). Berkeley: University of California Press. pp. 534–561. ISBN 0-520-06727-4. 
+^ Glut, Donald F. (2002). Dinosaurs: The Encyclopedia. Supplement 2. Jefferson, North Carolina: McFarland & Co. pp. 79–80. ISBN 0-89950-917-7. 
+^ a b c d e Horner, John R. (1992). "Cranial morphology of Prosaurolophus (Ornithischia: Hadrosauridae) with descriptions of two new hadrosaurid species and an evaluation of hadrosaurid phylogenetic relationships". Museum of the Rockies Occasional Paper 2: 1–119. 
+^ a b Kirkland, James I.; Hernández,-Rivera, René; Gates, Terry; Paul, Gregory S.; Nesbitt, Sterling; Serrano-Brañas, Claudia Inés; and Garcia-de la Garza, Juan Pablo (2006). "Large hadrosaurine dinosaurs from the latest Campanian of Coahuila, Mexico". In Lucas, Spencer G.; and Sullivan, Robert M. (eds.). Late Cretaceous vertebrates from the Western Interior. New Mexico Museum of Natural History and Science Bulletin, 35. Albuquerque, New Mexico: New Mexico Museum of Natural History and Science. pp. 299–315. 
+^ Prieto-Márquez, A.; and Wagner, J.R. (2012). "Saurolophus morrisi, a new species of hadrosaurid dinosaur from the Late Cretaceous of the Pacific coast of North America". Acta Palaeontologica Polonica. in press. doi:10.4202/app.2011.0049. 
+^ Brown, Barnum (1910). "The Cretaceous Ojo Alamo beds of New Mexico with description of the new dinosaur genus Kritosaurus". Bulletin of the American Museum of Natural History 28 (24): 267–274. 
+^ Brown, Barnum (1914). "Cretaceous Eocene correlation in New Mexico, Wyoming, Montana, Alberta". Geological Society of America Bulletin 33: 355–380. 
+^ Gilmore, Charles W. (1916). "Contributions to the geology and paleontology of San Juan County, New Mexico. 2. Vertebrate faunas of the Ojo Alamo, Kirtland and Fruitland Formations". United States Geological Survey Professional Paper 98–Q: 279–302. 
+^ Parks, William A. (1919). "Preliminary description of a new species of trachodont dinosaur of the genus Kritosaurus, Kritosaurus incurvimanus". Transactions of the Royal Society of Canada, series 3 13 (4): 51–59. 
+^ a b Horner, John R. (1979). "Upper Cretaceous dinosaurs from the Bearpaw Shale (marine) of south-central Montana with a checklist of Upper Cretaceous dinosaur remains from marine sediments in North America". Journal of Paleontology 53 (3): 566–577. 
+^ Glut, Donald F. (1982). The New Dinosaur Dictionary. Secaucus, NJ: Citadel Press. p. 158. ISBN 0-8065-0782-9. 
+^ Lambert, David; and the Diagram Group (1983). A Field Guide to Dinosaurs. New York: Avon Books. p. 161. ISBN 0-380-83519-3. 
+^ Norman, David. B. (1985). "Hadrosaurids I". The Illustrated Encyclopedia of Dinosaurs: An Original and Compelling Insight into Life in the Dinosaur Kingdom. New York: Crescent Books. pp. 116–121. ISBN 0-517-46890-5. 
+^ Prieto-Márquez, Alberto; Weishampel, David B.; and Horner, John R. (2006). "The dinosaur Hadrosaurus foulkii, from the Campanian of the East Coast of North America, with a reevaluation of the genus" (pdf). Acta Palaeontologica Polonica 51 (1): 77–98. 
+^ Lull, Richard Swann; and Wright, Nelda E. (1942). Hadrosaurian Dinosaurs of North America. Geological Society of America Special Paper 40. Geological Society of America. p. 21. 
+^ a b Gates, Terry A.; Sampson, Scott D. (2007). "A new species of Gryposaurus (Dinosauria: Hadrosauridae) from the late Campanian Kaiparowits Formation, southern Utah, USA". Zoological Journal of the Linnean Society 151 (2): 351–376. doi:10.1111/j.1096-3642.2007.00349.x. 
+^ Gates, Terry; and Sampson, Scott (2006). "A new species of Gryposaurus (Dinosauria: Hadrosauridae) from the Upper Campanian Kaiparowits Formation of Utah". Journal of Vertebrate Paleontology 26 (3, Suppl.): 65A. 
+^ a b c Prieto–Marquez, Alberto (2010). "The braincase and skull roof of Gryposaurus notabilis (Dinosauria, Hadrosauridae), with a taxonomic revision of the genus". Journal of Vertebrate Paleontology 30 (3): 838–854. doi:10.1080/02724631003762971. 
+^ a b Ryan, Michael J.; and Evans, David C. (2005). "Ornithischian Dinosaurs". In Currie, Phillip J., and Koppelhus, Eva. Dinosaur Provincial Park: A Spectacular Ancient Ecosystem Revealed. Bloomington: Indiana University Press. pp. 312–348. ISBN 0-253-34595-2. 
+^ Lambert, David; and the Diagram Group (1990). The Dinosaur Data Book. New York: Avon Books. p. 64. ISBN 0-380-75896-2. 
+^ Olshevsky, George (1999-11-16). "Re: What are these dinosaurs?". Retrieved 2007-05-22. 
+^ Lambe, Lawrence M. (1902). "On Vertebrata of the mid-Cretaceous of the Northwest Territory. 2. New genera and species from the Belly River Series (mid-Cretaceous)". Contributions to Canadian Paleontology 3: 25–81. 
+^ Gilmore, Charles W. (1924). "On the genus Stephanosaurus, with a description of the type specimen of Lambeosaurus lambei, Parks". Canada Department of Mines Geological Survey Bulletin (Geological Series) 38 (43): 29–48. 
+^ "Scientists Announce Top 10 New Species; Issue SOS". International Institute for Species Exploration. Newswise. 2008-05-23. Retrieved 2009-06-16. 
+^ a b Hopson, James A. (1975). "The evolution of cranial display structures in hadrosaurian dinosaurs". Paleobiology 1 (1): 21–43. 
+
+
+External links[edit]
+
+
+
+
+Dinosaurs portal
+
+
+
+
+Gryposaurus at DinoData
+Bureau of Land Management report on gryposaur skulls from Grand Staircase-Escalante National Monument, Utah
+
+
+
+ 
+NewPP limit report
+CPU time usage: 2.408 seconds
+Real time usage: 2.534 seconds
+Preprocessor visited node count: 14334/1000000
+Preprocessor generated node count: 31813/1500000
+Post‐expand include size: 125063/2048000 bytes
+Template argument size: 44069/2048000 bytes
+Highest expansion depth: 20/40
+Expensive parser function count: 0/500
+Lua time usage: 0.096s
+Lua memory usage: 1.98 MB
+
+
+ Saved in parser cache with key enwiki:pcache:idhash:2821161-0!*!0!!en!4!* and timestamp 20130919075708 
+								
+				Retrieved from "http://en.wikipedia.org/w/index.php?title=Gryposaurus&oldid=573608146"				
+												Categories: Cretaceous dinosaursDinosaurs of North AmericaHadrosaursHidden categories: Good articlesArticles with 'species' microformats												
+							
+		
+		
+			Navigation menu
+			
+				
+	Personal tools
+	
+Create accountLog in	
+
+				
+					
+	Namespaces
+	
+					Article
+					Talk
+			
+
+
+	
+		
+	Variants
+	
+		
+					
+	
+
+				
+				
+					
+	Views
+	
+					Read
+					Edit
+					View history
+			
+
+
+	Actions
+	
+		
+					
+	
+
+
+	Search
+	
+				
+																				
+		
+	
+
+				
+			
+			
+					
+				
+	Navigation
+	
+		
+			Main page
+			Contents
+			Featured content
+			Current events
+			Random article
+			Donate to Wikipedia
+		
+	
+
+
+	Interaction
+	
+		
+			Help
+			About Wikipedia
+			Community portal
+			Recent changes
+			Contact page
+		
+	
+
+
+	Toolbox
+	
+		
+			What links here
+			Related changes
+			Upload file
+			Special pages
+			Permanent link
+			Page information
+			Data item
+Cite this page		
+	
+
+
+	Print/export
+	
+		
+			Create a book
+			Download as PDF
+			Printable version
+		
+	
+
+
+	Languages
+	
+		
+			Català
+			Česky
+			Dansk
+			Español
+			Esperanto
+			فارسی
+			Français
+			Italiano
+			Magyar
+			Polski
+			Português
+			Slovenčina
+			Srpskohrvatski / српскохрватски
+			Svenska
+			中文
+			
+			Edit links
+		
+	
+
+			
+		
+		
+							
+											 This page was last modified on 19 September 2013 at 07:57.
+											Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. 
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+									
+							
+											Privacy policy
+											About Wikipedia
+											Disclaimers
+											Contact Wikipedia
+											Developers
+											Mobile view
+									
+										
+					
+						
+					
+					
+						
+					
+				
+						
+		
+		
+
+
+ Served by mw1096 in 0.147 secs. 
+	
+if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Gryposaurus","wgTitle":"Gryposaurus","wgCurRevisionId":573608146,"wgArticleId":2821161,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Good articles","Articles with 'species' microformats","Cretaceous dinosaurs","Dinosaurs of North America","Hadrosaurs"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Gryposaurus","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgVectorEnabledModules":{"collapsiblenav":true,"experiments":true},"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"templateEditor":false,"templates":false,"preview":false,"previewDialog":false,"publish":false,"toc":false},"wgArticleFeedbackv5Permissions":{"aft-reader":true,"aft-member":false,"aft-editor":false,"aft-monitor":false,"aft-administrator":false,"aft-oversighter":false,"aft-noone":false},"wgVisualEditor":{"isPageWatched":false,"magnifyClipIconURL":"//bits.wikimedia.org/static-1.22wmf18/skins/common/images/magnify-clip.png","pageLanguageCode":"en","pageLanguageDir":"ltr"},"wikilove-recipient":"","wikilove-anon":0,"wgGuidedTourHelpGuiderUrl":"Help:Guided tours/guider","wgULSAcceptLanguageList":[],"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia","aftv5Article":{"id":2821161,"title":"Gryposaurus","namespace":0,"categories":["Articles with 'species' microformats","Cretaceous dinosaurs","Dinosaurs of North America","Good articles","Hadrosaurs"],"permissionLevel":false},"wgWikibaseItemId":"Q385949"});
+}if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":false,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,
+"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"useeditwarning":1,"prefershttps":1,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"vector-simplesearch":1,"vector-collapsiblenav":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"aftv5-last-filter":null,"visualeditor-enable":0,"visualeditor-enable-experimental":0,"visualeditor-betatempdisable":0,"wikilove-enabled":1,"echo-subscriptions-web-page-review":true,"echo-subscriptions-email-page-review":false,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"echo-notify-show-link":true,"echo-show-alert":true,"echo-email-frequency":0,"echo-email-format":"html","echo-subscriptions-email-system":true,"echo-subscriptions-web-system":true,"echo-subscriptions-email-other":false,"echo-subscriptions-web-other":true,"echo-subscriptions-email-edit-user-talk":false,"echo-subscriptions-web-edit-user-talk":true,
+"echo-subscriptions-email-reverted":false,"echo-subscriptions-web-reverted":true,"echo-subscriptions-email-article-linked":false,"echo-subscriptions-web-article-linked":false,"echo-subscriptions-email-mention":false,"echo-subscriptions-web-mention":true,"echo-subscriptions-web-edit-thank":true,"echo-subscriptions-email-edit-thank":false,"gettingstarted-task-toolbar-show-intro":true,"uls-preferences":"","language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs446":false,"searchNs447":false
+,"searchNs710":false,"searchNs711":false,"searchNs828":false,"searchNs829":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-mySandbox":1,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:156d8fe0ae17f8afd74198057563e45d */
+}if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","ext.visualEditor.viewPageTarget.init","ext.wikimediaShopLink.core","ext.uls.init","ext.uls.interface","wikibase.client.init","ext.centralNotice.bannerController","skins.vector.js"]);
+}/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}if(window.mw){
+mw.loader.load(["mobile.desktop","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.cite","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","mw.MwEmbedSupport.style","ext.vector.collapsibleNav","ext.articleFeedbackv5.startup","ext.gettingstarted.logging","ext.gettingstarted.openTask","schema.HttpsSupport","ext.coreEvents.httpsSupport","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","mw.PopUpMediaTransform"],null,true);
+}

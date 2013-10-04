@@ -1,0 +1,1407 @@
+
+
+
+Dartmoor - Wikipedia, the free encyclopedia
+
+
+
+
+
+
+
+
+
+
+
+
+a:lang(ar),a:lang(ckb),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:0de201fdea5d684523607ed88007b127 */
+
+
+
+
+[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.22wmf18/skins/vector/csshover.min.htc")}</style><![endif]
+
+		
+		
+		
+			
+			
+						 CentralNotice 
+						Dartmoor
+			
+								From Wikipedia, the free encyclopedia
+								
+												
+					Jump to:					navigation, 					search
+				
+				For other uses, see Dartmoor (disambiguation).
+Coordinates: 50°34′N 4°0′W﻿ / ﻿50.567°N 4.000°W﻿ / 50.567; -4.000
+
+
+Dartmoor
+
+
+Protected Area
+
+
+
+
+View up the River Meavy towards Sharpitor and Leather Tor
+
+
+
+Country
+United Kingdom
+
+
+Part
+England
+
+
+County
+Devon
+
+
+
+
+
+Highest point
+High Willhays[1]
+
+
+ - elevation
+621 m (2,037 ft)
+
+
+Lowest point
+Doghole Bridge[1]
+
+
+ - elevation
+24 m (79 ft)
+
+
+
+
+
+Area
+954 km2 (368 sq mi)
+
+
+
+
+
+Animal
+Dartmoor Pony
+
+
+
+
+
+National park of England
+1951
+
+
+Management
+Dartmoor National Park Authority
+
+
+ - location
+Bovey Tracey
+
+
+
+
+
+Visitation
+10.98m
+
+
+
+
+
+IUCN category
+V - Protected Landscape/Seascape
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Website: www.dartmoor-npa.gov.uk
+
+
+
+
+
+Dartmoor is an area of moorland in south Devon, England. Protected by National Park status as Dartmoor National Park, it covers 954 square kilometres (368 sq mi).[1]
+The granite upland dates from the Carboniferous period of geological history. The moorland is capped with many exposed granite hilltops known as tors, providing habitats for Dartmoor wildlife. The highest point is High Willhays, 621 m (2,037 ft) above sea level. The entire area is rich in antiquities and archaeology.
+Dartmoor is managed by the Dartmoor National Park Authority whose 22 members are drawn from Devon County Council, local district councils and Government.
+Parts of Dartmoor have been used as military firing ranges for over 200 years. The public enjoy extensive access rights to Dartmoor (including restricted access to the firing ranges) and it is a popular tourist destination. The organisation responsible for tourism on Dartmoor is the Dartmoor Partnership.
+
+
+Contents
+
+
+1 Physical geography
+
+1.1 Geology
+1.2 Tors
+1.3 Rivers
+1.4 Bogs
+
+
+2 Climate
+3 History
+
+3.1 Pre-history
+3.2 Standing stones
+3.3 Hut circles and kistvaens
+3.4 The historical period
+
+
+4 Myths and literature
+5 Ownership and access
+
+5.1 Use by the Ministry of Defence
+
+
+6 Preservation
+7 Towns and villages
+8 Landmarks
+9 Leisure activities
+
+9.1 Visitor centres
+
+
+10 See also
+11 References
+12 Sources
+13 External links
+
+
+Physical geography[edit]
+Geology[edit]
+Dartmoor includes the largest area of granite in Britain, with about 625 square kilometres (241 sq mi) at the surface, though most of it is under superficial peat deposits. The granite (or more accurately adamellite) was intruded at depth as a pluton into the surrounding sedimentary rocks during the Carboniferous period, probably about 309 million years ago.[2] It is generally accepted that the present surface is not far below the original top of the pluton; evidence for this includes partly digested shale xenoliths, contamination of the granite and the existence of two patches of altered sedimentary rock on top of the granite.[3] A considerable gravity anomaly is associated with the Dartmoor pluton as with other such plutons.[citation needed] Measurement of the anomaly has helped to determine the likely shape and extent of the rock mass at depth.
+Tors[edit]
+
+
+
+
+Panorama of some better known Dartmoor tors in snow.
+
+
+Dartmoor is known for its tors – hills topped with outcrops of bedrock, which in granite country such as this are usually rounded boulder-like formations. More than 160 of the hills of Dartmoor have the word tor in their name but quite a number do not.[1] However this does not appear to relate to whether or not there is an outcrop of rock on their summit. The tors are the focus of an annual event known as the Ten Tors Challenge, when around 2400 people aged between 14 and 19 walk for distances of 56, 72 or 88 km (35, 45 or 55 mi) between ten tors on many differing routes.
+
+
+
+
+High Willhays with Yes Tor behind.
+
+
+The highest points on Dartmoor are on the northern moor: High Willhays, 621 m (2,037 ft), (grid reference SX580895) and Yes Tor, 619 m (2,031 ft), (grid reference SX581901) The highest points on the southern moor are Ryder's Hill, 515 m (1,690 ft), (grid reference SX660690), Snowdon 495 m (1,624 ft), (grid reference SX668684), and an unnamed point of 493 m (1,617 ft) at (grid reference SX603645). Probably the best known tor on Dartmoor is Haytor (also spelt Hey Tor), 457 m (1,499 ft), (grid reference SX757771). For a more complete list see List of Dartmoor tors and hills.
+Rivers[edit]
+
+
+
+
+River Erme at Ivybridge.
+
+
+The high ground of Dartmoor forms the catchment area for many of Devon's rivers. As well as shaping the landscape, these have traditionally provided a source of power for moor industries such as tin mining and quarrying.
+The moor takes its name from the River Dart, which starts as the East Dart and West Dart and then becomes a single river at Dartmeet. It leaves the moor at Buckfastleigh, flowing through Totnes below where it opens up into a long ria, reaching the sea at Dartmouth.
+For a full list, expand the Rivers of Dartmoor navigational box at the bottom of this page.
+Bogs[edit]
+Much more rain falls on Dartmoor than in the surrounding lowlands. As much of the national park is covered in thick layers of peat (decaying vegetation), the rain is usually absorbed quickly and distributed slowly, so the moor is rarely dry. In areas where water accumulates, dangerous bogs or mires can result. Some of these, topped with bright green moss, are known to locals as "feather beds" or "quakers", because they shift (or 'quake') beneath your feet. Quakers result from sphagnum moss growing over the water that accumulates in the hollows in the granite.[4][5][6]
+
+
+
+
+Aune Mire.
+
+
+The vegetation of the bogs depends on the type and location. Blanket bog, which forms on the highest land where the rainfall exceeds 2,000 mm (80 in) a year, consists mainly of cotton-grass (Eriophorum species), sedges (Carex and Rhynchospora), Bog Asphodel and Common Tormentil, with Sphagnum thriving in the wettest patches. The valley bogs have lush growth of rushes, with sphagnum, cross-leaved heath, sundews and several other species.[7]
+Some of the bogs on Dartmoor have achieved notoriety. Fox Tor Mires was supposedly the inspiration for Great Grimpen Mire in Conan Doyle's novel The Hound of the Baskervilles,[8] although there is a waymarked footpath across it. Sabine Baring-Gould, in his Book of Dartmoor (1900) related the story of a man who was making his way through Aune Mire at the head of the River Avon when he came upon a top-hat brim down on the surface of the mire. He kicked it, whereupon a voice called out: "What be you a-doin' to my 'at?" The man replied, "Be there now a chap under'n?" "Ees, I reckon," was the reply, "and a hoss under me likewise."[9]
+Climate[edit]
+
+
+Princetown[10]
+
+
+Climate chart (explanation)
+
+
+
+
+
+J
+F
+M
+A
+M
+J
+J
+A
+S
+O
+N
+D
+
+
+
+
+ 
+ 
+219
+ 
+6
+1
+
+
+
+
+ 
+ 
+168
+ 
+6
+1
+
+
+
+
+ 
+ 
+162
+ 
+7
+2
+
+
+
+
+ 
+ 
+109
+ 
+10
+3
+
+
+
+
+ 
+ 
+100
+ 
+13
+6
+
+
+
+
+ 
+ 
+116
+ 
+16
+9
+
+
+
+
+ 
+ 
+112
+ 
+18
+11
+
+
+
+
+ 
+ 
+133
+ 
+18
+11
+
+
+
+
+ 
+ 
+156
+ 
+15
+9
+
+
+
+
+ 
+ 
+215
+ 
+12
+6
+
+
+
+
+ 
+ 
+234
+ 
+8
+4
+
+
+
+
+ 
+ 
+251
+ 
+7
+2
+
+
+
+
+Average max. and min. temperatures in °C
+
+
+Precipitation totals in mm
+
+
+
+
+
+
+
+
+Imperial conversion
+
+
+J
+F
+M
+A
+M
+J
+J
+A
+S
+O
+N
+D
+
+
+
+
+ 
+ 
+8.6
+ 
+42
+34
+
+
+
+
+ 
+ 
+6.6
+ 
+42
+33
+
+
+
+
+ 
+ 
+6.4
+ 
+45
+35
+
+
+
+
+ 
+ 
+4.3
+ 
+49
+37
+
+
+
+
+ 
+ 
+3.9
+ 
+55
+43
+
+
+
+
+ 
+ 
+4.6
+ 
+60
+47
+
+
+
+
+ 
+ 
+4.4
+ 
+64
+51
+
+
+
+
+ 
+ 
+5.2
+ 
+64
+52
+
+
+
+
+ 
+ 
+6.1
+ 
+59
+48
+
+
+
+
+ 
+ 
+8.5
+ 
+53
+44
+
+
+
+
+ 
+ 
+9.2
+ 
+47
+39
+
+
+
+
+ 
+ 
+9.9
+ 
+44
+36
+
+
+
+
+Average max. and min. temperatures in °F
+
+
+Precipitation totals in inches
+
+
+
+
+
+Along with the rest of South West England, Dartmoor has a temperate climate which is generally wetter and milder than locations at similar height in the rest of England. At Princetown, near the centre of the moor at a height of 453 metres (1,486 ft), January and February are the coldest months with mean minimum temperatures around 1 °C (34 °F). July and August are the warmest months with mean daily maxima not reaching 18 °C (64 °F). Compared with Teignmouth, which is on the coast about 22 miles (35 km) to the east, the average maximum and minimum temperatures are 3.0 °C and 2.6 °C lower respectively, and frost is at least five times as frequent.[11] On the highest ground, in the north of the moor, the growing season is less than 175 days - this contrasts with some 300 days along most of the south coast of the county.[11]
+Rainfall tends to be associated with Atlantic depressions or with convection. In summer, convection caused by solar surface heating sometimes forms shower clouds and a large proportion of rainfall falls from showers and thunderstorms at this time of year. The wettest months are November and December and on the highest parts of the moor the average annual total rainfall is over 2000 mm (about 80 in). This compares with less than 800 mm (31.5 in) in the lower land to the east around the Exe Estuary, which is in the rain shadow of the moor. Due to the influence of the Gulf Stream snowfall is not common, though due to its high altitude it is more vulnerable to snowfall than surrounding regions.[12]
+Between 1961 and 1990 Met Office data shows that there was an average of 20 days when snow fell on the moor, and over 40 days a year with hail, which is as high as anywhere else in the country. This results when cold polar maritime air that has travelled over a large expanse of warmer ocean is forced to rise over high country.[12]
+When average temperatures at Princetown between 1961 and 2000 are compared, the average annual temperature in the decade 1990–2000 was up by 0.2 °C, and the late winter temperature increased by 0.5 °C.[13]
+History[edit]
+Pre-history[edit]
+The majority of the prehistoric remains on Dartmoor date back to the late Neolithic and early Bronze Age. Indeed, Dartmoor contains the largest concentration of Bronze Age remains in the United Kingdom, which suggests that this was when a larger population moved onto the hills of Dartmoor. The large systems of Bronze Age fields, divided by reaves, cover an area of over 10,000 hectares (39 sq mi) of the lower moors.[14]
+The climate at the time was warmer than today, and much of today's moorland was covered with trees. The prehistoric settlers began clearing the forest, and established the first farming communities. Fire was the main method of clearing land, creating pasture and swidden types of fire-fallow farmland. Areas less suited for farming tended to be burned for livestock grazing. Over the centuries these Neolithic practices greatly expanded the upland moors, and contributed to the acidification of the soil and the accumulation of peat and bogs.[15]
+After a few thousand years the mild climate deteriorated leaving these areas uninhabited and consequently relatively undisturbed to the present day. The highly acidic soil has ensured that no organic remains have survived, but the durability of the granite has meant that the remains of buildings, enclosures and monuments have survived well, as have flint tools. It should be noted that a number of remains were "restored" by enthusiastic Victorians and that, in some cases, they have placed their own interpretation on how an area may have looked.
+Standing stones[edit]
+
+
+
+
+Beardown Man, Dartmoor.
+
+
+Numerous prehistoric menhirs (more usually referred to locally as standing stones or longstones), stone circles, kistvaens, cairns and stone rows are to be found on the moor. The most significant sites include:
+
+Upper Erme stone row is the longest on Dartmoor and in fact in the world at 3,300 m (10,800 ft)
+Beardown Man, near Devil's Tor – isolated standing stone 3.5 m (11 ft 6 in) high, said to have another 1 m (3 ft 3 in) below ground. grid reference SX596796
+Challacombe, near the prehistoric settlement of Grimspound — triple stone row. grid reference SX689807
+Drizzlecombe, east of Sheepstor village – stone rows, standing stones, kistvaens and cairns. grid reference SX591669
+Grey Wethers, near Postbridge — double circle, aligned almost exactly north south. grid reference SX638831
+Laughter Tor, near Two Bridges — standing stone 2.4 m (7.9 ft) high and two double stone rows, one 164 m (538 ft) long. grid reference SX652753
+Merrivale, between Princetown and Tavistock — includes a double stone row 182 m (597 ft) long, 1.1 m (3.6 ft) wide, aligned almost exactly east-west), stone circles and a kistvaen. grid reference SX554747
+Scorhill (pronounced 'Scorill'), west of Chagford — circle, 26.8 m (88 ft) in circumference, and stone rows. grid reference SX654873
+Shovel Down, north of Fernworthy reservoir — double stone row approximately 120 m (390 ft) long. grid reference SX660859
+Yellowmead Down, a quadruple concentric stone circle and stone rows.
+
+Hut circles and kistvaens[edit]
+There are also an estimated 5,000 hut circles still surviving, despite the fact that many have been raided over the centuries by the builders of the traditional dry stone walls. These are the remnants of Bronze Age houses. The smallest are around 1.8 m (6 ft) in diameter, and the largest may be up to five times this size.
+Some have L-shaped porches to protect against wind and rain; some particularly good examples are to be found at Grimspound. It is believed that they would have had a conical roof, supported by timbers and covered in turf or thatch.
+There are also numerous kistvaens, Neolithic stone box-like tombs.
+The historical period[edit]
+
+
+
+
+Ancient cross close to Crazywell Pool.
+
+
+The climate worsened[clarification needed] over the course of a thousand years from around 1000 BC, so that much of high Dartmoor was largely abandoned by its early inhabitants.
+It was not until the early mediaeval period that the weather again became warmer, and settlers moved back onto the moors. Like their ancient forebears, they also used the natural granite to build their homes, preferring a style known as the longhouse — some of which are still inhabited today, although they have been clearly adapted over the centuries. Many are now being used as farm buildings, while others were abandoned and fell into ruin.
+The earliest surviving farms, still in operation today, are known as the Ancient Tenements. Most of these date back to the 14th century and sometimes earlier.
+Some way into the moor stands the town of Princetown, the site of Dartmoor Prison, which was originally built both by, and for, prisoners of war from the Napoleonic Wars. The prison has an incorrect reputation for being escape-proof, due to both the buildings themselves and its physical location.
+The Dartmoor landscape is scattered with the marks left by the many generations who have lived and worked there over the centuries – such as the remains of the Dartmoor tin-mining industry, and farmhouses long since abandoned. Indeed the industrial archaeology of Dartmoor is a subject in its own right.
+Myths and literature[edit]
+
+
+
+
+Jay's Grave.
+
+
+Dartmoor abounds with myths and legends. It is reputedly the haunt of pixies, a headless horseman, a mysterious pack of "spectral hounds", and a large black dog. During the Great Thunderstorm of 1638, the Dartmoor town of Widecombe-in-the-moor was even said to have been visited by the Devil.
+Many landmarks have ancient legends and ghost stories associated with them, such as Jay's Grave, the ancient burial site at Childe's Tomb, the rock pile called Bowerman's Nose, and the stone crosses that mark mediaeval routes across the moor.
+A few stories have emerged in recent decades, such as the "hairy hands", that are said to attack travellers on the B3212 near Two Bridges;[16] and the "Beast of Dartmoor", a supposed large cat.[17]
+Dartmoor has inspired a number of artists and writers, such as Sir Arthur Conan Doyle in The Hound of the Baskervilles and The Adventure of Silver Blaze, R. D. Blackmore, Eden Phillpotts, Beatrice Chase, Agatha Christie, Rosamunde Pilcher, Laurie King, and the Reverend Sabine Baring-Gould.
+Ownership and access[edit]
+Over half of Dartmoor National Park (57.3%) is private land; the Forest of Dartmoor being the major part of this, owned by the Duke of Cornwall. The Ministry of Defence owns 14% (see below), 3.8% is owned by water companies (see Dartmoor reservoirs), 3.7% by the National Trust, 1.8% by the Forestry Commission and 1.4% by Dartmoor's national park authority. About 37% of Dartmoor is common land.[18]
+Dartmoor differs from some other National Parks in England and Wales, in that since the Dartmoor Commons Act 1985[19] much of it has been designated as 'Access Land', which, although it remains privately owned, has no restrictions on where walkers can roam. In addition to this Access Land, there are about 730 km (454 mi) of public rights of way on Dartmoor, and many kilometres of permitted footpaths and bridleways where the owner allows access.[20]
+Because of the 1985 Act, Dartmoor was largely unaffected by the Countryside and Rights of Way Act 2000, which established similar rights in other rural parts of the country, but in 2006, this Act opened up much of the remaining restricted land to walkers.
+Use by the Ministry of Defence[edit]
+There is a tradition of military usage of Dartmoor dating back to the Napoleonic wars. There is still a large British Army training camp at Okehampton — also the site of an airbase during the Second World War.
+The Ministry of Defence (MoD) uses three areas of the northern moor for manoeuvres and live-firing exercises, totalling 108.71 square kilometres (41.97 sq mi),[1] or just over 11% of the National Park. Red and white posts mark the boundaries of these military areas (shown on Ordnance Survey 1:25,000 scale maps). Flagpoles on many tors in and around the ranges fly red flags when firing is taking place. At other times, members of the public are allowed access. Blank rounds may also be used, but the MoD does not notify the public of this in advance.
+Some "challenge" and charitable events take place with assistance of the military on Dartmoor including the long established Ten Tors event and the more recent Dartmoor Beast.
+Dartmoor's fictional use as an MoD centre for animal testing called Baskerville was referenced in the BBC drama 'Sherlock' episode The Hounds of Baskerville.
+Preservation[edit]
+
+
+
+
+The clapper bridge at Postbridge.
+
+
+
+
+
+
+Dartmoor Hill pony on Dartmoor.
+
+
+Throughout human history, the landscape has been exploited for industrial purposes. In recent years, controversy has surrounded the work of industrial conglomerates Imerys and Sibelco (formerly Watts Blake Bearne), who have used parts of the moor for china clay mining. Licences were granted by the British Government but were recently renounced after sustained public pressure from bodies such as the Dartmoor Preservation Association.[citation needed]
+The British government has made promises to protect the integrity of the moor; however, the cost of compensating companies for these licences, which may not have been granted in today's political climate, could prove prohibitive.
+The military use of the moor has been another source of controversy, such as when training was extended in January 2003. The national park authority received 1,700 objections before making the decision. Objectors claimed that Dartmoor should be an area for recreation, and that the training disturbs the peace.
+Those who objected included the Open Spaces Society and the Dartmoor Preservation Association. During her lifetime, Lady Sayer was another outspoken critic of the damage which she perceived that the army was doing to the moor.
+Towns and villages[edit]
+
+
+
+
+A typical Dartmoor tor close to Haytor.
+
+
+Dartmoor has a resident population of about 33,000,[1] which swells considerably during holiday periods with incoming tourists. The largest settlements within the National Park are Ashburton (the largest with population about 3,500), Buckfastleigh, Moretonhampstead, Princetown, Yelverton, Horrabridge, South Brent, Christow and Chagford.[1]
+For a full list, expand the Settlements of Dartmoor navigational box at the bottom of this page.
+Landmarks[edit]
+See also List of Dartmoor tors and hills
+
+Black Tor Beare – remote woodland of stunted oaks over 305 m (1,001 ft) above sea level in West Okement valley
+Bowerman's Nose – unusual rock formation
+Brentor Church – remote church 344 m (1,129 ft) high on crag at western edge of moor[21]
+Burrator Reservoir – late Victorian reservoir
+Castle Drogo – Edwardian faux castle built by Edwin Lutyens on crag above Teign Gorge, Drewsteignton
+Childe's Tomb – ancient burial site
+Church House, South Tawton – 15th century church ales house
+Cosdon or Cawsand Beacon – prominent hill, northern extremity of moor, site of beacon fire for invasion warning
+Cranmere Pool – original letterbox site and location of the legend of Cranmere Binjie
+Crazywell Pool – artificial lake
+Dartmeet – meeting point of East and West Dart
+Devonport Leat – man-made water channel
+Duck's Pool – location of a memorial to local writer William Crossing
+Fernworthy Dam & Reservoir – granite-faced concrete dam and lake in Fernworthy Forest, nr. Chagford
+Fingle Bridge – a 17th-century crossing of the River Teign near Chagford
+Great Links Tor – dominant tor on NW scarp of moor
+Grey Wethers – pair of ancient stone circles
+Grimspound – Bronze Age settlement
+Haytor Granite Tramway – remarkable early tramway with stone rails; ran from quarries at Haytor to Stover Canal
+Haytor Rock – prominent tor and viewpoint between Bovey Tracey and Widecombe
+High Willhays – highest point on Dartmoor
+Hound Tor – rugged tor with remains of Iron Age village
+Jay's Grave – mysterious burial site
+Lydford Gorge – dramatic, very deep and narrow gorge with waterfalls
+Meldon dam & viaduct – 201 m (659 ft) wide and 45 m (148 ft) high concrete dam and dramatic Victorian iron bridge which itself is 165 m (541 ft) wide and 46 m (151 ft) high[22]
+Powdermills, Cherrybrook – remains of gunpowder grinding mill near Two Bridges
+Rattlebrook railway – remains of horse-worked railway track to peat works near Great Links Tor
+Scorhill stone circle – (Pronounced 'Scorill') well-preserved circle of standing stones near Teign-e-ver, Gidleigh
+Skaigh Valley – narrow, wooded valley leading up on to moor at Belstone; on famous Sticklepath geological fault
+Tavistock Canal – 19th century canal
+Tavy Cleave – dramatic river gorge on western moor near Mary Tavy
+Teign-e-ver – confluence of North Teign and Wallabrook; clapper bridges & tolmen stone
+Two Bridges – 18th century coaching inn
+Warren House Inn – highest inn in SW England
+Wheal Betsy – engine house of mine on Blackdown, Marytavy
+Widgery Cross – granite cross atop Brat Tor, memorial erected by Dartmoor artist William Widgery to commemorate the Golden Jubilee of Queen Victoria in 1887
+Wistman's Wood – remote copse of stunted oaks in valley of West Dart near Two Bridges
+White Hart Hotel – historic 17th century coaching inn in Moretonhampstead
+
+Leisure activities[edit]
+Until the early 19th century Dartmoor was not considered to be a place worth visiting: in the 1540s John Leland wrote in his Itinerary that "Dartmore is muche a wilde Morish and forest Ground", and even by 1789 Richard Gough's opinion was that it is a "dreary mountainous tract".[23] At the turn of the 19th century John Swete was one of the first people to visit Dartmoor for pleasure and his journals and watercolour paintings now provide a valuable historical resource.[24]
+The oldest leisure pursuit on the moor is hill walking. William Crossing's definitive Guide to Dartmoor was published in 1909, and in 1938 a plaque and letterbox in his memory were placed at Duck's Pool on the southern moor. Parts of the Abbots Way, Two Moors Way and the Templer Way are on Dartmoor.[25]
+Letterboxing originated on Dartmoor in the 19th century and has become increasingly popular in recent decades. Watertight containers, or 'letterboxes', are hidden throughout the moor, each containing a visitor's book and a rubber stamp. Visitors take an impression of the letterbox's rubber stamp as proof of finding the box and record their visit by stamping their own personal stamp in the letterbox's logbook. A recent related development is geocaching. Geocache clues make use of GPS coordinates, whereas letterboxing clues tend to consist of grid references and compass bearings.
+Whitewater kayaking and canoeing are popular on the rivers due to the high rainfall and their high quality,[26] though for environmental reasons access is restricted to the winter months.[27] The River Dart is the most prominent meeting place, the section known as the Loop being particularly popular. Other white water rivers are the Erme, Tavy, Plym and Meavy.
+Other activities are rock climbing on the granite tors and outcrops, some of the well-known venues being Haytor, Hound Tor and The Dewerstone;[28] horse riding, which can be undertaken on any of the common land;[29] cycling (but not on open moorland);[30] and angling for wild brown trout, sea trout and salmon—although much of the river fishing on Dartmoor is privately owned, permits are available for some stretches.[31]
+Visitor centres[edit]
+The park's main visitor centre is located in Princetown and features exhibits about Dartmoor's history, culture and wildlife, as well as changing displays of local art. The visitor centres located in Postbridge and Haytor feature information, maps, guidebooks and items for exploring the area.
+See also[edit]
+
+Dartmoor Discovery Ultramarathon Race
+Dartmoor Preservation Association
+Dartmoor Way long-distance footpath
+Geology of the United Kingdom
+Haytor Granite Tramway
+Museum of Dartmoor Life
+Rock-cut basin The Tolmen stone
+
+References[edit]
+
+
+^ a b c d e f g "General Information Factsheet". Dartmoor National Park Authority. Retrieved 12 July 2009. 
+^ Durrance & Laming 1982, pp.86, 101
+^ Durrance & Laming 1982, p.88
+^ Ian Mercer: Bogs and Mires of Dartmoor, in Hunt & Wills 1977, p.16.
+^ Sandles, Tim. "The Bogs & Mires of Dartmoor". Legendary Dartmoor. Retrieved 12 July 2009. 
+^ Crossing, W, Crossing's Guide to Dartmoor 1912 edition, published by Western Morning News Co. Ltd.
+^ Brunsden, Denys; Gerrard, John (1970). "The Physical Environment of Dartmoor". In Crispin Gill. Dartmoor. A New Study. Newton Abbot: David and Charles. pp. 40–42. ISBN 0-7153-5041-2. 
+^ Sandles, Tim. "Dartmoor's Notorious Fox Tor Mires". Legendary Dartmoor. Retrieved 7 July 2009. 
+^ Milton 2006, p.2
+^ "Princetown 1971-2000 averages". Met Office. Retrieved 10 April 2008. 
+^ a b Webb 2006, p.30
+^ a b Webb 2006, p.31
+^ Webb 2006, pp.32–33
+^ "Prehistoric Dartmoor". Dartmoor National Park Authority. Retrieved 2 September 2009. 
+^ Role of anthropogenic fire and in creating moors, and moor-burning in sustaining them, described in Pyne 1997, pp. 348-369.
+^ Sandles, Tim. "The Hairy Hands". Legendary Dartmoor. Retrieved 7 August 2010. 
+^ Sandles, Tim. "The Legendary Beast of Dartmoor". Legendary Dartmoor. Retrieved 7 August 2010. 
+^ "Dartmoor Commons" (PDF). Dartmoor National Park Authority. Retrieved 19 March 2008. 
+^ Dartmoor Commons Act 1985 on the OPSI website
+^ "Public Rights of Way". Dartmoor National Park Authority. Retrieved 14 July 2009. 
+^ "ViaMichelin Travel. Panorama - Great Britain: The Michelin Green Guide:a tourist guide with useful, cultural information to prepare your trips". Viamichelin.com. 3 April 2008. Retrieved 18 April 2010. 
+^ http://www.dartmoor-npa.gov.uk/sheet_3a-b.pdf
+^ Milton 2006, pp.19–20
+^ Milton 2006, p.36
+^ "Walking For All". Dartmoor National Park Authority. Retrieved 12 July 2009. 
+^ "South West England". UK Rivers Guidebook. Retrieved 18 April 2010. 
+^ "Canoeing". Dartmoor National Park Authority. Retrieved 12 July 2009. 
+^ "Climbing". Dartmoor National Park Authority. Retrieved 10 July 2009. 
+^ "Horse Riding". Dartmoor National Park Authority. Retrieved 12 July 2009. 
+^ "Cycling on road and off road". Dartmoor National Park Authority. Retrieved 12 July 2009. 
+^ "Other Activities". Dartmoor National Park Authority. Retrieved 10 July 2009. 
+
+
+Sources[edit]
+
+
+Crossing, William Crossing's Guide to Dartmoor, the 1912 edition reprinted with new introd. by Brian Le Messurier. Dawlish: David & Charles, 1965.
+Durrance, E. M.; Laming, D. J. (1982). The Geology of Devon. University of Exeter. ISBN 0-85989-247-6. 
+Hunt, P. J.; Wills, G. L. (eds) (1977), Devon Wetlands, Exeter: Devon County Council ISBN 0-903849-19-4.
+Milton, Patricia (2006). The Discovery of Dartmoor, a Wild and Wondrous Region. Chichester: Phillimore. ISBN 1-86077-401-6. 
+Pyne, Stephen J. (1997) Vestal Fire: an Environmental History, Told through Fire, of Europe and Europe's Encounter with the World. University of Washington Press, Seattle ISBN 0-295-97596-2.
+Webb, Bruce (2006). "The Environmental Setting of Human Occupation". In Roger Kain. England's Landscape: The South West. London: Collins. pp. 30–33. ISBN 0-00-715572-7. 
+
+
+External links[edit]
+
+
+
+Wikivoyage has a travel guide for Dartmoor.
+
+
+
+
+
+Wikimedia Commons has media related to Dartmoor.
+
+
+
+
+
+Wikisource has original text related to this article:
+Dartmoor
+
+
+
+
+Dartmoor National Park Authority
+Dartmoor at the Open Directory Project
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+ Ceremonial county of Devon
+
+
+
+
+
+
+
+
+Devon Portal
+
+
+
+
+
+
+
+Unitary authorities
+
+
+
+Plymouth
+Torbay
+
+
+
+
+
+
+
+
+Boroughs or districts
+
+
+
+Exeter
+East Devon
+Mid Devon
+North Devon
+Torridge
+West Devon
+South Hams
+Teignbridge
+
+
+
+
+
+
+
+
+Major settlements
+
+
+
+Ashburton
+Axminster
+Barnstaple
+Bideford
+Bovey Tracey
+Bradninch
+Brixham
+Buckfastleigh
+Budleigh Salterton
+Chagford
+Chudleigh
+Chulmleigh
+Colyton
+Crediton
+Cullompton
+Dartmouth
+Dawlish
+Exeter
+Exmouth
+Great Torrington
+Hartland
+Hatherleigh
+Holsworthy
+Honiton
+Ilfracombe
+Ivybridge
+Kingsbridge
+Kingsteignton
+Lynton
+Modbury
+Moretonhampstead
+Newton Abbot
+North Tawton
+Northam
+Okehampton
+Ottery St Mary
+Paignton
+Plymouth
+Plympton
+Princetown
+Salcombe
+Seaton
+Sidmouth
+South Molton
+Tavistock
+Teignmouth
+Tiverton
+Torquay
+Totnes
+See also: List of civil parishes in Devon
+
+
+
+
+
+
+
+
+Rivers
+
+
+
+Ashburn
+Avon
+Axe
+Barle
+Bovey
+Burn
+Clyst
+Creedy
+Culm
+Dart
+East Dart
+West Dart
+Erme
+Exe
+Heddon
+Lemon
+Lew
+Lumburn
+Lyd
+Meavy
+Mole
+Okement
+East Okement
+West Okement
+Otter
+Plym
+Sid
+Swincombe
+Tamar
+Tavy
+Taw
+Teign
+Thrushel
+Torridge
+Walkham
+Wallabrooke
+East Webburn
+West Webburn
+Wolf
+Yealm
+
+
+
+
+
+
+
+
+Topics
+
+
+
+Flag
+Devon County Council
+Parliamentary constituencies
+Economy
+Places
+Towns by population
+SSSIs
+Country houses
+Grade I listed buildings
+History
+Museums
+Lord Lieutenants
+High Sheriffs
+Notable people
+Dartmoor
+Exmoor
+Jurassic Coast
+South West Coast Path
+North Devon's Biosphere Reserve
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+National parks of the United Kingdom
+
+
+
+
+
+
+England
+
+
+
+Peak District (1951)
+Lake District (1951)
+Dartmoor (1951)
+North York Moors (1952)
+Yorkshire Dales (1954)
+Exmoor (1954)
+Northumberland (1956)
+The Broads‡ (1988)
+New Forest (2005)
+South Downs (2010)
+
+
+
+
+
+
+
+
+Wales
+
+
+
+Snowdonia (1951)
+Pembrokeshire Coast (1952)
+Brecon Beacons (1957)
+
+
+
+
+
+
+
+
+Scotland
+
+
+
+Loch Lomond and The Trossachs (2002)
+Cairngorms (2003)
+
+
+
+
+
+
+
+
+Northern Ireland
+
+
+
+Mourne Mountains†
+
+
+
+
+
+
+
+
+
+
+Parentheses denote year of establishment as a National Park. An area with ‡ has similar status to a UK National Park. Areas marked † are proposed.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Settlements of Dartmoor, Devon
+
+
+
+
+
+
+
+
+
+Ashburton
+Belstone
+Bovey Tracey
+Brentor
+Bridestowe
+Buckfastleigh
+Buckland-in-the-Moor
+Chagford
+Drewsteignton
+Gidleigh
+Haytor
+Hexworthy
+Holne
+Ilsington
+Ivybridge
+Lustleigh
+Lydford
+Manaton
+Mary Tavy
+Moretonhampstead
+North Bovey
+Okehampton
+Peter Tavy
+Ponsworthy
+Postbridge
+Poundsgate
+Princetown
+Shaugh Prior
+Sheepstor
+Sourton
+South Brent
+South Tawton
+South Zeal
+Sticklepath
+Tavistock
+Walkhampton
+Widecombe-in-the-Moor
+Yelverton
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Rivers of Dartmoor, Devon, England
+
+
+
+
+
+
+
+
+
+Ashburn
+Avon
+Bovey
+Dart
+East Dart
+West Dart
+East Okement
+East Webburn
+Erme
+Jordan
+Lemon
+Lyd
+Meavy
+Plym
+Swincombe
+Tavy
+Taw
+Teign
+Walkham
+West Okement
+West Webburn
+Yealm
+
+
+
+
+
+
+
+
+
+
+ 
+NewPP limit report
+CPU time usage: 4.072 seconds
+Real time usage: 4.387 seconds
+Preprocessor visited node count: 14646/1000000
+Preprocessor generated node count: 91062/1500000
+Post‐expand include size: 197178/2048000 bytes
+Template argument size: 24503/2048000 bytes
+Highest expansion depth: 26/40
+Expensive parser function count: 18/500
+Lua time usage: 0.244s
+Lua memory usage: 2.47 MB
+
+
+ Saved in parser cache with key enwiki:pcache:idhash:8167-0!*!0!!en!4!* and timestamp 20131001015959 
+								
+				Retrieved from "http://en.wikipedia.org/w/index.php?title=Dartmoor&oldid=574189526"				
+												Categories: DartmoorNational parks in EnglandHills of DevonSpecial Areas of Conservation in EnglandDuchy of CornwallGeology of DevonParks and open spaces in DevonProtected areas established in 1951Common land in EnglandNatural regions of EnglandMoorlands of EnglandHidden categories: EngvarB from September 2013Use dmy dates from September 2013Geobox usage tracking for protected area typeAll articles with unsourced statementsArticles with unsourced statements from February 2010Articles with OS grid coordinatesWikipedia articles needing clarification from July 2013Articles with unsourced statements from August 2013												
+							
+		
+		
+			Navigation menu
+			
+				
+	Personal tools
+	
+Create accountLog in	
+
+				
+					
+	Namespaces
+	
+					Article
+					Talk
+			
+
+
+	
+		
+	Variants
+	
+		
+					
+	
+
+				
+				
+					
+	Views
+	
+					Read
+					Edit
+					View history
+			
+
+
+	Actions
+	
+		
+					
+	
+
+
+	Search
+	
+				
+																				
+		
+	
+
+				
+			
+			
+					
+				
+	Navigation
+	
+		
+			Main page
+			Contents
+			Featured content
+			Current events
+			Random article
+			Donate to Wikipedia
+		
+	
+
+
+	Interaction
+	
+		
+			Help
+			About Wikipedia
+			Community portal
+			Recent changes
+			Contact page
+		
+	
+
+
+	Toolbox
+	
+		
+			What links here
+			Related changes
+			Upload file
+			Special pages
+			Permanent link
+			Page information
+			Data item
+Cite this page		
+	
+
+
+	Print/export
+	
+		
+			Create a book
+			Download as PDF
+			Printable version
+		
+	
+
+
+	Languages
+	
+		
+			Česky
+			Cymraeg
+			Dansk
+			Deutsch
+			Eesti
+			Español
+			Esperanto
+			Euskara
+			Français
+			Hrvatski
+			Bahasa Indonesia
+			Italiano
+			Lietuvių
+			Magyar
+			മലയാളം
+			Māori
+			Nederlands
+			Nedersaksies
+			日本語
+			Norsk bokmål
+			Norsk nynorsk
+			پنجابی
+			Polski
+			Português
+			Русский
+			Simple English
+			Suomi
+			Svenska
+			Українська
+			中文
+			
+			Edit links
+		
+	
+
+			
+		
+		
+							
+											 This page was last modified on 23 September 2013 at 14:53.
+											Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. 
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+									
+							
+											Privacy policy
+											About Wikipedia
+											Disclaimers
+											Contact Wikipedia
+											Developers
+											Mobile view
+									
+										
+					
+						
+					
+					
+						
+					
+				
+						
+		
+		
+
+
+ Served by mw1095 in 4.643 secs. 
+	
+if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Dartmoor","wgTitle":"Dartmoor","wgCurRevisionId":574189526,"wgArticleId":8167,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["EngvarB from September 2013","Use dmy dates from September 2013","Geobox usage tracking for protected area type","All articles with unsourced statements","Articles with unsourced statements from February 2010","Articles with OS grid coordinates","Wikipedia articles needing clarification from July 2013","Articles with unsourced statements from August 2013","Dartmoor","National parks in England","Hills of Devon","Special Areas of Conservation in England","Duchy of Cornwall","Geology of Devon","Parks and open spaces in Devon","Protected areas established in 1951","Common land in England","Natural regions of England","Moorlands of England"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Dartmoor","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgVectorEnabledModules":{"collapsiblenav":true,"experiments":true},"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"templateEditor":false,"templates":false,"preview":false,"previewDialog":false,"publish":false,"toc":false},"wgArticleFeedbackv5Permissions":{"aft-reader":true,"aft-member":false,"aft-editor":false,"aft-monitor":false,"aft-administrator":false,"aft-oversighter":false,"aft-noone":false},"wgVisualEditor":{"isPageWatched":false,"magnifyClipIconURL":"//bits.wikimedia.org/static-1.22wmf18/skins/common/images/magnify-clip.png","pageLanguageCode":"en","pageLanguageDir":"ltr"},"wikilove-recipient":"","wikilove-anon":0,"wgGuidedTourHelpGuiderUrl":"Help:Guided tours/guider","wgULSAcceptLanguageList":[],"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia","aftv5Article":{"id":8167,"title":"Dartmoor","namespace":0,"categories":["All articles with unsourced statements","Articles with OS grid coordinates","Articles with unsourced statements from August 2013","Articles with unsourced statements from February 2010","Common land in England","Dartmoor","Duchy of Cornwall","EngvarB from September 2013","Geobox usage tracking for protected area type","Geology of Devon","Hills of Devon","Moorlands of England","National parks in England","Natural regions of England","Parks and open spaces in Devon","Protected areas established in 1951","Special Areas of Conservation in England","Use dmy dates from September 2013","Wikipedia articles needing clarification from July 2013"],"permissionLevel":false},"wgWikibaseItemId":"Q214823"});
+}if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":false,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,
+"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"useeditwarning":1,"prefershttps":1,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"vector-simplesearch":1,"vector-collapsiblenav":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"aftv5-last-filter":null,"visualeditor-enable":0,"visualeditor-enable-experimental":0,"visualeditor-betatempdisable":0,"wikilove-enabled":1,"echo-subscriptions-web-page-review":true,"echo-subscriptions-email-page-review":false,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"echo-notify-show-link":true,"echo-show-alert":true,"echo-email-frequency":0,"echo-email-format":"html","echo-subscriptions-email-system":true,"echo-subscriptions-web-system":true,"echo-subscriptions-email-other":false,"echo-subscriptions-web-other":true,"echo-subscriptions-email-edit-user-talk":false,"echo-subscriptions-web-edit-user-talk":true,
+"echo-subscriptions-email-reverted":false,"echo-subscriptions-web-reverted":true,"echo-subscriptions-email-article-linked":false,"echo-subscriptions-web-article-linked":false,"echo-subscriptions-email-mention":false,"echo-subscriptions-web-mention":true,"echo-subscriptions-web-edit-thank":true,"echo-subscriptions-email-edit-thank":false,"gettingstarted-task-toolbar-show-intro":true,"uls-preferences":"","language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs446":false,"searchNs447":false
+,"searchNs710":false,"searchNs711":false,"searchNs828":false,"searchNs829":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-mySandbox":1,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:156d8fe0ae17f8afd74198057563e45d */
+}if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","ext.visualEditor.viewPageTarget.init","ext.wikimediaShopLink.core","ext.uls.init","ext.uls.interface","wikibase.client.init","ext.centralNotice.bannerController","skins.vector.js"]);
+}/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}if(window.mw){
+mw.loader.load(["mobile.desktop","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.cite","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","mw.MwEmbedSupport.style","ext.vector.collapsibleNav","ext.articleFeedbackv5.startup","ext.gettingstarted.logging","ext.gettingstarted.openTask","schema.HttpsSupport","ext.coreEvents.httpsSupport","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","mw.PopUpMediaTransform"],null,true);
+}

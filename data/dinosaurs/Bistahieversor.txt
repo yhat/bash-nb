@@ -1,0 +1,379 @@
+
+
+
+Bistahieversor - Wikipedia, the free encyclopedia
+
+
+
+
+
+
+
+
+
+
+
+
+a:lang(ar),a:lang(ckb),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:0de201fdea5d684523607ed88007b127 */
+
+
+
+
+[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.22wmf18/skins/vector/csshover.min.htc")}</style><![endif]
+
+		
+		
+		
+			
+			
+						 CentralNotice 
+						Bistahieversor
+			
+								From Wikipedia, the free encyclopedia
+								
+												
+					Jump to:					navigation, 					search
+				
+				
+
+
+Bistahieversor
+Temporal range: Late Cretaceous, 74.5Ma
+
+PreЄ
+Є
+O
+S
+D
+C
+P
+T
+J
+K
+Pg
+N
+
+
+
+↓
+
+
+
+
+
+
+
+
+
+New Mexico Museum of natural History and science
+
+
+Scientific classification 
+
+
+Kingdom:
+Animalia
+
+
+Phylum:
+Chordata
+
+
+Clade:
+Sauropsida
+
+
+Clade:
+Dinosauria
+
+
+Clade:
+Theropoda
+
+
+Superfamily:
+†Tyrannosauroidea
+
+
+Genus:
+†Bistahieversor
+Carr & Williamson, 2010
+
+
+Species:
+† B. sealeyi
+
+
+Binomial name
+
+
+Bistahieversor sealeyi
+Carr & Williamson, 2010
+
+
+
+Bistahieversor (meaning "Bistahi destroyer") is a genus of tyrannosauroid dinosaur. Bistahieversor existed in the Late Cretaceous[1] Hunter Wash member of the Kirtland Formation, which has been dated to 74.55 ± 0.29 Ma.[2]
+The name Bistahieversor comes from the Navajo Bistahí, or "place of the adobe formations" in reference to the Bisti/De-Na-Zin Wilderness where it was found, and eversor, meaning "destroyer."[1]
+
+
+Contents
+
+
+1 Description
+2 History of discovery
+3 See also
+4 References
+
+
+Description[edit]
+
+
+
+
+Restoration
+
+
+
+
+
+
+Wall-mounted fossil
+
+
+Material from both adolescent and adult individuals has been found in the Kirtland Formation of New Mexico, United States. Adult Bistahieversor are estimated to have been around 9 metres (30 ft) long, weighing at least a ton. The snout is deep, indicating that the feature is not unique to more derived tyrannosaurs such as Tyrannosaurus. Geographical barriers such as the newly forming Rocky Mountains may have isolated the more southerly Bistahieversor from more derived northern tyrannosaurs.[3]
+Bistahieversor differs from other tyrannosaurs in the possession of 64 teeth, an extra opening above the eye, and a keel along the lower jaw. The opening above the eye is thought to have accommodated an air sac that would have lightened the skull's weight. Bistahieversor also had a complex joint at its "forehead" that would have stabilized the skull, preventing movement at the joint.[4]
+History of discovery[edit]
+The first remains now attributed to Bistahieversor, a partial skull and skeleton, were described in 1990 as a specimen of Aublysodon.[5] Additional remains, consisting of the incomplete skull and skeleton of a juvenile, were described in 1992.[6] Another, complete, skull and partial skeleton were found in the Bisti/De-Na-Zin Wilderness of New Mexico in 1998.[7] In a 2000 paper, Thomas Carr and Thomas Williamson re-examined these four specimens and suggested that they did not belong to Aublysodon, but rather to one or more new species of Daspletosaurus.[8] However, it was not until 2010 that Carr and Williamson published a thorough re-description of the specimens and found that they belonged to a new genus and species of more generalized tyrannosauroid, which they named Bistahieversor sealeyi.[1]
+See also[edit]
+
+
+
+
+Dinosaurs portal
+
+
+
+
+2010 in paleontology
+
+References[edit]
+
+
+^ a b c Carr, T.D. and Williamson, T.E. (2010). "Bistahieversor sealeyi, gen. et sp. nov., a new tyrannosauroid from New Mexico and the origin of deep snouts in Tyrannosauroidea." Journal of Vertebrate Paleontology, 30(1): 1-16. doi:10.1080/02724630903413032
+^ Sullivan, R.M., and Lucas, S.G. 2006. "The Kirtlandian land-vertebrate "age" – faunal composition, temporal position and biostratigraphic correlation in the nonmarine Upper Cretaceous of western North America." New Mexico Museum of Natural History and Science, Bulletin 35:7-29.
+^ Rettner, R. (28 January 2010). "New Tyrannosaur Species Discovered". LiveScience. Retrieved 1 February 2010. 
+^ Viegas, J. (28 January 2010). "New Tyrannosaur Had More Teeth Than T. rex". Discovery News. Retrieved 1 February 2010. 
+^ Lehman and Carpenter, K. (1990). "A partial skeleton of the tyrannosaurid dinosaur Aublysodon from the Upper Cretaceous of New Mexico." Journal of Paleontology, 64: 1026-1032.
+^ Archer, B. and Babiarz, J.P. (1992). "Another tyrannosaurid dinosaur from the Cretaceous of northwest New Mexico." Journal of Paleontology, 66: 690–691.
+^ "New Species of Tyrannosaur Discovered in Southwestern U.S.". Newswise. 28 January 2010. Retrieved 1 February 2010. 
+^ Carr, T. D. and Williamson, T.E. (2000). "A review of Tyrannosauridae (Dinosauria: Coelurosauria) from New Mexico." New Mexico Museum of Natural History and Science Bulletin, 17: 113–145.
+
+
+
+
+
+This theropod-related article is a stub. You can help Wikipedia by expanding it.
+
+
+v
+t
+e
+
+
+
+
+
+
+
+ 
+NewPP limit report
+CPU time usage: 3.892 seconds
+Real time usage: 4.113 seconds
+Preprocessor visited node count: 27198/1000000
+Preprocessor generated node count: 42393/1500000
+Post‐expand include size: 117517/2048000 bytes
+Template argument size: 109141/2048000 bytes
+Highest expansion depth: 39/40
+Expensive parser function count: 1/500
+Lua time usage: 0.038s
+Lua memory usage: 1.44 MB
+
+
+ Saved in parser cache with key enwiki:pcache:idhash:25988394-0!*!0!!en!4!* and timestamp 20131002102421 
+								
+				Retrieved from "http://en.wikipedia.org/w/index.php?title=Bistahieversor&oldid=567127146"				
+												Categories: Cretaceous dinosaursDinosaurs of North AmericaFossil taxa described in 2010TyrannosaursTheropod stubsHidden categories: Articles with 'species' microformatsArticles containing Navajo-language text												
+							
+		
+		
+			Navigation menu
+			
+				
+	Personal tools
+	
+Create accountLog in	
+
+				
+					
+	Namespaces
+	
+					Article
+					Talk
+			
+
+
+	
+		
+	Variants
+	
+		
+					
+	
+
+				
+				
+					
+	Views
+	
+					Read
+					Edit
+					View history
+			
+
+
+	Actions
+	
+		
+					
+	
+
+
+	Search
+	
+				
+																				
+		
+	
+
+				
+			
+			
+					
+				
+	Navigation
+	
+		
+			Main page
+			Contents
+			Featured content
+			Current events
+			Random article
+			Donate to Wikipedia
+		
+	
+
+
+	Interaction
+	
+		
+			Help
+			About Wikipedia
+			Community portal
+			Recent changes
+			Contact page
+		
+	
+
+
+	Toolbox
+	
+		
+			What links here
+			Related changes
+			Upload file
+			Special pages
+			Permanent link
+			Page information
+			Data item
+Cite this page		
+	
+
+
+	Print/export
+	
+		
+			Create a book
+			Download as PDF
+			Printable version
+		
+	
+
+
+	Languages
+	
+		
+			Català
+			Česky
+			Deutsch
+			Español
+			Français
+			Italiano
+			Nederlands
+			Polski
+			Português
+			Русский
+			Svenska
+			中文
+			
+			Edit links
+		
+	
+
+			
+		
+		
+							
+											 This page was last modified on 4 August 2013 at 16:08.
+											Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. 
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+									
+							
+											Privacy policy
+											About Wikipedia
+											Disclaimers
+											Contact Wikipedia
+											Developers
+											Mobile view
+									
+										
+					
+						
+					
+					
+						
+					
+				
+						
+		
+		
+
+
+ Served by mw1020 in 0.142 secs. 
+	
+if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Bistahieversor","wgTitle":"Bistahieversor","wgCurRevisionId":567127146,"wgArticleId":25988394,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with 'species' microformats","Articles containing Navajo-language text","Cretaceous dinosaurs","Dinosaurs of North America","Fossil taxa described in 2010","Tyrannosaurs","Theropod stubs"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Bistahieversor","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgVectorEnabledModules":{"collapsiblenav":true,"experiments":true},"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"templateEditor":false,"templates":false,"preview":false,"previewDialog":false,"publish":false,"toc":false},"wgArticleFeedbackv5Permissions":{"aft-reader":true,"aft-member":false,"aft-editor":false,"aft-monitor":false,"aft-administrator":false,"aft-oversighter":false,"aft-noone":false},"wgVisualEditor":{"isPageWatched":false,"magnifyClipIconURL":"//bits.wikimedia.org/static-1.22wmf18/skins/common/images/magnify-clip.png","pageLanguageCode":"en","pageLanguageDir":"ltr"},"wikilove-recipient":"","wikilove-anon":0,"wgGuidedTourHelpGuiderUrl":"Help:Guided tours/guider","wgULSAcceptLanguageList":[],"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia","aftv5Article":{"id":25988394,"title":"Bistahieversor","namespace":0,"categories":["Articles containing Navajo-language text","Articles with 'species' microformats","Cretaceous dinosaurs","Dinosaurs of North America","Fossil taxa described in 2010","Theropod stubs","Tyrannosaurs"],"permissionLevel":false},"wgWikibaseItemId":"Q132622"});
+}if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":false,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,
+"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"useeditwarning":1,"prefershttps":1,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"vector-simplesearch":1,"vector-collapsiblenav":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"aftv5-last-filter":null,"visualeditor-enable":0,"visualeditor-enable-experimental":0,"visualeditor-betatempdisable":0,"wikilove-enabled":1,"echo-subscriptions-web-page-review":true,"echo-subscriptions-email-page-review":false,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"echo-notify-show-link":true,"echo-show-alert":true,"echo-email-frequency":0,"echo-email-format":"html","echo-subscriptions-email-system":true,"echo-subscriptions-web-system":true,"echo-subscriptions-email-other":false,"echo-subscriptions-web-other":true,"echo-subscriptions-email-edit-user-talk":false,"echo-subscriptions-web-edit-user-talk":true,
+"echo-subscriptions-email-reverted":false,"echo-subscriptions-web-reverted":true,"echo-subscriptions-email-article-linked":false,"echo-subscriptions-web-article-linked":false,"echo-subscriptions-email-mention":false,"echo-subscriptions-web-mention":true,"echo-subscriptions-web-edit-thank":true,"echo-subscriptions-email-edit-thank":false,"gettingstarted-task-toolbar-show-intro":true,"uls-preferences":"","language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs446":false,"searchNs447":false
+,"searchNs710":false,"searchNs711":false,"searchNs828":false,"searchNs829":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-mySandbox":1,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:156d8fe0ae17f8afd74198057563e45d */
+}if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","ext.visualEditor.viewPageTarget.init","ext.wikimediaShopLink.core","ext.uls.init","ext.uls.interface","wikibase.client.init","ext.centralNotice.bannerController","skins.vector.js"]);
+}/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}if(window.mw){
+mw.loader.load(["mobile.desktop","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.cite","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","mw.MwEmbedSupport.style","ext.vector.collapsibleNav","ext.articleFeedbackv5.startup","ext.gettingstarted.logging","ext.gettingstarted.openTask","schema.HttpsSupport","ext.coreEvents.httpsSupport","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","mw.PopUpMediaTransform"],null,true);
+}

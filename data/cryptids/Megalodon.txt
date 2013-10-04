@@ -1,0 +1,1114 @@
+
+
+
+Megalodon - Wikipedia, the free encyclopedia
+
+
+
+
+
+
+
+
+
+
+a:lang(ar),a:lang(ckb),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:0de201fdea5d684523607ed88007b127 */
+
+
+
+
+[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.22wmf19/skins/vector/csshover.min.htc")}</style><![endif]
+
+		
+		
+		
+			
+			
+						 CentralNotice 
+						Megalodon
+			
+								From Wikipedia, the free encyclopedia
+								
+												
+					Jump to:					navigation, 					search
+				
+				For other uses, see Megalodon (disambiguation).
+"Carcharocles" redirects here.
+
+
+
+
+Megalodon
+Temporal range: Late Oligocene-Early Pleistocene, 28–1.5Ma
+
+PreЄ
+Є
+O
+S
+D
+C
+P
+T
+J
+K
+Pg
+N
+
+
+
+
+
+
+
+
+
+
+
+
+
+Model of the jaws of megalodon at the American Museum of Natural History.
+
+
+Scientific classification
+
+
+Kingdom:
+Animalia
+
+
+Phylum:
+Chordata
+
+
+Subphylum:
+Vertebrata
+
+
+Class:
+Chondrichthyes
+
+
+Subclass:
+Elasmobranchii
+
+
+Order:
+Lamniformes
+
+
+Family:
+Disputed; Lamnidae or †Otodontidae
+
+
+Genus:
+Disputed; Carcharodon or †Carcharocles
+
+
+Species:
+†C. megalodon
+
+
+Binomial name
+
+
+Disputed; Carcharodon megalodon or Carcharocles megalodon
+For Carcharodon megalodon, Agassiz, 1843
+
+
+Synonyms
+
+
+
+
+Procarcharodon megalodon Casier, 1960
+Megaselachus megalodon Glikman, 1964
+
+
+
+
+
+Megalodon (/ˈmɛɡələdɒn/ MEG-ə-lə-don; meaning "big tooth", from Ancient Greek: μέγας (megas) “big, mighty” + ὀδόν (odon) (from ὀδούς (odous) "tooth"),[1] is an extinct species of shark that lived approximately 28 to 1.5 million years ago, during the Cenozoic Era (late Oligocene to early Pleistocene).
+The taxonomic assignment of C. megalodon has been debated for nearly a century, and is still under dispute. The two major interpretations are Carcharodon megalodon (under family Lamnidae) or Carcharocles megalodon (under family Otodontidae).[2] Consequently, the scientific name of this species is commonly abbreviated C. megalodon in the literature.
+C. megalodon is regarded as one of the largest and most powerful predators in vertebrate history,[3] and likely had a profound impact on the structure of marine communities.[4] Fossil remains suggest that this giant shark reached a maximum length of 14–18 metres (46–59 ft),[3] and also affirm that it had a cosmopolitan distribution.[2] Scientists suggest that C. megalodon looked like a stockier version of the great white shark, Carcharodon carcharias.
+
+
+
+Contents
+
+
+1 Discovery
+
+1.1 Glossopetrae
+1.2 Identification
+
+
+2 Fossils
+
+2.1 Teeth
+2.2 Vertebrae
+2.3 Distribution and age
+
+
+3 Taxonomy and evolution
+
+3.1 Megalodon within Carcharodon
+3.2 Megalodon within Carcharocles
+
+3.2.1 Megalodon as a chronospecies
+3.2.2 Mako sharks as closest relatives of great whites
+
+
+3.3 Considerations
+
+
+4 Anatomy
+
+4.1 Size estimation
+
+4.1.1 Length
+
+4.1.1.1 Enamel height
+4.1.1.2 Largest anterior tooth height
+4.1.1.3 Root width
+4.1.1.4 Crown height
+4.1.1.5 Consensus
+4.1.1.6 Largest known specimens
+
+
+4.1.2 Body mass estimates
+
+
+4.2 Dentition and jaw mechanics
+
+4.2.1 Bite force
+4.2.2 Functional parameters of teeth
+
+
+4.3 Skeletal anatomy
+
+4.3.1 Full skeletal reconstruction
+
+
+
+
+5 Paleoecological considerations
+
+5.1 Range and habitat
+5.2 Prey relationships
+5.3 Feeding strategies
+5.4 Nursery areas
+
+
+6 Extinction
+
+6.1 Oceanic cooling and sea level drops
+6.2 Decline in food supply
+6.3 New competition
+
+
+7 In fiction
+8 See also
+9 Footnotes
+10 References
+11 External links
+
+11.1 Paleontological videos
+
+
+
+
+
+Discovery
+Glossopetrae
+
+
+
+
+The depiction of a shark's head by Nicolaus Steno in his work, The Head of a Shark Dissected.
+
+
+According to Renaissance accounts, gigantic, triangular fossil teeth often found embedded in rocky formations were once believed to be the petrified tongues, or glossopetrae, of dragons and snakes. This interpretation was corrected in 1667 by Danish naturalist Nicolaus Steno, who recognized them as shark teeth, and famously produced a depiction of a shark's head bearing such teeth.[5] He described his findings in the book The Head of a Shark Dissected, which also contained an illustration of a C. megalodon tooth.[6]
+Identification
+Swiss naturalist Louis Agassiz gave the shark its initial scientific name, Carcharodon megalodon, in 1835,[7] in his research work Recherches sur les poissons fossiles[8] (Research on fossil fish), which he completed in 1843. Megalodon teeth are morphologically similar to the teeth of the great white shark. On the basis of this observation, Agassiz assigned megalodon to the genus Carcharodon.[7] While the scientific name is C. megalodon, it is often informally dubbed the "megatooth shark",[9] "giant white shark"[10] or "monster shark".[11]
+Fossils
+C. megalodon is represented in the fossil record primarily by teeth and vertebral centra.[9] As with all sharks, C. megalodon's skeleton was formed of cartilage rather than bone; this results in mostly poorly preserved fossil specimens.[12]
+Teeth
+
+
+
+
+Megalodon tooth with slant height (diagonal length) of over 170 mm.
+
+
+
+
+
+
+Megalodon tooth with two great white shark teeth.
+
+
+The most common megalodon fossils are its teeth. Diagnostic characteristics include: triangular shape,[2] robust structure,[9] large size,[2] fine serrations,[2] and visible v-shaped neck.[2] Megalodon teeth can measure over 180 millimetres (7.1 in) in slant height or diagonal length, and are the largest in size of any known shark species.[13]
+Vertebrae
+Some fossil vertebrae have been found.[6] The most notable example is a partially preserved vertebral column of a single specimen, excavated in Antwerp basin, Belgium by M. Leriche in 1926. It comprises 150 vertebral centra, with the largest centra stretching 155 millimetres (6.1 in) in diameter.[9] However, scientists have claimed that considerably larger vertebral centra can be expected.[9] A partially preserved vertebral column of another megalodon specimen was excavated from Gram clay, Denmark by Bendix-Almgeen in 1983. This specimen comprises 20 vertebral centra, with the largest centra around 230 millimetres (9.1 in) in diameter.[14]
+Distribution and age
+
+
+
+
+Megalodon tooth excavated from Lee Creek Mine, Aurora, North Carolina, United States.
+
+
+C. megalodon fossils have been excavated from many parts of the world, including Europe, Africa and both North and South America,[6][9] as well as Puerto Rico,[15] Cuba,[16] Jamaica,[17] Australia,[18] New Zealand,[13] Japan,[6][9] Malta,[13] Grenadines[19] and India.[6] Megalodon teeth have been excavated from regions far away from continental lands, such as the Mariana Trench in the Pacific Ocean.[13]
+The earliest megalodon remains were reported from late Oligocene strata, circa 28 million years old.[20][21] Although fossils are mostly absent in strata extending beyond the Tertiary boundary,[9] they have been reported from subsequent Pleistocene strata.[22] It is believed that C. megalodon became extinct in the Pleistocene, probably about 1.5 million years ago.[12]
+Taxonomy and evolution
+Even after decades of research and scrutiny, controversy over C. megalodon phylogeny persists.[7][23] Several shark researchers (e.g. J. E. Randall, A. P. Klimley, D. G. Ainley, M. D. Gottfried, L. J. V. Compagno, S. C. Bowman, and R. W. Purdy) insist that C. megalodon is a close relative of the great white shark. However, others (e.g. D. S. Jordan, H. Hannibal, E. Casier, C. DeMuizon, T. J. DeVries, D. Ward, and H. Cappetta) cite convergent evolution as the reason for the dental similarity. Such Carcharocles advocates have gained noticeable support.[24] However, the original taxonomic assignment still has wide acceptance.[7]
+Megalodon within Carcharodon
+
+
+
+
+
+
+
+Lamniformes 
+
+
+
+
+
+
+
+
+
+
+
+
+
+I. hastalis
+
+
+
+
+
+
+
+
+Sacaco sp.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+C. carcharias
+
+
+
+
+
+
+
+
+C. megalodon
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The megalodon hypothesis claims that C. carcharias is more closely related to C. megalodon than I. hastalis.[7]
+
+
+
+
+
+
+Lamniformes 
+
+
+
+
+
+
+
+
+
+
+
+
+
+O. obliquus
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+I. hastalis
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+C. carcharias
+
+
+
+
+
+
+
+
+C. megalodon
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The alternative Otodus-origin hypothesis claims that C. carcharias descends from megatoothed sharks.[23]
+
+
+
+The traditional view is that megalodon should be classified within the genus Carcharodon along with the great white shark. The main reasons cited for this phylogeny are: (1) an ontogenetic gradation, whereby the teeth shift from coarse serrations as a juvenile to fine serrations as an adult, the latter resembling megalodon's; (2) morphological similarity of teeth of young megalodon to those of C. carcharias; (3) a symmetrical second anterior tooth; (4) large intermediate tooth that is inclined mesially; and (5) upper anterior teeth that have a chevron-shaped neck area on the lingual surface. Carcharodon supporters suggest that megalodon and C. carcharias share a common ancestor, Palaeocarcharodon orientalis.[7][13]
+Megalodon within Carcharocles
+
+
+
+
+
+
+
+Lamniformes 
+
+
+
+
+
+
+
+
+
+I. hastalis
+
+
+
+
+
+
+
+
+
+
+
+
+Sacaco sp.
+
+
+
+
+
+
+
+
+C. carcharias
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+void
+
+C. megalodon
+
+
+
+
+
+
+
+
+
+
+
+
+
+The hastalis hypothesis claims that C. carcharias is more closely related to I. hastalis than to C. megalodon.[7]
+
+
+
+
+
+
+Lamniformes 
+
+
+
+
+
+
+
+
+
+
+
+
+
+O. obliquus
+
+
+
+
+
+
+
+
+C. megalodon
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+I. hastalis
+
+
+
+
+
+
+
+
+C. carcharias
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The Isurus-origin hypothesis claims that C. carcharias descends from I. hastalis.[23]
+
+
+
+Around 1923, the genus Carcharocles was proposed by D. S. Jordan and H. Hannibal, to classify the shark C. auriculatus. Later on, Carcharocles proponents assigned megalodon to Carcharocles.[7][13] Carcharocles proponents also suggest that the direct ancestor of the sharks belonging to Carcharocles is an ancient giant shark called Otodus obliquus, which lived during the Paleocene and Eocene epochs.[23][24] According to Carcharocles supporters, Otodus obliquus evolved into Otodus aksuaticus, which evolved into Carcharocles auriculatus, and then into Carcharocles angustidens, and then into Carcharocles chubutensis, and then into megalodon. Hence, the immediate ancestor of C. megalodon is C. chubutensis, because it serves as the missing link between C. augustidens and C. megalodon and it bridges the loss of the "lateral cusps" that characterize megalodon.[13][24]
+Megalodon as a chronospecies
+Shark researcher David Ward elaborated on the evolution of Carcharocles by implying that this lineage, stretching from the Paleocene to the Pliocene, is of a single giant shark which gradually changed through time, suggesting a case of chronospecies.[13]
+Mako sharks as closest relatives of great whites
+Carcharocles proponents point out that the great white shark is closely related to an ancient shark Isurus hastalis, the "broad tooth mako", rather than to megalodon. One reason cited by paleontologist Chuck Ciampaglio is that the dental morphometrics (variations and changes in the physical form of objects) of I. hastalis and C. carcharias are remarkably similar. Another reason cited is that megalodon teeth have much finer serrations than C. carcharias teeth.[7] Further evidence linking the great white shark more closely to ancient mako sharks, rather than to megalodon, was provided in 2009 — the fossilized remains of a form of the great white shark about 4 million years old were excavated from southwestern Peru in 1988. These remains demonstrate a likely shared ancestor of modern mako and great whites.[23][25]
+Considerations
+
+
+
+
+Two teeth of great white shark (white) compared to a single tooth of megalodon (black). A coin 23 mm in width shows the scale.
+
+
+Ciampaglio asserted that dental similarities between megalodon and the great white are superficial with noticeable morphometric differences between them, and that these findings are sufficient to warrant a separate genus.[7][11] However, some Carcharodon proponents (i.e., M. D. Gottfried, and R. E. Fordyce) provided more arguments for a close relationship between the megatooth and the great white.[21] With respect to the recent controversy regarding fossil lamnid shark relationships, overall morphology – particularly the internal calcification patterns – of the great white shark vertebral centra have been compared to well-preserved fossil centra from the megatooth, including megalodon and C. angustidens. The morphological similarity of these comparisons supports a close relationship of the giant fossil megatooth species to extant whites.[21][26]
+Gottfried and Fordyce pointed out that some great white shark fossils are about 16 million years old and predate the transitional Pliocene fossils.[21] In addition the Oligocene megalodon records[13][21] contradict the suggestion that C. chubutensis is the immediate ancestor of C. megalodon. These records also indicate that megalodon co-existed with C. angustidens.[21]
+Some paleontologists argue that the genus Otodus should be used for sharks within the Carcharocles lineage and the genus Carcharocles should be discarded.[2]
+Several Carcharocles proponents (i.e. C. Pimiento, D. J. Ehret, B. J. MacFadden, and G. Hubbell) claim that both species belong to the order Lamniformes and in the absence of living members of the family Otodontidae, the great white shark is the species most ecologically analogous to megalodon.[2]
+Anatomy
+Among extant species, the great white shark is regarded as the best analogue to megalodon.[2] The lack of well-preserved fossil megalodon skeletons led scientists to rely on the great white shark as the basis of its reconstruction and size estimation.[9]
+Size estimation
+Due to fragmentary remains, estimating the size of C. megalodon has been challenging.[13] However, the scientific community has concluded that C. megalodon was larger than the whale shark, Rhincodon typus. Scientists focused on two aspects of size: total length and body mass.
+Length
+
+
+
+
+Reconstruction by Bashford Dean in 1909,[27] with fossil teeth assembled from various localities.
+
+
+The first attempt to reconstruct a megalodon jaw was made by Bashford Dean in 1909. From the dimensions of this jaw reconstruction, it was hypothesized that C. megalodon could have approached 30 metres (98 ft).[27] Better knowledge of dentition and more accurate muscle structures,[27] led to a rectified version of Dean's jaw model about 70 percent of its original size and to a size consistent with modern findings.[27] To resolve such errors, scientists, aided by new fossil discoveries of C. megalodon and improved knowledge of its closest living analogue's anatomy, introduced more quantitative methods for estimating its size based on the statistical relationships between the tooth sizes and body lengths.[9][27] Some methods are mentioned below.
+Enamel height
+In 1973, Hawaiian ichthyologist John E. Randall used a plotted graph to demonstrate a relationship between the enamel height (the vertical distance of the blade from the base of the enamel portion of the tooth to its tip) of the largest tooth in the upper jaw of the great white shark and its total length.[27][28] Randall extrapolated this method to estimate C. megalodon's total length. Randall cited two megalodon teeth in his work, specimen number 10356 at the American Museum of Natural History and specimen number 25730 at the United States National Museum, which had enamel heights of 115 millimetres (4.5 in) and 117.5 millimetres (4.63 in) respectively.[28] These teeth yielded a corresponding total length of about 13 metres (43 ft).[27][28] In 1991, Richard Ellis and John E. McCosker claimed that tooth enamel height does not necessarily increase in proportion to the animal's total length.[9]
+Largest anterior tooth height
+In 1996, after scrutiny of 73 great white shark specimens, Michael D. Gottfried, Leonard Compagno and S. Curtis Bowman proposed a linear relationship between the height of the largest upper anterior tooth and total length in the great white shark. The proposed relationship is: total length in metres = − (0.096) × [UA maximum height (mm)]-(0.22).[9][21] Gottfried and colleagues then extrapolated their technique to C. megalodon. The biggest megalodon tooth in the possession of this team was an upper second anterior specimen, whose maximum height was 168 millimetres (6.6 in). This tooth had been discovered by Compagno in 1993. It yielded an estimated total length of 15.9 metres (52 ft).[9] Rumors of larger megalodon teeth persisted at the time.[9] The maximum tooth height for this method is measured as a vertical line from the tip of the crown to the bottom of the lobes of the root, parallel to the long axis of the tooth.[9] In layman's terms, the maximum height of the tooth is its slant height.[29]
+Root width
+In 2002, shark researcher Clifford Jeremiah proposed that total length was proportional to the root width of an upper anterior tooth. He claimed that for every 1 centimetre (0.39 in) of width, there is approximately 4.5 feet (1.4 m) of the shark. Jeremiah pointed out that the jaw perimeter of a shark is directly proportional to its total length, with the width of the roots of the largest teeth being a proxy for estimating jaw perimeter. The largest tooth in the possession of Jeremiah had a root width of about 12 centimetres (4.7 in), which yielded 16.5 metres (54 ft) total length. Ward asserted that this method is based on a sound principle that works well with most large sharks.[13]
+Crown height
+In 2002, paleontologist Kenshu Shimada of DePaul University proposed a linear relationship between tooth crown height and total length in great white sharks after conducting anatomical analysis of several specimens.[30] This relationship is expressed as: total length in centimetres = a + bx, where a is a constant, b is the slope of the line and x is the crown height of tooth in millimetres. This relationship allowed any tooth to be used for the estimate.[2][30] The crown height was measured as maximum vertical enameloid height on the labial side. Shimada pointed out that previously proposed methods were based on weaker evaluation of dental homology, and that the growth rate between the crown and root is not isometric, which he considered in his model.[30] Furthermore, this relationship could be used to predict the total length of sharks that are morphologically similar to the great white shark, such as C. megalodon.[2][30] Using this model, the upper anterior tooth (with maximum height of 168 millimetres (6.6 in)) possessed by Gottfried and colleagues corresponded to a total length of 15.1 metres (50 ft).[30] In 2010, shark researchers Catalina Pimiento, Dana J. Ehret, Bruce J. MacFadden and Gordon Hubbell estimated the total length of C. megalodon on the basis of Shimada's method. Among the specimens found in the Gatun Formation of Panama, specimen number 237956 yielded a total length of 16.8 metres (55 ft).[2]
+Consensus
+
+
+
+
+Megalodon (gray and red) with the whale shark (violet), great white shark (green), and a human (black) for scale. Note: The maximum size attained by megalodon is indicated by the 20 m scale.
+
+
+In the 1990s, marine biologists such as Patrick J. Schembri and Staphon Papson opined that C. megalodon may have approached a maximum of around 24 to 25 metres (79 to 82 ft) in total length,[31][32] however Gottfried and colleagues proposed that C. megalodon could likely approach a maximum of only 20.3 metres (67 ft) in total length.[3][9][33] Currently, most experts agree the megalodon reached a total length of more than 16 metres (52 ft).[2][3][13][33]
+Largest known specimens
+Gordon Hubbell from Gainesville, Florida possesses an upper anterior megalodon tooth whose maximum height is 184.1 millimetres (7.25 in).[13] In addition, a megalodon jaw reconstruction contains a tooth whose maximum height is reportedly 193.67 millimetres (7.625 in).[34] This jaw reconstruction was developed by fossil hunter Vito Bertucci,[34] who was known as "Megalodon Man".[13][34]
+Body mass estimates
+Gottfried and colleagues introduced a method to determine the mass of the great white after studying the length–mass relationship data of 175 specimens at various growth stages and extrapolated it to estimate C. megalodon's mass. According to their model, a 15.9 metres (52 ft) long megalodon would have a mass of about 48 metric tons (53 short tons),[3][9] a 17 metres (56 ft) long megalodon would have a mass of about 59 metric tons (65 short tons),[9] and a 20.3 metres (67 ft) long megalodon would have a mass of 103 metric tons (114 short tons).[3][9]
+Dentition and jaw mechanics
+
+
+
+
+Reconstruction showing the position of the replacement teeth.
+
+
+A team of Japanese scientists, T. Uyeno, O. Sakamoto, and H. Sekine, discovered and excavated partial remains of a megalodon, with a nearly complete associated set of its teeth, from Saitama, Japan in 1989.[6] Another nearly complete associated megalodon dentition was excavated from Yorktown Formations of Lee Creek, North Carolina in the United States and served as the basis of a jaw reconstruction of C. megalodon at the American Museum of Natural History in New York City.[9] These associated tooth sets solved the mystery of how many teeth would be in the jaws of the megalodon in each row. As a result, highly accurate jaw reconstructions became possible. More associated megalodon dentitions were found in later years. Based on these discoveries, scientists S. Applegate and L. Espinosa published an artificial dental formula (representation of dentition of an animal with respect to types of teeth and their arrangement within the animal's jaw) for megalodon in 1996.[6][9] Most accurate modern C. megalodon jaw reconstructions are based on this dental formula.
+The dental formula of C. megalodon is: 2.1.7.43.0.8.4.[6]
+As evident from the formula, C. megalodon had four kinds of teeth in its jaws.[6]
+
+Anterior - A
+Intermediate - I (megalodon's tooth technically appears to be an upper anterior and is termed as "A3" because it is fairly symmetrical and does not point mesially (side of the tooth toward the midline of the jaws where the left and right jaws meet), but this tooth is still designated as an intermediate tooth.[7] However, the great white shark's intermediate tooth does point mesially. This point was raised in the Carcharodon vs. Carcharocles debate regarding the megalodon and favors the case of Carcharocles proponents.)
+Lateral - L
+Posterior - P
+
+
+
+
+
+Reconstructed jaws on display at the National Aquarium in Baltimore.
+
+
+Megalodon had a very robust dentition,[9] and had a total of about 276 teeth in its jaws, spanning 5 rows. Paleontologists suggest that a very large megalodon had jaws over 2 metres (7 ft) across.[13]
+Bite force
+In 2008, a team of scientists led by S. Wroe conducted an experiment to determine the bite force of the great white shark, using a 2.4 metres (8 ft) long specimen, and then isometrically scaling the results for its maximum confirmed size and the conservative minimum and maximum body mass of C. megalodon, placing the bite force of the latter between 108,514 N (24,400 lbf) and 182,201 N (41,000 lbf) in a posterior bite. Compared to 18,216 N (4,100 lbf) for the largest confirmed great white shark,[3] and 5,300 N (1,200 lbf) for the placoderm fish Dunkleosteus.[35]
+In addition, Wroe and colleagues pointed out that sharks shake sideways while feeding, amplifying the post-cranial generated forces. Therefore the total force experienced by prey is likely higher than the estimate.[3] The extraordinary bite forces in C. megalodon must be considered in the context of its great size and of paleontological evidence suggesting that C. megalodon was an active predator of large whales.[3]
+Functional parameters of teeth
+Megalodon's exceptionally robust teeth are serrated,[7][13] which would have improved efficiency in slicing its prey's flesh. Paleontologist B. K. Kent suggested that these teeth are comparatively thicker for their size with much lower slenderness and bending strength ratios. Their roots are substantially larger relative to total tooth heights, and so have a greater mechanical advantage. Teeth with these traits are good cutting tools and are well suited for grasping powerful prey and would seldom crack even when slicing through bones.[36]
+Skeletal anatomy
+
+
+
+
+Reconstructed megalodon skeleton on display at the Calvert Marine Museum.
+
+
+Gottfried and colleagues further estimated the schematics of megalodon's entire skeleton.[9] To support the beast's dentition, its jaws would have been massive, stouter, and more strongly developed than those of the great white, which possesses a comparatively gracile dentition. The jaws would have given it a "pig-eyed" profile.[9] Its chondrocranium would have had a blockier and more robust appearance than the great white.[9] Its fins were proportional to its larger size.[9] Scrutiny of the partially preserved vertebral megalodon specimen from Belgium revealed that C. megalodon had a higher vertebral count than specimens of any known shark. Only the great white approached it.[9]
+Full skeletal reconstruction
+Using the above characteristics, Gottfried and colleagues reconstructed the entire skeleton of C. megalodon, which was later put on display at the Calvert Marine Museum at Solomon's Island, Maryland in the United States.[9][24][37] This reconstruction is 11.5 metres (38 ft) long and represents a young individual. The team stresses that relative and proportional changes in megalodon skeletal features are ontogenetic in nature in comparison to that of great white, as they occur in great whites while growing.[9] Fossil remains of C. megalodon confirm that it had a heavily calcified skeleton while alive.[14]
+Paleoecological considerations
+Range and habitat
+Sharks, especially large species, are highly mobile and experience a complex life history amid wide distribution.[2] Fossil records indicate that it was cosmopolitan,[13] and commonly occurred in subtropical to temperate latitudes.[9] Prior to the formation of the Isthmus of Panama, the seas were relatively warmer.[38] This would have made it possible for the species to live in all oceans.
+Megalodon had enough adaptability to inhabit a wide range of marine environments (i.e. coastal shallow waters, coastal upwelling, swampy coastal lagoons, sandy littorals and offshore deep water environments), and exhibited a transient lifestyle.[13][39] Adult megalodon were not abundant in shallow water environments[39] and mostly lurked offshore. C. megalodon may have moved between coastal and oceanic waters, particularly in different stages of its life cycle.
+Prey relationships
+
+
+
+
+Vertebral centrum of a whale bitten in half by a megalodon. Large bite marks (deep gashes) on the vertebral centrum are visible.
+
+
+Sharks are generally opportunistic predators. However, scientists propose that C. megalodon was "arguably the most formidable carnivore ever to have existed."[3] Its great size,[3] high-speed swimming capability,[37] and powerful jaws coupled with formidable killing apparatus,[3][9] made it a super-predator with the capability to consume a broad spectrum of fauna.
+Fossil evidence indicates that C. megalodon preyed upon cetaceans (i.e., dolphins,[9] small whales,[6] (including cetotherrids,[12] squalodontids,[39] and Odobenocetops[40]), and large whales,[41] (including sperm whales,[13][42] bowhead whales,[43] and rorquals[41][44]), pinnipeds,[12][19][45] porpoises,[13] sirenians,[39][46] and giant sea turtles.[39] Marine mammals were regular prey targets for megalodon. Many whale bones have been found with clear signs of large bite marks (deep gashes) made by teeth that match megalodon's.[6][9] Various excavations have revealed megalodon teeth lying close to the chewed remains of whales,[9][24] and sometimes in direct association with them.[10] Fossil evidence of interactions between megalodon and pinnipeds also exist.[19] In one interesting observation, a 127 millimetres (5.0 in) C. megalodon tooth was found lying very close to a bitten earbone of a sea lion.[45]
+
+
+
+
+Artistic impression of a megalodon pursuing two Eobalaenoptera whales.
+
+
+C. megalodon faced a highly competitive environment.[4] However, its position at the top of the food chain,[47] likely had a profound impact on the structuring of marine communities.[4][9][48] Fossil evidence indicates a correlation between C. megalodon emergence and extensive diversification of cetaceans.[4][9] Juvenile megalodon preferred habitats where small cetaceans were abundant, and adult megalodon preferred habitats where large cetaceans were abundant. Such preferences may have developed shortly after they appeared in the Oligocene.[9] In addition, C. megalodon were contemporaneous with macro-predatory odontocetes (particularly raptorial sperm whales and squalodontids), which were also likely among the era's apex predators,[4][11] and provided competition.[11][49] In response to competition from giant macro-predatory sharks, macro-predatory odontocetes may have evolved defensive adaptations; some species became pack predators,[11][50] and some attained gigantic sizes, such as Livyatan melvillei.[4][51] By the end of the Miocene, raptorial sperm whales vanished from the fossil record and left an ecological void.[4]
+Like other sharks, megalodon also would have been piscivorous.[12][37] Fossil evidence indicates that other notable species of macro-predatory sharks (e.g. great white sharks) responded to competitive pressure from C. megalodon by avoiding regions it inhabited.[9] Megalodon likely also had a tendency for cannibalism.[52]
+Feeding strategies
+Sharks often employ complex hunting strategies to engage large prey animals. Some paleontologists suggest that great white shark hunting strategies may offer clues as to how C. megalodon hunted its unusually large prey.[11] However, fossil evidence suggests that C. megalodon employed more effective hunting strategies against large prey than those of the great white shark.[36]
+Paleontologists surveyed fossils to determine attacking patterns.[36] One particular specimen — the remains of a 9 metres (30 ft) long prehistoric baleen whale (of an unknown Miocene taxon) — provided the first opportunity to quantitatively analyze its attack behavior. The predator primarily focused on the tough bony portions (i.e. shoulders, flippers, rib cage, and upper spine) of the prey, which great white sharks generally avoid. Dr. B. Kent elaborated that C. megalodon attempted to crush the bones and damage delicate organs (i.e. heart, and lungs) harbored within the rib cage. Such an attack would have immobilized the prey, which would have died quickly from injuries to these vital organs. These findings also clarify why the ancient shark needed more robust dentition than that of great whites.[36] Furthermore, attack patterns could differ for prey of different sizes. Fossil remains of some small cetaceans (e.g. cetotheriids) suggest that they were rammed with great force from below before being killed and eaten.[11]
+During the Pliocene, larger and more advanced cetaceans appeared.[53] Megalodon apparently further refined its hunting strategies to cope with these large whales. Numerous fossilized flipper bones (i.e., segments of the pectoral fins), and caudal vertebrae of large whales from the Pliocene have been found with megalodon bite marks. This paleontological evidence suggests that megalodon would immobilize a large whale by ripping apart or biting off its locomotive structures before killing and feeding on it.[3]
+Nursery areas
+
+
+
+
+Collection of teeth of juvenile C. megalodon from a probable nursery area in the Gatun Formation of Panama.
+
+
+Fossil evidence suggests that the preferred nursery sites of C. megalodon were warm water coastal environments, where threats were minor and food plentiful.[2] Nursery sites were identified in the Gatun Formation of Panama, the Calvert Formation of Maryland, and the Bone Valley Formation of Florida. As is the case with most sharks, C. megalodon also gave birth to live young. The size of neonate megalodon teeth indicate that megalodon pups were around 2 to 4 metres (7 to 13 ft) in total length at birth.[2][9] Their dietary preferences display an ontogenetic shift.[9] Young megalodon commonly preyed on fish,[2] giant sea turtles,[39] dugongs[13] and small cetaceans; mature megalodon moved to off-shore cetacean high-use areas and consumed large cetaceans.[9]
+However, an exceptional case in the fossil record suggests that juvenile megalodon may occasionally have attacked much larger balaenopterid whales. Three tooth marks apparently from a 4–7-metre (13–23 ft) long Pliocene macro-predatory shark were found on a rib from an ancestral great blue or humpback whale that showed evidence of subsequent healing.[44][54][55] Scientists suspect that this shark was a juvenile megalodon.[54][55]
+Extinction
+The subject of C. megalodon extinction remains under investigation.[11] Several possible causes for its decline and eventual disappearance have been proposed.
+Oceanic cooling and sea level drops
+The Earth has been in a long term cooling trend since the Miocene Climactic Optimum, 15-17 Ma ago.[56] This trend may have been accelerated by changes in global ocean circulation caused by the closure of the Central American Seaway[6][57] and/or other factors (see Pliocene climate), setting the stage for glaciation in the northern hemisphere.[57] Consequently, during the late Pliocene and Pleistocene, there were ice ages,[58][59] which cooled the oceans significantly.[6] Expansion of glaciation during the Pliocene tied up huge volumes of water in continental ice sheets, resulting in significant sea level drops.[38] The major reason cited is the decline in ocean temperatures at global scale during the Pliocene.[6][24][60] This cooling trend adversely impacted C. megalodon, as it preferred warmer waters,[9][60] and as a result it may have declined in abundance until its ultimate extinction during the Pleistocene.[60] Fossil evidence confirms the absence of C. megalodon in regions around the world where water temperatures had significantly declined during the Pliocene.[9] Furthermore, these oceanographic changes may have restricted many of the suitable warm water nursery sites for megalodon, hindering reproduction.[6] Nursery areas are pivotal for the survival of viviparian species.[61]
+Decline in food supply
+Baleen whales attained their greatest diversity during the Miocene,[9] with over 20 recognized genera in comparison to only six extant genera.[62] Such diversity presented an ideal setting to support a gigantic macropredator such as C. megalodon.[9] However, by the end of the Miocene many species of mysticetes had gone extinct;[4] surviving species may have been faster swimmers and thus more elusive prey.[13][37] Furthermore, after the closure of Central American Seaway, additional extinctions occurred in the marine environment,[63][64] and faunal redistribution took place; tropical great whales decreased in diversity and abundance.[65] Whale migratory patterns during the Pliocene have been reconstructed from the fossil record, suggesting that most surviving species showed a trend towards polar regions.[38] The cooling of the oceans during the Pliocene restricted the access of C. megalodon to polar regions, depriving it of its main food source, the great whales.[6][9][12][65] As a result of these developments, the food supply for megalodon in regions it inhabited during the Pliocene, primarily in low-to-mid latitudes, was no longer sufficient to sustain it worldwide.[6][41][65] C. megalodon were adapted to a specialized lifestyle, and this lifestyle was disturbed by these developments.[24] The resulting shortage of food sources in the tropics during Plio-Pleistocene times may have fueled cannibalism by megalodon. Juveniles were at increased risk from attacks by adults during times of starvation.[11]
+New competition
+Large raptorial delphinids (members of genus Orcinus) evolved during the Pliocene,[66] and likely filled the ecological void left by the disappearance of raptorial sperm whales at the end of the Miocene.[4] A minority view is that competition from ancestral killer whales may have contributed to the shark's decline[13][37][67] (another source suggests more generally that "competition with large odontocetes" may have been a factor[9]). Megalodon juveniles may have been subject to predation by orca,[13] much as great white sharks are today.[67] Fossil records indicate that these delphinids commonly occurred at high latitudes during the Pliocene, indicating that they could cope with the increasingly prevalent cold water temperatures. They also occurred in the tropics (e.g., Orcinus sp. in South Africa).[66]
+However, expert consensus suggests that factors such as a cooling trend in the oceans and a shortage of food sources during Plio-Pleistocene times played a significant role in megalodon's demise.[11] Paleontologist Albert Sanders suggests that C. megalodon was too large to sustain itself on the declining tropical food supply.[61] Other apex predators seem to have gained from the extinction of this formidable species.[60]
+In fiction
+C. megalodon has been portrayed in several works of fiction, including films and novels, and continues to hold its place among the most popular subjects for fiction involving sea monsters. Many of these works posit that at least a relict population of megalodon survived extinction and lurk in the vast depths of the ocean, and that individuals may manage to surface, either by human intervention or by natural means. Jim Shepard's story "Tedford and the Megalodon" is an example of this. Such beliefs are usually inspired by the discovery of a megalodon tooth by members of HMS Challenger in 1872, which some believed to be only 10,000 years old.[68]
+Some works of fiction (such as Shark Attack 3: Megalodon and Steve Alten's Meg series) incorrectly depict C. megalodon as being a species over 70 million years old, and to live during the time of the dinosaurs. The writers of the movie Shark Attack 3: Megalodon depicted this assumption by including an altered copy of Great White Shark by shark researcher Richard Ellis. The copy shown in the film had several pages that do not exist in the book. The author sued the film's distributor, Lions Gate Entertainment, asking for a halt to the film's distribution along with $150,000 in damages.[69] Steve Alten's Meg: A Novel of Deep Terror is probably best known for portraying this inaccuracy with its prologue and cover artwork depicting C. megalodon killing a tyrannosaur in the sea. Megalodon also makes a star appearance in Mega Shark Versus Giant Octopus, however it is able to perform such feats as leaping tens of thousands of feet into the air from the ocean to attack a commercial aircraft, forcing it to crash into the water.
+The Animal Planet fictional documentary, Mermaids: The Body Found, included an encounter 1.6 million years ago between a pod of mermaids and a megalodon. Later, the Discovery Channel aired a similar style fictional documentary entitled Megalodon: The Monster Shark Lives which involved the supposed attack on a present day pleasure boat by the prehistoric shark, giving rise to the possibility it exists. Both TV shows aired disclaimers that the shows were works of fiction.
+In August 2013, the Discovery Channel opened its annual Shark Week series with Megalodon: The Monster Shark Lives,[70] a controversial[71][72] docufiction about the creature.[73]
+Megalodon has appeared in The Land Before Time V: The Mysterious Island as a "swimming sharptooth" that pursues the main characters for a while.
+See also
+
+
+
+
+Paleontology portal
+
+
+
+Sharks portal
+
+
+
+
+For a topical guide to this subject, see Outline of sharks.
+
+
+List of prehistoric cartilaginous fish
+Prehistoric fish
+Largest prehistoric organisms
+
+Footnotes
+
+
+^ μέγας. Liddell, Henry George; Scott, Robert; A Greek–English Lexicon at the Perseus Project. Also, ὀδούς in Liddell and Scott. Retrieved 11 August 2013.
+^ a b c d e f g h i j k l m n o p q Pimiento, Catalina; Dana J. Ehret, Bruce J. MacFadden, and Gordon Hubbell (10 May 2010). "Ancient Nursery Area for the Extinct Giant Shark Megalodon from the Miocene of Panama". In Stepanova, Anna. PLoS ONE (Panama: PLoS.org) 5 (5): e10552. Bibcode:2010PLoSO...510552P. doi:10.1371/journal.pone.0010552. PMC 2866656. PMID 20479893. Retrieved 12 May 2010. 
+^ a b c d e f g h i j k l m Wroe, S.; Huber, D. R. ; Lowry, M. ; McHenry, C. ; Moreno, K. ; Clausen, P. ; Ferrara, T. L. ; Cunningham, E. ; Dean, M. N. ; Summers, A. P. (2008). "Three-dimensional computer analysis of white shark jaw mechanics: how hard can a great white bite?". Journal of Zoology 276 (4): 336–342. doi:10.1111/j.1469-7998.2008.00494.x. 
+^ a b c d e f g h i Lambert, Olivier; Giovanni Bianucci, Klaas Post, Christian de Muizon, Rodolfo Salas-Gismondi, Mario Urbina and Jelle Reumer (1 July 2010). "The giant bite of a new raptorial sperm whale from the Miocene epoch of Peru". Nature (Peru) 466 (7302): 105–108. Bibcode:2010Natur.466..105L. doi:10.1038/nature09067. PMID 20596020. 
+^ Haven, Kendall (1997). 100 Greatest Science Discoveries of All Time. Libraries Unlimited. pp. 25–26. ISBN 1-59158-265-2. 
+^ a b c d e f g h i j k l m n o p q Bruner, J. C. (Sept.-Oct. 1997). "The Megatooth shark, Carcharodon megalodon: Rough toothed, huge toothed". Mundo Marino Revista Internacional de Vida (non-refereed) (Marina) 5: 6–11. Retrieved 14 November 2011. 
+^ a b c d e f g h i j k l Nyberg K.G, Ciampaglio C.N, Wray G.A (2006). "Tracing the ancestry of the Great White Shark". Journal of Vertebrate Paleontology 26 (4): 806–814. doi:10.1671/0272-4634(2006)26[806:TTAOTG]2.0.CO;2. ISSN 0272-4634. Retrieved 25 December 2007. 
+^ Agassiz, Louis (1833-1843). Recherches sur les poissons fossiles ... / par Louis Agassiz.. Neuchatel :Petitpierre. p. 41. Retrieved 8 September 2008. 
+^ a b c d e f g h i j k l m n o p q r s t u v w x y z aa ab ac ad ae af ag ah ai aj ak al am an ao ap aq ar as at au Klimley, Peter; Ainley, David (1996). Great White Sharks: The Biology of Carcharodon carcharias. Academic Press. ISBN 0-12-415031-4. 
+^ a b Augilera, Orangel A.; Garcia, Luis; Cozzoul, Mario A. (2008). "Giant-toothed white sharks and cetacean trophic interaction from the Pliocene Caribbean Paraguaná Formation". Paläontologische Zeitschrift (Springer Berlin) 82 (2): 204–208. doi:10.1007/BF02988410 (inactive 2010-03-17). 
+^ a b c d e f g h i j Narrated by: Robert Leigh (2009-04-27). "Monster Shark". Prehistoric Predators. National Geographic. http://natgeotv.com.au/tv/prehistoric-predators-monster-shark/.
+^ a b c d e f Roesch, Ben (1998). "The Cryptozoology Review: A Critical Evaluation of the Supposed Contemporary Existence of Carcharocles megalodon". 
+^ a b c d e f g h i j k l m n o p q r s t u v w x Renz, Mark (2002). Megalodon: Hunting the Hunter. PaleoPress. ISBN 0-9719477-0-8. 
+^ a b Bendix-Almgreen, Svend Erik (15 November 1983). "Carcharodon megalodon from the Upper Miocene of Denmark, with comments on elasmobranch tooth enameloid: coronoi'n". Bulletin of the Geological Society of Denmark (Copenhagen: Geologisk Museum) 32: 1–32. Retrieved March 2010. 
+^ Nieves-Rivera, Angel M.; Ruizyantin, Maria ; Gottfried, Michael D. (2003). "New Record of the Lamnid Shark Carcharodon megalodon from the Middle Miocene of Puerto Rico". Caribbean Journal of Science 39: 223–227. 
+^ Iturralde-Vinent, M.; Hubbell, G.; Rojas, R. (1996). "Catalogue of Cuban fossil Elasmobranchii (Paleocene to Pliocene) and paleogeographic implications of their Lower to Middle Miocene occurrence". Boletín de la Sociedad Jamaicana de Geología (Cuba) 31: 7–21. Retrieved 10 May 2010. 
+^ Donovan, Stephen; Gavin, Gunter (2001). Fossil sharks from Jamaica 28. Bulletin of the Mizunami Fossil Museum. pp. 211–215. 
+^ Fitzgerald, Erich (2004). "A review of the Tertiary fossil Cetacea (Mammalia) localities in Australia". Memoirs of Museum Victoria (Australia: Museum Victoria) 61 (2): 183–208. ISSN 1447-2554. Retrieved March 2010. 
+^ a b c Portell, Roger; Hubell, Gordon; Donovan, Stephen; Green, Jeremy; Harper, David; Pickerill, Ron (2008). Miocene sharks in the Kendeace and Grand Bay formations of Carriacou, The Grenadines, Lesser Antilles 44 (3). Caribbean Journal of Science. pp. 279–286. 
+^ Hideo, Habe; Mastatoshi, Goto; Naotomo, Kaneko (22 March 2004). "Age of Carcharocles megalodon (Lamniformes: Otodontidae) : A review of the stratigraphic records". The Palaeontological Society of Japan (PSJ) (Japan) 75: 7–15. ISSN 0022-9202. 
+^ a b c d e f g Gottfried M.D., Fordyce R.E. (2001). "An associated specimen of Carcharodon angustidens (Chondrichthyes, Lamnidae) from the Late Oligocene of New Zealand, with comments on Carcharodon interrelationships". Journal of Vertebrate Paleontology 21 (4): 730–739. doi:10.1671/0272-4634(2001)021[0730:AASOCA]2.0.CO;2. ISSN 0272-4634. 
+^ Brown, Robin (2008). Florida's Fossils. Pineapple Press. ISBN 978-1-56164-409-4. 
+^ a b c d e Ehret D. J., Hubbell G., Macfadden B. J. (2009). "Exceptional preservation of the white shark Carcharodon from the early Pliocene of Peru". Journal of Vertebrate Paleontology 29 (1): 1–13. doi:10.1671/039.029.0113. 
+^ a b c d e f g Andres, Lutz (2002). "C. megalodon — Megatooth Shark, Carcharodon versus Carcharocles". Retrieved 16 January 2008. 
+^ Dell-Amore, Christine (2009). "Most Complete Great White Fossil Yet". Retrieved 16 March 2009. 
+^ Godfrey, Stephen (11 November 2006). "The Geology and Paleontology of Calvert Cliffs" (PDF). Paleontology Topics. The Ecphora Miscellaneous Publications. Retrieved 2 November 2009. 
+^ a b c d e f g Helfman, Gene; Collette, Bruce; Facey, Douglas (1997). The diversity of fishes. Wiley Blackwell. ISBN 978-0-86542-256-8. 
+^ a b c Randall, John (July 1973). "Size of the Great White Shark (Carcharodon)". Science Magazine: 169–170. 
+^ Kowinsky, Jayson (2002). "The Size of Megalodons". Retrieved 12 January 2008. 
+^ a b c d e Shimada, Kenshu (5 November 2002). "The relationship between the tooth size and total body length in the white shark, Carcharodon carcharias (Lamniformes: Lamnidae)". Journal of Fossil Research (Japan) 35 (2): 28–33. ISSN 0387-1924. Retrieved 29 April 2011. 
+^ Schembri, Patrick (1994). "MALTA'S NATURAL HERITAGE". Natural Heritage. in (MALTA: University of MALTA): 105–124. Retrieved March 2010. 
+^ Papson, Stephen (1992). "Copyright: Cross the Fin Line of Terror". Journal of American Culture 15 (4): 67–81. doi:10.1111/j.1542-734X.1992.1504_67.x 
+^ a b Compagno, Leonard J. V. (2002). SHARKS OF THE WORLD: An Annotated and Illustrated Catalogue of Shark Species Known to Date. Rome: Food & Agriculture Organization of the United Nations. p. 97. ISBN 92-5-104543-7. 
+^ a b c Herskowitz, David; Peter Wiggins (21 December 2010). "Huge Shark Jaw" (PDF). Natural History. Heritage Auctions. Retrieved 30 April 2011. 
+^ Anderson, Philip; Westneat, Mark (February 2007). "Feeding mechanics and bite force modelling of the skull of Dunkleosteus terrelli, an ancient apex predator". Royal Society 3 (1): 77–80. doi:10.1098/rsbl.2006.0569. 
+^ a b c d Riordon, James (June 1999). "Hell's teeth". NewScientist Magazine (2190): 32. 
+^ a b c d e Arnold, Caroline (2000). Giant Shark: Megalodon, Prehistoric Super Predator. Houghton Mifflin. pp. 18–19, 30. ISBN 978-0-395-91419-9. 
+^ a b c Gillette, Lynett. "Winds of Change". San Diego Natural History Museum. Archived from the original on 7 February 2009. Retrieved 4 April 2012. 
+^ a b c d e f Aguilera O., Augilera E. R. D. (2004). "Giant-toothed White Sharks and Wide-toothed Mako (Lamnidae) from the Venezuela Neogene: Their Role in the Caribbean, Shallow-water Fish Assemblage". Caribbean Journal of Science 40 (3): 362–368. 
+^ "Fact File: Odobenocetops". BBC. Retrieved 21 March 2008. 
+^ a b c Morgan, Gary S. (August 1994). "Whither the giant white shark?". Paleontology Topics (Paleontological Research Institution). 
+^ "MEGALODON". Fossil Farm Museum Of The Fingerlakes. Retrieved 1 July 2010. 
+^ deGruy, Michael (2006). Perfect Shark (TV-Series). BBC. 
+^ a b Godfrey, Stephen (April 2004). "The Ecphora: Fascinating Fossil Finds" (PDF). Paleontology Topics. Calvert Marine Museum. Retrieved 21 February 2010. 
+^ a b Kehe, Andy (27 June 1998). "Bone Apetite". Archived from the original on 18 May 2008. Retrieved 19 August 2012. 
+^ Godfrey, Stephen (March 2007). "The Ecphora: Shark-Bitten Sea Cow Rib" (PDF). Paleontology Topics. Calvert Marine Museum. Retrieved 27 March 2010. 
+^ Compagno, Leonard J. V. (May 1989). "Copyright: Alternative life-history styles of cartilaginous fishes in time and space". Environmental Biology of Fishes 28: 33–75. doi:10.1007/BF00751027 
+^ Ferretti, Francesco; Boris Worm, Gregory L. Britten, Michael R. Heithaus, and Heike K. Lotze1 (August 2010). "Patterns and ecosystem consequences of shark declines in the ocean". Ecology Letters (Blackwell Publishing Ltd) 13 (8): 1055–1071. doi:10.1111/j.1461-0248.2010.01489.x. PMID 20528897. Retrieved 19 February 2011. 
+^ "New Leviathan Whale Was Prehistoric "Jaws"?". National Geographic Daily News (Peru: National Geographic). 30 June 2010. 
+^ Bianucci, Giovanni; Walter, Landini (8 September 2006). "Killer sperm whale: a new basal physeteroid (Mammalia, Cetacea) from the Late Miocene of Italy". Zoological Journal of the Linnean Society 148 (1): 103–131. doi:10.1111/j.1096-3642.2006.00228.x 
+^ "Ancient monster whale more fearsome than Moby Dick". NewScientist. Retrieved 30 June 2010. 
+^ Tanke, Darren; Currie, Philip (December 1998). Head-Biting Behaviour in Theropod Dinosaurs: Paleopathological Evidence. Gaia 15. p. 168. ISSN 0871-5424. 
+^ Deméré, Thomas A.; Berta, Annalisa; McGowen, Michael R. (2005). "The taxonomic and evolutionary history of fossil and modern balaenopteroid mysticetes". Journal of Mammalian Evolution 12 (1/2): 99–143. doi:10.1007/s10914-005-6944-3. 
+^ a b "Details of ancient shark attack preserved in fossil whale bone". Smithsonian. Retrieved 12 November 2011. 
+^ a b Kallal, R. J.; Godfrey, S. J.; Ortner, D. J. (27 August 2010). "Bone Reactions on a Pliocene Cetacean Rib Indicate Short-Term Survival of Predation Event". International Journal of Osteoarchaeology 22 (3): 253. doi:10.1002/oa.1199. Retrieved 13 November 2011. 
+^ Böhme, M. (14 May 2003). "The Miocene Climatic Optimum: evidence from ectothermic vertebrates of Central Europe". Palaeogeography, Palaeoclimatology, Palaeoecology 195 (3–4): 389–401. doi:10.1016/S0031-0182(03)00367-5. Retrieved 16 June 2012. 
+^ a b "How the Isthmus of Panama Put Ice in the Arctic". 22 March 2004. Retrieved 20 December 2008. 
+^ "Pliocene epoch". Retrieved 16 January 2008. 
+^ "Pleistocene epoch". Retrieved 16 January 2008. 
+^ a b c d Antunes, Miguel Telles; Ausenda Cáceres Balbino (March 2010). "The Great White Shark Carcharodon carcharias (Linne, 1758) in the Pliocene of Portugal and its Early Distribution in Eastern Atlantic". Revista Española de Paleontología (Portugal) 25 (1): 1–6. ISSN 0213-6937. Retrieved 19 February 2011. 
+^ a b Reilly, Michael (29 September 2009). "Prehistoric Shark Nursery Spawned Giants". USA: Discovery News. 
+^ Dooly A.C, Nicholas C.F, Luo Z.X (2006). "The earliest known member of the rorqual—gray whale clade (Mammalia, Cetacea)". Journal of Vertebrate Paleontology 24 (2): 453–463. doi:10.1671/2401. JSTOR 4524731. 
+^ Domning, Daryl P. (1 February 2001). "Sirenians, seagrasses, and Cenozoic ecological change in the Caribbean". Palaeogeography, Palaeoclimatology, Palaeoecology (USA: Elsevier) 166 (1–2): 27–50. doi:10.1016/S0031-0182(00)00200-5. Retrieved 26 April 2011. 
+^ Fordyce, R. Ewan; Patrick G. Quilty, and James Daniels (2002). "Australodelphis mirus, a bizarre new toothless ziphiid-like fossil dolphin (Cetacea: Delphinidae) from the Pliocene of Vestfold Hills, East Antarctica". Antarctic Science (Cambridge University Press) 14 (1): 37–54. doi:10.1017/S0954102002000561. 
+^ a b c Allmon, Warren D.; Steven D. Emslie, Douglas S. Jones, and Gary S. Morgan (2006). "Late Neogene Oceanographic Change along Florida's West Coast: Evidence and Mechanisms". The Journal of Geology (USA: The University of Chicago) 104 (2): 143–162. Bibcode:1996JG....104..143A. doi:10.1086/629811. 
+^ a b Heyning, John; Dahlheim, Marilyn (15 January 1988). "Mammalian Species: Orcinus Orca". The American Society of Mammalogists 304: 1–9 
+^ a b Turner, Pamela S. (Oct/Nov 2004). "Showdown at Sea: What happens when great white sharks go fin-to-fin with killer whales?". National Wildlife (National Wildlife Federation) 42 (6). Retrieved 21 August 2012. 
+^ "Mega Jaws". MonsterQuest. Season 3. Episode 7. 18 March 2009. http://www.youtube.com/watch?v=ybxskJkFqaQ.
+^ Boniello, Kathianne (12 July 2009). "Shark Film has Writer Biting Mad". New York Post. 
+^ "Shark Week 'Megalodon: The Monster Shark Lives' Tries To Prove Existence Of Prehistoric Shark (VIDEO)". Huff Post Green. 5 August 2013. Retrieved 11 August 2013. 
+^ Wilcox, Christie (5 August 2013). "Shark Week Jumps The Shark: An Open Letter To Discovery Communications". Discover Magazine. Retrieved 11 August 2013. 
+^ Wilcox, Christie (9 August 2013). "Discovery’s Megalodon Defense? ‘We Don’t Know,’ Or ‘We Don’t Care’". Discover Magazine. Retrieved 11 August 2013. 
+^ Juzwiak, Rich (5 August 2013). "Shark Week Opens With Fake Megalodon Documentary". gawker.com. Retrieved 11 August 2013. 
+
+
+References
+
+Bretton W. Kent (1994). Fossil Sharks of the Chesapeake Bay Region. Egan Rees & Boyer, Inc. 146 pages. ISBN 1-881620-01-8
+Dickson, K. A., Graham, J. B. (2004). "Evolution and consequences of endothermy in fishes". Physiological and Biochemical Zoology 77 (6): 998–1018. doi:10.1086/423743. PMID 15674772. 
+
+External links
+
+
+
+Wikimedia Commons has media related to Carcharodon megalodon.
+
+
+
+
+
+Wikispecies has information related to: Megalodon
+
+
+
+Carcharocles: Extinct Megatoothed shark
+Dykens, M.; Gillette, L. "SDNHM Fossil Field Guide: Carcharodon megalodon, Giant "Mega-Tooth" Shark". Archived from the original on 13 June 2011. Retrieved 29 April 2012. 
+Jurassic Shark
+Megalodon article on prehistoric-wildlife.com
+
+Paleontological videos
+NOTE: Flash Player is required to view the content below.
+
+Video Gallery containing video clips featuring megalodon from Discovery Channel
+ Paleontologist Mark Renz shows a huge megalodon tooth (one of the largest ever discovered) on YouTube
+ A video clip on YouTube depicting aggressive interspecific interactions between megalodon and a pod of killer odontoceti (Brygmophyseter shigensis) from History Channel
+ Animated size comparison of megalodon with great white shark, human, and school bus from North Carolina Museum of Natural Sciences on YouTube.
+Prehistoric Washington DC: Mega Shark from Discovery Channel (depicts megalodon's prey attacking strategies)
+ Shark Week Special on megalodon with Pat McCarthy and John Babiarz on YouTube with comments on its extinction.
+ Megalodon fossil teeth show evidence of 10-million-year-old shark nursery on YouTube
+ Expert view: information about megalodon on YouTube (featuring expert Dana Ehret)
+ Lamniform sharks: 110 million years of ocean supremacy on YouTube (featuring expert Mikael Siverson)
+
+
+
+
+
+ 
+NewPP limit report
+CPU time usage: 7.892 seconds
+Real time usage: 8.237 seconds
+Preprocessor visited node count: 34044/1000000
+Preprocessor generated node count: 89467/1500000
+Post‐expand include size: 249541/2048000 bytes
+Template argument size: 57360/2048000 bytes
+Highest expansion depth: 28/40
+Expensive parser function count: 2/500
+Lua time usage: 0.359s
+Lua memory usage: 2.93 MB
+
+
+ Saved in parser cache with key enwiki:pcache:idhash:529138-0!*!0!!en!4!* and timestamp 20131003205215 
+								
+				Retrieved from "http://en.wikipedia.org/w/index.php?title=Megalodon&oldid=572801855"				
+												Categories: LamnidaeOligocene fishMiocene fishPliocene fishPleistocene fishPrehistoric sharksHidden categories: Articles containing Ancient Greek-language textPages with DOIs inactive since 2010Articles with inconsistent citation formatsWikipedia pages semi-protected against vandalismWikipedia indefinitely move-protected pagesArticles with 'species' microformatsCommons category with local link same as on WikidataGood articles												
+							
+		
+		
+			Navigation menu
+			
+				
+	Personal tools
+	
+Create accountLog in	
+
+				
+					
+	Namespaces
+	
+					Article
+					Talk
+			
+
+
+	
+		
+	Variants
+	
+		
+					
+	
+
+				
+				
+					
+	Views
+	
+					Read
+					View source
+					View history
+			
+
+
+	Actions
+	
+		
+					
+	
+
+
+	Search
+	
+				
+																				
+		
+	
+
+				
+			
+			
+					
+				
+	Navigation
+	
+		
+			Main page
+			Contents
+			Featured content
+			Current events
+			Random article
+			Donate to Wikipedia
+		
+	
+
+
+	Interaction
+	
+		
+			Help
+			About Wikipedia
+			Community portal
+			Recent changes
+			Contact page
+		
+	
+
+
+	Toolbox
+	
+		
+			What links here
+			Related changes
+			Upload file
+			Special pages
+			Permanent link
+			Page information
+			Data item
+Cite this page		
+	
+
+
+	Print/export
+	
+		
+			Create a book
+			Download as PDF
+			Printable version
+		
+	
+
+
+	Languages
+	
+		
+			العربية
+			Беларуская
+			Български
+			Català
+			Česky
+			Dansk
+			Deutsch
+			Ελληνικά
+			Español
+			Français
+			한국어
+			हिन्दी
+			Hrvatski
+			Bahasa Indonesia
+			Italiano
+			עברית
+			Basa Jawa
+			ქართული
+			Magyar
+			Македонски
+			Bahasa Melayu
+			Nederlands
+			日本語
+			Norsk bokmål
+			Polski
+			Português
+			Română
+			Русский
+			Simple English
+			Slovenčina
+			Slovenščina
+			Српски / srpski
+			Suomi
+			Svenska
+			ไทย
+			Türkçe
+			Українська
+			Tiếng Việt
+			中文
+			
+			Edit links
+		
+	
+
+			
+		
+		
+							
+											 This page was last modified on 13 September 2013 at 20:16.
+											Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. 
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+									
+							
+											Privacy policy
+											About Wikipedia
+											Disclaimers
+											Contact Wikipedia
+											Developers
+											Mobile view
+									
+										
+					
+						
+					
+					
+						
+					
+				
+						
+		
+		
+
+
+ Served by mw1075 in 0.229 secs. 
+	
+if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Megalodon","wgTitle":"Megalodon","wgCurRevisionId":572801855,"wgRevisionId":572801855,"wgArticleId":529138,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles containing Ancient Greek-language text","Pages with DOIs inactive since 2010","Articles with inconsistent citation formats","Wikipedia pages semi-protected against vandalism","Wikipedia indefinitely move-protected pages","Articles with 'species' microformats","Commons category with local link same as on Wikidata","Good articles","Lamnidae","Oligocene fish","Miocene fish","Pliocene fish","Pleistocene fish","Prehistoric sharks"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Megalodon","wgIsProbablyEditable":false,"wgRestrictionEdit":["autoconfirmed"],"wgRestrictionMove":["sysop"],"wgVectorEnabledModules":{"collapsiblenav":true,"experiments":true},"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"templateEditor":false,"templates":false,"preview":false,"previewDialog":false,"publish":false,"toc":false},"wgArticleFeedbackv5Permissions":{"aft-reader":false,"aft-member":false,"aft-editor":false,"aft-monitor":false,"aft-administrator":false,"aft-oversighter":false,"aft-noone":false},"wgVisualEditor":{"isPageWatched":false,"magnifyClipIconURL":"//bits.wikimedia.org/static-1.22wmf19/skins/common/images/magnify-clip.png","pageLanguageCode":"en","pageLanguageDir":"ltr"},"wikilove-recipient":"","wikilove-anon":0,"wgGuidedTourHelpGuiderUrl":"Help:Guided tours/guider","wgULSAcceptLanguageList":["en-us"],"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia","aftv5Article":{"id":529138,"title":"Megalodon","namespace":0,"categories":["Articles containing Ancient Greek-language text","Articles with 'species' microformats","Articles with inconsistent citation formats","Commons category with local link same as on Wikidata","Good articles","Lamnidae","Miocene fish","Oligocene fish","Pages with DOIs inactive since 2010","Pleistocene fish","Pliocene fish","Prehistoric sharks","Wikipedia indefinitely move-protected pages","Wikipedia pages semi-protected against vandalism"],"permissionLevel":false},"wgWikibaseItemId":"Q163873"});
+}if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":false,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,
+"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"useeditwarning":1,"prefershttps":1,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"vector-simplesearch":1,"vector-collapsiblenav":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"aftv5-last-filter":null,"visualeditor-enable":0,"visualeditor-enable-experimental":0,"visualeditor-betatempdisable":0,"wikilove-enabled":1,"echo-subscriptions-web-page-review":true,"echo-subscriptions-email-page-review":false,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"echo-notify-show-link":true,"echo-show-alert":true,"echo-email-frequency":0,"echo-email-format":"html","echo-subscriptions-email-system":true,"echo-subscriptions-web-system":true,"echo-subscriptions-email-other":false,"echo-subscriptions-web-other":true,"echo-subscriptions-email-edit-user-talk":false,"echo-subscriptions-web-edit-user-talk":true,
+"echo-subscriptions-email-reverted":false,"echo-subscriptions-web-reverted":true,"echo-subscriptions-email-article-linked":false,"echo-subscriptions-web-article-linked":false,"echo-subscriptions-email-mention":false,"echo-subscriptions-web-mention":true,"echo-subscriptions-web-edit-thank":true,"echo-subscriptions-email-edit-thank":false,"gettingstarted-task-toolbar-show-intro":true,"uls-preferences":"","language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs446":false,"searchNs447":false
+,"searchNs710":false,"searchNs711":false,"searchNs828":false,"searchNs829":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-mySandbox":1,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:156d8fe0ae17f8afd74198057563e45d */
+}if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","ext.visualEditor.viewPageTarget.init","ext.wikimediaShopLink.core","ext.uls.init","ext.uls.interface","wikibase.client.init","ext.centralNotice.bannerController","skins.vector.js"]);
+}/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}if(window.mw){
+mw.loader.load(["mediawiki.action.view.postEdit","mobile.desktop","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.cite","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","mw.MwEmbedSupport.style","ext.vector.collapsibleNav","ext.articleFeedbackv5.startup","ext.gettingstarted.logging","ext.gettingstarted.openTask","schema.HttpsSupport","ext.coreEvents.httpsSupport","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","mw.PopUpMediaTransform"],null,true);
+}

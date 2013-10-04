@@ -1,0 +1,444 @@
+
+
+
+Camptosaurus - Wikipedia, the free encyclopedia
+
+
+
+
+
+
+
+
+
+
+
+
+a:lang(ar),a:lang(ckb),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:0de201fdea5d684523607ed88007b127 */
+
+
+
+
+[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.22wmf19/skins/vector/csshover.min.htc")}</style><![endif]
+
+		
+		
+		
+			
+			
+						 CentralNotice 
+						Camptosaurus
+			
+								From Wikipedia, the free encyclopedia
+								
+												
+					Jump to:					navigation, 					search
+				
+				
+Not to be confused with Camposaurus.
+
+
+
+
+Camptosaurus
+Temporal range: Late Jurassic
+
+PreЄ
+Є
+O
+S
+D
+C
+P
+T
+J
+K
+Pg
+N
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cast of a C. dispar skull from Bone Cabin Quarry West, Wyoming
+
+
+Scientific classification 
+
+
+Kingdom:
+Animalia
+
+
+Phylum:
+Chordata
+
+
+Clade:
+Sauropsida
+
+
+Clade:
+Dinosauria
+
+
+Order:
+†Ornithischia
+
+
+Clade:
+†Ornithopoda
+
+
+Clade:
+†Ankylopollexia
+
+
+Superfamily:
+†Camptosauroidea
+Marsh, 1885
+
+
+Family:
+†Camptosauridae
+Marsh, 1885
+
+
+Genus:
+†Camptosaurus
+Marsh, 1885
+
+
+Species:
+†Camptosaurus dispar
+(Marsh, 1879 [originally Camptonotus])
+
+
+Synonyms
+
+
+
+
+Brachyrophus altarkansanus Cope, 1878
+Symphyrophus musculosus Cope, 1878
+Camptonotus dispar Marsh, 1879 (preoccupied)
+Camptosaurus medius Marsh, 1894
+Camptosaurus nanus Marsh, 1894
+Camptosaurus browni Gilmore, 1909
+
+
+
+
+
+Camptosaurus (/ˌkæmptɵˈsɔrəs/ KAMP-to-SAWR-əs) is a genus of plant-eating, beaked ornithischian dinosaurs of the Late Jurassic period of western North America. The name means 'flexible lizard', (Greek καμπτος/kamptos meaning 'bent' and σαυρος/sauros meaning 'lizard').
+
+
+Contents
+
+
+1 Description
+2 Paleobiology
+3 Discovery and species
+4 Phylogeny
+5 See also
+6 References
+7 External links
+
+
+Description[edit]
+
+
+
+
+Reconstruction
+
+
+Camptosaurus is a relatively heavily built form, with robust hindlimbs and broad feet, still having four toes.[1] Due to the separate status of Uteodon it has become problematic which material from the Morrison belongs to Camptosaurus. The specimens with certainty belonging to Camptosaurus dispar, from Quarry 13, have been recovered from very deep layers, probably dating to the Callovian-Oxfordian.[2] The largest fragments from later strata indicate adult individuals more than 7.9 metres (26 ft) long, and 2 metres (6.6 ft) at the hips.[3] The Quarry 13 individuals are smaller though. They have been described as reaching 6 meters (19.7 feet) in length and 785 – 874 kg in weight.[4] In 2010 Gregory S. Paul gave an even lower estimate: a length of five metres and a weight of half a tonne.[5]
+Because Marsh and Gilmore based themselves on the skull of Theiophytalia, many earlier reconstructions of the head of Camptosaurus have been incorrect, showing a much too rectangular profile. The skull was in fact triangular with a pointed snout, equipped with a beak. Its teeth were more tightly packed in the jaw compared to other Morrison euornithopods.[4] Museum curator John Foster describes them as having "thick median ridges on their lateral sides and denticles along their edges," these features were similar to, but "more fully developed" than those in Dryosaurus.[4] Camptosaurus teeth frequently exhibit extensive wear, which indicates that individuals in the genus had a diet of relatively tough vegetation.[4]
+Paleobiology[edit]
+Based on studies of other iguanodonts, scientists believe they may have been able to achieve running speeds of 25 km per hour (15 mph).[4] A tiny 9 inch fossilized embryo, referred to Camptosaurus, was retrieved from Morrison Formation strata at Dinosaur National Monument in Utah.[4]
+Discovery and species[edit]
+
+
+
+
+Historical skeletal restoration of Camptosaurus by O.C. Marsh, with skull based on remains now referred to Theiophytalia
+
+
+On September 4, 1879 William Harlow Reed in Albany County, Wyoming found the remains of a small euornithopod. That same year Professor Othniel Charles Marsh described and named the find as Camptonotus, or "flexible back", from Greek κάμπτω, "to bend" and νῶτον, "back", in reference to the presumed flexibility of the sacral vertebrae. The holotype was YPM 1877, a partial skeleton.[6] The genus was renamed Camptosaurus by him in 1885 because the original name was already in use for a cricket.[7] In 1879, Marsh named C. dispar (type species of the genus) for material he received from his collectors at Quarry 13 near Como Bluff, Wyoming in the Morrison Formation and C. amplus based on the holotype YPM 1879, a foot found by Arthur Lakes at Quarry 1A. The foot was later shown to have belonged to Allosaurus.[1][8] Throughout the 1880 and 1890s, he continued to receive specimens from Quarry 13 and in 1894 named two additional species: C. medius and C. nanus, based in part on size.[9] Charles W. Gilmore named two additional species, C. browni and C. depressus in his 1909[10] redescription of the Marsh specimens. In the Morrison Formation, Camptosaurus fossils are present in stratigraphic zones 2-6.[11]
+Then in 1980, Peter Galton and H.P. Powell in their redescription of C. prestwichi (see following), considered C. nanus, C. medius and C. browni to be different growth stages or different gender of the larger C. dispar, and therefore only C. dispar was a valid species.[1] They also considered a skull, YPM 1887, in 1886 referred to C. amplus by Marsh, later confirmed by Gilmore, to belong to C. dispar as well. Gilmore had used this skull to describe the skull of Camptosaurus, but the specimen was recently shown by Brill and Carpenter not to belong to Camptosaurus. In 2007, they put it into its own genus and species, Theiophytalia kerri.[12]
+
+
+
+
+Outdated mount of a C. nanus skeleton at the AMNH, now thought to be a growth stage of C. dispar
+
+
+Camptosaurus depressus was recovered from the Lakota Formation near the town of Hot Springs, South Dakota. It was described by Charles Gilmore in 1909 based on the holotype and only known specimen USNM 4753, a fragmentary postcranium, by the "narrowness or depressed nature of the ilia".[10] Carpenter and Wilson (2008) referred this species to Planicoxa, as P. depressa, on the basis of similarities between its ilium and the holotype ilium of Planicoxa venenica.[2] However, McDonald and colleagues (2010), and McDonald (2011) found that the horizontal postacetabular process of C. depressus is more likely a product of distortion.[13] Therefore, McDonald put it into its own genus, Osmakasaurus.[14] An additional species, Camptosaurus aphanoecetes, was named by Carpenter and Wilson in 2008 for specimens from Dinosaur National Monument.[2] It differs from C. dispar in the lower jaw, shorter neck vertebrae, and straighter ischium ending in a small "foot" among other features. An analysis by Andrew McDonald and colleagues in 2010 suggested that like Cumnoria, C. aphanoecetes is actually more closely related to more advanced iguanodonts (Styracosterna).[13] It has been moved to the new genus Uteodon.[14]
+While Marsh was describing Camptosaurus species in North America, numerous species from Europe were also referred to the genus in the late 19th and early 20th centuries: C. inkeyi, C. hoggii, C. leedsi, C. prestwichi, and C. valdensis. C. inkeyi (Nopcsa, 1900) consists of fragmentary material, a dentary and articular from Upper Cretaceous rocks of the Haţeg Basin in Romania. It is almost certainly a rhabdodontid and is no longer considered valid (nomen dubium).[15] C. valdensis is a dubious dryosaurid,[16] based on the holotype and only known specimen NHMUK R167, a poorly preserved left femur lacking the distal end. It is thus difficult to compare it to other dryosaurids, including the contemporary Valdosaurus canaliculatus.[14] C. leedsi is probably a valid dryosaurid that has been moved to the new genus Callovosaurus.[17] C. hoggii was originally named Iguanodon hoggii by Richard Owen in 1874 and was moved to Camptosaurus by Norman and Barrett in 2002.[18] It has since been transferred to the genus Owenodon.[16]
+The remaining European species Camptosaurus prestwichii was recovered from Chawley Brick Pits, Cumnor Hurst in Oxfordshire in England. The fossil was found when a tramway was driven into the side of a hill. It was described by Hulke in 1880 as Iguanodon prestwichii, and then placed in its own genus Cumnoria by Seeley in 1888, but was soon sunk into Camptosaurus by Lydekker in 1889.[19] However, Naish & Martill (2008), McDonald and colleagues (2010), and McDonald (2011) found that Seeley's original generic distinction was valid. Cumnoria has been recovered as a styracosternan, more closely related to advanced iguanodonts than to Camptosaurus dispar.[13][14]
+Phylogeny[edit]
+Marsh in 1885 assigned Camptosaurus to a family of its own: the Camptosauridae. Alternatively some authors considered it an early member of the Iguanodontidae.
+Modern phylogenetics has made Camptosaurus by definition part of the clade Ankylopollexia, of which group it would then be a basal member. This would mean that the genus is closely related to the ancestor of later iguanodontid and hadrosaurid dinosaurs and was more derived than contemporaries such as Dryosaurus, Drinker, and Othnielosaurus.[4]
+See also[edit]
+
+List of dinosaurs
+Paleobiota of the Morrison Formation
+
+References[edit]
+
+
+
+
+Dinosaurs portal
+
+
+
+
+
+^ a b c Galton, P.M. and Powell, H.P. (1980). "The ornithischian dinosaur Camptosaurus prestwichii from the Upper Jurassic of England". Palaeontology 23: 411–443. 
+^ a b c Carpenter, K. and Wilson, Y. (2008). "A new species of Camptosaurus (Ornithopoda: Dinosauria) from the Morrison Formation (Upper Jurassic) of Dinosaur National Moument, Utah, and a biomechanical analysis of its forelimb". Annals of the Carnegie Museum 76: 227–263. 
+^ Erickson, Bruce R. (2003). Dinosaurs of the Science Museum of Minnesota. St. Paul, Minnesota: The Science Museum of Minnesota. p. 33. ISBN 978-0-911338-54-6. 
+^ a b c d e f g Foster, J. (2007). "Camptosaurus dispar." Jurassic West: The Dinosaurs of the Morrison Formation and Their World. Indiana University Press. p. 219-221.
+^ Paul, G.S., 2010, The Princeton Field Guide to Dinosaurs, Princeton University Press p. 284
+^ Marsh, O.C. (1879). "Notice of new Jurassic reptiles". American Journal of Science and Arts 18: 501–505. 
+^ Marsh, O.C. (1885). "Names of extinct reptiles". American Journal of Science 29: 169. 
+^ Bakker, R.T. (1998). "Dinosaur mid-life crisis: the Jurassic-Cretaceous transition in Wyoming and Colorado". In Lucas, S.G., Kirkland, J.I. & Estep, J.W. (eds). Lower and Middle Cretaceous Terrestrial Ecosystems 14. New Mexico Museum of Natural History and Science Bulletin. pp. 67–77. 
+^ Marsh, O.C. (1894). "The typical Ornithopoda of the American Jurassic". American Journal of Science. 3 48: 85–90. 
+^ a b Gilmore, C.W. (1909). "Osteology of the Jurassic reptile Camptosaurus, with a revision of the species of the genus, and descriptions of two new species". Proceedings of the United States National Museum 36: 197–332. 
+^ Foster, J. (2007). "Appendix." Jurassic West: The Dinosaurs of the Morrison Formation and Their World. Indiana University Press. pp. 327-329.
+^ Brill, K. and K. Carpenter (2007). "A description of a new ornithopod from the Lytle Member of the Purgatoire Formation (Lower Cretaceous) and a reassessment of the skull of Camptosaurus". In Carpenter, Kenneth (ed.). Horns and Beaks: Ceratopsian and Ornithopod Dinosaurs. Bloomington and Indianapolis: Indiana University Press. pp. 49–67. ISBN 0-253-34817-X. 
+^ a b c McDonald, A.T.; Kirkland, J.I.; DeBlieux, D.D.; Madsen, S.K.; Cavin, J.; Milner, A.R.C.; Panzarin, L. (2010). "New Basal Iguanodonts from the Cedar Mountain Formation of Utah and the Evolution of Thumb-Spiked Dinosaurs". PLoS ONE 5 (11): e14075. doi:10.1371/journal.pone.0014075. PMC 2989904. PMID 21124919. 
+^ a b c d Andrew T. McDonald (2011). "The taxonomy of species assigned to Camptosaurus (Dinosauria: Ornithopoda)". Zootaxa 2783: 52–68. 
+^ Sachs, S. and Hornung, J.J. (2006). "Juvenile ornithopod (Dinosauria: Rhabdodontidae) remains from the Upper Cretaceous (Lower Campanian, Gosau Group) of Muthmannsdorf (Lower Austria)". Geobios 39: 415–425. doi:10.1016/j.geobios.2005.01.003. 
+^ a b Galton, Peter M. (2009). "Notes on Neocomian (Late Cretaceous) ornithopod dinosaurs from England - Hypsilophodon, Valdosaurus, "Camptosaurus", "Iguanodon" – and referred specimens from Romania and elsewhere". Revue de Paléobiologie 28 (1): 211–273. 
+^ Ruiz-Omeñaca, José Ignacio; Pereda Suberbiola, Xabier; and Galton, Peter M. (2007). "Callovosaurus leedsi, the earliest dryosaurid dinosaur (Ornithischia: Euornithopoda) from the Middle Jurassic of England". In Carpenter, Kenneth (ed.). Horns and Beaks: Ceratopsian and Ornithopod Dinosaurs. Bloomington and Indianapolis: Indiana University Press. pp. 3–16. ISBN 0-253-34817-X. 
+^ Norman D.B. and Barrett, P.M. 2002. Ornithischian dinosaurs from the Lower Cretaceous (Berriasian) of England. Palaeontology 68:161-189
+^ Benton MJ, Spencer PS (1995). Fossil Reptiles of Great Britain. Chapman & Hall. ISBN 0-412-62040-5. 
+
+
+External links[edit]
+
+
+
+Wikimedia Commons has media related to Camptosaurus.
+
+
+
+Iguanodontia at Thescelosaurus!
+
+
+
+ 
+NewPP limit report
+CPU time usage: 6.600 seconds
+Real time usage: 6.860 seconds
+Preprocessor visited node count: 30155/1000000
+Preprocessor generated node count: 48389/1500000
+Post‐expand include size: 116801/2048000 bytes
+Template argument size: 48701/2048000 bytes
+Highest expansion depth: 39/40
+Expensive parser function count: 1/500
+Lua time usage: 0.110s
+Lua memory usage: 2.32 MB
+
+
+ Saved in parser cache with key enwiki:pcache:idhash:2289578-0!*!0!!en!4!* and timestamp 20131002131702 
+								
+				Retrieved from "http://en.wikipedia.org/w/index.php?title=Camptosaurus&oldid=564853229"				
+												Categories: IguanodontsJurassic dinosaursDinosaurs of EuropeDinosaurs of North AmericaMorrison faunaHidden categories: Articles with 'species' microformatsCommons category template with no category setCommons category with page title same as on Wikidata												
+							
+		
+		
+			Navigation menu
+			
+				
+	Personal tools
+	
+Create accountLog in	
+
+				
+					
+	Namespaces
+	
+					Article
+					Talk
+			
+
+
+	
+		
+	Variants
+	
+		
+					
+	
+
+				
+				
+					
+	Views
+	
+					Read
+					Edit
+					View history
+			
+
+
+	Actions
+	
+		
+					
+	
+
+
+	Search
+	
+				
+																				
+		
+	
+
+				
+			
+			
+					
+				
+	Navigation
+	
+		
+			Main page
+			Contents
+			Featured content
+			Current events
+			Random article
+			Donate to Wikipedia
+		
+	
+
+
+	Interaction
+	
+		
+			Help
+			About Wikipedia
+			Community portal
+			Recent changes
+			Contact page
+		
+	
+
+
+	Toolbox
+	
+		
+			What links here
+			Related changes
+			Upload file
+			Special pages
+			Permanent link
+			Page information
+			Data item
+Cite this page		
+	
+
+
+	Print/export
+	
+		
+			Create a book
+			Download as PDF
+			Printable version
+		
+	
+
+
+	Languages
+	
+		
+			Català
+			Česky
+			Deutsch
+			Español
+			فارسی
+			Français
+			한국어
+			Hrvatski
+			Italiano
+			Basa Jawa
+			Magyar
+			Nederlands
+			日本語
+			Occitan
+			Polski
+			Português
+			Русский
+			Simple English
+			Slovenčina
+			Srpskohrvatski / српскохрватски
+			Svenska
+			ไทย
+			Українська
+			Volapük
+			中文
+			
+			Edit links
+		
+	
+
+			
+		
+		
+							
+											 This page was last modified on 18 July 2013 at 23:14.
+											Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. 
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+									
+							
+											Privacy policy
+											About Wikipedia
+											Disclaimers
+											Contact Wikipedia
+											Developers
+											Mobile view
+									
+										
+					
+						
+					
+					
+						
+					
+				
+						
+		
+		
+
+
+ Served by mw1113 in 0.224 secs. 
+	
+if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Camptosaurus","wgTitle":"Camptosaurus","wgCurRevisionId":564853229,"wgRevisionId":564853229,"wgArticleId":2289578,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with 'species' microformats","Commons category template with no category set","Commons category with page title same as on Wikidata","Iguanodonts","Jurassic dinosaurs","Dinosaurs of Europe","Dinosaurs of North America","Morrison fauna"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Camptosaurus","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgVectorEnabledModules":{"collapsiblenav":true,"experiments":true},"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"templateEditor":false,"templates":false,"preview":false,"previewDialog":false,"publish":false,"toc":false},"wgArticleFeedbackv5Permissions":{"aft-reader":false,"aft-member":false,"aft-editor":false,"aft-monitor":false,"aft-administrator":false,"aft-oversighter":false,"aft-noone":false},"wgVisualEditor":{"isPageWatched":false,"magnifyClipIconURL":"//bits.wikimedia.org/static-1.22wmf19/skins/common/images/magnify-clip.png","pageLanguageCode":"en","pageLanguageDir":"ltr"},"wikilove-recipient":"","wikilove-anon":0,"wgGuidedTourHelpGuiderUrl":"Help:Guided tours/guider","wgULSAcceptLanguageList":[],"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia","aftv5Article":{"id":2289578,"title":"Camptosaurus","namespace":0,"categories":["Articles with 'species' microformats","Commons category template with no category set","Commons category with page title same as on Wikidata","Dinosaurs of Europe","Dinosaurs of North America","Iguanodonts","Jurassic dinosaurs","Morrison fauna"],"permissionLevel":false},"wgWikibaseItemId":"Q133203"});
+}if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":false,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,
+"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"useeditwarning":1,"prefershttps":1,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"vector-simplesearch":1,"vector-collapsiblenav":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"aftv5-last-filter":null,"visualeditor-enable":0,"visualeditor-enable-experimental":0,"visualeditor-betatempdisable":0,"wikilove-enabled":1,"echo-subscriptions-web-page-review":true,"echo-subscriptions-email-page-review":false,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"echo-notify-show-link":true,"echo-show-alert":true,"echo-email-frequency":0,"echo-email-format":"html","echo-subscriptions-email-system":true,"echo-subscriptions-web-system":true,"echo-subscriptions-email-other":false,"echo-subscriptions-web-other":true,"echo-subscriptions-email-edit-user-talk":false,"echo-subscriptions-web-edit-user-talk":true,
+"echo-subscriptions-email-reverted":false,"echo-subscriptions-web-reverted":true,"echo-subscriptions-email-article-linked":false,"echo-subscriptions-web-article-linked":false,"echo-subscriptions-email-mention":false,"echo-subscriptions-web-mention":true,"echo-subscriptions-web-edit-thank":true,"echo-subscriptions-email-edit-thank":false,"gettingstarted-task-toolbar-show-intro":true,"uls-preferences":"","language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs446":false,"searchNs447":false
+,"searchNs710":false,"searchNs711":false,"searchNs828":false,"searchNs829":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-mySandbox":1,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:156d8fe0ae17f8afd74198057563e45d */
+}if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","ext.visualEditor.viewPageTarget.init","ext.wikimediaShopLink.core","ext.uls.init","ext.uls.interface","wikibase.client.init","ext.centralNotice.bannerController","skins.vector.js"]);
+}/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}if(window.mw){
+mw.loader.load(["mobile.desktop","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.cite","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","mw.MwEmbedSupport.style","ext.vector.collapsibleNav","ext.articleFeedbackv5.startup","ext.gettingstarted.logging","ext.gettingstarted.openTask","schema.HttpsSupport","ext.coreEvents.httpsSupport","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","mw.PopUpMediaTransform"],null,true);
+}

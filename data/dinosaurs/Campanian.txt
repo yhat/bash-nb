@@ -1,0 +1,3052 @@
+
+
+
+Campanian - Wikipedia, the free encyclopedia
+
+
+
+
+
+
+
+
+
+
+
+
+a:lang(ar),a:lang(ckb),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:0de201fdea5d684523607ed88007b127 */
+
+
+
+
+[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.22wmf17/skins/vector/csshover.min.htc")}</style><![endif]
+
+		
+		
+		
+			
+			
+						 CentralNotice 
+						Campanian
+			
+								From Wikipedia, the free encyclopedia
+								
+												
+					Jump to:					navigation, 					search
+				
+				
+
+System
+Series
+Stage
+Age (Ma)
+
+
+Paleogene
+Paleocene
+Danian
+younger
+
+
+Cretaceous
+Late
+Maastrichtian
+66.0–72.1
+
+
+Campanian
+72.1–83.6
+
+
+Santonian
+83.6–86.3
+
+
+Coniacian
+86.3–89.8
+
+
+Turonian
+89.8–93.9
+
+
+Cenomanian
+93.9–100.5
+
+
+Early
+Albian
+100.5–~113.0
+
+
+Aptian
+~113.0–~125.0
+
+
+Barremian
+~125.0–~129.4
+
+
+Hauterivian
+~129.4–~132.9
+
+
+Valanginian
+~132.9–~139.8
+
+
+Berriasian
+~139.8–~145.0
+
+
+Jurassic
+Late
+Tithonian
+older
+
+
+Subdivision of the Cretaceous system
+according to the IUGS, as of July 2012.
+
+
+The Campanian is, in the ICS' geologic timescale, the fifth of six ages of the Late Cretaceous epoch (or, in chronostratigraphy: the fifth of six stages in the Upper Cretaceous series). The Campanian spans the time from 83.6 ± 0.7 Ma to 72.1 ± 0.6 Ma (million years ago). It is preceded by the Santonian and it is followed by the Maastrichtian.[1]
+
+
+Contents
+
+
+1 Stratigraphic definition
+
+1.1 Subdivision
+
+
+2 Paleontology
+
+2.1 †Ankylosaurs
+2.2 Birds (avian theropods)
+2.3 Bony Fish
+2.4 Cartilaginous Fish
+2.5 †Ceratopsians
+2.6 Crocodylomorphs
+2.7 Mammals
+2.8 †Ornithopods
+2.9 †Pachycephalosaurs
+2.10 †Plesiosaurs
+2.11 †Pterosaurs
+2.12 †Sauropods
+2.13 Squamates
+2.14 Testudines
+2.15 †Theropods (non-avian)
+
+
+3 Footnotes
+4 References
+5 External links
+
+
+Stratigraphic definition[edit source | edit]
+The Campanian was introduced in scientific literature by Henri Coquand in 1857. It is named after the French village of Champagne in the département Charente-Maritime. The original type locality was an outcrop near the village of Aubeterre-sur-Dronne in the same region. Due to changes of the stratigraphic definitions, this section is now part of the Maastrichtian stage.
+The base of the Campanian stage is laid at the extinction of crinoid species Marsupites testudinarius. A GSSP had not yet been ratified in 2009. One possible candidate is in a section near a dam at Waxahachie, Texas.
+The top of the Campanian is defined as the place in the stratigraphic column were the ammonite Pachydiscus neubergicus first appears.
+Subdivision[edit source | edit]
+The Campanian is sometimes subdivided into Lower, Middle and Upper subages. In the Tethys domain, the Campanian encompasses six ammonite biozones. They are, from young to old:
+
+zone of Nostoceras hyatti
+zone of Didymoceras chayennense
+zone of Bostrychoceras polyplocum
+zone of Hoplitoplacenticeras marroti/Hoplitoplacenticeras vari
+zone of Delawarella delawarensis
+zone of Placenticeras bidorsatum
+
+Paleontology[edit source | edit]
+During the Campanian age, a radiation among dinosaur species occurred. In North America, for example, the number of known dinosaur genera rises from 4 at the base of the Campanian to 48 in the upper part. This development is sometimes referred to as the "Campanian Explosion". However, it is not yet clear if the event is artificial, i.e. the low number of genera in the lower Campanian can be caused by a lower preservation chance for fossils in deposits of that age. The generally warm climates and large continental area covered in shallow sea during the Campanian probably favoured the dinosaurs. In the following Maastrichtian stage, the number of North American dinosaur genera found is 30% less than in the upper Campanian.[2]
+Animals that lived in the Campanian include:
+†Ankylosaurs[edit source | edit]
+
+
+Ankylosaurs of the Campanian
+
+
+Taxa
+Presence
+Location
+Description
+Images
+
+
+
+Aletopelta
+
+
+Point Loma Formation, California, USA
+A medium-sized ankylosaurid, estimated to be around 6 m (20 ft) long
+
+
+
+
+
+
+Edmontonia
+
+
+
+
+
+
+
+
+Euoplocephalus
+
+
+
+
+
+
+
+
+Pinacosaurus
+
+
+
+
+
+
+
+Antarctopelta
+
+
+Santa Marta Formation, James Ross Island, Antarctica
+A stocky ankylosaur protected by armor plates embedded in the skin. Although a complete skeleton has not been found, the species is estimated to have reached a maximum length of 4 meters (13 ft). Displays characteristics of both ankylosaurids and nodosaurids
+
+
+
+Edmontonia
+
+Campanian to Maastrichtian
+Horseshoe Canyon Formation, Alberta, Canada
+A bulky nodosaurid at roughly 6.6m (22 ft) long and 2m (6 ft) high. It had small, ridged bony plates on its back and head and many sharp spikes along its back and tail. The four largest spikes jutted out from the shoulders on each side, two of which were split into subspines in some specimens. Its skull had a pear-like shape when viewed from above.
+
+
+
+Euoplocephalus
+
+
+
+
+
+
+Niobrarasaurus
+
+
+
+
+
+
+
+Nodocephalosaurus
+
+
+
+
+
+
+
+Panoplosaurus
+
+
+Judith River Formation, Alberta, Canada; Montana, USA
+A 5.5-7 m long and 2 m tall nodosaurid
+
+
+
+Pinacosaurus
+
+
+
+
+
+
+
+Saichania
+
+
+
+
+
+
+
+Shanxia
+
+
+
+
+
+
+
+Struthiosaurus
+
+
+
+
+
+
+
+Tarchia
+
+
+
+
+
+
+
+Tianzhenosaurus
+
+
+
+
+
+
+Birds (avian theropods)[edit source | edit]
+
+
+Birds of the Campanian
+
+
+Taxa
+Presence
+Location
+Description
+Images
+
+
+
+Hesperornis
+
+
+
+
+
+
+
+
+
+
+Hesperornis
+
+
+
+
+
+
+
+Neogaeornis wetzeli
+
+
+
+A marine bird from Chile. It had the midfeet of a foot-propelled diving bird, but its relationships are enigmatic. The only known species is from the Campanian-Maastrichtian boundary.
+
+
+
+Ichthyornis
+
+
+
+
+
+
+
+Bony Fish[edit source | edit]
+
+
+Bony fish of the Campanian
+
+
+Taxa
+Presence
+Location
+Description
+Images
+
+
+
+Xiphactinus
+
+
+
+
+
+
+
+
+
+
+Xiphactinus
+
+
+
+
+
+
+Cartilaginous Fish[edit source | edit]
+
+
+Cartilaginous fish of the Campanian
+
+
+Taxa
+Presence
+Location
+Description
+Images
+
+
+
+Chlamydoselachus
+
+
+
+
+
+
+
+
+
+
+Chlamydoselachus
+
+
+
+
+
+
+
+†Schizorhiza
+
+
+
+
+
+
+†Ceratopsians[edit source | edit]
+
+
+Ceratopsians of the Campanian
+
+
+Taxa
+Presence
+Location
+Description
+Images
+
+
+
+Achelousaurus
+
+
+
+
+
+
+
+
+
+
+Achelousaurus
+
+
+
+
+
+
+
+
+Agujaceratops
+
+
+
+
+
+
+
+
+Albertaceratops
+
+
+
+
+
+
+
+
+Anchiceratops
+
+
+
+
+
+
+
+
+Avaceratops
+
+
+
+
+
+
+
+
+Bagaceratops
+
+
+
+
+
+
+
+Agujaceratops
+
+
+
+
+
+
+
+Albertaceratops
+
+
+
+
+
+
+
+Anchiceratops
+
+
+
+
+
+
+
+Avaceratops
+
+
+
+
+
+
+
+Bagaceratops
+
+
+
+
+
+
+
+Bainoceratops
+
+
+
+
+
+
+
+Brachyceratops
+
+
+
+
+
+
+
+Breviceratops
+
+
+
+
+
+
+
+Centrosaurus
+
+
+
+
+
+
+
+Cerasinops
+
+
+
+
+
+
+
+Chasmosaurus
+
+
+
+
+
+
+
+?Dysganus
+
+
+
+
+
+
+
+Einiosaurus
+
+
+
+
+
+
+
+Graciliceratops
+
+
+
+
+
+
+
+Lamaceratops
+
+
+
+
+
+
+
+Magnirostris
+
+
+
+
+
+
+
+Medusaceratops
+
+
+
+
+
+
+
+Monoclonius
+
+
+
+
+
+
+
+Pachyrhinosaurus
+
+
+
+
+
+
+
+Prenoceratops
+
+
+
+
+
+
+
+Platyceratops
+
+
+
+
+
+
+
+Protoceratops
+
+
+
+
+
+
+
+Styracosaurus
+
+
+
+
+
+
+
+Udanoceratops
+
+
+
+
+
+
+Crocodylomorphs[edit source | edit]
+
+
+Crocodylomorphs of the Campanian
+
+
+Taxa
+Presence
+Location
+Description
+Images
+
+
+
+
+†Deinosuchus
+
+
+
+
+
+
+
+
+Mammals[edit source | edit]
+
+
+Mammals of the Campanian
+
+
+Taxa
+Presence
+Location
+Description
+Images
+
+
+
+Alphadon
+
+
+
+
+
+
+
+
+Didelphodon
+
+
+
+
+
+
+
+Kamptobaatar
+
+
+
+
+
+
+
+Kennalestes
+
+
+
+
+
+
+
+Zalambdalestes
+
+
+
+
+
+
+†Ornithopods[edit source | edit]
+
+
+Ornithopods of the Campanian
+
+
+Taxa
+Presence
+Location
+Description
+Images
+
+
+
+Aralosaurus
+
+
+Asia
+Aralosaurus was about the size of an elephant. Although very little is known about Aralosaurus (only one near complete skull has been found); it was identified by a beak with nearly 1,000 small teeth in 30 rows. These teeth were used for breaking up plant matter by chewing, a feature common in herbivorous dinosaurs, but unusual for reptiles.The back of an Aralosaurus skull was wide, a feature suggestive of large jaw muscles used to power its chewing apparatus.
+
+
+
+
+
+
+Edmontosaurus
+
+
+
+
+
+
+
+
+Gasparinisaura
+
+
+
+
+
+
+
+
+Hypacrosaurus
+
+
+
+
+
+
+
+
+Maiasaura
+
+
+
+
+
+
+
+
+Mochlodon
+
+
+
+
+
+
+
+
+Nipponosaurus
+
+
+
+
+
+
+
+
+Prosaurolophus
+
+
+
+
+
+
+
+
+Shantungosaurus
+
+
+
+
+
+
+
+
+Velafrons
+
+
+
+
+
+
+
+Brachylophosaurus
+
+
+Montana, USA; Alberta, Canada
+Brachylophosaurus was a typical hadrosaur which reached an adult length of 9 meters (30 ft).
+
+
+
+Corythosaurus
+
+
+Alberta, Canada
+Corythosaurus weighed in at 4 tonnes and measured roughly 10 metres (33 ft) from nose to tail. Like other hadrosaurs it had a toothless beak, the back of the jaws contained a dental battery composed of hundreds of small, interlocking teeth. These were used to crush and grind plant matter and were continually replaced as they wore away.
+
+
+
+Diclonius
+
+
+Montana, USA
+
+
+
+
+Edmontosaurus
+
+
+Canada
+Edmontosaurus included some of the largest hadrosaurid species, measuring up to 12 metres (39 ft) long and weighing around 4.0 metric tons (4.4 short tons).
+
+
+
+Gasparinisaura
+
+
+Argentina
+Gasparinisaura was a small bipedal herbivore. In 2010 Gregory S. Paul estimated the length at 1.7 metres, the weight at thirteen kilogrammes.
+
+
+
+Gilmoreosaurus
+
+
+Mongolia
+
+
+
+
+Gryposaurus
+
+
+Alberta, Canada
+Gryposaurus was a hadrosaurid of typical size and shape.
+
+
+
+Hadrosaurus
+
+
+New Jersey, USA
+It was likely bipedal for the purposes of running, but could use its forelegs to support itself while feeding.
+
+
+
+Hypacrosaurus
+
+
+Alberta, Canada
+Hypacrosaurus is most easily distinguished from other hollow-crested duckbills by its tall neural spines and the form of its crest. The neural spines, which project from the top of the vertebrae, are 5 to 7 times the height of the body of their respective vertebrae in the back,[4] which would have given it a tall back in profile. The skull's hollow crest is like that of Corythosaurus, but is more pointed along its top, not as tall, wider side to side, and has a small bony point at the rear
+
+
+
+Hypsibema
+
+
+North Carolina and Missouri, USA
+
+
+
+
+Kritosaurus
+
+
+North America
+The type specimen of Kritosaurus navajovius is only represented by a partial skull and lower jaws, and associated postcranial remains.
+
+
+
+Lambeosaurus
+
+
+Alberta, Canada
+
+
+
+
+Lophorhothon
+
+
+Alabama, USA
+
+
+
+
+Maiasaura
+
+
+Montana, USA
+Maiasaura was large, attaining an adult length of about 9 metres (30 ft) and had the typical hadrosaurid flat beak and a thick nose. It had a small, spiky crest in front of its eyes. The crest may have been used in headbutting contests between males during the breeding season.
+
+
+
+Mandschurosaurus
+
+
+Asia
+
+
+
+
+Microhadrosaurus
+
+
+China
+
+
+
+
+Mochlodon
+
+
+Austria
+A rhabdodontid
+
+
+
+Naashoibitosaurus
+
+
+New Mexico, USA
+Naashoibitosaurus, based as it is on a single partial skeleton, is not well known in terms of anatomy. Its skull, the most thoroughly described portion, has a low nasal crest that peaks in front of the eyes, but does not strongly arch as in Gryposaurus.
+
+
+
+Nipponosaurus
+
+
+Russia
+
+
+
+
+Orodromeus
+
+
+Montana, USA
+Orodromeus was a small fast bipedal herbivore that probably coexisted with dinosaurs such as Daspletosaurus and Einiosaurus. Its length was estimated by Horner & Weishampel at 2.5 metres.
+
+
+
+Parasaurolophus
+
+
+Alberta, Canada; New Mexico and Utah, USA
+
+
+
+
+Prosaurolophus
+
+
+Alberta, Canada
+Prosaurolophus was a large-headed duckbill; the most complete described specimen has a skull around 0.9 meters long (2.9 ft) on a ~8.5 meter long skeleton (~28 ft).[2] It had a small, stout, triangular crest in front of the eyes; the sides of this crest were concave, forming depressions. The upper arm was relatively short.
+
+
+
+Pteropelyx
+
+
+Montana, USA
+
+
+
+
+Rhabdodon
+
+
+France; Spain; Haţeg Island, Romania
+It is unclear whether it was an iguanodont or a hypsilophodont, and may be a "missing link" between the two. Current evidence indicates it is an iguanodont similar to Tenontosaurus.
+
+
+
+Saurolophus
+
+
+North America, Asia
+Saurolophus is known from material including nearly complete skeletons, giving researchers a clear picture of its bony anatomy. S. osborni, the rarer Albertan species, was around 9.8 meters long (32 feet), with its skull a meter long (3.3 feet). Its weight is estimated at 1.9 tonnes (2.1 tons). S. angustirostris, the Mongolian species, was larger; the type skeleton is roughly 12 meters long (39.4 ft), and larger remains are reported.
+
+
+
+Shantungosaurus
+
+
+China
+It is one of the longest and largest known hadrosaurids; the composite skeleton of a medium-sized individual mounted at the Geological Institute of China in Beijing measures 14.72 metres (48.3 ft) in length
+
+
+
+Tanius
+
+
+China
+
+
+
+
+Trachodon
+
+
+Montana, USA
+
+
+
+
+Tsintaosaurus
+
+
+Southern China
+
+
+
+
+Velafrons
+
+
+Mexico
+
+
+
+†Pachycephalosaurs[edit source | edit]
+
+
+Pachycephalosaurs of the Campanian
+
+
+Taxa
+Presence
+Location
+Description
+Images
+
+
+
+Alaskacephale
+
+
+Prince Creek Formation, Alaska, USA
+
+
+
+
+
+
+
+Homalocephale
+
+
+
+
+
+
+
+Colepiocephale
+
+
+Alberta, Canada
+The oldest known pachycephalosaurid
+
+
+
+Goyocephale
+
+
+Mongolia
+
+
+
+
+Gravitholus
+
+
+
+
+
+
+
+Hanssuesia
+
+
+Alberta, Canada; Montana, USA
+Distinguished from other pachycephalosaurs by having a depressed parietal region, wide frontoparietal dome, broad nasal characteristics, reduced prefontal lobes, and a reduced parietosquamosal shelf.
+
+
+
+?Heishansaurus
+
+
+
+
+
+
+
+Homalocephale
+
+
+Mongolia
+Sporting a flat, wedge-shaped skull roof, Homalocephale was different from other pachycephalosaurs.
+
+
+
+?Micropachycephalosaurus
+
+
+
+
+
+
+
+Ornatotholus
+
+
+
+
+
+
+
+Prenocephale
+
+
+
+
+
+
+
+Sphaerotholus
+
+
+
+
+
+
+
+Stegoceras
+
+
+
+
+
+
+
+Tylocephale
+
+
+
+
+
+
+
+Wannanosaurus
+
+
+
+
+
+
+†Plesiosaurs[edit source | edit]
+
+
+Plesiosaurs of the Campanian
+
+
+Taxa
+Presence
+Location
+Description
+Images
+
+
+
+†Elasmosaurus
+
+
+Pierre Shale, Kansas, USA
+Elasmosaurus is a genus of plesiosaur with an extremely long neck.
+
+
+
+
+
+
+Elasmosaurus
+
+
+
+
+
+
+
+
+Styxosaurus
+
+
+
+
+
+
+
+†Styxosaurus
+
+
+Logan County, Kansas
+Styxosaurus is a genus of plesiosaur of the family Elasmosauridae.
+
+
+†Pterosaurs[edit source | edit]
+
+
+Pterosaurs of the Campanian
+
+
+Taxa
+Presence
+Location
+Description
+Images
+
+
+
+Geosternbergia
+
+
+USA, North America
+Geosternbergia was originally a species of Pteranodon and is famous for it's oddly shaped crest.
+
+
+
+Nyctosaurus
+
+
+mid-western United States
+Nyctosaurus is a genus of pterodactyloid pterosaur
+
+
+
+
+
+
+Pteranodon
+
+
+
+
+
+
+
+
+Quetzalcoatlus
+
+
+
+
+
+
+
+Pteranodon
+
+
+Kansas, USA, North America
+Pteranodon is a genus of pterosaurs which included some of the largest known flying reptiles, with wingspans over 6 metres
+
+
+
+Quetzalcoatlus
+
+
+Texas, USA
+Quetzalcoatlus was a pterodactyloid pterosaur known from the Late Cretaceous of North America and one of the largest known flying animals of all time.
+
+
+
+Piksi
+
+
+Montana, USA
+Piksi is a genus of pterosaurs containing the single species Piksi barbarulna.
+
+
+†Sauropods[edit source | edit]
+
+
+Sauropods of the Campanian
+
+
+Taxa
+Presence
+Location
+Description
+Images
+
+
+
+Alamosaurus
+
+
+Southwestern United States
+Alamosaurus is a genus of titanosaurian sauropod dinosaur from the Late Cretaceous Period of what is now North America. It was a large quadrupedal herbivore.
+
+
+
+
+
+
+Alamosaurus
+
+
+
+
+
+
+
+
+Saltasaurus
+
+
+
+
+
+
+
+Andesaurus
+
+
+Neuquén Province, Argentina
+Andesaurus is a genus of basal titanosaurian sauropod dinosaur
+
+
+
+Bruhathkayosaurus
+
+
+Tamil Nadu, India
+Bruhathkayosaurus might have been the largest dinosaur that ever lived.
+
+
+
+Huabeisaurus
+
+
+North East, China
+A member of the Euhelopodidae sauropods.
+
+
+
+Overosaurus
+
+
+Neuquén Province, Argentina
+Small-sized titanosaur.
+
+
+
+Quaesitosaurus
+
+
+Shar Tsav, Mongolia
+Quaesitosaurus is a genus of titanosaurian sauropod.
+
+
+
+Saltasaurus
+
+
+north-west Argentina; Uruguay
+Saltasaurus is a genus of titanosaurid sauropod dinosaur. An estimated length of 12 metres (39 feet) and a mass of 7 tonnes (8 tons)
+
+
+Squamates[edit source | edit]
+
+
+Squamates of the Campanian
+
+
+Taxa
+Presence
+Location
+Description
+Images
+
+
+
+Halisaurus
+
+
+
+
+
+
+
+
+
+
+Mosasaurus
+
+
+
+
+
+
+
+
+Taniwhasaurus
+
+
+
+
+
+
+
+Mosasaurus
+
+
+
+
+
+
+Plotosaurus
+
+
+
+
+
+
+
+Taniwhasaurus
+
+
+New Zealand, Japan, Antarctica
+
+
+
+
+Tylosaurus
+
+
+
+
+
+
+Testudines[edit source | edit]
+
+
+Testudines of the Campanian
+
+
+Taxa
+Presence
+Location
+Description
+Images
+
+
+
+†Archelon
+
+
+
+
+
+
+
+
+
+
+Reconstruction of Archelon
+
+
+
+
+
+
+†Theropods (non-avian)[edit source | edit]
+David J. Varrichio observes that during the late Campanian Alberta and Montana had very similar theropods despite significant differences in the types of herbivorous dinosaur faunas.[3]
+
+
+Non-avian theropods of the Campanian
+
+
+Taxa
+Presence
+Location
+Description
+Images
+
+
+
+
+†Abelisaurus
+
+
+†Abelisaurus comahuensis
+
+
+
+Allen Formation?, Anacleto Formation?, Argentina
+Bipedal carnivore that probably reached 7 to 9 meters in length; known from only one partial skull.
+
+
+
+
+
+
+Abelisaurus
+
+
+
+
+
+
+
+
+Bambiraptor
+
+
+
+
+
+
+
+
+Citipati
+
+
+
+
+
+
+
+
+Portrait of Saurornithoides
+
+
+
+
+
+
+
+
+Velociraptor
+
+
+
+
+
+
+
+Albertosaurus
+
+
+
+
+
+
+
+Appalachiosaurus
+
+
+
+
+
+
+
+Archaeornithomimus
+
+
+
+
+
+
+
+Bambiraptor
+
+
+
+
+
+
+
+Byronosaurus
+
+
+
+
+
+
+
+Citipati
+
+
+
+
+
+
+
+Carnotaurus
+
+
+
+
+
+
+
+Daspletosaurus
+
+
+
+
+
+
+
+Dromaeosaurus
+
+
+
+
+
+
+
+Dromiceiomimus
+
+
+
+
+
+
+
+Dryptosaurus
+
+
+
+
+
+
+
+Gorgosaurus
+
+
+
+
+
+
+
+Harpymimus
+
+
+
+
+
+
+
+Khaan
+
+
+
+
+
+
+
+Luanchuanraptor
+
+
+
+
+
+
+
+Mononykus
+
+
+
+
+
+
+
+Noasaurus
+
+
+
+
+
+
+
+Ornithomimus
+
+
+
+
+
+
+
+Oviraptor
+
+
+Mongolia
+
+
+
+
+Pyroraptor
+
+
+Var, France
+
+
+
+
+Saurornithoides
+
+
+
+
+
+
+
+Saurornitholestes
+
+
+
+
+
+
+
+Shuvuuia
+
+
+
+
+
+
+
+Struthiomimus
+
+
+
+
+
+
+
+Troodon
+
+
+
+
+
+
+
+Variraptor
+
+
+Var, France
+
+
+
+
+Velociraptor
+
+
+Mongolia and China
+
+
+
+
+Xenotarsosaurus
+
+
+
+
+
+
+Footnotes[edit source | edit]
+
+
+^ See Gradstein et al. (2004) for a detailed version of the geological timescale
+^ See Weishampel et al. (2004)
+^ "Abstract," in Varricchio (2001). Page 42.
+
+
+References[edit source | edit]
+
+Gradstein, F.M.; Ogg, J.G. & Smith, A.G.; 2004: A Geologic Time Scale 2004, Cambridge University Press.
+Varricchio, D. J. 2001. Late Cretaceous oviraptorosaur (Theropoda) dinosaurs from Montana. pp. 42–57 in D. H. Tanke and K. Carpenter (eds.), Mesozoic Vertebrate Life. Indiana University Press, Indianapolis, Indiana.
+Weishampel, D.B.; Barrett, P.M.; Coria, R.A.; Le Loueff, J.; Xu, X.; Zhao, X.; Sahni, A.; Gomani, E.M.P. & Noto, C.N.; 2004: Dinosaur distribution, in: Weishampel, D.B.; Dodson, P. & Osmólska, H. (eds.): The Dinosauria, University of California Press, Berkeley (2nd ed.), ISBN 0-520-24209-2, pp 517-606.
+
+External links[edit source | edit]
+
+GeoWhen Database - Campanian
+Late Cretaceous timescale, at the website of the subcommission for stratigraphic information of the ICS
+Stratigraphic chart of the Late Cretaceous, at the website of Norges Network of offshore records of geology and stratigraphy
+Campanian Microfossils: 75+ images of Foraminifera
+
+
+
+Cretaceous Period
+
+
+Lower/Early Cretaceous
+Upper/Late Cretaceous
+
+
+Berriasian | Valanginian | Hauterivian
+Barremian| Aptian | Albian
+Cenomanian | Turonian | Coniacian
+Santonian |Campanian | Maastrichtian
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Geologic history of Earth
+
+
+
+
+
+
+
+
+
+
+ 
+Precambrian supereon (4.567 Gya – 541.0 Mya)
+
+
+
+
+
+
+
+
+
+
+
+In left column are eons; right column: bold are eras; not bold are periods:
+
+
+
+
+
+
+Hadean
+(4.567 – 4 Gya)
+
+
+
+
+
+
+
+Chaotian (4.567 – 4.4 Gya)
+
+
+
+
+
+
+
+
+
+
+
+Zirconian(4.4 – 4 Gya)
+
+
+
+
+
+
+
+
+
+
+
+Archean
+(4 – 2.5 Gya)
+
+
+
+
+
+
+
+Eoarchean (4 – 3.6 Gya)
+
+
+
+
+
+
+
+
+
+
+
+Paleoarchean (3.6 – 3.2 Gya)
+
+
+
+
+
+
+
+
+
+
+
+Mesoarchean (3.2 – 2.8 Gya)
+
+
+
+
+
+
+
+
+
+
+
+Neoarchean (2.8 – 2.5 Gya)
+
+
+
+
+
+
+
+
+
+
+
+Proterozoic
+(2.5 Gya – 541.0 Mya)
+
+
+
+
+
+
+
+Paleoproterozoic (2.5 – 1.6 Gya): Siderian (2.5 – 2.3 Gya)
+Rhyacian (2.3 – 2.05 Gya)
+Orosirian (2.05 – 1.8 Gya)
+Statherian (1.8 – 1.6 Gya)
+
+
+
+
+
+
+
+
+
+
+
+Mesoproterozoic (1.6 – 1 Gya): Calymmian (1.6 – 1.4 Gya)
+Ectasian (1.4 – 1.2 Gya)
+Stenian (1.2 – 1 Gya)
+
+
+
+
+
+
+
+
+
+
+
+Neoproterozoic (1 Gya – 541.0 Mya): Tonian (1 Gya – 850 Mya)
+Cryogenian (850 – 635 Mya)
+Ediacaran (635 – 541.0 Mya)
+
+
+
+
+
+
+
+
+
+
+
+
+Mya = millions years ago. Gya = billions years ago.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Phanerozoic eon (541.0 – 0 Mya)
+
+
+
+
+
+
+
+
+
+
+
+In horizontal bars are eras; in left column are periods; right column: bold are epochs; not bold not italic are ages; italic are chrons:
+
+
+
+
+
+
+
+
+
+
+ 
+Paleozoic (541.0 – 252.17 Mya)
+
+
+
+
+
+
+
+
+
+
+
+Cambrian
+(541.0 – 485.4 Mya)
+
+
+
+
+
+
+
+
+Terreneuvian (541.0 – 521 Mya): Fortunian (541.0 – 529 Mya)
+Age 2* (529 – 521 Mya)
+
+
+
+
+
+
+
+
+
+
+
+Epoch 2* (521 – 509 Mya): Age 3* (521 – 514 Mya)
+Age 4* (514 – 509 Mya)
+
+
+
+
+
+
+
+
+
+
+
+Epoch 3* (509 – 497 Mya): Age 5* (509 – 504.5 Mya)
+Drumian (504.5 – 500.5 Mya)
+Guzhangian (500.5 – 497 Mya)
+
+
+
+
+
+
+
+
+
+
+
+Furongian (497 – 485.4 Mya): Paibian (497 – 494 Mya)
+Jiangshanian (494 – 489.5 Mya)
+Age 10* (489.5 – 485.4 Mya)
+
+
+
+
+
+
+
+
+
+
+
+
+Ordovician
+(485.4 – 443.4 Mya)
+
+
+
+
+
+
+
+
+Early Ordovician (485.4 – 470.0 Mya): Tremadocian (485.4 – 477.7 Mya)
+Floian (477.7 – 470.0 Mya)
+
+
+
+
+
+
+
+
+
+
+
+Middle Ordovician (470.0 – 458.4 Mya): Dapingian (470.0 – 467.3 Mya)
+Darriwilian (467.3 – 458.4 Mya)
+
+
+
+
+
+
+
+
+
+
+
+Late Ordovician (458.4 – 443.4 Mya): Sandbian (458.4 – 453.0 Mya)
+Katian (453.0 – 445.2 Mya)
+Hirnantian (445.2 – 443.4 Mya)
+
+
+
+
+
+
+
+
+
+
+
+
+Silurian
+(443.4 – 419.2 Mya)
+
+
+
+
+
+
+
+
+Llandovery (443.4 – 433.4 Mya): Rhuddanian (443.4 – 440.8 Mya)
+Aeronian (440.8 – 438.5 Mya)
+Telychian (438.5 – 433.4 Mya)
+
+
+
+
+
+
+
+
+
+
+
+Wenlock (433.4 – 427.4 Mya): Sheinwoodian (433.4 – 430.5 Mya)
+Homerian (430.5 – 427.4 Mya)
+
+
+
+
+
+
+
+
+
+
+
+Ludlow (427.4 – 423.0 Mya): Gorstian (427.4 – 425.6 Mya)
+Ludfordian (425.6 – 423.0 Mya)
+
+
+
+
+
+
+
+
+
+
+
+Pridoli (423.0 – 419.2 Mya)
+
+
+
+
+
+
+
+
+
+
+
+
+Devonian
+(419.2 – 358.9 Mya)
+
+
+
+
+
+
+
+
+Early Devonian (419.2 – 393.3 Mya): Lochkovian (419.2 – 410.8 Mya)
+Pragian (410.8 – 407.6 Mya)
+Emsian (407.6 – 393.3 Mya)
+
+
+
+
+
+
+
+
+
+
+
+Middle Devonian (393.3 – 382.7 Mya): Eifelian (393.3 – 387.7 Mya)
+Givetian (387.7 – 382.7 Mya)
+
+
+
+
+
+
+
+
+
+
+
+Late Devonian (382.7 – 358.9 Mya): Frasnian (382.7 – 372.2 Mya)
+Famennian (372.2 – 358.9 Mya)
+
+
+
+
+
+
+
+
+
+
+
+
+Carboniferous
+(358.9 – 298.9 Mya)
+
+
+
+
+
+
+
+
+Mississippian (358.9 – 323.2 Mya): Tournaisian (358.9 – 346.7 Mya)
+Viséan (346.7 – 330.9 Mya)
+Serpukhovian (330.9 – 323.2 Mya)
+
+
+
+
+
+
+
+
+
+
+
+Pennsylvanian (323.2 – 298.9 Mya): Bashkirian (323.2 – 315.2 Mya)
+Moscovian (315.2 – 307.0 Mya)
+Kasimovian (307.0 – 303.7 Mya)
+Gzhelian (303.7 – 298.9 Mya)
+
+
+
+
+
+
+
+
+
+
+
+
+Permian
+(298.9 – 252.17 Mya)
+
+
+
+
+
+
+
+
+Cisuralian (298.9 – 272.3 Mya): Asselian (298.9 – 295.0 Mya)
+Sakmarian (295.0 – 290.1 Mya)
+Artinskian (290.1 – 283.5 Mya)
+Kungurian (283.5 – 272.3 Mya)
+
+
+
+
+
+
+
+
+
+
+
+Guadalupian (272.3 – 259.8 Mya): Roadian (272.3 – 268.8 Mya)
+Wordian (268.8 – 265.1 Mya)
+Capitanian (265.1 – 259.8 Mya)
+
+
+
+
+
+
+
+
+
+
+
+Lopingian (259.8 – 252.17 Mya): Wuchiapingian (259.8 – 254.14 Mya)
+Changhsingian (254.14 – 252.17 Mya)
+
+
+
+
+
+
+
+
+
+
+
+
+Kasimovian and Gzhelian comprise Late Pennsylvanian (307.0 – 298.9 Mya) subepoch.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Mesozoic (252.17 – 66.0 Mya)
+
+
+
+
+
+
+
+
+
+
+
+Triassic
+(252.17 – 201.3 Mya)
+
+
+
+
+
+
+
+
+Early Triassic (252.17 – 247.2 Mya): Induan (252.17 – 251.2 Mya)
+Olenekian (251.2 – 247.2 Mya)
+
+
+
+
+
+
+
+
+
+
+
+Middle Triassic (247.2 – 235 Mya): Anisian (247.2 – 242 Mya)
+Ladinian (242 – 235 Mya)
+
+
+
+
+
+
+
+
+
+
+
+Late Triassic (235 – 201.3 Mya): Carnian (235 – 228 Mya)
+Norian (228 – 208.5 Mya)
+Rhaetian (208.5 – 201.3 Mya)
+
+
+
+
+
+
+
+
+
+
+
+
+Jurassic
+(201.3 – 145.0 Mya)
+
+
+
+
+
+
+
+
+Early Jurassic (201.3 – 174.1 Mya): Hettangian (201.3 – 199.3 Mya)
+Sinemurian (199.3 – 190.8 Mya)
+Pliensbachian (190.8 – 182.7 Mya)
+Toarcian (182.7 – 174.1 Mya)
+
+
+
+
+
+
+
+
+
+
+
+Middle Jurassic (174.1 – 163.5 Mya): Aalenian (174.1 – 170.3 Mya)
+Bajocian (170.3 – 168.3 Mya)
+Bathonian (168.3 – 166.1 Mya)
+Callovian (166.1 – 163.5 Mya)
+
+
+
+
+
+
+
+
+
+
+
+Late Jurassic (163.5 – 145.0 Mya): Oxfordian (163.5 – 157.3 Mya)
+Kimmeridgian (157.3 – 152.1 Mya)
+Tithonian (152.1 – 145.0 Mya)
+
+
+
+
+
+
+
+
+
+
+
+
+Cretaceous
+(145.0 – 66.0 Mya)
+
+
+
+
+
+
+
+
+Early Cretaceous (145.0 – 100.5 Mya): Berriasian (145.0 – 139.8 Mya)
+Valanginian (139.8 – 132.9 Mya)
+Hauterivian (132.9 – 129.4 Mya)
+Barremian (129.4 – 125.0 Mya)
+Aptian (125.0 – 113.0 Mya)
+Albian (113.0 – 100.5 Mya)
+
+
+
+
+
+
+
+
+
+
+
+Late Cretaceous (100.5 – 66.0 Mya): Cenomanian (100.5 – 93.9 Mya)
+Turonian (93.9 – 89.8 Mya)
+Coniacian (89.8 – 86.3 Mya)
+Santonian (86.3 – 83.6 Mya)
+Campanian (83.6 – 72.1 Mya)
+Maastrichtian (72.1 – 66.0 Mya)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Cenozoic (66.0 – 0 Mya)
+
+
+
+
+
+
+
+
+
+
+
+Paleogene
+(66.0 – 23.03 Mya)
+
+
+
+
+
+
+
+
+Paleocene (66.0 – 56.0 Mya): Danian (66.0 – 61.6 Mya)
+Selandian (61.6 – 59.2 Mya)
+Thanetian (59.2 – 56.0 Mya)
+
+
+
+
+
+
+
+
+
+
+
+Eocene (56.0 – 33.9 Mya): Ypresian (56.0 – 47.8 Mya)
+Lutetian (47.8 – 41.3 Mya)
+Bartonian (41.3 – 38.0 Mya)
+Priabonian (38.0 – 33.9 Mya)
+
+
+
+
+
+
+
+
+
+
+
+Oligocene (33.9 – 23.03 Mya): Rupelian (33.9 – 28.1 Mya)
+Chattian (28.1 – 23.03 Mya)
+
+
+
+
+
+
+
+
+
+
+
+
+Neogene
+(23.03 – 2.588 Mya)
+
+
+
+
+
+
+
+
+Miocene (23.03 – 5.333 Mya): Aquitanian (23.03 – 20.44 Mya)
+Burdigalian (20.44 – 15.97 Mya)
+Langhian (15.97 – 13.82 Mya)
+Serravallian (13.82 – 11.62 Mya)
+Tortonian (11.62 – 7.246 Mya)
+Messinian (7.246 – 5.333 Mya)
+
+
+
+
+
+
+
+
+
+
+
+Pliocene (5.333 – 2.588 Mya): Piacenzian (5.333 – 3.600 Mya)
+Zanclean (3.600 – 2.588 Mya)
+
+
+
+
+
+
+
+
+
+
+
+
+Quaternary
+(2.588 – 0 Mya)
+
+
+
+
+
+
+
+
+Pleistocene (2.588 Mya – 11.7 kya): Gelasian (2.588 – 1.806 Mya)
+Calabrian (1.806 Mya – 781 kya)
+Middle Pleistocene (Ionian) (781 – 126 kya)
+Late Pleistocene (Tarantian) (126 – 11.7 kya): Oldest Dryas* (18 – 14.67 kya)
+Bølling* (14.67 – 14 kya)
+Older Dryas* (14 – 13.7 kya)
+Allerød* (13.7 – 12.8 kya)
+Younger Dryas* (12.8 – 11.7 kya)
+
+
+
+
+
+
+
+
+
+
+
+Holocene (11.7 – 0 kya): Preboreal* (11.7 – 9 kya)
+Boreal* (9 – 8 kya)
+Atlantic* (8 – 5 kya)
+Subboreal* (5 – 2.5 kya)
+Subatlantic* (2.5 – 0 kya)
+
+
+
+
+
+
+
+
+
+
+
+
+Paleogene, Neogene and early Pleistocene comprise former Tertiary* (66.0 – 1.8 Mya) period. Gelasian and Calabrian comprise Early Pleistocene (2.588 Mya – 781 kya) subepoch.
+
+
+
+
+
+
+
+
+
+
+
+
+
+kya = thousands years ago. Mya = millions years ago. * Not officially recognized by the I.C.S.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Source: International Chronostratigraphic Chart (January 2013). International Commission on Stratigraphy. Retrieved 27 March 2013. Divisions of Geologic Time—Major Chronostratigraphic and Geochronologic Units USGS Retrieved 10 March 2013.
+
+
+
+
+
+
+
+
+ 
+NewPP limit report
+CPU time usage: 2.248 seconds
+Real time usage: 2.480 seconds
+Preprocessor visited node count: 12429/1000000
+Preprocessor generated node count: 14288/1500000
+Post‐expand include size: 521716/2048000 bytes
+Template argument size: 85557/2048000 bytes
+Highest expansion depth: 24/40
+Expensive parser function count: 2/500
+Lua time usage: 0.085s
+Lua memory usage: 1.74 MB
+
+
+ Saved in parser cache with key enwiki:pcache:idhash:2939640-0!*!0!!en!4!* and timestamp 20130921082620 
+								
+				Retrieved from "http://en.wikipedia.org/w/index.php?title=Campanian&oldid=570421333"				
+												Categories: Cretaceous												
+							
+		
+		
+			Navigation menu
+			
+				
+	Personal tools
+	
+Create accountLog in	
+
+				
+					
+	Namespaces
+	
+					Article
+					Talk
+			
+
+
+	
+		
+	Variants
+	
+		
+					
+	
+
+				
+				
+					
+	Views
+	
+					Read
+					Edit source
+					Edit
+					View history
+			
+
+
+	Actions
+	
+		
+					
+	
+
+
+	Search
+	
+				
+																				
+		
+	
+
+				
+			
+			
+					
+				
+	Navigation
+	
+		
+			Main page
+			Contents
+			Featured content
+			Current events
+			Random article
+			Donate to Wikipedia
+		
+	
+
+
+	Interaction
+	
+		
+			Help
+			About Wikipedia
+			Community portal
+			Recent changes
+			Contact page
+		
+	
+
+
+	Toolbox
+	
+		
+			What links here
+			Related changes
+			Upload file
+			Special pages
+			Permanent link
+			Page information
+			Data item
+Cite this page		
+	
+
+
+	Print/export
+	
+		
+			Create a book
+			Download as PDF
+			Printable version
+		
+	
+
+
+	Languages
+	
+		
+			Asturianu
+			Català
+			Deutsch
+			Español
+			Euskara
+			Français
+			Italiano
+			Latina
+			Lëtzebuergesch
+			Magyar
+			Nederlands
+			日本語
+			Norsk nynorsk
+			Plattdüütsch
+			Polski
+			Português
+			Русский
+			Srpskohrvatski / српскохрватски
+			Suomi
+			Svenska
+			Українська
+			中文
+			
+			Edit links
+		
+	
+
+			
+		
+		
+							
+											 This page was last modified on 27 August 2013 at 17:21.
+											Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. 
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+									
+							
+											Privacy policy
+											About Wikipedia
+											Disclaimers
+											Contact Wikipedia
+											Developers
+											Mobile view
+									
+										
+					
+						
+					
+					
+						
+					
+				
+						
+		
+		
+
+
+ Served by mw1099 in 0.220 secs. 
+	
+if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Campanian","wgTitle":"Campanian","wgCurRevisionId":570421333,"wgArticleId":2939640,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Cretaceous"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Campanian","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgVectorEnabledModules":{"collapsiblenav":true,"expandablesearch":false,"sectioneditlinks":false,"experiments":true},"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"templateEditor":false,"templates":false,"preview":false,"previewDialog":false,"publish":false,"toc":false},"wgArticleFeedbackv5Permissions":{"aft-reader":false,"aft-member":false,"aft-editor":false,"aft-monitor":false,"aft-administrator":false,"aft-oversighter":false,"aft-noone":false},"wgVisualEditor":{"isPageWatched":false,"magnifyClipIconURL":"//bits.wikimedia.org/static-1.22wmf17/skins/common/images/magnify-clip.png","pageLanguageCode":"en","pageLanguageDir":"ltr"},"wikilove-recipient":"","wikilove-anon":0,"wgGuidedTourHelpGuiderUrl":"Help:Guided tours/guider","wgULSAcceptLanguageList":[],"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia","aftv5Article":{"id":2939640,"title":"Campanian","namespace":0,"categories":["Cretaceous"],"permissionLevel":false},"wgWikibaseItemId":"Q492941"});
+}if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":false,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,
+"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"useeditwarning":1,"prefershttps":1,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"vector-simplesearch":1,"vector-collapsiblenav":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"aftv5-last-filter":null,"visualeditor-enable":1,"visualeditor-enable-experimental":0,"visualeditor-betatempdisable":0,"wikilove-enabled":1,"echo-subscriptions-web-page-review":true,"echo-subscriptions-email-page-review":false,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"echo-notify-show-link":true,"echo-show-alert":true,"echo-email-frequency":0,"echo-email-format":"html","echo-subscriptions-email-system":true,"echo-subscriptions-web-system":true,"echo-subscriptions-email-other":false,"echo-subscriptions-web-other":true,"echo-subscriptions-email-edit-user-talk":false,"echo-subscriptions-web-edit-user-talk":true,
+"echo-subscriptions-email-reverted":false,"echo-subscriptions-web-reverted":true,"echo-subscriptions-email-article-linked":false,"echo-subscriptions-web-article-linked":false,"echo-subscriptions-email-mention":false,"echo-subscriptions-web-mention":true,"echo-subscriptions-web-edit-thank":true,"echo-subscriptions-email-edit-thank":false,"gettingstarted-task-toolbar-show-intro":true,"uls-preferences":"","language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs446":false,"searchNs447":false
+,"searchNs710":false,"searchNs711":false,"searchNs828":false,"searchNs829":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-mySandbox":1,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:8d18647871f0de0db8b2a67911f411b0 */
+}if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","ext.visualEditor.viewPageTarget.init","ext.wikimediaShopLink.core","ext.uls.init","ext.uls.interface","wikibase.client.init","ext.centralNotice.bannerController","skins.vector.js"]);
+}/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}if(window.mw){
+mw.loader.load(["mobile.desktop","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.cite","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","mw.MwEmbedSupport.style","ext.vector.collapsibleNav","ext.articleFeedbackv5.startup","ext.gettingstarted.logging","ext.gettingstarted.openTask","schema.HttpsSupport","ext.coreEvents.httpsSupport","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","mw.PopUpMediaTransform"],null,true);
+}

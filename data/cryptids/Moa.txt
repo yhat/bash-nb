@@ -1,0 +1,1536 @@
+
+
+
+Moa - Wikipedia, the free encyclopedia
+
+
+
+
+
+
+
+
+
+
+
+
+a:lang(ar),a:lang(ckb),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:0de201fdea5d684523607ed88007b127 */
+
+
+
+
+[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.22wmf18/skins/vector/csshover.min.htc")}</style><![endif]
+
+		
+		
+		
+			
+			
+						 CentralNotice 
+						Moa
+			
+								From Wikipedia, the free encyclopedia
+								
+												
+					Jump to:					navigation, 					search
+				
+				This article is about the extinct New Zealand birds known as moa.  For other uses, see Moa (disambiguation).
+
+
+
+Moa
+Temporal range: Miocene - Holocene, 17–0Ma
+
+PreЄ
+Є
+O
+S
+D
+C
+P
+T
+J
+K
+Pg
+N
+
+
+
+
+
+
+
+
+
+
+
+
+
+Restoration of an Upland Moa, Megalapteryx didinus
+
+
+Scientific classification 
+
+
+Kingdom:
+Animalia
+
+
+Phylum:
+Chordata
+
+
+Class:
+Aves
+
+
+Superorder:
+Palaeognathae
+Bonaparte, 1853[1]
+
+
+Order:
+†Dinornithiformes
+Bonaparte, 1853
+
+
+Type species
+
+
+†Dinornis novaezealandiae
+Owen, 1843
+
+
+Subgroups
+
+
+
+
+†Dinornithidae
+†Megalapterygidae
+†Emeidae
+
+
+
+
+Diversity
+
+
+6 genera, 9 species[2]
+
+
+Synonyms
+
+
+
+
+Dinornithes
+
+
+
+
+
+The moa[3][4] were nine species (in six genera) of flightless birds endemic to New Zealand.[5] The two largest species, Dinornis robustus and Dinornis novaezelandiae, reached about 3.6 m (12 ft) in height with neck outstretched, and weighed about 230 kg (510 lb).[6]
+Moa belong to the ratite group in the order Dinornithiformes.[5] The nine[5] species of moa were the only wingless birds, lacking even the vestigial wings which all other ratites have. They were the dominant herbivores in New Zealand's forest, shrubland and subalpine ecosystems for thousands of years, and until the arrival of the Māori were hunted only by the Haast's Eagle. It is generally considered that most, if not all, species of moa died out by A.D. 1400 due to overhunting by the Māori and habitat decline.
+
+
+Contents
+
+
+1 Taxonomy and evolution
+2 Description
+3 Distribution and habitat
+
+3.1 South Island
+3.2 North Island
+
+
+4 Behaviour and ecology
+
+4.1 Diet
+4.2 Reproduction
+
+
+5 Relationship with humans
+
+5.1 Extinction
+5.2 Surviving remains
+5.3 Feathers and soft tissues
+5.4 Claims of moa survival
+
+
+6 In Literature
+7 Footnotes
+8 See also
+9 References
+10 External links
+
+
+Taxonomy and evolution[edit]
+
+
+
+
+Comparison of a kiwi, ostrich, and Dinornis, each with its egg
+
+
+Research published in 2010 has found that the moa's closest cousins are small terrestrial South American birds called the tinamous which are able to fly.[7] Previously, the kiwi, the Australian emu, and cassowary[8] were thought to be the closest ancestors.
+Although dozens of species were described in the late 19th century and early 20th century, many were based on partial skeletons and turned out to be synonyms. Currently, eleven species are formally recognised, although recent studies using ancient DNA recovered from bones in museum collections suggest that distinct lineages exist within some of these. One factor that has caused much confusion in moa taxonomy is the intraspecific variation of bone sizes, between glacial and inter-glacial periods (see Bergmann’s rule and Allen’s rule) as well as sexual dimorphism being evident in several species. Dinornis seems to have had the most pronounced sexual dimorphism, with females being up to 150% as tall and 280% as heavy as males—so much bigger that they were formerly classified as separate species until 2003.[9][10] A 2009 study showed that Euryapteryx curtus and Euryapteryx gravis were synonyms.[10] A 2010 study explained size differences among them as sexual dimorphism.[11] A 2012 morphological study interpreted them as subspecies instead.[12]
+Ancient DNA analyses have determined that there were a number of cryptic evolutionary lineages in several moa genera. These may eventually be classified as species or subspecies; Megalapteryx benhami (Archey) which is synonymised with M. didinus (Owen) because the bones of both share all essential characters. Size differences can be explained by a north-south cline combined with temporal variation such that specimens were larger during the Otiran glacial period (the last ice age in New Zealand). Similar temporal size variation is known for the North Island Pachyornis mappini.[13] Some of the other 'Large' ranges in variation for moa species can probably be explained by similar geographic and temporal factors.[14]
+
+
+
+
+Emeus crassus and Pachyornis elephantopus
+
+
+
+
+
+
+Anomalopteryx didiformis skeleton
+
+
+The currently recognised genera and species are:[6]
+
+
+Order †Dinornithiformes - Moa
+
+Family Dinornithidae
+
+Genus Dinornis
+
+North Island Giant Moa, Dinornis novaezealandiae (North Island, New Zealand)
+South Island Giant Moa, Dinornis robustus (South Island, New Zealand)
+Dinornis new lineage A (South Island, New Zealand)
+Dinornis new lineage B (South Island, New Zealand)
+
+
+
+
+Family Megalapterygidae
+
+
+
+Upland Moa, Megalapteryx didinus (South Island, New Zealand)
+
+
+
+
+Family Emeidae
+
+
+
+Bush Moa, Anomalopteryx didiformis (South Island, New Zealand)
+Coastal Moa, Euryapteryx curtus (North and South Island, New Zealand)
+Eastern Moa, Emeus crassus (South Island, New Zealand)
+
+
+Genus Pachyornis
+
+Heavy-footed Moa, Pachyornis elephantopus (South Island, New Zealand)
+Mantell's Moa, Pachyornis geranoides (South Island, New Zealand)
+Crested Moa, Pachyornis australis (South Island, New Zealand)[2]
+Pachyornis new lineage A (North Island, New Zealand)
+Pachyornis new lineage B (South Island, New Zealand)
+
+
+
+
+
+
+
+The following cladogram shows the genetic relationships within Dinornithidae, based on Bunce et al. (2009).[10]
+
+
+
+
+
+
+
+
+
+Dinornithidae
+
+
+
+
+
+Dinornis robustus
+
+
+
+
+
+
+
+
+Dinornis novaezealandiae
+
+
+
+
+
+
+
+
+
+
+
+
+Megalapteryidae
+
+
+
+
+
+Megalapteryx didinus
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Emeidae
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+
+
+Pachyornis australis
+
+
+
+
+
+
+ 
+
+
+
+
+
+Pachyornis elephantopus
+
+
+
+
+
+
+
+
+Pachyornis geranoides
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+
+
+Anomalopteryx didiformis
+
+
+
+
+
+
+ 
+
+
+
+
+
+Emeus crassus
+
+
+
+
+
+
+
+
+Euryapteryx curtus
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Because moa are a group of flightless birds with no vestiges of wing bones, questions have been raised about how they arrived in New Zealand, and from where. There are many theories about the moa's arrival and radiation on New Zealand, but the most recent theory suggests that the moa arrived on New Zealand about 60 Mya and split from the basal moa species, Megalapteryx about 5.8 Mya[15] instead of the 18.5 Mya split suggested by Baker et al. (2005). This does not necessarily mean there was no speciation between the arrival 60 Mya and the basal split 5.8 Mya, but the fossil record is lacking and is it most likely that early moa lineages existed but went extinct before the basal split 5.8 Mya.[16] The Oligocene drowning maximum about 22 Mya, when only 18% of present-day New Zealand was above sea level, is very important in the moa radiation. Because the basal moa split occurred so recently (5.8 Mya), it was argued that ancestors of the Quaternary moa lineages could not have been present on both the South and North island remnants during the Oligocene drowning.[17] This does not imply that moa were previously absent from the North Island, but that only those from the South Island survived, because only the South Island was above sea level. Bunce et al. (2009) argued that moa ancestors survived on the South Island and then recolonized the North Island about 2 My later, when the two islands rejoined after 30 My of separation.[10] Bunce et al. also concluded that the highly complex structure of the moa lineage was caused by the formation of the Southern Alps about 6 My, and the habitat fragmentation on both islands resulting from Pleistocene glacial cycles, volcanism, and landscape changes.
+Description[edit]
+
+
+
+
+Size comparison between 4 moa species and a human. 1. D. novaezealandiae. 2. E.crassus. 3. A. didiformis 4. D. robustus
+
+
+Although moa were traditionally reconstructed in an upright position to create impressive height, analysis of their vertebral articulation indicates that they probably carried their heads forward,[18] in the manner of a kiwi. The spine attached to the rear of the head rather than the base indicating the horizontal position. This would have allowed them to graze on low-level vegetation, while being able to lift their heads and browse trees when necessary. This has resulted in a down sizing of the height of larger moa.
+Although there is no surviving record of what sounds moa made, some idea of their calls can be gained from fossil evidence. The trachea of moa were supported by many small rings of bone known as tracheal rings. Excavation of these rings from articulated skeletons has shown that at least two moa genera (Euryapteryx and Emeus) exhibited tracheal elongation, that is, their trachea were up to 1 metre (3 ft) long and formed a large loop within the body cavity.[18] These are the only ratites known to exhibit this feature, which is also present in several other bird groups including swans, cranes, and guinea fowl. The feature is associated with deep, resonant vocalisations that can travel long distances.
+Distribution and habitat[edit]
+Analyses of fossil moa bone assemblages have provided detailed data on the habitat preferences of individual moa species, and revealed distinctive regional moa faunas:[18][19][20][21][22][23][24]
+South Island[edit]
+
+
+
+
+Restoration of Dinornis robustus and Pachyornis elephantopus, both from the South Island
+
+
+The two main faunas identified in the South Island include: 1. The fauna of the high rainfall west coast beech (Nothofagus) forests that included Anomalopteryx didiformis (Bush Moa) and Dinornis robustus (South Island Giant Moa); and 2. The fauna of the dry rainshadow forest and shrublands east of the Southern Alps that included Pachyornis elephantopus (Heavy-footed Moa), Euryapteryx gravis, Emeus crassus and Dinornis robustus. The two other moa species that existed in the South Island; Pachyornis australis and Megalapteryx didinus might be included in a ‘subalpine fauna’, along with the widespread Dinornis robustus. P. australis is the rarest of the moa species, and the only one yet to have been found in Maori middens. Its bones have been found in caves in the northwest Nelson and Karamea districts (such as Honeycomb Hill Cave), and some sites around the Wanaka district. M. didinus is more widespread. Its name "upland moa" reflects the fact its bones are commonly found in the subalpine zone. However, it also occurred down to sea level where there was suitable steep and rocky terrain (such as Punakaiki on the west coast and Central Otago).
+North Island[edit]
+Significantly less is known about North Island paleofaunas, due to a paucity of fossil sites compared to the South Island; however, the basic pattern of moa-habitat relationships were the same.[18] Although the South Island and the North Island shared some moa species (Euryapteryx gravis, Anomalopteryx didiformis), most were exclusive to one island, reflecting divergence over several thousand years since lower sea level had resulted in a land bridge across Cook Strait. In the North Island, Dinornis novaezealandiae and Anomalopteryx didiformis dominated in high rainfall forest habitat; a similar pattern to the South Island. The other moa species present in the North Island (Euryapteryx gravis, E. curtus, and Pachyornis geranoides) tended to inhabit drier forest and shrubland habitats. P. geranoides occurred throughout the North Island, while the distributions of E. gravis and E. curtus were almost mutually exclusive, the former having only been found in coastal sites around the southern half of the North Island.[18]
+Behaviour and ecology[edit]
+
+
+
+
+Preserved footprints of a D. robustus found in 1911
+
+
+Approximately eight moa trackways, with fossilised moa footprint impressions in fluvial silts have been found throughout the North Island, including Waikanae Creek (1872), Napier (1887), Manawatu River (1895), Marton (1896), Palmerston North (1911) (see photograph to left), Rangitikei River (1939), and underwater in Lake Taupo (1973). Analysis of the spacing of these tracks indicate walking speeds of between 3 and 5 km/h (1.75–3 mph).[18]
+Diet[edit]
+
+
+
+
+D. novaezealandiae skull at the Museum für Naturkunde, Berlin
+
+
+Although feeding moa were never observed by scientists, their diet has been deduced from fossilised contents of their gizzards[25][26] and coprolites,[27] as well as indirectly through morphological analysis of skull and beak, and stable isotope analysis of their bones.[18] Moa fed on a range of plant species and plant parts, including fibrous twigs and leaves taken from low trees and shrubs. The beak of Pachyornis elephantopus was analogous to a pair of secateurs, and was able to clip the fibrous leaves of New Zealand flax (Phormium tenax) and twigs up to at least 8 mm in diameter.[26] Like many other birds, moa swallowed gizzard stones (gastroliths), which were retained in their muscular gizzards, providing a grinding action that allowed them to eat coarse plant material. These stones were commonly smooth, rounded quartz pebbles, but stones over 110 millimetres (4 in) in length have been found amongst preserved moa gizzard contents.[26] Dinornis gizzards could often contain several kilograms of stones.[18]
+Reproduction[edit]
+It has been long suspected that the pairs of species of moa described as Euryapteryx curtus/E. exilis, Emeus huttonii/E. crassus, and Pachyornis septentrionalis/P. mappini constituted males and females, respectively. This has been confirmed by analysis for sex-specific genetic markers of DNA extracted from bone material.[9] For example, prior to 2003 there were three species of Dinornis recognised: South Island giant moa (D. robustus), North Island giant moa (D. novaezealandiae) and slender moa (D. struthioides). However, DNA showed that all D. struthioides were in fact males, and all D. robustus were females. Therefore the three species of Dinornis were reclassified as two species, one each formerly occurring on New Zealand's North Island (D. novaezealandiae) and South Island (D. robustus);[9][28] robustus however, comprises three distinct genetic lineages and may eventually be classified as many species, as discussed above.
+Examination of growth rings present in moa cortical bone has revealed that these birds were K-selected, as are many other large endemic New Zealand birds.[8] They are characterised by having low fecundity and a long maturation period, taking approximately ten years to reach adult size. The large Dinornis species took the same length of time to reach adult size as small moa species, and as a result had accelerated rate of skeletal growth during their juvenile years.[8]
+
+
+
+
+Egg and embryo fragments of Emeus crassus
+
+
+There is no evidence to suggest that moa were colonial nesters. While evidence of moa nesting is often inferred from accumulations of eggshell fragments found in caves and rock shelters, little evidence exists of the nests themselves. Excavations of rock shelters in the eastern North Island during the 1940s uncovered moa nests, which were described as "small depressions obviously scratched out in the soft dry pumice".[29] Moa nesting material has also been recovered from rock shelters in the Central Otago region of the South Island, where the dry climate has resulted in the preservation of plant material used to construct the nesting platform (including twigs that have been clipped by moa bills).[30] Seeds and pollen within moa coprolites found amongst the nesting material provide evidence that the nesting season was late spring to summer.[30]
+Fragments of moa eggshell are often encountered in archaeological sites and sand dunes around the New Zealand coast. Thirty six whole moa eggs exist in museum collections and vary greatly in size (from 120–240 millimetres (4.7–9.4 in) in length and 91–178 millimetres (3.6–7.0 in) wide).[31] The outer surface of moa eggshell is characterised by small slit-shaped pores. The eggs of most moa species were white, although those of the upland moa (Megalapteryx didinus) were blue-green. A 2010 study by Huynen et al. has found that the eggs of certain species were fragile, only around a millimeter in thickness: "Unexpectedly, several thin-shelled eggs were also shown to belong to the heaviest moa of the genera Dinornis, Euryapteryx, and Emeus, making these, to our knowledge, the most fragile of all avian eggs measured to date. Moreover, sex-specific DNA recovered from the outer surfaces of eggshells belonging to species of Dinornis and Euryapteryx suggest that these very thin eggs were likely to have been incubated by the lighter males. The thin nature of the eggshells of these larger species of moa, even if incubated by the male, suggests that egg breakage in these species would have been common if the typical contact method of avian egg incubation was used."[32] Despite the bird's extinction, the high yield of DNA available from recovered fossilized eggs has allowed the moa to have its genome sequenced.[33]
+Relationship with humans[edit]
+Extinction[edit]
+
+
+
+
+Artist's rendition of a Haast's Eagle attacking moa
+
+
+Before the arrival of human settlers, the moa's only predator was the massive Haast's Eagle.
+The Māori arrived sometime before A.D. 1300, and all moa genera were soon driven to extinction by hunting and, to a lesser extent, by habitat reduction due to forest clearance. By about A.D. 1400, almost all moa are generally thought to have become extinct, along with the Haast's Eagle which had relied on them for food. Recent research using carbon-14 dating of middens strongly suggests that the events leading to extinction took less than a hundred years,[34] rather than a period of exploitation lasting several hundred years, which is what had previously been hypothesized.
+Some authors have speculated that a few Megalapteryx didinus may have persisted in remote corners of New Zealand until the 18th and even 19th centuries, but this view is not widely accepted.[35] Some Māori hunters claimed to be in pursuit of the moa as late as the 1770s. Whalers and sealers recalled seeing monstrous birds along the coast of the South Island, and in the 1820s, a man named George Pauley made an unverified claim of seeing a moa in the Otago Region of New Zealand.[36][37] An expedition in the 1850s under Lieutenant A. Impey reported two Emu-like birds on a hillside on the South Island; an 1861 story from the Nelson Examiner told of three-toed footprints measuring 36 centimetres (14 in) between Takaka and Riwaka that were found by a surveying party; and finally in 1878 the Otago Witness published an additional account from a farmer and his shepherd.[37] An 80-year-old woman, Alice Mckenzie, claimed in 1959 that she had seen a moa in Fiordland bush in 1887, and again on a Fiordland beach when she was 17 years old. She claimed that her brother had also seen a moa on another occasion.[38]
+Surviving remains[edit]
+
+
+
+
+Sir Richard Owen holding the first discovered moa fossil and standing with a Dinornis skeleton
+
+
+Joel Polack, a trader who lived on the East Coast of the North Island from 1834 to 1837, recorded in 1838 that he had been shown "several large fossil ossifications" found near Mt Hikurangi. He was certain that these were the bones of a species of emu or ostrich, noting that "the Natives add that in times long past they received the traditions that very large birds had existed, but the scarcity of animal food, as well as the easy method of entrapping them, has caused their extermination". Polack further noted that he had received reports from Māori that a "species of Struthio" still existed in remote parts of the South Island.[39][40] Dieffenbach[41] also refers to a fossil from the area near Mt Hikurangi, and surmises that it belongs to "a bird, now extinct, called Moa (or Movie) by the natives". In 1839 John W. Harris, a Poverty Bay flax trader who was a natural history enthusiast, was given a piece of unusual bone by a Māori who had found it in a river bank. He showed the 15 centimetres (6 in) fragment of bone to his uncle, John Rule, a Sydney surgeon, who sent it to Richard Owen, who at that time was working at the Hunterian Museum at the Royal College of Surgeons in London.[37] Owen became a noted biologist, anatomist, and paleontologist at the British Museum.
+Owen puzzled over the fragment for almost four years. He established it was part of the femur of a big animal, but it was uncharacteristically light and honeycombed. Owen announced to a skeptical scientific community and the world that it was from a giant extinct bird like an ostrich, and named it Dinornis. His deduction was ridiculed in some quarters, but was proved correct with the subsequent discoveries of considerable quantities of moa bones throughout the country, sufficient to reconstruct skeletons of the birds.[37]
+In July 2004, the Natural History Museum in London placed on display the moa bone fragment Owen had first examined, to celebrate 200 years since his birth, and in memory of Owen as founder of the museum.
+Since the discovery of the first moa bones in the late 1830s, thousands more have been found. They occur in a range of late Quaternary and Holocene sedimentary deposits, but are most common in three main types of site: caves, dunes, and swamps.
+
+
+
+
+Palaeontologists working on moa bone deposits in the 'Graveyard', Honeycomb Hill Cave System. This cave is a closed scientific reserve.
+
+
+Bones are commonly found in caves or ‘'tomo'’ (the Maori word for doline or sinkhole; often used to refer to pitfalls or vertical cave shafts). The two main ways that the moa bones were deposited in such sites were: 1. birds that entered the cave to nest or escape bad weather, and subsequently died in the cave; and 2. birds that fell into a vertical shaft and were unable to escape. Moa bones (and the bones of other extinct birds) have been found in caves throughout New Zealand, especially in the limestone/marble areas of northwest Nelson, Karamea, Waitomo, and Te Anau.
+Moa bones and eggshell fragments sometimes occur in active coastal sand dunes, where they may erode from paleosols and concentrate in ‘blowouts’ between dune ridges. Many such moa bones predate human settlement, although some originate from Maori midden sites, which frequently occur in dunes near harbours and river mouths (for example the large moa hunter sites at Shag River, Otago, and Wairau Bar, Marlborough).
+
+
+
+
+Excavation in Kapua Swamp, 1894
+
+
+Densely intermingled moa bones have been encountered in swamps throughout New Zealand. The most well-known example is at Pyramid Valley in north Canterbury,[42] where bones from at least 183 individual moa have been excavated. Many explanations have been proposed to account for how these deposits formed, ranging from poisonous spring waters to floods and wildfires. However the currently accepted explanation is that the bones accumulated at a slow rate over thousands of years, from birds that had entered the swamps to feed and became trapped in the soft sediment.[43]
+Feathers and soft tissues[edit]
+
+
+
+
+Megalapteryx didinus head
+
+
+Several remarkable examples of moa remains have been found which exhibit soft tissues (muscle, skin, feathers), that were preserved through desiccation when the bird died in a naturally dry site (for example, a cave with a constant dry breeze blowing through it). Most of these specimens have been found in the semi-arid Central Otago region, the driest part of New Zealand. These include:
+
+Dried muscle on bones of a female Dinornis robustus found at Tiger Hill in the Manuherikia River Valley by gold miners in 1864[44] (currently held by Yorkshire Museum)
+Several bones of Emeus crassus with muscle attached, and a row of neck vertebrae with muscle, skin and feathers collected from Earnscleugh Cave near the town of Alexandra in 1870[45] (currently held by Otago Museum)
+An articulated foot of a male Dinornis giganteus with skin and foot pads preserved, found in a crevice on the Knobby Range in 1874[46] (currently held by Otago Museum)
+The type specimen of Megalapteryx didinus found near Queenstown in 1878[44] (currently held by Natural History Museum, London; see photograph of foot on this page)
+The lower leg of Pachyornis elephantopus, with skin and muscle, from the Hector Range in 1884;[35][46] (currently held by the Zoology Department, Cambridge University)
+The complete feathered leg of a Megalapteryx didinus from Old Man Range in 1894[47] (currently held by Otago Museum)
+The head of a Megalapteryx didinus found near Cromwell sometime prior to 1949[48] (currently held by the Museum of New Zealand).
+
+Two specimens are known from outside the Central Otago region:
+
+A complete foot of Megalapteryx didinus found in a cave on Mount Owen near Nelson in 1980s[49] (currently held by the Museum of New Zealand)
+A skeleton of Anomalopteryx didiformis with muscle, skin and feather bases collected from a cave near Te Anau in 1980.[50]
+
+
+
+
+
+Preserved Megalapteryx foot, Natural History Museum
+
+
+In addition to these specimens, loose moa feathers have been collected from caves and rockshelters in the southern South Island, and based on these remains, some idea of the moa plumage has been achieved. The preserved leg of Megalapteryx didinus from the Old Man Range reveals that this species was feathered right down to the foot. This is likely to have been an adaptation to living in high altitude, snowy environments, and is also seen in the Darwin’s Rhea, which lives in a similar seasonally snowy habitat.[18] Moa feathers are up to 23 centimetres (9 in) long, and a range of colours have been reported, including reddish-brown, white, yellowish and purplish.[18] Dark feathers with white or creamy tips have also been found, and indicate that some moa species may have had plumage with a speckled appearance.[51]
+Claims of moa survival[edit]
+
+
+
+
+Early 20th century reconstruction of a moa hunt
+
+
+The moa is thought to be extinct, but there has been occasional speculation—since at least the late 19th century,[52][53] and as recently as 1993[54][55][56] and 2008[57]—that some moa may still exist, particularly in the rugged wilderness of South Westland and Fiordland. Cryptozoologists and others reputedly continue to search for them,[58] but their claims and supporting evidence (such as of purported footprints[57] or blurry photos) have earned little attention from mainstream experts, and are widely considered pseudoscientific.[35]
+The rediscovery of the takahē in 1948 after none had been seen since 1898 showed that rare birds may exist undiscovered for a long time. However, the takahē is a much smaller bird than the moa, and was rediscovered after its tracks were identified—yet no reliable evidence of moa tracks has ever been found, and experts still contend that moa survival is extremely unlikely, since this would involve the ground-dwelling birds living unnoticed for over five hundred years in a region visited often by hunters and hikers.[57]
+In Literature[edit]
+The 1979 Anthology of New Zealand Poetry [59] included by poem by Allen Curnow entitled "The Skeleton of the Great Moa in the Canterbury Museum, Christchurch" [60]
+
+Footnotes[edit]
+
+
+^ Brands, S. (2008)
+^ a b Stephenson, Brent (2009)
+^ In Māori words do not use s to indicate plural, and thus "moa" is both plural and singular. Some English speakers apply this rule to their use of the word within English, although others use the regularly formed English plural "moas".
+^ In some other Polynesian languages (Tahitian, Cook Islands Maori, Samoan...), "moa" is the generic name for chicken, fowl (Dictionary of the Tahitian Academy {fr/ty}; Jasper Buse, Raututi Taringa, "Cook islands Maori Dictionary" (1995); Samoan lexicon)
+^ a b c OSNZ (2009)
+^ a b Davies, S. J. J. F. (2003)
+^ Phillips, et al. (2010)
+^ a b c Turvey et al. (2005)
+^ a b c Huynen, L. J.,et al. (2003)
+^ a b c d Bunce, M., et al. (2003)
+^ Gill, B. J. (2010). "Regional comparisons of the thickness of moa eggshell fragments (Aves: Dinornithiformes). In Proceedings of the VII International Meeting of the Society of Avian Paleontology and Evolution, ed. W.E. Boles and T.H. Worthy". Records of the Australian Museum 62: 115–122. doi:10.3853/j.0067-1975.62.2010.1535.  edit
+^ Worthy, T. H.; Scofield, R. P. (2012). "Twenty-first century advances in knowledge of the biology of moa (Aves: Dinornithiformes): A new morphological analysis and moa diagnoses revised". New Zealand Journal of Zoology 39 (2): 87. doi:10.1080/03014223.2012.665060.  edit
+^ Worthy (1987)
+^ Worthy, et al. (1988)
+^ Bunce, M.; Worthy, Phillips, Holdaway (2009). "The evolutionary history of the extinct ratite moa and New Zealand Neogene paleogeography". Proceedings of the National Academy of Science 106: 20646–20651. 
+^ Allentoft, Morten; Nicolas Rawlence (2012). "Moa’s ark or volant ghosts of Gondwana? Insights from nineteen years of ancient DNA research on the extinct moa (Aves: Dinornithiformes) of New Zealand". Annals of Anatomy 194: 36–51. 
+^ Allentoft, Morten; Nicloas Rawlence (2012). "Moa’s ark or volant ghosts of Gondwana? Insights from nineteen years of ancient DNA research on the extinct moa (Aves: Dinornithiformes) of New Zealand". Annals of Anatomy 194: 36–51. 
+^ a b c d e f g h i j Worthy & Holdaway (2002)
+^ Worthy, T. H. (1998)a
+^ Worthy, T. H. (1998)b
+^ Worthy, T. H. & Holdaway, R. N. (1993)
+^ Worthy, T. H. & Holdaway, R. N. (1994)
+^ Worthy, T. H. & Holdaway, R. N. (1995)
+^ Worthy, T. H. & Holdaway, R. N. (1996)
+^ Burrows, et al. (1981)
+^ a b c Wood (2007)
+^ Horrocks, et al. (2004)
+^ Bunce, M.; Worthy, T. H.; Ford, T.; Hoppitt, W.; Willerslev, E.; Drummond, A.; Cooper, A. (2003). "Extreme reversed sexual size dimorphism in the extinct New Zealand moa Dinornis". Nature 425 (6954): 172–175. doi:10.1038/nature01871. PMID 12968178.  edit
+^ Hartree (1999)
+^ a b Wood, J. R. (2008)
+^ Gill (2007)
+^ Huynen, Leon; Gill, Brian J.; Millar, Craig D.; and Lambert, David M. (2010)
+^ Yong, Ed. (2010)
+^ Holdaway & Jacomb (2000)
+^ a b c Anderson (1989)
+^ Purcell, Rosamond (1999)
+^ a b c d Fuller, Errol (1987)
+^ http://www.radionz.co.nz/audio/soundarchives/feature/alice_mckenzie_and_the_moa
+^ Polack, J. S. (1838)
+^ Hill, H. (1913)
+^ Dieffenbach, E. (1843)
+^ Holdaway, R. N. & Worthy, T. H. (1997)
+^ Wood, J. R., et al. (2008)
+^ a b Owen, R. (1879)
+^ Hutton, F. W. & Coughtrey, M. (1875)
+^ a b Buller, W. L. (1888)
+^ Hamilton, A. (1894)
+^ Vickers-Rich, P., et al. (1995)
+^ Worthy, T. H. (1989)
+^ Forrest, R. M. (1987)
+^ Rawlence, N. J.; Wood, J. R.; Armstrong, K. N.; Cooper, A. (2009). "DNA content and distribution in ancient feathers and potential to reconstruct the plumage of extinct avian taxa". Proceedings of the Royal Society B: Biological Sciences 276 (1672): 3395. doi:10.1098/rspb.2009.0755.  edit
+^ Gould, C. (1886)
+^ Heuvelmans, B (1959)
+^ Animal X classic (2003)
+^ Worthy, Trevor H. (2009)
+^ Dutton, Dennis (1994)
+^ a b c Laing, Doug (2008)
+^ Hall, Jamie (2006)
+^ O'Sullivan, V. (Ed.). (1979). An anthology of twentieth century New Zealand poetry. Wellington: Oxford University Press.
+^ [1] The Skeleton of the Great Moa in the Canterbury Museum, Christchurch
+
+
+See also[edit]
+
+List of extinct New Zealand animals (birds)
+Late Quaternary prehistoric birds
+Island gigantism
+Moa-nalo, an extinct gigantic goose-like duck from the Hawaiian Islands.
+Megafauna
+
+References[edit]
+
+
+Anderson, A. (1989). "On evidence for the survival of moa in European Fiordland". New Zealand Journal of Ecology 12 (Supplement): 39–44. 
+Animal X TV (Aug 2003). "Animal X Classic". Retrieved Feb 14 2011. 
+Baker, Allan J.; Huynen, Leon J.; Haddrath, Oliver; Millar, Craig D. and Lambert, David M. (2005). "Reconstructing the tempo and mode of evolution in an extinct clade of birds with ancient DNA: The giant moas of New Zealand". PNAS 102 (23): 8257–8262. doi:10.1073/pnas.0409435102. PMC 1149408. PMID 15928096. 
+Brands, Sheila (August 14, 2008). "Systema Naturae 2000 / Classification, Order Dinornithiformes". Project: The Taxonomicon. Retrieved Feb 04 2009. 
+Buller, W.L. (1888). A history of the birds of New Zealand. London: Buller. 
+Bunce, Michael; Worthy, Trevor H.; Ford, Tom; Hoppitt, Will; Willerslev, Eske; Drummond, Alexei and Cooper, Alan (2003). "Extreme reversed sexual size dimorphism in the extinct New Zealand moa Dinornis". Nature 425 (6954): 172–174. doi:10.1038/nature01871. PMID 12968178. 
+Burrows, C.; et al. (1981). "The diet of moas based on gizzard contents samples from Pyramid Valley, North Canterbury, and Scaifes Lagoon, Lake Wanaka, Otago". Records of the Canterbury Museum 9: 309–336. 
+Davies, S.J.J.F. (2003). "Moas". In Hutchins, Michael. Grzimek's Animal Life Encyclopedia. 8 Birds I Tinamous and Ratites to Hoatzins (2 ed.). Farmington Hills, MI: Gale Group. pp. 95–98. ISBN 0-7876-5784-0. 
+Dawkins, Richard (2004). A Pilgrimage to the Dawn of Life, The Ancestor's Tale. Boston: Houghton Mifflin. p. 292. ISBN 0-618-00583-8. 
+Dieffenbach, E. (1843). Travels in New Zealand II. London: John Murray. p. 195. ISBN 1-113-50843-4. 
+Dutton, Dennis (1994). "Skeptics Meet Moa Spotters". New Zealand Skeptics Online. New Zealand: New Zealand Committee for the Scientific Investigation of Claims of the Paranormal. Retrieved Feb 14 2011. 
+Forrest, R.M. (1987). "A partially mummified skeleton of Anomalopteryx didiformis from Southland". Journal of the Royal Society of New Zealand 17: 399–408. 
+Fuller, Errol (1987). Bunney, Sarah, ed. Extinct Birds. London, England: The Rainbird Publishing Group. ISBN 0-8160-1833-2 
+Gill, BJ. (2007). "Eggshell characteristics of moa eggs (Aves: Dinornithiformes)". Journal of the Royal Society of New Zealand 37 (4): 139–150. doi:10.1080/03014220709510542. 
+Gould, Charles (1886). Mythical Monsters. W.H. Allen & Co. 
+Hall, Jamie (2006). "Moas and Other Giant Flightless Birds". The Cryptid Zoo. Retrieved Feb 14 2011. 
+Hamilton, A. (1894). "On the feathers of a small species of moa (Megalapteryx didinus) found in a cave at the head of the Waikaia River, with a notice of a moa-hunters camping place on the Old Man Range". Transactions and Proceedings of the New Zealand Institute 27: 232–238. 
+Hartree, WH. (1999). "A preliminary report on the nesting habits of moas in the East Coast of the North Island". Notornis 46: 457–460. 
+Heuvelmans, Bernard (1959). On the Track of Unknown Animal. New York, NY: Hill & Wang. 
+Hill, H. (1913). "The Moa—Legendary, Historical and Geographical: Why and When the Moa disappeared". Transactions and Proceedings of the Royal Society of New Zealand 46: 330. 
+Holdaway, R. N.; Jacomb, C. (2000). "Rapid Extinction of the Moas (Aves: Dinornithiformes): Model, Test, and Implications". Science 287 (5461): 2250–2254. doi:10.1126/science.287.5461.2250. PMID 10731144. 
+Holdaway, R.N.; Worthy, T.H. (1997). "A reappraisal of the late Quaternary fossil vertebrates of Pyramid Valley Swamp, North Canterbury". New Zealand Journal of Zoology 24: 69–121. doi:10.1080/03014223.1997.9518107. 
+Horrocks, M.; et al. (2004). "Plant remains in coprolites: diet of a subalpine moa (Dinornithiformes) from southern New Zealand". Emu 104 (2): 149–156. doi:10.1071/MU03019. 
+Hutton, F.W.; Coughtrey, M. (1875). "Notice of the Earnscleugh Cave". Transactions and Proceedings of the New Zealand Institute 7: 138–144. 
+Huynen, Leon; Gill, Brian J.; Millar, Craig D.; Lambert, David M. (30 Aug 2010). "Ancient DNA Reveals Extreme Egg Morphology and Nesting Behavior in New Zealand's Extinct Moa". Proceedings of the National Academy of Sciences 107 (30): 16201. doi:10.1073/pnas.0914096107. 
+Huynen, Leon J.; Millar, Craig D.; Scofield, R. P. and Lambert, David M. (2003). "Nuclear DNA sequences detect species limits in ancient moa". Nature 425 (6954): 175–178. doi:10.1038/nature01838. PMID 12968179. 
+Laing, Doug (Jan 05 2008). "Birdman says moa surviving in the Bay". Hawkes Bay Today. APN News & Media Ltd. Retrieved Feb 14 2011. 
+Millener, P. R. (1982). "And then there were twelve: the taxonomic status of Anomalopteryx oweni (Aves: Dinornithidae)". Notornis 29 (1): 165–170. 
+OSNZ (Jan 2009). "New Zealand Recognised Bird Names (NZRBN) database". Ornithological Society of New Zealand Inc. Retrieved Feb 14 2011. 
+Owen, Richard (1879). Memoirs on the Extinct Wingless Birds of New Zealand, with an Appendix of Those of England, Australia, Newfoundland, Mauritius and Rodriguez. London: John van Voorst. 
+Phillips, Matthew J.; Gibb Gillian C.; Crimp Elizabeth A. and Penny, David (2010). "Tinamous and Moa Flock Together: Mitochondrial Genome Sequence Analysis Reveals Independent Losses of Flight among Ratites". Systematic Biology 59 (1): 90–107. doi:10.1093/sysbio/syp079. PMID 20525622. Retrieved Feb 01 2010. 
+Polack, J. S. (1838). New Zealand: Being a Narrative of Travels and Adventures During a Residence in that Country Between the Years 1831 and 1837 I. London: Richard Bentley. pp. 303, 307. 
+Purcell, Rosamond (1999). Swift as a Shadow. Mariner Books. p. 32. ISBN 0-395-89228-7. 
+Stephenson, Brent (01/05/09). "New Zealand Recognised Bird Names (NZRBN) database". New Zealand: Ornithological Society of New Zealand. Retrieved 05/10/10. 
+Turvey, Samuel T.; Green, Owen R. and Holdaway, Richard N. (2005). "Cortical growth marks reveal extended juvenile development in New Zealand moa". Nature 435 (7044): 940–943. doi:10.1038/nature03635. PMID 15959513. 
+Vickers-Rich, P.; et al. (1995). "Morphology, myology, collagen and DNA of a mummified moa, Megalapteryx didinus (Aves: Dinornithiformes) from New Zealand". Tuhinga: Records of the Museum of New Zealand Te Papa Tongarewa 4: 1–26. 
+Wood, JR. (2007). "Moa gizzard content analyses: further information on the diet of Dinornis robustus and Emeus crassus, and the first evidence for the diet of Pachyornis elephantopus (Aves: Dinornithiformes)". Records of the Canterbury Museum 21: 27–39. 
+Wood, JR. (2008). "Moa (Aves: Dinornithiformes) nesting material from rockshelters in the semi-arid interior of South Island, New Zealand". Journal of the Royal Society of New Zealand 38 (3): 115–129. doi:10.1080/03014220809510550. 
+Wood, J.R.; Worthy, T.H., Rawlence, N.J., Jones, S.M., Read, S.E. (2008). "A deposition mechanism for Holocene miring bone deposits, South Island, New Zealand". Journal of Taphonomy 6: 1–20. 
+Worthy, T.H. (1989). "Mummified moa remains from Mt. Owen, northwest Nelson". Notornis 36: 36–38. 
+Worthy, T.H. (1998a). "Quaternary fossil faunas of Otago, South Island, New Zealand". Journal of the Royal Society of New Zealand 28 (3): 421–521. doi:10.1080/03014223.1998.9517573. 
+Worthy, T.H. (1998b). "The Quaternary fossil avifauna of Southland, South Island, New Zealand". Journal of the Royal Society of New Zealand 28 (4): 537–589. doi:10.1080/03014223.1998.9517575. 
+Worthy, T.H.; Holdaway, R.N. (1993). "Quaternary fossil faunas from caves in the Punakaiki area, West Coast, South Island, New Zealand". Journal of the Royal Society of New Zealand 23: 147–254. 
+Worthy, T.H.; Holdaway, R.N. (1994). "Quaternary fossil faunas from caves in Takaka Valley and on Takaka Hill, northwest Nelson, South Island, New Zealand". Journal of the Royal Society of New Zealand 24 (3): 297–391. doi:10.1080/03014223.1994.9517474. 
+Worthy, T.H.; Holdaway, R.N. (1995). "Quaternary fossil faunas from caves on Mt. Cookson, North Canterbury, South Island, New Zealand". Journal of the Royal Society of New Zealand 25 (3): 333–370. doi:10.1080/03014223.1995.9517494. 
+Worthy, T.H.; Holdaway, R.N. (1996). "Quaternary fossil faunas, overlapping taphonomies, and paleofaunal reconstructions in North Canterbury, South Island, New Zealand". Journal of the Royal Society of New Zealand 26 (3): 275–361. doi:10.1080/03014223.1996.9517514. 
+Worthy, Trevor H.; Holdaway, Richard N. (2002). The Lost World of the Moa. Bloomington: Indiana University Press. ISBN 0-253-34034-9. 
+Worthy, Trevor H. (Mar 2009). "A moa sighting?". Te Ara - the Encyclopedia of New Zealand. Retrieved Feb 14 2011. 
+Yong, Ed (Mar 2010). "DNA from the Largest Bird Ever Sequenced from Fossil Eggshells". Discover Magazine. Retrieved Feb 14 2011. 
+
+
+External links[edit]
+
+
+
+Wikimedia Commons has media related to Moa.
+
+
+
+
+
+Wikispecies has information related to: Moa
+
+
+
+TerraNature list of New Zealand's extinct birds
+Moa Pages
+TerraNature page on Moa
+Tree of Life classification and references
+Moa in Te Ara - the Encyclopedia of New Zealand
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Cryptozoology and cryptobotany
+
+
+
+
+
+
+
+
+
+
+ 
+Overview
+
+
+
+
+
+
+
+
+
+
+
+Core topics
+
+
+
+
+Cryptid
+List of cryptids
+Zoology
+Botany
+Megafauna discovered in modern times
+Pseudoscience
+
+
+
+
+
+
+
+
+
+Cryptozoologists
+
+
+
+
+Bernard Heuvelmans
+Karl Shuker
+Jonathan Downes
+Jon-Erik Beckjord
+John Bindernagel
+Richard Freeman
+Loren Coleman
+Alexandr Mikhailovych Kondratov
+Roy Mackal
+Ivan T. Sanderson
+Organizations
+
+
+
+
+
+
+
+
+
+Books and television
+
+
+
+
+Animal X
+Arthur C. Clarke's Mysterious World
+Beast Hunter
+Beast Legends
+Destination Truth
+Fact or Faked: Paranormal Files
+Fortean TV
+In Search of...
+Is It Real?
+Lost Tapes
+MonsterQuest
+On the Track of Unknown Animals
+Sasquatch: Legend Meets Science
+The X Creatures
+The Secret Saturdays
+Weird Travels
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Zoological cryptids
+
+
+
+
+
+
+
+
+
+
+
+Africa
+
+
+
+
+Adjule
+Agogwe
+Emela-ntouka
+Ennedi tiger
+Gambo
+Grootslang
+Gustave
+Inkanyamba
+Kongamato
+Mbielu-Mbielu-Mbielu
+Mokele-mbembe
+Malawi terror beast
+Mamlambo
+Muhuru
+Nandi Bear
+Ngoubou
+Olitiau
+Nguma-monene
+Popobawa
+Salawa
+Trunko
+Zanzibar Leopard
+
+
+
+
+
+
+
+
+
+Asia
+
+
+
+
+Ahool
+Akkorokamui
+Almas
+Amomongo
+Ayia Napa sea monster
+Barmanou
+Batutut
+Bergman's Bear
+Brosno dragon
+Bukit Timah Monkey Man
+Buru
+Cat-fox
+Devil Bird
+Hibagon
+Issie
+Kappa
+Kting Voar
+Kussie
+Lake Tianchi Monster
+Lake Van Monster
+Maltese Tiger
+Mongolian Death Worm
+Monkey-man of Delhi
+Orang Pendek
+Phaya Naga
+Qilin
+Ropen
+Sigbin
+Sarimanok
+Sumxu
+Tsuchinoko
+Veo
+Yeren
+Yeti
+
+
+
+
+
+
+
+
+
+Australasia-
+Oceania
+
+
+
+
+Amomongo
+Blue Mountains panther
+Bunyip
+Ebu Gogo
+Four Mile Globster
+Gippsland phantom cat
+Globster
+Manaul
+Megalania
+Moehau
+Zuiyo-maru carcass
+New Zealand Globster
+Queensland Tiger
+Siyokoy
+Tasmanian Globster
+Thylacoleo
+Tikbalang
+Waitoreke
+Yowie
+
+
+
+
+
+
+
+
+
+Europe
+
+
+
+
+Afanc
+Ayia Napa sea monster
+Beast of Gévaudan
+Bishop-fish
+British big cats
+Canvey Island Monster
+Dahu
+Dobhar-chú
+Each uisge
+Eachy
+Elwetritsch
+Fear liath
+Fish-man of Liérganes
+Giglioli's Whale
+Hebrides Blob
+Jenny Haniver
+Kellas Cat
+Kraken
+Lagarfljót Worm
+Lariosauro
+Lindworm
+Loch Ness Monster
+Morag
+Morgawr
+Muc-sheilch
+Owlman
+Sea monk
+Sea serpent
+Selma
+Skvader
+Storsjöodjuret
+Stronsay Beast
+Tatzelwurm
+Wolpertinger
+
+
+
+
+
+
+
+
+
+North
+America
+
+
+
+
+Altamaha-ha
+Bear Lake Monster
+Beast of Bladenboro
+Beast of Bray Road
+Beast of Busco
+Bermuda Blob
+Bermuda Blob 2
+Bessie
+Bigfoot
+Cadborosaurus willsi
+Champ
+Chessie
+Chupacabra
+Crawfordsville monster
+Dover Demon
+Flatwoods monster
+Fouke Monster
+Goatman
+Grassman
+Hodag
+Homo gardarensis
+Honey Island Swamp monster
+Hoop snake
+Huay Chivo
+Igopogo
+Iliamna Lake Monster
+Jersey Devil
+Kingstie
+Lake Worth Monster
+Lizard Man of Scape Ore Swamp
+Loveland frog
+Lusca
+MacFarlane's bear
+Manipogo
+Melon heads
+Michigan Dogman
+Minnesota Iceman
+Momo the Monster
+Montauk Monster
+Mothman
+Mussie
+Nantucket Blob
+Newfoundland Blob
+Nuk-luk
+Ogopogo
+Old Yellow Top
+Ozark Howler
+Panama Creature
+Pope Lick Monster
+Shunka Warakin
+Sidehill gouger
+Skunk Ape
+St. Augustine Monster
+Tahoe Tessie
+Thunderbird
+Trinity Alps giant salamander
+Tsul 'Kalu
+Turtle Lake Monster
+Waheela
+Wampus cat
+
+
+
+
+
+
+
+
+
+South
+America
+
+
+
+
+Ameranthropoides loysi
+Andean Wolf
+Bloop
+Cherufe
+Chilean Blob
+Chupacabra
+Giant anaconda
+Mapinguari
+Minhocão
+Mono Grande
+Mylodon
+Nahuelito
+Peuchen
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Botanical cryptids
+
+
+
+
+
+
+
+
+
+Raskovnik
+Man-eating tree
+Umdhlebi
+Vegetable Lamb of Tartary
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Birds of New Zealand
+
+
+
+
+
+
+Common Birds of New Zealand
+
+
+
+New Zealand Bellbird (korimako)
+New Zealand Fairy Tern (tara-iti)
+New Zealand Fantail (pīwakawaka)
+New Zealand Falcon (kārearea)
+New Zealand Grebe (weweia)
+New Zealand Parrot
+New Zealand Pigeon (kererū)
+New Zealand Plover (tūturiwhatu)
+New Zealand Purple Swamphen (pūkeko)
+New Zealand Robin (toutouwai)
+New Zealand Rockwren (pīwauwau)
+New Zealand Scaup (pāpango)
+New Zealand Pipit (pīhoihoi)
+Paradise Shelduck (pūtangitangi)
+
+
+
+
+
+
+
+
+
+
+
+
+
+Flightless Birds of New Zealand
+
+
+
+Great Spotted Kiwi (roroa)
+Little Spotted Kiwi (kiwi pukupuku)
+North Island Brown Kiwi (roroa)
+Southern Brown Kiwi (tokoeka)
+Yellow-eyed Penguin (hoiho)
+Kākāpō
+South Island Takahe (takahē)
+Fiordland Crested Penguin (tawaki)
+New Zealand Woodhen (weka)
+
+
+
+
+
+
+
+
+Endangered Endemic Birds of New Zealand (flyable)
+
+
+
+New Zealand Saddleback (tieke)
+New Zealand Fernbird (mātātā)
+New Zealand Kaka (kākā)
+New Zealand Storm Petrel (takahikare)
+Tui
+Kokako
+Long-tailed Cuckoo (koekoeā)
+Rifleman (tītipounamu)
+Spotted Shag (parekareka)
+Tomtit (miromiro)
+Whitehead (pōpokotea)
+Yellow-crowned Parakeet (kakariki)
+Black Stilt (kakī)
+New Zealand Blue Duck (whio)
+Yellowhead (mohua)
+South Island Alpine Parrot (kea)
+Stitchbird (hihi)
+
+
+
+
+
+
+
+
+Extinct Birds of New Zealand
+
+
+
+New Zealand Swan (wāna)
+New Zealand Thrush (piopio)
+New Zealand Little Bittern (kaoriki)
+New Zealand Quail (koreke)
+Huia
+Haast's Eagle (pouakai)
+Moa
+Adzebill
+Auckland Merganser (rakiraki maungahuka)
+Bush Wren (mātuhituhi)
+Chatham Kaka
+Laughing Owl (whēkau)
+Waitaha Penguin
+Eyles' Harrier
+Snipe-rail
+Scarlett's Shearwater
+North Island Takahē
+South Island Giant Moa
+New Zealand Owlet-nightjar
+New Zealand Musk Duck
+
+
+
+
+
+
+
+
+
+
+
+ 
+NewPP limit report
+CPU time usage: 7.400 seconds
+Real time usage: 7.849 seconds
+Preprocessor visited node count: 31129/1000000
+Preprocessor generated node count: 72332/1500000
+Post‐expand include size: 352419/2048000 bytes
+Template argument size: 102196/2048000 bytes
+Highest expansion depth: 39/40
+Expensive parser function count: 9/500
+Lua time usage: 0.300s
+Lua memory usage: 2.61 MB
+
+
+ Saved in parser cache with key enwiki:pcache:idhash:62366-0!*!0!!en!4!* and timestamp 20131001102054 
+								
+				Retrieved from "http://en.wikipedia.org/w/index.php?title=Moa&oldid=574678701"				
+												Categories: DinornithidaeExtinct flightless birdsHigher-level bird taxa restricted to New ZealandLate Quaternary prehistoric birdsExtinct birds of New ZealandRatitesBird extinctions since 1500Species made extinct by human activitiesAnimals with only two limbsMāori words and phrasesHidden categories: Articles using diversity taxoboxArticles with 'species' microformats												
+							
+		
+		
+			Navigation menu
+			
+				
+	Personal tools
+	
+Create accountLog in	
+
+				
+					
+	Namespaces
+	
+					Article
+					Talk
+			
+
+
+	
+		
+	Variants
+	
+		
+					
+	
+
+				
+				
+					
+	Views
+	
+					Read
+					Edit
+					View history
+			
+
+
+	Actions
+	
+		
+					
+	
+
+
+	Search
+	
+				
+																				
+		
+	
+
+				
+			
+			
+					
+				
+	Navigation
+	
+		
+			Main page
+			Contents
+			Featured content
+			Current events
+			Random article
+			Donate to Wikipedia
+		
+	
+
+
+	Interaction
+	
+		
+			Help
+			About Wikipedia
+			Community portal
+			Recent changes
+			Contact page
+		
+	
+
+
+	Toolbox
+	
+		
+			What links here
+			Related changes
+			Upload file
+			Special pages
+			Permanent link
+			Page information
+			Data item
+Cite this page		
+	
+
+
+	Print/export
+	
+		
+			Create a book
+			Download as PDF
+			Printable version
+		
+	
+
+
+	Languages
+	
+		
+			العربية
+			বাংলা
+			Беларуская
+			Български
+			Brezhoneg
+			Català
+			Česky
+			Cymraeg
+			Dansk
+			Deutsch
+			Diné bizaad
+			Eesti
+			Español
+			Esperanto
+			Euskara
+			فارسی
+			Français
+			Galego
+			한국어
+			Hrvatski
+			Bahasa Indonesia
+			Italiano
+			עברית
+			Basa Jawa
+			ქართული
+			Lietuvių
+			Magyar
+			Māori
+			Nederlands
+			日本語
+			Norsk bokmål
+			Occitan
+			Polski
+			Português
+			Runa Simi
+			Русский
+			Simple English
+			Slovenčina
+			Slovenščina
+			Suomi
+			Svenska
+			தமிழ்
+			ไทย
+			Türkçe
+			Українська
+			Tiếng Việt
+			Walon
+			吴语
+			粵語
+			中文
+			
+			Edit links
+		
+	
+
+			
+		
+		
+							
+											 This page was last modified on 27 September 2013 at 00:45.
+											Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. 
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+									
+							
+											Privacy policy
+											About Wikipedia
+											Disclaimers
+											Contact Wikipedia
+											Developers
+											Mobile view
+									
+										
+					
+						
+					
+					
+						
+					
+				
+						
+		
+		
+
+
+ Served by mw1095 in 8.067 secs. 
+	
+if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Moa","wgTitle":"Moa","wgCurRevisionId":574678701,"wgArticleId":62366,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles using diversity taxobox","Articles with 'species' microformats","Dinornithidae","Extinct flightless birds","Higher-level bird taxa restricted to New Zealand","Late Quaternary prehistoric birds","Extinct birds of New Zealand","Ratites","Bird extinctions since 1500","Species made extinct by human activities","Animals with only two limbs","Māori words and phrases"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Moa","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgVectorEnabledModules":{"collapsiblenav":true,"experiments":true},"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"templateEditor":false,"templates":false,"preview":false,"previewDialog":false,"publish":false,"toc":false},"wgArticleFeedbackv5Permissions":{"aft-reader":true,"aft-member":false,"aft-editor":false,"aft-monitor":false,"aft-administrator":false,"aft-oversighter":false,"aft-noone":false},"wgVisualEditor":{"isPageWatched":false,"magnifyClipIconURL":"//bits.wikimedia.org/static-1.22wmf18/skins/common/images/magnify-clip.png","pageLanguageCode":"en","pageLanguageDir":"ltr"},"wikilove-recipient":"","wikilove-anon":0,"wgGuidedTourHelpGuiderUrl":"Help:Guided tours/guider","wgULSAcceptLanguageList":[],"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia","aftv5Article":{"id":62366,"title":"Moa","namespace":0,"categories":["Animals with only two limbs","Articles using diversity taxobox","Articles with 'species' microformats","Bird extinctions since 1500","Dinornithidae","Extinct birds of New Zealand","Extinct flightless birds","Higher-level bird taxa restricted to New Zealand","Late Quaternary prehistoric birds","Māori words and phrases","Ratites","Species made extinct by human activities"],"permissionLevel":false},"wgWikibaseItemId":"Q452969"});
+}if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":false,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,
+"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"useeditwarning":1,"prefershttps":1,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"vector-simplesearch":1,"vector-collapsiblenav":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"aftv5-last-filter":null,"visualeditor-enable":0,"visualeditor-enable-experimental":0,"visualeditor-betatempdisable":0,"wikilove-enabled":1,"echo-subscriptions-web-page-review":true,"echo-subscriptions-email-page-review":false,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"echo-notify-show-link":true,"echo-show-alert":true,"echo-email-frequency":0,"echo-email-format":"html","echo-subscriptions-email-system":true,"echo-subscriptions-web-system":true,"echo-subscriptions-email-other":false,"echo-subscriptions-web-other":true,"echo-subscriptions-email-edit-user-talk":false,"echo-subscriptions-web-edit-user-talk":true,
+"echo-subscriptions-email-reverted":false,"echo-subscriptions-web-reverted":true,"echo-subscriptions-email-article-linked":false,"echo-subscriptions-web-article-linked":false,"echo-subscriptions-email-mention":false,"echo-subscriptions-web-mention":true,"echo-subscriptions-web-edit-thank":true,"echo-subscriptions-email-edit-thank":false,"gettingstarted-task-toolbar-show-intro":true,"uls-preferences":"","language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs446":false,"searchNs447":false
+,"searchNs710":false,"searchNs711":false,"searchNs828":false,"searchNs829":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-mySandbox":1,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:156d8fe0ae17f8afd74198057563e45d */
+}if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","ext.visualEditor.viewPageTarget.init","ext.wikimediaShopLink.core","ext.uls.init","ext.uls.interface","wikibase.client.init","ext.centralNotice.bannerController","skins.vector.js"]);
+}/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}if(window.mw){
+mw.loader.load(["mobile.desktop","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.cite","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","mw.MwEmbedSupport.style","ext.vector.collapsibleNav","ext.articleFeedbackv5.startup","ext.gettingstarted.logging","ext.gettingstarted.openTask","schema.HttpsSupport","ext.coreEvents.httpsSupport","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","mw.PopUpMediaTransform"],null,true);
+}

@@ -1,0 +1,420 @@
+
+
+
+Tenontosaurus - Wikipedia, the free encyclopedia
+
+
+
+
+
+
+
+
+
+
+
+
+a:lang(ar),a:lang(ckb),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:0de201fdea5d684523607ed88007b127 */
+
+
+
+
+[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.22wmf18/skins/vector/csshover.min.htc")}</style><![endif]
+
+		
+		
+		
+			
+			
+						 CentralNotice 
+						Tenontosaurus
+			
+								From Wikipedia, the free encyclopedia
+								
+												
+					Jump to:					navigation, 					search
+				
+				
+
+
+Tenontosaurus
+Temporal range: Early Cretaceous, 115–108Ma
+
+PreЄ
+Є
+O
+S
+D
+C
+P
+T
+J
+K
+Pg
+N
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mounted skeletons of an adult with juveniles
+
+
+Scientific classification 
+
+
+Kingdom:
+Animalia
+
+
+Phylum:
+Chordata
+
+
+Clade:
+Sauropsida
+
+
+Clade:
+Dinosauria
+
+
+Order:
+†Ornithischia
+
+
+Clade:
+†Ornithopoda
+
+
+Clade:
+†Iguanodontia
+
+
+Genus:
+†Tenontosaurus
+Ostrom, 1970
+
+
+Species
+
+
+
+
+†T. tilletti Ostrom, 1970 (type)
+†T. dossi Winkler, Murry & Jacobs, 1997
+
+
+
+
+
+Tenontosaurus (/tɨˌnɒntɵˈsɔrəs/ te-NON-to-SAWR-əs; meaning "sinew lizard") is a genus of medium- to large-sized ornithopod dinosaur. The genus is known from the late Aptian to Albian ages of the middle Cretaceous period sediments of western North America, dating between 115 to 108 million years ago. It was formerly thought to be a 'hypsilophodont', but since Hypsilophodontia is no longer considered a clade, it is now considered to be a very primitive iguanodont.
+The genus contains two species, Tenontosaurus tilletti (described by John Ostrom in 1970) and Tenontosaurus dossi (described by Winkler, Murray, and Jacobs in 1997).[1] Many specimens of T. tilletti have been collected from several geological formations throughout western North America. T. dossi is known from only a handful of specimens collected from the Twin Mountains Formation of Parker County, Texas.
+
+
+Contents
+
+
+1 Description
+2 History of study
+3 Paleoecology and paleobiology
+
+3.1 Climate
+3.2 Ecological community
+3.3 Diet
+3.4 Predators
+3.5 Reproduction
+
+
+4 References
+
+
+Description[edit]
+
+
+
+
+Artist's impression
+
+
+It was about 6.5 to 8 metres (21 to 26 ft) long and 3 metres (9.8 ft) high in a bipedal stance, with a mass of somewhere between 1 to 2 tonnes (1 to 2 short tons). It had an unusually long, broad tail, which like its back was stiffened with a network of bony tendons.
+History of study[edit]
+
+
+
+
+Front part of skeleton
+
+
+The first Tenontosaurus fossil was found in Big Horn County, Montana by an American Museum of Natural History (AMNH) expedition in 1903. Subsequent digs in the same area during the 1930s unearthed 18 more specimens, and four specimens were found during the 1940s. Despite the large number of fossil specimens, the animal was not named or scientifically described during this time, though Barnum Brown of the AMNH gave it the informal name "Tenantosaurus", "sinew lizard", in reference to the extensive system of stiffening tendons in its back and tail.[2]
+During the 1960s, Yale University began an extensive, long-term dig in the Big Horn Basin area (Cloverly Formation) of Montana and Wyoming. The expedition was led by John Ostrom, whose team discovered more than 40 new specimens. Following his expedition, Ostrom became the first to describe and name the animal, calling it Tenontosaurus, a slight variation in spelling of Brown's informal name.
+Since 1970, many more Tenontosaurus specimens have been reported, both from the Cloverly and other geological formations, including the Antlers Formation in Oklahoma, Paluxy Formation of Texas, Wayan Formation of Idaho, Cedar Mountain Formation of Utah, and Arundel Formation of Maryland.[2]
+Paleoecology and paleobiology[edit]
+Climate[edit]
+In the Cloverly Formation of Montana and Wyoming, Tenontosaurus remains are common in two distinct rock units: the more ancient Little Sheep Mudstone Member (Cloverly Formation unit V) and the more recent Himes Member (units VI and VII). The oldest part of the formation, the Pryor Conglomerate, contains no Tenontosaurus fossils, and they only appear in the uppermost, most recent part of the Little Sheep Mudstone Member. Catherine Forster, in a 1984 paper on the ecology of Tenontosaurus, used this as evidence to suggest that Tenontosaurus populations did not arrive in the Bighorn Basin area until the time of the late Little Sheep Mudstone Member.[2]
+At the time Tenontosaurus first appeared in Wyoming and Montana (the early Albian age), the regions climate was arid to semi-arid, dry, with seasonal periods of rainfall and occasional droughts. However, during a period of a few million years, the climate in the region shifted to one of increased rainfall, and the environment became sub-tropical to tropical, with river deltas, flood plains, and forests with swampy inlets reminiscent of modern Louisiana, though marked dry seasons persisted to create savannah-like environments as well.[3] The change in rainfall levels is likely due to the advancing shoreline of the Skull Creek Seaway, a cycle of the Western Interior Seaway which, later in the Cretaceous period, would completely divide North America.[2]
+This dramatic shift in climate coincided with an apparent increase, rather than decrease, in the abundance of Tenontosaurus. This shows Tenontosaurus to have been a remarkably adaptable animal, which persisted for a long span of time in one area despite changes to its environment.[2]
+Ecological community[edit]
+
+
+
+
+Complete fossil
+
+
+Throughout the Cloverly Formation, Tenontosaurus is by far the most common vertebrate, five times more abundant than the next most common, the ankylosaur Sauropelta. In the arid Little Sheep Mudstone Member, Tenontosaurus is the only herbivorous dinosaur, and it shared its environment with the common predator Deinonychus as well as an indeterminate species of allosauroid theropod and goniopholid crocodile. After the major climate shift at the beginning of the Himes Member in the mid-Albian age, several more dinosaurs entered the region, including the less common ornithopod Zephyrosaurus, the oviraptorosaur Microvenator, and an indeterminate species of titanosauriform sauropod and ornithomimid. The ecological community in the tropical stage also included the small mammal Gobiconodon, turtles such as Glyptops, and species of lungfish.[2]
+The ecological community was similar in other regions, with dinosaurs like Tenontosaurus and Deinonychus as the most common large vertebrates. In the Antlers Formation they were joined by the sauropods Astrodon and Sauroposeidon, and the allosauroid Acrocanthosaurus, as well as different lizards, mammals, and fish.
+Diet[edit]
+Plant life in the Tenontosaurus ecosystem was likely dominated by ferns and tree ferns, cycads, and possibly primitive flowering plants. Larger plants and trees were represented by gymnosperms, such as conifer and ginkgo trees. Tenontosaurus was a low browser, and an adult would have had a maximum browsing height of about 3 meters (9 ft) if it adopted a bipedal stance. This restricted Tenontosaurus, especially juveniles, to eating low-growing ferns and shrubs. Its powerful, U-shaped beak and the angled cutting surfaces of its teeth, however, meant it was not limited to which part of the plant it consumed. Leaves, wood, and even fruit may have formed part of its diet.[2]
+Predators[edit]
+
+
+
+
+T. tilletti with juveniles, in front of Deinonychus
+
+
+Teeth and a number of skeletons belonging to the bird-like carnivorous theropod Deinonychus have often been discovered associated with Tenontosaurus tilletti remains. Tenontosaurus specimens have been found at over 50 sites, and 14 of those also contain Deinonychus remains. According to one 1995 study, only six sites containing Deinonychus fossils contain no trace of Tenontosaurus, and Deinonychus remains are only rarely found associated with other potential prey, like Sauropelta.[4] In all, 20% of Tenontosaurus fossil are found in close proximity to Deinonychus, and several scientists have suggested that this implies Deinonychus was the major predator of Tenontosaurus. Adult Deinonychus, however, were much smaller than adult Tenontosaurus, and it is unlikely a single Deinonychus would have been capable of attacking a fully grown Tenontosaurus. While some scientists have suggested that Deinonychus must therefore have been a pack hunter, this view has been challenged based on both lack of evidence for coordinated hunting (rather than mobbing behavior as in most modern birds and reptiles) as well as evidence that Deinonychus may have been cannibalizing each other, as well as the Tenontosaurus, in a feeding frenzy.[5] It is likely that Deinonychus favored juvenile Tenontosaurus, and that when Tenontosaurus reached a certain size, it passed out of range as a food source for the small theropods, though they may have scavenged larger individuals. The fact that most Tenontosaurus remains found with Deinonychus are half-grown individuals supports this view.[2][6] It also lived in the same area as the large carnivorous dinosaur Acrocanthosaurus.[7]
+Reproduction[edit]
+
+
+
+
+Osteohistology of the diaphyseal femur of two juveniles
+
+
+The presence of medullary bone tissue in the thigh bone and shin bone of one specimen indicates that tenontosaurs used this tissue, today only found in birds that are laying eggs, in reproduction. Additionally, like Tyrannosaurus and Allosaurus, two other dinosaurs known to have produced medullary bone, the tenontosaur individual was not at full adult size upon her death at 8 years old. Because the theropod line of dinosaurs that includes Allosaurus and Tyrannosaurus diverged from the line that led to Tenontosaurus very early in the evolution of dinosaurs, this suggests that dinosaurs in general produced medullary tissue and reached reproductive maturity before maximum size.[8] A histological study showed that T. tilletti grew quickly early in life and during sub-adult ontogeny, but grew very slowly in the years approaching maturity, unlike other iguanodontians.[9]
+References[edit]
+
+
+^ Winkler, Dale A, Phillip A Murry and Louis L Jacobs. (1997). "A New Species of Tenontosaurus (Dinosauria: Ornithopoda) from the Early Cretaceous of Texas". Journal of Vertebrate Paleontology.
+^ a b c d e f g h Forster, C.A. (1984). "The paleoecology of the ornithopod dinosaur Tenontosaurus tilletti from the Cloverly Formation, Big Horn Basin of Wyoming and Montana." The Mosasaur, 2: 151–163.
+^ Wedel, M. J.; Cifelli, R. L. (2005). "Sauroposeidon: Oklahoma’s Native Giant" (PDF). Oklahoma Geology Notes 65 (2): 40–57. Retrieved 2007-07-07. 
+^ Maxwell, W. D.; Ostrom, J.H. (1995). "Taphonomy and paleobiological implications of Tenontosaurus-Deinonychus associations". Journal of Vertebrate Paleontology 15 (4): 707–712. doi:10.1080/02724634.1995.10011256.  (abstract)
+^ Roach, B. T.; D. L. Brinkman (2007). "A reevaluation of cooperative pack hunting and gregariousness in Deinonychus antirrhopus and other nonavian theropod dinosaurs". Bulletin of the Peabody Museum of Natural History 48 (1): 103–138. doi:10.3374/0079-032X(2007)48[103:AROCPH]2.0.CO;2. 
+^ Brinkman, Daniel L.; Cifelli, Richard L., Czaplewski, Nicholas J. (1998). "First Occurrence of Deinonychus antirrhopus (Dinosauria: Theropoda) from the Antlers Formation (Lower Cretaceous: Aptain-Albian) of Oklahoma". Oklahoma Geological Survey (164): 27. 
+^ D'Emic, Michael D.; Melstrom, Keegan M.; and Eddy, Drew R. (2012). "Paleobiology and geographic range of the large-bodied Cretaceous theropod dinosaur Acrocanthosaurus atokensis". Palaeogeography, Palaeoclimatology, Palaeoecology. 333–334: 13–23. doi:10.1016/j.palaeo.2012.03.003. 
+^ Lee, Andrew H.; and Werning, Sarah (2008). "Sexual maturity in growing dinosaurs does not fit reptilian growth models". Proceedings of the National Academy of Sciences 105 (2): 582–587. Bibcode:2008PNAS..105..582L. doi:10.1073/pnas.0708903105. PMC 2206579. PMID 18195356. 
+^ Werning, S. (2012). "The Ontogenetic Osteohistology of Tenontosaurus tilletti". In Farke, Andrew A. PLoS ONE 7 (3): e33539. doi:10.1371/journal.pone.0033539. PMC 3314665. PMID 22470454.  edit
+
+
+
+
+
+
+Dinosaurs portal
+
+
+
+
+
+ 
+NewPP limit report
+CPU time usage: 4.700 seconds
+Real time usage: 4.920 seconds
+Preprocessor visited node count: 27455/1000000
+Preprocessor generated node count: 47567/1500000
+Post‐expand include size: 101978/2048000 bytes
+Template argument size: 46738/2048000 bytes
+Highest expansion depth: 39/40
+Expensive parser function count: 2/500
+Lua time usage: 0.062s
+Lua memory usage: 1.73 MB
+
+
+ Saved in parser cache with key enwiki:pcache:idhash:3559345-0!*!0!!en!4!* and timestamp 20131002130826 
+								
+				Retrieved from "http://en.wikipedia.org/w/index.php?title=Tenontosaurus&oldid=573003355"				
+												Categories: Cretaceous dinosaursDinosaurs of North AmericaFossil taxa described in 1970IguanodontsHidden categories: Articles with 'species' microformats												
+							
+		
+		
+			Navigation menu
+			
+				
+	Personal tools
+	
+Create accountLog in	
+
+				
+					
+	Namespaces
+	
+					Article
+					Talk
+			
+
+
+	
+		
+	Variants
+	
+		
+					
+	
+
+				
+				
+					
+	Views
+	
+					Read
+					Edit
+					View history
+			
+
+
+	Actions
+	
+		
+					
+	
+
+
+	Search
+	
+				
+																				
+		
+	
+
+				
+			
+			
+					
+				
+	Navigation
+	
+		
+			Main page
+			Contents
+			Featured content
+			Current events
+			Random article
+			Donate to Wikipedia
+		
+	
+
+
+	Interaction
+	
+		
+			Help
+			About Wikipedia
+			Community portal
+			Recent changes
+			Contact page
+		
+	
+
+
+	Toolbox
+	
+		
+			What links here
+			Related changes
+			Upload file
+			Special pages
+			Permanent link
+			Page information
+			Data item
+Cite this page		
+	
+
+
+	Print/export
+	
+		
+			Create a book
+			Download as PDF
+			Printable version
+		
+	
+
+
+	Languages
+	
+		
+			Català
+			Česky
+			Deutsch
+			Español
+			فارسی
+			Français
+			한국어
+			Hrvatski
+			Italiano
+			עברית
+			Magyar
+			Nederlands
+			Polski
+			Português
+			Русский
+			Simple English
+			Slovenčina
+			Srpskohrvatski / српскохрватски
+			Suomi
+			Svenska
+			ไทย
+			中文
+			
+			Edit links
+		
+	
+
+			
+		
+		
+							
+											 This page was last modified on 15 September 2013 at 11:11.
+											Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. 
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+									
+							
+											Privacy policy
+											About Wikipedia
+											Disclaimers
+											Contact Wikipedia
+											Developers
+											Mobile view
+									
+										
+					
+						
+					
+					
+						
+					
+				
+						
+		
+		
+
+
+ Served by mw1058 in 0.316 secs. 
+	
+if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Tenontosaurus","wgTitle":"Tenontosaurus","wgCurRevisionId":573003355,"wgArticleId":3559345,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with 'species' microformats","Cretaceous dinosaurs","Dinosaurs of North America","Fossil taxa described in 1970","Iguanodonts"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Tenontosaurus","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgVectorEnabledModules":{"collapsiblenav":true,"experiments":true},"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"templateEditor":false,"templates":false,"preview":false,"previewDialog":false,"publish":false,"toc":false},"wgArticleFeedbackv5Permissions":{"aft-reader":false,"aft-member":false,"aft-editor":false,"aft-monitor":false,"aft-administrator":false,"aft-oversighter":false,"aft-noone":false},"wgVisualEditor":{"isPageWatched":false,"magnifyClipIconURL":"//bits.wikimedia.org/static-1.22wmf18/skins/common/images/magnify-clip.png","pageLanguageCode":"en","pageLanguageDir":"ltr"},"wikilove-recipient":"","wikilove-anon":0,"wgGuidedTourHelpGuiderUrl":"Help:Guided tours/guider","wgULSAcceptLanguageList":[],"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia","aftv5Article":{"id":3559345,"title":"Tenontosaurus","namespace":0,"categories":["Articles with 'species' microformats","Cretaceous dinosaurs","Dinosaurs of North America","Fossil taxa described in 1970","Iguanodonts"],"permissionLevel":false},"wgWikibaseItemId":"Q131103"});
+}if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":false,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,
+"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"useeditwarning":1,"prefershttps":1,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"vector-simplesearch":1,"vector-collapsiblenav":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"aftv5-last-filter":null,"visualeditor-enable":0,"visualeditor-enable-experimental":0,"visualeditor-betatempdisable":0,"wikilove-enabled":1,"echo-subscriptions-web-page-review":true,"echo-subscriptions-email-page-review":false,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"echo-notify-show-link":true,"echo-show-alert":true,"echo-email-frequency":0,"echo-email-format":"html","echo-subscriptions-email-system":true,"echo-subscriptions-web-system":true,"echo-subscriptions-email-other":false,"echo-subscriptions-web-other":true,"echo-subscriptions-email-edit-user-talk":false,"echo-subscriptions-web-edit-user-talk":true,
+"echo-subscriptions-email-reverted":false,"echo-subscriptions-web-reverted":true,"echo-subscriptions-email-article-linked":false,"echo-subscriptions-web-article-linked":false,"echo-subscriptions-email-mention":false,"echo-subscriptions-web-mention":true,"echo-subscriptions-web-edit-thank":true,"echo-subscriptions-email-edit-thank":false,"gettingstarted-task-toolbar-show-intro":true,"uls-preferences":"","language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs446":false,"searchNs447":false
+,"searchNs710":false,"searchNs711":false,"searchNs828":false,"searchNs829":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-mySandbox":1,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:156d8fe0ae17f8afd74198057563e45d */
+}if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","ext.visualEditor.viewPageTarget.init","ext.wikimediaShopLink.core","ext.uls.init","ext.uls.interface","wikibase.client.init","ext.centralNotice.bannerController","skins.vector.js"]);
+}/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}if(window.mw){
+mw.loader.load(["mobile.desktop","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.cite","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","mw.MwEmbedSupport.style","ext.vector.collapsibleNav","ext.articleFeedbackv5.startup","ext.gettingstarted.logging","ext.gettingstarted.openTask","schema.HttpsSupport","ext.coreEvents.httpsSupport","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","mw.PopUpMediaTransform"],null,true);
+}

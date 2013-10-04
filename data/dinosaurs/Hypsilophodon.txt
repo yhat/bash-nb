@@ -1,0 +1,460 @@
+
+
+
+Hypsilophodon - Wikipedia, the free encyclopedia
+
+
+
+
+
+
+
+
+
+
+
+
+a:lang(ar),a:lang(ckb),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:0de201fdea5d684523607ed88007b127 */
+
+
+
+
+[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.22wmf18/skins/vector/csshover.min.htc")}</style><![endif]
+
+		
+		
+		
+			
+			
+						 CentralNotice 
+						Hypsilophodon
+			
+								From Wikipedia, the free encyclopedia
+								
+												
+					Jump to:					navigation, 					search
+				
+				
+
+
+Hypsilophodon
+Temporal range: Early Cretaceous, 130–125Ma
+
+PreЄ
+Є
+O
+S
+D
+C
+P
+T
+J
+K
+Pg
+N
+
+
+
+↓
+
+
+
+
+
+
+
+
+
+Replica at Brussels Science Institute
+
+
+Scientific classification 
+
+
+Kingdom:
+Animalia
+
+
+Phylum:
+Chordata
+
+
+Clade:
+Sauropsida
+
+
+Clade:
+Dinosauria
+
+
+Order:
+†Ornithischia
+
+
+Clade:
+†Ornithopoda
+
+
+Family:
+†Hypsilophodontidae
+
+
+Genus:
+†Hypsilophodon
+Huxley, 1869
+
+
+Species:
+† H. foxii
+
+
+Binomial name
+
+
+Hypsilophodon foxii
+Huxley, 1869
+
+
+
+Hypsilophodon (/ˌhɪpsɨˈlɒfɵdɒn/; meaning "Hypsilophus-tooth") is an ornithopod dinosaur genus from the Early Cretaceous period of England.
+The first remains of Hypsilophodon were found in 1849 and in 1869 the type species Hypsilophodon foxii was named. Abundant fossil discoveries were made on the Isle of Wight, giving a good impression of the build of the species. It was a small bipedal animal with an herbivorous or possibly omnivorous diet. Hypsilophodon reached up to 1.8 metres (5.9 ft) in length, weighed about 20 kg (45 lbs), and was an agile runner. It had a pointed head equipped with a sharp beak used to bite off plant material.
+Older studies have given rise to number of misconceptions about Hypsilophodon: that it would climb trees, was armoured, reached a length of 2.3 metres (7.5 ft) and was also found outside of Wight. During the past decades new research has gradually shown this to be incorrect.
+
+
+Contents
+
+
+1 Discoveries and species
+2 Description
+3 Phylogeny
+4 Paleobiology
+5 Notes
+6 References
+7 External links
+
+
+Discoveries and species[edit]
+
+
+
+
+Illustration of the Mantell-Bowerbank block
+
+
+The first remains of Hypsilophodon were recovered in the early days of paleontology in 1849, when workers on the Isle of Wight dug up the so-called Mantell-Bowerbank block. One piece of it was sold to Gideon Mantell, the other to naturalist James Scott Bowerbank. However, at the time, the bones were thought to belong to a young Iguanodon: first Mantell in 1849,[1] and then Richard Owen in 1855 describing the block as such.[2]
+It was not until 1870 that paleontologist Thomas Henry Huxley was able to publish a fuller description of Hypsilophodon as we know it today, understanding it represented a species different from Iguanodon. He had gained access in 1868 to a specimen found in January that year by the Reverend William Fox,[3] who had earlier discovered some fossils of the animal as well.[4] This specimen included the skull, which had been lacking with the Mantell-Bowerbank block. Huxley first announced the new species in 1869 in a lecture; the text of this, published the same year, forms the official naming article, because it contained a sufficient description.[5] In 1870, Huxley expanded this into a full article, in which he became the first researcher to notice that the Ornithischia (not yet known as such at the time) had a pubic bone pointing backwards like birds.[6]
+The type species was named Hypsilophodon foxii.[5] There is a persistent misunderstanding as to the meaning of the generic name, which is often translated directly from the Greek as "high-ridged tooth".[7] In reality Huxley, analogous to the way the name of the related genus Iguanodon ("iguana-tooth") had been formed, intended to name the animal after an extant herbivorous lizard, choosing for this role Hypsilophus and combining its name with Greek ὀδών, odon, "tooth".[8] Hypsilophodon thus means "Hypsilophus-tooth". The Greek ὑψίλοφος, hypsilophos, means "high-crested" and refers to the back frill of the lizard, not to the teeth of Hypsilophodon itself, which are not high-ridged in any case.[7] The specific name foxii honours Fox.[5]
+
+
+
+
+Holotype skull NHM R197
+
+
+The holotype of the animal, today having the inventory number NHM R197, is the skull found by Fox. The Mantell-Bowerbank block is the paratype; its two pieces have been combined in the collection of the Natural History Museum as specimens NHM 28707, 39560-1.[7]
+Owen was not convinced by Huxley's conclusion that Hypsilophodon represented a different genus and in 1874 renamed the species Iguanodon foxii.[9] However, this was again rejected by John Whitaker Hulke, who had obtained some additional specimens from Fox,[10] in 1874 described some presumed dermal armour,[11] and in 1882 published a full osteology of the species.[12] Later, the number of specimens was increased by Reginald Walter Hooley. In 1905, Baron Franz Nopcsa dedicated a study to Hypsilophodon,[13] and in 1936 William Elgin Swinton did the same,[14] on the occasion of the mounting of two restored skeletons in the British Museum of Natural History.[15]
+Modern research of Hypsilophodon began with the studies of Peter Malcolm Galton, starting with his thesis of 1967.[16]
+
+
+
+
+Specimens NHM R5829 and R5830 at Natural History Museum, London
+
+
+Although new finds continue to be made,[7] most known Hypsilophodon specimens were discovered between 1849 and 1921 and are in the possession of the Natural History Museum that acquired the collections of Mantell, Fox, Hulke and Hooley.[17] These represent about twenty individual animals. Apart from the holotype and paratype, the most significant specimens are: NHM R5829, the skeleton of a large animal; NHM R5830 and NHM R196/196a, both skeletons of juvenile animals; and NHM R2477, a block with a skull together with two separate vertebral columns. Fossils from other locations, especially from the mainland of southern Great Britain, Portugal and Spain, have once been referred to Hypsilophodon. However, in 2009 Galton concluded that the specimens from Great Britain proper were either indeterminable or belonged to Valdosaurus, and that the fossils from the rest of Europe were those of related but different species. This leaves the finds on Isle of Wight, off the south coast of England, as the only known authentic Hypsilophodon fossils.[7] The fossils have been found in the Hypsilophodon Bed, a one metre thick marl layer surfacing in a 1200 metre long strip along the Cowleaze Chine parallel to the southwest coast of Wight,[17] part of the upper Wessex Formation and dating to the late Barremian, about 126 million years old. Reports that Hypsilophodon would be present in the later Vectis Formation, Galton in 2009 considered as unsubstantiated.[7]
+There is only one known species of Hypsilophodon, Huxley's original H. foxii. Galton and James Jensen named another species in 1978/1979, Hypsilophodon wielandi, which is based on a thigh bone from South Dakota, USA, specimen AMNH 2585 found in 1891 by George Reber Wieland.[18] This species was once seen as indicative of a late land bridge between North America and Europe,[19] but it is now regarded as an indeterminate basal ornithopod.[20] Galton in 2009 considered it a nomen dubium, the femur in view of the provenance possibly belonging to Zephyrosaurus.[7]
+Description[edit]
+Hypsilophodon was a relatively small dinosaur, though not quite so small as, for example, Compsognathus. For Hypsilophodon often a maximum length of 2.3 metres is stated. This has its origin in a study of 1974 by Galton, in which he extrapolated a length of 2.28 metres based on specimen BMNH R 167, a thigh bone.[17] However, in 2009, Galton concluded that this femur in fact belonged to Valdosaurus and downsized Hypsilophodon to a maximum known length of 1.8 metres,[7] the largest specimen being NHM R5829 with a femur length of 202 millimetres.[17] Typical specimens are about 1.5 metres long. Hypsilophodon would have reached up to half a metre in height. In 2010, Gregory S. Paul estimated a weight of 20 kilograms (44 lb) for an animal two metres in length.[21]
+Like most small dinosaurs, Hypsilophodon was bipedal: it ran on two legs. Its entire body was built for running. A light-weight, minimized skeleton, low, aerodynamic posture, long legs and stiff tail, immobilised by ossified tendons, for balance: all would have allowed it to travel remarkably fast for its size. Galton in 1974 concluded it would have been among the ornithischians best adapted to running.[17]
+
+
+
+
+Modern reconstruction
+
+
+Despite living in the last of the periods in which non-avian dinosaurs walked the earth, the Cretaceous, Hypsilophodon had a number of seemingly "primitive" features. For example, there were five digits on each hand and four on each foot. With Hypsilophodon the fifth finger had gained a specialised function: being opposable it could serve to grasp food items.[17] Also, although it had a beak like most ornithischians, Hypsilophodon still had five pointed triangular teeth in the front of the upper jaw, the premaxilla. Most herbivorous dinosaurs had, by the Early Cretaceous, become sufficiently specialized that the front teeth had been altogether lost (although there is some debate as to whether these teeth may have had a specialized function in Hypsilophodon). More to the back, the upper jaw carried up to eleven teeth in the maxilla; the lower jaw had up to sixteen teeth. The number was variable, depending on the size of the animal.[7] The teeth to the back were fan-shaped.[17]
+The skull of Hypsilophodon was short and relatively large. The snout was triangular in outline and sharply pointed, ending in an upper beak of which the cutting edge was markedly lower than the maxillary tooth row. The eye socket was very large. A palpebral with a length equal to half the diameter of the eye socket overshadowed its top section. A sclerotic ring of fifteen small bone plates supported the outer eye surface. The back of the skull was rather high, with a very large and high jugal and quadratojugal closing off a highly positioned small infratemporal fenestra.[17]
+The vertebral column consisted of nine cervical vertebrae, fifteen or sixteen dorsal vertebrae, six of five sacral vertebrae and about forty-eight vertebrae of the tail. Much of the back and the tail was stiffened by long ossified tendons connecting the spines on top of the vertebrae. The processes on the underside of the tail vertebrae, the chevrons, were also connected by ossified tendons, which however were of a different form: they were shorter and split and frayed at one end, with the point of the sharp other end laying within the diverging end of the subsequent tendon. Furthermore, there were several counterdirectional rows of these, resulting in a herring-bone pattern completely immobilising the tail end.[17]
+A long-lived misconception concerning the anatomy of Hypsilophodon has been that it was armoured. This was first suggested by Hulke in 1874, after the find of a bone plate in the neck region.[11] If so, Hypsilophodon would have been the only known armoured ornithopod.[17] As Galton pointed out in 2008, the putative armour instead appears to be from the torso, an example of internal intercostal plates associated with the rib cage. It consists of thin mineralized circular plates growing from the back end of the middle rib shaft and overlapping the front edge of the subsequent rib. Such plates are better known from Talenkauen and Thescelosaurus, and were probably cartilaginous in origin.[22]
+Phylogeny[edit]
+Huxley originally assigned Hypsilophodon to the Iguanodontidae.[6] In 1882 Louis Dollo named a separate Hypsilophodontidae.[23] By the middle of the twentieth century that had become the accepted classification but in the early twenty-first century it became clear through cladistic analysis that hypsilophodontids formed an unnatural, paraphyletic group of successive off-shoots from the stem of the Euornithopoda.[20] Hypsilophodon in the modern view thus simply is a basal (eu)ornithopod. Though not forming a separate branch together, such forms lasting from the late Jurassic to the end of the Cretaceous shared the common design of a small running herbivore that apparently was very successful.
+Paleobiology[edit]
+
+
+
+
+1894 restoration by Joseph Smit showing the animal in both reptilian and kangaroo-like postures
+
+
+Due to its small size, Hypsilophodon fed on low-growing vegetation, in view of the pointed snout most likely preferring high quality plant material, such as young shoots and roots, in the manner of modern deer. The structure of its skull, with the teeth set far back into the jaw, strongly suggests that it had cheeks, an advanced feature that would have facilitated the chewing of food. There were twenty-three to twenty-seven maxillary and dentary teeth with vertical ridges in the animal's upper and lower jaws which, due to the fact that the tooth row of the lower jaw, its teeth curving outwards, fitted within that of the upper jaw, with its teeth curving inwards, appear to have been self-sharpening, the occlusion wearing down the teeth and providing for a simple chewing mechanism. As in almost all dinosaurs and certainly all the ornithischians, the teeth were continuously replaced in an alternate arrangement, with the two replacement waves moving from the back to the front of the jaw. The Z(ahnreihen)-spacing, the average distance in tooth position between teeth of the same eruption stage, was rather low with Hyspilophodon, about 2,3. Such a dentition would have allowed to process relatively tough plants.
+
+
+
+
+O. C. Marsh's restoration in tripod-pose
+
+
+Early paleontologists modelled the body of this small, bipedal, herbivorous dinosaur in various ways. In 1882 Hulke suggested that Hypsilophodon was quadrupedal but also, in view of its grasping hand, able to climb rocks and trees in order to seek shelter.[12] In 1912 this line of thought was further pursued by Austrian paleontologist Othenio Abel. Concluding that the first toe of the foot could function as an opposable hallux, Abel stated that Hypsilophodon was a fully arboreal animal and even that an arboreal lifestyle was primitive for the dinosaurs as a whole.[24] Though this hypothesis was doubted by Nopcsa,[25] it was adopted by the Danish researcher Gerhard Heilmann who in 1916 proposed that a quadrupedal Hypsilophodon lived like the modern tree-kangaroo Dendrolagus.[26] In 1926 Heilmann had again changed his mind, denying that the first toe was opposable because the first metatarsal was firmly connected to the second,[27] but in 1927 Abel refused to accept this.[28] In this he was in 1936 supported by Swinton who claimed that even a forward pointing first metatarsal might carry a movable toe.[14] As Swinton was a very influential populariser of dinosaurs, this remained the accepted view for over three decades, most books typically illustrating Hypsilophodon sitting on a tree branch. However, Peter M. Galton in 1969 performed a more accurate analysis of the musculo-skeletal structure, showing that the body posture was horizontal.[29] In 1971 Galton in detail refuted Abel's arguments, showing that the first toe had been incorrectly reconstructed and that neither the curvature of the claws, nor the level of mobility of the shoulder girdle or the tail could be seen as adaptations for climbing,[30] concluding that Hypsilophodon was a bipedal running form.[31] This convinced the paleontological community that Hypsilophodon remained firmly on the ground.
+Of the habitat of Hyspilophodon little is known. Besides the remains of Hypsilophodon itself, the vertebrate fossil fauna of the Hyspilophodon Bed is limited to some scutes from a crocodylomorph and a turtle.[17]
+The level of parental care in this dinosaur has not been defined, nests not having been found, although neatly arranged nests are known from related species, suggesting that some care was taken before hatching. Though the Hypsilophodon fossils were not part of a single herd, the bones gradually having been accumulated, it has often been considered likely that the animals moved in large groups. For these reasons, the hypsilophodonts, particularly Hypsilophodon, have often been referred to as the "deer of the Mesozoic". Some indications about the reproductive habits are provided by the possibility of sexual dimorphism: Galton considered it likely that exemplars with five instead of six sacral vertebrae — with some specimens the vertebra that should normally count as the first of the sacrum has a rib not touching the pelvis — represented female individuals.[17]
+Notes[edit]
+
+
+^ Mantell, G.A., 1849, "Additional observations on the osteology of the Iguanodon and Hylaeosaurus", Royal Society of London, Philosophical Transactions, 139: 271-305
+^ Owen, R., 1855, Monograph on the fossil Reptilia of the Wealden and Purbeck formations. Part II. Dinosauria (Iguanodon). [Wealden]. Palaeontographical Society Monographs, London, 7: 1-54
+^ Fox, W.D., 1868, "On the skull and bones of an Iguanodon", British Association for the Advancement of Science, Annual Report for 1867, London, 38: 64-65
+^ Fox, W.D., 1866, "Another new Wealden reptile", Athenaeum 2014: 740
+^ a b c Huxley, T.H., 1869, "On Hypsilophodon, a new genus of Dinosauria", Geological Society of London, Abstracts of Proceedings, 204: 3-4
+^ a b Huxley, T.H., 1870, "On Hypsilophodon foxii, a new dinosaurian from the Wealden of the Isle of Wight", Geological Society of London, Quarterly Journal, 26: 3-12
+^ a b c d e f g h i P.M. Galton, 2009, "Notes on Neocomian (Lower Cretaceous) ornithopod dinosaurs from England - Hypsilophodon, Valdosaurus, "Camptosaurus", "Iguanodon" - and referred specimens from Romania and elsewhere", Revue de Paléobiologie, Genève 28(1): 211-273
+^ Darren Naish, 2009, The Great Dinosaur Discoveries, A & C Black, London, p. 46
+^ Owen, R., 1874, Monograph on the fossil Reptilia of the Wealden and Purbeck formations. Supplement No. 5. Dinosauria (Iguanodon). [Wealden and Purbeck]. Palaeontographical Society Monographs 27, pp 1-18
+^ Hulke, J.W., 1873, "Contribution to the anatomy of Hypsilophodon foxii. An account of some recently acquired remains", Geological Society of London, Quarterly Journal, 29: 522-532
+^ a b Hulke, J.W., 1874, "Supplemental note on the anatomy of Hypsilophodon foxii", Geological Society of London, Quarterly Journal, 30: 18-23
+^ a b Hulke, J.W., 1882, "An attempt at a complete osteology of Hypsilophodon foxii, a British Wealden dinosaur", Royal Society of London, Philosophical Transactions, 172: 1053-1062
+^ Nopcsa, F., 1905, "Notes on British dinosaurs. Part I. Hypsilophodon", Geological Magazine, London, (5) 2: 203-208
+^ a b Swinton, W.E., 1936, "Notes on the osteology of Hypsilophodon, and on the family Hypsilophodontidae", Zoological Society of London, Proceedings, 1936: 555-578
+^ Swinton, W.E., 1936, "A new exhibit of Hypsilophodon", Natural History Magazine, London, 5: 331-336
+^ Galton, P.M., 1967, On the anatomy of the ornithischian dinosaur Hypsilophodon foxii from the Wealden (Lower Cretaceous) of the Isle of Wight, England. unpublished Ph.D. Thesis, University of London, King’s College, UK, 513 pp
+^ a b c d e f g h i j k l Galton, P.M., 1974, The ornithischian dinosaur Hypsilophodon from the Wealden of the Isle of Wight. British Museum (Natural History), Bulletin, Geology, London, 25: 1‑152c
+^ Galton, P.M. & J.A. Jensen, 1978, "Remains of ornithopod dinosaurs from the Lower Cretaceous of North America", Brigham Young University, Geology Studies, Provo, 25(3): 1-10
+^ Galton, P.M. & J.A. Jensen, 1975, "Hypsilophodon and Iguanodon from the Lower Cretaceous of North America", Nature 257: 668-669
+^ a b Norman, David B.; Sues, Hans-Dieter; Witmer, Larry M.; and Coria, Rodolfo A. (2004). "Basal Ornithopoda". In Weishampel, David B.; Dodson, Peter; and Osmólska, Halszka (eds.). The Dinosauria (2nd ed.). Berkeley: University of California Press. pp. 393–412. ISBN 0-520-24209-2. 
+^ Paul, G.S., 2010, The Princeton Field Guide to Dinosaurs, Princeton University Press p. 275
+^ Butler, Richard J.; and Galton, Peter M. (2008). "The 'dermal armour' of the ornithopod dinosaur Hypsilophodon from the Wealden (Early Cretaceous: Barremian) of the Isle of Wight: a reappraisal". Cretaceous Research 29 (4): 636–642. doi:10.1016/j.cretres.2008.02.002. 
+^ L. Dollo, 1882, "Première note sur les dinosaures de Bernissart", Bulletin du Musée Royale d'Histoire Naturelle de Belgique 1: 1-18
+^ Abel, O., 1912, Grundzüge der Palaeobiologie der Wirbeltiere, E. Schweizerbart'sche Verlagsbuchhandlung Nägele und Dr Sproesser, Stuttgart
+^ V. Pietschinann (ed), 1914, Verhandlungen der Kaiserlich-Königlichen Zoologisch-Botanischen Gesellschaft in Wien, Vienna, pp 380
+^ Heilmann., G., 1916, Vor nuværende Viden om Fuglenes Afstamning, Copenhagen
+^ Heilmann, Gerhard, 1926, The Origin of Birds. London, Witherby
+^ Abel, O., 1927, Lebensbilder aus der Tierwelt der Vorzeit, Fisher, Jena
+^ Galton, P.M., 1969, "The pelvic musculature of the dinosaur Hypsilophodon (Reptilia : Ornithischia)", Postilla, 131: 1-64
+^ Galton, P.M., 1971, "Hypsilophodon, the cursorial nonarboreal dinosaur", Nature, 231: 159-161
+^ Galton, P.M., 1971, "The mode of life of Hypsilophodon, the supposedly arboreal ornithopod dinosaur", Lethaia, 4: 453-465
+
+
+References[edit]
+
+Parker, Steve. Dinosaurus. 1st edition. Buffalo, NY: Quintet Publishing Ltd., 2003.
+
+External links[edit]
+
+FPDM : Hypsilophodon foxii
+DinoWight - Hypsilophodon, an Isle of Wight Hypsilophodontid
+
+
+
+
+
+Dinosaurs portal
+
+
+
+
+
+
+ 
+NewPP limit report
+CPU time usage: 6.004 seconds
+Real time usage: 6.239 seconds
+Preprocessor visited node count: 29136/1000000
+Preprocessor generated node count: 47941/1500000
+Post‐expand include size: 124636/2048000 bytes
+Template argument size: 109072/2048000 bytes
+Highest expansion depth: 39/40
+Expensive parser function count: 0/500
+Lua time usage: 0.052s
+Lua memory usage: 1.36 MB
+
+
+ Saved in parser cache with key enwiki:pcache:idhash:1005314-0!*!0!!en!4!* and timestamp 20131002092756 
+								
+				Retrieved from "http://en.wikipedia.org/w/index.php?title=Hypsilophodon&oldid=562298796"				
+												Categories: Cretaceous dinosaursDinosaurs of EuropeFossil taxa described in 1869OrnithopodsHidden categories: Articles with 'species' microformats												
+							
+		
+		
+			Navigation menu
+			
+				
+	Personal tools
+	
+Create accountLog in	
+
+				
+					
+	Namespaces
+	
+					Article
+					Talk
+			
+
+
+	
+		
+	Variants
+	
+		
+					
+	
+
+				
+				
+					
+	Views
+	
+					Read
+					Edit
+					View history
+			
+
+
+	Actions
+	
+		
+					
+	
+
+
+	Search
+	
+				
+																				
+		
+	
+
+				
+			
+			
+					
+				
+	Navigation
+	
+		
+			Main page
+			Contents
+			Featured content
+			Current events
+			Random article
+			Donate to Wikipedia
+		
+	
+
+
+	Interaction
+	
+		
+			Help
+			About Wikipedia
+			Community portal
+			Recent changes
+			Contact page
+		
+	
+
+
+	Toolbox
+	
+		
+			What links here
+			Related changes
+			Upload file
+			Special pages
+			Permanent link
+			Page information
+			Data item
+Cite this page		
+	
+
+
+	Print/export
+	
+		
+			Create a book
+			Download as PDF
+			Printable version
+		
+	
+
+
+	Languages
+	
+		
+			Català
+			Česky
+			Deutsch
+			Español
+			فارسی
+			Français
+			Hrvatski
+			Italiano
+			עברית
+			Lietuvių
+			Magyar
+			Nederlands
+			日本語
+			Norsk bokmål
+			Polski
+			Português
+			Русский
+			Simple English
+			Slovenčina
+			Srpskohrvatski / српскохрватски
+			Suomi
+			Svenska
+			Українська
+			中文
+			
+			Edit links
+		
+	
+
+			
+		
+		
+							
+											 This page was last modified on 30 June 2013 at 21:06.
+											Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. 
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+									
+							
+											Privacy policy
+											About Wikipedia
+											Disclaimers
+											Contact Wikipedia
+											Developers
+											Mobile view
+									
+										
+					
+						
+					
+					
+						
+					
+				
+						
+		
+		
+
+
+ Served by mw1100 in 0.203 secs. 
+	
+if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Hypsilophodon","wgTitle":"Hypsilophodon","wgCurRevisionId":562298796,"wgArticleId":1005314,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with 'species' microformats","Cretaceous dinosaurs","Dinosaurs of Europe","Fossil taxa described in 1869","Ornithopods"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Hypsilophodon","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgVectorEnabledModules":{"collapsiblenav":true,"experiments":true},"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"templateEditor":false,"templates":false,"preview":false,"previewDialog":false,"publish":false,"toc":false},"wgArticleFeedbackv5Permissions":{"aft-reader":false,"aft-member":false,"aft-editor":false,"aft-monitor":false,"aft-administrator":false,"aft-oversighter":false,"aft-noone":false},"wgVisualEditor":{"isPageWatched":false,"magnifyClipIconURL":"//bits.wikimedia.org/static-1.22wmf18/skins/common/images/magnify-clip.png","pageLanguageCode":"en","pageLanguageDir":"ltr"},"wikilove-recipient":"","wikilove-anon":0,"wgGuidedTourHelpGuiderUrl":"Help:Guided tours/guider","wgULSAcceptLanguageList":[],"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia","aftv5Article":{"id":1005314,"title":"Hypsilophodon","namespace":0,"categories":["Articles with 'species' microformats","Cretaceous dinosaurs","Dinosaurs of Europe","Fossil taxa described in 1869","Ornithopods"],"permissionLevel":false},"wgWikibaseItemId":"Q131086"});
+}if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":false,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,
+"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"useeditwarning":1,"prefershttps":1,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"vector-simplesearch":1,"vector-collapsiblenav":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"aftv5-last-filter":null,"visualeditor-enable":0,"visualeditor-enable-experimental":0,"visualeditor-betatempdisable":0,"wikilove-enabled":1,"echo-subscriptions-web-page-review":true,"echo-subscriptions-email-page-review":false,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"echo-notify-show-link":true,"echo-show-alert":true,"echo-email-frequency":0,"echo-email-format":"html","echo-subscriptions-email-system":true,"echo-subscriptions-web-system":true,"echo-subscriptions-email-other":false,"echo-subscriptions-web-other":true,"echo-subscriptions-email-edit-user-talk":false,"echo-subscriptions-web-edit-user-talk":true,
+"echo-subscriptions-email-reverted":false,"echo-subscriptions-web-reverted":true,"echo-subscriptions-email-article-linked":false,"echo-subscriptions-web-article-linked":false,"echo-subscriptions-email-mention":false,"echo-subscriptions-web-mention":true,"echo-subscriptions-web-edit-thank":true,"echo-subscriptions-email-edit-thank":false,"gettingstarted-task-toolbar-show-intro":true,"uls-preferences":"","language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs446":false,"searchNs447":false
+,"searchNs710":false,"searchNs711":false,"searchNs828":false,"searchNs829":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-mySandbox":1,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:156d8fe0ae17f8afd74198057563e45d */
+}if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","ext.visualEditor.viewPageTarget.init","ext.wikimediaShopLink.core","ext.uls.init","ext.uls.interface","wikibase.client.init","ext.centralNotice.bannerController","skins.vector.js"]);
+}/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}if(window.mw){
+mw.loader.load(["mobile.desktop","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.cite","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","mw.MwEmbedSupport.style","ext.vector.collapsibleNav","ext.articleFeedbackv5.startup","ext.gettingstarted.logging","ext.gettingstarted.openTask","schema.HttpsSupport","ext.coreEvents.httpsSupport","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","mw.PopUpMediaTransform"],null,true);
+}

@@ -1,0 +1,518 @@
+
+
+
+Will-o'-the-wisp - Wikipedia, the free encyclopedia
+
+
+
+
+
+
+
+
+
+
+
+
+a:lang(ar),a:lang(ckb),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:0de201fdea5d684523607ed88007b127 */
+
+
+
+
+[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.22wmf16/skins/vector/csshover.min.htc")}</style><![endif]
+
+		
+		
+		
+			
+			
+						 CentralNotice 
+						Will-o'-the-wisp
+			
+								From Wikipedia, the free encyclopedia
+								
+												
+					Jump to:					navigation, 					search
+				
+				For other uses, see Will-o'-the-wisp (disambiguation).
+
+Will-o'-the-wisp
+
+Phenomenon
+
+
+
+An 1882 oil painting of a will-o'-the-wisp by Arnold Böcklin
+
+
+
+See also
+Naga fireball
+Min Min light
+Foxfire
+Earthquake light
+St. Elmo's fire
+Ball lightning
+Aurora
+
+
+A will-o'-the-wisp /ˌwɪl ə ðə ˈwɪsp/ or ignis fatuus (/ˌɪɡnɨs ˈfætʃuːəs/; Medieval Latin: "foolish fire") are atmospheric ghost lights seen by travellers at night, especially over bogs, swamps or marshes. It resembles a flickering lamp and is said to recede if approached, drawing travellers from the safe paths. The phenomenon is known by a variety of names, including jack-o'-lantern, hinkypunk, and hobby lantern in English[1] folk belief, well attested in English folklore and in much of European folklore.
+
+
+Contents
+
+
+1 Terminology
+2 Folklore
+
+2.1 Continental Europe
+2.2 Northern Europe
+2.3 Britain
+2.4 Asia
+2.5 South America
+2.6 North America
+2.7 Australia
+
+
+3 Scientific explanation
+4 In literature
+5 In music
+6 Visual media
+7 Reported light locations
+
+7.1 Europe
+7.2 North America
+
+
+8 See also
+9 Notes
+10 References
+11 External links
+
+
+Terminology[edit source | edit]
+The term "will-o'-the-wisp" comes from "wisp", a bundle of sticks or paper sometimes used as a torch, and the name "Will": thus, "Will-of-the-torch". The term jack-o'-lantern "Jack of [the] lantern" has a similar meaning.
+In the United States, they are often called "spook-lights", "ghost-lights", or "orbs"[2] by folklorists and paranormal enthusiasts.[3][4]
+Folk belief attributes the phenomenon to fairies or elemental spirits, explicitly in the term "hobby lanterns" found in the 19th century Denham Tracts. Briggs' A Dictionary of Fairies provides an extensive list of other names for the same phenomenon, though the place where they are observed (graveyard, bogs, etc.) influences the naming considerably. When observed on graveyards, they are known as "ghost candles", also a term from the Denham Tracts.
+The names will-o'-the-wisp and jack-o'-lantern are explained in etiological folk-tales, recorded in many variant forms in Ireland, Scotland, England, Wales, Appalachia, and Newfoundland.[citation needed] In these tales, protagonists named either Will or Jack are doomed to haunt the marshes with a light for some misdeed.
+One version, from Shropshire, recounted by K. M. Briggs in her book A Dictionary of Fairies, refers to Will the Smith. Will is a wicked blacksmith who is given a second chance by Saint Peter at the gates to Heaven, but leads such a bad life that he ends up being doomed to wander the Earth. The Devil provides him with a single burning coal with which to warm himself, which he then uses to lure foolish travellers into the marshes.
+An Irish version of the tale has a ne'er-do-well named Drunk Jack or Stingy Jack who makes a deal with the Devil, offering up his soul in exchange for payment of his pub tab. When the Devil comes to collect his due, Jack tricks him by making him climb a tree and then carving a cross underneath, preventing him from climbing down. In exchange for removing the cross, the Devil forgives Jack's debt. However, because no one as bad as Jack would ever be allowed into Heaven, Jack is forced upon his death to travel to Hell and ask for a place there. The Devil denies him entrance in revenge, but, as a boon, grants Jack an ember from the fires of Hell to light his way through the twilight world to which lost souls are forever condemned. Jack places it in a carved turnip to serve as a lantern.[5] Another version of the tale, "Willy the Whisp", is related in Irish Folktales by Henry Glassie. The first modern novel in the Irish language, Séadna by Peadar Ua Laoghaire, is a version of the tale.
+Folklore[edit source | edit]
+Continental Europe[edit source | edit]
+See also: supernatural beings in Slavic folklore
+In European folklore, these lights are held to be either mischievous spirits of the dead, or other supernatural beings or spirits such as fairies, attempting to lead travellers astray.
+A modern Americanized adaptation of this travellers' association frequently places swaying ghost-lights along roadsides and railroad tracks. Here a swaying movement of the lights is alleged to be that of 19th- and early 20th-century railway workers supposedly killed on the job.
+Sometimes the lights are believed to be the spirits of unbaptized or stillborn children, flitting between heaven and hell. Modern occultist elaborations bracket them with the salamander, a type of spirit wholly independent from humans (unlike ghosts, which are presumed to have been humans at some point in the past).
+Northern Europe[edit source | edit]
+
+
+
+
+
+This section does not cite any references or sources. Please help improve this section by adding citations to reliable sources. Unsourced material may be challenged and removed. (August 2012) 
+
+
+Danes, Finns, Swedes, Estonians, Irish people and Latvians amongst some other groups believed that a will-o'-the-wisp marked the location of a treasure deep in ground or water, which could be taken only when the fire was there. Sometimes magical tricks, and even dead man's hand, were required as well, to uncover the treasure. In Finland and other northern countries it was believed that early autumn was the best time to search for will-o'-the-wisps and treasures below them. It was believed that when someone hid treasure, in the ground, he made the treasure available only at the midsummer, and set will-o'-the-wisp to mark the exact place and time so that he could come to take the treasure back. Finns also believed that the creature guarding the treasure, aarni, used fire (aarnivalkea) to clean precious metals.
+Britain[edit source | edit]
+See also: Puck (mythology)
+The will-o'-the-wisp can be found in numerous folk tales around the United Kingdom, and is often a malicious character in the stories. In Welsh folklore, it is said that the light is "fairy fire" held in the hand of a púca, or pwca, a small goblin-like fairy that mischievously leads lone travelers off the beaten path at night. As the traveler follows the púca through the marsh or bog, the fire is extinguished, leaving them lost. The púca is said to be one of the Tylwyth Teg, or fairy family. In Wales the light predicts a funeral that will take place soon in the locality. Wirt Sikes in his book British Goblins mentions the following Welsh tale about púca.
+A peasant traveling home at dusk sees a bright light traveling along ahead of him. Looking closer, he sees that the light is a lantern held by a "dusky little figure", which he follows for several miles. All of a sudden he finds himself standing on the edge of a vast chasm with a roaring torrent of water rushing below him. At that precise moment the lantern-carrier leaps across the gap, lifts the light high over its head, lets out a malicious laugh and blows out the light, leaving the poor peasant a long way from home, standing in pitch darkness at the edge of a precipice. This is a fairly common cautionary tale concerning the phenomenon; however, the ignis fatuus was not always considered dangerous. There are some tales told about the will-o'-the-wisp being guardians of treasure, much like the Irish leprechaun leading those brave enough to follow them to sure riches. Other stories tell of travelers getting lost in the woodland and coming upon a will-o'-the-wisp, and depending on how they treated the will-o'-the-wisp, the spirit would either get them lost further in the woods or guide them out.
+Also related, the Pixy-light from Devon and Cornwall is most often associated with the Pixie who often has "pixie-led" travelers away from the safe and reliable route and into the bogs with glowing lights. "Like Poltergeist they can generate uncanny sounds. They were less serious than their German Weisse Frauen kin, frequently blowing out candles on unsuspecting courting couples or producing obscene kissing sounds, which were always misinterpreted by parents."[6] Pixy-Light was also associated with "lambent light"[7] which the "Old Norse" might have seen guarding their tombs. In Cornish folklore, Pixy-Light also has associations with the Colt Pixy. "A colt pixie is a pixie that has taken the shape of a horse and enjoys playing tricks such as neighing at the other horses to lead them astray".[8][9] In Guernsey, the light is known as the faeu boulanger (rolling fire), and is believed to be a lost soul. On being confronted with the spectre, tradition prescribes two remedies. The first is to turn one's cap or coat inside out. This has the effect of stopping the faeu boulanger in its tracks. The other solution is to stick a knife into the ground, blade up. The faeu, in an attempt to kill itself, will attack the blade.[10]
+Asia[edit source | edit]
+See also: Chir Batti and Naga fireball
+Aleya (or marsh ghost-light) is the name given to an unexplained strange light phenomena occurring over the marshes as observed by the Bengali people, specially the fishermen of Bengal. This marsh light is attributed to some kind of unexplained marsh gas apparitions that confuse fishermen, make them lose their bearings, and may even lead to drowning if one decided to follow them moving over the marshes. Local communities in the region believe that these strange hovering marsh-lights are in fact Ghost-lights representing the ghosts of fisherman who died fishing. Sometimes they confuse the fishermen, and sometimes they help them avoid future dangers.[11][12]
+
+
+
+
+A Japanese rendition of a Russian will-o'-the-wisp.
+
+
+Chir batti (ghost-light), also spelled chhir batti or cheer batti, is a yet unexplained strange dancing light phenomena occurring on dark nights reported from the Banni grasslands, its seasonal marshy wetlands[13] and the adjoining desert of the marshy salt flats of the Rann of Kutch[14] near Indo-Pakistani border in Kutch district, Gujarat State, India. Local villagers have been seeing these sometimes hovering, sometimes flying balls of lights since time immemorial and call it Chir Batti in their Kutchhi–Sindhi language, with Chir meaning ghost and Batti meaning light.[13]
+Similar phenomena are described in Japanese folklore, including Hitodama (literally "Human Soul" as a ball of energy), Hi no Tama (Ball of Flame), Aburagae, Koemonbi, Ushionibi, etc. All these phenomena are described as balls of flame or light, at times associated with graveyards, but occurring across Japan as a whole in a wide variety of situations and locations. These phenomena are described in Shigeru Mizuki's 1985 book Graphic World of Japanese Phantoms (妖怪伝 in Japanese).[15]
+South America[edit source | edit]
+Boi-tatá (Portuguese pronunciation: [bojtaˈta]) is the Brazilian equivalent of the will-o'-the-wisp.[16] Regionally it is called Boitatá, Baitatá, Batatá, Bitatá, Batatão, Biatatá, M'boiguaçu, Mboitatá and Mbaê-Tata. The name comes from the Old Tupi language and means "fiery serpent" (mboî tatá). Its great fiery eyes leave it almost blind by day, but by night, it can see everything. According to legend, Boi-tatá was a big serpent which survived a great deluge. A "boiguaçu" (a cave anaconda) left its cave after the deluge and, in the dark, went through the fields preying on the animals and corpses, eating exclusively its favorite morsel, the eyes. The collected light from the eaten eyes gave "Boitatá" its fiery gaze. Not really a dragon but a giant snake (in the native language, "boa" or "mboi" or "mboa").
+In Argentina the will-o'-the-wisp phenomenon is known as Luz Mala (evil light) or Fuego Fatuo and is one of the most important myths in Argentine and Uruguayan folklore. This phenomenon is quite feared and is mostly seen on Argentine rural areas. It consists of an extremely shiny ball of light floating a few inches from the ground.
+North America[edit source | edit]
+Mexico has its own equivalent as well. Folklore explains will-o-the-wisp to be witches who transformed into these lights. The reason for this, however, varies according to the region.
+The swampy area of Massachusetts known as the Bridgewater Triangle has folklore of ghostly orbs of light, and there have been modern observations of these ghost-lights in this area as well.
+Australia[edit source | edit]
+See also: Min Min light
+Min Min Light is the name given to an unusual light formation that has been reported numerous times in eastern Australia.[17][18] The lights have been reported from as far south as Brewarrina in western New South Wales, to as far north as Boulia in northern Queensland. The majority of sightings are reported to have occurred in Channel Country.[17]
+Stories about the lights can be found in aboriginal myth pre-dating western settlement of the region and have since become part of wider Australian folklore.[17] Indigenous Australians hold that the number of sightings has increased alongside the increasing ingression of Europeans into the region.[17] According to folklore, the lights sometime follow or approached people and have disappeared when fired upon, only to reappear later on.[17][18]
+Scientific explanation[edit source | edit]
+
+
+
+
+An artist's rendering of a will-o'-the-wisp
+
+
+The earliest attempt to scientifically explain the causes of ignes fatui was by the Italian physicist Alessandro Volta in 1776 when he discovered methane. He proposes that natural electrical phenomena (like lightning) interacting with marsh gas may be the cause of ignes fatui.[19] This was supported by the British polymath Joseph Priestley in his series of works Experiments and Observations on Different Kinds of Air (1772–1790); and by the French physicist Pierre Bertholon de Saint-Lazare in De l’électricité des météores (1787).[20]
+Early critics of the marsh gas hypothesis often dismissed it on various grounds including the unlikeliness of spontaneous combustion, the absence of warmth in some observed ignes fatui, the odd behavior of ignes fatui receding upon being approached, as well as the differing accounts of ball lightning (which was also classified as a kind of ignes fatui).[20] An example of such criticism is the following by the American anthropologist John G. Owens in Folk-Lore from Buffalo Valley (1891):
+
+This is a name that is sometimes applied to a phenomenon perhaps more frequently called Jack-o'-the-Lantern, or Will-o'-the-Wisp. It seems to be a ball of fire, varying in size from that of a candle-flame to that of a man's head. It is generally observed in damp, marshy places, moving to and fro; but it has been known to stand perfectly still and send off scintillations. As you approach it, it will move on, keeping just beyond your reach; if you retire, it will follow you. That these fireballs do occur, and that they will repeat your motion, seems to be established, but no satisfactory explanation has yet been offered that I have heard. Those who are less superstitious say that it is the ignition of the gases rising from the marsh. But how a light produced from burning gas could have the form described and move as described, advancing as you advance, receding as you recede, and at other times remaining stationary, without having any visible connection with the earth, is not clear to me.[21]
+
+However, the apparent retreat of ignes fatui upon being approached might be explained simply by the agitation of the air by nearby moving objects, causing the gases to disperse. This was observed in the very detailed accounts of several close interactions with ignes fatui published earlier in 1832 by Major Louis Blesson after a series of experiments in various localities where they were known to occur.[22] Of note is his first encounter with ignes fatui in a marshland between a deep valley in the forest of Gorbitz, Newmark, Germany. Blesson observed that the water was covered by an iridescent film, and during day-time, bubbles could be observed rising abundantly from certain areas. At night, Blesson observed bluish-purple flames in the same areas and concluded that it was connected to the rising gas. He spent several days investigating the phenomenon, finding to his dismay that the flames retreated every time he tried to approach them. He eventually succeeded and was able to confirm that the lights were indeed caused by ignited gas. The British scientist Charles Tomlinson in On Certain Low-Lying Meteors (1893) describes Blesson's experiments as thus:
+
+On visiting the spot at night, the sensitive flames retired as the major advanced; but on standing quite still, they returned, and he tried to light a piece of paper at them, but the current of air produced by his breath kept them at too great a distance. On turning away his head, and screening his breath, he succeeded in setting fire to the paper. He was also able to extinguish the flame by driving it before him to a part of the ground where no gas was produced; then applying a flame to the place whence the gas issued, a kind of explosion was heard over eight or nine square feet of the marsh; a red light was seen, which faded to a blue flame about three feet high, and this continued to burn with an unsteady motion. As the morning dawned the flames became pale, and they seemed to approach nearer and nearer to the earth, until at last they faded from sight.[20]
+
+Blesson also observed differences in the color and heat of the flames in different marshes. The ignes fatui in Malapane, Upper Silesia (now Ozimek, Poland) could be ignited and extinguished, but were unable to burn pieces of paper or wood shavings. Similarly, the ignes fatui in another forest in Poland coated pieces of paper and wood shavings with an oily viscous fluid instead of burning them. Blesson also accidentally created ignes fatui in the marshes of Porta Westfalica, Germany, while launching fireworks.[20][22]
+In modern science, it is generally accepted that most ignes fatui are caused by the oxidation of phosphine (PH3), diphosphane (P2H4), and methane (CH4). These compounds, produced by organic decay, can cause photon emissions. Since phosphine and diphosphane mixtures spontaneously ignite on contact with the oxygen in air, only small quantities of it would be needed to ignite the much more abundant methane to create ephemeral fires.[23] Furthermore, phosphine produces phosphorus pentoxide as a by-product, which forms phosphoric acid upon contact with water vapor. This might explain the "viscous moisture" described by Blesson.
+One attempt to replicate ignes fatui under laboratory conditions was in 1980 by British geologist Alan A. Mills of the Leicester University. Though he did succeed in creating a cool glowing cloud by mixing crude phosphine and natural gas, the color of the light was green and it produced copious amounts of acrid smoke. This was contrary to most eyewitness accounts of ignes fatui.[24][25] As an alternative, Mills proposed in 2000 that ignes fatui may instead be cold flames.[24][26] These are luminescent pre-combustion halos that occur when various compounds are heated to just below ignition point. Cold flames are indeed typically bluish in color and as their name suggests, they generate very little heat. Cold flames occur in a wide variety of compounds, including hydrocarbons (including methane), alcohols, aldehydes, oils, acids, and even waxes. However it is unknown if cold flames occur naturally, though a lot of compounds which exhibit cold flames are the natural byproducts of organic decay.[24][27]
+A related hypothesis involves the natural chemiluminescence of phosphine. In 2008, the Italian chemists Luigi Garlaschelli and Paolo Boschetti attempted to recreate Mills' experiments. They successfully created a faint cool light by mixing phosphine with air and nitrogen. Though the glow was still greenish in color, Garlaschelli and Boschetti noted that under low-light conditions, the human eye cannot easily distinguish between colors. Furthermore, by adjusting the concentrations of the gases and the environmental conditions (temperature, humidity, etc.), it was possible to eliminate the smoke and smell, or at least render it to undetectable levels. Garlaschelli and Boschetti also agreed with Mills that cold flames may also be a plausible explanation for other instances of ignes fatui.[26]
+In 1993, professors Derr and Persinger proposed that some ignes fatui may be geologic in origin, piezoelectrically generated under tectonic strain. The strains that move faults would also heat up the rocks, vaporizing the water in them. Rock or soil containing something piezoelectric, like quartz, silicon, or arsenic, may also produce electricity, channeled up to the surface through the soil via a column of vaporized water, there somehow appearing as earth lights. This would explain why the lights appear electrical, erratic, or even intelligent in their behavior.[28][29]
+Other explanations link will-o'-the-wisps to bioluminescence, e.g., honey fungus and fireflies. Barn owls also have white plumage that may reflect enough light from sources such as the moon to appear as a will-o'-the-wisp; hence the possibility of the lights moving, reacting to other lights, etc.[30]
+Ignes fatui sightings are rarely reported today. The decline is believed to be the result of the draining and reclamation of swamplands in recent centuries, such as the formerly vast Fenlands of eastern England which have now been converted to farmlands.[25]
+In literature[edit source | edit]
+In literature, Will o' the wisp sometimes has a metaphorical meaning, describing a hope or goal that leads one on but is impossible to reach, or something one finds sinister and confounding.[31]
+In Book IX of John Milton's Paradise Lost, Satan is compared to a "will-o-the-wisp" in tempting of Eve to partake of the fruit of the Tree of Knowledge of good and evil.[32] Samuel Taylor Coleridge's poem The Rime of the Ancient Mariner describes the Will o' the wisp.[33] Two Will-o-the-wisps appear in Johann Wolfgang von Goethe's fairy tale The Green Snake and the Beautiful Lily (1795).[34]
+The Will o' the wisp makes an appearance in the first chapter of Bram Stoker's Dracula.[35] In J. R. R. Tolkien's work The Lord of the Rings, will o' the wisps are present in the Dead Marshes outside of Mordor. The hinkypunk, the name for a Will o' the wisp in South West England has achieved fame as a magical beast in JK Rowling's Harry Potter series.
+In music[edit source | edit]
+In classical music, one of Franz Liszt's most challenging piano studies (the Transcendental Etude No.5), known for its flighty and mysterious quality, bears the title "Feux Follets" (the French term for Will-o'-the-wisp). The phenomenon also appears in "Canción del fuego fatuo" ('Song of the will-o'-the-wisp') in Manuel de Falla's ballet El amor brujo,[36] later covered by Miles Davis as "Will-O'-The-Wisp" on Sketches Of Spain. The German name of the phenomenon, Irrlicht, has been the name of a song by the classical composer Franz Schubert in his song cycle Winterreise. Additionally, the first solo album of electronic musician Klaus Schulze is named Irrlicht. Part 3, Scene 12 of Hector Berlioz' "The Damnation of Faust" is entitled "Menuet des follets" - "Minuet of the Wills-o'-the-Wisp".
+Several bands have written songs about or referring to will-o'-the-wisps, such as Magnolia Electric Co.,[37] Verdunkeln, CROSSS,[38] Leon Russell and Yes. The will-o'-the-wisp is also referred to during the song "Maria" in The Sound of Music.[39]
+Visual media[edit source | edit]
+Will-o'-the-wisp phenomena have appeared in numerous computer games (such as Runescape, Ultima, Everquest, the Quest for Glory series, and the Elder Scrolls series) and tabletop games (including Dungeons and Dragons and Magic: the Gathering), frequently with reference to folklore of the phenomena misleading or harming travellers. The Final Fantasy series also pays tribute to the tradition of a will-o'-the-wisp being a lantern-carrying individual, with the Tonberry creature. In the Pokémon game series, the move "Will-O-Wisp" can inflict a burn on the opponent.
+In television, Willo the Wisp appeared as a short cartoon series on BBC TV in the 1980s, voiced by Kenneth Williams.
+Will-o'-the-wisps play a prominent role in the Disney/Pixar film Brave. In a break from the usual characterization, these will-o'-the-wisps appear benevolent or at least neutral in nature. They are hinted to be to be spirits of the dead, who aid the living by leading them towards their destinies.
+Reported light locations[edit source | edit]
+
+Europe
+
+Ferbane in Ireland
+Hessdalen light in Norway
+Martebo lights in Sweden
+Paasselkä devil in Finland
+Virvatuluke in Estonia
+
+North America
+
+Canada
+
+
+Fireship of Baie des Chaleurs in New Brunswick
+St. Louis Light in Saskatchewan
+
+
+United States
+
+
+Arbyrd/Senath Light of Missouri
+Bragg Road ghost light (Light of Saratoga) of Texas
+Brown Mountain Lights of North Carolina
+Gurdon light of Arkansas
+Hornet ghost light or Spooklight of Missouri-Oklahoma state line
+Maco light of North Carolina
+Marfa lights of Texas
+Oviedo Lights of Florida
+The Paulding Light of Michigan's Upper Peninsula
+Skinwalker Ranch lights of Utah
+Summerville Light of South Carolina
+
+
+See also[edit source | edit]
+
+
+Apparition
+Ball lightning
+Biogas
+Chir Batti
+Corpse road
+Foo fighter
+Halloween
+Hitodama
+Lidérc
+Min Min light
+Naga fireballs
+Omphalotus olearius
+Orb (optics)
+Pwca
+Santelmo
+Soucouyant
+Spontaneous human combustion
+St. Elmo's fire
+Yan-gant-y-tan
+
+
+Notes[edit source | edit]
+
+
+^ Marie Trevelyan (1909). Folk-Lore and Folk-Stories of Wales. London. p. 178. Retrieved 2010-09-18. 
+^ "Ghost Lights and Orbs". Moonslipper.com. Retrieved 2011-11-18. 
+^ Stephen Wagner. "Spooklights: Where to Find Them". About.com. Retrieved 2007-12-08. 
+^ Randall Floyd (1997). "Historical Mysteries: Ghostly lights as common as dew in Dixie". Augusta Chronicle. Retrieved 2007-12-08. 
+^ Mark Hoerrner (2006). "History of the Jack-O-Lantern". buzzle.com. Retrieved 2007-05-09. 
+^ "World Myth" page 113[dead link]
+^ "lambent - alphaDictionary * Free English On-line Dictionary". Alphadictionary.com. Retrieved 2011-11-18. 
+^ "House Shadow Drake - Water Horses and Other Fairy Steeds". Shadowdrake.com. Retrieved 2011-11-18. 
+^ "Colypixy". Pandius.com. Retrieved 2011-11-18. 
+^ Folklore of Guernsey by Marie de Garis (1986) ASIN: B0000EE6P8.
+^ "Bengali Ghosts; byAmbarish Pandey; Apr 7, 2009; PAKISTANTIMES website". Pak-times.com. 2009-04-07. Retrieved 2011-11-18. 
+^ "Blog post by the author Saundra Mitchel of the novel "Shadowed Summer" at Books Obsession". Booksobsession.blogspot.com. 2009-10-09. Retrieved 2011-11-18. 
+^ a b Ghost lights that dance on Banni grasslands when it’s very dark; by D V Maheshwari; August 28, 2007; The Indian Express Newspaper
+^ "I read somewhere that on dark nights there are strange lights that dance on the Rann. The locals call them cheer batti or ghost lights. It's a phenomenon widely documented but not explained." SOURCE: Stark beauty (Rann of Kutch); Bharati Motwani; September 23, 2008; India Today Magazine, Cached: Page 2 of 3 page article with these search terms highlighted: cheer batti ghost lights rann kutch [1], Cached: Complete View - 3 page article seen as a single page [2]
+^ Mizuki, Shigeru. "Graphic World of Japanese Phantoms". 講談社, 1985. ISBN 978-4-06-202381-8 (4-06-202381-4).
+^ "ref". Terrabrasileira.net. Retrieved 2011-11-18. 
+^ a b c d e Pettigrew, John D. (March 2003). "The Min Min light and the Fata Morgana. An optical account of a mysterious Australian phenomenon" (PDF). Clin Exp Optom 86 (2): 109–20. doi:10.1111/j.1444-0938.2003.tb03069.x. PMID 12643807. 
+^ a b Kozicka, M.G. "The Mystery of the Min Min Light. Cairns", Bolton Imprint
+^ Marco Ciardi (2000). "Falling Stars, Instruments and Myths: Volta and the Birth of Modern Meteorology". In Fabio Bevilacqua & Lucio Fregonese. Nuova Voltiana: Studies on Volta and His Times. Editore Ulrico Hoepli. p. 43. 
+^ a b c d Charles Tomlinson (1893). "On Certain Low-Lying Meteors". In A. Cowper Ranyard. Knowledge: An Illustrated Magazine of Science. Simply Worded—Exactly Described (Witherby & Co.) 16 (New Series, Vol. III): 46–48. 
+^ Owens, J.G., 1891. "Folk-Lore from Buffalo Valley." Journal of American Folk-lore. 4:123-4.
+^ a b Louis Blesson (1832–1833). "Observations on the Ignis Fatuus, or Will-with-the-Wisp, Falling Stars, and Thunder Storms". The Edinburgh New Philosophical Journal (Neill & Company) 14: 90–94. 
+^ Joris Roels & Willy Verstrae (2001). "Biological formation of volatile phosphorus compounds". Bioresource Technology (Elsevier) 79: 243–250. 
+^ a b c A. A. Mills (2000). "Will-o'-the-wisp revisited". Weather (Royal Meteorological Society) 55 (7): 20–26. doi:10.1002/j.1477-8696.2000.tb04067.x. 
+^ a b Jan Zalasiewicz (2007). "The spirit of biodiversity". In Richard Twitchett. The Paleontology Newsletter (64): 20–26. 
+^ a b Luigi Garlaschelli & Paolo Boschetti. On the track of the will-o'-the-wisp. Dipartimento di Chimica Organica, Università di Pavia. 
+^ Pearlman, Howard; Chapek, Richard M. (1999). Cool Flames and Autoignition: Thermal-Ingnition Theory of Combustion Experimentally Validated in Microgravity. NASA. p. 142. ISBN 1-4289-1823-X. , Web version at NASA
+^ Persinger, M.A. (1993). Perceptual and Motor Skills. "Geophysical variables and behavior: LXXIV. Man-made fluid injections into the crust and reports of luminous phenomena (UFO Reports) — Is the strain field an aseismically propagating hydrological pulse?". 
+^ Derr, J.S. (1993). Perceptual and Motor Skills. "Seasonal hydrological load and regional luminous phenomena (UFO reports) within river systems: the Mississippi Valley test.". 
+^ A Review of accounts of luminosity in Barn Owls Tyto alba.
+^ entry on will-o'-the-wisp in The American Heritage Dictionary of the English Language, Fourth Edition Copyright © 2007, 2000 by Houghton Mifflin Company. Updated in 2007. Published by Houghton Mifflin Company. All rights reserved
+^ Paradise Lost, 9.631-642
+^ Samuel Taylor Coleridge. "The Rime of the Ancient Mariner". Electronic Text Center. Retrieved 2007-05-30. 
+^ Johann Wolfgang von Goethe. "The Fairy Tale of the Green Snake and the Beautiful Lily". 
+^ Bram Stoker. "Dracula". The Free Library. Retrieved 2007-11-09. 
+^ "Lyrics from "El amor brujo"". Web.archive.org. 2009-10-26. Retrieved 2011-11-18. 
+^ "Discography » Magnolia Electric Co. - Sojourner Box Set". Magnolia Electric Co. Retrieved 2011-11-18. 
+^ http://crosss.bandcamp.com/album/obsidian-spectre
+^ "The Sound of Music - Maria Lyrics". Lyricsmania.com. Retrieved 2011-11-18. 
+
+
+References[edit source | edit]
+
+
+The Denham Tracts by Michael Denham
+The Haunted Abbot by Peter Tremayne
+Remarkable Luminous Phenomena in Nature by William Corliss
+Het dwaallicht by Willem Elsschot
+
+
+External links[edit source | edit]
+
+
+
+Wikimedia Commons has media related to: Will-o'-the-wisps
+
+
+
+The Folklore of the British Isles
+The Earth's Anomalous Lightforms
+The Ignis Erraticus - A Bibliographic Survey of the names of the Will-'o-the-wisp 
+Spook Light 101: A Local Perspective
+
+
+
+ 
+NewPP limit report
+CPU time usage: 3.688 seconds
+Real time usage: 4.100 seconds
+Preprocessor visited node count: 10217/1000000
+Preprocessor generated node count: 21990/1500000
+Post‐expand include size: 90499/2048000 bytes
+Template argument size: 13795/2048000 bytes
+Highest expansion depth: 20/40
+Expensive parser function count: 3/500
+Lua time usage: 0.196s
+Lua memory usage: 2.17 MB
+
+
+ Saved in parser cache with key enwiki:pcache:idhash:152262-0!*!0!!en!4!* and timestamp 20130919142055 
+								
+				Retrieved from "http://en.wikipedia.org/w/index.php?title=Will-o%27-the-wisp&oldid=572979931"				
+												Categories: Atmospheric ghost lightsEuropean folkloreGhostsMarshesEuropean ghostsHidden categories: All articles with dead external linksArticles with dead external links from November 2011All articles with unsourced statementsArticles with unsourced statements from December 2011Articles needing additional references from August 2012All articles needing additional referencesCommons category with local link different than on Wikidata												
+							
+		
+		
+			Navigation menu
+			
+				
+	Personal tools
+	
+Create accountLog in	
+
+				
+					
+	Namespaces
+	
+					Article
+					Talk
+			
+
+
+	
+		
+	Variants
+	
+		
+					
+	
+
+				
+				
+					
+	Views
+	
+					Read
+					Edit source
+					Edit
+					View history
+			
+
+
+	Actions
+	
+		
+					
+	
+
+
+	Search
+	
+				
+																				
+		
+	
+
+				
+			
+			
+					
+				
+	Navigation
+	
+		
+			Main page
+			Contents
+			Featured content
+			Current events
+			Random article
+			Donate to Wikipedia
+		
+	
+
+
+	Interaction
+	
+		
+			Help
+			About Wikipedia
+			Community portal
+			Recent changes
+			Contact page
+		
+	
+
+
+	Toolbox
+	
+		
+			What links here
+			Related changes
+			Upload file
+			Special pages
+			Permanent link
+			Page information
+			Data item
+Cite this page		
+	
+
+
+	Print/export
+	
+		
+			Create a book
+			Download as PDF
+			Printable version
+		
+	
+
+
+	Languages
+	
+		
+			বাংলা
+			Bikol Central
+			Català
+			Česky
+			Deutsch
+			Eesti
+			Español
+			Esperanto
+			Français
+			Furlan
+			Hornjoserbsce
+			Íslenska
+			Italiano
+			Latina
+			Latviešu
+			Lietuvių
+			Magyar
+			Nederlands
+			日本語
+			Norsk bokmål
+			Norsk nynorsk
+			Nouormand
+			Polski
+			Português
+			Русский
+			Simple English
+			Suomi
+			Svenska
+			Українська
+			اردو
+			West-Vlams
+			粵語
+			中文
+			
+			Edit links
+		
+	
+
+			
+		
+		
+							
+											 This page was last modified on 15 September 2013 at 05:46.
+											Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. 
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+									
+							
+											Privacy policy
+											About Wikipedia
+											Disclaimers
+											Contact Wikipedia
+											Developers
+											Mobile view
+									
+										
+					
+						
+					
+					
+						
+					
+				
+						
+		
+		
+
+
+ Served by mw1020 in 0.233 secs. 
+	
+if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Will-o'-the-wisp","wgTitle":"Will-o'-the-wisp","wgCurRevisionId":572979931,"wgArticleId":152262,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["All articles with dead external links","Articles with dead external links from November 2011","All articles with unsourced statements","Articles with unsourced statements from December 2011","Articles needing additional references from August 2012","All articles needing additional references","Commons category with local link different than on Wikidata","Atmospheric ghost lights","European folklore","Ghosts","Marshes","European ghosts"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Will-o'-the-wisp","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgVectorEnabledModules":{"collapsiblenav":true,"expandablesearch":false,"sectioneditlinks":false,"experiments":true},"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"templateEditor":false,"templates":false,"preview":false,"previewDialog":false,"publish":false,"toc":false},"wgArticleFeedbackv5Permissions":{"aft-reader":true,"aft-member":false,"aft-editor":false,"aft-monitor":false,"aft-administrator":false,"aft-oversighter":false,"aft-noone":false},"wgVisualEditor":{"isPageWatched":false,"magnifyClipIconURL":"//bits.wikimedia.org/static-1.22wmf16/skins/common/images/magnify-clip.png","pageLanguageCode":"en","pageLanguageDir":"ltr"},"wikilove-recipient":"","wikilove-anon":0,"wgGuidedTourHelpGuiderUrl":"Help:Guided tours/guider","wgULSAcceptLanguageList":["en-us","en"],"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia","aftv5Article":{"id":152262,"title":"Will-o'-the-wisp","namespace":0,"categories":["All articles needing additional references","All articles with dead external links","All articles with unsourced statements","Articles needing additional references from August 2012","Articles with dead external links from November 2011","Articles with unsourced statements from December 2011","Atmospheric ghost lights","Commons category with local link different than on Wikidata","European folklore","European ghosts","Ghosts","Marshes"],"permissionLevel":false},"wgWikibaseItemId":"Q160569"});
+}if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":false,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,
+"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"useeditwarning":1,"prefershttps":1,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"vector-simplesearch":1,"vector-collapsiblenav":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"aftv5-last-filter":null,"visualeditor-enable":1,"visualeditor-betatempdisable":0,"wikilove-enabled":1,"echo-subscriptions-web-page-review":true,"echo-subscriptions-email-page-review":false,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"echo-notify-show-link":true,"echo-show-alert":true,"echo-email-frequency":0,"echo-email-format":"html","echo-subscriptions-email-system":true,"echo-subscriptions-web-system":true,"echo-subscriptions-email-other":false,"echo-subscriptions-web-other":true,"echo-subscriptions-email-edit-user-talk":false,"echo-subscriptions-web-edit-user-talk":true,"echo-subscriptions-email-reverted":false,
+"echo-subscriptions-web-reverted":true,"echo-subscriptions-email-article-linked":false,"echo-subscriptions-web-article-linked":false,"echo-subscriptions-email-mention":false,"echo-subscriptions-web-mention":true,"echo-subscriptions-web-edit-thank":true,"echo-subscriptions-email-edit-thank":false,"gettingstarted-task-toolbar-show-intro":true,"uls-preferences":"","language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs446":false,"searchNs447":false,"searchNs710":false,"searchNs711":false,
+"searchNs828":false,"searchNs829":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-mySandbox":1,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:544fb4b5baf19c160c5691d0221972fc */
+}if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","ext.visualEditor.viewPageTarget.init","ext.wikimediaShopLink.core","ext.uls.init","ext.uls.interface","wikibase.client.init","ext.centralNotice.bannerController","skins.vector.js"]);
+}/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}if(window.mw){
+mw.loader.load(["mobile.desktop","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.cite","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","mw.MwEmbedSupport.style","ext.vector.collapsibleNav","ext.articleFeedbackv5.startup","ext.gettingstarted.logging","ext.gettingstarted.openTask","schema.HttpsSupport","ext.coreEvents.httpsSupport","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","mw.PopUpMediaTransform"],null,true);
+}

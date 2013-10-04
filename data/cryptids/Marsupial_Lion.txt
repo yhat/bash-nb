@@ -1,0 +1,411 @@
+
+
+
+Marsupial lion - Wikipedia, the free encyclopedia
+
+
+
+
+
+
+
+
+
+
+
+
+a:lang(ar),a:lang(ckb),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:0de201fdea5d684523607ed88007b127 */
+
+
+
+
+[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.22wmf18/skins/vector/csshover.min.htc")}</style><![endif]
+
+		
+		
+		
+			
+			
+						 CentralNotice 
+						Marsupial lion
+			
+								From Wikipedia, the free encyclopedia
+								  (Redirected from Marsupial Lion)
+												
+					Jump to:					navigation, 					search
+				
+				This article is about the species Thylacoleo carnifex.  For the biological family of marsupial lions, see Thylacoleonidae.
+
+
+
+Marsupial Lion
+Temporal range: Early – Late Pleistocene
+
+
+
+
+
+Scientific classification
+
+
+Kingdom:
+Animalia
+
+
+Phylum:
+Chordata
+
+
+Class:
+Mammalia
+
+
+Infraclass:
+Marsupialia
+
+
+Order:
+Diprotodontia
+
+
+Family:
+†Thylacoleonidae
+
+
+Genus:
+†Thylacoleo
+
+
+Species:
+†T. carnifex
+
+
+Binomial name
+
+
+Thylacoleo carnifex
+Owen, 1859
+
+
+
+The marsupial lion (Thylacoleo carnifex, the "murderous (or 'meat-cutting') marsupial lion" from thylakos – pouch, leo – lion, carnifex – murderer, tormentor, 'butcher') is an extinct species of carnivorous marsupial mammal that lived in Australia from the early to the late Pleistocene (1,600,000–46,000 years ago).[1] Despite its name it is not closely related to the lion, but is a member of the order Diprotodontia.
+
+
+Contents
+
+
+1 Description
+
+1.1 Evolutionary relationships
+1.2 Dentition
+
+
+2 Behaviour
+3 Palaeoecology
+4 Classification
+5 Fossils
+6 See also
+7 References
+8 External links
+
+
+Description[edit]
+
+
+
+
+Skeleton of a marsupial lion (Thylacoleo carnifex) in the Victoria Fossil Cave, Naracoorte Caves National Park, South Australia.
+
+
+The marsupial lion is the largest meat-eating mammal known to have ever existed in Australia, and one of the largest marsupial carnivores from anywhere in the world (although see Thylacosmilus and Borhyaena). Individuals ranged up to around 75 cm (30 in) high at the shoulder and about 150 cm (59 in) from head to tail. Measurements taken from a number of specimens show that they averaged 100 to 130 kg (220 to 290 lb) in weight although individuals heavier than 160 kg (350 lb) might not have been uncommon.[2] This would make it quite comparable to female lions and tigers in general size.
+The animal was extremely robust with powerfully built jaws and very strong forelimbs. It possessed retractable claws, a unique trait among marsupials. This would have allowed the claws to remain sharp by protecting them from being worn down on hard surfaces. The claws were well-suited to securing prey and for climbing trees. The first digits ("thumbs") on each hand were semi-opposable and bore an enlarged claw. Palaeontologists believe that this would have been used to grapple its intended prey as well as providing it with a sure footing on tree trunks and branches. The hind feet had four functional toes, the first digit being much reduced in size but possessing a roughened pad similar to that of possums, which may have assisted with climbing. It is unclear whether the marsupial lion exhibited syndactyly (fused second and third toes) like other diprotodonts.
+The marsupial lion's hindquarters were also well-developed although to a lesser extent than the front of the animal. Remains of the animal show that it had a relatively thick and strong tail and that the vertebrae possessed chevrons on their undersides where the tail would have contacted the ground. These would have served to protect critical elements such as nerves and blood vessels if the animal used its tail to support itself when on its hind legs, much like present day kangaroos do. Taking this stance would free up its forelimbs to tackle or slash at its intended victim.[3]
+Evolutionary relationships[edit]
+The ancestors of thylacoleonids are believed to have been herbivores, which is unusual for carnivores. Some features indicate that they evolved from a phalangeriform (possum) ancestor while other features suggest a vombatiform ancestry, today represented by wombats and koalas.[4]
+Dentition[edit]
+
+
+
+
+Skull of T. carnifex clearly showing the incisors and blade-like carnassial premolars
+
+
+The marsupial lion was a highly specialised carnivore and this is reflected in its dentition (teeth). Like other diprotodonts, it possessed enlarged incisors on both the upper (maxillae) and lower (mandibles) jaws. These teeth (the lower in particular) were shaped much more like the pointed canine teeth of animals such as dogs and cats than those of Kangaroos. The most unusual feature of the creature's dentition were the huge blade-like carnassial premolars on either side of its jaws. The top and bottom carnassials worked together like shears and would have been very effective at slicing off chunks of flesh from carcasses and cutting through bone.
+The jaw muscle of the marsupial lion was exceptionally large for its size, giving it an extremely powerful bite. Biometric calculations show that, considering size, it had the strongest bite of any known mammal, living or extinct; a 100 kg (220 lb) individual would have had a bite comparable with that of a 250 kg (550 lb) African lion.[5] Using 3D modeling based on CT scans, it was found that marsupial lions were unable to use the prolonged suffocating bite typical of living big cats. The marsupial lion instead had an extremely efficient and unique bite; the incisors would have been used to stab at and pierce the flesh of its prey while the more specialised carnassials crushed the windpipe, severed the spinal cord and lacerated the major blood vessels such as the carotid artery and jugular vein. Compared to an African lion which may take 15 minutes to kill a large catch, the marsupial lion could kill a large animal in less than a minute. The skull was so specialized for big game that it was very inefficient at catching smaller animals — which possibly contributed to its extinction.[6][7]
+Behaviour[edit]
+The marsupial lion's limb proportions and muscle mass distribution indicate that, although it was a powerful animal, it was not a particularly fast runner. Palaeontologists conjecture that it was an ambush predator, either sneaking up and then leaping upon its prey, or dropping down on it from overhanging tree branches. It is thought to have hunted large animals such as the Hippopotamus-sized Diprotodon and giant browsing kangaroos like Sthenurus and Procoptodon. Despite its size it may not have been a true apex predator as it shared at least part of its range with the 6 m (20 ft) long goanna Megalania. The marsupial lion may have cached kills in trees in a manner similar to the modern Leopard.[8] Like many predators, it was probably also an opportunistic scavenger, feeding off carrion and driving off less powerful predators from their kills.
+CT scans of a well-preserved skull have allowed scientists to study internal structures and create a brain endocast showing the surface features of the animal's brain. The parietal lobes, visual cortex, and olfactory bulbs of the cerebrum were enlarged indicating that the marsupial lion had a good sense of hearing, sight, and smell, as might be expected of an active predator. There were also a pair of blind canals within the nasal cavity which were probably associated with detecting pheromones as in the Tasmanian Devil. This indicates that it most likely had seasonal mating habits and would "sniff out" a mate when in season.[9]
+Palaeoecology[edit]
+Numerous fossil discoveries indicate that the marsupial lion was distributed across much of the Australian continent. A large proportion of its environment would have been similar to the southern third of Australia today, semi-arid open scrub and woodland punctuated by waterholes and water courses.[citation needed]
+It would have co-existed with many of the so-called Australian megafauna such as the previously mentioned Diprotodon, giant kangaroos, and Megalania, as well as giant wallabies like Protemnodon, the giant wombat Phascolonus, and the thunderbird Genyornis.[9]
+Many of these animals would have been prey for adult marsupial lions. The marsupial lion was especially adapted for hunting large animals but was not particularly suited to catching smaller prey. The relatively quick reduction in the numbers of its primary food source around 40,000 to 50,000 years ago probably led to the decline and eventual extinction of the marsupial lion. The arrival of humans in Australia and the use of fire-stick farming precipitated their decline.[10]
+Classification[edit]
+The marsupial lion is classified in the order Diprotodontia along with many other well-known marsupials such as kangaroos, possums, and the koala. It is further classified in its own family, the Thylacoleonidae, of which 3 genera and 11 species are recognised, all extinct. The term marsupial lion (lower case) is often applied to other members of this family. The marsupial lion's closest living relatives are the herbivorous koala and wombats.
+Fossils[edit]
+
+
+
+
+Drawing of Thylacoleo carnifex skull fragments by Richard Owen.
+
+
+Fossils of the marsupial lion have been found at several sites in Australia since the mid-19th century. A complete articulated skeleton was discovered in limestone caves under the Nullarbor Plain in 2002. The ends of the limb bones were not fully fused indicating that the animal was a sub-adult and not full-grown.
+Unlike most fossils, these bones were not mineralised and had been preserved in this state for approximately 500,000 years by the low humidity and cool temperature of the cave. The partial remains of ten other individuals were found in this or nearby caves, along with hundreds of other specimens of other animals.[11]
+It is believed the animals fell to their death tens of metres below, through narrow openings in the roof of the caves known as sinkholes. The caves and sinkholes were formed by groundwater slowly dissolving and eroding the limestone forming the bed of the plain (once a shallow sea).[1]
+See also[edit]
+
+
+
+
+Mammals portal
+
+
+
+Extinction portal
+
+
+
+Paleontology portal
+
+
+
+Biology portal
+
+
+
+Animals portal
+
+
+
+Ecology portal
+
+
+
+
+Australian megafauna
+Pleistocene megafauna
+
+
+References[edit]
+
+
+^ a b Thylacoleo (panel 1) at Western Australian Museum
+^ Wroe, S.; Myers, T. J.; Wells, R. T.; Gillespie, A. (1999). "Estimating the weight of the Pleistocene marsupial lion, Thylacoleo carnifex (Thylacoleonidae : Marsupialia): implications for the ecomorphology of a marsupial super-predator and hypotheses of impoverishment of Australian marsupial carnivore faunas". Australian Journal of Zoology 47 (5): 489–498. doi:10.1071/ZO99006. 
+^ "Bone Diggers – Anatomy of Thylacoleo", Nova (PBS) 
+^ Thylacoleo carnifex at Australian Museum
+^ Wroe, S.; McHenry, C.; Thomason, J. (2005). "Bite club: comparative bite force in big biting mammals and the prediction of predatory behaviour in fossil taxa". Proceedings of the Royal Society B: Biological Sciences 272 (1563): 619–25. doi:10.1098/rspb.2004.2986. PMC 1564077. PMID 15817436. 
+^ "Extinct Marsupial Lion Tops African Lion In Fight To Death", Science Daily, 17 January 2008.
+^ "Marsupial lion was fast killer", The Australian, 18 January 2008.
+^ Western Australian Museum Thylacoleo (panel 3) at Western Australian Museum
+^ a b Thylacoleo "The Beast of the Nullarbor", Catalyst, Western Australian Museum, Storyteller Media Group and ABC TV, 17 August 2006.
+^ "'Humans killed off Australia's giant beasts'". BBC News. 24 March 2012. 
+^ Amalfi, Carmelo (31 July 2002). "Beneath the desert, the past blooms". The Age (Melbourne). Retrieved 2012-09-13. 
+
+
+External links[edit]
+
+Anatomy of Thylacoleo (Interactive feature from Nova)
+BBC news article about Wroe's comparative study of bite force amongst mammalian predators
+Fact sheet from Australian Museum Online
+Move Over Sabre-Tooth Tiger by Stephen Wroe from Australian Museum Online.
+
+
+
+ 
+NewPP limit report
+CPU time usage: 1.312 seconds
+Real time usage: 1.459 seconds
+Preprocessor visited node count: 6194/1000000
+Preprocessor generated node count: 27087/1500000
+Post‐expand include size: 28639/2048000 bytes
+Template argument size: 6954/2048000 bytes
+Highest expansion depth: 29/40
+Expensive parser function count: 1/500
+Lua time usage: 0.086s
+Lua memory usage: 1.77 MB
+
+
+ Saved in parser cache with key enwiki:pcache:idhash:8290753-0!*!0!!en!4!* and timestamp 20130921015013 
+								
+				Retrieved from "http://en.wikipedia.org/w/index.php?title=Marsupial_lion&oldid=572920137"				
+												Categories: Carnivorous marsupialsPrehistoric mammals of AustraliaPrehistoric diprotodontsPleistocene marsupialsMegafauna of AustraliaHidden categories: Articles with 'species' microformatsAll articles with unsourced statementsArticles with unsourced statements from June 2008												
+							
+		
+		
+			Navigation menu
+			
+				
+	Personal tools
+	
+Create accountLog in	
+
+				
+					
+	Namespaces
+	
+					Article
+					Talk
+			
+
+
+	
+		
+	Variants
+	
+		
+					
+	
+
+				
+				
+					
+	Views
+	
+					Read
+					Edit
+					View history
+			
+
+
+	Actions
+	
+		
+					
+	
+
+
+	Search
+	
+				
+																				
+		
+	
+
+				
+			
+			
+					
+				
+	Navigation
+	
+		
+			Main page
+			Contents
+			Featured content
+			Current events
+			Random article
+			Donate to Wikipedia
+		
+	
+
+
+	Interaction
+	
+		
+			Help
+			About Wikipedia
+			Community portal
+			Recent changes
+			Contact page
+		
+	
+
+
+	Toolbox
+	
+		
+			What links here
+			Related changes
+			Upload file
+			Special pages
+			Permanent link
+			Page information
+			Data item
+Cite this page		
+	
+
+
+	Print/export
+	
+		
+			Create a book
+			Download as PDF
+			Printable version
+		
+	
+
+
+	Languages
+	
+		
+			Brezhoneg
+			Català
+			Deutsch
+			Español
+			فارسی
+			हिन्दी
+			Bahasa Indonesia
+			עברית
+			Қазақша
+			Latina
+			Magyar
+			日本語
+			Polski
+			Русский
+			Simple English
+			Suomi
+			Svenska
+			粵語
+			
+			Edit links
+		
+	
+
+			
+		
+		
+							
+											 This page was last modified on 14 September 2013 at 18:50.
+											Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. 
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+									
+							
+											Privacy policy
+											About Wikipedia
+											Disclaimers
+											Contact Wikipedia
+											Developers
+											Mobile view
+									
+										
+					
+						
+					
+					
+						
+					
+				
+						
+		
+		
+
+
+ Served by mw1052 in 0.231 secs. 
+	
+if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Marsupial_lion","wgTitle":"Marsupial lion","wgCurRevisionId":572920137,"wgArticleId":8290753,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with 'species' microformats","All articles with unsourced statements","Articles with unsourced statements from June 2008","Carnivorous marsupials","Prehistoric mammals of Australia","Prehistoric diprotodonts","Pleistocene marsupials","Megafauna of Australia"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Marsupial_lion","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Marsupial_Lion","wgVectorEnabledModules":{"collapsiblenav":true,"experiments":true},"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"templateEditor":false,"templates":false,"preview":false,"previewDialog":false,"publish":false,"toc":false},"wgArticleFeedbackv5Permissions":{"aft-reader":true,"aft-member":false,"aft-editor":false,"aft-monitor":false,"aft-administrator":false,"aft-oversighter":false,"aft-noone":false},"wgVisualEditor":{"isPageWatched":false,"magnifyClipIconURL":"//bits.wikimedia.org/static-1.22wmf18/skins/common/images/magnify-clip.png","pageLanguageCode":"en","pageLanguageDir":"ltr"},"wikilove-recipient":"","wikilove-anon":0,"wgGuidedTourHelpGuiderUrl":"Help:Guided tours/guider","wgULSAcceptLanguageList":["en-nz"],"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia","aftv5Article":{"id":8290753,"title":"Marsupial lion","namespace":0,"categories":["All articles with unsourced statements","Articles with 'species' microformats","Articles with unsourced statements from June 2008","Carnivorous marsupials","Megafauna of Australia","Pleistocene marsupials","Prehistoric diprotodonts","Prehistoric mammals of Australia"],"permissionLevel":false},"wgWikibaseItemId":"Q685786"});
+}if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":false,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,
+"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"useeditwarning":1,"prefershttps":1,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"vector-simplesearch":1,"vector-collapsiblenav":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"aftv5-last-filter":null,"visualeditor-enable":0,"visualeditor-enable-experimental":0,"visualeditor-betatempdisable":0,"wikilove-enabled":1,"echo-subscriptions-web-page-review":true,"echo-subscriptions-email-page-review":false,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"echo-notify-show-link":true,"echo-show-alert":true,"echo-email-frequency":0,"echo-email-format":"html","echo-subscriptions-email-system":true,"echo-subscriptions-web-system":true,"echo-subscriptions-email-other":false,"echo-subscriptions-web-other":true,"echo-subscriptions-email-edit-user-talk":false,"echo-subscriptions-web-edit-user-talk":true,
+"echo-subscriptions-email-reverted":false,"echo-subscriptions-web-reverted":true,"echo-subscriptions-email-article-linked":false,"echo-subscriptions-web-article-linked":false,"echo-subscriptions-email-mention":false,"echo-subscriptions-web-mention":true,"echo-subscriptions-web-edit-thank":true,"echo-subscriptions-email-edit-thank":false,"gettingstarted-task-toolbar-show-intro":true,"uls-preferences":"","language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs446":false,"searchNs447":false
+,"searchNs710":false,"searchNs711":false,"searchNs828":false,"searchNs829":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-mySandbox":1,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:156d8fe0ae17f8afd74198057563e45d */
+}if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","ext.visualEditor.viewPageTarget.init","ext.wikimediaShopLink.core","ext.uls.init","ext.uls.interface","wikibase.client.init","ext.centralNotice.bannerController","skins.vector.js"]);
+}/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}if(window.mw){
+mw.loader.load(["mobile.desktop","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.cite","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","mw.MwEmbedSupport.style","ext.vector.collapsibleNav","ext.articleFeedbackv5.startup","ext.gettingstarted.logging","ext.gettingstarted.openTask","schema.HttpsSupport","ext.coreEvents.httpsSupport","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","mw.PopUpMediaTransform"],null,true);
+}

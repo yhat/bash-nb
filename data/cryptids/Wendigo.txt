@@ -1,0 +1,410 @@
+
+
+
+Wendigo - Wikipedia, the free encyclopedia
+
+
+
+
+
+
+
+
+
+
+
+
+a:lang(ar),a:lang(ckb),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:0de201fdea5d684523607ed88007b127 */
+
+
+
+
+[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.22wmf18/skins/vector/csshover.min.htc")}</style><![endif]
+
+		
+		
+		
+			
+			
+						 CentralNotice 
+						Wendigo
+			
+								From Wikipedia, the free encyclopedia
+								
+												
+					Jump to:					navigation, 					search
+				
+				"Windigo" redirects here. For other uses, see Windigo (disambiguation).
+For other uses, see Wendigo (disambiguation).
+The wendigo (also known as windigo, weendigo, windago, waindigo, windiga, witiko, wihtikow, and numerous other variants)[1] is a demonic creature appearing in the legends of the Algonquian peoples along the Atlantic Coast of the United States and Canada. The creature or spirit could either possess humans or be a monster that had physically transformed from a person. It is particularly associated with cannibalism. The Algonquian believed those who indulged in eating human flesh were at particular risk;[2] the legend appears to have reinforced the practice of cannibalism as a taboo.
+The legend lends its name to the disputed modern medical term wendigo psychosis. This is supposed to be a culture-bound disorder that features symptoms such as an intense craving for human flesh and a fear the sufferer is a cannibal. This condition was alleged to have occurred among Algonquian native cultures, [3] but remains disputed.
+The wendigo character now is a common creature found within modern horror fiction.[4]
+
+
+Contents
+
+
+1 Algonquian mythology
+
+1.1 Description
+1.2 Human wendigos
+1.3 Taboo reinforcement ceremony
+
+
+2 Modern applications of the term
+3 References in popular culture
+4 See also
+5 Notes
+
+5.1 Citations
+5.2 References
+
+
+
+
+Algonquian mythology[edit]
+Description[edit]
+The wendigo is part of the traditional belief systems of various Algonquian-speaking tribes in the northern United States and Canada, most notably the Ojibwe and Saulteaux, the Cree, the Naskapi, and the Innu people.[5] Although descriptions varied somewhat, common to all these cultures was the conception of wendigos as malevolent, cannibalistic, supernatural beings (manitous) of great spiritual power.[6] They were strongly associated with the winter, the north, and coldness, as well as with famine and starvation.[7] Basil Johnston, an Ojibwe teacher and scholar from Ontario, gives one description of how wendigos were viewed:[8]
+
+The Wendigo was gaunt to the point of emaciation, its desiccated skin pulled tautly over its bones. With its bones pushing out against its skin, its complexion the ash gray of death, and its eyes pushed back deep into their sockets, the Weendigo looked like a gaunt skeleton recently disinterred from the grave. What lips it had were tattered and bloody [....] Unclean and suffering from suppurations of the flesh, the Weendigo gave off a strange and eerie odor of decay and decomposition, of death and corruption.
+
+At the same time, wendigos were embodiments of gluttony, greed, and excess: never satisfied after killing and consuming one person, they were constantly searching for new victims. In some traditions, humans who became overpowered by greed could turn into wendigos; the wendigo myth thus served as a method of encouraging cooperation and moderation.[9]
+Among the Ojibwe, Eastern Cree, Westmain Swampy Cree, Naskapi, and Innu, wendigos were said to be giants, many times larger than human beings (a characteristic absent from the wendigo myth in the other Algonquian cultures).[10] Whenever a wendigo ate another person, it would grow in proportion to the meal it had just eaten, so that it could never be full.[11] Therefore, wendigos were portrayed as simultaneously, constantly gorging themselves and, emaciated from starvation.
+Human wendigos[edit]
+All cultures in which the wendigo myth appeared shared the belief that human beings could turn into wendigos if they ever resorted to cannibalism,[2] or, alternatively, become possessed by the demonic spirit of a wendigo, often in a dream. Once transformed, a person would become violent and obsessed with eating human flesh. The most frequent cause of transformation into a wendigo was if a person had resorted to cannibalism, consuming the body of another human in order to keep from starving to death during a time of extreme hardship, for example in hard winters, or famine.[12]
+Among northern Algonquian cultures, cannibalism, even to save one's own life, was viewed as a serious taboo; the proper response to famine was suicide or resignation to death.[13] On one level, the wendigo myth thus worked as a deterrent and a warning against resorting to cannibalism; those who did would become wendigo monsters themselves.
+Taboo reinforcement ceremony[edit]
+Among the Assiniboine, the Cree and the Ojibwe, a satirical ceremonial dance originally was performed during times of famine to reinforce the seriousness of the wendigo taboo. The ceremonial dance, known as a wiindigookaanzhimowin in Ojibwe and today performed as part of the last day activities of the Sun Dance, involves wearing a mask and dancing about the drum backward.[14] The last known wendigo ceremony conducted in the United States was at Lake Windigo of Star Island of Cass Lake, located within the Leech Lake Indian Reservation in northern Minnesota.[when?][15]
+Modern applications of the term[edit]
+"Wendigo Psychosis" (also spelled many other ways, including "windigo psychosis" and "witiko psychosis") refers to a condition in which sufferers developed an insatiable desire to eat human flesh even when other food sources were readily available,[16] often as a result of prior famine cannibalism.[17] Wendigo psychosis traditionally has been identified by Western psychologists as a culture-bound syndrome, although there is a debate over the existence of the phenomenon as a genuine disorder. The theory was popular primarily among psychologists in the early 1900s, and may have resulted from a misinterpretation of northern Algonquian myths and culture.[18]
+In accounts of wendigo psychosis, it was reported that members of the aboriginal communities in which it existed believed that cases literally involved individuals turning into wendigos. Such individuals generally recognized these symptoms as meaning that they were turning into wendigos, and often requested to be executed before they could harm others.[19] Reportedly, the most common response when someone began suffering from wendigo psychosis was the practice of curing attempts by traditional native healers or Western doctors. In the unusual cases where these attempts failed, reports indicate that the wendigo began either to threaten those around them or to act violently or anti-socially, generally they were then executed.[20] Cases of wendigo psychosis, though evidently real, were relatively rare, and it was even rarer for them to culminate in the execution of the sufferer.[20]
+One of the more famous cases of wendigo psychosis reported involved a Plains Cree trapper from Alberta, named Swift Runner.[21][22] During the winter of 1878, Swift Runner and his family were starving, and his eldest son died. Twenty-five miles away from emergency food supplies at a Hudson's Bay Company post, Swift Runner butchered and ate his wife and five remaining children.[23] Given that he resorted to cannibalism so near to food supplies, and that he killed and consumed the remains of all those present, it was revealed that Swift Runner's was not a case of pure cannibalism as a last resort to avoid starvation, but rather of a man suffering from wendigo psychosis.[23] He eventually confessed and was executed by authorities at Fort Saskatchewan.[24]
+Another well-known case involving wendigo psychosis was that of Jack Fiddler, an Oji-Cree chief and shaman known for his powers at defeating wendigos. In some cases this entailed euthanizing people suffering from wendigo psychosis; as a result, in 1907, Fiddler and his brother Joseph were arrested by the Canadian authorities for murder. Jack committed suicide, but Joseph was tried and sentenced to life in prison. He ultimately was granted a pardon, but died three days later in jail before receiving the news of this pardon.[25]
+Fascination with wendigo psychosis among Western ethnographers, psychologists, and anthropologists led to a hotly debated controversy in the 1980s over the historicity of this phenomenon. Some researchers argued that essentially, wendigo psychosis was a fabrication, the result of naïve anthropologists taking stories related to them at face value without observation.[18][26] Others have pointed to a number of credible eyewitness accounts, both by Algonquians and others, as evidence that wendigo psychosis was a factual historical phenomenon.[27]
+The frequency of wendigo psychosis cases decreased sharply in the twentieth century as Boreal Algonquian people came into greater and greater contact with Western ideologies and more sedentary, less rural, lifestyles.[3] While there is some substantive evidence to suggest that wendigo psychosis might have existed, a number of questions concerning the condition remain unanswered, and there is continuing debate over its existence, nature, significance, and prevalence.
+References in popular culture[edit]
+
+A wendigo character appears in the final episodes of season one of Hannibal. He represents the serial cannibal Hannibal Lecter in the mind of Will Graham.
+
+
+Early references to wendigos in literature include Henry Wadsworth Longfellow's 1855 The Song of Hiawatha ("Slay all monsters and magicians,/All the wendigoes, the giants...").[28]
+
+
+While wendigos have been referred to in literature for many decades (most notably in Algernon Blackwood's 1910 story "The Wendigo," which introduced the legend to horror fiction,[29] and in Stephen King's novel Pet Sematary[30]), recently they have become something of a stock character in horror and fantasy films and television, along the lines of werewolves and vampires, usually bearing very little resemblance to the Native American legends. A notable exception is Jean Zimmerman's 2012 novel, The Orphanmaster, which features a plot centered around the wendigo and wendigo psychosis.[31]
+
+
+Creatures based upon the wendigo appear in the movies Wendigo[32] and Ravenous and in episodes of the television series The X-Files,[33] Blood Ties,[34] Charmed,[35] Fear Itself,[36] Supernatural,[37] Haven,[38] Grimm[39] Hannibal[40] and others.
+
+
+Characters bearing the name appear in a number of computer and video games, including Final Fantasy,[41] The Legend of Dragoon,[42] The Secret World[43] and the Warcraft universe,[44] as well as role-playing games such as Dungeons & Dragons.[45]
+
+
+There is a Marvel Comics character known as Wendigo.
+
+
+In the Dark Horse comics series B.P.R.D., a hunter named Daryl is turned into a wendigo, and features prominently in the storyline.
+
+
+In The Cabin in the Woods, wendigo is a name given to an ape-like beast which also is referred to as a Sasquatch and a Yeti.
+
+
+Wendigo is also a name given to a fictional tribe of Native American werewolves[46] in the pencil and paper role playing game Werewolf: The Apocalypse[47] by White Wolf Game Studios.
+
+
+The second book in Rick Yancey's monstrumologist series The Curse of the Wendigo centers around a hunt for the mythical creature.
+
+
+Alvin Schwartz's Scary Stories to Tell in the Dark series includes a short story focusing on a character called a wendigo, however, this story depicts the wendigo as a supernatural force that incinerates people, not as a flesh-and-blood being.
+
+
+Wendigo characters also play a part in supernatural romance author Kresley Cole's series, most notably in her book Lothaire.
+
+
+In The Lone Ranger, Tonto claims to be the last wendigo hunter of the Comanche and is adamant that Butch Cavendish is a wendigo.
+
+
+The Digimon franchise features a creature named Wendigomon (also called Wendimon or Endigomon). Wendigomon is the villain in the second half of Digimon: The Movie.
+
+
+Windego is the refrain in the song The Priests Of The Golden Bull by Buffy Sainte-Marie referring to Uranium miners and the corruption of politicians.
+
+
+The iOS and Android Game Blood Brothers features a creature known as Desna, who is a Wendigo. Desna is a powerful Bigfoot-like creature with an association with ice and snow, similar to a yeti but with less hair.
+
+
+In the 2005,British movie " The Descent" the protagonists, after their accidental cave in, in the state of North Carolina, encounter Flesh-Eating creatures, sharing features & characteristics similar to that of a "Wendigo"
+
+See also[edit]
+
+Skin-walker, a person, who according to a Native American belief, has the supernatural ability to turn themselves into an animal.
+Wechuge, is a similar creature that appears in the legends of the Athabaskan people of the North West Pacific Coast.
+Jikininki, Japanese spirits of cursed individuals who in death must seek out and eat human corpses.
+Rakshasa, a human-flesh eating creature according to Hinduism.
+Jinn, creatures of Arabic mythology which may be good or evil.
+Ogre, European monsters which traditionally ate babies.
+Ithaqua, (the Wind-Walker) a fictional character in the Cthulhu Mythos of H. P. Lovecraft.
+Zombie, a fictional undead creature frequently depicted hungering for human brains or flesh.
+
+Notes[edit]
+Citations[edit]
+
+
+^ The name is medigoo in the Ojibwe language (the source of the English word [Brightman 1988:344]), wìdjigò in the Algonquin language, and wīhtikōw in the Cree language; the Proto-Algonquian term was *wi·nteko·wa, which probably meant "owl" in their original language (Goddard 1969, cited in Brightman 1988:340).
+^ a b Brightman (1988:337, 339, 343, 364)
+^ a b Brightman (1988:337-8, 374)
+^ "TVTropes: Main/Wendigo". 
+^ Brightman (1988:359, 362); Parker (1960:603)
+^ Brightman (1988:337, 339)
+^ Brightman (1988:362)
+^ Johnston (2001:221)
+^ Johnston (2001:222-225); Johnston (1990:167)
+^ Brightman (1988:344)
+^ Johnston (2001:222, 226); Johnston (1990:166); Schwarz (1969:11)
+^ Brightman (1988:343, 364)
+^ Brightman (1988:365-6)
+^ "The Mask Dance". Saskatchewan Indian 5 (2): 45. February 1976. Retrieved 2007-03-20. 
+^ Warren, William W. History of the Ojibway People. Borealis Books (St. Paul, MN: 1984).
+^ Brightman (1988:351-2, 365)
+^ Brightman (1988:343, 346, 347); Parker (1960:603)
+^ a b Marano (1982)
+^ Brightman (1988:348, 349)
+^ a b Brightman (1988:357-8)
+^ Brightman (1988:352-3)
+^ Hanon, Andrew (2008-07-20). "Evil spirit made man eat family". Cnews. Retrieved 2008-08-16. 
+^ a b Brightman (1988:353, 373)
+^ Brightman (1988:352)
+^ Fiddler, Thomas and James R. Stevens (1985). Killing the Shamen. Manotick, Ontario: Penumbra Press
+^ Brightman (1988:355)
+^ Brightman (1988:361)
+^ The Song of Hiawatha, book 4. wikisource.
+^ Algernon Blackwood. The Wendigo at Project Gutenberg
+^ Heller, Terry. "Love and Death in Stephen King's 'Pet Sematary'". Retrieved 2009-03-29. 
+^ Jean Zimmerman. [1]
+^ "Wendigo (2001)". IMDB. Retrieved 2007-03-18. 
+^ http://en.wikipedia.org/wiki/Shapes_%28The_X-Files%29
+^ "Blood Ties: Heart of Ice (2007)". TV.com. Retrieved 2007-04-19. 
+^ "Charmed: The Wendigo (1999)". IMDB. Retrieved 2007-03-18. 
+^ "Fear Itself: Skin and Bones (2008)". IMDB. Retrieved 2013-04-13. 
+^ "Supernatural: Wendigo (2005)". IMDB. Retrieved 2007-03-18. 
+^ "Haven: Who, What, Where, Wendigo? (2011)". IMDB. Retrieved 2012-01-08. 
+^ "Grimm: To Protect and Serve Man (2012)". IMDB. Retrieved 2012-11-10. 
+^ "Hannibal: Meet our Wendigo!". facebook. Retrieved 2013-06-25. 
+^ "Bestiary: Enemies S-Z". Final Fantasy VIII. Final Fantasy Online. Retrieved 2007-03-18. 
+^ "Windigo". The Legend of Dragoon Strategy Guide. IGN.com. Retrieved 2010-11-08. 
+^ http://www.thesecretworld.com/world/monsters/wendigo
+^ "Wendigos". Warcraft III Strategy Guide. Battle.net. Retrieved 2007-03-18. 
+^ "Dungeons & Dragons 3.5 Edition Index: Monsters: by Subtype" (PDF). Dungeons & Dragons and the d20-System. Crystal Keep. Retrieved 2007-03-18. 
+^ http://whitewolf.wikia.com/wiki/Wendigo
+^ Werewolf: The Apocalypse role playing game first published in 1992 by White Wolf Game Studios
+
+
+References[edit]
+
+Dispelling Wetiko, Breaking the Curse of Evil by Paul LEVY, NORTH ATLANTIC BOOKS (2013) ISBN 978-1-58394-548-3
+Brightman, Robert A. (1988). "The Windigo in the Material World". Ethnohistory 35 (4): 337–379. doi:10.2307/482140. JSTOR 482140. 
+Colombo, J.R. ed. Wendigo. Western Producer Prairie Books, Saskatoon: 1982.
+Goddard, Ives (1969). "Owls and Cannibals: Two Algonquian Etymologies". Paper presented at the Second Algonquian Conference, St. John's, Newfoundland. 
+Joh/Users, Basil (1990 [1976]). Ojibway Heritage. Lincoln: University of Nebraska Press.
+———— (2001 [1995]). The Manitous. St. Paul: Minnesota Historical Society Press.
+Marano, Lou (1982). "Windigo Psychosis: The Anatomy of an Emic-Etic Confusion". Current Anthropology 23: 385–412. 
+Parker, Seymour (1960). "The Wiitiko Psychosis in the Context of Ojibwa Personality and Culture". American Anthropologist 62 (4): 603–623. doi:10.1525/aa.1960.62.4.02a00050. 
+Schwarz, Herbert T. (1969). Windigo and Other Tales of the Ojibways, illustrated by Norval Morrisseau. Toronto: McClelland and Stewart Limited.
+Teicher, Morton I. (1961). "Windigo Psychosis: A Study of Relationship between Belief and Behaviour among the Indians of Northeastern Canada." In Proceedings of the 1960 Annual Spring Meeting of the American Ethnological Society, ed. Verne P. Ray. Seattle: University of Washington Press.
+
+
+
+ 
+NewPP limit report
+CPU time usage: 1.052 seconds
+Real time usage: 1.088 seconds
+Preprocessor visited node count: 1868/1000000
+Preprocessor generated node count: 10344/1500000
+Post‐expand include size: 27386/2048000 bytes
+Template argument size: 1282/2048000 bytes
+Highest expansion depth: 16/40
+Expensive parser function count: 0/500
+Lua time usage: 0.093s
+Lua memory usage: 2.02 MB
+
+
+ Saved in parser cache with key enwiki:pcache:idhash:451642-0!*!0!!en!*!* and timestamp 20131003171418 
+								
+				Retrieved from "http://en.wikipedia.org/w/index.php?title=Wendigo&oldid=575605864"				
+												Categories: Anishinaabe mythologyCulture-bound syndromesFictional cannibalsSupernatural legendsLegendary creatures of the indigenous peoples of North AmericaCanadian folkloreHidden categories: Vague or ambiguous time from July 2013												
+							
+		
+		
+			Navigation menu
+			
+				
+	Personal tools
+	
+Create accountLog in	
+
+				
+					
+	Namespaces
+	
+					Article
+					Talk
+			
+
+
+	
+		
+	Variants
+	
+		
+					
+	
+
+				
+				
+					
+	Views
+	
+					Read
+					Edit
+					View history
+			
+
+
+	Actions
+	
+		
+					
+	
+
+
+	Search
+	
+				
+																				
+		
+	
+
+				
+			
+			
+					
+				
+	Navigation
+	
+		
+			Main page
+			Contents
+			Featured content
+			Current events
+			Random article
+			Donate to Wikipedia
+		
+	
+
+
+	Interaction
+	
+		
+			Help
+			About Wikipedia
+			Community portal
+			Recent changes
+			Contact page
+		
+	
+
+
+	Toolbox
+	
+		
+			What links here
+			Related changes
+			Upload file
+			Special pages
+			Permanent link
+			Page information
+			Data item
+Cite this page		
+	
+
+
+	Print/export
+	
+		
+			Create a book
+			Download as PDF
+			Printable version
+		
+	
+
+
+	Languages
+	
+		
+			Deutsch
+			Español
+			Français
+			Italiano
+			Magyar
+			Nederlands
+			日本語
+			Occitan
+			Polski
+			Português
+			Русский
+			Suomi
+			Svenska
+			ไทย
+			中文
+			
+			Edit links
+		
+	
+
+			
+		
+		
+							
+											 This page was last modified on 3 October 2013 at 17:14.
+											Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. 
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+									
+							
+											Privacy policy
+											About Wikipedia
+											Disclaimers
+											Contact Wikipedia
+											Developers
+											Mobile view
+									
+										
+					
+						
+					
+					
+						
+					
+				
+						
+		
+		
+
+
+ Served by mw1177 in 0.152 secs. 
+	
+if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Wendigo","wgTitle":"Wendigo","wgCurRevisionId":575605864,"wgArticleId":451642,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Vague or ambiguous time from July 2013","Anishinaabe mythology","Culture-bound syndromes","Fictional cannibals","Supernatural legends","Legendary creatures of the indigenous peoples of North America","Canadian folklore"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Wendigo","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgVectorEnabledModules":{"collapsiblenav":true,"experiments":true},"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"templateEditor":false,"templates":false,"preview":false,"previewDialog":false,"publish":false,"toc":false},"wgArticleFeedbackv5Permissions":{"aft-reader":false,"aft-member":false,"aft-editor":false,"aft-monitor":false,"aft-administrator":false,"aft-oversighter":false,"aft-noone":false},"wgVisualEditor":{"isPageWatched":false,"magnifyClipIconURL":"//bits.wikimedia.org/static-1.22wmf18/skins/common/images/magnify-clip.png","pageLanguageCode":"en","pageLanguageDir":"ltr"},"wikilove-recipient":"","wikilove-anon":0,"wgGuidedTourHelpGuiderUrl":"Help:Guided tours/guider","wgULSAcceptLanguageList":[],"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia","aftv5Article":{"id":451642,"title":"Wendigo","namespace":0,"categories":["Anishinaabe mythology","Canadian folklore","Culture-bound syndromes","Fictional cannibals","Legendary creatures of the indigenous peoples of North America","Supernatural legends","Vague or ambiguous time from July 2013"],"permissionLevel":false},"wgWikibaseItemId":"Q370801"});
+}if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":false,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,
+"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"useeditwarning":1,"prefershttps":1,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"vector-simplesearch":1,"vector-collapsiblenav":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"aftv5-last-filter":null,"visualeditor-enable":0,"visualeditor-enable-experimental":0,"visualeditor-betatempdisable":0,"wikilove-enabled":1,"echo-subscriptions-web-page-review":true,"echo-subscriptions-email-page-review":false,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"echo-notify-show-link":true,"echo-show-alert":true,"echo-email-frequency":0,"echo-email-format":"html","echo-subscriptions-email-system":true,"echo-subscriptions-web-system":true,"echo-subscriptions-email-other":false,"echo-subscriptions-web-other":true,"echo-subscriptions-email-edit-user-talk":false,"echo-subscriptions-web-edit-user-talk":true,
+"echo-subscriptions-email-reverted":false,"echo-subscriptions-web-reverted":true,"echo-subscriptions-email-article-linked":false,"echo-subscriptions-web-article-linked":false,"echo-subscriptions-email-mention":false,"echo-subscriptions-web-mention":true,"echo-subscriptions-web-edit-thank":true,"echo-subscriptions-email-edit-thank":false,"gettingstarted-task-toolbar-show-intro":true,"uls-preferences":"","language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs446":false,"searchNs447":false
+,"searchNs710":false,"searchNs711":false,"searchNs828":false,"searchNs829":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-mySandbox":1,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:156d8fe0ae17f8afd74198057563e45d */
+}if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","ext.visualEditor.viewPageTarget.init","ext.wikimediaShopLink.core","ext.uls.init","ext.uls.interface","wikibase.client.init","ext.centralNotice.bannerController","skins.vector.js"]);
+}/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}if(window.mw){
+mw.loader.load(["mobile.desktop","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.cite","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","mw.MwEmbedSupport.style","ext.vector.collapsibleNav","ext.articleFeedbackv5.startup","ext.gettingstarted.logging","ext.gettingstarted.openTask","schema.HttpsSupport","ext.coreEvents.httpsSupport","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","mw.PopUpMediaTransform"],null,true);
+}

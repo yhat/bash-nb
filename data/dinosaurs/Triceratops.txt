@@ -1,0 +1,1063 @@
+
+
+
+Triceratops - Wikipedia, the free encyclopedia
+
+
+
+
+
+
+
+
+
+
+
+
+a:lang(ar),a:lang(ckb),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:0de201fdea5d684523607ed88007b127 */
+
+
+
+
+[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.22wmf18/skins/vector/csshover.min.htc")}</style><![endif]
+
+		
+		
+		
+			
+			
+						 CentralNotice 
+						Triceratops
+			
+								From Wikipedia, the free encyclopedia
+								
+												
+					Jump to:					navigation, 					search
+				
+				
+
+
+Triceratops
+Temporal range: Late Cretaceous, 68–65.5Ma
+
+PreЄ
+Є
+O
+S
+D
+C
+P
+T
+J
+K
+Pg
+N
+
+
+
+↓
+
+
+
+
+
+
+
+
+
+T. horridus skeleton mounted with modern limb-posture, Natural History Museum of Los Angeles County
+
+
+Scientific classification 
+
+
+Kingdom:
+Animalia
+
+
+Phylum:
+Chordata
+
+
+Clade:
+Sauropsida
+
+
+Clade:
+Dinosauria
+
+
+Order:
+†Ornithischia
+
+
+Family:
+†Ceratopsidae
+
+
+Subfamily:
+†Chasmosaurinae
+
+
+Tribe:
+†Triceratopsini
+
+
+Genus:
+†Triceratops
+Marsh, 1889
+
+
+Type species
+
+
+†Triceratops horridus
+Marsh, 1889
+
+
+Species
+
+
+
+†T. horridus Marsh, 1889
+†T. prorsus Marsh, 1890
+
+
+
+Synonyms
+
+
+
+Agathaumas? Cope, 1872
+Polyonax? Cope, 1874
+Bison alticornis Marsh, 1887
+Torosaurus? Marsh, 1891
+Sterrholophus Marsh, 1891
+Claorhynchus? Cope, 1892
+Ugrosaurus Cobabe & Fastovsky, 1987
+Nedoceratops? Ukrainsky, 2007
+Diceratus? Mateus, 2008
+Ojoceratops? Sullivan & Lucas, 2010
+Tatankaceratops? Ott & Larson, 2010
+
+
+
+
+Triceratops (/traɪˈsɛrətɒps/ try-SERR-ə-tops) is a genus of herbivorous ceratopsid dinosaur that lived during the late Maastrichtian stage of the Late Cretaceous Period, around 68 to 65.5 million years ago (Mya) in what is now North America. It was one of the last non-avian dinosaur genera to appear before the Cretaceous–Paleogene extinction event.[1] The term Triceratops, which literally means "three-horned face", is derived from the Greek τρί- (tri-) meaning "three", κέρας (kéras) meaning "horn", and ὤψ (ops) meaning "face".[2][3]
+Bearing a large bony frill and three horns on its large four-legged body, and conjuring similarities with the modern rhinoceros, Triceratops is one of the most recognizable of all dinosaurs and the best known ceratopsid. It shared the landscape with and was preyed upon by the fearsome Tyrannosaurus,[4] though it is less certain that the two did battle in the manner often depicted in traditional museum displays and popular images.
+The exact placement of the Triceratops genus within the ceratopsid group has been debated by paleontologists. Two species, T. horridus and T. prorsus, are considered valid although many other species have been named. Research published on 2012 suggests that the contemporaneous Torosaurus, a ceratopsid long regarded as a separate genus, represents Triceratops in its mature form,[5][6] and not accepted by everyone.[7] A study published on 2012 by Daniel Field and Nicholas Longrich, researchers from Yale, would later disagree with this assertion upholding that the two should be classified as separate species.[8][9]
+Triceratops has been documented by numerous remains collected since the genus was first described in 1889, including at least one complete individual skeleton.[10] Paleontologist John Scannella observed: "It is hard to walk out into the Hell Creek Formation and not stumble upon a Triceratops weathering out of a hillside." Forty-seven complete or partial skulls were discovered in just that area during the decade 2000–2010.[11] Specimens representing life stages from hatchling to adult have been found.[12]
+The function of the frills and three distinctive facial horns has long inspired debate. Traditionally these have been viewed as defensive weapons against predators. More recent theories, noting the presence of blood vessels in the skull bones of ceratopsids, find it more probable that these features were primarily used in identification, courtship and dominance displays, much like the antlers and horns of modern reindeer, mountain goats, or rhinoceros beetles.[13] The theory finds additional support if Torosaurus represents the mature form of Triceratops, as this would mean the frill also developed holes (fenestrae) as individuals reached maturity, rendering the structure more useful for display than defense.[5]
+
+
+Contents
+
+
+1 Description
+
+1.1 Limbs
+
+
+2 Classification
+
+2.1 Use in phylogenetics
+2.2 Evolutionary origins
+
+
+3 Paleobiology
+
+3.1 Dentition and diet
+3.2 Functions of the horns and frill
+3.3 Paleopathology
+
+
+4 Discovery and identification
+
+4.1 Species
+
+4.1.1 Valid species
+4.1.2 Synonyms and doubtful species
+
+4.1.2.1 Nedoceratops
+4.1.2.2 Torosaurus
+4.1.2.3 Ojoceratops and Tatankaceratops
+
+
+
+
+
+
+5 Depiction in recent popular media
+6 References
+7 External links
+
+
+Description[edit]
+
+
+
+
+Triceratops compared in size with a human
+
+
+Individual Triceratops are estimated to have reached about 7.9 to 9.0 m (26.0–29.5 ft) in length, 2.9 to 3.0 m (9.5–9.8 ft) in height,[14][15] and 6.1–12.0 tonnes (13,000–26,000 lb) in weight.[16] The most distinctive feature is their large skull, among the largest of all land animals. The largest known skull (specimen BYU 12183) is estimated to have been 2.5 metres (8.2 ft) in length when complete,[5] and could reach almost a third of the length of the entire animal.[12] It bore a single horn on the snout, above the nostrils, and a pair of horns approximately 1 m (3 ft) long, with one above each eye. To the rear of the skull was a relatively short, bony frill, adorned with epoccipitals in some specimens. Most other ceratopsids had large fenestrae in their frills, while those of Triceratops were noticeably solid.
+The skin of Triceratops was unusual compared to other dinosaurs. Skin impressions from an as-yet undescribed specimen show that some species may have been covered in bristle-like structures, similar to the more primitive ceratopsian Psittacosaurus.[17]
+Limbs[edit]
+
+
+
+
+Life restoration of a subadult T. horridus
+
+
+Triceratops species possessed a sturdy build, with strong limbs, short hands with three hooves each, and short feet with four hooves each.[10] Although certainly quadrupedal, the posture of these dinosaurs has long been the subject of some debate. Originally, it was believed that the front legs of the animal had to be sprawling at angles from the thorax, in order to better bear the weight of the head.[13] This stance can be seen in paintings by Charles Knight and Rudolph Zallinger. Ichnological evidence in the form of trackways from horned dinosaurs, and recent reconstructions of skeletons (both physical and digital) seem to show that Triceratops and other ceratopsids maintained an upright stance during normal locomotion, with the elbows flexed and slightly bowed out, in an intermediate state between fully upright and fully sprawling (as in the modern rhinoceros).[10][18][19][20]
+The hands and forearms of Triceratops retained a fairly primitive structure compared to other quadrupedal dinosaurs such as thyreophorans and many sauropods. In those two groups, the forelimbs of quadrupedal species were usually rotated so that the hands faced forward with palms backward ("pronated") as the animals walked. Triceratops, like other ceratopsians and the related quadrupedal ornithopods, walked with most of their fingers pointing out and away from the body, the primitive condition for dinosaurs also retained by bipedal forms like the theropods. In Triceratops, the weight of the body was carried by only the first three fingers of the hand, while the third and fourth were vestigial and lacked claws or hooves.[10] The phalangeal formula is 2-3-4-3-1, meaning that the innermost finger of the forelimb has two bones, the next has three, etc.[21]
+Classification[edit]
+
+
+
+
+Front view of skull with a prominent epoccipital fringe, Houston Museum of Natural Science
+
+
+Triceratops is the best known genus of the Ceratopsidae, a family of large North American horned dinosaurs. The exact location of Triceratops among the ceratopsians has been debated over the years. Confusion stemmed mainly from the combination of short, solid frills (similar to that of Centrosaurinae), and the long brow horns (more akin to Ceratopsinae, also known as Chasmosaurinae). In the first overview of horned dinosaurs, R. S. Lull hypothesized two lineages, one of Monoclonius and Centrosaurus leading to Triceratops, the other with Ceratops and Torosaurus, making Triceratops a centrosaurine as the group is understood today.[22] Later revisions supported this view, formally describing the first, short-frilled group as Centrosaurinae (including Triceratops), and the second, long-frilled group as Chasmosaurinae.[23][24]
+In 1949, C. M. Sternberg was the first to question this and favoured instead that Triceratops was more closely related to Arrhinoceratops and Chasmosaurus based on skull and horn features, making Triceratops a ceratopsine (chasmosaurine of his usage) genus.[25] He was largely ignored, with John Ostrom,[26] and later David Norman both placing Triceratops within Centrosaurinae.[27]
+Subsequent discoveries and analyses upheld Sternberg's view on the position of Triceratops, with Lehman defining both subfamilies in 1990 and diagnosing Triceratops as ceratopsine (chasmosaurine of his usage) on the basis of several morphological features. In fact, it fits well into the ceratopsine subfamily, apart from its one feature of a shortened frill.[28] Further research by Peter Dodson, including a 1990 cladistic analysis[29] and a 1993 study using RFTRA (resistant-fit theta-rho analysis),[30] a morphometric technique which systematically measures similarities in skull shape, reinforces Triceratops' placement in the ceratopsine subfamily.
+Below is a cladogram following Sampson et al. (2010).[31]
+
+
+Ceratopsidae
+
+
+
+
+
+Centrosaurinae
+
+
+
+
+
+
+Chasmosaurinae
+
+
+
+
+
+Chasmosaurus
+
+
+
+
+
+
+
+
+
+
+
+
+Mojoceratops
+
+
+
+
+
+
+
+
+
+
+
+
+Agujaceratops
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Utahceratops
+
+
+
+
+
+
+
+
+Pentaceratops
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Coahuilaceratops
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Kosmoceratops
+
+
+
+
+
+
+
+
+Vagaceratops
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Anchiceratops
+
+
+
+
+
+
+
+
+
+
+
+
+Arrhinoceratops
+
+
+
+
+
+
+
+
+
+
+
+
+Ojoceratops
+
+
+
+
+
+
+
+
+Eotriceratops
+
+
+
+
+
+
+
+
+
+
+
+
+Torosaurus
+
+
+
+
+
+
+
+
+
+
+
+
+Nedoceratops
+
+
+
+
+
+
+
+
+Triceratops
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Use in phylogenetics[edit]
+In phylogenetic taxonomy, the genus has been used as a reference point in the definition of Dinosauria; Dinosaurs have been designated as all descendants of the most recent common ancestor of Triceratops and Neornithes (i.e. modern birds).[32] Furthermore, the bird-hipped dinosaurs, Ornithischia, have been designated as all dinosaurs with a more recent common ancestor to Triceratops than modern birds.[33]
+Evolutionary origins[edit]
+
+
+
+
+Skull of specimen DMNH 48617 from the Laramie Formation of eastern Colorado. Based on the age of the formation, it may be the oldest Triceratops known.
+
+
+For many years after its discovery the evolutionary origins of Triceratops remained largely obscure. In 1922 the newly discovered Protoceratops was seen as its ancestor by Henry Fairfield Osborn,[13] but many decades passed before additional findings came to light. Recent years have been fruitful for the discovery of several dinosaurs related to ancestors of Triceratops. Zuniceratops, the earliest known ceratopsian with brow horns, was described in the late 1990s, and Yinlong, the first known Jurassic ceratopsian, in 2005.
+These new finds have been vital in illustrating the origins of horned dinosaurs in general, suggesting an Asian origin in the Jurassic, and the appearance of truly horned ceratopsians by the beginning of the late Cretaceous in North America.[34] As Triceratops is increasingly shown to be a member of the long-frilled Ceratopsinae subfamily, a likely ancestor may have resembled Chasmosaurus, which thrived some 5 million years earlier.
+Paleobiology[edit]
+
+
+
+
+A 1905 chart showing the relatively small brain of a Triceratops (top) and an Edmontosaurus (bottom).
+
+
+Although Triceratops are commonly portrayed as herding animals, there is currently little evidence that they lived in herds. While several other genera of horned dinosaurs are known from bonebeds preserving bones from two to hundreds or thousands of individuals, to date there is only one documented bonebed dominated by Triceratops bones: a site in southeastern Montana with the remains of three juveniles. It may be significant that only juveniles were present.[35] Another, more recent find may reveal that Triceratops lived in small family groups. In 2012, a group of three Triceratops in relatively complete condition, each of varying sizes from a full-grown adult to a small juvenile, were found in Wyoming, near Newcastle. The remains are currently under excavation by paleontologist Peter Larson and a team from the Black Hills Institute. It is believed that the animals were traveling as a family unit, but it remains unknown if the group consists of a mated pair and their offspring, or two females and a juvenile they were caring for. The remains also show signs of predation or scavenging from Tyrannosaurus, particularly on the largest specimen, with the bones of the front limbs showing breakage and puncture wounds from Tyrannosaurus teeth.[36]
+For many years, Triceratops finds were known only from solitary individuals.[35] These remains are very common; for example, Bruce Erickson, a paleontologist of the Science Museum of Minnesota, has reported having seen 200 specimens of T. prorsus in the Hell Creek Formation of Montana.[37] Similarly, Barnum Brown claimed to have seen over 500 skulls in the field.[13]:79 Because Triceratops teeth, horn fragments, frill fragments, and other skull fragments are such abundant fossils in the Lancian faunal stage of the late Maastrichtian (late Cretaceous, 68 to 65 mya) Period of western North America, it is regarded as among the dominant herbivores of the time, if not the most dominant herbivore. In 1986, Robert Bakker estimated it as making up 5/6ths of the large dinosaur fauna at the end of the Cretaceous.[38]:438 Unlike most animals, skull fossils are far more common than postcranial bones for Triceratops, suggesting that the skull had an unusually high preservation potential.[39]
+Triceratops was one of the last ceratopsian genera to appear before the Cretaceous–Paleogene extinction event. The related Torosaurus, and the more distantly related diminutive Leptoceratops, were also present, though their remains have been rarely encountered.[13]
+Dentition and diet[edit]
+
+
+
+
+Close up of the jaws and teeth
+
+
+Triceratops were herbivorous, and because of their low head, their primary food was probably low growth, although they may have been able to knock down taller plants with their horns, beak, and bulk.[34][40] The jaws were tipped with a deep, narrow beak, believed to have been better at grasping and plucking than biting.[26]
+Triceratops teeth were arranged in groups called batteries, of 36 to 40 tooth columns, in each side of each jaw with 3 to 5 stacked teeth per column, depending on the size of the animal.[34] This gives a range of 432 to 800 teeth, of which only a fraction were in use at any given time (tooth replacement was continuous and occurred throughout the life of the animal).[34] They functioned by shearing in a vertical to near-vertical orientation.[34] The great size and numerous teeth of Triceratops suggests that they ate large volumes of fibrous plant material,[34] with some suggesting palms and cycads,[41][42] and others suggesting ferns, which then grew in prairies.[43]
+Functions of the horns and frill[edit]
+There has been much speculation over the functions of Triceratops' head adornments. The two main theories have revolved around use in combat, or display in courtship, with the latter thought now to be the most likely primary function.[34]
+Early on, Lull postulated that the frills may have served as anchor points for the jaw muscles to aid chewing by allowing increased size and thus power for the muscles.[44] This has been put forward by other authors over the years, but later studies do not find evidence of large muscle attachments on the frill bones.[45]
+Triceratops were long thought to have possibly used their horns and frills in combat with predators such as Tyrannosaurus, the idea being discussed first by C. H. Sternberg in 1917 and 70 years later by Robert Bakker.[38][46] There is evidence that Tyrannosaurus did have aggressive head-on encounters with Triceratops, based on partially healed tyrannosaur tooth marks on a Triceratops brow horn and squamosal; the bitten horn is also broken, with new bone growth after the break. Which animal was the aggressor is not known.[47] Since the Triceratops wounds healed, it is most likely that the Triceratops survived the encounter and managed to overcome the Tyrannosaurus. Paleontologist Peter Dodson estimates that if Tyrannosaurus attacked a bull Triceratops, the Triceratops had the upper hand and would successfully defend itself by inflicting fatal wounds to the Tyrannosaurus using its sharp horns.[48] Tyrannosaurus is also known to have fed on Triceratops. Evidence for this includes a heavily tooth-scored Triceratops ilium and sacrum.[4]
+
+
+
+
+Examples of periosteal reactive bone in selected specimens of Triceratops
+
+
+In addition to combat with predators using horns, Triceratops are classically shown engaging each other in combat with horns locked. While studies show that such activity would be feasible, if unlike that of present-day horned animals,[49] there is disagreement about whether they did so. Although pitting, holes, lesions, and other damage on Triceratops skulls (and the skulls of other ceratopsids) are often attributed to horn damage in combat, a 2006 study finds no evidence for horn thrust injuries causing these forms of damage (for example, there is no evidence of infection or healing). Instead, non-pathological bone resorption, or unknown bone diseases, are suggested as causes.[50] A newer study compared incidence rates of skull lesions and periosteal reaction in Triceratops and Centrosaurus and showed that these were consistent with Triceratops using its horns in combat and the frill being adapted as a protective structure, while lower pathology rates in Centrosaurus may indicate visual rather than physical use of cranial ornamentation, or a form of combat focused on the body rather than the head.[51] The frequency of injury was found to be 14% in Triceratops.[52] The researchers also concluded that the damage found on the specimens in the study was often too localized to be caused by bone disease.[53] Histological examination reveals that the frill of Triceratops is composed of fibrolamellar bone[54] which contains fibroblasts that play a critical role in wound healing, and are capable of rapidly depositing bone during remodeling.[55][56]
+
+
+
+
+Juvenile and adult skulls — the juvenile skull is about the size of an adult human head
+
+
+The large frill also may have helped to increase body area to regulate body temperature.[57] A similar theory has been proposed regarding the plates of Stegosaurus,[58] although this use alone would not account for the bizarre and extravagant variation seen in different members of the Ceratopsidae.[34] This observation is highly suggestive of what is now believed to be the primary function, display.
+The theory of their use in sexual display was first proposed by Davitashvili in 1961 and has gained increasing acceptance since.[28][45][59] Evidence that visual display was important, either in courtship or in other social behavior, can be seen in the fact that horned dinosaurs differ markedly in their adornments, making each species highly distinctive. Also, modern living creatures with such displays of horns and adornments use them in similar behavior.[60] A 2006 study of the smallest Triceratops skull, ascertained to be a juvenile, shows the frill and horns developed at a very early age, predating sexual development and thus probably important for visual communication and species recognition in general.[61]
+Paleopathology[edit]
+One skull, assigned to Triceratops, was observed to have a hole in the jugal which appears to be a puncture wound that was sustained while this individual was still alive. This is supported by signs of healing that are present in the bone around the supposed wound. When examined closely, the hole in the bone has a diameter that is very similar to diameter of the distal end of a Triceratops horn. This, and other apparent healed wounds in the skulls of ceratopsians, has been cited as evidence of non-fatal intraspecific competition in these dinosaurs.[62][63]
+Discovery and identification[edit]
+
+
+
+
+Illustration of specimen YPM 1871E, the horn cores that were erroneously attributed to Bison alticornis, the first named specimen of Triceratops
+
+
+The first named specimen now attributed to Triceratops is a pair of brow horns attached to a skull roof, found near Denver, Colorado in the spring of 1887.[64] This specimen was sent to Othniel Charles Marsh, who believed that the formation from which it came dated from the Pliocene, and that the bones belonged to a particularly large and unusual bison, which he named Bison alticornis.[64][65] He realized that there were horned dinosaurs by the next year, which saw his publication of the genus Ceratops from fragmentary remains,[66] but he still believed B. alticornis to be a Pliocene mammal. It took a third and much more complete skull to change his mind. The specimen, collected in 1888 by John Bell Hatcher from the Lance Formation of Wyoming, was initially described as another species of Ceratops.[67] After reflection, Marsh changed his mind and gave it the generic name Triceratops, accepting his Bison alticornis as another species of Ceratops[68] (it would later be added to Triceratops[22]). The sturdy nature of the animal's skull has ensured that many examples have been preserved as fossils, allowing variations between species and individuals to be studied. Triceratops remains have subsequently been found in the American states of Montana and South Dakota (in addition to Colorado and Wyoming), and in the Canadian provinces of Saskatchewan and Alberta.
+An earlier specimen, also recovered from the Lance Formation, was named Agathaumas sylvestris by Edward Drinker Cope in 1872. Originally identified as a hadrosaur, this specimen consists only of post-cranial remains and is only provisionally considered an example of Triceratops.[69]
+Species[edit]
+Within the first decades after Triceratops was described, various skulls were collected, which varied to a lesser or greater degree from the original Triceratops, named T. horridus by Marsh (from the Latin horridus; "rough, rugose", suggesting the roughened texture of those bones belonging to the type specimen, later identified as an aged individual). This variation is unsurprising, given that Triceratops skulls are large three-dimensional objects, coming from individuals of different ages and both sexes, and which were subjected to different amounts and directions of pressure during fossilization.[13] Discoverers would name these as separate species (listed below), and came up with several phylogenetic schemes for how they were related to each other.
+
+
+
+
+Type specimen of the type species, T. horridus
+
+
+In the first attempt to understand the many species, Lull found two groups, although he did not say how he distinguished them: one composed of T. horridus, T. prorsus, and T. brevicornus; the other of T. elatus and T. calicornis. Two species (T. serratus and T. flabellatus) stood apart from these groups.[22] By 1933, and his revision of the landmark 1907 Hatcher-Marsh-Lull monograph of all known ceratopsians, he retained his two groups and two unaffiliated species, with a third lineage of T. obtusus and T. hatcheri that was characterized by a very small nasal horn.[24] T. horridus-T. prorsus-T. brevicornus was now thought to be the most conservative lineage, with an increase in skull size and a decrease in nasal horn size, and T.-elatus-T. calicornis was defined by large brow horns and small nasal horn.[24][70] C. M. Sternberg made one modification, adding T. eurycephalus and suggesting that it linked the second and third lineages closer together than they were to the T. horridus lineage.[25] This pattern was followed until the major studies of the 1980s and 1990s.
+With time, the idea that the differing skulls might be representative of individual variation within one (or two) species gained popularity. In 1986, Ostrom and Wellnhofer published a paper in which they proposed that there was only one species, Triceratops horridus.[71] Part of their rationale was that generally there are only one or two species of any large animal in a region (modern examples being the elephant and the giraffe in modern Africa). To their findings, Lehman added the old Lull-Sternberg lineages combined with maturity and sexual dimorphism, suggesting that the T. horridus-T. prorsus-T. brevicornus lineage was composed of females, the T.calicornis-T.elatus lineage was made up of males, and the T. obtusus-T. hatcheri lineage was of pathologic old males.[28] His reasoning was that males had taller, more erect horns and larger skulls, and females had smaller skulls with shorter, forward-facing horns.
+
+
+
+
+1896 skeletal restoration of T. prorsus by O.C. Marsh, based on the holotype skull and referred elements
+
+
+These findings were contested a few years later by Catherine Forster, who reanalyzed Triceratops material more comprehensively and concluded that the remains fell into two species, T. horridus and T. prorsus, although the distinctive skull of T. ("Nedoceratops") hatcheri differed enough to warrant a separate genus.[72] She found that T. horridus and several other species belonged together, and T. prorsus and T. brevicornus stood alone, and since there were many more specimens in the first group, she suggested that this meant the two groups were two species. It is still possible to interpret the differences as representing a single species with sexual dimorphism.[13][73]
+In 2009, John Scannella and Denver Fowler supported the separation of T. prorsus and T. horridus, and noted that the two species are also separated stratigraphically within the Hell Creek Formation, indicating that they did not live together at the same time.[74]
+Valid species[edit]
+
+T. horridus (Marsh, 1889) (originally Ceratops) (type species)
+T. prorsus (Marsh, 1890)
+
+Synonyms and doubtful species[edit]
+
+
+
+
+The skull (AMNH 5116) of this T. horridus composite specimen was formerly assigned to T. elatus
+
+
+
+
+
+
+T. prorsus, Carnegie Museum of Natural History
+
+
+The following species are considered nomina dubia ("dubious names"), and are based on remains that are too poor or incomplete to be distinguished from pre-existing Triceratops species.
+
+T. albertensis (C. M. Sternberg, 1949)
+T. alticornis (Marsh, 1887 [originally Bison])
+T. brevicornus (Hatcher, 1905) (=T. prorsus)
+T. calicornis (Marsh, 1898) (=T. horridus)
+T. elatus (Marsh, 1891) (=T. horridus)
+T. eurycephalus (Schlaikjer, 1935)
+T. flabellatus (Marsh, 1889) (=T. horridus)
+T. galeus (Marsh, 1889)
+T. hatcheri (Lull, 1907) (contentious; see Nedoceratops below)
+T. ingens (Lull, 1915)
+T. maximus (Brown, 1933)
+T. mortuarius (Cope, 1874) (nomen dubium; originally Polyonax mortuarius)
+T. obtusus (Marsh, 1898) (=T. horridus)
+T. serratus (Marsh, 1890) (=T. horridus)
+T. sulcatus (Marsh, 1890)
+T. sylvestris (Cope, 1872) (nomen dubium; originally Agathaumas sylvestris)
+
+Nedoceratops[edit]
+
+
+
+
+Only known skull of Nedoceratops hatcheri, specimen USNM 2412, restored elements are shown in grey
+
+
+The paper that described Nedoceratops was originally part of O. C. Marsh's magnum opus, his Ceratopsidae monograph. Unfortunately, Marsh died (1899) before the work was completed, and John Bell Hatcher endeavored to complete the Triceratops section. He died of typhus in 1904 at the age of 42, leaving the paper still uncompleted. It fell to Richard Swann Lull to complete the monograph in 1905, publishing Hatcher's description of a skull separately and giving it the name Diceratops hatcheri;[75][76] Diceratops means "two horned face."
+Since the Diceratops paper had been written by Hatcher, and Lull had only contributed the name and published the paper after Hatcher's death, Lull was not quite as convinced of the distinctiveness of Diceratops, thinking it primarily pathological. By 1933, Lull had had second thoughts about Diceratops being a distinct genus and he put it in a subgenus of Triceratops: Triceratops (Diceratops), including T. obtusus; largely attributing its differences to being that of an aged individual.
+Because the name Diceratops was already in use for a hymenopteran (Foerster, 1868), Andrey Sergeyevich Ukrainsky gave the animal its current name Nedoceratops in 2007.[77] Unaware that Ukrainsky had already renamed the animal, Octávio Mateus coined another new name for it in 2008, Diceratus.[78][79] Diceratus is thus a junior synonym of Nedoceratops.
+Opinion has varied on the validity of a separate genus for hatcheri. John Scannella and Jack Horner regarded it as an intermediate growth stage between Triceratops and Torosaurus.[5][80] Andrew Farke, in his 2011 redescription of the only known skull, concluded that it was an aged individual of its own valid taxon, Nedoceratops hatcheri.[7] Nicholas Longrich and Daniel Fields also did not consider it a transition between Torosaurus and Triceratops, suggesting that the frill holes were pathological.[9]
+Torosaurus[edit]
+Main article: Torosaurus
+
+
+
+
+A, Triceratops prorsus holotype YPM 1822 and B, Torosaurus latus ANSP 15192
+
+
+Torosaurus is a ceratopsid genus first identified from a pair of skulls in 1891, two years after the identification of Triceratops. The Torosaurus genus resembles Triceratops in geological age, distribution, anatomy and physical size and it has been recognised as a close relative.[81] Its distinguishing features are an elongated skull and the presence of two fenestrae, or holes, in the frill. Paleontologists investigating dinosaur ontogeny (growth and development of individuals over the life span) in the Hell Creek Formation, Montana, USA, have recently presented evidence that the two represent a single genus.
+John Scannella, in a paper presented in Bristol, UK at the conference of the Society of Vertebrate Paleontology (2009 September 25) reclassified Torosaurus as especially mature Triceratops individuals, perhaps representing a single sex. Jack Horner, Scannella's mentor at Bozeman Campus, Montana State University, noted that ceratopsian skulls consist of metaplastic bone. A characteristic of metaplastic bone is that it lengthens and shortens over time, extending and resorbing to form new shapes. Significant variety is seen even in those skulls already identified as Triceratops, Horner said, "where the horn orientation is backwards in juveniles and forward in adults". Approximately 50% of all subadult Triceratops skulls have two thin areas in the frill that correspond with the placement of "holes" in Torosaurus skulls, suggesting that holes developed to offset the weight that would otherwise have been added as maturing Triceratops individuals grew longer frills.[82] A paper describing these findings in detail was published in July 2010 by Scannella and Horner. In it, they formally argued that Torosaurus, as well as the similar contemporary Nedoceratops, were synonymous with Triceratops.[5] Farke (2011) disagreed with their conclusions. He found Nedoceratops to be distinct and the proposed changes required to "age" a Triceratops into a Torosaurus without precedent among ceratopsids, requiring addition of epoccipitals, reversion of bone texture from adult to immature back to adult, and late growth of holes in the frill.[7]
+Nicholas Longrich and Daniel Field's study, however, disagreed with Scaneller and Horner's findings. After analyzing 35 specimens, Longrich and Field found that there were Triceratops specimens that were too old to be considered juveniles and Torosaurus specimens that were too young to be adults. Their study also found that if Torosaurus and Triceratops were indeed one species, then there should be skulls transitioning from one to another, but they suggest that Scanella's Triceratops specimen with a hole on its frill was merely diseased and not a link between Triceratops and Torosaurus.[8][9]
+Ojoceratops and Tatankaceratops[edit]
+In one subsequent paper, paleontologist Nick Longrich argued that the synonymy of Triceratops and Torosaurus could not be supported without better intermediate forms than Scannella and Horner initially provided. Longrich agreed that Nedoceratops is a synonym of Triceratops, and suggested that the recently described Ojoceratops was indistinguishable from T. horridus specimens previously attributed to the defunct species T. serratus. Longrich suggested that another new genus at the time, Tatankaceratops, possessed a strange mix of characteristics from adult and juvenile Triceratops specimens. Longrich noted that this could represent a dwarf Triceratops species or simply a Triceratops specimen with a developmental disorder which caused it to stop growing prematurely.[83]
+Depiction in recent popular media[edit]
+
+
+
+
+1901 illustration by Charles R. Knight
+
+
+The distinctive appearance of Triceratops has led to them being frequently depicted in films, computer games and documentaries, including the Don Bluth film The Land Before Time, which featured a young Triceratops named Cera as a main character, the 1993 film Jurassic Park and the 1999 BBC television documentary Walking with Dinosaurs. Triceratops (the species are not identified) is the official state fossil of South Dakota,[84] and the official state dinosaur of Wyoming.[85]
+A recurring theme, especially in children's dinosaur books, is a climactic showdown or battle between Triceratops and Tyrannosaurus. In 1942, Charles R. Knight painted a mural incorporating a confrontation between the two dinosaurs in the Field Museum of Natural History for the National Geographic Society, establishing them as enemies in popular thought.[86] Paleontologist Bob Bakker said of the imagined rivalry between Tyrannosaurus and Triceratops, "No matchup between predator and prey has ever been more dramatic. It's somehow fitting that those two massive antagonists lived out their co-evolutionary belligerence through the very last days of the very last epoch of the Age of Dinosaurs."[86]
+
+References[edit]
+
+
+^ Lehman T.M. (1987). "Late Maastrichtian paleoenvironments and dinosaur biogeography in the Western Interior of North America". Palaeogeography, Palaeoclimatology and Palaeoecology 60 (3): 290. doi:10.1016/0031-0182(87)90032-0. 
+^ Liddell, H.G., and R. Scott (1980). Greek-English Lexicon, Abridged Edition. Oxford University Press, Oxford, UK. ISBN 0-19-910207-4. 
+^ "triceratops". Online Etymology Dictionary. 
+^ a b Erickson, GM; Olson KH (1996). "Bite marks attributable to Tyrannosaurus rex: preliminary description and implications". Journal of Vertebrate Paleontology 16 (1): 175–178. doi:10.1080/02724634.1996.10011297. 
+^ a b c d e Scannella, J.; and Horner, J.R. (2010). "Torosaurus Marsh, 1891, is Triceratops Marsh, 1889 (Ceratopsidae: Chasmosaurinae): synonymy through ontogeny". Journal of Vertebrate Paleontology 30 (4): 1157–1168. doi:10.1080/02724634.2010.483632. 
+^ Switek, Brian. "New Study Says Torosaurus=Triceratops". Dinosaur Tracking. Smithsonian.com. Retrieved 2 March 2011. 
+^ a b c Farke, Andrew A. (2011). "Anatomy and taxonomic status of the chasmosaurine ceratopsid Nedoceratops hatcheri from the Upper Cretaceous Lance Formation of Wyoming, U.S.A". In Claessens, Leon. PLoS ONE 6 (1): e16196. doi:10.1371/journal.pone.0016196. PMC 3024410. PMID 21283763. 
+^ a b [1], Longrich NR, Field DJ (2012) Torosaurus Is Not Triceratops: Ontogeny in Chasmosaurine Ceratopsids as a Case Study in Dinosaur Taxonomy. PLoS ONE 7(2): e32623. doi:10.1371/journal.pone.0032623
+^ a b c [2], Bowdler, Neil(1 March 2012).Triceratops and Torosaurus dinosaurs 'two species, not one'. Retrieved July 29, 2013 from http://www.bbc.co.uk/news/science-environment-17192624
+^ a b c d Fujiwara, S.-I. (2009). "A Reevaluation of the manus structure in Triceratops (Ceratopsia: Ceratopsidae)". Journal of Vertebrate Paleontology 29 (4): 1136–1147. doi:10.1671/039.029.0406. 
+^ "Morph-osaurs: How shape-shifting dinosaurs deceived us - life - 28 July 2010". New Scientist. doi:10.1080/02724634.2010.483632. Retrieved 2010-08-03. 
+^ a b Lambert, D. (1993). The Ultimate Dinosaur Book. Dorling Kindersley, New York. pp. 152–167. ISBN 1-56458-304-X. 
+^ a b c d e f g Dodson, P. (1996). The Horned Dinosaurs. Princeton University Press, Princeton, New Jersey. ISBN 0-691-02882-6. 
+^ "T Dinosaurs Page 2". DinoDictionary.com. Retrieved 2010-08-03. 
+^ "Triceratops in The Natural History Museum's Dino Directory". Internt.nhm.ac.uk. Retrieved 2010-08-03. 
+^ Alexander, R.M. (1985). "Mechanics of posture and gait of some large dinosaurs". Zoological Journal of the Linnean Society 83: 1–25. doi:10.1111/j.1096-3642.1985.tb00871.x. 
+^ Perkins, S.; Csotonyi, Julius T. (2010). "Dressing Up Dinos". Science News 177 (3): 22–25. doi:10.1002/scin.5591770321. 
+^ Christiansen, P.; Paul, G.S. (2001). "Limb bone scaling, limb proportions, and bone strength in neoceratopsian dinosaurs". Gaia 16: 13–29. 
+^ Thompson, S.; and Holmes, R. (2007). "Forelimb stance and step cycle in Chasmosaurus irvinensis (Dinosauria: Neoceratopsia)". Palaeontologia Electronica 10 (1): 17 p. 
+^ Rega, E.; Holmes, R.; and Tirabasso, A. (2010). "Habitual locomotor behavior inferred from manual pathology in two Late Cretaceous chasmosaurine ceratopsid dinosaurs, Chasmosaurus irvinensis (CMN 41357) and Chasmosaurus belli (ROM 843)". In Ryan, Michael J.; Chinnery-Allgeier, Brenda J.; and Eberth, David A. (editors.). New Perspectives on Horned Dinosaurs: The Royal Tyrrell Museum Ceratopsian Symposium. Bloomington and Indianapolis: Indiana University Press. pp. 340–354. ISBN 978-0-253-35358-0. 
+^ Martin, A.J. (2006). Introduction to the Study of Dinosaurs. Second Edition. Oxford, Blackwell Publishing. 560 pp. ISBN 1–4051–3413–5.
+^ a b c Hatcher, J. B., Marsh, O. C., and Lull, R. S. (1907) The Ceratopsia. Government Printing Office, Washington, D.C. ISBN 0-405-12713-8.
+^ Lambe, L.M. (1915). "On Eoceratops canadensis, gen. nov., with remarks on other genera of Cretaceous horned dinosaurs". Canada Department of Mines Geological Survey Museum Bulletin 12: 1–49. ISBN 0-665-82611-7. 
+^ a b c Lull, R. S. (1933). "A revision of the Ceratopsia or horned dinosaurs". Memoirs of the Peabody Museum of Natural History 3 (3): 1–175. Retrieved 20 November 2010. 
+^ a b Sternberg, C. M. (1949). "The Edmonton fauna and description of a new Triceratops from the Upper Edmonton member; phylogeny of the Ceratopsidae". National Museum of Canada Bulletin 113: 33–46. 
+^ a b Ostrom, J. H. (1966). "Functional morphology and evolution of the ceratopsian dinosaurs". Evolution 20 (3): 290–308. doi:10.2307/2406631. JSTOR 2406631. 
+^ Norman, David (1985). The Illustrated Encyclopaedia of Dinosaurs. London: Salamander Books. ISBN 0-517-46890-5. 
+^ a b c Lehman, T. M. (1990). The ceratopsian subfamily Chasmosaurinae: sexual dimorphism and systematics. in: Carpenter, K., and Currie, P. J. (eds.). Dinosaur Systematics: Perspectives and Approaches. Cambridge University Press, Cambridge, pp. 211–229. ISBN 0-521-36672-0.
+^ Dodson, P., and Currie, P. J. (1990). Neoceratopsia. 593–618. in Weishampel, D. B., Dodson, P., & Osmólska, H. (eds.). The Dinosauria. University of California Press, Berkeley, pp. 593–618. ISBN 0-520-06727-4.
+^ Dodson, P. (1993). "Comparative craniology of the Ceratopsia". American Journal of Science 293: 200–234. doi:10.2475/ajs.293.A.200. 
+^ Scott D. Sampson, Mark A. Loewen, Andrew A. Farke, Eric M. Roberts, Catherine A. Forster, Joshua A. Smith, and Alan A. Titus (2010). "New Horned Dinosaurs from Utah Provide Evidence for Intracontinental Dinosaur Endimism". PLoS ONE. 5 (9). doi:10.1371/journal.pone.0012292. 
+^ Gauthier, J. A. (1986). "Saurischian monophyly and the origin of birds. The Origin of Birds and the Evolution of Flight, K. Padian (ed.)". Memoirs of the California Academy of Sciences 8: 1–55. 
+^ Sereno, P. C. (1998). "A rationale for phylogenetic definitions, with application to the higher-level taxonomy of Dinosauria". Neues Jahrbuch für Geologie und Paläontologie, Abhandlungen 210 (1): 41–83. 
+^ a b c d e f g h Dodson, P.; Forster, C.A.; and Sampson, S.D. (2004) Ceratopsidae. In: Weishampel, D. B.; Dodson, P.; and Osmólska, H. (eds.), The Dinosauria (second edition). University of California Press, Berkeley, pp. 494–513. ISBN 0-520-24209-2.
+^ a b Mathews, Joshua C.; Brusatte, Stephen L.; Williams, Scott A.; and Henderson, Michael D. (2009). "The first Triceratops bonebed and its implications for gregarious behavior". Journal of Vertebrate Paleontology 29 (1): 286–290. doi:10.1080/02724634.2009.10010382. 
+^ Triceratops trio unearthed in Wyoming. CNN.com. Retrieved on 2013-08-25.
+^ Erickson, B.R. (1966). "Mounted skeleton of Triceratops prorsus in the Science Museum". Scientific Publications of the Science Museum 1: 1–16. 
+^ a b Bakker, R.T. (1986). The Dinosaur Heresies: New Theories Unlocking The Mystery of the Dinosaurs and Their Extinction. William Morrow, New York. ISBN 0-14-010055-5.
+^ Derstler, K. (1994). "Dinosaurs of the Lance Formation in eastern Wyoming". In Nelson, G. E. (ed.). The Dinosaurs of Wyoming. Wyoming Geological Association Guidebook, 44th Annual Field Conference. Wyoming Geological Association. pp. 127–146. 
+^ Tait, J.; Brown, B. (1928). "How the Ceratopsia carried and used their head". Transactions of the Royal Society of Canada 22: 13–23. 
+^ Ostrom, J. H. (1964). "A functional analysis of jaw mechanics in the dinosaur Triceratops" (PDF). Postilla 88: 1–35. Retrieved 20 November 2010. 
+^ Weishampel, D. B. (1984). "Evolution of jaw mechanisms in ornithopod dinosaurs". Advances in Anatomy, Embryology, and Cell Biology 87: 1–110. PMID 6464809. 
+^ Coe, M. J.; Dilcher, D. L.; Farlow, J. O.; Jarzen, D. M.; and Russell, D. A. (1987). Dinosaurs and land plants. In: Friis, E. M.; Chaloner, W. G.; and Crane, P. R. (eds.) The Origins of Angiosperms and their Biological Consequences Cambridge University Press, pp. 225–258. ISBN 0-521-32357-6.
+^ Lull, R. S. (1908). "The cranial musculature and the origin of the frill in the ceratopsian dinosaurs". American Journal of Science 4 (25): 387–399. doi:10.2475/ajs.s4-25.149.387. 
+^ a b Forster, C. A. (1990). The cranial morphology and systematics of Triceratops, with a preliminary analysis of ceratopsian phylogeny. Ph.D. Dissertation. University of Pennsylvania, Philadelphia. 227 pp.
+^ Sternberg, C. H. (1917). Hunting Dinosaurs in the Badlands of the Red Deer River, Alberta, Canada. Published by the author, San Diego, California, 261 pp.
+^ Happ, J. (2008). "An analysis of predator-prey behavior in a head-to-head encounter between Tyrannosaurus rex and Triceratops". In Larson, P.; and Carpenter, K. (editors). Tyrannosaurus rex, the Tyrant King (Life of the Past). Bloomington: Indiana University Press. pp. 355–368. ISBN 0-253-35087-5. 
+^ Dodson, Peter, The Horned Dinosaurs, Princeton Press. p.19
+^ Farke, A. A. (2004). "Horn Use in Triceratops (Dinosauria: Ceratopsidae): Testing Behavioral Hypotheses Using Scale Models" (PDF). Palaeo-electronica 7 (1): 1–10. Retrieved 20 November 2010. 
+^ Tanke, D. H, and Farke, A. A. (2006). Bone resorption, bone lesions, and extracranial fenestrae in ceratopsid dinosaurs: a preliminary assessment. in: Carpenter, K. (ed.). Horns and Beaks: Ceratopsian and Ornithopod Dinosaurs Indiana University Press: Bloomington. pp. 319–347. ISBN 0-253-34817-X.
+^ Farke, A.A., Wolff, E.D.S., Tanke, D.H., Sereno, Paul (2009). "Evidence of Combat in Triceratops". In Sereno, Paul. PLoS ONE 4 (1): e4252. doi:10.1371/journal.pone.0004252. 
+^ Peterson JE, Dischler C, Longrich NR (2013) Distributions of Cranial Pathologies Provide Evidence for Head-Butting in Dome-Headed Dinosaurs (Pachycephalosauridae). PLoS ONE 8(7): e68620. doi:10.1371/journal.pone.0068620
+^ Wall, Michael (2009-01-27). "Scars Reveal How Triceratops Fought –". Wired.com. Retrieved 2010-08-03. 
+^ Reid REH (1997) Histology of bones and teeth. In: Currie, PJ and Padian, K, editors. Encyclopedia of Dinosaurs. Academic Press, San Diego, CA. 329–339.
+^ Horner JR, Goodwin MB (2009) Extreme Cranial Ontogeny in the Upper Cretaceous Dinosaur Pachycephalosaurus . PLoS ONE 4(10): e7626. Available: http://www.plosone.org/article/inf o%3Adoi%2F10.1371%2Fjournal.pone. 0007626. Accessed 2012 Dec 4.
+^ Horner JR, Lamm E (2011) Ontogeny of the parietal frill of Triceratops: a preliminary histological analysis. Comptes Rendus Palevol 10: 439–452.
+^ Wheeler, P.E. (1978). "Elaborate CNS cooling structures in large dinosaurs". Nature 275 (5679): 441–443. doi:10.1038/275441a0. PMID 692723. 
+^ Farlow, J. O., Thompson, C. V., and Rosner, D. E. (1976). "Plates of the dinosaur Stegosaurus: Forced convection heat loss fins?". Science 192 (4244): 1123. doi:10.1126/science.192.4244.1123. PMID 17748675. 
+^ Davitashvili, L. Sh. (1961). Teoriya Polovogo Otbora (Theory of Sexual Selection). Izdatel'stvo Akademii nauk SSSR. p. 538. 
+^ Farlow, J.O. and Dodson, P. (1975). "The behavioral significance of frill and horn morphology in ceratopsian dinosaurs". Evolution 29 (2): 353. doi:10.2307/2407222. JSTOR 2407222. 
+^ Goodwin, M.B.; Clemens, W.A.; Horner, J.R.; and Padian, K. (2006). "The smallest known Triceratops skull: new observations on ceratopsid cranial anatomy and ontogeny" (PDF). Journal of Vertebrate Paleontology 26 (1): 103. doi:10.1671/0272-4634(2006)26[103:TSKTSN]2.0.CO;2. ISSN 0272-4634. 
+^ Farlow, J. O. and Dodson, P. 1975. The behavioral significance of frill and horn morphology in ceratopsian dinosaurs. Evolution 29: 353–361.
+^ Martin, A.J. (2006). Introduction to the Study of Dinosaurs. Second Edition. Oxford, Blackwell Publishing. pg. 299-300. ISBN 1–4051–3413–5.
+^ a b Carpenter, K. (2006). "Bison" alticornis and O.C. Marsh's early views on ceratopsians. In: Carpenter, K. (ed.). Horns and Beaks: Ceratopsian and Ornithopod Dinosaurs, Indiana University Press, Bloomington and Indianapolis, pp. 349–364. ISBN 0-253-34817-X.
+^ Marsh, O.C. (1887). "Notice of new fossil mammals". American Journal of Science 34: 323–331. 
+^ Marsh, O.C. (1888). "A new family of horned Dinosauria, from the Cretaceous". American Journal of Science 36: 477–478. 
+^ Marsh, O.C. (1889a). "Notice of new American Dinosauria". American Journal of Science 37: 331–336. 
+^ Marsh, O.C. (1889b). "Notice of gigantic horned Dinosauria from the Cretaceous". American Journal of Science 38: 173–175. 
+^ Breithaupt, B.H. (1999). "First Discovery of Dinosaurs in the American West." Pp. 59-65 in Gillette, D.D. (ed.), Vertebrate Paleontology In Utah. Utah Geological Survey. ISBN 1-55791-634-9, ISBN 978-1-55791-634-1
+^ http://www.mnhn.fr/museum/front/medias/publication/8635_g06n3a5.pdf
+^ Ostrom, J. H.; Wellnhofer, P. (1986). "The Munich specimen of Triceratops with a revision of the genus". Zitteliana 14: 111–158. 
+^ Forster, C.A. (1996). "Species resolution in Triceratops: cladistic and morphometric approaches". Journal of Vertebrate Paleontology 16 (2): 259–270. doi:10.1080/02724634.1996.10011313. 
+^ Lehman, T. M. (1998). "A gigantic skull and skeleton of the horned dinosaur Pentaceratops sternbergi from New Mexico". Journal of Paleontology 72 (5): 894–906. JSTOR 1306666. 
+^ Scannella, J.B. and Fowler, D.W. (2009). "Anagenesis in Triceratops: evidence from a newly resolved stratigraphic framework for the Hell Creek Formation." Pp. 148–149 in 9th North American Paleontological Convention Abstracts. Cincinnati Museum Center Scientific Contributions 3.
+^ Hatcher, John Bell (1905). "Two new Ceratopsia from the Laramie of Converse County, Wyoming". American Journal of Science. Series 4, 4: 413−419. 
+^ Lull, Richard Swann (1905). "Restoration of the horned dinosaur Diceratops". American Journal of Science. Series 4, 4: 420−422. 
+^ Ukrainsky, A.S. (2007). "A new replacement name for Diceratops Lull, 1905 (Reptilia: Ornithischia: Ceratopsidae)." Zoosystematica Rossica, 16(2), 20 December 2007: 292.
+^ Mateus, Octávio (2008). "Two ornithischian dinosaurs renamed: Microceratops Bohlin 1953 and Diceratops Lull 1905". Journal of Paleontology 82 (2): 423. doi:10.1666/07-069.1. 
+^ Ukrainsky, A.S. (2009). "Sinonimiya rodov Nedoceratops Ukrainsky, 2007 i Diceratus Mateus, 2008 (Reptilia: Ornithischia: Ceratopidae)." Paleontologicheskii zhurnal, 2009(1): 108. Translated as: Ukrainsky, A.S. (2009). "Synonymy of the genera Nedoceratops Ukrainsky, 2007 and Diceratus Mateus, 2008 (Reptilia: Ornithischia: Ceratopidae)." Paleontological Journal, 2009 43(1):116.
+^ Scannella, J. B.; Horner, J. R. (2011). "'Nedoceratops': An Example of a Transitional Morphology". In Claessens, Leon. PLoS ONE 6 (12): e28705. doi:10.1371/journal.pone.0028705.  edit
+^ Farke, A. A. (2006). "Cranial osteology and phylogenetic relationships of the chasmosaurine ceratopsid Torosaurus latus". In Carpenter, K. Horns and Beaks: Ceratopsian and Ornithopod Dinosaurs. Bloomington: Indiana University Press. pp. 235–257. ISBN 978-0-253-34817-3. 
+^ "New Analyses Of Dinosaur Growth May Wipe Out One-third Of Species". Science News. ScienceDaily.com. 2009-10-31. Retrieved 2009-11-03. 
+^ Nicholas R. Longrich (2011). "Titanoceratops ouranous, a giant horned dinosaur from the Late Campanian of New Mexico". Cretaceous Research 32 (3): 264–276. doi:10.1016/j.cretres.2010.12.007. 
+^ State of South Dakota. "Signs and Symbols of South Dakota.....". Retrieved 2007-01-20. 
+^ State of Wyoming. "State of Wyoming – General Information". Archived from the original on February 10, 2007. Retrieved 2007-01-20. 
+^ a b Bakker, R.T. 1986. The Dinosaur Heresies. New York: Kensington Publishing, p. 240. On that page, Bakker has his own T. rex/Triceratops fight.
+
+
+External links[edit]
+
+Listen to this article (info/dl)
+
+
+Sorry, your browser either has JavaScript disabled or does not have any supported player.
+You can download the clip or download a player to play the clip in your browser.
+
+
+
+
+
+
+This audio file was created from a revision of the "Triceratops" article dated 2007-03-19, and does not reflect subsequent edits to the article. (Audio help)
+More spoken articles
+
+
+
+
+
+Wikimedia Commons has media related to Triceratops.
+
+
+
+
+
+Wikibooks has a book on the topic of: Wikijunior Dinosaurs/Triceratops
+
+
+
+
+
+Wikispecies has information related to: Triceratops
+
+
+
+Triceratops Exhibit at Cleveland Museum of Natural History
+LiveScience: Facts about Triceratops at LiveScience.com
+Clash of the Dinosaurs: The Defenders - The Triceratops Threat, Discovery Channel (video)
+Triceratops, AnimalPlanet
+Dinosaur Mailing List post on Triceratops stance
+Smithsonian Exhibit
+Triceratops at the Internet Archive
+Triceratops in the Dino Directory
+Triceratops (short summary and good color illustration)
+Triceratops For Kids (a fact sheet about the Triceratops with activities for kids)
+Triceratops, BBC Dinosaurs
+
+
+
+
+
+
+Dinosaurs portal
+
+
+
+    
+
+
+ 
+NewPP limit report
+CPU time usage: 6.288 seconds
+Real time usage: 6.691 seconds
+Preprocessor visited node count: 32660/1000000
+Preprocessor generated node count: 65567/1500000
+Post‐expand include size: 340626/2048000 bytes
+Template argument size: 176006/2048000 bytes
+Highest expansion depth: 39/40
+Expensive parser function count: 2/500
+Lua time usage: 0.179s
+Lua memory usage: 2.6 MB
+
+
+ Saved in parser cache with key enwiki:pcache:idhash:54410-0!*!0!!en!4!* and timestamp 20131002125934 
+								
+				Retrieved from "http://en.wikipedia.org/w/index.php?title=Triceratops&oldid=575360925"				
+												Categories: CeratopsidsCretaceous dinosaursDinosaurs of North AmericaSymbols of South DakotaSymbols of WyomingHidden categories: Wikipedia indefinitely move-protected pagesArticles with 'species' microformatsSpoken articlesArticles with hAudio microformatsFeatured articles												
+							
+		
+		
+			Navigation menu
+			
+				
+	Personal tools
+	
+Create accountLog in	
+
+				
+					
+	Namespaces
+	
+					Article
+					Talk
+			
+
+
+	
+		
+	Variants
+	
+		
+					
+	
+
+				
+				
+					
+	Views
+	
+					Read
+					Edit
+					View history
+			
+
+
+	Actions
+	
+		
+					
+	
+
+
+	Search
+	
+				
+																				
+		
+	
+
+				
+			
+			
+					
+				
+	Navigation
+	
+		
+			Main page
+			Contents
+			Featured content
+			Current events
+			Random article
+			Donate to Wikipedia
+		
+	
+
+
+	Interaction
+	
+		
+			Help
+			About Wikipedia
+			Community portal
+			Recent changes
+			Contact page
+		
+	
+
+
+	Toolbox
+	
+		
+			What links here
+			Related changes
+			Upload file
+			Special pages
+			Permanent link
+			Page information
+			Data item
+Cite this page		
+	
+
+
+	Print/export
+	
+		
+			Create a book
+			Download as PDF
+			Printable version
+		
+	
+
+
+	Languages
+	
+		
+			العربية
+			Asturianu
+			Azərbaycanca
+			Беларуская
+			Български
+			Brezhoneg
+			Català
+			Česky
+			Dansk
+			Deutsch
+			Ελληνικά
+			Español
+			Esperanto
+			Euskara
+			فارسی
+			Français
+			Gaeilge
+			Galego
+			한국어
+			Hawai`i
+			Hrvatski
+			Bahasa Indonesia
+			Interlingua
+			Íslenska
+			Italiano
+			עברית
+			Basa Jawa
+			Latina
+			Latviešu
+			Lietuvių
+			Magyar
+			മലയാളം
+			मराठी
+			Bahasa Melayu
+			Nederlands
+			日本語
+			Norsk bokmål
+			Occitan
+			پنجابی
+			Polski
+			Português
+			Română
+			Русский
+			Simple English
+			Slovenčina
+			Slovenščina
+			Српски / srpski
+			Srpskohrvatski / српскохрватски
+			Suomi
+			Svenska
+			Tagalog
+			ไทย
+			Türkçe
+			Українська
+			Tiếng Việt
+			Winaray
+			Žemaitėška
+			中文
+			
+			Edit links
+		
+	
+
+			
+		
+		
+							
+											 This page was last modified on 1 October 2013 at 23:41.
+											Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. 
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+									
+							
+											Privacy policy
+											About Wikipedia
+											Disclaimers
+											Contact Wikipedia
+											Developers
+											Mobile view
+									
+										
+					
+						
+					
+					
+						
+					
+				
+						
+		
+		
+
+
+ Served by mw1188 in 0.176 secs. 
+	
+if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Triceratops","wgTitle":"Triceratops","wgCurRevisionId":575360925,"wgArticleId":54410,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Wikipedia indefinitely move-protected pages","Articles with 'species' microformats","Spoken articles","Articles with hAudio microformats","Featured articles","Ceratopsids","Cretaceous dinosaurs","Dinosaurs of North America","Symbols of South Dakota","Symbols of Wyoming"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Triceratops","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":["sysop"],"wgVectorEnabledModules":{"collapsiblenav":true,"experiments":true},"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"templateEditor":false,"templates":false,"preview":false,"previewDialog":false,"publish":false,"toc":false},"wgArticleFeedbackv5Permissions":{"aft-reader":true,"aft-member":false,"aft-editor":false,"aft-monitor":false,"aft-administrator":false,"aft-oversighter":false,"aft-noone":false},"wgVisualEditor":{"isPageWatched":false,"magnifyClipIconURL":"//bits.wikimedia.org/static-1.22wmf18/skins/common/images/magnify-clip.png","pageLanguageCode":"en","pageLanguageDir":"ltr"},"wikilove-recipient":"","wikilove-anon":0,"wgGuidedTourHelpGuiderUrl":"Help:Guided tours/guider","wgULSAcceptLanguageList":["en-us"],"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia","aftv5Article":{"id":54410,"title":"Triceratops","namespace":0,"categories":["Articles with 'species' microformats","Articles with hAudio microformats","Ceratopsids","Cretaceous dinosaurs","Dinosaurs of North America","Featured articles","Spoken articles","Symbols of South Dakota","Symbols of Wyoming","Wikipedia indefinitely move-protected pages"],"permissionLevel":false},"wgWikibaseItemId":"Q14384"});
+}if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":false,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,
+"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"useeditwarning":1,"prefershttps":1,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"vector-simplesearch":1,"vector-collapsiblenav":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"aftv5-last-filter":null,"visualeditor-enable":0,"visualeditor-enable-experimental":0,"visualeditor-betatempdisable":0,"wikilove-enabled":1,"echo-subscriptions-web-page-review":true,"echo-subscriptions-email-page-review":false,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"echo-notify-show-link":true,"echo-show-alert":true,"echo-email-frequency":0,"echo-email-format":"html","echo-subscriptions-email-system":true,"echo-subscriptions-web-system":true,"echo-subscriptions-email-other":false,"echo-subscriptions-web-other":true,"echo-subscriptions-email-edit-user-talk":false,"echo-subscriptions-web-edit-user-talk":true,
+"echo-subscriptions-email-reverted":false,"echo-subscriptions-web-reverted":true,"echo-subscriptions-email-article-linked":false,"echo-subscriptions-web-article-linked":false,"echo-subscriptions-email-mention":false,"echo-subscriptions-web-mention":true,"echo-subscriptions-web-edit-thank":true,"echo-subscriptions-email-edit-thank":false,"gettingstarted-task-toolbar-show-intro":true,"uls-preferences":"","language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs446":false,"searchNs447":false
+,"searchNs710":false,"searchNs711":false,"searchNs828":false,"searchNs829":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-mySandbox":1,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:156d8fe0ae17f8afd74198057563e45d */
+}if(window.mw){
+mw.loader.load(["mw.TMHGalleryHook.js","mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","ext.visualEditor.viewPageTarget.init","ext.wikimediaShopLink.core","ext.uls.init","ext.uls.interface","wikibase.client.init","ext.centralNotice.bannerController","skins.vector.js"]);
+}/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}if(window.mw){
+mw.loader.load(["mw.PopUpMediaTransform","mobile.desktop","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.cite","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","mw.MwEmbedSupport.style","ext.vector.collapsibleNav","ext.articleFeedbackv5.startup","ext.gettingstarted.logging","ext.gettingstarted.openTask","schema.HttpsSupport","ext.coreEvents.httpsSupport","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger"],null,true);
+}

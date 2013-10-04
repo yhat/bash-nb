@@ -1,0 +1,615 @@
+
+
+
+Kritosaurus - Wikipedia, the free encyclopedia
+
+
+
+
+
+
+
+
+
+
+
+
+a:lang(ar),a:lang(ckb),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:0de201fdea5d684523607ed88007b127 */
+
+
+
+
+[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.22wmf19/skins/vector/csshover.min.htc")}</style><![endif]
+
+		
+		
+		
+			
+			
+						 CentralNotice 
+						Kritosaurus
+			
+								From Wikipedia, the free encyclopedia
+								
+												
+					Jump to:					navigation, 					search
+				
+				
+
+
+Kritosaurus
+Temporal range: Late Cretaceous, 73Ma
+
+PreЄ
+Є
+O
+S
+D
+C
+P
+T
+J
+K
+Pg
+N
+
+
+
+↓
+
+
+
+
+
+
+
+
+
+Kritosaurus navajovius skull, AMNH
+
+
+Scientific classification 
+
+
+Kingdom:
+Animalia
+
+
+Phylum:
+Chordata
+
+
+Clade:
+Sauropsida
+
+
+Clade:
+Dinosauria
+
+
+Order:
+†Ornithischia
+
+
+Clade:
+†Ornithopoda
+
+
+Family:
+†Hadrosauridae
+
+
+Subfamily:
+†Saurolophinae
+
+
+Tribe:
+†Kritosaurini
+
+
+Genus:
+†Kritosaurus
+Brown, 1910
+
+
+Type species
+
+
+†Kritosaurus navajovius
+Brown, 1910
+
+
+Species
+
+
+
+†K. navajovius Brown, 1910
+†K. horneri? Hunt & Lucas, 1993
+
+
+
+Synonyms
+
+
+
+Anasazisaurus? Hunt & Lucas, 1993
+
+
+
+
+Kritosaurus is an incompletely known but historically important genus of hadrosaurid (duck-billed) dinosaur. It lived about 73 million years ago, in the Late Cretaceous of North America. The name means "separated lizard" (referring to the arrangement of the cheek bones in an incomplete type skull), but is often mistranslated as "noble lizard" in reference to the presumed "Roman nose" [1] (in the original specimen, the nasal region was fragmented and disarticulated, and was originally restored flat). Despite the dearth of material, this herbivore appeared frequently in dinosaur books until the 1990s, although what was usually represented was the much more completely known Gryposaurus, then thought to be a synonym.
+
+
+Contents
+
+
+1 Description
+2 Classification
+
+2.1 Diagnosis
+
+
+3 Discovery and history
+
+3.1 Splitting genera
+
+
+4 Paleoecology
+5 Paleobiology
+
+5.1 Diet and feeding
+5.2 Nasal crest
+
+
+6 In popular culture
+7 References
+
+
+Description[edit]
+
+
+
+
+Kritosaurus restoration
+
+
+The type specimen of Kritosaurus navajovius is only represented by a partial skull and lower jaws, and associated postcranial remains.[2] The greater portion of the muzzle and upper beak are missing.[3] The length of the skull is estimated at 87 centimeters (34 in) from the tip of the upper beak to the base of the quadrate that articulates with the lower jaw at the back of the skull.[4] Potential diagnostic characteristics of Kritosaurus include a predentary (lower beak) without tooth-like crenulations, a sharp downward bend to the lower jaws near the beak, and a heavy, somewhat rectangular maxilla (upper tooth-bearing bone).[3]
+Based on the skull originally referred to Anasazisaurus, the form of the complete crest is that of a tab or flange of bone, from the nasals, that rises between and above the eyes and folds back under itself. This unique crest allows it to be distinguished from similar hadrosaurs, like Gryposaurus.[5] The top of the crest is roughened, and the maximum preserved length of the skull is ~90 centimeters (~35 in).[6]
+Classification[edit]
+Kritosaurus was a hadrosaurine hadrosaurid, a flat-headed or solid-crested duckbill. Though many species and specimens have been referred to the genus in the past, most of them do not show the shared distinguishing characteristics to allow them to be considered part of the genus, or have been synonymized with other genera of hadrosaurs. The closest relative of Kritosaurus navajovius is Anasazisaurus horneri (or Kritosaurus horneri), which, together with close relatives such as Gryposaurus and Secernosaurus, form a clade called the Kritosaurini within the larger clade Saurolophinae.[7] Location and time separate Kritosaurus and the slightly older, primarily Canadian Gryposaurus, along with some cranial details.[3]
+Diagnosis[edit]
+According to Prieto-Márquez who re-diagnosed this genus in 2013, Kritosaurus can be distinguished based on the following characteristics:[7]
+
+the length of the dorsolateral margin of the maxilla is extensive
+the jugal features an orbital constriction that is deeper than the infratemporal one
+the infratemporal fenestra is greater than the orbit and has a dorsal margin that is greatly elevated above the dorsal orbital margin in adults
+the frontal bone is participating in the orbital margin
+the presence of paired caudal parasagittal processes of the nasals resting over the frontal bones
+
+The following is a cladogram based on the phylogenetic analysis conducted by Prieto-Márquez and Wagner in 2012, showing the relationships of Kritosaurus among the other Kritosaurini:[8]
+
+
+ Kritosaurini
+
+
+
+
+
+Wulagasaurus
+
+
+
+
+
+
+
+
+
+
+
+
+Kritosaurus
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Gryposaurus latidens
+
+
+
+
+
+
+
+
+
+
+
+
+Gryposaurus notabilis
+
+
+
+
+
+
+
+
+Gryposaurus monumentensis
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Unnamed Big Bend species
+
+
+
+
+
+
+
+
+
+
+
+
+Secernosaurus
+
+
+
+
+
+
+
+
+Willinakaqe
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Discovery and history[edit]
+
+
+
+
+Barnum Brown's initial flatheaded reconstruction of the skull of Kritosaurus.
+
+
+In 1904, Barnum Brown discovered the type specimen (AMNH 5799) of Kritosaurus near Ojo Alamo, San Juan County, New Mexico, United States, while following up on a previous expedition.[9] He initially could not definitely correlate the stratigraphy, but by 1916 was able to establish it as from what is now known as the late Campanian-age De-na-zin Member of the Kirtland Formation.[10][11] When discovered, much of the front of the skull had either eroded or fragmented, and Brown reconstructed this portion after what is now called Edmontosaurus, leaving out many fragments.[9] However, he had noticed that something was different about the fragments, but ascribed the differences to crushing.[12] He initially wanted to name it Nectosaurus, but found out that this name was already in use; Jan Versluys, who had visited Brown before the change, inadvertently leaked the previous choice.[13] He kept the species name, though, leading to the combination K. navajovius.
+The 1914 publication of the arch-snouted Canadian genus Gryposaurus[14] changed Brown's mind about the anatomy of his dinosaur's snout. Going back through the fragments, he revised the previous reconstruction and gave it a Gryposaurus-like arched nasal crest.[12] He also synonymized Gryposaurus with Kritosaurus,[15] a move supported by Charles Gilmore.[10] This synonymy was used through the 1920s (William Parks's designation of a Canadian species as Kritosaurus incurvimanus,[16] now considered a synonym of Gryposaurus notabilis[17]) and became standard after the publication of Richard Swann Lull and Nelda Wright's influential 1942 monograph on North American hadrosaurids.[18] From this time until 1990, Kritosaurus would be composed of at least the type species K. navajovius, K. incurvimanus, and K. notabilis, the former type species of Gryposaurus. The poorly known species Hadrosaurus breviceps (Marsh, 1889),[19] known from a dentary from the Campanian-age Judith River Formation of Montana, was also assigned to Kritosaurus by Lull and Wright,[18] but this is no longer accepted.[2][20]
+By the late 1970s and early 1980s, Hadrosaurus had entered the discussion as a possible synonym of either Kritosaurus, Gryposaurus, or both, particularly in semi-technical "dinosaur dictionaries".[21][22] One well-known work, David B. Norman's The Illustrated Encyclopedia of Dinosaurs, uses Kritosaurus for the Canadian material (Gryposaurus), but confusingly identifies the mounted skeleton of K. incurvimanus as Hadrosaurus.[23] One more species was added to Kritosaurus in these years. In 1984, Argentine paleontologist José Bonaparte and colleagues named Kritosaurus australis for hadrosaur bones from the late Campanian-early Maastrichtian Los Alamitos Formation of Rio Negro, Patagonia, Argentina.[24] This species is now thought to be a synonym of Secernosaurus koerneri.[25]
+Splitting genera[edit]
+
+
+
+
+Unnamed specimen from the Sabinas Basin in Mexico, assigned to Kritosaurus sp. by Kirkland et al. (2006)[3] but considered an indeterminate saurolophine by Prieto-Márquez (2013).[7]
+
+
+The history of Kritosaurus took another turn in 1990, when Jack Horner and David B. Weishampel once again separated Gryposaurus, citing the uncertainty associated with the latter's partial skull. Horner in 1992 described two more skulls from New Mexico that he claimed belonged to Kritosaurus and showed that it was quite different from Gryposaurus,[5] but the following year Adrian Hunt and Spencer G. Lucas put each skull in its own genus, creating Anasazisaurus and Naashoibitosaurus.[26]
+Adrian Hunt and Spencer G. Lucas, American paleontologists, named Anasazisaurus horneri in 1993. The name was derived from the Anasazi, an ancient Native American people, and the Greek word sauros ("lizard"). The Anasazi were famous for their cliff-dwellings, such as those in Chaco Canyon, near the location of fossil Anasazisaurus remains. The term "Anasazi" itself is actually a Navajo language word, anaasází ("enemy ancestors"). The species was named in honor of Jack Horner, an influential paleontologist who first described the skull in 1992. The holotype skull (and only known specimen) was collected in the late 1970s by a Brigham Young University field party working in San Juan County, and is housed at BYU as BYU 12950.[26]
+Horner originally assigned the Anasazisaurus skull to Kritosaurus navajovius,[5] but Hunt and Lucas could not find any diagnostic features in the limited material of Kritosaurus and judged the genus to be a nomen dubium. Since the Anasazisaurus skull did have diagnostic features of its own, and did not appear to them to share any unique features with Kritosaurus, it was given the new name Anasazisaurus horneri,[26] an opinion which was supported by some later authors.[2] Not all authors have agreed with this, Thomas E. Williamson in particular defending Horner's original interpretation,[11] and several subsequent studies recognized both distinct genera.[3][6]
+A comprehensive study of known Kritosaurus material published by Albert Prieto-Márquez in 2013 upheld the status of Naashoibitosaurus as a distinct genus, but found that the type specimens of Kritosaurus and Anasazisaurus were indistinguishable when comparing overlapping elements (i.e. only those bones preserved in both specimens). Prieto-Márquez therefore regarded Anasazisaurus as a synonym of Kritosaurus, but retained it as the distinct species K. horneri.[7]
+Paleoecology[edit]
+Kritosaurus was discovered in the De-na-zin Member of the Kirtland Formation. This formation dates from the late Campanian stages of the Late Cretaceous Period (74 to 70 million years ago),[11] and is also the source of several other dinosaurs, like Alamosaurus, a species of Parasaurolophus, Pentaceratops, Nodocephalosaurus, Saurornitholestes, and Bistahieversor.[27] The Kirtland Formation is interpreted as river floodplains appearing after a retreat of the Western Interior Seaway. Conifers were the dominant plants, and chasmosaurine horned dinosaurs appear to have been more common than hadrosaurids.[28] The presence of Parasaurolophus and Kritosaurus in northern latitude fossil sites may represent faunal exchange between otherwise distinct northern and southern biomes in Late Cretaceous North America.[29] Both taxa are uncommon outside of the southern biome, where, along with Pentaceratops, they are predominate members of the fauna.[29]
+The geographic range of Kritosaurus remains in North America was expanded by the discovery of bones from the late Campanian-age Aguja Formation of Texas, including a skull.[30][31] Additionally, a partial skull from Coahuila, Mexico has been referred to K. navajovius.[7] A partial skeleton from the Sabinas Basin in Mexico was described as Kritosaurus sp. by Jim Kirkland and colleagues,[3] but considered an indeterminate saurolophine by Prieto-Márquez (2013).[7] This skeleton is about 20% larger than other known specimens, around 11 meters [36 ft] long, and with a distinctively curved ischium, and represents the largest known well-documented North American saurolophine. Unfortunately, the nasal bones are also incomplete in the skull remains from this material.[3]
+Paleobiology[edit]
+Diet and feeding[edit]
+As a hadrosaurid, Kritosaurus would have been a large bipedal/quadrupedal herbivore, eating plants with a sophisticated skull that permitted a grinding motion analogous to chewing. Its teeth were continually replacing and packed into dental batteries that contained hundreds of teeth, only a relative handful of which were in use at any time. Plant material would have been cropped by its broad beak, and held in the jaws by a cheek-like organ. Feeding would have been from the ground up to ~4 meters (13 ft) above.[2] If it was a separate genus, how it would have partitioned resources with the similar and contemporaneous Naashoibitosaurus is unknown.
+Nasal crest[edit]
+The nasal crest of Kritosaurus, whatever its true form, may have been used for a variety of social functions, such as identification of sexes or species and social ranking.[2] There may have been inflatable air sacs flanking it for both visual and auditory signaling.[32]
+In popular culture[edit]
+The synonymization of Kritosaurus and Gryposaurus that lasted from the 1910s to 1990 led to a distorted picture of what the original Kritosaurus material represented. Because the Canadian material was much more complete, most representations and discussions of Kritosaurus from the 1920s to 1990 are actually more applicable to Gryposaurus. This includes, for example, James Hopson's discussion of hadrosaur cranial ornamentation,[32] and the adaptation of this for the public in The Illustrated Encyclopedia of Dinosaurs.[33]
+References[edit]
+
+
+^ Creisler, Benjamin S. (2007). "Deciphering duckbills". In Carpenter, Kenneth (ed.). Horns and Beaks: Ceratopsian and Ornithopod Dinosaurs. Bloomington and Indianapolis: Indiana University Press. pp. 185–210. ISBN 0-253-34817-X. 
+^ a b c d e Horner, John R.; Weishampel, David B.; and Forster, Catherine A (2004). "Hadrosauridae". In Weishampel, David B.; Dodson, Peter; and Osmólska, Halszka (eds.). The Dinosauria (2nd ed.). Berkeley: University of California Press. pp. 438–463. ISBN 0-520-24209-2. 
+^ a b c d e f g Kirkland, James I.; Hernández-Rivera, René; Gates, Terry; Paul, Gregory S.; Nesbitt, Sterling; Serrano-Brañas, Claudia Inés; and Garcia-de la Garza, Juan Pablo (2006). "Large hadrosaurine dinosaurs from the latest Campanian of Coahuila, Mexico". In Lucas, S.G.; and Sullivan, Robert M. (eds.). Late Cretaceous Vertebrates from the Western Interior. New Mexico Museum of Natural History and Science Bulletin, 35. Albuquerque, New Mexico: New Mexico Museum of Natural History and Science. pp. 299–315. 
+^ Lull, Richard Swann; and Wright, Nelda E. (1942). Hadrosaurian Dinosaurs of North America. Geological Society of America Special Paper 40. Geological Society of America. p. 226. 
+^ a b c Horner, John R. (1992). "Cranial morphology of Prosaurolophus (Ornithischia: Hadrosauridae) with descriptions of two new hadrosaurid species and an evaluation of hadrosaurid phylogenetic relationships". Museum of the Rockies Occasional Paper 2: 1–119. 
+^ a b Lucas, Spencer G.; Spielman, Justin A.; Sullivan, Robert M.; Hunt, Adrian P.; and Gates, Terry (2006). "Anasazisaurus, a hadrosaurian dinosaur from the Upper Cretaceous of New Mexico". In Lucas, S.G.; and Sullivan, Robert M. (eds.). Late Cretaceous Vertebrates from the Western Interior. New Mexico Museum of Natural History and Science Bulletin, 35. Albuquerque, New Mexico: New Mexico Museum of Natural History and Science. pp. 293–297. 
+^ a b c d e f Prieto-Márquez, A. (2013). "Skeletal morphology of Kritosaurus navajovius (Dinosauria:Hadrosauridae) from the Late Cretaceous of the North American south-west, with an evaluation of the phylogenetic systematics and biogeography of Kritosaurini." Journal of Systematic Palaeontology, (advance online publication) doi:10.1080/14772019.2013.770417
+^ Prieto-Márquez, A.; and Wagner, J.R. (2012). "Saurolophus morrisi, a new species of hadrosaurid dinosaur from the Late Cretaceous of the Pacific coast of North America". Acta Palaeontologica Polonica. in press. doi:10.4202/app.2011.0049. 
+^ a b Brown, Barnum (1910). "The Cretaceous Ojo Alamo beds of New Mexico with description of the new dinosaur genus Kritosaurus". Bulletin of the American Museum of Natural History 28 (24): 267–274. 
+^ a b Gilmore, Charles W. (1916). "Contributions to the geology and paleontology of San Juan County, New Mexico. 2. Vertebrate faunas of the Ojo Alamo, Kirtland and Fruitland Formations". United States Geological Survey Professional Paper 98–Q: 279–302. 
+^ a b c Williamson, Thomas E. (2000). "Review of Hadrosauridae (Dinosauria, Ornithischia) from the San Juan Basin, New Mexico". In Lucas, S.G.; and Heckert, A.B. (eds.). Dinosaurs of New Mexico. New Mexico Museum of Natural History and Science Bulletin, 17. Albuquerque, New Mexico: New Mexico Museum of Natural History and Science. pp. 191–213. 
+^ a b Sinclair, William J.; and Granger, Walter (1914). "Paleocene deposits of the San Juan Basin, New Mexico". Bulletin of the American Museum of Natural History 33: 297–316. 
+^ Olshevsky, George (1999-11-17). "Re: What are these dinosaurs? 2: Return of What are these dinosaurs?". Dinosaur Mailing List. Retrieved 2007-06-15. 
+^ Lambe, Lawrence M. (1914). "On Gryposaurus notabilis, a new genus and species of trachodont dinosaur from the Belly River Formation of Alberta, with a description of the skull of Chasmosaurus belli". The Ottawa Naturalist 27 (11): 145–155. 
+^ Brown, Barnum (1914). "Cretaceous Eocene correlation in New Mexico, Wyoming, Montana, Alberta". Geological Society of America Bulletin 33: 355–380. 
+^ Parks, William A. (1920). "The osteology of the trachodont dinosaur Kritosaurus incurvimanus". University of Toronto Studies, Geology Series 11: 1–76. 
+^ Prieto–Marquez, Alberto (2010). "The braincase and skull roof of Gryposaurus notabilis (Dinosauria, Hadrosauridae), with a taxonomic revision of the genus". Journal of Vertebrate Paleontology 30 (3): 838–854. doi:10.1080/02724631003762971. 
+^ a b Lull, Richard Swann; and Wright, Nelda E. (1942). Hadrosaurian Dinosaurs of North America. Geological Society of America Special Paper 40. Geological Society of America. pp. 164–172. 
+^ Marsh, O.C. (1889). "Notice of new American Dinosauria". American Journal of Science 38: 331–336. 
+^ Prieto-Márquez, Alberto; Weishampel, David B.; and Horner, John R. (2006). "The dinosaur Hadrosaurus foulkii, from the Campanian of the East Coast of North America, with a reevaluation of the genus" (pdf). Acta Palaeontologica Polonica 51 (1): 77–98. 
+^ Glut, Donald F. (1982). The New Dinosaur Dictionary. Secaucus, NJ: Citadel Press. p. 158. ISBN 0-8065-0782-9. 
+^ Lambert, David; and the Diagram Group (1983). A Field Guide to Dinosaurs. New York: Avon Books. p. 161. ISBN 0-380-83519-3. 
+^ Norman, David. B. (1985). "Hadrosaurids I". The Illustrated Encyclopedia of Dinosaurs: An Original and Compelling Insight into Life in the Dinosaur Kingdom. New York: Crescent Books. pp. 116–121. ISBN 0-517-46890-5. 
+^ Bonaparte, José; Franchi, M.R.; Powell, J.E.; and Sepulveda, E. (1984). "La Formación Los Alamitos (Campaniano-Maastrichtiano) del sudeste de Rio Negro, con descripcion de Kritosaurus australis n. sp. (Hadrosauridae). Significado paleogeografico de los vertebrados". Revista de la Asociación Geología Argentina (in Spanish) 39 (3–4): 284–299. 
+^ Prieto–Marquez, Alberto; and Salinas, Guillermo C. (2010). "A re–evaluation of Secernosaurus koerneri and Kritosaurus australis (Dinosauria, Hadrosauridae) from the Late Cretaceous of Argentina". Journal of Vertebrate Paleontology 30 (3): 813–837. doi:10.1080/02724631003763508. 
+^ a b c Hunt, Adrian P.; and Lucas, Spencer G. (1993). "Cretaceous vertebrates of New Mexico". In Lucas, S.G.; and Zidek, J. (eds.). Dinosaurs of New Mexico. New Mexico Museum of Natural History and Science Bulletin, 2. Albuquerque, New Mexico: New Mexico Museum of Natural History and Science. pp. 77–91. 
+^ Weishampel, David B.; Barrett, Paul M.; Coria, Rodolfo A.; Le Loeuff, Jean; Xu Xing; Zhao Xijin; Sahni, Ashok; Gomani, Elizabeth, M.P.; and Noto, Christopher R. (2004). "Dinosaur Distribution". The Dinosauria (2nd). 517–606.
+^ Russell, Dale A. (1989). An Odyssey in Time: Dinosaurs of North America. Minocqua, Wisconsin: NorthWord Press, Inc. pp. 160–164. ISBN 1-55971-038-1. 
+^ a b Lehman, T. M., 2001, Late Cretaceous dinosaur provinciality: In: Mesozoic Vertebrate Life, edited by Tanke, D. H., and Carpenter, K., Indiana University Press, pp. 310-328.
+^ Sankey, Julia T. (2001). "Late Campanian southern dinosaurs, Aguja Formation, Big Bend, Texas". Journal of Paleontology 75: 208–215. doi:10.1666/0022-3360(2001)075<0208:LCSDAF>2.0.CO;2. 
+^ Wagner, Jonathan R.; and Lehman, Thomas M. (2001). "A new species of Kritosaurus from the Cretaceous of Big Bend National Park, Brewster County, Texas". Journal of Vertebrate Paleontology 21 (3, Suppl.): 110A–111A. 
+^ a b Hopson, James A. (1975). "The evolution of cranial display structures in hadrosaurian dinosaurs". Paleobiology 1 (1): 21–43. 
+^ Norman, David B. (1985). "Hadrosaurids II". The Illustrated Encyclopedia of Dinosaurs: An Original and Compelling Insight into Life in the Dinosaur Kingdom. New York: Crescent Books. pp. 122–127. ISBN 0-517-46890-5. 
+
+
+
+
+
+Wikimedia Commons has media related to Kritosaurus.
+
+
+
+
+
+
+Dinosaurs portal
+
+
+
+
+
+
+
+ 
+NewPP limit report
+CPU time usage: 6.224 seconds
+Real time usage: 6.477 seconds
+Preprocessor visited node count: 28043/1000000
+Preprocessor generated node count: 46238/1500000
+Post‐expand include size: 163726/2048000 bytes
+Template argument size: 73293/2048000 bytes
+Highest expansion depth: 39/40
+Expensive parser function count: 1/500
+Lua time usage: 0.181s
+Lua memory usage: 2.47 MB
+
+
+ Saved in parser cache with key enwiki:pcache:idhash:2821220-0!*!0!!en!4!* and timestamp 20131001121155 
+								
+				Retrieved from "http://en.wikipedia.org/w/index.php?title=Kritosaurus&oldid=571862855"				
+												Categories: Cretaceous dinosaursDinosaurs of North AmericaHadrosaursNatural history of San Juan County, New MexicoHidden categories: Articles with 'species' microformatsCommons category template with no category setCommons category with page title same as on WikidataGood articles												
+							
+		
+		
+			Navigation menu
+			
+				
+	Personal tools
+	
+Create accountLog in	
+
+				
+					
+	Namespaces
+	
+					Article
+					Talk
+			
+
+
+	
+		
+	Variants
+	
+		
+					
+	
+
+				
+				
+					
+	Views
+	
+					Read
+					Edit
+					View history
+			
+
+
+	Actions
+	
+		
+					
+	
+
+
+	Search
+	
+				
+																				
+		
+	
+
+				
+			
+			
+					
+				
+	Navigation
+	
+		
+			Main page
+			Contents
+			Featured content
+			Current events
+			Random article
+			Donate to Wikipedia
+		
+	
+
+
+	Interaction
+	
+		
+			Help
+			About Wikipedia
+			Community portal
+			Recent changes
+			Contact page
+		
+	
+
+
+	Toolbox
+	
+		
+			What links here
+			Related changes
+			Upload file
+			Special pages
+			Permanent link
+			Page information
+			Data item
+Cite this page		
+	
+
+
+	Print/export
+	
+		
+			Create a book
+			Download as PDF
+			Printable version
+		
+	
+
+
+	Languages
+	
+		
+			Català
+			Česky
+			Español
+			Français
+			한국어
+			Italiano
+			Lietuvių
+			Magyar
+			日本語
+			Polski
+			Português
+			Русский
+			中文
+			
+			Edit links
+		
+	
+
+			
+		
+		
+							
+											 This page was last modified on 7 September 2013 at 02:10.
+											Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. 
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+									
+							
+											Privacy policy
+											About Wikipedia
+											Disclaimers
+											Contact Wikipedia
+											Developers
+											Mobile view
+									
+										
+					
+						
+					
+					
+						
+					
+				
+						
+		
+		
+
+
+ Served by mw1211 in 0.155 secs. 
+	
+if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Kritosaurus","wgTitle":"Kritosaurus","wgCurRevisionId":571862855,"wgRevisionId":571862855,"wgArticleId":2821220,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with 'species' microformats","Commons category template with no category set","Commons category with page title same as on Wikidata","Good articles","Cretaceous dinosaurs","Dinosaurs of North America","Hadrosaurs","Natural history of San Juan County, New Mexico"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Kritosaurus","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgVectorEnabledModules":{"collapsiblenav":true,"experiments":true},"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"templateEditor":false,"templates":false,"preview":false,"previewDialog":false,"publish":false,"toc":false},"wgArticleFeedbackv5Permissions":{"aft-reader":true,"aft-member":false,"aft-editor":false,"aft-monitor":false,"aft-administrator":false,"aft-oversighter":false,"aft-noone":false},"wgVisualEditor":{"isPageWatched":false,"magnifyClipIconURL":"//bits.wikimedia.org/static-1.22wmf19/skins/common/images/magnify-clip.png","pageLanguageCode":"en","pageLanguageDir":"ltr"},"wikilove-recipient":"","wikilove-anon":0,"wgGuidedTourHelpGuiderUrl":"Help:Guided tours/guider","wgULSAcceptLanguageList":[],"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia","aftv5Article":{"id":2821220,"title":"Kritosaurus","namespace":0,"categories":["Articles with 'species' microformats","Commons category template with no category set","Commons category with page title same as on Wikidata","Cretaceous dinosaurs","Dinosaurs of North America","Good articles","Hadrosaurs","Natural history of San Juan County, New Mexico"],"permissionLevel":false},"wgWikibaseItemId":"Q968771"});
+}if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":false,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,
+"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"useeditwarning":1,"prefershttps":1,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"vector-simplesearch":1,"vector-collapsiblenav":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"aftv5-last-filter":null,"visualeditor-enable":0,"visualeditor-enable-experimental":0,"visualeditor-betatempdisable":0,"wikilove-enabled":1,"echo-subscriptions-web-page-review":true,"echo-subscriptions-email-page-review":false,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"echo-notify-show-link":true,"echo-show-alert":true,"echo-email-frequency":0,"echo-email-format":"html","echo-subscriptions-email-system":true,"echo-subscriptions-web-system":true,"echo-subscriptions-email-other":false,"echo-subscriptions-web-other":true,"echo-subscriptions-email-edit-user-talk":false,"echo-subscriptions-web-edit-user-talk":true,
+"echo-subscriptions-email-reverted":false,"echo-subscriptions-web-reverted":true,"echo-subscriptions-email-article-linked":false,"echo-subscriptions-web-article-linked":false,"echo-subscriptions-email-mention":false,"echo-subscriptions-web-mention":true,"echo-subscriptions-web-edit-thank":true,"echo-subscriptions-email-edit-thank":false,"gettingstarted-task-toolbar-show-intro":true,"uls-preferences":"","language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs446":false,"searchNs447":false
+,"searchNs710":false,"searchNs711":false,"searchNs828":false,"searchNs829":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-mySandbox":1,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:156d8fe0ae17f8afd74198057563e45d */
+}if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","ext.visualEditor.viewPageTarget.init","ext.wikimediaShopLink.core","ext.uls.init","ext.uls.interface","wikibase.client.init","ext.centralNotice.bannerController","skins.vector.js"]);
+}/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}if(window.mw){
+mw.loader.load(["mobile.desktop","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.cite","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","mw.MwEmbedSupport.style","ext.vector.collapsibleNav","ext.articleFeedbackv5.startup","schema.HttpsSupport","ext.coreEvents.httpsSupport","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","mw.PopUpMediaTransform"],null,true);
+}

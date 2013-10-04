@@ -1,0 +1,553 @@
+
+
+
+Smilodon - Wikipedia, the free encyclopedia
+
+
+
+
+
+
+
+
+
+
+a:lang(ar),a:lang(ckb),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:0de201fdea5d684523607ed88007b127 */
+
+
+
+
+[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.22wmf18/skins/vector/csshover.min.htc")}</style><![endif]
+
+		
+		
+		
+			
+			
+						 CentralNotice 
+						Smilodon
+			
+								From Wikipedia, the free encyclopedia
+								
+												
+					Jump to:					navigation, 					search
+				
+				
+
+
+
+
+Smilodon
+Temporal range: Pleistocene 2.5–0.009Ma
+
+PreЄ
+Є
+O
+S
+D
+C
+P
+T
+J
+K
+Pg
+N
+
+
+
+↓
+
+
+
+
+
+
+
+
+
+Smilodon fatalis skeleton at the National Museum of Nature and Science, Tokyo, Japan
+
+
+Scientific classification
+
+
+Kingdom:
+Animalia
+
+
+Phylum:
+Chordata
+
+
+Class:
+Mammalia
+
+
+Order:
+Carnivora
+
+
+Family:
+Felidae
+
+
+Subfamily:
+†Machairodontinae
+
+
+Tribe:
+†Smilodontini
+
+
+Genus:
+†Smilodon
+Lund, 1841
+
+
+Species
+
+
+
+
+S. populator Lund, 1842 (type)
+S. fatalis Leidy, 1869
+S. gracilis Cope, 1880
+
+
+
+
+
+Smilodon /ˈsmaɪlədɒn/, is an extinct genus of machairodont felid. It is perhaps the best known saber-toothed cat and lived in North America during the Pleistocene epoch (2.5 mya—10,000 years ago). Several fossils have been found with one of the largest collections taken from the La Brea Tar Pits. Three species of the genus are known and they vary in size and build.
+Overall, Smilodon was more robustly built than any modern cat, with particularly well-developed forelimbs and exceptionally long upper canines. Its jaw had a bigger gape than modern cats and its upper canines were slender and fragile, being adapted for precision killing. These attributes made Smilodon a specialized hunter of large herbivores like bison and camels.
+Smilodon likely lived in closed habitats like forests and bush which would have provided cover for ambushing prey. Its reliance on large animals may have been the cause of its extinction. Scientists debate over whether Smilodon was a social animal. Comparison of predator responses to distress calls and the prevalence of healed injuries suggest it was social, while its small brain size and vegetated habitat suggest it was more solitary. Some fossils show signs of ankylosing spondylitis, trauma and arthritis. Smilodon went extinct 10,000 years ago.
+
+
+Contents
+
+
+1 Etymology
+2 Classification
+
+2.1 Species
+
+
+3 Description and anatomy
+
+3.1 Limbs
+3.2 Teeth and jaws
+
+
+4 Paleoecology and paleobiology
+
+4.1 Diet and hunting
+4.2 Social behavior
+4.3 Paleopathology
+
+
+5 Extinction
+6 References
+7 External links
+
+
+Etymology
+
+
+
+
+Restoration of Smilodon fatalis
+
+
+The nickname "saber-tooth" refers to the extreme length of their maxillary canines. Despite the colloquial name "saber-toothed tiger", Smilodon is not closely related to the tiger (or any other living felid); the latter belongs to subfamily Pantherinae, whereas Smilodon belongs to subfamily Machairodontinae. The name Smilodon comes from Greek: σμίλη, (smilē), "carving knife"[1] + ὀδoύς (odoús), "tooth" (whose stem is odont-, as seen in the genitive case form ὀδόντος, odóntos).[2]
+Classification
+
+
+
+
+Smilodon populator skeleton
+
+
+The genus Smilodon was named and described by the Danish naturalist and palaeontologist Peter Wilhelm Lund in 1842. He found the fossils of Smilodon populator in caves near the small town of Lagoa Santa, in the state of Minas Gerais, Brazil.[3] It is grouped with several species of saber-toothed cats in the subfamily Machairodontinae within the family Felidae. An early ancient DNA analysis suggested that Smilodon be grouped with modern cats (subfamily Felinae)[4] However, a 2005 study found that Smilodon belonged to a separate lineage.[5] Another study published a year later confirmed this, showing that the Machairodontinae diverged early from the ancestors of modern cats and were not closely related to any living feline species.[6] The skull and mandible morphology of the earliest saber-toothed cats were similar to that of clouded leopards. The lineage further adapted to precision killing of large animals with elongated canine teeth and wider gapes, in the process sacrificing high bite force.[7] Smilodon belongs to the tribe Smilodontini, which are known as "dirk-toothed cats". These cats were defined by their long slender canines with fine serrations.[8]
+Species
+
+
+
+
+S. fatalis skeleton
+
+
+A number of Smilodon species have been described, but today usually only three are recognized.[9]
+
+Smilodon gracilis, 2.5 million–500,000 years ago; the smallest and earliest species, estimated at 55 to 100 kg (120 to 220 lb) in weight[10] was the successor of Megantereon in North America, from which it probably evolved. This species reached the north of South America in the early Pleistocene, along with Homotherium.[11] The other Smilodon species probably derived from this species. As its specific name suggests, this species is the most lightly built of the genus.[3] In terms of size, it was intermediate between S. fatalis and S. populator.[9]
+Smilodon fatalis, 1.6 million–10,000 years ago, replaced S. gracilis in North America and invaded western South America as part of the Great American Interchange.[12] It ranged from 160 to 280 kg (350 to 620 lb).[10] and reached a shoulder height of 100 cm (39 in) and body length of 175 cm (69 in).[13] Sometimes two additional species are recognized, S. californicus and S. floridanus, but usually they are considered to be junior synonyms of S. fatalis.[14]
+Smilodon populator, 1 million–10,000 years ago; occurred in the eastern parts of South America and was larger than the North American species.[15] It is perhaps the largest known felid with a body mass range of 220 to 400 kg (490 to 880 lb).[10][16] It stand at a shoulder height of 120 cm (47 in).[9] Compared to S. fatalis, S. populator had a more elongated and narrow skull, higher positioned nasals, more massive metapodials and slightly longer forelimbs relative to hindlimbs.[12]
+
+Description and anatomy
+
+
+
+
+Smilodon fatalis shown to scale
+
+
+Smilodon was around the size of a modern lion or tiger but was more robustly built. It had a reduced lumbar region, high scapula, short tail, broad limbs with relatively short feet and long canines.[9][17] The brain of Smilodon was relatively small compared to other cat species.[18] In reconstructing the facial appearance of Smilodon, Miller (1969) proposed that it looked very different from a typical cat: having a lower lip line (to allow its mouth to open so wide without tearing the facial tissues), a more retracted nose and lower placed ears.[19] However this is disputed, and Antón, et al. (1998) write that the facial features of Smilodon were overall no different than that of other cats.[20]
+There is some dispute over whether Smilodon was sexually dimorphic. Some studies of Smilodon fatalis fossils have found little difference between the sexes.[21][22] Conversely a 2012 study found that while fossils of S. fatalis show less variation in size among individuals than modern Panthera, they do appear to show the same difference in some traits between the sexes.[23]
+Limbs
+Smilodon had shorter and more massive limbs than other felines. It had well developed flexors and extensors in its forearms, which enabled it to pull down and securely hold down large prey so it could deliver a killing bite without endangering the vulnerable elongate canines. Analysis of the cross-sections of S. fatalis humeri indicated that they were strengthened by cortical thickening to such an extent that they would have been able to sustain greater loading than those of extant big cats, or of the extinct American lion. However, the thickening of S. fatalis femurs was within the range of extant felids.[24] The heel bone of Smilodon was fairly long which suggests it was a good jumper.[9]
+Teeth and jaws
+
+
+
+
+Smilodon skull with jaws positioned to show wide gape
+
+
+Smilodon is most famous for its relatively long canines, which are the longest found in the saber-toothed cats, at about 28 cm (11 in) long in the largest species Smilodon populator.[9] Those of S. fatalis reached their full size in 18 months at a growth rate of 7 mm/month.[25] These canine teeth were slender and had fine serrations.[8] They were fragile and could not have bitten into bone; thus, these cats did not use their long teeth while taking down prey, due to the risk of breaking. Only when their prey was totally subdued did they use their teeth to slash the throat.[24]
+Despite being more powerfully built than other large cats, Smilodon actually had a weaker bite. Modern big cats have more pronounced zygomatic arches, while Smilodon had smaller zygomatic arches which restricted the thickness and therefore power of the temporalis muscles, and thus reduced Smilodon's bite force. Analysis of its narrow jaws indicates it could produce a bite only a third as strong as that of a lion.[26] There seems to a be a general rule that the saber-toothed cats with the largest canines had proportionally weaker bites. However, analyses of canine bending strength (the ability of the canine teeth to resist bending forces without breaking) and bite forces indicate that the saber-toothed cats' teeth were stronger relative to the bite force than those of modern "big cats".[27] In addition, Smilodon's gape could have reached almost 120 degrees,[28] while that of the modern lion reaches 65 degrees.[29] This makes the gape wide enough to allow Smilodon to grasp large prey despite the long canines.[20]
+Paleoecology and paleobiology
+
+
+
+
+Skeleton depicted climbing a branch
+
+
+Smilodon was perhaps the most recent of the saber-toothed cats and lived during the Pleistocene epoch (2.5 mya—10,000 years ago).[9] Fossils of the genus have been found throughout the Americas.[30] In particular, numerous specimens have been discovered in the La Brea Tar Pits in Los Angeles, California and the Talara Tar Seeps in Peru.[13] Smilodon likely lived in "closed" habitat (forest and bush).[31]
+Diet and hunting
+
+
+
+
+S. californicus and Canis dirus fight over a Mammuthus columbi carcass in the La Brea Tar Pits, by Robert Bruce Horsfall (1913)
+
+
+Smilodon was an apex predator and primarily hunted large mammals like bison, camels, ground sloths, horses and mastodons. Isotopes preserved in the bones of S, fatalis in the La Brea Tar Pits reveal that ruminants like bison and camels were most commonly taken by the cats.[32] In addition, isotopes preserved in the enamel of S. gracilis specimens from Florida show that this species feed on the pig-like Platygonus and the llama-like Hemiauchenia.[33] Isotopic studies of dire wolf and American lion bones show an overlap with S. fatalis in prey, which suggests that they were competitors.[32] The amount of prey available to these predators in the La brea area was likely comparable to modern East Africa.[34]
+Smilodon was likely an ambush predator and concealed itself in dense vegetation.[35] It probably used its great upper-body strength to wrestle prey to the ground, where its long canines could deliver a deep stabbing bite to the throat which would generally cut through the jugular vein and/or the trachea and thus kill the prey very quickly.[24][36] By contrast, modern cats kill large prey with a suffocating bite.[24] An alternate hypothesis suggests that Smilodon targeted the belly of its prey. However, this is disputed as the curvature of their prey's belly would likely have prevented the cat from getting a good bite.[37] Smilodon probably avoided eating bone and would have left enough food for scavengers.[38] Smilodon itself may have scavenged dire wolf kills.[39]
+Social behavior
+
+
+
+
+Two saber-tooths (S. fatalis) approach a ground sloth (Paramylodon) mired in the La Brea Tar Pits (Charles R. Knight, 1921)
+
+
+Scientists debate whether Smilodon was social. One study of African predators found that social predators like lions, spotted hyenas respond more to the distress calls of prey than solitary species. Since Smilodon fatalis fossils are common at the La Brea Tar Pits and were likely attracted by the distress calls of stuck prey, this could mean that La Brea S. fatalis were social as well.[40] Critics claim the study neglects other factors, such as body mass (heavier animals are more likely to get stuck then lighter ones), intelligence (some social animals like the American lion may have avoided the tar because they were better able to recognize the hazard), lack of visual and olfactory lures, the type of audio lure, and the length of the distress calls (the actual distress calls of the trapped prey animals would have lasted longer than the calls used in the study). In addition, they note that solitary cats like tigers are known to aggregate around a single carcass.[41] The authors of the original study have responded to these criticisms.[42]
+Another argument for sociality is based on the healed injures in several Smilodon fossils which would suggest that the animals needed others to provide it food.[43] This argument has been questioned, as cats can recover quickly from even severe bone damage and an injured Smilodon could survive as long as it had access to water.[44] Some researchers have argued that Smilodon's brain would have been too small for it to have been a social animal.[18] However, an analysis of brain size in living big cats found no correlation between brain size and sociality.[45] Another argument against Smilodon being social is based on it being an ambush hunter in closed habitat which would likely have negated sociality.[44]
+
+
+
+
+Skull of immature Smilodon
+
+
+Whether Smilodon was sexual dimorphic has implications for its reproductive behavior. Based on their conclusions that Smilodon fatalis had no sexual dimorphism, Van Valenburgh and Sacco (2002) suggest that if the cats were social they would likely have lived in monogamous pairs (along with offspring) with no intense competition among males for females.[21] Likewise, Meachen-Samuels and Binder (2010) conclude that aggression between males was less pronounced in S. fatalis than the American lion.[22] However, Christiansen and Harris (2012) find that as S. fatalis did exhibit some sexual dimorphism, there would have been evolutionary selection for competition between males.[23]
+In recent years, Smilodon cubs have been found in tar pits close to the Rancho La Brea site, near the bones of larger adults. Unlike the mature specimens, juvenile Smilodon had smaller saber teeth which were used more for cutting flesh away from bones than killing prey. This likely infers that they were coming in to feed after the adults had made a kill and fed on parts of the kill that were inaccessible to the adults. In attempting to feed, the cubs and subadults would also become mired and starve to death. This behavior was recently revealed in popular culture in the first episode of the 2013 BBC documentary miniseries "Ice Age Giants".[46]
+Paleopathology
+Several Smilodon fossils show signs of ankylosing spondylitis, hyperostosis and trauma;[47] some also had arthritis which gave them fused vertebrae. One study of 1,000 Smilodon skulls found that 30% of them had eroded parietal bones, which is where the largest jaw muscles attach. They also showed signs of microfractures, and the weakening and thinning of bones possibly caused by mechanical stress from the constant need to make stabbing motions with the canines.[48]
+Extinction
+Smilodon went extinct 10,000 years ago, along with most of the Pleistocene megafauna, in the Quaternary extinction event. Its extinction may be linked to the decline and extinction of large herbivores, which were replaced by smaller and more agile ones like deer. Hence Smilodon could have been too specialized at hunting large prey and may have been unable to adapt.[24] However, a 2012 study of Smilodon tooth wear found no evidence that they were limited by food resources. Other explanations include climate change and competition with humans.[49]
+References
+
+
+^ σμίλη, Henry George Liddell, Robert Scott, A Greek-English Lexicon, on Perseus
+^ ὀδoύς, Henry George Liddell, Robert Scott, A Greek-English Lexicon, on Perseus
+^ a b Ascanio, D.; Rincón R. (2006). "A first record of the Pleistocene saber-toothed cat Smilodon populator Lund, 1842 (Carnivora: Felidae: Machairodontinae) from Venezuela". Asociación Paleontologica Argentina 43 (2). ISSN 1851-8044. 
+^ Janczewski, D. N.; Yuhki, N.; Gilbert, D. A.; Jefferson, G. T.; O'Brien, S. J. (1992). "Molecular phylogenetic inference from saber-toothed cat fossils of Rancho La Brea". Proceedings of the National Academy of Sciences 89 (20): 9769. doi:10.1073/pnas.89.20.9769.  edit
+^ Barnett, R; Barnes, I.; Phillips, M. J.; Martin, L. D.; Harington, C. R.; Leonard, J. A.; Cooper, A. (2005). "Evolution of the extinct Sabretooths and the American cheetah-like cat". Current Biology 15 (15): R589–R590. doi:10.1016/j.cub.2005.07.052. PMID 16085477. 
+^ van den Hoek Ostende, L. W.; Morlo, M.; Nagel, D. (2006). "Majestic killers: the sabre-toothed cats (Fossils explained 52)". Geology Today 22 (4): 150–157. doi:10.1111/j.1365-2451.2006.00572.x. 
+^ Christiansen, P. (2008). "Evolution of Skull and Mandible Shape in Cats (Carnivora: Felidae)". PLoS ONE 3 (7): e2807. Bibcode:2008PLoSO...3.2807C. doi:10.1371/journal.pone.0002807. 
+^ a b Slater, G. J.; Valkenburgh, B. V. (2008). "Long in the tooth: evolution of sabertooth cat cranial shape". Paleobiology 34 (3): 403–419. ISSN 0094-8373. 
+^ a b c d e f g Turner, A.; Antón, M. (1997). The Big Cats and Their Fossil Relatives: An Illustrated Guide to Their Evolution and Natural History. Columbia University Press. pp. 57–58, 67–68. ISBN 978-0-231-10229-2. OCLC 34283113. 
+^ a b c Christiansen, P.; Harris, J. M. (2005). "Body Size of Smilodon (Mammalia: Felidae)". Journal of Morphology 266 (3): 369–384. doi:10.1002/jmor.10384. PMID 16235255. 
+^ Rincón, A.; Prevosti, F.; Parra, G. (2011). "New saber-toothed cat records (Felidae: Machairodontinae) for the Pleistocene of Venezuela, and the Great American Biotic Interchange". Journal of Vertebrate Paleontology 31 (2): 468– 478. doi:10.1080/02724634.2011.550366. 
+^ a b Kurten, B.; Werdelinb, L. (1990). "Relationships between North and South American Smilodon". Journal of Vertebrate Paleontology 10 (2): 158–169. doi:10.1080/02724634.1990.10011804. JSTOR 4523312. 
+^ a b "Saber-Toothed Cat, Smilodon fatalis". San Diego Zoo Global. January 2009. Retrieved 2013-05-07. 
+^ "Smilodon fatalis Leidy, 1868". Florida Museum of Natural History. Retrieved 2013-05-01. 
+^ Mariela Cordeiro de Castro, Max Cardoso Langer (2008). "New postcranial remains of Smilodon populator Lund, 1842 from South-Central Brazil". Revista Brasileira de Paleontologia 11 (3): 199–206. 
+^ Sorkin, B. (2008-04-10). "A biomechanical constraint on body mass in terrestrial mammalian predators". Lethaia 41 (4): 333–347. doi:10.1111/j.1502-3931.2007.00091.x. Retrieved 2011-08-02. 
+^ "What Is a Sabertooth?". University of California Museum of Paleontology. Retrieved 2013-04-08. 
+^ a b Radinsky, L. B. (1975). "Evolution of the felid brain". Brain, Behavior and Evolution 11 (3–4): 214–254. doi:10.1159/000123636. PMID 1181005. 
+^ Miller, G. J. (1969). "A new hypothesis to explain the method of food ingestion used by Smilodon californicus Bovard". Tebiwa 12: 9–19. 
+^ a b Antón, M.; García-Perea, R.; Turner, A. (1998). "Reconstructed facial appearance of the sabretoothed felid Smilodon". Zoological Journal of the Linnean Society 124 (4): 369–86. doi:10.1111/j.1096-3642.1998.tb00582.x. 
+^ a b Van Valkenburgh, B.; Sacco, T. (2002). "Sexual dimorphism, social behavior and intrasexual competition in large Pleistocene carnivorans". Journal of Vertebrate Paleontology 22 (1): 164–169. JSTOR 4524203. 
+^ a b Meachen-Samuels, J.; Binder, W. (2010). "Sexual dimorphism and ontogenetic growth in the American lion and sabertoothed cat from Rancho La Brea". Journal of Zoology 280 (3): 271–279. doi:10.1111/j.1469-7998.2009.00659.x. 
+^ a b Christiansen, P.; Harris J. M. (2012). "Variation in craniomandibular morphology and sexual dimorphism in Pantherines and the sabercat Smilodon fatalis". PLoS ONE 7 (10): e48352. Bibcode:2012PLoSO...748352C. doi:10.1371/journal.pone.0048352. 
+^ a b c d e Meachen-Samuels, J. A.; Van Valkenburgh, B. (2010-07-02). "Radiographs reveal exceptional forelimb strength in the sabertooth cat, Smilodon fatalis". PLoS ONE 5 (7): e11412. doi:10.1371/journal.pone.0011412. ISSN 1932-6203. 
+^ Feranec, R. C. (2004). "Isotopic evidence of saber-tooth development, growth rate, and diet from the adult canine of Smilodon fatalis from Rancho La Brea". Palaeogeography, Palaeoclimatology, Palaeoecology 206 (3–4): 303–310. doi:10.1016/j.palaeo.2004.01.009. 
+^ Jeff Hecht (1 October 2007). "Sabre-tooth cat had a surprisingly delicate bite". New Scientist.  The study used finite element analysis, a computerized technique common in engineering.
+^ Christiansen, P. (October 2007). "Comparative bite forces and canine bending strength in feline and sabretooth felids: implications for predatory ecology". Zoological Journal of the Linnean Society 151 (2): 423–37. doi:10.1111/j.1096-3642.2007.00321.x. 
+^ Andersson, K.; Norman, D.; Werdelin, L.; (2011). "Sabretoothed Carnivores and the Killing of Large Prey". PLoS ONE 6 (10): e24971. Bibcode:2011PLoSO...624971A. doi:10.1371/journal.pone.0024971. 
+^ Martin, L. D. (1980). "Functional morphology and the evolution of cats". Transactions of the Nebraska Academy of Sciences 8: 141–54. 
+^ Berta, A. (1985). "The status of Smilodon in North and South America". Contributions in Science, Natural History Museum of Los Angeles County 370: 1–15. 
+^ Meloro, C.; Elton, S.; Louys, J.; Bishop, L. C.; Ditchfield, P. (2013). "Cats in the forest: predicting habitat adaptations from humerus morphometry in extant and fossil Felidae (Carnivora)". Paleobiology 39 (3): 323–44. doi:10.1666/12001. 
+^ a b Coltrain, J. B.; Harris, J. M.; Cerling, T. E.; Ehleringer, J. R.; Dearing, M-D.; Ward, J.; Allen, J. (2004). "Rancho La Brea stable isotope biogeochemistry and its implications for the palaeoecology of late Pleistocene, coastal southern California". Palaeogeography, Palaeoclimatology, Palaeoecology 205 (3–4): 199–219. doi:10.1016/j.palaeo.2003.12.008. 
+^ Fennec, R. S. (2005). "Growth rate and duration of growth in the adult canine of Smilodon gracilis and inferences on diet through stable isotope analysis". Feranec Bull FLMNH 45 (4): 369–77. 
+^ Vanvalkenburgh, B.; Hertel, F. (1993). "Tough times at la brea: tooth breakage in large carnivores of the late Pleistocene". Science 261 (5120): 456–59. Bibcode:1993Sci...261..456V. doi:10.1126/science.261.5120.456. PMID 17770024. 
+^ Gonyea, W. J. (1976). "Behavioral implications of saber-toothed felid morphology". Paleobiology 2 (4): 332–42. JSTOR 2400172. 
+^ McHenry, C.R., Wroe S., Clausen, P.D., Moreno, K. and Cunningham, E. (2007). "Supermodeled sabercat, predatory behavior in Smilodon fatalis revealed by high-resolution 3D computer simulation". PNAS 104 (41): 16010–16015. Bibcode:2007PNAS..10416010M. doi:10.1073/pnas.0706086104. PMC 2042153. PMID 17911253. 
+^ Anyonge, W. (1996). "Microwear on canines and killing behavior in large carnivores: saber function in Smilodon fatalis". Journal of Mammalogy 77 (4): 1059–1067. JSTOR 1382786. 
+^ Van Valkenburgh, B.; Teaford, M. F.; Walker, A. (1990). "Molar microwear and diet in large carnivores: inferences concerning diet in the sabretooth cat, Smilodon fatalis". Journal of Zoology 222 (2): 319–40. doi:10.1111/j.1469-7998.1990.tb05680.x. 
+^ Van Valkenburgh, B. (1991). "Iterative evolution of hypercarnivory in canids (Mammalia: Carnivora): evolutionary interactions among sympatric predators". Paleobiology 17 (4): 340–362. JSTOR 2400749. 
+^ Carbone, C.; Maddox, T.; Funston, P. J.; Mills, M. G. L.; Grether, G. F.; Van Valkenburgh, B. (2009). "Parallels between playbacks and Pleistocene tar seeps suggest sociality in an extinct sabretooth cat, Smilodon". Biological Letters 5 (1): 81–85. doi:10.1098/rsbl.2008.0526. 
+^ Kiffner, C. (2009). "Coincidence or evidence: was the sabretooth cat Smilodon social?". Biology Letters 5 (4): 561–562. doi:10.1098/rsbl.2009.0008. 
+^ Van Valkenburgh, B.; Maddox, T.; Funston, P. J.; Mills, M. G. L.; Grether, G. F.; Carbone, C. (2009). "Sociality in Rancho La Brea Smilodon: arguments favour 'evidence' over 'coincidence'". Biology Letters 5 (4): 563–564. doi:10.1098/rsbl.2009.0261. 
+^ Heald, F. (1989). "Injuries and diseases in Smilodon californicus". Journal of Vertebrate Paleontology (Supplement) 9: 24A. 
+^ a b McCall, S.; Naples, V.; Martin, L.; (2003). "Assessing behavior in extinct animals: was Smilodon social?". Brain, Behavior and Evolution 61 (3): 159–64. PMID 12697957. 
+^ Yamaguchi, N.; Kitchener, A. C.; Gilissen, E.; MacDonald, D. W. (2009). "Brain size of the lion (Panthera leo) and the tiger (P. tigris): implications for intrageneric phylogeny, intraspecific differences and the effects of captivity". Biological Journal of the Linnean Society 98 (1): 85–93. doi:10.1111/j.1095-8312.2009.01249.x. 
+^ Ice Age Giants: Land of the Sabertooth
+^ Bjorkengren, A. G.; Sartoris, D. J.; Shermis, S.; Resnick, D. (1987). "Patterns of paravertebral ossification in the prehistoric saber-toothed cat". American Journal of Roentgenology 148 (4): 779–782. PMID 3103404. 
+^ Duckler, G. L. (1997). "Parietal depressions in skulls of the extinct saber-toothed felid Smilodon fatalis: evidence of mechanical strain". Journal of Vertebrate Paleontology 17 (3): 600–609. doi:10.1080/02724634.1997.10011006. 
+^ DeSantis, L. R. G.; Schubert, B. W.; Scott, J. R.; Ungar, P. S. (2012). "Implications of Diet for the Extinction of Saber-Toothed Cats and American Lions". PLoS ONE 7 (12): e52453. Bibcode:2012PLoSO...752453D. doi:10.1371/journal.pone.0052453. 
+
+
+External links
+
+
+
+
+Extinction portal
+
+
+
+Paleontology portal
+
+
+
+Prehistoric mammals portal
+
+
+
+
+
+
+Wikimedia Commons has media related to Smilodon.
+
+
+
+Schneider, Jens, Killing behavior in Smilodon fatalis (Mammalia, Carnivora, Felidae) based on functional anatomy and body proportions of the front- and hind limbs Diploma thesis in German language
+Smilodon article at bluelion.org
+
+
+
+
+ 
+NewPP limit report
+CPU time usage: 3.380 seconds
+Real time usage: 3.488 seconds
+Preprocessor visited node count: 18920/1000000
+Preprocessor generated node count: 47953/1500000
+Post‐expand include size: 146480/2048000 bytes
+Template argument size: 22574/2048000 bytes
+Highest expansion depth: 25/40
+Expensive parser function count: 0/500
+Lua time usage: 0.175s
+Lua memory usage: 2.51 MB
+
+
+ Saved in parser cache with key enwiki:pcache:idhash:169071-0!*!0!!en!4!* and timestamp 20131002071353 
+								
+				Retrieved from "http://en.wikipedia.org/w/index.php?title=Smilodon&oldid=575403905"				
+												Categories: Pleistocene extinctionsPleistocene carnivoransPrehistoric mammals of North AmericaPrehistoric mammals of South AmericaSmilodonHidden categories: Wikipedia pages semi-protected from banned usersGood articlesArticles with 'species' microformatsArticles containing Ancient Greek-language textCommons category template with no category setCommons category with page title same as on Wikidata												
+							
+		
+		
+			Navigation menu
+			
+				
+	Personal tools
+	
+Create accountLog in	
+
+				
+					
+	Namespaces
+	
+					Article
+					Talk
+			
+
+
+	
+		
+	Variants
+	
+		
+					
+	
+
+				
+				
+					
+	Views
+	
+					Read
+					View source
+					View history
+			
+
+
+	Actions
+	
+		
+					
+	
+
+
+	Search
+	
+				
+																				
+		
+	
+
+				
+			
+			
+					
+				
+	Navigation
+	
+		
+			Main page
+			Contents
+			Featured content
+			Current events
+			Random article
+			Donate to Wikipedia
+		
+	
+
+
+	Interaction
+	
+		
+			Help
+			About Wikipedia
+			Community portal
+			Recent changes
+			Contact page
+		
+	
+
+
+	Toolbox
+	
+		
+			What links here
+			Related changes
+			Upload file
+			Special pages
+			Permanent link
+			Page information
+			Data item
+Cite this page		
+	
+
+
+	Print/export
+	
+		
+			Create a book
+			Download as PDF
+			Printable version
+		
+	
+
+
+	Languages
+	
+		
+			العربية
+			Български
+			Brezhoneg
+			Català
+			Česky
+			Dansk
+			Deutsch
+			Eesti
+			Español
+			Esperanto
+			Euskara
+			فارسی
+			Føroyskt
+			Français
+			한국어
+			Italiano
+			עברית
+			Basa Jawa
+			Lietuvių
+			Magyar
+			മലയാളം
+			Bahasa Melayu
+			Монгол
+			Nederlands
+			日本語
+			Norsk bokmål
+			Occitan
+			Polski
+			Português
+			Română
+			Русский
+			Simple English
+			Slovenčina
+			Srpskohrvatski / српскохрватски
+			Suomi
+			Svenska
+			Tagalog
+			ไทย
+			Türkçe
+			Українська
+			Tiếng Việt
+			中文
+			
+			Edit links
+		
+	
+
+			
+		
+		
+							
+											 This page was last modified on 2 October 2013 at 07:13.
+											Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. 
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+									
+							
+											Privacy policy
+											About Wikipedia
+											Disclaimers
+											Contact Wikipedia
+											Developers
+											Mobile view
+									
+										
+					
+						
+					
+					
+						
+					
+				
+						
+		
+		
+
+
+ Served by mw1101 in 0.239 secs. 
+	
+if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Smilodon","wgTitle":"Smilodon","wgCurRevisionId":575403905,"wgArticleId":169071,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Wikipedia pages semi-protected from banned users","Good articles","Articles with 'species' microformats","Articles containing Ancient Greek-language text","Commons category template with no category set","Commons category with page title same as on Wikidata","Pleistocene extinctions","Pleistocene carnivorans","Prehistoric mammals of North America","Prehistoric mammals of South America","Smilodon"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Smilodon","wgIsProbablyEditable":false,"wgRestrictionEdit":["autoconfirmed"],"wgRestrictionMove":[],"wgVectorEnabledModules":{"collapsiblenav":true,"experiments":true},"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"templateEditor":false,"templates":false,"preview":false,"previewDialog":false,"publish":false,"toc":false},"wgArticleFeedbackv5Permissions":{"aft-reader":false,"aft-member":false,"aft-editor":false,"aft-monitor":false,"aft-administrator":false,"aft-oversighter":false,"aft-noone":false},"wgVisualEditor":{"isPageWatched":false,"magnifyClipIconURL":"//bits.wikimedia.org/static-1.22wmf18/skins/common/images/magnify-clip.png","pageLanguageCode":"en","pageLanguageDir":"ltr"},"wikilove-recipient":"","wikilove-anon":0,"wgGuidedTourHelpGuiderUrl":"Help:Guided tours/guider","wgULSAcceptLanguageList":[],"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia","aftv5Article":{"id":169071,"title":"Smilodon","namespace":0,"categories":["Articles containing Ancient Greek-language text","Articles with 'species' microformats","Commons category template with no category set","Commons category with page title same as on Wikidata","Good articles","Pleistocene carnivorans","Pleistocene extinctions","Prehistoric mammals of North America","Prehistoric mammals of South America","Smilodon","Wikipedia pages semi-protected from banned users"],"permissionLevel":false},"wgWikibaseItemId":"Q188717"});
+}if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":false,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,
+"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"useeditwarning":1,"prefershttps":1,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"vector-simplesearch":1,"vector-collapsiblenav":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"aftv5-last-filter":null,"visualeditor-enable":0,"visualeditor-enable-experimental":0,"visualeditor-betatempdisable":0,"wikilove-enabled":1,"echo-subscriptions-web-page-review":true,"echo-subscriptions-email-page-review":false,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"echo-notify-show-link":true,"echo-show-alert":true,"echo-email-frequency":0,"echo-email-format":"html","echo-subscriptions-email-system":true,"echo-subscriptions-web-system":true,"echo-subscriptions-email-other":false,"echo-subscriptions-web-other":true,"echo-subscriptions-email-edit-user-talk":false,"echo-subscriptions-web-edit-user-talk":true,
+"echo-subscriptions-email-reverted":false,"echo-subscriptions-web-reverted":true,"echo-subscriptions-email-article-linked":false,"echo-subscriptions-web-article-linked":false,"echo-subscriptions-email-mention":false,"echo-subscriptions-web-mention":true,"echo-subscriptions-web-edit-thank":true,"echo-subscriptions-email-edit-thank":false,"gettingstarted-task-toolbar-show-intro":true,"uls-preferences":"","language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs446":false,"searchNs447":false
+,"searchNs710":false,"searchNs711":false,"searchNs828":false,"searchNs829":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-mySandbox":1,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:156d8fe0ae17f8afd74198057563e45d */
+}if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","ext.visualEditor.viewPageTarget.init","ext.wikimediaShopLink.core","ext.uls.init","ext.uls.interface","wikibase.client.init","ext.centralNotice.bannerController","skins.vector.js"]);
+}/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}if(window.mw){
+mw.loader.load(["mediawiki.action.view.postEdit","mobile.desktop","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.cite","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","mw.MwEmbedSupport.style","ext.vector.collapsibleNav","ext.articleFeedbackv5.startup","ext.gettingstarted.logging","ext.gettingstarted.openTask","schema.HttpsSupport","ext.coreEvents.httpsSupport","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","mw.PopUpMediaTransform"],null,true);
+}

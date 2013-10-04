@@ -1,0 +1,455 @@
+
+
+
+Monoclonius - Wikipedia, the free encyclopedia
+
+
+
+
+
+
+
+
+
+
+
+
+a:lang(ar),a:lang(ckb),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:0de201fdea5d684523607ed88007b127 */
+
+
+
+
+[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.22wmf18/skins/vector/csshover.min.htc")}</style><![endif]
+
+		
+		
+		
+			
+			
+						 CentralNotice 
+						Monoclonius
+			
+								From Wikipedia, the free encyclopedia
+								
+												
+					Jump to:					navigation, 					search
+				
+				
+
+
+Monoclonius
+Temporal range: Late Cretaceous, 77–74.8Ma
+
+PreЄ
+Є
+O
+S
+D
+C
+P
+T
+J
+K
+Pg
+N
+
+
+
+↓
+
+
+
+
+
+
+
+
+
+Nasal horn base and lectotype frill of M. crassus
+
+
+Scientific classification 
+
+
+Kingdom:
+Animalia
+
+
+Phylum:
+Chordata
+
+
+Clade:
+Sauropsida
+
+
+Clade:
+Dinosauria
+
+
+Order:
+†Ornithischia
+
+
+Family:
+†Ceratopsidae
+
+
+Subfamily:
+†Centrosaurinae
+Cope, 1876
+
+
+Genus:
+†Monoclonius
+
+
+Type species
+
+
+†Monoclonius crassus
+Cope, 1876
+
+
+Synonyms
+
+
+
+Monoclonius lowei? Sternberg, 1940
+
+
+
+
+Monoclonius (meaning "single sprout") is a dubious genus of herbivorous ceratopsian dinosaurs found in the Late Cretaceous layers of the Judith River Formation in Montana and the uppermost rock layers of the Dinosaur Park Formation in Alberta,[1] dated to between 75 and 74.6 million years ago.[2]
+Monoclonius was named by Edward Drinker Cope in 1876. Later, much taxonomic confusion was caused by the discovery of Centrosaurus, a very similar genus of ceratopsian, that is known from much better remains. Today, typical Monoclonius specimens are usually believed to be juveniles or subadults, in many cases of other genera such as Centrosaurus. Those specimens that remain under the name Monoclonius are mostly too incomplete or immature to be confidently matched with adult specimens from the same time and place. This is especially true of the type species, Monoclonius crassus. Therefore, Monoclonius is now usually considered a nomen dubium, pending further study.[1]
+
+
+Contents
+
+
+1 Etymology
+2 History
+
+2.1 Cope's initial discoveries
+2.2 Centrosaurus intrudes
+2.3 The validity of Monoclonius and its species
+
+
+3 In popular culture
+4 References
+5 Further reading
+
+
+Etymology[edit]
+
+
+
+
+Hypothetical restoration
+
+
+Contrary to what was stated in most popular or technical science publications prior to 1992, the name Monoclonius does not mean "single horn" or refer to its distinctive single nasal horn. In fact, the genus was named before it was known to have been a horned dinosaur, and had previously been considered a "hadrosaur". The name in fact means "single sprout", from Greek μόνος, monos, "single", and κλωνίον, klonion, "sprout", in reference to the way its teeth grew compared to its relative Diclonius ("double sprout"), which was named by Edward Drinker Cope in the same paper as Monoclonius. In Diclonius, Cope interpreted the fossils to show two series of teeth in use at one time (one mature set and one sprouting replacement set), while in Monoclonius, there appeared to be only one set of teeth in use as a chewing surface at any one time, with replacement teeth growing in only after mature teeth had fallen out. This salient feature of the tooth, which specimen is now lost, almost certainly precludes it from being centrosaurine: it probably indeed is hadrosaurian and was by mistake associated with the rest of the type material.[3]
+History[edit]
+Cope's initial discoveries[edit]
+Monoclonius was Edward Drinker Cope's third named ceratopsian, after Agathaumas and Polyonax. Several fossils were found by Cope, assisted by a young Charles Hazelius Sternberg, in the summer of 1876 near the Judith River in Chouteau County, Montana, only about a hundred miles from the site of the Battle of the Little Bighorn that June. The finds did not represent a single, let alone articulated, skeleton, but came from different locations. Together they included elements of most parts of the animal (only the feet were entirely missing), including the base part of a long nasal horn, part of the skull frill, brow horns, three fused cervical vertebrae, a sacrum, a shoulder girdle, an ilium, an ischium, two thighbones, a shinbone, a fibula and parts of a forelimb. Just two weeks after leaving Montana, Cope hastily described and named these finds on 30 October 1876 as the type species Monoclonius crassus. The specific name means "the fat one" in Latin. Since the ceratopsians had not been recognised yet as a distinctive group, Cope was uncertain about much of the fossil material, not recognizing the nasal horn core, nor the brow horns, as part of a fossil horn. The skull frill he interpreted as an episternum, an ossified part of the breastbone, and the fused cervicals he assumed to be anterior dorsals.[4]
+
+
+
+
+Life restoration of Monoclonius from 1917
+
+
+After Othniel Charles Marsh's description of Triceratops in 1889, Cope reexamined his Monoclonius specimen and realized that Triceratops, Monoclonius, and Agathaumas represented a group of similar dinosaurs. He the same year redescribed Monoclonius as having a large nasal horn and two smaller horns over the eyes and a large frill, of which the parietal bone had been found with broad openings. In the same paper in which Cope examined M. crassus, he also named three more Monoclonius species. The first was Monoclonius recurvicornis, "with a recurved horn", based on specimen AMNH 3999, a short curved nasal horncore and two brow horns, that he had already reported in 1877 but not associated with M. crassus.[5] The second was Monoclonius sphenocerus, the "wedge-horned" from Greek σϕηνός, sphènos, "wedge", based on specimen AMNH 3989, a 325 millimetre long nasal horn, found by Sternberg in 1876 on Cow Island in the Missouri. The third species was Monoclonius fissus, "the split one", based on specimen AMNH 3988, a pterygoid that Cope assumed to be a split squamosal.[6]
+In 1895 Cope was, for financial reasons, forced to sell a large part of his collection to the American Museum of Natural History. This included his Monoclonius specimens that thus received AMNH inventory numbers. The M. crassus fossils were catalogued as AMNH 3998. Although John Bell Hatcher had been one of Marsh's workers and therefore in the 'Yale Camp' of the Bone Wars, the rivalry between Cope and Marsh, after the death of both he was invited to complete Marsh's monograph on the Ceratopsia also using Cope's material. Hatcher was very critical of Cope's collecting methods. Cope rarely identified specimens in the field with precise locations and often ended up describing composites, rather than single individuals. Hatcher reexamined the presumed type specimen of M. crassus and concluded it in fact represented several individual animals and thus was a series of syntypes. Therefore he selected one of these as the lectotype, the name-bearing fossil, and chose the distinctive left parietal, forming the dorsal part of the neck frill. The several squamosals, sides of the frill, in the collection could not be associated to this lectotype and he did not believe that Cope's orbital horn (catalogued under a different number) belonged to it. This analysis was eventually, after Hatcher had deceased also, published by Richard Swann Lull in 1907.[7]
+Centrosaurus intrudes[edit]
+In the years after Cope's 1889 paper, it appears that there was a tendency to describe any ceratopid material from the Judith River beds as Monoclonius. The first dinosaur species described from Canada were ceratopsians, in 1902 by Lawrence Lambe, including three new species of Monoclonius based on fragmentary skulls. Two of these, Monoclonius belli and Monoclonius canadensis, were later seen as a single species within a separate genus: Chasmosaurus belli. The third, Monoclonius dawsoni, of which the epitheton honoured George Mercer Dawson, was based on a partial skull, specimen NMC 1173. To this species a parietal was referred, specimen NMC 971.[8] However in 1904, Lambe decided that this parietal represented a different species and genus that he named Centrosaurus apertus.[9]
+
+
+
+
+The "Monoclonius nasicornus" skeleton (material now more usually classified in Centrosaurus or Styracosaurus)
+
+
+With newer specimens collected by Charles H. Sternberg, it became accepted that Centrosaurus was distinctly separate from Monoclonius, at least by Lambe. This was challenged in a 1914 paper by Barnum Brown who reviewed Monoclonius and Centrosaurus, dismissing most of Cope's species, leaving only M. crassus. Comparing the parietals of Monoclonius and Centrosaurus, he concluded that any differences were caused by the fact that the M. crassus lectotype had been that of an old animal and damaged by erosion. This would mean that the two were synonymous, with the name Monoclonius having priority. In the same paper he named another species: Monoclonius flexus, "the curved one", based on specimen AMNH 5239, a skull found in 1912 and featuring a forward curving nasal horn.[10] In 1915, Lambe answered Brown in another paper — the review of the Ceratopsia in which Lambe established three families — transferring M. dawsoni to Brachyceratops and M. sphenocerus to Styracosaurus. This left M. crassus, which he considered non-diagnostic, largely due to its damage and the lack of a nasal horn. Lambe ended the paper by referring Brown's M. flexus to Centrosaurus apertus, the type species of Centrosaurus.[11] The next round fell in 1917 to Brown in a paper on Albertan centrosaurines, which, for the first time, analyzed a complete ceratopsian skeleton, specimen AMNH 5351 found by him in 1914, which he named Monoclonius nasicornus, "with the nose-horn". In the same paper he described yet another species, Monoclonius cutleri, the epithet honouring William Edmund Cutler, based on specimen AMNH 5427, a headless skeleton featuring skin impressions.[12]
+The matter bounced back and forth, over the next few years, until R.S. Lull published his "Revision of the Ceratopsia", in 1933. Although, unlike the beautifully illustrated 1907 monograph, it has relatively few illustrations, it is known for the attempt to identify and locate all ceratopsian specimens then known. Lull described another almost complete specimen from Alberta: AMNH 5341, presently exhibited as YPM 2015 at Yale's Peabody Museum in an unusual way: the left half shows the skeleton, but the right side is a reconstruction of the living animal, and referred it to a Monoclonius (Centrosaurus) flexus. Lull had decided that Centrosaurus was a junior synonym of Monoclonius, but distinct enough to deserve subgeneric rank; he therefore also created a Monoclonius (Centrosaurus) apertus.[13] Charles Mortram Sternberg, son of Charles H. Sternberg, in 1938 firmly established the existence of Monoclonius-type forms in Alberta — no further specimens had come from Montana since 1876 — and claimed that differences justified the separation of the two genera. Monoclonius-types were rarer and found in earlier horizons than Centrosaurus-types, seemingly indicating that the one would be ancestral to the other.[14] In 1940 C.M. Sternberg named another species: Monoclonius lowei. The specific name honoured his field assistant Harold D'acre Robinson Lowe from Drumheller who had worked six field seasons, during the 1925-1937 period, with him across southern Alberta, with other work in Manitoba and Saskatchewan.[15] He created yet another combination in 1949, renaming Brachyceratops montanensis into Monoclonius montanensis, a change today no longer accepted.[16] In 1964 Oskar Kuhn renamed Centrosaurus longirostris into Monoclonius longirostris.[17] In 1987 Guy Leahy renamed Styracosaurus albertenis into Monoclonius albertenis;[18] in 1990 Thomas Lehman renamed Avaceratops lammersi into Monoclonius lammersi.[19] Both names have found no acceptance.
+The validity of Monoclonius and its species[edit]
+During the 1990s, the relation between Monoclonius and Centrosaurus was still contentious. There were three relevant possibilities. The first was that, as Barnum Brown had concluded in 1914, Monoclonius crassus were a valid species and identical to Centrosaurus apertus. In that case Centrosaurus would be a junior synonym and Monoclonius have priority. The second was that, as Lambe had thought, Monoclonius crassus was a nomen dubium, a species based on fossil material that was so indistinct that no other material could justifiably be associated with it. In that case the name Monoclonius could be disregarded and Monoclonius species other than M. crassus — if not nomina dubia or nomina nuda themselves — would have to be referred to other genera. The third possibility was that both Monoclonius and Centrosaurus were valid and thus separate. The last position was from 1990 defended by Peter Dodson who claimed that specimen AMNH 3998, the M. crassus lectotype, differed from the Centrosaurus apertus holotype in having a very thin parietal close to the skull frill edge. That this was not simply a matter of individual variation would be proven by the fact that M. lowei had a comparably thin frill.[20] However, in 1997 Scott Sampson e.a. concluded that the M. crassus lectotype and all comparable Monoclonius specimens referred to nomina dubia because they all represented juveniles or subadult individuals, as could be see from their juvenile long-grained bone structure. In some cases the adult form is an already-known species, but in others the adult may not yet be known to science. Most centrosaurine species would thus have a "Monoclonius" phase in their ontogeny, which would explain why such specimens can be found from a wide range in time and space.[21] In 1998 Dodson and Allison Tumarkin argued that the bone structure could also be explained by species-specific pedomorphosis, the retention by adults of juvenile traits. This would be proven by the fact that the holotype of M. lowei, specimen NMC 8790, possessed an interparietal bone with 609 millimetre in length the longest of any centrosaurine specimen known. The second longest, specimen NMC 5429 of Centrosaurus apertus, is only 545 millimetre long, showing NMC 8790 was not likely a subadult.[22] However, in 2006 Michael Ryan concluded that the M. lowei holotype was an exceptionally large subadult after all, as shown by a third epiparietal, osteoderm on the frill edge, just beginning to develop and skull sutures which are not completely closed. Monoclonius crassus was seen as a nomen dubium.[1]
+
+
+
+
+M. lowei holotype
+
+
+The developing consensus that Monoclonius crassus is a nomen dubium implies that the genus is in principle constrained to this type species, M. crassus, and in fact to the lectotype frill recovered from the Judith River Formation of Montana; even the other material of the AMNH 3998 inventory number cannot justifiably be referred to it. Most of the other historical Monoclonius species have been referred to other genera or are generally seen as nomina dubia or nomina nuda. Two species still pose problems. The status of M. lowei is uncertain. It is based on a large, somewhat flattened skull, its type and only specimen specimen CMN 8790, recovered from the upper strata of the Dinosaur Park Formation in Alberta. C.M. Sternberg pointed out the resemblances of this specimen to Brachyceratops. M. lowei has previously been considered a synonym of M. crassus, but if the type specimen of that species is not considered diagnostic, M. lowei also cannot be placed in the genus Monoclonius. Ryan suggested it might represent a subadult individual of either Styracosaurus, Achelousaurus, or Einiosaurus, based on stratigraphy.[1] Also problematic is M. nasicornus. Despite coming from slightly older strata, the species was in 1990 by Dodson assumed to represent an extreme case of sexual dimorphism and be the female of Styracosaurus albertensis.[23][20] Others have synonymised it with Centrosaurus apertus,[24] or considered it a separate Centrosaurus species: Centrosaurus nasicornus.[25] It has been suggested it is the direct ancestor of Styracosaurus albertensis.[26]
+The status of the numerous species that have been assigned to the genus Monoclonius in the past, most of which have been either re-classified in other genera or are also considered dubious, can be indicated by a species list in alphabetical order.
+
+M. albertensis (Lambe, 1913) Leahy, 1987; now classified as Styracosaurus albertensis
+M. apertus (Lambe, 1904) Kuhn, 1964; now classified as Centrosaurus apertus
+M. belli Lambe, 1902; now classified as Chasmosaurus belli
+M. canadensis Lambe, 1902; now classified as Eoceratops canadensis
+M. crassus Cope, 1876; type species, nomen dubium
+M. cutleri Brown, 1917; junior synonym of Centrosaurus apertus
+M. dawsoni Lambe, 1902; synonym of Centrosaurus apertus
+M. "fissus" Cope, 1889; nomen nudum
+M. flexus Brown, 1914; junior synonym of Centrosaurus apertus
+M. lammersi (Dodson, 1986) Lehman, 1990; = Avaceratops lammersi Dodson, 1986; = Avaceratops lammersorum (Dodson, 1986) Olshevsky, 1991
+M. longirostris (Sternberg, 1940) Kuhn, 1964; junior synonym of Centrosaurus apertus
+M. lowei Sternberg, 1940; nomen dubium
+M. montanensis (Gilmore, 1914) Sternberg, 1949; now classified as Brachyceratops montanensis
+M. nasicornus Brown, 1917; junior synonym of Centrosaurus apertus or Styracosaurus albertensis; or a separate Centrosaurus nasicornus.
+M. recurvicornis Cope, 1889; braincase, three horns and isolated fragments; nomen nudum or nomen dubium
+M. sphenoceras Cope, 1890; nasal horn and premaxilla; nomen nudum or nomen dubium
+
+In popular culture[edit]
+
+
+
+
+A Monoclonius specimen holds the leading role in the 1984 short Prehistoric Beast.
+
+
+Monoclonius, as other well known ceratopsian dinosaurs, appears on several movies and TV shows. It had a special appearance, holding the leading role, in Phil Tippett's short Prehistoric Beast (1984). The following year, 1985, the shots used on Prehistoric Beast were used again in the TV documentary Dinosaur!, directed by Robert Guenette. On April 6, 2011 the Tippett Studio had published on its YouTube official channel a digital restoration of the Prehistoric Beast short.[27]
+References[edit]
+
+
+^ a b c d Ryan, M.J. (2006). "The status of the problematic taxon Monoclonius (Ornithischia: Ceratopsidae) and the recognition of adult-sized dinosaur taxa." Geological Society of America Abstracts with Programs, 38(4): 62.
+^ Eberth, D.A. (2005). "The geology." In: Currie, P.J., and Koppelhus, E.B. (eds), Dinosaur Provincial Park: A Spectacular Ancient Ecosystem Revealed. Indiana University Press: Bloomington and Indianapolis, 54–82.
+^ Creisler, B.S. (September 1992). "Why Monoclonius Cope Was Not Named for Its Horn: The Etymologies of Cope's Dinosaurs". Journal of Vertebrate Paleontology (Journal of Vertebrate Paleontology, Vol. 12, No. 3) 12 (3): 313–317. doi:10.1080/02724634.1992.10011462. JSTOR 4523455. 
+^ E.D. Cope. 1876. "Descriptions of some vertebrate remains from the Fort Union Beds of Montana". Proceedings of the Academy of Natural Sciences of Philadelphia 28: 248-261
+^ Cope, E.D., 1877, "On Reptilian remains from the Dakota Beds of Colorado", Paleontological Bulletin, 26: 193-197
+^ Cope, E.D., 1889, "The horned Dinosauria of the Laramie", American Naturalist, 23: 715-717
+^ Hatcher, J.B., Marsh O.C. and Lull, R.S., 1907, The Ceratopsia, Monographs of the United States Geological Survey 49, 198 pages
+^ Lambe, L.M., 1902, "New genera and species from the Belly River Series (mid-Cretaceous)", Geological Survey of Canada Contributions to Canadian Palaeontology 3(2): 25-81
+^ L.M. Lambe, 1904, "On the squamoso-parietal crest of the horned dinosaurs Centrosaurus apertus and Monoclonius canadensis from the Cretaceous of Alberta", Transactions of the Royal Society of Canada, series 2 10(4): 1-9
+^ Brown, B., 1914, "A complete skull of the horned dinosaur Monoclonius, from the Belly River of Alberta", Bulletin of the American Museum of Natural History, 33: 549–558
+^ L.M. Lambe, 1915, "On Eoceratops canadensis, gen. nov., with remarks on other genera of Cretaceous horned dinosaurs", Canada Geological Survey Museum Bulletin 12, Geological Series 24: 1-49
+^ Brown, B., 1917, "A complete skeleton of the horned dinosaur Monoclonius, and description of a second skeleton showing skin impressions", Bulletin of the American Museum of Natural History, 35: 709–716
+^ Lull, R.S., 1933, A revision of the Ceratopsia or horned dinosaurs, Memoirs of the Peabody Museum of Natural History 3(3): 1-175
+^ Sternberg, C.M., 1938, "Monoclonius from southeastern Alberta compared with Centrosaurus", Journal of Palaeontology, 12(3): 284-286
+^ Sternberg, C.M., 1940, "Ceratopsidae from Alberta", Journal of Palaeontology, 14(5): 468-480
+^ Sternberg, C.M., 1949, "The Edmonton Fauna and description of a New Triceratops from the Upper Edmonton Member: Phylogeny of the Ceratopsidae", Annual Report of the National Museum of Canada, Bulletin 113: 33-46
+^ Kuhn, O., 1964, Ornithischia: Fossilium Catalogus I, Animalia, pars 105, 80 pp
+^ Leahy, G.D., 1987, "The gradual extinction of dinosaurs: face or artifact?", In: Currie P.M., and Koster, E.H. (eds) Fourth Symposium on Mesozoic Terrestrial Ecosystems, Short Papers pp. 138-143
+^ Lehman, T.M. 1990. "The ceratopsian subfamily Chasmosaurinae: sexual dimorphism and systematics". In: K. Carpenter and P.J. Currie (eds.), Dinosaur Systematics: Perspectives and Approaches, Cambridge University Press, Cambridge pp 211-229
+^ a b Dodson, P., 1990, "On the status of the ceratopsids Monoclonius and Centrosaurus". In: Carpenter, K. and Currie, P.J. (eds.). Dinosaur Systematics: Approaches and Perspectives. Cambridge University Press, Cambridge. pp. 231-243
+^ Sampson, S.D., Ryan, M.J., and Tanke, D.H., 1997, "Craniofacial ontogeny in centrosaurine dinosaurs (Ornithischia: Ceratopsidae): taxonomic and behavioral implications", Zoological Journal of the Linnean Society, 121: 293–337
+^ Tumarkin, A.R. and Dodson, P., 1998, "A heterochronic analysis of enigmatic ceratopsids", Journal of Vertebrate Paleontology, 18(supplement): 83A
+^ P. Dodson and P.J. Currie, 1990, "Neoceratopsia". In: D.B. Weishampel, H. Osmolska, and P. Dodson (eds.), The Dinosauria. University of California Press, Berkeley pp 593-618
+^ M.J. Ryan and D.C. Evans, 2005, "Ornithischian dinosaurs". In: P.J. Currie and E.B. Koppelhus (eds.), Dinosaur Provincial Park: A Spectacular Ancient Ecosystem Revealed. Indiana University Press, Bloomington pp 312-348
+^ L.S. Russell, 1930, "Upper Cretaceous dinosaur faunas of North America", Proceedings of the American Philosophical Society 69(4): 133-159
+^ Paul, G.S., 2010, The Princeton Field Guide to Dinosaurs, Princeton University Press p. 261
+^ Prehistoric Beast digital restoration, as published on April 6, 2011 by the Phil Tippett Studio's official channel in Youtube
+
+
+Further reading[edit]
+
+Dodson, Peter (1998). "Monoclonius—The First Ceratopsid". The Horned Dinosaurs. Princeton, New Jersey: Princeton University Press. pp. 127–169. ISBN 0-691-05900-4. OCLC 60183976. 
+
+
+
+
+
+Dinosaurs portal
+
+
+
+
+
+ 
+NewPP limit report
+CPU time usage: 4.560 seconds
+Real time usage: 4.912 seconds
+Preprocessor visited node count: 25063/1000000
+Preprocessor generated node count: 36205/1500000
+Post‐expand include size: 70920/2048000 bytes
+Template argument size: 42149/2048000 bytes
+Highest expansion depth: 39/40
+Expensive parser function count: 1/500
+Lua time usage: 0.028s
+Lua memory usage: 1.21 MB
+
+
+ Saved in parser cache with key enwiki:pcache:idhash:3548750-0!*!0!!en!4!* and timestamp 20131001141831 
+								
+				Retrieved from "http://en.wikipedia.org/w/index.php?title=Monoclonius&oldid=573954352"				
+												Categories: Dinosaurs of North AmericaCretaceous dinosaursCeratopsidsHidden categories: Articles with 'species' microformats												
+							
+		
+		
+			Navigation menu
+			
+				
+	Personal tools
+	
+Create accountLog in	
+
+				
+					
+	Namespaces
+	
+					Article
+					Talk
+			
+
+
+	
+		
+	Variants
+	
+		
+					
+	
+
+				
+				
+					
+	Views
+	
+					Read
+					Edit
+					View history
+			
+
+
+	Actions
+	
+		
+					
+	
+
+
+	Search
+	
+				
+																				
+		
+	
+
+				
+			
+			
+					
+				
+	Navigation
+	
+		
+			Main page
+			Contents
+			Featured content
+			Current events
+			Random article
+			Donate to Wikipedia
+		
+	
+
+
+	Interaction
+	
+		
+			Help
+			About Wikipedia
+			Community portal
+			Recent changes
+			Contact page
+		
+	
+
+
+	Toolbox
+	
+		
+			What links here
+			Related changes
+			Upload file
+			Special pages
+			Permanent link
+			Page information
+			Data item
+Cite this page		
+	
+
+
+	Print/export
+	
+		
+			Create a book
+			Download as PDF
+			Printable version
+		
+	
+
+
+	Languages
+	
+		
+			Català
+			Česky
+			Deutsch
+			Español
+			Français
+			한국어
+			עברית
+			Magyar
+			മലയാളം
+			Nederlands
+			日本語
+			Polski
+			Simple English
+			Slovenčina
+			Svenska
+			தமிழ்
+			中文
+			
+			Edit links
+		
+	
+
+			
+		
+		
+							
+											 This page was last modified on 21 September 2013 at 19:58.
+											Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. 
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+									
+							
+											Privacy policy
+											About Wikipedia
+											Disclaimers
+											Contact Wikipedia
+											Developers
+											Mobile view
+									
+										
+					
+						
+					
+					
+						
+					
+				
+						
+		
+		
+
+
+ Served by mw1058 in 0.204 secs. 
+	
+if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Monoclonius","wgTitle":"Monoclonius","wgCurRevisionId":573954352,"wgArticleId":3548750,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with 'species' microformats","Dinosaurs of North America","Cretaceous dinosaurs","Ceratopsids"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Monoclonius","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgVectorEnabledModules":{"collapsiblenav":true,"experiments":true},"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"templateEditor":false,"templates":false,"preview":false,"previewDialog":false,"publish":false,"toc":false},"wgArticleFeedbackv5Permissions":{"aft-reader":false,"aft-member":false,"aft-editor":false,"aft-monitor":false,"aft-administrator":false,"aft-oversighter":false,"aft-noone":false},"wgVisualEditor":{"isPageWatched":false,"magnifyClipIconURL":"//bits.wikimedia.org/static-1.22wmf18/skins/common/images/magnify-clip.png","pageLanguageCode":"en","pageLanguageDir":"ltr"},"wikilove-recipient":"","wikilove-anon":0,"wgGuidedTourHelpGuiderUrl":"Help:Guided tours/guider","wgULSAcceptLanguageList":[],"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia","aftv5Article":{"id":3548750,"title":"Monoclonius","namespace":0,"categories":["Articles with 'species' microformats","Ceratopsids","Cretaceous dinosaurs","Dinosaurs of North America"],"permissionLevel":false},"wgWikibaseItemId":"Q131571"});
+}if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":false,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,
+"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"useeditwarning":1,"prefershttps":1,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"vector-simplesearch":1,"vector-collapsiblenav":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"aftv5-last-filter":null,"visualeditor-enable":0,"visualeditor-enable-experimental":0,"visualeditor-betatempdisable":0,"wikilove-enabled":1,"echo-subscriptions-web-page-review":true,"echo-subscriptions-email-page-review":false,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"echo-notify-show-link":true,"echo-show-alert":true,"echo-email-frequency":0,"echo-email-format":"html","echo-subscriptions-email-system":true,"echo-subscriptions-web-system":true,"echo-subscriptions-email-other":false,"echo-subscriptions-web-other":true,"echo-subscriptions-email-edit-user-talk":false,"echo-subscriptions-web-edit-user-talk":true,
+"echo-subscriptions-email-reverted":false,"echo-subscriptions-web-reverted":true,"echo-subscriptions-email-article-linked":false,"echo-subscriptions-web-article-linked":false,"echo-subscriptions-email-mention":false,"echo-subscriptions-web-mention":true,"echo-subscriptions-web-edit-thank":true,"echo-subscriptions-email-edit-thank":false,"gettingstarted-task-toolbar-show-intro":true,"uls-preferences":"","language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs446":false,"searchNs447":false
+,"searchNs710":false,"searchNs711":false,"searchNs828":false,"searchNs829":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-mySandbox":1,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:156d8fe0ae17f8afd74198057563e45d */
+}if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","ext.visualEditor.viewPageTarget.init","ext.wikimediaShopLink.core","ext.uls.init","ext.uls.interface","wikibase.client.init","ext.centralNotice.bannerController","skins.vector.js"]);
+}/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}if(window.mw){
+mw.loader.load(["mobile.desktop","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.cite","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","mw.MwEmbedSupport.style","ext.vector.collapsibleNav","ext.articleFeedbackv5.startup","ext.gettingstarted.logging","ext.gettingstarted.openTask","schema.HttpsSupport","ext.coreEvents.httpsSupport","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","mw.PopUpMediaTransform"],null,true);
+}

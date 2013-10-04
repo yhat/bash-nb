@@ -1,0 +1,728 @@
+
+
+
+Daspletosaurus - Wikipedia, the free encyclopedia
+
+
+
+
+
+
+
+
+
+
+
+
+a:lang(ar),a:lang(ckb),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:0de201fdea5d684523607ed88007b127 */
+
+
+
+
+[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.22wmf18/skins/vector/csshover.min.htc")}</style><![endif]
+
+		
+		
+		
+			
+			
+						 CentralNotice 
+						Daspletosaurus
+			
+								From Wikipedia, the free encyclopedia
+								
+												
+					Jump to:					navigation, 					search
+				
+				
+
+
+Daspletosaurus
+Temporal range: Late Cretaceous, 77–74Ma
+
+PreЄ
+Є
+O
+S
+D
+C
+P
+T
+J
+K
+Pg
+N
+
+
+
+↓
+
+
+
+
+
+
+
+
+
+Dinosaur Park specimen (FMNH PR308), mounted at the Field Museum in Chicago
+
+
+Scientific classification 
+
+
+Kingdom:
+Animalia
+
+
+Phylum:
+Chordata
+
+
+Clade:
+Sauropsida
+
+
+Clade:
+Dinosauria
+
+
+Clade:
+Theropoda
+
+
+Family:
+†Tyrannosauridae
+
+
+Subfamily:
+†Tyrannosaurinae
+
+
+Genus:
+†Daspletosaurus
+Russell, 1970
+
+
+Species:
+† D. torosus
+
+
+Binomial name
+
+
+Daspletosaurus torosus
+Russell, 1970
+
+
+
+Daspletosaurus (/dæsˌpliːtɵˈsɔrəs/ das-PLEET-o-SAWR-əs; meaning "frightful lizard") is a genus of tyrannosaurid theropod dinosaur that lived in western North America between 77 and 74 million years ago, during the Late Cretaceous Period. Fossils of the only named species (D. torosus) were found in Alberta, although other possible species from Alberta and Montana await description. Including these undescribed species makes Daspletosaurus the most species-rich genus of tyrannosaur.
+Daspletosaurus is closely related to the much larger and more recent Tyrannosaurus. Like most known tyrannosaurids, it was a multi-tonne bipedal predator equipped with dozens of large, sharp teeth. Daspletosaurus had the small forelimbs typical of tyrannosaurids, although they were proportionately longer than in other genera.
+As an apex predator, Daspletosaurus was at the top of the food chain, probably preying on large dinosaurs like the ceratopsid Centrosaurus and the hadrosaur Hypacrosaurus. In some areas, Daspletosaurus coexisted with another tyrannosaurid, Gorgosaurus, though there is some evidence of niche differentiation between the two. While Daspletosaurus fossils are rarer than other tyrannosaurids, the available specimens allow some analysis of the biology of these animals, including social behavior, diet, and life history.
+
+
+Contents
+
+
+1 Description
+2 Classification and systematics
+3 Discovery and naming
+
+3.1 Unnamed species
+
+
+4 Paleobiology
+
+4.1 Coexistence with Gorgosaurus
+4.2 Social behavior
+4.3 Life history
+
+
+5 Paleoecology
+6 References
+7 External links
+
+
+Description[edit]
+
+
+
+
+D. torosus with a human for scale.
+
+
+
+
+
+
+Life restoration
+
+
+While very large by the standard of modern predators, Daspletosaurus was not the largest tyrannosaurid. Adults could reach a length of 8–9 meters (26–30 ft) from snout to tail.[1] Mass estimates have centered around 2.5 tonnes (2.75 short tons)[1][2][3] but have ranged between 1.8[4] and 3.8 tonnes (2.0 and 4.1 short tons).[5]
+Daspletosaurus had a massive skull that could reach more than 1 meter (3.3 ft) in length.[1] The bones were heavily constructed and some, including the nasal bones on top of the snout, were fused for strength. Large fenestrae (openings) in the skull reduced its weight. An adult Daspletosaurus was armed with about six dozen teeth that were very long but oval in cross section rather than blade-like. Unlike its other teeth, those in the premaxilla at the end of the upper jaw had a D-shaped cross section, an example of heterodonty always seen in tyrannosaurids. Unique skull features included the rough outer surface of the maxilla (upper jaw bone) and the pronounced crests around the eyes on the lacrimal, postorbital, and jugal bones. The orbit (eye socket) was a tall oval, somewhere in between the circular shape seen in Gorgosaurus and the 'keyhole' shape of Tyrannosaurus.[6][7][8] Split carinae[9] have been found on Daspletosaurus teeth.[10]
+Daspletosaurus shared the same body form as other tyrannosaurids, with a short, S-shaped neck supporting the massive skull. It walked on its two thick hindlimbs, which ended in four-toed feet, although the first digit (the hallux) did not contact the ground. In contrast, the forelimbs were extremely small and bore only two digits, although Daspletosaurus had the longest forelimbs in proportion to body size of any tyrannosaurid. A long, heavy tail served as a counterweight to the head and torso, with the center of gravity over the hips.[1][8]
+Classification and systematics[edit]
+
+Cladograms of Tyrannosauridae
+highlighting the position of Daspletosaurus
+
+
+
+
+Carr et al. 2005[11]
+
+
+
+
+
+Tyrannosauridae 
+
+
+
+white
+
+Albertosaurinae
+
+
+
+
+
+
+ Tyrannosaurinae 
+
+
+
+
+
+
+
+white
+
+Daspletosaurus
+
+
+
+
+
+
+
+
+
+
+ white 
+
+Tarbosaurus*
+
+
+
+
+
+
+
+
+Tyrannosaurus
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+*Note: Carr et al. use the name Tyrannosaurus bataar
+
+
+
+
+
+
+
+
+Currie et al. 2003[12]
+
+
+
+
+
+Tyrannosauridae 
+
+
+
+white
+
+Albertosaurinae
+
+
+
+
+
+
+ Tyrannosaurinae 
+
+
+
+white
+
+
+
+white
+
+Daspletosaurus
+
+
+
+
+
+
+
+
+
+
+ white 
+
+Tarbosaurus
+
+
+
+
+
+
+
+
+Alioramus
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+white
+
+Nanotyrannus
+
+
+
+
+
+
+
+
+Tyrannosaurus
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Daspletosaurus belongs in the subfamily Tyrannosaurinae within the family Tyrannosauridae, along with Tarbosaurus, Tyrannosaurus and Alioramus. Animals in this subfamily are more closely related to Tyrannosaurus than to Albertosaurus and are known – with the exception of Alioramus – for their robust build with proportionally larger skulls and longer femora than in the other subfamily, the Albertosaurinae.[8][12]
+Daspletosaurus is usually considered to be closely related to Tyrannosaurus rex, or even a direct ancestor through anagenesis.[13] Gregory Paul reassigned D. torosus to the genus Tyrannosaurus, creating the new combination Tyrannosaurus torosus,[2] but this has not been generally accepted.[6][8] Many researchers believe Tarbosaurus and Tyrannosaurus to be sister taxa or even to be the same genus, with Daspletosaurus a more basal relative.[8][11] On the other hand, Phil Currie and colleagues find Daspletosaurus to be more closely related to Tarbosaurus and other Asian tyrannosaurids like Alioramus than to the North American Tyrannosaurus.[12] The systematics (evolutionary relationships) of Daspletosaurus may become clearer once all the species have been described.
+Discovery and naming[edit]
+The type specimen of Daspletosaurus torosus (CMN 8506) is a partial skeleton including the skull, the shoulder, a forelimb, the pelvis, a femur and all of the vertebrae from the neck, torso and hip, as well as the first eleven tail vertebrae. It was discovered in 1921 near Steveville, Alberta, by Charles Mortram Sternberg, who thought it was a new species of Gorgosaurus. It was not until 1970 that the specimen was fully described by Dale Russell, who made it the type of a new genus, Daspletosaurus, from the Greek δασπλής (dasples, stem and connective vowel resulting in daspleto~) ("frightful") and σαυρος/sauros ("lizard").[14] The type species is Daspletosaurus torosus, the specific name torosus being Latin for 'muscular' or 'brawny'.[1] Aside from the type, there is only one other well-known specimen, RTMP 2001.36.1, a relatively complete skeleton discovered in 2001. Both specimens were recovered from the Oldman Formation in the Judith River Group of Alberta. The Oldman Formation was deposited during the middle Campanian stage of the Late Cretaceous, from about 77 to 76 Ma (million years ago).[15] A specimen from the younger Horseshoe Canyon Formation in Alberta has been reassigned to Albertosaurus sarcophagus.[7]
+Unnamed species[edit]
+Two or three additional species have been assigned to the genus Daspletosaurus over the years, although as of 2007 none of these species have received a proper description or scientific name. In the meantime, all are designated as Daspletosaurus spp; this does not imply that they all are the same species.[7][8]
+
+
+
+
+Originally believed to be a specimen of Gorgosaurus libratus, this skull (AMNH 5434) was later sold to the Field Museum in Chicago and is now exhibited as FMNH PR308. The specimen was reassigned to Daspletosaurus torosus by Thomas Carr in 1999.
+
+
+Along with the holotype, Russell designated a specimen collected by Barnum Brown in 1913 as the paratype of D. torosus. This specimen (AMNH 5438) consists of parts of the hindleg, the pelvis and some of its associated vertebrae. It was discovered in the upper part of the Oldman Formation in Alberta.[7] This upper section has since been renamed the Dinosaur Park Formation, which dates back to the middle Campanian, between 76.5 and 74.8 million years ago.[16] Daspletosaurus fossils are known specifically from the middle to upper section of the formation, between 75.6 and 75.0 million years ago.[17] In 1914, Brown collected a nearly complete skeleton and skull; forty years later his American Museum of Natural History sold this specimen to the Field Museum of Natural History in Chicago. It was mounted for display in Chicago and labeled as Albertosaurus libratus for many years, but after several skull features were later found to be modeled in plaster, including most of the teeth, the specimen (FMNH PR308) was reassigned to Daspletosaurus.[6] A total of eight specimens have been collected from the Dinosaur Park Formation over the years since, most of them within the boundaries of Dinosaur Provincial Park. Phil Currie believes that the Dinosaur Park specimens represent a new species of Daspletosaurus, distinguished by certain features of the skull. Pictures of this new species have been published, but it still awaits a name and full description in print.[7]
+
+
+
+
+Daspletosaurus sp. skull from Montana in Museum of the Rockies
+
+
+A new tyrannosaurid specimen (OMNH 10131), including skull fragments, ribs and parts of the hindlimb, was reported from New Mexico in 1990 and assigned to the now-defunct genus Aublysodon.[18] Many later authors have reassigned this specimen, along with a few others from New Mexico, to yet another unnamed species of Daspletosaurus.[7][8][19] However, research published in 2010 showed that this species, from the Hunter Wash Member of the Kirtland Formation, is actually a more primitive tyrannosauroid, and was classified in the genus Bistahieversor.[20] There is currently disagreement over the age of the Kirtland Formation, with some workers claiming a late Campanian age,[21] while others suggest a younger age in the early Maastrichtian stage.[22]
+In 1992, Jack Horner and colleagues published an extremely preliminary report of a tyrannosaurid from the upper parts of the Campanian Two Medicine Formation in Montana, which was interpreted as a transitional species between Daspletosaurus and the later Tyrannosaurus.[13] Another partial skeleton was reported from the Upper Two Medicine in 2001, preserving the remains of a juvenile hadrosaur in its abdominal cavity. This specimen was assigned to Daspletosaurus but not to any particular species.[23] The remains of at least three more Daspletosaurus have also been described in a Two Medicine bonebed.[24] These specimens have not been described in detail, but Currie believes all of the Two Medicine material represents an as-yet-unnamed third species of Daspletosaurus.[7]
+Paleobiology[edit]
+Coexistence with Gorgosaurus[edit]
+
+
+
+
+Restoration of a D. torosus feeding on a ceratopsian
+
+
+In the late Campanian of North America, Daspletosaurus was a contemporary of the albertosaurine tyrannosaurid Gorgosaurus. This is one of the few examples of two tyrannosaur genera coexisting. In modern predator guilds, similar-sized predators are separated into different ecological niches by anatomical, behavioral or geographical differences that limit competition.[25] Several studies have attempted to explain niche differentiation in Daspletosaurus and Gorgosaurus.
+Dale Russell hypothesized that the more lightly built and more common Gorgosaurus may have preyed on the abundant hadrosaurs of the time, while the more robust and less common Daspletosaurus may have specialized on the less prevalent but better-defended ceratopsids, which may have been more difficult to hunt.[1] However, a specimen of Daspletosaurus (OTM 200) from the Two Medicine Formation preserves the digested remains of a juvenile hadrosaur in its gut region.[23] The higher and broader muzzles of tyrannosaurines like Daspletosaurus are mechanically stronger than the lower snouts of albertosaurines like Gorgosaurus, although tooth strengths are similar between the two groups. This may indicate a difference in feeding mechanics or diet.[26]
+Other authors have suggested that competition was limited by geographical separation. Unlike some other groups of dinosaurs, there appears to be no correlation with distance from the sea. Neither Daspletosaurus nor Gorgosaurus was more common at higher or lower elevations than the other.[25] However, while there is some overlap, Gorgosaurus appears to be more common at northern latitudes, with species of Daspletosaurus more abundant to the south. The same pattern is seen in other groups of dinosaurs. Chasmosaurine ceratopsians and hadrosaurine hadrosaurs are also more common in the Two Medicine Formation and in southwestern North America during the Campanian. Thomas Holtz has suggested that this pattern indicates shared ecological preferences between tyrannosaurines, chasmosaurines and hadrosaurines. Holtz notes that, at the end of the later Maastrichtian stage, tyrannosaurines like Tyrannosaurus rex, hadrosaurines and chasmosaurines like Triceratops were widespread throughout western North America, while albertosaurines and centrosaurines went extinct, and lambeosaurines were very rare.[8]
+Social behavior[edit]
+
+
+
+
+Pair reconstructed at the Canadian Museum of Nature
+
+
+A young specimen of the Dinosaur Park Daspletosaurus species (TMP 94.143.1) shows bite marks on the face that were inflicted by another tyrannosaur. The bite marks are healed over, indicating that the animal survived the bite. A full-grown Dinosaur Park Daspletosaurus (TMP 85.62.1) also exhibits tyrannosaur bite marks, showing that attacks to the face were not limited to younger animals. While it is possible that the bites were attributable to other species, intraspecific aggression, including facial biting, is very common among predators. Facial bites are seen in other tyrannosaurs like Gorgosaurus and Tyrannosaurus, as well as in other theropod genera like Sinraptor and Saurornitholestes. Darren Tanke and Phil Currie hypothesize that the bites are due to intraspecific competition for territory or resources, or for dominance within a social group.[27]
+Evidence that Daspletosaurus lived in social groups comes from a bonebed found in the Two Medicine Formation of Montana. The bonebed includes the remains of three Daspletosaurus, including a large adult, a small juvenile, and another individual of intermediate size. At least five hadrosaurs are preserved at the same location. Geologic evidence indicates that the remains were not brought together by river currents but that all of the animals were buried simultaneously at the same location. The hadrosaur remains are scattered and bear numerous marks from tyrannosaur teeth, indicating that the Daspletosaurus were feeding on the hadrosaurs at the time of death. The cause of death is unknown. Currie speculates that the daspletosaurs formed a pack, although this cannot be stated with certainty.[24] Other scientists are skeptical of the evidence for social groups in Daspletosaurus and other large theropods;[28] Brian Roach and Daniel Brinkman have suggested that Daspletosaurus social interaction would have more closely resembled the modern Komodo dragon, where non-cooperative individuals mob carcasses, frequently attacking and even cannibalizing each other in the process.[29]
+Life history[edit]
+
+
+
+
+A graph showing the hypothesized growth curves (body mass versus age) of four tyrannosaurids. Daspletosaurus is shown in green. Based on Erickson et al. 2004.
+
+
+Paleontologist Gregory Erickson and colleagues have studied the growth and life history of tyrannosaurids. Analysis of bone histology can determine the age of a specimen when it died. Growth rates can be examined when the age of various individuals are plotted against their size on a graph. Erickson has shown that after a long time as juveniles, tyrannosaurs underwent tremendous growth spurts for about four years midway through their lives. After the rapid growth phase ended with sexual maturity, growth slowed down considerably in adult animals. Erickson only examined Daspletosaurus from the Dinosaur Park Formation, but these specimens show the same pattern. Compared to albertosaurines, Daspletosaurus showed a faster growth rate during the rapid growth period due to its higher adult weight. The maximum growth rate in Daspletosaurus was 180 kilograms (400 lb) per year, based on a mass estimate of 1800 kilograms (2 tons) in adults. Other authors have suggested higher adult weights for Daspletosaurus; this would change the magnitude of the growth rate but not the overall pattern.[4]
+By tabulating the number of specimens of each age group, Erickson and his colleagues were able to draw conclusions about life history in a population of Albertosaurus. Their analysis showed that while juveniles were rare in the fossil record, subadults in the rapid growth phase and adults were far more common. While this could be due to preservation or collection biases, Erickson hypothesized that the difference was due to low mortality among juveniles over a certain size, which is also seen in some modern large mammals like elephants. This low mortality may have resulted from a lack of predation, since tyrannosaurs surpassed all contemporaneous predators in size by the age of two. Paleontologists have not found enough Daspletosaurus remains for a similar analysis, but Erickson notes that the same general trend seems to apply.[30]
+Paleoecology[edit]
+
+
+
+
+Canadian Museum of Nature mount
+
+
+All known Daspletosaurus fossils have been found in formations dating to the middle to late Campanian stage of the Late Cretaceous Period, between 77 and 74 million years ago. Since the middle of the Cretaceous, North America had been divided in half by the Western Interior Seaway, with much of Montana and Alberta below the surface. However, the uplift of the Rocky Mountains in the Laramide Orogeny to the west, which began during the time of Daspletosaurus, forced the seaway to retreat eastwards and southwards. Rivers flowed down from the mountains and drained into the seaway, carrying sediment along with them that formed the Two Medicine Formation, the Judith River Group, and other sedimentary formations in the region. About 73 million years ago, the seaway began to advance westwards and northwards again, and the entire region was covered by the Bearpaw Sea, represented throughout the western United States and Canada by the massive Bearpaw Shale.[31][32][33]
+
+
+
+
+Exposures of the Two Medicine Formation in Montana
+
+
+Daspletosaurus lived in a vast floodplain along the western shore of the interior seaway. Large rivers watered the land, occasionally flooding and blanketing the region with new sediment. When water was plentiful, the region could support a great deal of plant and animal life, but periodic droughts also struck the region, resulting in mass mortality as preserved in the many bonebed deposits found in Two Medicine and Judith River sediments, including the Daspletosaurus bonebed.[34] Similar conditions exist today in East Africa.[35] Volcanic eruptions from the west periodically blanketed the region with ash, also resulting in large-scale mortality, while simultaneously enriching the soil for future plant growth. It is these ash beds that allow precise radiometric dating as well. Fluctuating sea levels also resulted in a variety of other environments at different times and places within the Judith River Group, including offshore and nearshore marine habitats, coastal wetlands, deltas and lagoons, in addition to the inland floodplains.[32] The Two Medicine Formation was deposited at higher elevations farther inland than the other two formations.[33]
+The excellent vertebrate fossil record of Two Medicine and Judith River rocks resulted from a combination of abundant animal life, periodic natural disasters, and the deposition of large amounts of sediment. Many types of freshwater and estuarine fish are represented, including sharks, rays, sturgeons, gars and others. The Judith River Group preserves the remains of many aquatic amphibians and reptiles, including frogs, salamanders, turtles, Champsosaurus and crocodilians. Terrestrial lizards, including whiptails, skinks, monitors and alligator lizards have also been discovered. Azhdarchid pterosaurs, and birds like Apatornis and Avisaurus flew overhead, while several varieties of mammals coexisted with Daspletosaurus and other types of dinosaurs in the various formations that make up the Judith River wedge.[32]
+In the Oldman Formation (the geological equivalent of the Judith River formation), Daspletosaurus torosus could have preyed upon the hadrosaur species Brachylophosaurus canadensis, the ceratopsians Coronosaurus brinkmani and Albertaceratops nesmoi, pachycephalosaurs, ornithomimids, therizinosaurs and possibly ankylosaurs. Other predators included troodontids, oviraptorosaurs, the dromaeosaurid Saurornitholestes and possibly an albertosaurine tyrannosaur (genus currently unknown). The younger Dinosaur Park and Two Medicine Formations had faunas similar to the Oldman, with the Dinosaur Park in particular preserving an unrivaled array of dinosaurs.[32] The albertosaurine Gorgosaurus lived alongside unnamed species of Daspletosaurus in the Dinosaur Park and Upper Two Medicine environments.[25] Young tyrannosaurs may have filled the niches in between adult tyrannosaurs and smaller theropods, which were separated by two orders of magnitude in mass.[1][8][26][36] A Saurornitholestes dentary has been discovered in the Dinosaur Park Formation that bore tooth marks left by the bite of a young tyrannosaur, possibly Daspletosaurus.[37]
+References[edit]
+
+
+^ a b c d e f g Russell, Dale A. (1970). "Tyrannosaurs from the Late Cretaceous of western Canada". National Museum of Natural Sciences Publications in Paleontology 1: 1–34. 
+^ a b Paul, Gregory S. (1988). Predatory Dinosaurs of the World. New York: Simon & Schuster. pp. 464pp. ISBN 978-0-671-61946-6. 
+^ Christiansen, Per; & Fariña, Richard A. (2004). "Mass prediction in theropod dinosaurs". Historical Biology 16 (2–4): 85–92. doi:10.1080/08912960412331284313. 
+^ a b Erickson, Gregory M., GM; Makovicky, Peter J.; Currie, Philip J.; Norell, Mark A.; Yerby, Scott A.; & Brochu, Christopher A. (2004). "Gigantism and comparative life-history parameters of tyrannosaurid dinosaurs". Nature 430 (7001): 772–775. doi:10.1038/nature02699. PMID 15306807. 
+^ Therrien, François; & Henderson, Donald M. (2007). "My theropod is bigger than yours ... or not: estimating body size from skull length in theropods". Journal of Vertebrate Paleontology 27 (1): 108–115. doi:10.1671/0272-4634(2007)27[108:MTIBTY]2.0.CO;2. 
+^ a b c Carr, Thomas D. (1999). "Craniofacial ontogeny in Tyrannosauridae (Dinosauria, Coelurosauria)". Journal of Vertebrate Paleontology 19 (3): 497–520. doi:10.1080/02724634.1999.10011161. 
+^ a b c d e f g Currie, Philip J. (2003). "Cranial anatomy of tyrannosaurids from the Late Cretaceous of Alberta" (PDF). Acta Palaeontologica Polonica 48 (2): 191–226. 
+^ a b c d e f g h i Holtz, Thomas R. (2004). "Tyrannosauroidea". In Weishampel, David B.; Dodson, Peter; & Osmólska, Halszka (eds.). The Dinosauria (Second ed.). Berkeley: University of California Press. pp. 111–136. ISBN 0-520-24209-2. 
+^ http://www.geology.cz/bulletin/fulltext/bullgeosci200803351.pdf
+^ Molnar, R. E. (2001). "Theropod paleopathology: a literature survey". In Tanke, D. H.; Carpenter, K.; Skrepnick, M. W. Mesozoic Vertebrate Life. Bloomington: Indiana University Press. pp. 337–363. ISBN 0253339073. 
+^ a b Carr, Thomas D.; Williamson, Thomas E.; & Schwimmer, David R. (2005). "A new genus and species of tyrannosauroid from the Late Cretaceous (middle Campanian) Demopolis Formation of Alabama". Journal of Vertebrate Paleontology 25 (1): 119–143. doi:10.1671/0272-4634(2005)025[0119:ANGASO]2.0.CO;2. 
+^ a b c Currie, Philip J.; Hurum, Jørn H; & Sabath, Karol. (2003). "Skull structure and evolution in tyrannosaurid phylogeny" (PDF). Acta Palaeontologica Polonica 48 (2): 227–234. 
+^ a b Horner, John R.; Varricchio, David J.; & Goodwin, Mark B. (1992). "Marine transgressions and the evolution of Cretaceous dinosaurs". Nature 358 (6381): 59–61. doi:10.1038/358059a0. 
+^ Liddell, Henry G.; & Scott, Robert (1980). Greek-English Lexicon (Abridged ed.). Oxford: Oxford University Press,. ISBN 0-19-910207-4. 
+^ Eberth, David A.; & Hamblin, Anthony P. (1993). "Tectonic, stratigraphic, and sedimentologic significance of a regional discontinuity in the Upper Judith River Group (Belly River wedge) of southern Alberta, Saskatchewan, and northern Montana". Canadian Journal of Earth Sciences 30: 174–200. doi:10.1139/e93-016. 
+^ Eberth, D.A. (2005). "The geology." In: Currie, P.J., and Koppelhus, E.B. (eds), Dinosaur Provincial Park: A Spectacular Ancient Ecosystem Revealed. Indiana University Press: Bloomington and Indianapolis, 54–82.
+^ Arbour, V. M.; Burns, M. E.; Sissons, R. L. (2009). "A redescription of the ankylosaurid dinosaur Dyoplosaurus acutosquameus Parks, 1924 (Ornithischia: Ankylosauria) and a revision of the genus". Journal of Vertebrate Paleontology 29 (4): 1117. doi:10.1671/039.029.0405.  edit
+^ Lehman, Thomas M.; & Carpenter, Kenneth (1990). "A partial skeleton of the tyrannosaurid dinosaur Aublysodon from the Upper Cretaceous of New Mexico". Journal of Paleontology 64 (6): 1026–1032. JSTOR 1305741. 
+^ Carr, Thomas D.; Williamson, Thomas E. (2000). "A review of Tyrannosauridae (Dinosauria: Coelurosauria) from New Mexico". In Lucas, Spencer G.; & Heckert, Andrew B. (eds.). Dinosaurs of New Mexico. New Mexico Museum of Natural History and Science Bulletin 17. pp. 113–146. 
+^ Carr, T.D.; Williamson, T.E. (2010). "Bistahieversor sealeyi, gen. et sp. nov., a new tyrannosauroid from New Mexico and the origin of deep snouts in Tyrannosauroidea". Journal of Vertebrate Paleontology 30 (1): 1–16. doi:10.1080/02724630903413032. 
+^ Sullivan, Robert M.; & Lucas, Spencer G. (2006). "The Kirtlandian land-vertebrate "age" – faunal composition, temporal position and biostratigraphic correlation in the nonmarine Upper Cretaceous of North America". In Lucas, Spencer G.; & Sullivan, Robert M. (eds.). Late Cretaceous vertebrates from the Western Interior. New Mexico Museum of Natural History and Science Bulletin 35. pp. 7–29. 
+^ Ryan, Michael J. (1997). "Kirtland Formation". In Currie, Philip J. & Padian, Kevin (eds.). Encyclopedia of Dinosaurs. San Diego: Academic Press. pp. 390–391. ISBN 0-12-226810-5. 
+^ a b Varricchio, David J. (2001). "Gut contents from a Cretaceous tyrannosaurid: implications for theropod dinosaur digestive tracts". Journal of Paleontology 75 (2): 401–406. doi:10.1666/0022-3360(2001)075<0401:GCFACT>2.0.CO;2.  DOI: 10.1666/0022-3360(2001)075<0401:GCFACT>2.0.CO;2
+^ a b Currie, Philip J.; Trexler, David; Koppelhus, Eva B.; Wicks, Kelly; & Murphy, Nate. (2005). "An unusual multi-individual tyrannosaurid bonebed in the Two Medicine Formation (Late Cretaceous, Campanian) of Montana (USA)". In Carpenter, Kenneth (ed.). The Carnivorous Dinosaurs. Bloomington: Indiana University Press. pp. 313–324. ISBN 978-0-253-34539-4. 
+^ a b c Farlow, James O.; & Pianka, Eric R. (2002). "Body size overlap, habitat partitioning and living space requirements of terrestrial vertebrate predators: implications for the paleoecology of large theropod dinosaurs". Historical Biology 16 (1): 21–40. doi:10.1080/0891296031000154687. 
+^ a b Snively, Eric; Henderson, Donald M.; & Phillips, Doug S. (2006). "Fused and vaulted nasals of tyrannosaurid dinosaurs: implications for cranial strength and feeding mechanics" (PDF). Acta Palaeontologica Polonica 51 (3): 435–454. 
+^ Tanke, Darren H.; & Currie, Philip J. (1998). "Head-biting behavior in theropod dinosaurs: paleopathological evidence" (PDF). Gaia 15: 167–184.  [not printed until 2000]
+^ Eberth, David A.; & McCrea, Richard T. (2001). "Were large theropods gregarious?". Journal of Vertebrate Paleontology 21 ((Supplement to 3 – Abstracts of Papers, 61st Annual Meeting of the Society of Vertebrate Paleontology)): 46A. [published abstract only]
+^ Roach, Brian T.; & Brinkman, Daniel L. (2007). "A reevaluation of cooperative pack hunting and gregariousness in Deinonychus antirrhopus and other nonavian theropod dinosaurs". Bulletin of the Peabody Museum of Natural History 48 (1): 103–138. doi:10.3374/0079-032X(2007)48[103:AROCPH]2.0.CO;2. Archived from the original on 2007-08-10. 
+^ Erickson, Gregory M.; Currie, Philip. J.; Inouye, Brian D.; & Wynn, Alice A. (2006). "Tyrannosaur life tables: an example of nonavian dinosaur population biology". Science 313 (5784): 213–217. doi:10.1126/science.1125721. PMID 16840697. 
+^ English, Joseph M.; & Johnston, Stephen T. (2004). "The Laramide Orogeny: what were the driving forces?". International Geology Review 46 (9): 833–838. doi:10.2747/0020-6814.46.9.833. 
+^ a b c d Eberth, David A. (1997). "Judith River Wedge". In Currie, Philip J. & Padian, Kevin (eds.). Encyclopedia of Dinosaurs. San Diego: Academic Press. pp. 199–204. ISBN 0-12-226810-5. 
+^ a b Rogers, Raymond R. (1997). "Two Medicine Formation". In Currie, Philip J. & Padian, Kevin (eds.). Encyclopedia of Dinosaurs. San Diego: Academic Press. pp. 199–204. ISBN 0-12-226810-5. 
+^ Rogers, Raymond R. (1990). "Taphonomy of three dinosaur bonebeds in the Upper Cretaceous Two Medicine Formation of northwestern Montana: evidence for drought-induced mortality". PALAIOS (PALAIOS, Vol. 5, No. 5) 5 (5): 394–413. doi:10.2307/3514834. JSTOR 3514834. 
+^ Falcon-Lang, Howard J. (2003). "Growth interruptions in silicified conifer woods from the Upper Cretaceous Two Medicine Formation, Montana, USA: implications for palaeoclimate and dinosaur palaeoecology". Palaeogeography, Palaeoclimatology, Palaeoecology 199 (3–4): 299–314. doi:10.1016/S0031-0182(03)00539-X. 
+^ Farlow, James O. (1976). "Speculations about the diet and foraging behavior of large carnivorous dinosaurs". American Midland Naturalist 95 (1): 186–191. doi:10.2307/2424244. JSTOR 2424244. 
+^ Jacobsen, A. R. (2001). "Tooth-marked small theropod bone: An extremely rare trace". In Tanke, D. H.; Carpenter, K.; Skrepnick, M. W. Mesozoic Vertebrate Life. Bloomington: Indiana University Press. pp. 58–63. ISBN 0253339073. 
+
+
+External links[edit]
+
+
+
+Wikispecies has information related to: Daspletosaurus
+
+
+
+
+
+
+Dinosaurs portal
+
+
+
+
+Discussion and specimen list at The Theropod Database.
+Skull image of the Dinosaur Park Formation Daspletosaurus at The Graveyard.
+
+
+ 
+
+
+ 
+NewPP limit report
+CPU time usage: 5.516 seconds
+Real time usage: 5.705 seconds
+Preprocessor visited node count: 32921/1000000
+Preprocessor generated node count: 57036/1500000
+Post‐expand include size: 244739/2048000 bytes
+Template argument size: 145595/2048000 bytes
+Highest expansion depth: 39/40
+Expensive parser function count: 0/500
+Lua time usage: 0.114s
+Lua memory usage: 2.48 MB
+
+
+ Saved in parser cache with key enwiki:pcache:idhash:195485-0!*!0!!en!4!* and timestamp 20131003135143 
+								
+				Retrieved from "http://en.wikipedia.org/w/index.php?title=Daspletosaurus&oldid=575579542"				
+												Categories: Cretaceous dinosaursDinosaurs of North AmericaFossil taxa described in 1970TyrannosaursHidden categories: Wikipedia indefinitely move-protected pagesArticles with 'species' microformatsFeatured articles												
+							
+		
+		
+			Navigation menu
+			
+				
+	Personal tools
+	
+Create accountLog in	
+
+				
+					
+	Namespaces
+	
+					Article
+					Talk
+			
+
+
+	
+		
+	Variants
+	
+		
+					
+	
+
+				
+				
+					
+	Views
+	
+					Read
+					Edit
+					View history
+			
+
+
+	Actions
+	
+		
+					
+	
+
+
+	Search
+	
+				
+																				
+		
+	
+
+				
+			
+			
+					
+				
+	Navigation
+	
+		
+			Main page
+			Contents
+			Featured content
+			Current events
+			Random article
+			Donate to Wikipedia
+		
+	
+
+
+	Interaction
+	
+		
+			Help
+			About Wikipedia
+			Community portal
+			Recent changes
+			Contact page
+		
+	
+
+
+	Toolbox
+	
+		
+			What links here
+			Related changes
+			Upload file
+			Special pages
+			Permanent link
+			Page information
+			Data item
+Cite this page		
+	
+
+
+	Print/export
+	
+		
+			Create a book
+			Download as PDF
+			Printable version
+		
+	
+
+
+	Languages
+	
+		
+			العربية
+			Català
+			Česky
+			Deutsch
+			Español
+			Esperanto
+			فارسی
+			Français
+			한국어
+			Italiano
+			עברית
+			Latviešu
+			Magyar
+			Nederlands
+			日本語
+			Polski
+			Português
+			Русский
+			Simple English
+			Slovenčina
+			Suomi
+			Svenska
+			ไทย
+			Volapük
+			中文
+			
+			Edit links
+		
+	
+
+			
+		
+		
+							
+											 This page was last modified on 3 October 2013 at 13:51.
+											Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. 
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+									
+							
+											Privacy policy
+											About Wikipedia
+											Disclaimers
+											Contact Wikipedia
+											Developers
+											Mobile view
+									
+										
+					
+						
+					
+					
+						
+					
+				
+						
+		
+		
+
+
+ Served by mw1171 in 0.164 secs. 
+	
+if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Daspletosaurus","wgTitle":"Daspletosaurus","wgCurRevisionId":575579542,"wgArticleId":195485,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Wikipedia indefinitely move-protected pages","Articles with 'species' microformats","Featured articles","Cretaceous dinosaurs","Dinosaurs of North America","Fossil taxa described in 1970","Tyrannosaurs"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Daspletosaurus","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":["sysop"],"wgVectorEnabledModules":{"collapsiblenav":true,"experiments":true},"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"templateEditor":false,"templates":false,"preview":false,"previewDialog":false,"publish":false,"toc":false},"wgArticleFeedbackv5Permissions":{"aft-reader":false,"aft-member":false,"aft-editor":false,"aft-monitor":false,"aft-administrator":false,"aft-oversighter":false,"aft-noone":false},"wgVisualEditor":{"isPageWatched":false,"magnifyClipIconURL":"//bits.wikimedia.org/static-1.22wmf18/skins/common/images/magnify-clip.png","pageLanguageCode":"en","pageLanguageDir":"ltr"},"wikilove-recipient":"","wikilove-anon":0,"wgGuidedTourHelpGuiderUrl":"Help:Guided tours/guider","wgULSAcceptLanguageList":[],"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia","aftv5Article":{"id":195485,"title":"Daspletosaurus","namespace":0,"categories":["Articles with 'species' microformats","Cretaceous dinosaurs","Dinosaurs of North America","Featured articles","Fossil taxa described in 1970","Tyrannosaurs","Wikipedia indefinitely move-protected pages"],"permissionLevel":false},"wgWikibaseItemId":"Q132665"});
+}if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":false,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,
+"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"useeditwarning":1,"prefershttps":1,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"vector-simplesearch":1,"vector-collapsiblenav":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"aftv5-last-filter":null,"visualeditor-enable":0,"visualeditor-enable-experimental":0,"visualeditor-betatempdisable":0,"wikilove-enabled":1,"echo-subscriptions-web-page-review":true,"echo-subscriptions-email-page-review":false,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"echo-notify-show-link":true,"echo-show-alert":true,"echo-email-frequency":0,"echo-email-format":"html","echo-subscriptions-email-system":true,"echo-subscriptions-web-system":true,"echo-subscriptions-email-other":false,"echo-subscriptions-web-other":true,"echo-subscriptions-email-edit-user-talk":false,"echo-subscriptions-web-edit-user-talk":true,
+"echo-subscriptions-email-reverted":false,"echo-subscriptions-web-reverted":true,"echo-subscriptions-email-article-linked":false,"echo-subscriptions-web-article-linked":false,"echo-subscriptions-email-mention":false,"echo-subscriptions-web-mention":true,"echo-subscriptions-web-edit-thank":true,"echo-subscriptions-email-edit-thank":false,"gettingstarted-task-toolbar-show-intro":true,"uls-preferences":"","language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs446":false,"searchNs447":false
+,"searchNs710":false,"searchNs711":false,"searchNs828":false,"searchNs829":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-mySandbox":1,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:156d8fe0ae17f8afd74198057563e45d */
+}if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","ext.visualEditor.viewPageTarget.init","ext.wikimediaShopLink.core","ext.uls.init","ext.uls.interface","wikibase.client.init","ext.centralNotice.bannerController","skins.vector.js"]);
+}/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}if(window.mw){
+mw.loader.load(["mobile.desktop","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.cite","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","mw.MwEmbedSupport.style","ext.vector.collapsibleNav","ext.articleFeedbackv5.startup","ext.gettingstarted.logging","ext.gettingstarted.openTask","schema.HttpsSupport","ext.coreEvents.httpsSupport","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","mw.PopUpMediaTransform"],null,true);
+}

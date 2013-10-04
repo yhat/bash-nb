@@ -1,0 +1,831 @@
+
+
+
+Dilophosaurus - Wikipedia, the free encyclopedia
+
+
+
+
+
+
+
+
+
+
+
+
+a:lang(ar),a:lang(ckb),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:0de201fdea5d684523607ed88007b127 */
+
+
+
+
+[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.22wmf18/skins/vector/csshover.min.htc")}</style><![endif]
+
+		
+		
+		
+			
+			
+						 CentralNotice 
+						Dilophosaurus
+			
+								From Wikipedia, the free encyclopedia
+								
+												
+					Jump to:					navigation, 					search
+				
+				
+
+
+Dilophosaurus
+Temporal range: Early Jurassic, 193Ma
+
+PreЄ
+Є
+O
+S
+D
+C
+P
+T
+J
+K
+Pg
+N
+
+
+
+
+↓
+
+
+
+
+
+
+
+
+
+Cast of the holotype with skull restored after the second specimen, Royal Ontario Museum
+
+
+Scientific classification 
+
+
+Kingdom:
+Animalia
+
+
+Phylum:
+Chordata
+
+
+Clade:
+Sauropsida
+
+
+Clade:
+Dinosauria
+
+
+Clade:
+Theropoda
+
+
+Family:
+†Dilophosauridae
+
+
+Genus:
+†Dilophosaurus
+Welles, 1970
+
+
+Type species
+
+
+†Megalosaurus wetherilli
+Welles, 1954
+
+
+Species
+
+
+
+†Dilophosaurus wetherilli
+(Welles, 1954)
+
+
+
+Synonyms
+
+
+
+Megalosaurus wetherilli
+Welles, 1954
+Dilophosaurus breedorum
+(Welles & Pickering, 1999)
+
+
+
+
+Dilophosaurus (/daɪˌlɒfɵˈsɔrəs/ dy-LOF-o-SAWR-əs or /daɪˌloʊfɵˈsɔrəs/); is a genus of theropod dinosaur from the Sinemurian stage of the Early Jurassic Period, about 193 million years ago. The first specimens were described in 1954, but it was not until over a decade later that the genus received its current name.
+Dilophosaurus has appeared several times in popular culture, such as in the 1993 film Jurassic Park.
+
+
+Contents
+
+
+1 Etymology
+2 Description
+
+2.1 Cranial ornamentation
+
+
+3 Classification
+
+3.1 Distinguishing anatomical features
+
+
+4 Discovery and species
+
+4.1 Holotype UCMP 37302
+4.2 Paratypes
+4.3 Infant specimen
+4.4 Other species
+
+
+5 Paleobiology
+
+5.1 Feeding
+5.2 Growth
+5.3 Locomotion
+5.4 Paleopathology
+5.5 Social behavior
+
+
+6 Paleoecology
+
+6.1 Arizona
+6.2 India
+
+
+7 Ichnology
+8 In popular culture
+9 See also
+10 References
+11 External links
+
+
+Etymology[edit]
+The name Dilophosaurus comes from the Greek words di (δι) meaning "two", lophos (λόφος) meaning "crest", and sauros (σαυρος) meaning "lizard"; thus, "two-crested lizard".[1]
+Description[edit]
+
+
+
+
+Size comparison of two D. wetherilli specimens and a human
+
+
+Dilophosaurus measured around 7 metres (23 ft) long and may have weighed 500 to 1,000 kilograms (1,100 to 2,200 lb).[2]
+The most distinctive characteristic of Dilophosaurus is the pair of rounded crests on its skull, made up of extensions of the nasal and lacrimal bones. These are considered to be too delicate for anything but display purposes.[3][4] Dodson (1997) noted that cranial crests first appear in Dilophosaurus and later in other theropods.[5]
+
+
+
+
+Restoration
+
+
+The teeth of Dilophosaurus are long, but have a fairly small base and expand basally.[6] Dilophosaurus had 12 maxillary teeth and as many as 18 dentary teeth, and the teeth were smaller in the tip of the upper jaw. The second and third front teeth feature serrations, which are absent in the fourth.[3] Another skull feature was a notch behind the first row of teeth, giving Dilophosaurus an almost crocodile-like appearance, similar to the putatively piscivorous spinosaurid dinosaurs. This "notch" existed by virtue of a weak connection between the premaxillary and maxillary bones of the skull.[7] The braincase is well known in Dilophosaurus, and is significant in that it bears a feature of the top side wall that is absent in ceratosaurians.[3] Compared with ceratosaurians, the distal scapular expansion in D. wetherilli is uniquely rectangular.[3] The upper leg bone (femur) is longer than the lower leg (tibia).[3]
+Studies by Gay (2005) show no indication that sexual dimorphism was present in the skeleton of Dilophosaurus, but say nothing about crest variation.[8]
+Cranial ornamentation[edit]
+The crests on the skull of Dilophosaurus are considered to be cranial ornamentation for use in attracting mates. Padian, Horner and Dhaliwal (2004) challenged conventional hypotheses that the purpose of bizarre cranial structures and post-cranial armor in dinosaurs, was either for attracting mates, intimidating/fighting rivals in the group, or intimidating potential predators of other species. Padian et al. noted that based on phylogenetic, histological, and functional evidence these bizarre structures can be explained by the phenomenon of intra-species recognition, which is supported by the fossil evidence.[9][10]
+Classification[edit]
+
+
+
+
+
+Theropoda 
+
+
+
+ Herrerasauridae 
+
+
+
+
+
+Staurikosaurus
+
+
+
+
+
+
+
+
+
+
+
+
+Herrerasaurus
+
+
+
+
+
+
+
+
+Chindesaurus
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Eoraptor
+
+
+
+
+
+
+
+
+
+
+
+
+Daemonosaurus
+
+
+
+
+
+
+
+
+
+
+
+
+Tawa
+
+
+
+
+
+
+ Neotheropoda 
+
+
+
+ Coelophysidae 
+
+
+
+
+
+Megapnosaurus
+
+
+
+
+
+
+
+
+Coelophysis
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Liliensternus
+
+
+
+
+
+
+
+
+
+
+
+
+Zupaysaurus
+
+
+
+
+
+
+
+
+
+
+
+
+Cryolophosaurus
+
+
+
+
+
+
+
+
+
+
+
+
+Dilophosaurus
+
+
+
+
+
+
+
+
+Jurassic theropods
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Theropod cladogram based on the phylogenetic analysis, conducted by Sues et al., 2011.[11]
+
+
+
+Dilophosaurus has been examined several times over the years and has been assigned to no less than nine different theropod groups. Welles (1954) and the majority of subsequent phylogenetic analyses during the 1980s and 1990s have classified this genus as a large coelophysoid within the taxon Coelophysoidea.[4][12] However, some more recent studies have provided varying degrees of support for Dilophosaurus and various other "dilophosaurids" being more closely related to tetanuran theropods than to true coelophysoids.[13][14] Smith (2007) considered the genus Cryolophosaurus as the closest known relative of Dilophosaurus.[15]
+Distinguishing anatomical features[edit]
+
+
+
+
+Replica skull and neck, Royal Tyrrell Museum
+
+
+A diagnosis is a statement of the anatomical features of an organism (or group) that collectively distinguish it from all other organisms. Some, but not all, of the features in a diagnosis are also autapomorphies. An autapomorphy is a distinctive anatomical feature that is unique to a given organism or group.
+According to Rauhut (2000), Dilophosaurus can be distinguished based on the following features:[3][16]
+
+a lacrimal bone with a thickened dorso-posterior rim
+cervical vertebrae that have neural spines with a distinct central "cap" and an anterior and posterior "shoulder"
+a scapular blade with a squared distal expansion.
+the presence of thin, paired nasolacrimal crests extending vertically from skull roof, each with a fingerlike posterior projection (according to Carrano, 2012)[17]
+
+Discovery and species[edit]
+Holotype UCMP 37302[edit]
+
+
+
+
+Close up of a holotype cast
+
+
+The first Dilophosaurus (UCMP 37302) specimens were discovered by Sam Welles in the summer of 1942 in the Kayenta Formation in Arizona.[18] The specimen was brought back to Berkeley for cleaning and mounting, where it was given the name Megalosaurus wetherilli in 1954.[19] Returning to the same formation in 1964 to determine from which time period the bones dated, Welles found a new specimen not far from the location of the previous discovery. The specimens were renamed Dilophosaurus in 1970, based on the double crest clearly visible in the new skeleton.[6][19] The available evidence strongly suggests that the holotype (specimen on which a name is based) of D. wetherilli is a young subadult.[3]
+Paratypes[edit]
+Gay (2001b) reported on the discovery of two, possibly three specimen of Dilophosaurus wetherilli in the collections of the Museum of Northern Arizona. The specimens were collected in 1978 from the Kayenta Formation, in the Rock Head Quadrangle. Gay found the specimens to compare favorably with the holotype (UCMP 37302). Gay noted that this material is significant in that it includes parts of the pelvis not preserved in either the holotype or in the "D. breedorum" specimen UCMP 77270.[6]
+Infant specimen[edit]
+Gay (2001b) reported that some elements in the MNA collection were representative of an infant specimen (MNA P1.3181). This included a distal humerus, a partial distal fibula and a tooth fragment. The infant specimen is significant for several reasons: first, it lends insight into the growth rates of early dinosaurs; second, it provides researchers with an opportunity to compare the growth rate of Dilophosaurus with that of a related taxon (Coelophysis) which would provide insights into early theropod growth rates; third, this specimen is the first known infant of the genus.[6]
+Other species[edit]
+Shaojin Hu (1993) assigned specimen KMV 8701 to a second species, Dilophosaurus sinensis.[20] This species was recovered from the Yunnan Province of China in 1987, with the prosauropod Yunnanosaurus.[21] Compared to D. wetherilli, this species was larger and more robust. Lamanna et al. (1998b) examined the material ascribed to D. sinensis and found it to be synonymous with Sinosaurus triassicus.[22] This finding was confirmed in 2013.[23]
+A proposed third species, D. breedorum, was coined by Samuel Welles through Welles and Pickering (1999) for the specimen UCMP 77270 collected in 1964. Tykoski (2005) performed an ontogenetic analysis in his thesis and concluded that D. breedorum is an adult Dilophosaurus wetherilli.[24] This was the first specimen of the genus to preserve a nearly complete cranial crest.[25] Welles' original specimen lacked well-preserved crests, and he suggested that the crested specimens pertained to a different species.[3] He was unable to complete a manuscript describing this during his lifetime, and the name eventually came out in a private publication distributed by Pickering.[26] This species has not been accepted as valid in other reviews of the genus.[6][27]
+Paleobiology[edit]
+Feeding[edit]
+
+
+
+
+Skull cast, AMNH
+
+
+The presence and distribution of non-interdigitating sutures in the skull of some reptilian groups, including Dilophosaurus, has been interpreted as indicating the presence of a system of levers, driven by jaw muscles, as an aid to predation.[28] Welles (1984) rejected this hypothesis and interpreted the potential mobility in the skull of Dilophosaurus as a sign of weakness, and argued that the loose connection of the premaxilla precluded the capture and subduing of prey.[3] This led to the early hypothesis that Dilophosaurus scavenged off dead carcasses, because its teeth were too weak to bring down large prey.[7]
+Growth[edit]
+Tkach (1996) conducted a study of the bone structure of the type species and concluded that Dilophosaurus wetherilli could have attained growth rates of nearly 35 kilograms (77 lb) in early life, which reflects a rapid growth rate.[29]
+Locomotion[edit]
+Dilophosaurus is considered to have been an obligate biped based on the presence of long hindlimbs oriented vertically under the pelvis, and short forelimbs that did not support quadrupedal locomotion. The hindlimbs suggest a fast and agile runner, as would be expected in a carnivorous theropod.[3]
+Ebel (2000) published a controversial study that challenged the assumption that most dinosaurs were terrestrial. Regarding Dilophosaurus, which is widely considered terrestrial, Ebel noted that the short neural spines of the dorsal vertebrae located between its shoulder and pelvic girdles indicated that “the stress of the vertebral column was relatively low, and therefore the animal does not appear to have been adapted to an terrestrial environment and probably lived in moderately shallow water.”[30]
+Paleopathology[edit]
+One Dilophosaurus wetherilli specimen shows potential damage "due to injury or crushing" to a vertebra, and a potential abscess on a humerus. A Dilophosaurus wetherilli is also known with an unusually small left humerus compared to a very robust right arm, a possible example of "fluctuating asymmetry". Fluctuating asymmetry results from developmental disturbances and is more common in populations under stress and can therefore be informative about the quality of conditions a dinosaur lived under.[31]
+In a 2001 study conducted by Bruce Rothschild and other paleontologists, 60 foot bones referred to Dilophosaurus were examined for signs of stress fracture, but none were found.[32]
+Social behavior[edit]
+Welles (1984) proposed that Dilophosaurus traveled in small groups, based on the fact that several individuals were found together.[3] Gay (2001b) noted that there was no direct evidence for this and noted that "flash floods would pick up scattered and isolated material from different individuals and deposit them together in the same area."[6] Cranial display features make sense in social, gregarious animals, where other members of the species are available to observe and interpret messages of sexual status.[5]
+Paleoecology[edit]
+Arizona[edit]
+
+
+
+
+Depiction of Early Jurassic environment preserved at the St. George Dinosaur Discovery Site at Johnson Farm, with D. wetherilli in bird-like resting pose
+
+
+The remains of the type specimen of Dilophosaurus wetherilli UCMP 37302 and partial skeleton UCMP 37303 were recovered in the Silty Facies Member of the Kayenta Formation, in northeastern Arizona. The remains were discovered in 1942 and 1964 in blue shale and brown/gray siltstone that was deposited during the Sinemurian-Pliensbachian stages of the Early Jurassic, approximately 196-183 million years ago. Two other specimens assigned to this genus were discovered in the same formation; one in 1982 (UCMP 130053) in channel sandstone and the other, a scapula in terrestrial sandstone.[33]
+The Kayenta Formation is part of the Glen Canyon Group that includes formations not only in northern Arizona but also parts of southeastern Utah, western Colorado, and northwestern New Mexico. It is composed mostly of two facies, one dominated by silty deposition and the other dominated by sandstone. The siltstone facies is found in much of Arizona, while the sandstone facies is present in areas of northern Arizona, southern Utah, western Colorado, and northwestern New Mexico. The formation was primarily deposited by rivers, with the silty facies as the slower, more sluggish part of the river system. Kayenta Formation deposition was ended by the encroaching dune field that would become the Navajo Sandstone.[34] A definitive radiometric dating of this formation has not yet been made, and the available stratigraphic correlation has been based on a combination of radiometric dates from vertebrate fossils, magnetostratigraphy and pollen evidence.[33] It is been surmised that the Kayenta Formation was deposited during the Sinemurian and Pliensbachian stages of the Early Jurassic Period or approximately 196 to 183 million years ago.[35]
+The Kayenta Formation has yielded a small but growing assemblage of organisms. Most fossils are from the silty facies.[36] Most organisms known so far are vertebrates. Non-vertebrates include microbial or "algal" limestone,[37] petrified wood,[38] plant impressions,[39] freshwater bivalves and snails,[34] ostracods,[40] and invertebrate trace fossils.[37]
+Vertebrates are known from both body fossils and trace fossils. Vertebrate known from body fossils include (the following after Lucas et al. [2005],[36] except where noted): hybodont sharks, indeterminate bony fish, lungfish,[38] salamanders,[41] the frog Prosalirus, the caecilian Eocaecilia, the turtle Kayentachelys, a sphenodontian reptile, lizards,[42] several early crocodylomorphs including Calsoyasuchus, Eopneumatosuchus, Kayentasuchus, and Protosuchus), the pterosaur Rhamphinion, several theropods including Dilophosaurus, Kayentavenator[43] "Syntarsus" kayentakatae, and the "Shake N Bake" theropod, the basal sauropodomorph Sarahsaurus,[44] a heterodontosaurid, armored dinosaurs Scelidosaurus and Scutellosaurus, the tritylodontids synapsids Dinnebiton, Kayentatherium, and Oligokyphus, morganucodontids,[42] possible early true mammal Dinnetherium, and a haramyidae|haramyid mammal. The majority of these finds come from the vicinity of Gold Spring, Arizona|Gold Spring, Arizona.[36] Vertebrate trace fossils include coprolites[37] and the tracks of therapsids, lizard-like animals, and several types of dinosaur.[45]
+Explorations in the 1970s and 1980s by James M. Clark, Farish Jenkins and David E. Fastovsky and collection and analysis by William R. Downs have produced several vertebrate specimens. The Kayenta Formation has produced several mass burial sites, and the remains of three coelophysoid taxa of different body size, which represents the most diverse ceratosaur fauna yet known.[46]
+India[edit]
+Remains assigned to Dilophosaurus were recovered in the Upper Member of the Dharmaram Formation, in Andhra Pradesh, India. The remains were discovered in mudstone that was deposited during the Sinemurian stage of the Early Jurassic, approximately 196-189 million years ago. The same sediments also contained the fossils of a crocodilian, a sauropodomorph and the sauropod Lamplughsaura dharmaramensis.
+Ichnology[edit]
+
+
+
+
+Assigned track in Red Fleet Dinosaur Tracks Park, Utah
+
+
+In the Kayenta Formation in Arizona, the same formation that yielded the original specimens for this genus, the trackways known as Kayentapus hopii and Dilophosauripus williamsi were attributed to Dilophosaurus by Welles (1971). These ichnotaxa feature a series of three-toed footprints that are consistent with the expected size and shape of the feet of Dilophosaurus.[47] In 1991, trackway specialist Gerard Gierlinski re-examined tracks from the Holy Cross Mountains in Poland and renamed them Kayentapus soltykovensis, concluding that the "dilophosaur" form was the most appropriate candidate for making these ichnotaxa.[48]
+Fossilized footprints, discovered in claimed-to-be 200 million year old sedimentary rock, which were assigned to Dilophosaurus were discovered in the Höganäs Formation in Vallåkra, Sweden, during the 1970's. The footprints appears to show that these dinosaurs lived in herds.[49] Fossilized footprints assigned to Dilophosaurus have also been discovered in Sala, Sweden. Other tracks discovered in the Höganäs Formation have been assigned to the ichnogenus Grallator (Eubrontes) cf. giganteus, which were discovered in Rhaetian strata, and Grallator (Eubrontes) soltykovensis, which were discovered in Hettangian strata.[50] A few of the tracks were taken to museums, but most of them disappeared in natural floodings.[51] In 1994, Gierlinski and Ahlberg assigned these tracks from the Hoganas Formation of Sweden to Dilophosaurus as well.[52]
+Gierlinski (1996) observed unusual traces associated with a track specimen in the collection at the Pratt Museum in Amherst, Massachusetts. Specimen AC 1/7 is a "dinosaur sitting imprint", made when a dinosaur is resting its body on the ground, leaving an impression of its belly between a pair of footprints. Traces associated with AC 1/7 were interpreted by Gierlinski as the imprints of feathers, suggesting that Dilophosaurus was a feathered dinosaur.[52]
+In popular culture[edit]
+
+
+
+
+Head of a model Dilophosaurus wetherilli nicknamed "Dyzio" in the Geological Museum of the Polish Geological Institute in Warsaw
+
+
+Dilophosaurus is prominently featured in both Michael Crichton's 1990 novel Jurassic Park and its 1993 movie adaptation. It is depicted spitting blinding poison, aiming for the eyes to blind and paralyze its prey (much like a spitting cobra); in the film, it also has a retractable neck frill around its neck (much like a frill-necked lizard). There is no evidence to support either the frill or the venom spitting,[53] which was acknowledged by Crichton as creative license.[54] In the film, Steven Spielberg also reduced the size of Dilophosaurus to 3 feet (0.91 m) tall and 5 feet (1.5 m) long in order to avoid confusion with the velociraptors.[55]
+Despite its inaccuracies, the Jurassic Park depiction of Dilophosaurus has been taken up by others. Several video games, such as ParaWorld, Jurassic: The Hunted, Nanosaur and Ice Age: Dawn of the Dinosaurs, feature Dilophosaurus modeled after the representations in Jurassic Park, and The Whitest Kids U'Know sketch "Dinosaur Rap" (a music video for Trevor Moore's "Gettin' High With Dinosaurs") features a Dilophosaurus, complete with a short frill. A more accurately restored Dilophosaurus was featured in the documentary When Dinosaurs Roamed America. The Dilophosaurus is also an unlockable animal on TOKYO JUNGLE which is a video game only available on PlayStation 3.
+See also[edit]
+
+
+
+
+Dinosaurs portal
+
+
+
+
+Eubrontes
+Kayenta Formation
+Megapnosaurus
+
+References[edit]
+
+
+^ Benton, Michael J. (2012). Prehistoric Life. Edinburgh, Scotland: Dorling Kindersley. p. 258. ISBN 978-0-7566-9910-9. 
+^ Holtz, Thomas R. Jr. (2012) Dinosaurs: The Most Complete, Up-to-Date Encyclopedia for Dinosaur Lovers of All Ages, Winter 2011 Appendix.
+^ a b c d e f g h i j k Welles, S. P. (1984). "Dilophosaurus wetherilli (Dinosauria, Theropoda), osteology and comparisons". Palaeontogr. Abt. A 185: 85–180. 
+^ a b Welles, S. P. (1954). "New Jurassic dinosaur from the Kayenta formation of Arizona". Bulletin of the Geological Society of America 65 (6): 591–598. doi:10.1130/0016-7606(1954)65[591:NJDFTK]2.0.CO;2. 
+^ a b Dodson, P. (1997) Paleoecology In: Encyclopedia of Dinosaurs, edited by Currie, P.J., and Padian, K., Academic Press.
+^ a b c d e f Gay, Robert (2001). "New specimens of Dilophosaurus wetherilli (Dinosauria: Theropoda) from the early Jurassic Kayenta Formation of northern Arizona". Western Association of Vertebrate Paleontologists annual meeting volume Mesa, Arizona 1: 1. 
+^ a b Norman, David (1985). The Illustrated Encyclopedia of Dinosaurs. New York: Crescent Books. pp. 62–67. ISBN 0-517-46890-5. 
+^ Gay, Robert (2005). "Evidence for sexual dimorphism in the Early Jurassic theropod dinosaur, Dilophosaurus and a comparison with other related forms In: Carpenter, Ken, ed. The Carnivorous Dinosaurs". The Carnivorous Dinosaurs. Indiana University Press. pp. 277–283. ISBN 0-253-34539-1. 
+^ Glut, D. F., 2006, Dinosaurs, the Encyclopedia, Supplement 4: McFarland & Company, Inc, 749pp.
+^ Padian, K., Horner, J. R., and Dhaliwal, J. 2004. Species recognition as the principal cause of bizarre structures in dinosaurs. Journal of Vertebrate Paleontology 23(3):100A.
+^ Hans-Dieter Sues, Sterling J. Nesbitt, David S. Berman and Amy C. Henrici (2011). "A late-surviving basal theropod dinosaur from the latest Triassic of North America". Proceedings of the Royal Society B 278 (1723): 3459–3464
+^ M. T. Carrano, R. B. J. Benson, and S. D. Sampson. 2012. The phylogeny of Tetanurae (Dinosauria: Theropoda). Journal of Systematic Palaeontology 10(2):211-300 [M. Carrano/M. Carrano]
+^ Yates, 2005. A new theropod dinosaur from the Early Jurassic of South Africa and its implications for the early evolution of theropods. Palaeontologia Africana. 41, 105-122.
+^ Smith, Makovicky, Hammer and Currie, 2007. Osteology of Cryolophosaurus ellioti (Dinosauria: Theropoda) from the Early Jurassic of Antarctica and implications for early theropod evolution. Zoological Journal of the Linnean Society. 151, 377-421.
+^ Smith, N.D., Makovicky, P.J., Pol, D., Hammer, W.R., and Currie, P.J. (2007). "The dinosaurs of the Early Jurassic Hanson Formation of the Central Transantarctic Mountains: Phylogenetic review and synthesis." In Cooper, A.K. and Raymond, C.R. et al. (eds.), Antarctica: A Keystone in a Changing World––Online Proceedings of the 10th ISAES, USGS Open-File Report 2007-1047, Short Research Paper 003, 5 p.; doi:10.3133/of2007-1047.srp003.
+^ Rauhut, 2000. The interrelationships and evolution of basal theropods (Dinosauria, Saurischia). Ph.D. dissertation, Univ. Bristol [U.K.]. 440 pp.
+^ Carrano, Benson and Sampson, 2012. The phylogeny of Tetanurae (Dinosauria: Theropoda). Journal of Systematic Palaeontology. 10(2), 211-300.
+^ Welles, Sam (2007). "Dilophosaurus Discovered". ucmp.berkeley.edu. University of California, Berkeley. Retrieved 2007-11-17. 
+^ a b Welles, Sam (2007). "Dilophosaurus Details". ucmp.berkeley.edu. University of California, Berkeley. Retrieved 2007-11-17. 
+^ Irmis, Randall (2004-12-22). "First Report of Megapnosaurus from China" (PDF). PaleoBios 24 (3): 11–18. 
+^ Hu, Shaojin (1993). "A Short Report On the Occurrence of Dilophosaurus from Jinning County, Yunnan Province". Vertebrata PalAsiatica 31: 65–69. 
+^ Lamanna, M. C., Holtz, T. R. Jr, and Dodson, P., 1998, A reassessment of the Chinese Theropod Dinosaur Dilophosaurus sinensis: Journal of Vertebrate Paleontology, Volume 18, Supplement to Number 3. Abstracts of papers. Fifty-eighth annual meeting, Society of Vertebrate Paleontology, Snowbird Ski and Summer Resort, Snowbird, Utah, September 30-October 3, 1998, p. 57a.
+^ Xing, L.; Bell, P. R.; Rothschild, B. M.; Ran, H.; Zhang, J.; Dong, Z.; Zhang, W.; Currie, P. J. (2013). "Tooth loss and alveolar remodeling in Sinosaurus triassicus (Dinosauria: Theropoda) from the Lower Jurassic strata of the Lufeng Basin, China". Chinese Science Bulletin. doi:10.1007/s11434-013-5765-7.  edit
+^ Tykoski, 2005. Anatomy, ontogeny and phylogeny of coelophysoid theropods. PhD Dissertation. University of Texas at Austin. 553 pp.
+^ Mortimer, Mickey (2012). "Coelophysoidea". 
+^ Olshevsky, George (1999-12-05). "Dinosaur Genera List corrections #126". Dinosaur Mailing List Archives. Cleveland Museum of Natural History. Retrieved 2008-06-25. 
+^ Tykoski, R.S. & Rowe, T. (2004). "Ceratosauria". In: Weishampel, D.B., Dodson, P., & Osmolska, H. (Eds.) The Dinosauria (2nd edition). Berkeley: University of California Press. Pp. 47–70 ISBN 0-520-24209-2
+^ Bradley, O. C. 1903. The muscles of mastication and movements of the skull in Lacertilia. Zoologische Jahrbiicher, Anatomie 18: 475-486.
+^ Tkach, J. S., 1996, Multi-element osteohistological analysis of Dilphosaurus wetherilli: Journal of Vertebrate Paleontology, v. 16, supplement to n. 3, Abstracts of Papers, Fifty-sixth Annual Meeting, Society of Vertebrate Paleontology, American Museum of Natural History, New York, New York, October 16–19.
+^ Ebel, K. (2000). Biomechanics of the vertebral column and implications for the lifestyles of dinosaurs and certain pelycosaurs. Palaeontologie, Stratigraphie, Fazies [Freiberg] Heft 8 [Freiberger Forschungshefte C490]:27-50
+^ Molnar, R. E., 2001, Theropod paleopathology: a literature survey: In: Mesozoic Vertebrate Life, edited by Tanke, D. H., and Carpenter, K., Indiana University Press, p. 337-363.
+^ Rothschild, B., Tanke, D. H., and Ford, T. L., 2001, Theropod stress fractures and tendon avulsions as a clue to activity: In: Mesozoic Vertebrate Life, edited by Tanke, D. H., and Carpenter, K., Indiana University Press, p. 331-336.
+^ a b J. M. Clark and D. E. Fastovsky. 1986. Vertebrate biostratigraphy of the Glen Canyon Group in northern Arizona. The Beginning of the Age of the Dinosaurs: Faunal change across the Triassic-Jurassic boundary, N. C. Fraser and H.-D. Sues (eds.), Cambridge University Press 285-301
+^ a b Harshbarger, J. W.; Repenning, C. A., and Irwin, J. H. (1957). Stratigraphy of the uppermost Triassic and the Jurassic rocks of the Navajo country. Professional Paper 291. Washington, D.C.: U.S. Geological Survey. 
+^ Padian, K (1997) Glen Canyon Group In: Encyclopedia of Dinosaurs, edited by Currie, P. J., and Padian, K., Academic Press.
+^ a b c Lucas, S. G.; Heckert, A. B.; and Tanner, L. H. (2005). "Arizona's Jurassic fossil vertebrates and the age of the Glen Canyon Group". In Heckert, A. B.; and Lucas, S. G. editors. Vertebrate paleontology in Arizona. Bulletin 29. Albuquerque, NM: New Mexico Museum of Natural History and Science. pp. 95–104. 
+^ a b c Luttrell, P. R., and Morales, M. 1993. Bridging the gap across Moenkopi Wash: a lithostratigraphic correlation. Aspects of Mesozoic geology and paleontology of the Colorado Plateau. Pages 111-127 in Morales, M., editor. Museum of Northern Arizona, Flagstaff, AZ. Bulletin 59.
+^ a b Jenkins, F. A., Jr. and Shubin, N. H. 1998. Prosalirus bitis and the anuran caudopelvic mechanism. Journal of Vertebrate Paleontology 18(3):495-510.
+^ Rigby, J. K., Hamblin, W. K., Matheny, R., and Welsh, S. L. 1971. Guidebook to the Colorado river: part 3, Moab to Hite, Utah through Canyonlands National Park. Brigham Young University Research Studies, Geology Series 18(2).
+^ Lucas, S. G., and Tanner L. H. 2007. Tetrapod biostratigraphy and biochronology of the Triassic-Jurassic transition on the southern Colorado Plateau, USA. Palaeogeography, Palaeoclimatology, Palaeoecology 244(1-4):242-256.
+^ Curtis, K., and Padian, K. 1999. An Early Jurassic microvertebrate fauna from the Kayenta Formation of northeastern Arizona: microfaunal change across the Triassic-Jurassic boundary. PaleoBios 19(2):19-37.
+^ a b Jenkins, F. A., Jr., Crompton, A. W., and Downs, W. R. 1983. Mesozoic mammals from Arizona: new evidence in mammalian evolution. Science 222(4629):1233-1235.
+^ Gay, R. 2010. Kayentavenator elysiae, a new tetanuran from the early Jurassic of Arizona. Pages 27-43 in Gay, R. Notes on early Mesozoic theropods. Lulu Press (on-demand online press).
+^ Rowe, T. B., Sues, H.-D., and Reisz, R. R. 2011. Dispersal and diversity in the earliest North American sauropodomorph dinosaurs, with a description of a new taxon. Proceedings of the Royal Society B: Biological Sciences 278(1708):1044-1053.
+^ Hamblin, A. H., and Foster, J. R. 2000. Ancient animal footprints and traces in the Grand Staircase-Escalante National Monument, south-central Utah. Pages 557-568 in Sprinkel, D. A., Chidsey, T. C., Jr., and Anderson, P. B. editors. Geology of Utah’s parks and monuments. Utah Geological Association, Salt Lake City, UT. Publication 28.
+^ Tykoski, R. S., 1998, The Osteology of Syntarsus kayentakatae and its Implications for Ceratosaurid Phylogeny: Theses, The University of Texas, December 1998.
+^ Welles, S.P. (1971). Dinosaur footprints from the Kayenta Formation of northern Arizona: Plateau, v. 44, pp. 27-38.
+^ Gierlinski, G.(1991) New dinosaur ichnotaxa from the Early Jurassic of the Holy Cross Mountains, Poland. Palaeogeogr., Palaeoclimat.,Palaeoecol.,85(1–2): 137–148
+^ http://www.exempelbanken.se/system/documents/980191441/original/3228_vallakra.pdf
+^ Gierliński, G.; Ahlberg, A. (1994). "Late triassic and early jurassic dinosaur footprints in the höganäs formation of southern Sweden". Ichnos 3 (2): 99. doi:10.1080/10420949409386377.  edit
+^ http://kentlundgren.blogspot.se/2012/03/kontakt-med-trias-och-jura.html
+^ a b Glut, D. F. (1999). Dinosaurs, the Encyclopedia, Supplement 1: McFarland & Company, Inc., 442pp.
+^ Bennington, J Bret (1996). "Errors in the Movie "Jurassic Park"". American Paleontologist 4 (2): 4–7. 
+^ Crichton, Michael (1990). Jurassic Park. Alfred A. Knopf. ISBN 0-394-58816-9. 
+^ The Making of Jurassic Park by Don Shay & Jody Duncan, Boxtree Ltd; 1st Edition. edition (30 Jun 1993), ISBN 1-85283-774-8
+
+
+External links[edit]
+
+Dilophosaur intro
+errors in Jurassic Park
+
+
+
+ 
+NewPP limit report
+CPU time usage: 6.436 seconds
+Real time usage: 6.714 seconds
+Preprocessor visited node count: 32095/1000000
+Preprocessor generated node count: 55861/1500000
+Post‐expand include size: 215434/2048000 bytes
+Template argument size: 119135/2048000 bytes
+Highest expansion depth: 39/40
+Expensive parser function count: 3/500
+Lua time usage: 0.103s
+Lua memory usage: 2.55 MB
+
+
+ Saved in parser cache with key enwiki:pcache:idhash:444541-0!*!0!!en!4!* and timestamp 20131002130545 
+								
+				Retrieved from "http://en.wikipedia.org/w/index.php?title=Dilophosaurus&oldid=575176392"				
+												Categories: CoelophysoidsDinosaurs of AsiaDinosaurs of North AmericaJurassic dinosaursHidden categories: Articles with 'species' microformats												
+							
+		
+		
+			Navigation menu
+			
+				
+	Personal tools
+	
+Create accountLog in	
+
+				
+					
+	Namespaces
+	
+					Article
+					Talk
+			
+
+
+	
+		
+	Variants
+	
+		
+					
+	
+
+				
+				
+					
+	Views
+	
+					Read
+					Edit
+					View history
+			
+
+
+	Actions
+	
+		
+					
+	
+
+
+	Search
+	
+				
+																				
+		
+	
+
+				
+			
+			
+					
+				
+	Navigation
+	
+		
+			Main page
+			Contents
+			Featured content
+			Current events
+			Random article
+			Donate to Wikipedia
+		
+	
+
+
+	Interaction
+	
+		
+			Help
+			About Wikipedia
+			Community portal
+			Recent changes
+			Contact page
+		
+	
+
+
+	Toolbox
+	
+		
+			What links here
+			Related changes
+			Upload file
+			Special pages
+			Permanent link
+			Page information
+			Data item
+Cite this page		
+	
+
+
+	Print/export
+	
+		
+			Create a book
+			Download as PDF
+			Printable version
+		
+	
+
+
+	Languages
+	
+		
+			العربية
+			Català
+			Česky
+			Dansk
+			Deutsch
+			Español
+			Français
+			한국어
+			Hrvatski
+			Italiano
+			עברית
+			Magyar
+			മലയാളം
+			Nederlands
+			日本語
+			Polski
+			Português
+			Română
+			Русский
+			Simple English
+			Slovenčina
+			Српски / srpski
+			Srpskohrvatski / српскохрватски
+			Suomi
+			Svenska
+			ไทย
+			Türkçe
+			Tiếng Việt
+			Žemaitėška
+			中文
+			
+			Edit links
+		
+	
+
+			
+		
+		
+							
+											 This page was last modified on 30 September 2013 at 18:38.
+											Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. 
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+									
+							
+											Privacy policy
+											About Wikipedia
+											Disclaimers
+											Contact Wikipedia
+											Developers
+											Mobile view
+									
+										
+					
+						
+					
+					
+						
+					
+				
+						
+		
+		
+
+
+ Served by mw1065 in 0.221 secs. 
+	
+if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Dilophosaurus","wgTitle":"Dilophosaurus","wgCurRevisionId":575176392,"wgArticleId":444541,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with 'species' microformats","Coelophysoids","Dinosaurs of Asia","Dinosaurs of North America","Jurassic dinosaurs"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Dilophosaurus","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgVectorEnabledModules":{"collapsiblenav":true,"experiments":true},"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"templateEditor":false,"templates":false,"preview":false,"previewDialog":false,"publish":false,"toc":false},"wgArticleFeedbackv5Permissions":{"aft-reader":true,"aft-member":false,"aft-editor":false,"aft-monitor":false,"aft-administrator":false,"aft-oversighter":false,"aft-noone":false},"wgVisualEditor":{"isPageWatched":false,"magnifyClipIconURL":"//bits.wikimedia.org/static-1.22wmf18/skins/common/images/magnify-clip.png","pageLanguageCode":"en","pageLanguageDir":"ltr"},"wikilove-recipient":"","wikilove-anon":0,"wgGuidedTourHelpGuiderUrl":"Help:Guided tours/guider","wgULSAcceptLanguageList":["en-us"],"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia","aftv5Article":{"id":444541,"title":"Dilophosaurus","namespace":0,"categories":["Articles with 'species' microformats","Coelophysoids","Dinosaurs of Asia","Dinosaurs of North America","Jurassic dinosaurs"],"permissionLevel":false},"wgWikibaseItemId":"Q271710"});
+}if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":false,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,
+"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"useeditwarning":1,"prefershttps":1,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"vector-simplesearch":1,"vector-collapsiblenav":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"aftv5-last-filter":null,"visualeditor-enable":0,"visualeditor-enable-experimental":0,"visualeditor-betatempdisable":0,"wikilove-enabled":1,"echo-subscriptions-web-page-review":true,"echo-subscriptions-email-page-review":false,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"echo-notify-show-link":true,"echo-show-alert":true,"echo-email-frequency":0,"echo-email-format":"html","echo-subscriptions-email-system":true,"echo-subscriptions-web-system":true,"echo-subscriptions-email-other":false,"echo-subscriptions-web-other":true,"echo-subscriptions-email-edit-user-talk":false,"echo-subscriptions-web-edit-user-talk":true,
+"echo-subscriptions-email-reverted":false,"echo-subscriptions-web-reverted":true,"echo-subscriptions-email-article-linked":false,"echo-subscriptions-web-article-linked":false,"echo-subscriptions-email-mention":false,"echo-subscriptions-web-mention":true,"echo-subscriptions-web-edit-thank":true,"echo-subscriptions-email-edit-thank":false,"gettingstarted-task-toolbar-show-intro":true,"uls-preferences":"","language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs446":false,"searchNs447":false
+,"searchNs710":false,"searchNs711":false,"searchNs828":false,"searchNs829":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-mySandbox":1,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:156d8fe0ae17f8afd74198057563e45d */
+}if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","ext.visualEditor.viewPageTarget.init","ext.wikimediaShopLink.core","ext.uls.init","ext.uls.interface","wikibase.client.init","ext.centralNotice.bannerController","skins.vector.js"]);
+}/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}if(window.mw){
+mw.loader.load(["mobile.desktop","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.cite","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","mw.MwEmbedSupport.style","ext.vector.collapsibleNav","ext.articleFeedbackv5.startup","ext.gettingstarted.logging","ext.gettingstarted.openTask","schema.HttpsSupport","ext.coreEvents.httpsSupport","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","mw.PopUpMediaTransform"],null,true);
+}

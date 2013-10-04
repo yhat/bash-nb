@@ -1,0 +1,564 @@
+
+
+
+Marozi - Wikipedia, the free encyclopedia
+
+
+
+
+
+
+
+
+
+
+
+
+a:lang(ar),a:lang(ckb),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:0de201fdea5d684523607ed88007b127 */
+
+
+
+
+[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.22wmf18/skins/vector/csshover.min.htc")}</style><![endif]
+
+		
+		
+		
+			
+			
+						 CentralNotice 
+						Marozi
+			
+								From Wikipedia, the free encyclopedia
+								
+												
+					Jump to:					navigation, 					search
+				
+				
+
+
+Marozi
+
+
+Scientific classification
+
+
+Kingdom:
+Animalia
+
+
+Phylum:
+Chordata
+
+
+Class:
+Mammalia
+
+
+Order:
+Carnivora
+
+
+Family:
+Felidae
+
+
+Genus:
+Panthera
+
+
+Species:
+Panthera leo
+
+
+Trinomial name
+
+
+Panthera leo maculatus
+Heuvelmans, 1955
+
+
+
+The marozi or spotted lion is variously claimed by zoologists and cryptozoologists to be a distinct race of lion adapted for a montane rather than savanna-dwelling existence, a rare natural hybrid of a leopard and lion, or an adult lion that retained its childhood spots. It is believed to have been smaller than a lion but slightly larger in size than a leopard and lacking any distinguishable mane. It has been reported in the wild and the skin of a specimen exists, but it has yet to be confirmed as either a separate species or subspecies. Belgian cryptozoologist Dr Bernard Heuvelmans proposed the specific name Leo maculatus in 1955.
+
+
+Contents
+
+
+1 Discovery
+2 Dower's expedition
+3 Possible explanations
+4 Skin
+5 Skull
+6 Disappearance
+7 See also
+8 References
+9 External links
+
+
+Discovery[edit]
+While African natives have been familiar with the animal and Europeans have been reported seeing spotted lions since roughly 1904, the first documentable encounter by a European was in 1931 when Kenyan farmer Michael Trent shot and killed two individuals in the Aberdare Mountains region at an elevation of 10,000 feet (3,000 m). The unusual spotted markings on what seemed to be smallish adult lions prompted interest from the Nairobi Game Department; they were from pubescent lions and yet had prominent spots that are typical only of cubs.
+Dower's expedition[edit]
+Two years later, explorer Kenneth Gandar-Dower headed an expedition into the region in an attempt to capture or kill more specimens. He returned with only circumstantial evidence: three sets of tracks found at a similar elevation as Trent's lions (10,000–12,500 feet or 3,000–3,800 metres). They were believed to have been left by individuals that were tracking a herd of buffalo during a hunt, ruling out the possibility of the marozi being cubs. Dower also discovered that the natives had long differentiated the marozi from lions or leopards, which they referred to by different names. Aside from that, he found out that the marozi had also been called different names in other regions, such as "ntararago" in Uganda, "ikimizi" in Rwanda, and "abasambo" in Ethiopia. Notes on the marozi are included in The Spotted Lion by Kenneth Gandar Dower; On The Track of Unknown Animals by Bernard Heuvelmans and Mystery Cats of the World by Dr Karl Shuker.[1] R.I. Pocock examined a skin and skull collected by Michael Trent, and discussed his findings in an appendix to Gandar Dower's book, but he could not reach definite conclusions on the limited evidence available.
+There were other sightings around the same time:
+
+Four animals sighted by Game Warden Captain R.E.Dent in the Aberdare Mountain region at an elevation of 10,000 feet (3,000 m).
+A pair sighted on the Kinangop Plateau by G. Hamilton-Snowball at an elevation of 11,500 feet (3,500 m). They were shot at but escaped.
+
+Possible explanations[edit]
+
+Lion/leopard hybrid: Lions and leopards hybridized in captivity have very closely resembled the descriptions of the marozi in both size and coat pattern. However, while captive hybridization of big cats is well documented, no such event has ever been recorded in the wild. The two species are natural enemies and live different lifestyles, so the chance of a naturally occurring hybrid is very small.
+
+
+Genetic aberration: It is possible that the marozi was a result of a recessive gene that spread through a population of lions as a result of inbreeding. Big cats have been known to have their coats affected by recessive genes, as seen in black leopards (panthers), white tigers, white lions, and the king cheetah. A genetic mutation might result in the lion's juvenile spots being retained into adolescence or even into adulthood. This does not explain the smaller size of the marozi and its preferred habitat of elevated, wooded areas instead of the traditional savanna habitat of other lions. Interestingly, the Aberdare region is home to many endemic species and subspecies.
+
+
+Sub-adult lions: The smaller size, the presence of spots/rosettes and the insignificant manes on males could indicate sub-adult specimens, possibly ousted from their prides.
+
+
+New taxon: The marozi could have been a yet-undiscovered species or subspecies of lion. The answer to this largely depends on when, if ever, a closer inspection and DNA analysis is done on the skin of the Trent specimen.
+
+Skin[edit]
+Inspections of the Trent specimen conducted up until 1937 (now found in the Natural History Museum in London) have generally yielded the following observations:
+
+Male.
+5 ft 10 1⁄2 in (1.791 m) (head and body without tail).
+Tail (without tuft) 2 ft 9 in (0.84 m).
+Total length 8 ft 8 in (2.64 m).
+Estimated age of 3 years (about 1 year from fully grown).
+Insignificant mane, this being 5 inches (13 cm) at its longest point.
+Distinctive irregular spots or rosettes over the flanks, shoulders and thighs. Not present down the spine.
+Diameter of the largest spots: 85 by 45, or 65 by 65 mm.
+Rosette color across flanks: grayish brown with a darker center.
+Solid spots on the legs and abdominal area. Very obvious on the underbelly due to the pelage ground color being paler. Less spotting on the hind legs than the forelegs.
+
+Skull[edit]
+A skull not belonging to the Trent lions but believed to belong to a marozi has also been found. The lower jaw is missing but the upper one has all the teeth intact. The sex is undetermined. It was not from a fully grown animal as the sutures were still open.
+Disappearance[edit]
+No reports of the marozi have surfaced from the Aberdare region since the 1930s and it is believed that the population has long since become extinct. Reports of spotted lions are still fairly common throughout other parts of Africa, though.[citation needed]
+See also[edit]
+
+Leopon
+Liard
+
+References[edit]
+
+
+
+
+
+This article includes a list of references, but its sources remain unclear because it has insufficient inline citations. Please help to improve this article by introducing more precise citations. (October 2009) 
+
+
+
+Gandar Dower, Kenneth; The Spotted Lion (1937)
+Heuvelmans, Bernard; On The Track of Unknown Animals (1970)
+McGuinness, CJ; Nomad (1934)
+Foran, Major W Robert; The Legendary Spotted Lion (1950, published in The Field)
+Hamilton-Snowball, G; letter to The Field (1948)
+Pollard, JRT; letter to The Field (1948)
+
+
+
+^ ShukerAAA, Karl P N (1989). Mystery Cats of the World. Robert Hale. ISBN 0-7090-3706-6. 
+
+
+External links[edit]
+
+Cryptozoology.com
+Spotted Lions
+Tiger Territory
+Marozi (in German)
+Hybrids between Leopards and Lions: Leopon, Marozi
+
+
+
+
+Wikispecies has information related to: Marozi
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Mammal hybrids, arranged by family
+
+
+
+
+
+
+Bovidae
+
+
+
+Beefalo
+Dzo
+Sheep–goat hybrid
+Yakalo
+Żubroń
+
+
+
+
+
+
+
+
+Camelidae
+
+
+
+Cama
+Bukht
+Huarizo
+
+
+
+
+
+
+
+
+Canidae
+
+
+
+Black wolf
+Coydog
+Coywolf
+Czechoslovakian wolfdog
+Jackal–dog hybrid
+Kunming wolfdog
+Saarlooswolfhond
+Sulimov dog
+Wolfdog
+
+
+
+
+
+
+
+
+Delphinidae
+
+
+
+Wholphin
+
+
+
+
+
+
+
+
+Elephantidae
+
+
+
+Elephant hybrid
+
+
+
+
+
+
+
+
+Equidae
+
+
+
+Hinny
+Mule
+Zebroid
+
+
+
+
+
+
+
+
+Felidae
+
+
+
+Ashera
+Bengal
+Blynx
+Caraval
+Chausie
+Kellas Cat
+Pumapard
+Savannah
+Serengeti cat
+Leopon
+Liger
+Lijagulep
+Marozi
+Tiglon
+
+
+
+
+
+
+
+
+Macropodidae
+
+
+
+Macropod hybrids
+
+
+
+
+
+
+
+
+Suidae
+
+
+
+Iron Age pig
+
+
+
+
+
+
+
+
+Mustelidae
+
+
+
+Polecat-ferret hybrid
+Polecat-mink hybrid
+
+
+
+
+
+
+
+
+Ursidae
+
+
+
+Grizzly–polar bear hybrid
+
+
+
+
+
+
+
+
+
+
+ 
+NewPP limit report
+CPU time usage: 1.628 seconds
+Real time usage: 1.784 seconds
+Preprocessor visited node count: 6275/1000000
+Preprocessor generated node count: 26365/1500000
+Post‐expand include size: 35885/2048000 bytes
+Template argument size: 8196/2048000 bytes
+Highest expansion depth: 29/40
+Expensive parser function count: 4/500
+Lua time usage: 0.079s
+Lua memory usage: 1.16 MB
+
+
+ Saved in parser cache with key enwiki:pcache:idhash:1580817-0!*!0!!en!4!* and timestamp 20130904024813 
+								
+				Retrieved from "http://en.wikipedia.org/w/index.php?title=Marozi&oldid=555208305"				
+												Categories: Panthera hybridsExtinct carnivoransCarnivorous cryptidsHidden categories: Articles with 'species' microformatsAll articles with unsourced statementsArticles with unsourced statements from October 2009Articles lacking in-text citations from October 2009All articles lacking in-text citations												
+							
+		
+		
+			Navigation menu
+			
+				
+	Personal tools
+	
+Create accountLog in	
+
+				
+					
+	Namespaces
+	
+					Article
+					Talk
+			
+
+
+	
+		
+	Variants
+	
+		
+					
+	
+
+				
+				
+					
+	Views
+	
+					Read
+					Edit
+					View history
+			
+
+
+	Actions
+	
+		
+					
+	
+
+
+	Search
+	
+				
+																				
+		
+	
+
+				
+			
+			
+					
+				
+	Navigation
+	
+		
+			Main page
+			Contents
+			Featured content
+			Current events
+			Random article
+			Donate to Wikipedia
+		
+	
+
+
+	Interaction
+	
+		
+			Help
+			About Wikipedia
+			Community portal
+			Recent changes
+			Contact page
+		
+	
+
+
+	Toolbox
+	
+		
+			What links here
+			Related changes
+			Upload file
+			Special pages
+			Permanent link
+			Page information
+			Data item
+Cite this page		
+	
+
+
+	Print/export
+	
+		
+			Create a book
+			Download as PDF
+			Printable version
+		
+	
+
+
+	Languages
+	
+		
+			Deutsch
+			فارسی
+			Français
+			Interlingua
+			Italiano
+			Lietuvių
+			Magyar
+			Русский
+			Українська
+			中文
+			
+			Edit links
+		
+	
+
+			
+		
+		
+							
+											 This page was last modified on 15 May 2013 at 12:59.
+											Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. 
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+									
+							
+											Privacy policy
+											About Wikipedia
+											Disclaimers
+											Contact Wikipedia
+											Developers
+											Mobile view
+									
+										
+					
+						
+					
+					
+						
+					
+				
+						
+		
+		
+
+
+ Served by mw1063 in 0.192 secs. 
+	
+if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Marozi","wgTitle":"Marozi","wgCurRevisionId":555208305,"wgArticleId":1580817,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with 'species' microformats","All articles with unsourced statements","Articles with unsourced statements from October 2009","Articles lacking in-text citations from October 2009","All articles lacking in-text citations","Panthera hybrids","Extinct carnivorans","Carnivorous cryptids"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Marozi","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgVectorEnabledModules":{"collapsiblenav":true,"experiments":true},"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"templateEditor":false,"templates":false,"preview":false,"previewDialog":false,"publish":false,"toc":false},"wgArticleFeedbackv5Permissions":{"aft-reader":true,"aft-member":false,"aft-editor":false,"aft-monitor":false,"aft-administrator":false,"aft-oversighter":false,"aft-noone":false},"wgVisualEditor":{"isPageWatched":false,"magnifyClipIconURL":"//bits.wikimedia.org/static-1.22wmf18/skins/common/images/magnify-clip.png","pageLanguageCode":"en","pageLanguageDir":"ltr"},"wikilove-recipient":"","wikilove-anon":0,"wgGuidedTourHelpGuiderUrl":"Help:Guided tours/guider","wgULSAcceptLanguageList":["fr-ca"],"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia","aftv5Article":{"id":1580817,"title":"Marozi","namespace":0,"categories":["All articles lacking in-text citations","All articles with unsourced statements","Articles lacking in-text citations from October 2009","Articles with 'species' microformats","Articles with unsourced statements from October 2009","Carnivorous cryptids","Extinct carnivorans","Panthera hybrids"],"permissionLevel":false},"wgWikibaseItemId":"q979953"});
+}if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":false,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,
+"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"useeditwarning":1,"prefershttps":1,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"vector-simplesearch":1,"vector-collapsiblenav":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"aftv5-last-filter":null,"visualeditor-enable":0,"visualeditor-enable-experimental":0,"visualeditor-betatempdisable":0,"wikilove-enabled":1,"echo-subscriptions-web-page-review":true,"echo-subscriptions-email-page-review":false,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"echo-notify-show-link":true,"echo-show-alert":true,"echo-email-frequency":0,"echo-email-format":"html","echo-subscriptions-email-system":true,"echo-subscriptions-web-system":true,"echo-subscriptions-email-other":false,"echo-subscriptions-web-other":true,"echo-subscriptions-email-edit-user-talk":false,"echo-subscriptions-web-edit-user-talk":true,
+"echo-subscriptions-email-reverted":false,"echo-subscriptions-web-reverted":true,"echo-subscriptions-email-article-linked":false,"echo-subscriptions-web-article-linked":false,"echo-subscriptions-email-mention":false,"echo-subscriptions-web-mention":true,"echo-subscriptions-web-edit-thank":true,"echo-subscriptions-email-edit-thank":false,"gettingstarted-task-toolbar-show-intro":true,"uls-preferences":"","language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs446":false,"searchNs447":false
+,"searchNs710":false,"searchNs711":false,"searchNs828":false,"searchNs829":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-mySandbox":1,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:156d8fe0ae17f8afd74198057563e45d */
+}if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","ext.visualEditor.viewPageTarget.init","ext.wikimediaShopLink.core","ext.uls.init","ext.uls.interface","wikibase.client.init","ext.centralNotice.bannerController","skins.vector.js"]);
+}/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}if(window.mw){
+mw.loader.load(["mobile.desktop","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.cite","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","mw.MwEmbedSupport.style","ext.vector.collapsibleNav","ext.articleFeedbackv5.startup","ext.gettingstarted.logging","ext.gettingstarted.openTask","schema.HttpsSupport","ext.coreEvents.httpsSupport","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","mw.PopUpMediaTransform"],null,true);
+}

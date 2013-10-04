@@ -1,0 +1,872 @@
+
+
+
+Coelophysis - Wikipedia, the free encyclopedia
+
+
+
+
+
+
+
+
+
+
+
+
+a:lang(ar),a:lang(ckb),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:0de201fdea5d684523607ed88007b127 */
+
+
+
+
+[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.22wmf18/skins/vector/csshover.min.htc")}</style><![endif]
+
+		
+		
+		
+			
+			
+						 CentralNotice 
+						Coelophysis
+			
+								From Wikipedia, the free encyclopedia
+								
+												
+					Jump to:					navigation, 					search
+				
+				
+
+
+Coelophysis
+Temporal range: Late Triassic, 216–203Ma
+
+PreЄ
+Є
+O
+S
+D
+C
+P
+T
+J
+K
+Pg
+N
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mounted skeleton cast at the Cleveland Museum of Natural History
+
+
+Scientific classification 
+
+
+Kingdom:
+Animalia
+
+
+Phylum:
+Chordata
+
+
+Clade:
+Sauropsida
+
+
+Clade:
+Dinosauria
+
+
+Clade:
+Theropoda
+
+
+Family:
+†Coelophysidae
+
+
+Subfamily:
+†Coelophysinae
+
+
+Genus:
+†Coelophysis
+Cope, 1889
+
+
+Type species
+
+
+†Coelurus bauri
+Cope, 1887
+
+
+Species
+
+
+
+
+†Coelophysis bauri
+(Cope, 1887) originally Coelurus
+†Coelophysis rhodesiensis?
+(Raath, 1969), originally Syntarsus
+
+
+
+
+Synonyms
+
+
+
+
+Genus synonymy
+
+Megapnosaurus?
+Ivie, Ślipiński & Węgrzynowicz, 2001[1]
+Gojirasaurus?
+Carpenter, 1997.[2]
+
+
+
+Species synonymy
+
+Coelurus bauri Cope, 1887a
+Carrano et al., 2012[3]
+Coelurus longicollis Cope, 1887a
+Carrano et al., 2012[3]
+Longosaurus longicollis Welles, 1984
+Carrano et al., 2012[3]
+Rioarribasaurus colberti Hunt & Lucas, 1991
+Carrano et al., 2012[3]
+Tanystropheus bauri Cope, 1887b
+Carrano et al., 2012[3]
+Tanystropheus longicollis Cope, 1887b
+Carrano et al., 2012[3]
+Tanystropheus willistoni Cope, 1887b
+Carrano et al., 2012[3]
+Coelophysis longicollis Cope, 1889
+Carrano et al., 2012[3]
+Coelophysis willistoni Cope, 1889
+Carrano et al., 2012[3]
+
+
+
+
+
+
+Coelophysis (/ˌsɛlɵˈfaɪsɨs/ or /ˌsiːlɵˈfaɪsɨs/;pron.:SEAL-oh-FY-sis), is an extinct genus of coelophysid theropod dinosaur that lived approximately 216 to 203 million years ago during the latter part of the Triassic Period in what is now the southwestern United States.[4] Coelophysis was a small, slenderly-built, ground-dwelling, bipedal carnivore, that could grow up to 3 m (9.8 ft) long. It is one of the earliest known genera of dinosaur. Scattered material representing similar animals to Coelophysis were found worldwide in some Late Triassic and Early Jurassic formations. The type species C. bauri, originally given to the genus Coelurus by Edward Drinker Cope in 1887, was described by the latter in 1889. The name Longosaurus and Rioarribasaurus are synonymous with Coelophysis. Another dinosaur, Megapnosaurus, has also been considered to be a genus synonym of Coelophysis. This primitive theropod is notable for being one of the most specimen-rich dinosaur genera.
+
+
+Contents
+
+
+1 Etymology
+2 Description
+
+2.1 Sexual Dimorphism
+
+
+3 History of discovery
+4 Classification
+
+4.1 Related Genera
+4.2 Distinguishing anatomical features
+
+
+5 Paleobiology
+
+5.1 Feeding
+5.2 Pack behavior
+5.3 Growth
+5.4 Reproduction
+5.5 Paleopathology
+
+
+6 Paleoecology
+
+6.1 Provenance and Occurrence
+6.2 Fauna and Habitat
+
+
+7 Taphonomy
+8 Ichnology
+9 In culture
+10 References
+11 External links
+
+
+Etymology[edit]
+The name Coelophysis comes from the Greek words κοιλος/koilos (meaning 'hollow') and φυσις/physis (meaning 'form'), thus "hollow form" which is a reference to its hollow limb bones.
+Description[edit]
+
+
+
+
+Size of C. bauri compared to a human
+
+
+Coelophysis bauri is known from a number of complete fossil skeletons. C. bauri was a lightly built dinosaur which measured up to 3 metres (9.8 ft) in length[5] and which was more than a meter tall at the hips. Paul (1988) estimated the weight of the gracile form at 15 kg (33 lb), and the weight of the robust form at 20 kg (44 lb).[6] Coelophysis was a bipedal, carnivorous, theropod dinosaur that was a fast and agile runner.[7] Despite being an early dinosaur, the evolution of the theropod body form had already advanced greatly from creatures like Herrerasaurus and Eoraptor. The torso of Coelophysis conforms to the basic theropod body shape, but the pectoral girdle displays some interesting special characteristics: C. bauri had a furcula (wishbone), the earliest known example in a dinosaur. Coelophysis also preserves the ancestral condition of possessing four digits on the hand (manus). It had only three functional digits, the fourth embedded in the flesh of the hand.
+Coelophysis had narrow hips, forelimbs adapted for grasping, and narrow feet.[8] Its neck and tail were long and slender.[4] The pelvis and hindlimbs of C. bauri are also slight variations on the theropod body plan. It has the open acetabulum and straight ankle hinge that define the Dinosauria. The hindlimb ended in a three-toed foot (pes), with a raised hallux. The tail had an unusual structure within its interlocking prezygapophysis of its vertebrae, which formed a semi-rigid lattice, apparently to stop the tail from moving up and down.[9] This may have let the tail act as a rudder or counterweight when the animal was maneuvering at high speeds.
+
+
+
+
+C. bauri profile
+
+
+Coelophysis had a long narrow head (approximately 270 mm (0.9 ft)), with large, forward-facing eyes that afforded it stereoscopic vision and as a result excellent depth perception. Rinehart et al. (2004) described the complete sclerotic ring found for a juvenile Coelophysis bauri (specimen NMMNH P-4200), and compared it to data on the sclerotic rings of reptiles and birds and concluded that this Coelophysis was a diurnal, visually oriented predator."[10] The Rinehart et al. study found that its vision was superior to most lizards' vision, and ranked with that of modern birds of prey. The eyes of Coelophysis appear to be the closest to those of eagles and hawks, with a high power of accommodation. The data also suggested poor night vision which would mean this dinosaur had a round rather than a split pupil.
+Coelophysis had an elongated snout with large fenestrae which helped to reduce skull weight, while narrow struts of bones preserved the structural integrity of the skull. The neck had a pronounced sigmoid curve. The braincase is known in Coelophysis bauri but little data could be derived because the skull was crushed.[8] Unlike some other theropods, the cranial ornamentation of Coelophysis was not located at the top of its skull. Low, laterally raised bony ridges were present on the dorsolateral margin of the nasal and lacrimal bones in the skull, directly above the antorbital fenestra.[11]
+Sexual Dimorphism[edit]
+
+
+
+
+Restoration showing hypothetical wattle
+
+
+Two "morphs" of Coelophysis have been found, a more gracile form (as in specimen AMNH 7223) and a slightly more robust form (as in specimens AMNH 7224, NMMNH P-42200). Skeletal proportions were different between these two forms. The gracile form has a longer skull, a longer neck, shorter forelimbs, and has sacral neural spines that are fused. The robust form has a shorter skull, a shorter neck, longer forelimbs, and the sacral neural spines are not fused.[11] Raath agreed that dimorphism in Coelophysis is evidenced by the size and structure of the forelimb.[12] Opinion among paleontologists is now that these were female and male variants (see: sexual dimorphism).[11][13]<[6][14] Rinehart et al. studied 15 individuals, and agreed that two morphs were present, even in juvenile specimens. This demonstrates that sexual dimorphism was present early in life, prior to sexual maturity. Rinehart concluded that the gracile form was female and the robust form was male based on differences in the sacral vertebrae of the gracile form, which allowed for greater flexibility for egg laying.[7] Further support for this position is provided by the study where analysis showed that each morph comprised 50% of the population, as would be expected in a 50/50 sex ratio.[15]
+History of discovery[edit]
+
+
+
+
+Two Ghost Ranch specimens preserved together, AMNH
+
+
+Edward Drinker Cope first named Coelophysis in 1889[16] during his competition to name species with Othniel Charles Marsh, known as the "Bone Wars". An amateur fossil collector working for Cope, David Baldwin, had found the first remains of the dinosaur in 1881 in the Chinle Formation in northwestern New Mexico. Early in 1887 Cope referred the specimens collected to two new species, C. bauri and C. longicollis and erected the genus Coelurus. Later in 1887 Cope reassigned the material to a yet another new genus Coelophysis, with C. bauri as the type species, which was named for Baur, another fossil collectors who supplied Cope.[17] However, these first finds were too poorly preserved to give a complete picture of this new dinosaur. In 1947, a substantial 'graveyard' of Coelophysis fossils was found by George Whitaker, the assistant of Edwin H. Colbert, in New Mexico, at the Ghost Ranch, close to the original find. American Museum of Natural History paleontologist Edwin H. Colbert conducted a comprehensive study[11] of all the fossils found up to that date and assigned them to Ceolophysis. It is from Colbert's work that we take most of our knowledge about Coelophysis. The Ghost Ranch specimens were so numerous, including many well-preserved and fully articulated specimens, that one of them has since become the diagnostic, or type specimen, for the entire genus, replacing the original, poorly preserved specimen (see Classification below). Since the Ghost Ranch specimens were discovered, more skeletons have been found in Arizona, New Mexico and an as-yet unconfirmed specimen from Utah, including both adults and juveniles, the deposits where Coelophysis has been discovered date from the late Carnian to the early Norian faunal stages of the Triassic Period.
+Classification[edit]
+
+
+
+
+Cast of the neotype specimen AMNH FR 7224, Natural History Museum, London
+
+
+
+
+
+
+
+Theropoda 
+
+
+
+ Herrerasauridae 
+
+
+
+
+
+Staurikosaurus
+
+
+
+
+
+
+
+
+
+
+
+
+Herrerasaurus
+
+
+
+
+
+
+
+
+Chindesaurus
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Eoraptor
+
+
+
+
+
+
+
+
+
+
+
+
+Daemonosaurus
+
+
+
+
+
+
+
+
+
+
+
+
+Tawa
+
+
+
+
+
+
+ Neotheropoda 
+
+
+
+ Coelophysidae 
+
+
+
+
+
+Megapnosaurus
+
+
+
+
+
+
+
+
+Coelophysis
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Liliensternus
+
+
+
+
+
+
+
+
+
+
+
+
+Zupaysaurus
+
+
+
+
+
+
+
+
+
+
+
+
+Cryolophosaurus
+
+
+
+
+
+
+
+
+
+
+
+
+Dilophosaurus
+
+
+
+
+
+
+
+
+Jurassic theropods
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Theropod cladogram based on the phylogenetic analysis, conducted by Sues et al., 2011.[18]
+
+
+
+Coelophysis is a distinct taxonomic unit (genus), composed of a single species, C. bauri. Two additional species were originally described in addition to C. bauri, C. longicollis, and C. willistoni; however, they are not diagnostic and are considered synonymous with C. bauri. C. rhodesiensis is probably part of this generic complex, and is known from the Jurassic of southern Africa (see below for more). In phylogenetic taxonomy, Coelophysis is treated as a clade within the Coelophysidae.
+In the early 1990s, there was debate over the diagnostic characteristics of the first specimens collected, compared to the material excavated at the Ghost Ranch Coelophysis quarry. Some paleontologists were of the opinion that the original specimens were not diagnostic beyond themselves and, therefore, that the name C. bauri could not be applied to any additional specimens. They therefore applied a different name, Rioarribasaurus,[19] to the Ghost Ranch quarry specimens.
+Since the numerous well-preserved Ghost Ranch specimes were used as Coelophysis in most of the scientific literature, the use of Rioarribasaurus would have been very inconvenient for researchers, so a petition was given to have the type specimen of Coelophysis transferred from the poorly preserved original specimen to one of the well-preserved Ghost ranch specimens.[20] In the end, the International Commission on Zoological Nomenclature (ICZN) voted to make one of the Ghost Ranch samples the actual type specimen for Coelophysis and dispose of the name Rioarribasaurus altogether (declaring it a nomen rejectum, or "rejected name"), thus resolving the confusion. The name Coelophysis therefore became a nomen conservandum ("conserved name").[21]
+In a situation affecting many dinosaur taxa, some more recently discovered fossils were originally classified as new genera but are in fact species of Coelophysis. For example, Prof. Mignon Talbot's 1911 discovery[22] which she labeled Podokesaurus holyokensis, may be related to Coelophysis. Another specimen from the Portland Formation of the Hartford Basin, now at the Boston Museum of Science, has also been referred to Podokesaurus, and consequently, Coelophysis.[23] However, both the type specimen of Podokesaurus and the other specimen are typically considered indeterminate theropods today. In addition, C. posthumus, named by Friedrich von Huene in 1908, also needs reclassification and is tentatively titled Halticosaurus longotarsus at the moment.
+Related Genera[edit]
+
+
+
+
+Profile of the head of Megapnosaurus rhodesiensis
+
+
+Coelophysis shares the Coelophysidae taxon with Megapnosaurus, Camposaurus, and Podokesaurus. It is also closely related to Liliensternus, Procompsognathus, ?Pterospondylus, ?Segisaurus and ?Gojirasaurus. Yates (2005) analyzed Coelophysis and Megapnosaurus and concluded that the two genera are almost identical, and suggested that Megapnosaurus was possibly synonymous with Coelophysis.[24] In 2004, Raath co-authored two papers in which he argued that Megapnosaurus (formerly Syntarsus) was a junior synonym of Coelophysis.[25] Megapnosaurus is regarded by Paul (1988) and Downs (2000) as being congeneric with Coelophysis.[6][26] Then in 1993, Paul suggested that Coelophysis should be placed in Megapnosaurus (then known as Syntarsus) to get around the above-mentioned taxonomic confusion.[27] Downs (2000) examined Camposaurus and concluded that it is a junior synonym of Coelophysis, because of its similarity to some of the Coelophysis Ghost Ranch specimens.[26]
+Sullivan & Lucas (1999) referred one specimen from Cope's original material of Coelophysis (AMNH 2706) to what they thought was a newly discovered theropod, Eucoelophysis.[28] However, subsequent studies have shown that Eucoelophysis was misidentified, and is actually a primitive, non-dinosaurian ornithodiran closely related to Silesaurus.[29]
+Distinguishing anatomical features[edit]
+A diagnosis is a statement of the anatomical features of an organism (or group) that collectively distinguish it from all other organisms. Some, but not all, of the features in a diagnosis are also autapomorphies. An autapomorphy is a distinctive anatomical feature that is unique to a given organism or group.
+According to Ezcurra (2007), Coelophysis can be distinguished based on the following features:[30]
+
+the absence of an offset rostral process of the maxilla
+the quadrate is strongly caudally
+a small external mandibular fenestra, which is 9-10% of the mandibular length
+the anteroposterior length of the ventral lacrimal process is greater than 30% of its height (according to Bristowe and Raath, 2004)[31]
+
+Several paleontologists consider Coelophysis to be the same dinosaur as Megapnosaurus (formerly Syntarsus), however this has been refuted by the following:
+
+Downs (2000) concluded that Coelophysis differs from Megapnosaurus in cervical length, proximal and distal hindlimb proportions and proximal caudal vertebral anatomy[26]
+Tykoski and Rowe (2004) concluded that Coelophysis differs from Megapnosaurus in that it lacks a pit at the base of the nasal process of the premaxilla[32]
+Bristowe and Raath (2004) concluded that Coelophysis differs from Megapnosaurus in having a longer maxillary tooth row[31]
+
+Paleobiology[edit]
+Feeding[edit]
+
+
+
+
+Bones in a skeleton of C. bauri at the American Museum of Natural History, now interpreted as those of a crocodylomorph
+
+
+The teeth of Coelophysis were typical of predatory dinosaurs, blade-like, recurved, sharp and jagged with fine serrations on both the anterior and posterior edges. Its dentition shows that it was carnivorous, probably preying on the small, lizard-like animals that were discovered with it.[33] It may also have hunted in packs to tackle larger prey.[6]Coelophysis bauri has approximately 26 teeth on maxillary bone of the upper jaw and 27 teeth on the dentary bone of the lower jaw.[11] Carpenter (2002) examined the bio-mechanics of theropods forelimbs and attempted to evaluate their usefulness in predation. He concluded that the forelimb of Coelophysis was flexible and had a good range of motion, but its bone structure suggested that is was comparatively weak. The “weak” forelimbs and small teeth in this genus, suggested that Coelophysis preyed upon animals that were substantially smaller than itself. Rinehart et al. (2009) agreed that Coelophysis was a "hunter of small, fast-moving prey".[7] Carpenter (2002) also identified three distinct models of theropod forelimb use and noted that Coelophysis was a “combination grasper-clutcher” as compared to other dinosaurs that were “clutchers” or “long armed graspers”[34]
+It has been suggested that C. bauri was a cannibal, based on supposed juvenile specimens found "within" the abdominal cavities of some Ghost Ranch specimens. However, Rob Gay showed in 2002 that these specimens were misinterpreted. Several specimens of "juvenile coelophysids" were actually small crurotarsan reptiles such as Hesperosuchus.[35] Gay's position was lent support in a 2006 study by Nesbitt et al.[36] In 2009, new evidence of cannibalism came to light when additional preparation of previously excavated matrix revealed regurgitate material in and around the mouth of Coelophysis specimen NMMNH P-44551. This material included tooth and jaw bone fragments that Rinehart et al. considered "morphologically identical" to a juvenile Coelophysis.
+In 2010, Gay examined the bones of juveniles found within the chest (thoracic) cavity of AMNH 7224, and calculated that the total volume of these bones was 17 times greater than the maximum estimated stomach volume of the Coelophysis specimen. Gay observed that the total volume would be even greater when considering that there would have been flesh on these bones. This analysis also noted the absence of tooth marks on the bones as would be expected in defleshing, and the absence of expected pitting by stomach acids. Finally Gay demonstrated that the alleged cannibalized juvenile bones, were deposited stratigraphically below the larger animal that supposedly cannibalized them. Taken together these data suggested that the Coelophysis specimen AMNH 7224 was not a cannibal and that the bones of the juvenile and adult specimens were found in their final position as a result of "coincidental superposition of different sized individuals."[37]
+Pack behavior[edit]
+
+
+
+
+Two C. bauri specimens mounted at the Denver Museum of Nature and Science
+
+
+The discovery of over 1000 specimens of Coelophysis at the Whitaker quarry at Ghost Ranch, has suggested gregarious behavior to researchers like Schwartz and Gillette.[38] There is a tendency to see this massive congregation of animals as evidence for huge packs of Coelophysis roaming the land. The television series Walking with Dinosaurs, for example, showed small flocks together (and did not cite the Ghost Ranch deposits as evidence). No direct evidence for flocking exists; the deposits only indicate that large numbers of Coelophysis, along with other Triassic animals, were buried together. Some of the evidence from the taphonomy of the site indicates that these animals may have been gathered together to feed or drink from a depleted water hole or to feed on a spawning run of fish, and then became buried in a catastrophic flash flood.
+Growth[edit]
+Rinehart (2009) assessed the ontogenic growth of this genus using data gathered from the length of its upper leg bone (femur) and concluded that Coelophysis juveniles grew rapidly like birds (and not slowly like reptiles), especially during the first year of life.[7] Coelophysis likely reached sexual maturity between the second and third year of life and reached its full size, just above 10 feet in length, by its eighth year. This study identified four distinct growth stages: 1-year, 2-year, 4-year, and 7+ year.[7]
+Reproduction[edit]
+Through the compilation and analysis of a database of nearly three dozen birds and reptiles, and comparison with existing data about the anatomy of Coelophysis Rinehart et al. (2009) drew the following conclusions. It was estimated that average egg of Coelophysis was 31-33.5 millimeters across its minor diameter, and that each female would lay between 24-26 eggs in each clutch. The evidence suggested that some parental care was necessary to nurture the relatively small hatchlings during the first year of life, where they would reach 1.5 meters in length by the end of their first growth stage. Coelophysis bauri invested as much energy in reproduction as other extinct reptiles of its approximate size.[7][39]
+Paleopathology[edit]
+In a 2001 study conducted by Bruce Rothschild and other paleontologists, 14 foot bones referred to Coelophysis were examined for signs of stress fracture, but none were found.[40]
+Paleoecology[edit]
+Provenance and Occurrence[edit]
+Specimens of Coelophysis have been recovered at the Ghost Ranch (Whitaker) quarry of the Chinle Formation in New Mexico, the Petrified Forest Member of the Chinle Formation in Arizona and New Mexico, and the Bull Canyon Formation in Texas. In Ghost Ranch, Coelophysis was discovered in sediments deposited between the Rhaetian stage of the Triassic and the Hettangian stage of the Jurassic, approximately 208 to 199 million years ago. In the Petrified Forest Member of the Chinle Formation, this genus was discovered in strata that are from the Norian stage of the Late Triassic, approximately 228 to 208 million years ago. In Bull Canyon, Coelophysis was discovered in sediments deposited during the Norian stage of the Late Triassic, approximately 228 to 208 million years ago.
+Fauna and Habitat[edit]
+Ghost Ranch was located close to the equator 200 million years ago, and had a warm, monsoon-like climate with heavy seasonal precipitation. Hayden Quarry, a new excavation site at Ghost Ranch, New Mexico, has yielded a diverse collection of fossil material that included the first evidence of dinosaurs and less-advanced dinosauromorphs from the same time period. The discovery indicates that the two groups lived together during the early Triassic period 235 million years ago.[41]
+Therrien and Fastovsky (2001) examined the paleoenvironment of Coelophysis and other early theropods from Petrified Forest National Park in Arizona, and determined that this genus lived during the Late Triassic in an environment that consisted of floodplains marked by distinct dry and wet seasons. There was a great deal of competition during drier times when animals struggled for water in riverbeds that were drying up.[42] A contemporary of Coelophysis in Bull Canyon Formation was the phytosaur Rutiodon, several aetosaurs, an archosauriform Technosaurus, and the dinosaurs Chindesaurus, Revueltosaurus and Lucianosaurus.
+Taphonomy[edit]
+
+
+
+
+Block of specimens, New Mexico Museum
+
+
+The multitude of specimens deposited so closely together at Ghost Ranch was probably the result of a flash flood, which swept away a large number of Coelophysis and buried them quickly and simultaneously. In fact, it seems that such flooding was commonplace during this period of the Earth's history and, indeed, the Petrified Forest of nearby Arizona is the result of a preserved log jam of tree trunks that were caught in one such flood. Whitaker quarry at Ghost Ranch is considered a monotaxic site because it features multiple individuals of a single taxon. The quality of preservation and the ontogenic (= age) range of the specimens helped make Coelophysis one of the best known of all genera.[43] In 2009, Rinehart et al. noted that in one case the Coelophysis specimens were "washed into a topographic low containing a small pond, where they probably drowned and were buried by a sheet flood event from a nearby river."[7]
+Ichnology[edit]
+
+
+
+
+Grallator from Middletown, Connecticut
+
+
+Edwin H. Colbert has suggested that Connecticut Valley theropod footprints referred to the ichnogenus Grallator may have been made by Coelophysis.[44]
+In culture[edit]
+Coelophysis was the second dinosaur in space, following Maiasaura (STS-51-F).[45] A Coelophysis skull from the Carnegie Museum of Natural History was aboard the Space Shuttle Endeavour mission STS-89 when it left the atmosphere on January 22, 1998. It was also taken onto the space station Mir before being returned to Earth.[46]
+References[edit]
+
+
+^ http://paleodb.org/?a=TaxonInfo&taxon_no=38520
+^ Nesbitt, Irmis and Parker (2007). "A critical re-evaluation of the Late Triassic dinosaur taxa of North America." Journal of Palaeontology, 5(2): 209-243.
+^ a b c d e f g h i Carrano, Benson and Sampson (2012). "The phylogeny of Tetanurae (Dinosauria: Theropoda)." Journal of Systematic Palaeontology, 10: 211–300.
+^ a b Gaines, Richard M. (2001). Coelophysis. ABDO Publishing Company. p. 4. ISBN 1-57765-488-9. 
+^ Schwartz, Hilde L.; Gillette, David D. (1994). "Geology and taphonomy of the Coelophysis quarry, Upper Triassic Chinle Formation, Ghost Ranch, New Mexico". Journal of Paleontology 68 (5): 1118–1130. JSTOR 1306181. 
+^ a b c d Paul, Gregory S. (1988). Predatory Dinosaurs of the World. Simon & Schuster. p. 260. ISBN 0-671-61946-2. 
+^ a b c d e f g Rinehart, L. F., Lucas, S. G., Heckert, A. B., Spielmann, J. A., and Celesky, M. D., 2009, The paleobiology of Coelophysis bauri (Cope) from the Upper Triassic (Apachean) Whitaker quarry, New Mexico, with detailed analysis of a single quarry block: New Mexico Museum of Natural History & Science, a division of the Department of Cultural Affairs, Bulletin, 45, 260pp.
+^ a b Tykoski, R.S. & Rowe, T. (2004). "Ceratosauria". In: Weishampel, D.B., Dodson, P., & Osmolska, H. (Eds.) The Dinosauria (2nd edition). Berkeley: University of California Press. Pp. 47–70 ISBN 0-520-24209-2
+^ Gay, Robert J. 2001. "An unusual adaptation in the caudal vertebrae of Coelophysis bauri (Dinosauria: Theropoda)." PaleoBios 21: supplement to number 2. Page 55.
+^ Rinehart, L. F., Heckert, A. B., Lucas, S. G., and Hunt, A. P., 2004. The sclerotic ring of the Late Triassic theropod dinosaur Coelophysis: New Mexico Geology, v. 26, p. 64.
+^ a b c d e Colbert, Edwin. (1989) "The Triassic Dinosaur Coelophysis". Museum of Northern Arizona Bulletin.
+^ Raath, Michael A. (1990). "Morphological variation in small theropods and its meaning in systematics: evidence from Syntarsus rhodesiensis". In Carpenter, Kenneth & Currie, Philip J.. Dinosaur Systematics: Approaches and Perspectives. Cambridge: Cambridge University Press. pp. 91–105. ISBN 0-521-43810-1.
+^ Colbert, Edwin. 1990. in Dinosaur Systematics.
+^ Gay, R. 2005. Sexual Dimorphism in the Early Jurassic Theropod Dinosaur Dilophosaurus and a Comparison with Other Related Forms; pp. 277-283 in K. Carpenter (ed.), The Carnivorous Dinosaurs. Indiana University Press, Bloomington, IN.
+^ Rinehart, L.F., Lucas, S.G., and Heckert, A.B., Preliminary statistical analysis defining the juvenile, robust and gracile forms of the Triassic dinosaur Coelophysis. Journal of Vertebrate Paleontology, v. 21. p. 93
+^ Cope ED.(1889) "On a new genus of Triassic Dinosauria". American Naturalist xxiii p. 626
+^ Glut, D. F., 1999, Dinosaurs, the Encyclopedia, Supplement 1: McFarland & Company, Inc., 442pp.
+^ Hans-Dieter Sues, Sterling J. Nesbitt, David S. Berman and Amy C. Henrici (2011). "A late-surviving basal theropod dinosaur from the latest Triassic of North America". Proceedings of the Royal Society B 278 (1723): 3459–3464
+^ Hunt, A.P. and Lucas, S.G., (1991). "Rioarribasaurus, a new name for a Late Triassic dinosaur from New Mexico (USA). Paläontologische Zeitschrift 65 (1/2), 191-198.
+^ Colbert, E. H., Charig, A.J., Dodson, P., Gillette, D. D., Ostrom, J.H. & Weishampel, D.B. (1992). Coelurus bauri Cope, 1887 (currently Coelophysis bauri; Reptilia, Saurischia): Proposed replacement of the lectotype by a neotype. Bulletin of Zoological Nomenclature 49 (4), pp. 276-279.
+^ International Commission on Zoological Nomenclature, 1996. Opinion 1842: Coelurus bauri Cope, 1887 (currently Coelophysis bauri; Reptilia, Saurischia): lectotype replaced by a neotype. Bulletin of Zoological Nomenclature. 53 (2), 142-144.
+^ Talbot M (1911). "Podokesaurus holyokensis, a new dinosaur from the Triassic of the Connecticut Valley." Amer. Jour. Sci. 4 469-479
+^ Getty, P. R.; Bush, A. M. (2011). "Sand pseudomorphs of dinosaur bones: Implications for (non-) preservation of tetrapod skeletal material in the Hartford Basin, USA". Palaeogeography, Palaeoclimatology, Palaeoecology 302 (3–4): 407. doi:10.1016/j.palaeo.2011.01.029.  edit
+^ Yates, A.M. (2005). "A new theropod dinosaur from the Early Jurassic of South Africa and its implications for the early evolution of theropods". Palaeontologia Africana 41:105-122
+^ A. Bristowe and M. A. Raath. 2004. A juvenile coelophysoid skull from the Early Jurassic of Zimbabwe, and the synonymy of Coelophysis and Syntarsus. Palaeontologia Africana 40:31-41 [M. Carrano/M. Carrano]
+^ a b c Downs, 2000. Coelophysis bauri and Syntarsus rhodesiensis compared, with comments on the preparation and preservation of fossils from the Ghost Ranch Coelophysis quarry. in Lucas and Heckert (eds.), 2000. Dinosaurs of New Mexico. NMMNH Bulletin 17. 33-37.
+^ Paul GS. (1993) in New Mexico Museum of Natural History Bulletin.
+^ Sullivan, R.M. & Lucas, S.G., 1999. "Eucoelophysis baldwini, a new theropod dinosaur from the Upper Triassic of New Mexico, and the status of the original types of Coelophysis". Journal of Vertebrate Paleontology 19(1): 81-90
+^ Nesbitt, Sterling J.; Irmis, Randall B.; and Parker, William G. (2007). "A critical re-evaluation of the Late Triassic dinosaur taxa of North America". Journal of Systematic Palaeontology 5 (2): 209-243.
+^ Ezcurra, 2007. The cranial anatomy of the coelophysoid theropod Zupaysaurus rougieri from the Upper Triassic of Argentina. Historical Biology. 19(2), 185-202.
+^ a b Bristowe and Raath, 2004. A juvenile coelophysoid skull from the Early Jurassic of Zimbabwe, and the synonymy of Coelophysis and Syntarsus. Palaeontologia Africana.
+^ Tykoski and Rowe, 2004. Ceratosauria. In Weishampel, Dodson and Osmolska. The Dinosauria Second Edition. University of California Press. 861 pp.
+^ Dr. Michael Benton, Dinosaur and other prehistoric animal Fact Finder, 1992.
+^ Carpenter, K. (2002). "Forelimb bio-mechanics of non-avian theropod dinosaurs in predation". Senckenbergiana Lethaea 82: 59–76
+^ Gay, Robert J. 2002. "The myth of cannibalism in Coelophysis bauri." Journal of Vertebrate Paleontology 22(3); 57A
+^ Nesbitt, S.J., Turner, A.H., Erickson, G.M., and Norell, M.A. (2006). "Prey choice and cannibalistic behaviour in the theropod Coelophysis." Biology Letters, First Cite Early Online Publishing doi:10.1098/rsbl.2006.0524.
+^ Gay, R., 2010a, Evidence related to the cannibalism hypothesis in Coelophysis bauri from Ghost Ranch, New Mexico: In: Notes on Early Mesozoic Theropods, Lulu press, 9-24.
+^ Schwartz, Hilde L.; Gillette, David D. (1994). "Geology and taphonomy of the Coelophysis quarry, Upper Triassic Chinle Formation, Ghost Ranch, New Mexico". Journal of Paleontology 68 (5): 1118–1130. JSTOR 1306181
+^ Glut, D. F., 2012, Dinosaurs, the Encyclopedia, Supplement 7: McFarland & Company, Inc, 866pp.
+^ Rothschild, B., Tanke, D. H., and Ford, T. L., 2001, Theropod stress fractures and tendon avulsions as a clue to activity: In: Mesozoic Vertebrate Life, edited by Tanke, D. H., and Carpenter, K., Indiana University Press, p. 331-336.
+^ Braginetz, Donna. "A new species of dinosauromorph (lower left) was among the mixed assemblage of dinosaurs and dinosauromorphs found at Hayden Quarry in Ghost Ranch, N.M.". American Museum of Natural History. Retrieved 31 March 2013. 
+^ Therrien, Francois., Fastovsky, David E., 2000, Paleoenvironments of early theropods, Chinle Formation (Late Triassic), Petrified Forest National Park, Arizona: Palaios, v. 15, no. 3, p. 194-211.
+^ Glut, D. F., 2006, Dinosaurs, the Encyclopedia, Supplement 4: McFarland & Company, Inc, 749pp.
+^ Colbert, Edwin H. (1965). The Age of Reptiles. W. W. Norton & Company. p. 97. ISBN 0-486-29377-7. 
+^ "dino bones in space - was it a PR thing?". Retrieved 12 November 2011. 
+^ Steve Parker, 2003, Dinosaurus: the complete guide to dinosaurs. Firefly Books, ISBN 1-55297-772-2
+
+
+External links[edit]
+
+
+
+Wikimedia Commons has media related to Coelophysis.
+
+
+
+
+
+Wikispecies has information related to: Coelophysis
+
+
+
+Coelophysis in the Dino Directory
+Coelophysis at DinoData
+Coelophysis at New Mexico Museum of Natural History and Science
+
+
+
+
+
+Dinosaurs portal
+
+
+
+
+
+ 
+NewPP limit report
+CPU time usage: 8.197 seconds
+Real time usage: 8.638 seconds
+Preprocessor visited node count: 31617/1000000
+Preprocessor generated node count: 54548/1500000
+Post‐expand include size: 208656/2048000 bytes
+Template argument size: 127221/2048000 bytes
+Highest expansion depth: 39/40
+Expensive parser function count: 2/500
+Lua time usage: 0.080s
+Lua memory usage: 2.11 MB
+
+
+ Saved in parser cache with key enwiki:pcache:idhash:1091927-0!*!0!!en!4!* and timestamp 20131002130109 
+								
+				Retrieved from "http://en.wikipedia.org/w/index.php?title=Coelophysis&oldid=573838096"				
+												Categories: CoelophysoidsDinosaurs of North AmericaTriassic dinosaursSymbols of New MexicoMonotypic reptile generaHidden categories: Articles with 'species' microformats												
+							
+		
+		
+			Navigation menu
+			
+				
+	Personal tools
+	
+Create accountLog in	
+
+				
+					
+	Namespaces
+	
+					Article
+					Talk
+			
+
+
+	
+		
+	Variants
+	
+		
+					
+	
+
+				
+				
+					
+	Views
+	
+					Read
+					Edit
+					View history
+			
+
+
+	Actions
+	
+		
+					
+	
+
+
+	Search
+	
+				
+																				
+		
+	
+
+				
+			
+			
+					
+				
+	Navigation
+	
+		
+			Main page
+			Contents
+			Featured content
+			Current events
+			Random article
+			Donate to Wikipedia
+		
+	
+
+
+	Interaction
+	
+		
+			Help
+			About Wikipedia
+			Community portal
+			Recent changes
+			Contact page
+		
+	
+
+
+	Toolbox
+	
+		
+			What links here
+			Related changes
+			Upload file
+			Special pages
+			Permanent link
+			Page information
+			Data item
+Cite this page		
+	
+
+
+	Print/export
+	
+		
+			Create a book
+			Download as PDF
+			Printable version
+		
+	
+
+
+	Languages
+	
+		
+			العربية
+			Brezhoneg
+			Català
+			Česky
+			Dansk
+			Deutsch
+			Eesti
+			Español
+			فارسی
+			Français
+			Galego
+			Hrvatski
+			Italiano
+			Magyar
+			Nederlands
+			日本語
+			Norsk bokmål
+			Occitan
+			Polski
+			Português
+			Română
+			Русский
+			Simple English
+			Slovenčina
+			Srpskohrvatski / српскохрватски
+			Suomi
+			Svenska
+			Татарча/tatarça
+			Türkçe
+			Українська
+			中文
+			
+			Edit links
+		
+	
+
+			
+		
+		
+							
+											 This page was last modified on 20 September 2013 at 22:27.
+											Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. 
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+									
+							
+											Privacy policy
+											About Wikipedia
+											Disclaimers
+											Contact Wikipedia
+											Developers
+											Mobile view
+									
+										
+					
+						
+					
+					
+						
+					
+				
+						
+		
+		
+
+
+ Served by mw1042 in 0.211 secs. 
+	
+if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Coelophysis","wgTitle":"Coelophysis","wgCurRevisionId":573838096,"wgArticleId":1091927,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with 'species' microformats","Coelophysoids","Dinosaurs of North America","Triassic dinosaurs","Symbols of New Mexico","Monotypic reptile genera"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Coelophysis","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgVectorEnabledModules":{"collapsiblenav":true,"experiments":true},"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"templateEditor":false,"templates":false,"preview":false,"previewDialog":false,"publish":false,"toc":false},"wgArticleFeedbackv5Permissions":{"aft-reader":false,"aft-member":false,"aft-editor":false,"aft-monitor":false,"aft-administrator":false,"aft-oversighter":false,"aft-noone":false},"wgVisualEditor":{"isPageWatched":false,"magnifyClipIconURL":"//bits.wikimedia.org/static-1.22wmf18/skins/common/images/magnify-clip.png","pageLanguageCode":"en","pageLanguageDir":"ltr"},"wikilove-recipient":"","wikilove-anon":0,"wgGuidedTourHelpGuiderUrl":"Help:Guided tours/guider","wgULSAcceptLanguageList":["en-us","en"],"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia","aftv5Article":{"id":1091927,"title":"Coelophysis","namespace":0,"categories":["Articles with 'species' microformats","Coelophysoids","Dinosaurs of North America","Monotypic reptile genera","Symbols of New Mexico","Triassic dinosaurs"],"permissionLevel":false},"wgWikibaseItemId":"Q309392"});
+}if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":false,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,
+"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"useeditwarning":1,"prefershttps":1,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"vector-simplesearch":1,"vector-collapsiblenav":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"aftv5-last-filter":null,"visualeditor-enable":0,"visualeditor-enable-experimental":0,"visualeditor-betatempdisable":0,"wikilove-enabled":1,"echo-subscriptions-web-page-review":true,"echo-subscriptions-email-page-review":false,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"echo-notify-show-link":true,"echo-show-alert":true,"echo-email-frequency":0,"echo-email-format":"html","echo-subscriptions-email-system":true,"echo-subscriptions-web-system":true,"echo-subscriptions-email-other":false,"echo-subscriptions-web-other":true,"echo-subscriptions-email-edit-user-talk":false,"echo-subscriptions-web-edit-user-talk":true,
+"echo-subscriptions-email-reverted":false,"echo-subscriptions-web-reverted":true,"echo-subscriptions-email-article-linked":false,"echo-subscriptions-web-article-linked":false,"echo-subscriptions-email-mention":false,"echo-subscriptions-web-mention":true,"echo-subscriptions-web-edit-thank":true,"echo-subscriptions-email-edit-thank":false,"gettingstarted-task-toolbar-show-intro":true,"uls-preferences":"","language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs446":false,"searchNs447":false
+,"searchNs710":false,"searchNs711":false,"searchNs828":false,"searchNs829":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-mySandbox":1,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:156d8fe0ae17f8afd74198057563e45d */
+}if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","ext.visualEditor.viewPageTarget.init","ext.wikimediaShopLink.core","ext.uls.init","ext.uls.interface","wikibase.client.init","ext.centralNotice.bannerController","skins.vector.js"]);
+}/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}if(window.mw){
+mw.loader.load(["mobile.desktop","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.cite","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","mw.MwEmbedSupport.style","ext.vector.collapsibleNav","ext.articleFeedbackv5.startup","ext.gettingstarted.logging","ext.gettingstarted.openTask","schema.HttpsSupport","ext.coreEvents.httpsSupport","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","mw.PopUpMediaTransform"],null,true);
+}

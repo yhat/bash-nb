@@ -1,0 +1,65 @@
+#!/bin/bash
+
+words="$@"
+cat1="cryptids"
+cat2="dinosaurs"
+
+n_cat1=$(ls data/$cat1/* | wc -l)
+n_cat2=$(ls data/$cat2/* | wc -l)
+total=$(echo "$n_cat1+$n_cat2" | bc)
+
+cat1_words=$(cat data/${cat1}/* | awk '{$1=$1}1' OFS="\n" | tr '[:upper:]' '[:lower:]' | sort)
+cat2_words=$(cat data/${cat2}/* | awk '{$1=$1}1' OFS="\n" | tr '[:upper:]' '[:lower:]' | sort)
+
+
+echo "Samples of ${cat1}: $n_cat1"
+echo "Samples of ${cat2}: $n_cat2"
+echo "Total Samples: ${total}"
+echo
+
+cat1_len=$(echo ${#cat1})
+cat2_len=$(echo ${#cat2})
+
+padding=$(seq -s- ${cat1_len}| tr -d '[:digit:]')
+
+echo "-------------------${padding}--"
+echo "| Top 10 words for ${cat1} |"
+echo "-------------------${padding}--"
+echo $cat1_words | awk '{$1=$1}1' OFS="\n" | uniq -c | sort -r | head -n 10
+
+padding=$(seq -s- ${cat2_len}| tr -d '[:digit:]')
+echo "-------------------${padding}--"
+echo "| Top 10 words for ${cat2} |"
+echo "-------------------${padding}--"
+echo $cat2_words | awk '{$1=$1}1' OFS="\n" | uniq -c | sort -r | head -n 10
+echo
+
+prior_cat1=$(echo "scale=2; ${n_cat1} / ${total}" | bc)
+prior_cat2=$(echo "scale=2; ${n_cat2} / ${total}" | bc)
+
+n_words_cat1=$(echo ${cat1_words} | wc -w)
+n_words_cat2=$(echo ${cat2_words} | wc -w)
+
+echo "Prior ${cat1}: ${prior_cat1}"
+echo "Prior ${cat2}: ${prior_cat2}"
+
+for word in $(echo ${words})
+do
+    n_occur_cat1=$(echo $cat1_words | grep -o -E "${word}" | wc -l)
+    n_occur_cat2=$(echo $cat2_words | grep -o -E "${word}" | wc -l)
+
+    p_word_cat1=$(echo "scale=10; $n_occur_cat1 / $n_words_cat1" | bc)
+    p_word_cat2=$(echo "scale=10; $n_occur_cat2 / $n_words_cat2" | bc)
+
+    p_cat1_word=$(echo "scale=10;${p_word_cat1}*${prior_cat1}" | bc)
+    p_cat2_word=$(echo "scale=10;${p_word_cat2}*${prior_cat2}" | bc)
+
+    p_word_total=$(echo "scale=10; ${p_cat1_word} + ${p_cat2_word}" | bc)
+    p_cat1=$(echo "scale=10; ${p_cat1_word} / ${p_word_total}" | bc)
+    p_cat2=$(echo "scale=10; ${p_cat2_word} / ${p_word_total}" | bc)
+
+    echo "P(${cat1}|${word})=${p_cat1}"
+    echo "P(${cat2}|${word})=${p_cat2}"
+    echo "=============================="
+done
+

@@ -1,0 +1,407 @@
+
+
+
+Bambiraptor - Wikipedia, the free encyclopedia
+
+
+
+
+
+
+
+
+
+
+
+
+a:lang(ar),a:lang(ckb),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:0de201fdea5d684523607ed88007b127 */
+
+
+
+
+[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.22wmf19/skins/vector/csshover.min.htc")}</style><![endif]
+
+		
+		
+		
+			
+			
+						 CentralNotice 
+						Bambiraptor
+			
+								From Wikipedia, the free encyclopedia
+								
+												
+					Jump to:					navigation, 					search
+				
+				
+
+
+Bambiraptor
+Temporal range: Late Cretaceous, 72Ma
+
+PreЄ
+Є
+O
+S
+D
+C
+P
+T
+J
+K
+Pg
+N
+
+
+
+↓
+
+
+
+
+
+
+
+
+
+Restored skeleton of the juvenile specimen
+
+
+Scientific classification 
+
+
+Kingdom:
+Animalia
+
+
+Phylum:
+Chordata
+
+
+Clade:
+Sauropsida
+
+
+Clade:
+Dinosauria
+
+
+Clade:
+Theropoda
+
+
+Family:
+†Dromaeosauridae
+
+
+Clade:
+†Eudromaeosauria
+
+
+Subfamily:
+†Saurornitholestinae
+
+
+Genus:
+†Bambiraptor
+Burnham et al., 2000
+
+
+Species:
+†B. feinbergi
+Burnham et al., 2000
+
+
+Synonyms
+
+
+
+
+Bambiraptor feinbergorum Norell & Makovicky, 2004
+
+
+
+
+
+Bambiraptor is a Late Cretaceous, 75 million year old, bird-like dromaeosaurid theropod dinosaur described by scientists at the University of Kansas, Yale University, and the University of New Orleans.
+The holotype fossil is less than one meter long, although this specimen appears to be a juvenile,[1] and it is possible that Bambiraptor is really just a juvenile Saurornitholestes. Because of its small size, it was christened Bambiraptor feinbergi, after the familiar Disney movie character and the surname of the wealthy family who bought and lent the specimen to the new Graves Museum of Natural History in Florida.
+
+
+Contents
+
+
+1 Discovery
+2 Description
+
+2.1 Forelimbs
+2.2 Brain
+2.3 Feathers
+
+
+3 Phylogeny
+4 References
+5 External links
+
+
+Discovery[edit]
+
+
+
+
+Cast of the fossil slab
+
+
+The Bambiraptor skeleton was discovered in 1993 by 14-year-old fossil hunter Wes Linster, who was looking for dinosaur bones with his parents near Glacier National Park in Montana, United States. Linster told Time Magazine that he uncovered the skeleton on a tall hill and was amazed at his discovery. "I bolted down the hill to get my mom because I knew I shouldn't be messing with it", he said. The bones that Linster discovered on that hilltop led to the excavation of a skeleton that was approximately 95 percent complete. Because of its completeness Florida Paleontology Institute Director Martin Shugar compared it to the 'Rosetta Stone' that enabled archaeologists to translate Egyptian hieroglyphics. Yale paleontologist John Ostrom, who reintroduced the theory of bird evolution from dinosaurs after his 1964 discovery of Deinonychus in Wyoming, agreed, calling the specimen a "jewel", and telling reporters that the completeness and undistorted qualities of the bones should help scientists further understand the dinosaur-bird link.
+The fossil first was seen as the young of Saurornitholestes and in 1997 reported as belonging to a Velociraptor sp.[2] In 2000 it was named and described by David Burnham, Kraig Derstler, Phil Currie, Robert Bakker, Zhou Zhonge and John Ostrom as a separate species: Bambiraptor feinbergi. The generic name is derived from Bambi, in reference to the young age of the specimen, and a Latin raptor, "seizer". The specific epithet honours Michael and Ann Feinberg who acquired the specimen from a fossil dealer and made it available to science.[3] In 2000 George Olshevsky suggested the emended epithet "feinbergorum", the plural genitive, and this was followed by some authors but such emendations are no longer allowed by the ICZN.
+The holotype specimen AMNH FR 30554 (previously AMNH 001 and FIP 001), was uncovered in layers of the Upper Two Medicine Formation dating to the late Campanian. It is currently housed at the American Museum of Natural History, New York. It consists of a partially articulated largely complete skeleton with skull of a juvenile individual. Though the right side of the skeleton is damaged, most bones are uncompressed and well-preserved. The end of the tail is lacking. Also a paratype was assigned in 2000, FIP 002-136, consisting of thirty-four skeletal elements of at least two adult individuals found near the holotype. In 2004 an upper jaw bone was referred to the species, specimen MOR 553S-7-30-91-274.[4]
+Description[edit]
+While adult specimens are known, only the type specimen, a juvenile, has been described. This juvenile Bambiraptor has a preserved length of 90 centimetres (3.0 ft),[5] and an estimated total length of one metre. It perhaps weighed only two kilograms (4.4 lb). In 2010 Gregory S. Paul estimated the adult length at 1.3 metres, the weight at five kilogrammes.[6] It had long hindlimbs, indicating it could have been a fast runner. It also had very long arms and a well-developed wishbone.
+Forelimbs[edit]
+
+
+
+
+Restored skeleton in Oxford University Museum
+
+
+Research done by Phil Senter of the Lamar State College in Orange, Texas has indicated that Bambiraptor may have had mutually opposable first and third fingers and a forelimb maneuverability that would allow the hand to reach its mouth.[7] This would have given the animal the ability to "hold" food in its front limbs and place it in its mouth, in a similar manner to some modern-day small mammals.[8]
+Brain[edit]
+Bambiraptor had a brain size in the lower range of modern birds. Because of its enlarged cerebellum, which may indicate higher agility and higher intelligence than other dromaeosaurs, David A. Burnham has hypothesized that Bambiraptor feinbergi may have been arboreal. Life in the trees may have required evolutionary pressure that resulted in a larger brain. Burnham also offers an alternative hypothesis that a larger brain could be selected for as a result of hunting more agile prey items such as lizards and mammals. The Bambiraptor holotype had with 14 cm³ the largest brain for its size of any dinosaur yet discovered, although the brain size may be due to its age, because juvenile animals tend to have larger brain-to-body ratios compared to adults.
+Feathers[edit]
+
+
+
+
+Artist's restoration of the juvenile specimen
+
+
+During the conference where Bambiraptor was first introduced, the dinosaur reconstruction specialist Brian Cooley portrayed Bambiraptor as having feathers, despite the fact that no feathers were found with the fossil itself. His decision was influenced by the fact that because Bambiraptor within a cladistic analysis was a member of a group, Paraves, that contained feathered true birds and that was the sister taxon of Oviraptorosauria, a group that also had feathered forms (e.g. Caudipteryx, Bambiraptor most likely had feathers too due to phylogenetic bracketing. Most paleontologists support Cooley's view, and subsequent discoveries confirmed that small dromaeosaurid dinosaurs like Bambiraptor were fully covered in feathers (see Dromaeosauridae for more information).
+Phylogeny[edit]
+Bambiraptor was assigned to the Dromaeosauridae in 2000. Subsequent cladistic analyses differ in the position of Bambiraptor: it has been recovered in the Velociraptorinae, Microraptoria and most recently in the Saurornitholestinae.
+References[edit]
+
+^ http://www.amnh.org/exhibitions/dinosaurs/intro/newspecies.php.
+^ Burnham, D.A., Derstler K.L. and Linster, W., 1997, "A new specimen of Velociraptor (Dinosauria: Theropoda) from the Two Medicine Formation of Montana", Dinofest International Proceedings. pp 73-75
+^ Burnham, D.A., Derstler, K.L., Currie, P.J., Bakker, R.T., Zhou Z. & Ostrom J. H., 2000. "Remarkable new birdlike dinosaur (Theropoda: Maniraptora) from the Upper Cretaceous of Montana", University of Kansas Paleontological Contributions 13: 1-14
+^ Burnham, D. A. (2004). "New Information on Bambiraptor feinbergi from the Late Cretaceous of Montana". In Philip J. Currie, E.B. Koppelhus, M.A. Shugar, J.L. Wright (eds). Feathered Dragons: Studies on the Transition from Dinosaurs to Birds. Indianapolis: Indiana University Press. pp. 67–111. ISBN 0-253-34373-9. 
+^ Holtz, Thomas R. Jr. (2011) Dinosaurs: The Most Complete, Up-to-Date Encyclopedia for Dinosaur Lovers of All Ages, Winter 2010 Appendix.
+^ Paul, G.S., 2010, The Princeton Field Guide to Dinosaurs, Princeton University Press p. 135
+^ Senter, P., 2006, "Comparison of forelimb function between Deinonychus and Bambiraptor (Theropoda: Dromaeosauridae)", Journal of Vertebrate Paleontology, 26(4): 897-906
+^ http://www.newscientist.com/article.ns?id=dn11047.
+
+External links[edit]
+
+Bambiraptor at DinoData
+Details of the Oxford University Museum of Natural History exhibit (page 8)
+
+
+
+
+
+Dinosaurs portal
+
+
+
+
+
+ 
+NewPP limit report
+CPU time usage: 4.876 seconds
+Real time usage: 5.140 seconds
+Preprocessor visited node count: 27772/1000000
+Preprocessor generated node count: 42054/1500000
+Post‐expand include size: 74641/2048000 bytes
+Template argument size: 46800/2048000 bytes
+Highest expansion depth: 39/40
+Expensive parser function count: 1/500
+Lua time usage: 0.033s
+Lua memory usage: 1.22 MB
+
+
+ Saved in parser cache with key enwiki:pcache:idhash:1993708-0!*!0!!en!4!* and timestamp 20131001103144 
+								
+				Retrieved from "http://en.wikipedia.org/w/index.php?title=Bambiraptor&oldid=539655505"				
+												Categories: Cretaceous dinosaursDromaeosaursDinosaurs of North AmericaHidden categories: Articles with 'species' microformats												
+							
+		
+		
+			Navigation menu
+			
+				
+	Personal tools
+	
+Create accountLog in	
+
+				
+					
+	Namespaces
+	
+					Article
+					Talk
+			
+
+
+	
+		
+	Variants
+	
+		
+					
+	
+
+				
+				
+					
+	Views
+	
+					Read
+					Edit
+					View history
+			
+
+
+	Actions
+	
+		
+					
+	
+
+
+	Search
+	
+				
+																				
+		
+	
+
+				
+			
+			
+					
+				
+	Navigation
+	
+		
+			Main page
+			Contents
+			Featured content
+			Current events
+			Random article
+			Donate to Wikipedia
+		
+	
+
+
+	Interaction
+	
+		
+			Help
+			About Wikipedia
+			Community portal
+			Recent changes
+			Contact page
+		
+	
+
+
+	Toolbox
+	
+		
+			What links here
+			Related changes
+			Upload file
+			Special pages
+			Permanent link
+			Page information
+			Data item
+Cite this page		
+	
+
+
+	Print/export
+	
+		
+			Create a book
+			Download as PDF
+			Printable version
+		
+	
+
+
+	Languages
+	
+		
+			Català
+			Česky
+			Deutsch
+			Español
+			فارسی
+			Français
+			한국어
+			Hrvatski
+			Italiano
+			Magyar
+			Nederlands
+			日本語
+			Polski
+			Português
+			Русский
+			Slovenčina
+			Srpskohrvatski / српскохрватски
+			Suomi
+			Svenska
+			中文
+			
+			Edit links
+		
+	
+
+			
+		
+		
+							
+											 This page was last modified on 22 February 2013 at 13:54.
+											Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. 
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+									
+							
+											Privacy policy
+											About Wikipedia
+											Disclaimers
+											Contact Wikipedia
+											Developers
+											Mobile view
+									
+										
+					
+						
+					
+					
+						
+					
+				
+						
+		
+		
+
+
+ Served by mw1097 in 0.198 secs. 
+	
+if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Bambiraptor","wgTitle":"Bambiraptor","wgCurRevisionId":539655505,"wgRevisionId":539655505,"wgArticleId":1993708,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with 'species' microformats","Cretaceous dinosaurs","Dromaeosaurs","Dinosaurs of North America"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Bambiraptor","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgVectorEnabledModules":{"collapsiblenav":true,"experiments":true},"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"templateEditor":false,"templates":false,"preview":false,"previewDialog":false,"publish":false,"toc":false},"wgArticleFeedbackv5Permissions":{"aft-reader":true,"aft-member":false,"aft-editor":false,"aft-monitor":false,"aft-administrator":false,"aft-oversighter":false,"aft-noone":false},"wgVisualEditor":{"isPageWatched":false,"magnifyClipIconURL":"//bits.wikimedia.org/static-1.22wmf19/skins/common/images/magnify-clip.png","pageLanguageCode":"en","pageLanguageDir":"ltr"},"wikilove-recipient":"","wikilove-anon":0,"wgGuidedTourHelpGuiderUrl":"Help:Guided tours/guider","wgULSAcceptLanguageList":[],"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia","aftv5Article":{"id":1993708,"title":"Bambiraptor","namespace":0,"categories":["Articles with 'species' microformats","Cretaceous dinosaurs","Dinosaurs of North America","Dromaeosaurs"],"permissionLevel":false},"wgWikibaseItemId":"Q134207"});
+}if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":false,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,
+"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"useeditwarning":1,"prefershttps":1,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"vector-simplesearch":1,"vector-collapsiblenav":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"aftv5-last-filter":null,"visualeditor-enable":0,"visualeditor-enable-experimental":0,"visualeditor-betatempdisable":0,"wikilove-enabled":1,"echo-subscriptions-web-page-review":true,"echo-subscriptions-email-page-review":false,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"echo-notify-show-link":true,"echo-show-alert":true,"echo-email-frequency":0,"echo-email-format":"html","echo-subscriptions-email-system":true,"echo-subscriptions-web-system":true,"echo-subscriptions-email-other":false,"echo-subscriptions-web-other":true,"echo-subscriptions-email-edit-user-talk":false,"echo-subscriptions-web-edit-user-talk":true,
+"echo-subscriptions-email-reverted":false,"echo-subscriptions-web-reverted":true,"echo-subscriptions-email-article-linked":false,"echo-subscriptions-web-article-linked":false,"echo-subscriptions-email-mention":false,"echo-subscriptions-web-mention":true,"echo-subscriptions-web-edit-thank":true,"echo-subscriptions-email-edit-thank":false,"gettingstarted-task-toolbar-show-intro":true,"uls-preferences":"","language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs446":false,"searchNs447":false
+,"searchNs710":false,"searchNs711":false,"searchNs828":false,"searchNs829":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-mySandbox":1,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:156d8fe0ae17f8afd74198057563e45d */
+}if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","ext.visualEditor.viewPageTarget.init","ext.wikimediaShopLink.core","ext.uls.init","ext.uls.interface","wikibase.client.init","ext.centralNotice.bannerController","skins.vector.js"]);
+}/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}if(window.mw){
+mw.loader.load(["mobile.desktop","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.cite","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","mw.MwEmbedSupport.style","ext.vector.collapsibleNav","ext.articleFeedbackv5.startup","schema.HttpsSupport","ext.coreEvents.httpsSupport","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","mw.PopUpMediaTransform"],null,true);
+}

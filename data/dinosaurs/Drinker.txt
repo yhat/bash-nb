@@ -1,0 +1,333 @@
+
+
+
+Drinker - Wikipedia, the free encyclopedia
+
+
+
+
+
+
+
+
+
+
+
+
+a:lang(ar),a:lang(ckb),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:0de201fdea5d684523607ed88007b127 */
+
+
+
+
+[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.22wmf18/skins/vector/csshover.min.htc")}</style><![endif]
+
+		
+		
+		
+			
+			
+						 CentralNotice 
+						Drinker
+			
+								From Wikipedia, the free encyclopedia
+								
+												
+					Jump to:					navigation, 					search
+				
+				For other uses, see Drinker (disambiguation).
+
+
+
+Drinker
+Temporal range: Late Jurassic
+
+
+Scientific classification
+
+
+Kingdom:
+Animalia
+
+
+Phylum:
+Chordata
+
+
+Class:
+Sauropsida
+
+
+Superorder:
+Dinosauria
+
+
+Order:
+Ornithischia
+
+
+Suborder:
+Cerapoda
+
+
+Infraorder:
+Ornithopoda
+
+
+Family:
+Hypsilophodontidae
+
+
+Genus:
+Drinker
+
+
+Binomial name
+
+
+Drinker nisti
+Bakker et al., 1990
+
+
+
+Drinker (for Edward Drinker Cope) was a genus of hypsilophodont dinosaur from the late Jurassic period of North America. Although based on good remains, it remains obscure due to a lack of post-naming publications.
+
+
+Contents
+
+
+1 Description
+2 Classification
+3 Discovery and history
+4 Paleobiology
+5 References
+6 External links
+
+
+Description[edit]
+A relatively small dinosaur, Drinker was approximately 2 meters (6 ft) long and may have weighed up to 10 kilograms (22 lb).[1] It was a biped with short arms, a small head, and long, strong legs.
+Classification[edit]
+Drinker has sometimes been regarded informally as a possible synonym of contemporaneous Othnielia (now Othnielosaurus), but the latest reviews have kept it separate.[2][3] It has usually been regarded as a "hypsilophodont" of uncertain but basal affinities; Phyllodon from the Late Jurassic of Portugal may have been related.[3][4]
+Discovery and history[edit]
+In 1990, Robert Bakker, Peter Galton, James Siegwarth, and James Filla described the partial remains of Drinker nisti. The name is somewhat ironic; Drinker, named for renowned palaeontologist Edward Drinker Cope whose infamous "bone wars" with rival Othniel Charles Marsh produced many dinosaur fossils which are world-famous today, was described as a probable close relative of Othnielia, named for Marsh. The species name refers to the National Institute of Standards and Technology (NIST).[5]
+Discovered by Siegwarth and Filla in upper Morrison Formation beds at Como Bluff, Wyoming, Drinker was based on a partial subadult skeleton (CPS 106) including partial jaws, vertebrae, and partial limbs. Numerous additional specimens from the age spectrum found in the same area were assigned to it, mostly consisting of vertebral and hindlimb remains, and teeth. The authors considered it to be too archaic to be a true "hypsilophodont", particularly in teeth lacking a strong central vertical ridge, and placed it with Othnielia (Othnielosaurus) in a separate unnamed group.[5] Since 1990, little has been published on this genus. Drinker remains are present in stratigraphic zones 5 and 6.[6]
+Paleobiology[edit]
+Bakker (1990) described its environment as swampy (lungfish teeth and marsh vegetation were found in the area), and interpreted its broad feet with spreading toes as being well-suited to such an environment, especially compared to the narrow-footed stegosaurs and sauropods found elsewhere in the Morrison.[7] He later described tightly-packed pods of 6 to 35 individuals which he interpreted as representing groups of Drinker in burrows, perhaps drowned by flooding or killed by disease.[8] This interpretation has not attracted much attention from other workers. If Drinker was indeed a burrower, it would be among the first known for dinosaurs; the only well-supported published case of a fossorial nonavian dinosaur is the more recently discovered, distantly related Oryctodromeus.[9] Otherwise, it appears to have been like other basal ornithopods: a small bipedal herbivore. It lived alongside turtles, lungfish, and early mammals (Zofiabaatar, Foxraptor).[1]
+References[edit]
+
+
+^ a b Foster, J.R. (2003). Paleoecological Analysis of the Vertebrate Fauna of the Morrison Formation (Upper Jurassic), Rocky Mountain Region, U.S.A. New Mexico Museum of Natural History and Science Bulletin 23.
+^ Norman, D.B., Sues, H.-D., Witmer, L.M., and Coria, R.A. (2004). Basal Ornithopoda. In: Weishampel, D.B., Dodson, P., and Osmólska, H., (eds), The Dinosauria (second edition). University of California Press:Berkeley, pp. 392-412. ISBN 0-520-24209-2
+^ a b Galton, P.M. (2007). Teeth of ornithischian dinosaurs (mostly Ornithopoda) from the Morrison Formation (Upper Jurassic) of the western United States. In: K. Carpenter (ed.). Horns and Beaks: Ceratopsian and Ornithopod Dinosaurs. Indiana University Press: Bloomington and Indianapolis, pp. 17-47. ISBN 0-253-34817-X
+^ Rauhut, Oliver W.M. (2001). "Herbivorous dinosaurs from the Late Jurassic (Kimmeridgian) of Guimarota, Portugal". Proceedings of the Geologists' Association 112 (3): 275–283. doi:10.1016/S0016-7878(01)80007-9. 
+^ a b Bakker, R.T., Galton, P.M., Siegwarth, J., and Filla, J. (1990). A new latest Jurassic vertebrate fauna, from the highest levels of the Morrison Formation at Como Bluff, Wyoming. Part IV. The dinosaurs: A new Othnielia-like hypsilophodontoid. Hunteria 2(6): 8-14.
+^ Foster, J. (2007). "Appendix." Jurassic West: The Dinosaurs of the Morrison Formation and Their World. Indiana University Press. pp. 327-329.
+^ Bakker, R.T. (1990). A new latest Jurassic vertebrate fauna, from the highest levels of the Morrison Formation at Como Bluff, Wyoming, with comments on Morrison biochronology. Part I. Biochronology. Hunteria 2(6):1-3.
+^ Bakker, R. T. (1997). "Dinosaur mid-life crisis: the Jurassic-Cretaceous transition in Wyoming and Colorado". In Lucas, S.G., Kirkland, J.I., and Estep, J.W. (eds.). Lower and Middle Cretaceous Terrestrial Ecosystems. New Mexico Museum of Natural History and Science Bulletin 14. New Mexico Museum of Natural History and Science. pp. 67–77. 
+^ Varricchio, David J.; Martin, Anthony J.; and Katsura, Yoshihiro (2007). "First trace and body fossil evidence of a burrowing, denning dinosaur". Proceedings of the Royal Society B: Biological Sciences 274 (1616): 1361–1368. doi:10.1098/rspb.2006.0443. PMC 2176205. PMID 17374596. Retrieved 2007-03-22. 
+
+
+External links[edit]
+
+
+
+
+Dinosaurs portal
+
+
+
+
+Drinker and burrowing
+Brief capsule description at Thescelosaurus!
+
+
+
+ 
+NewPP limit report
+CPU time usage: 0.688 seconds
+Real time usage: 0.763 seconds
+Preprocessor visited node count: 3691/1000000
+Preprocessor generated node count: 17207/1500000
+Post‐expand include size: 16740/2048000 bytes
+Template argument size: 2046/2048000 bytes
+Highest expansion depth: 15/40
+Expensive parser function count: 0/500
+Lua time usage: 0.023s
+Lua memory usage: 1.31 MB
+
+
+ Saved in parser cache with key enwiki:pcache:idhash:3534760-0!*!0!!en!4!* and timestamp 20130923160459 
+								
+				Retrieved from "http://en.wikipedia.org/w/index.php?title=Drinker&oldid=552203537"				
+												Categories: Jurassic dinosaursDinosaurs of North AmericaOrnithopodsMorrison faunaFossil taxa described in 1990Hidden categories: Articles with 'species' microformats												
+							
+		
+		
+			Navigation menu
+			
+				
+	Personal tools
+	
+Create accountLog in	
+
+				
+					
+	Namespaces
+	
+					Article
+					Talk
+			
+
+
+	
+		
+	Variants
+	
+		
+					
+	
+
+				
+				
+					
+	Views
+	
+					Read
+					Edit
+					View history
+			
+
+
+	Actions
+	
+		
+					
+	
+
+
+	Search
+	
+				
+																				
+		
+	
+
+				
+			
+			
+					
+				
+	Navigation
+	
+		
+			Main page
+			Contents
+			Featured content
+			Current events
+			Random article
+			Donate to Wikipedia
+		
+	
+
+
+	Interaction
+	
+		
+			Help
+			About Wikipedia
+			Community portal
+			Recent changes
+			Contact page
+		
+	
+
+
+	Toolbox
+	
+		
+			What links here
+			Related changes
+			Upload file
+			Special pages
+			Permanent link
+			Page information
+			Data item
+Cite this page		
+	
+
+
+	Print/export
+	
+		
+			Create a book
+			Download as PDF
+			Printable version
+		
+	
+
+
+	Languages
+	
+		
+			العربية
+			Català
+			Deutsch
+			Español
+			Français
+			עברית
+			Nederlands
+			Polski
+			Simple English
+			中文
+			
+			Edit links
+		
+	
+
+			
+		
+		
+							
+											 This page was last modified on 26 April 2013 at 00:57.
+											Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. 
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+									
+							
+											Privacy policy
+											About Wikipedia
+											Disclaimers
+											Contact Wikipedia
+											Developers
+											Mobile view
+									
+										
+					
+						
+					
+					
+						
+					
+				
+						
+		
+		
+
+
+ Served by mw1094 in 0.238 secs. 
+	
+if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Drinker","wgTitle":"Drinker","wgCurRevisionId":552203537,"wgArticleId":3534760,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with 'species' microformats","Jurassic dinosaurs","Dinosaurs of North America","Ornithopods","Morrison fauna","Fossil taxa described in 1990"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Drinker","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgVectorEnabledModules":{"collapsiblenav":true,"experiments":true},"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"templateEditor":false,"templates":false,"preview":false,"previewDialog":false,"publish":false,"toc":false},"wgArticleFeedbackv5Permissions":{"aft-reader":false,"aft-member":false,"aft-editor":false,"aft-monitor":false,"aft-administrator":false,"aft-oversighter":false,"aft-noone":false},"wgVisualEditor":{"isPageWatched":false,"magnifyClipIconURL":"//bits.wikimedia.org/static-1.22wmf18/skins/common/images/magnify-clip.png","pageLanguageCode":"en","pageLanguageDir":"ltr"},"wikilove-recipient":"","wikilove-anon":0,"wgGuidedTourHelpGuiderUrl":"Help:Guided tours/guider","wgULSAcceptLanguageList":[],"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia","aftv5Article":{"id":3534760,"title":"Drinker","namespace":0,"categories":["Articles with 'species' microformats","Dinosaurs of North America","Fossil taxa described in 1990","Jurassic dinosaurs","Morrison fauna","Ornithopods"],"permissionLevel":false},"wgWikibaseItemId":"Q134751"});
+}if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":false,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,
+"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"useeditwarning":1,"prefershttps":1,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"vector-simplesearch":1,"vector-collapsiblenav":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"aftv5-last-filter":null,"visualeditor-enable":0,"visualeditor-enable-experimental":0,"visualeditor-betatempdisable":0,"wikilove-enabled":1,"echo-subscriptions-web-page-review":true,"echo-subscriptions-email-page-review":false,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"echo-notify-show-link":true,"echo-show-alert":true,"echo-email-frequency":0,"echo-email-format":"html","echo-subscriptions-email-system":true,"echo-subscriptions-web-system":true,"echo-subscriptions-email-other":false,"echo-subscriptions-web-other":true,"echo-subscriptions-email-edit-user-talk":false,"echo-subscriptions-web-edit-user-talk":true,
+"echo-subscriptions-email-reverted":false,"echo-subscriptions-web-reverted":true,"echo-subscriptions-email-article-linked":false,"echo-subscriptions-web-article-linked":false,"echo-subscriptions-email-mention":false,"echo-subscriptions-web-mention":true,"echo-subscriptions-web-edit-thank":true,"echo-subscriptions-email-edit-thank":false,"gettingstarted-task-toolbar-show-intro":true,"uls-preferences":"","language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs446":false,"searchNs447":false
+,"searchNs710":false,"searchNs711":false,"searchNs828":false,"searchNs829":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-mySandbox":1,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:156d8fe0ae17f8afd74198057563e45d */
+}if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","ext.visualEditor.viewPageTarget.init","ext.wikimediaShopLink.core","ext.uls.init","ext.uls.interface","wikibase.client.init","ext.centralNotice.bannerController","skins.vector.js"]);
+}/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}if(window.mw){
+mw.loader.load(["mobile.desktop","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.cite","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","mw.MwEmbedSupport.style","ext.vector.collapsibleNav","ext.articleFeedbackv5.startup","ext.gettingstarted.logging","ext.gettingstarted.openTask","schema.HttpsSupport","ext.coreEvents.httpsSupport","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","mw.PopUpMediaTransform"],null,true);
+}

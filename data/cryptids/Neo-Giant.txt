@@ -1,0 +1,974 @@
+
+
+
+Bigfoot - Wikipedia, the free encyclopedia
+
+
+
+
+
+
+
+
+
+
+a:lang(ar),a:lang(ckb),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:0de201fdea5d684523607ed88007b127 */
+
+
+
+
+[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.22wmf19/skins/vector/csshover.min.htc")}</style><![endif]
+
+		
+		
+		
+			
+			
+						 CentralNotice 
+						Bigfoot
+			
+								From Wikipedia, the free encyclopedia
+								  (Redirected from Neo-Giant)
+												
+					Jump to:					navigation, 					search
+				
+				"Sasquatch" redirects here. For other uses, see Sasquatch (disambiguation) and Bigfoot (disambiguation).
+
+
+Bigfoot
+
+(Sasquatch)
+
+
+
+Frame 352 from the Patterson-Gimlin film, alleged by Roger Patterson and Robert Gimlin to show a Bigfoot, and by some others to show a man in an ape suit.[1]
+
+
+
+Grouping
+Cryptid
+
+
+Sub grouping
+Hominid
+
+
+Country
+United States
+
+
+Habitat
+Forest
+
+
+Bigfoot, also known as sasquatch, is the name given to an ape-like creature that some people believe inhabits forests, mainly in the Pacific Northwest region of North America. Bigfoot is usually described as a large, hairy, bipedal humanoid. The term sasquatch is an anglicized derivative of the Halkomelem word sásq’ets.[2][3]
+Most scientists discount the existence of Bigfoot and consider it to be a combination of folklore, misidentification, and hoax,[4] rather than a living animal, because of the lack of physical evidence and the large numbers of creatures that would be necessary to maintain a breeding population.[5][6] A few scientists, such as Jane Goodall,[7][8] Grover Krantz, and Jeffrey Meldrum, have expressed interest and some measure of belief in the creature.[9]
+
+
+Contents
+
+
+1 Description
+2 History
+
+2.1 Before 1958
+2.2 After 1958
+
+
+3 Prominent reported sightings
+4 Proposed explanations for sightings
+
+4.1 Misidentification
+4.2 Hoaxes
+4.3 Gigantopithecus
+4.4 Extinct hominidae
+
+
+5 Scientific view
+6 Bigfoot DNA claim
+7 Bigfoot organizations
+8 Popular culture
+9 See also
+10 Footnotes
+11 Bibliography
+12 Further reading
+13 External links
+
+
+Description
+Bigfoot is described in reports as a large hairy ape-like creature, in a range of 2–3 m (6.6-9.8 ft) tall, weighing in excess of 500 pounds (230 kg), and covered in dark brown or dark reddish hair.[5][10] Purported witnesses have described large eyes, a pronounced brow ridge, and a large, low-set forehead; the top of the head has been described as rounded and crested, similar to the sagittal crest of the male gorilla. Bigfoot is commonly reported to have a strong, unpleasant smell by those who claim to have encountered it.[11] The enormous footprints for which it is named have been as large as 24 inches (60 cm) long and 8 inches (20 cm) wide.[10] While most casts have five toes — like all known apes — some casts of alleged Bigfoot tracks have had numbers ranging from two to six.[12] Some have also contained claw marks, making it likely that a portion came from known animals such as bears, which have five toes and claws.[13][14] Proponents claim that Bigfoot is omnivorous and mainly nocturnal.[15]
+History
+Before 1958
+Wildmen stories are found among the indigenous population of the Pacific Northwest. The legends existed prior to a single name for the creature.[16] They differed in their details both regionally and between families in the same community. Similar stories of wildmen are found on every continent except Antarctica.[16] Ecologist Robert Michael Pyle argues that most cultures have human-like giants in their folk history: "We have this need for some larger-than-life creature."[17]
+Members of the Lummi tell tales about Ts'emekwes, the local version of Bigfoot. The stories are similar to each other in terms of the general descriptions of Ts'emekwes, but details about the creature's diet and activities differed between the stories of different families.[18]
+Some regional versions contained more nefarious creatures. The stiyaha or kwi-kwiyai were a nocturnal race that children were told not to say the names of lest the monsters hear and come to carry off a person—sometimes to be killed.[19] In 1847, Paul Kane reported stories by the native people about skoocooms: a race of cannibalistic wild men living on the peak of Mount St. Helens.[13] The skoocooms appear to have been regarded as supernatural, rather than natural.[13]
+Less menacing versions such as the one recorded by Reverend Elkanah Walker exist. In 1840, Walker, a Protestant missionary, recorded stories of giants among the Native Americans living in Spokane, Washington. The Indians claimed that these giants lived on and around the peaks of nearby mountains and stole salmon from the fishermen's nets.[20]
+Various local legends were compiled by J. W. Burns in a series of Canadian newspaper articles in the 1920s. Each language had its own name for the local version. Many names meant something along the lines of "wild man" or "hairy man" although other names described common actions it was said to perform (e.g. eating clams).[21] Burns coined the term Sasquatch, which is from the Halkomelem sásq’ets (IPA: [ˈsæsqʼəts]),[2] and used it in his articles to describe a hypothetical single type of creature reflected in these various stories.[13][21][22] Burns's articles popularized both the legend and its new name, making it well known in western Canada before it gained popularity in the United States.[23]
+After 1958
+In 1951, Eric Shipton had photographed what he described as a Yeti footprint.[23] This photograph generated considerable attention and the story of the Yeti entered into popular consciousness. The notoriety of ape-men grew over the decade, culminating in 1958 when large footprints were found in Del Norte County, California by bulldozer operator Gerald Crew. Sets of large tracks appeared multiple times around a road-construction site in Bluff Creek. After not being taken seriously about what he was seeing, Crew brought in his friend, Bob Titmus, to cast the prints in plaster. The story was published in the Humboldt Times along with a photo of Crew holding one of the casts.[13]
+Locals had been calling the unseen track-maker "Big Foot" since the late summer, which Humboldt Times columnist Andrew Genzoli shortened to "Bigfoot" in his article.[24] Bigfoot gained international attention when the story was picked up by the Associated Press.[13][25] Following the death of Ray Wallace – a local logger – his family attributed the creation of the footprints to him.[5] The wife of L.W. “Scoop” Beal, the editor of the Humboldt Standard, which later combined with the Humboldt Times, in which Genzoli's story had appeared,[26] has stated that her husband was in on the hoax with Wallace.[27]
+1958 was a watershed year not just for the Bigfoot story itself but also for the culture that surrounds it. The first Bigfoot hunters appeared following the discovery of footprints at Bluff Creek, California. Within a year, Tom Slick, who had funded searches for Yeti in the Himalayas earlier in the decade, organized searches for Bigfoot in the area around Bluff Creek.[28]
+As Bigfoot has become better known and a phenomenon in popular culture, sightings have spread throughout North America. In addition to the Pacific Northwest, the Great Lakes region and the Southeastern United States have had many reports of Bigfoot sightings.[29]
+Prominent reported sightings
+
+
+
+
+Distribution of reported Bigfoot sightings in North America.
+
+
+About a third of all reports of Bigfoot sightings are concentrated in the Pacific Northwest, with most of the remaining reports spread throughout the rest of North America.[13][30][31] Some Bigfoot advocates, such as John Willison Green, have postulated that Bigfoot is a worldwide phenomenon.[32] The most notable reports include:
+
+1924: Prospector Albert Ostman claimed to have been abducted by Sasquatch and held captive by the creatures in British Columbia.[33]
+1924: Fred Beck claimed that he and four other miners were attacked one night in July 1924, by several "apemen" throwing rocks at their cabin in an area later called Ape Canyon, Washington.[34] Beck said the miners shot and possibly killed at least one of the creatures, precipitating an attack on their cabin, during which the creatures bombarded the cabin with rocks and tried to break in. The supposed incident was widely reported at the time.[35] Beck wrote a book about the alleged event in 1967, in which he argued that the creatures were mystical beings from another dimension, claiming that he had experienced psychic premonitions and visions his entire life of which the apemen were only one component.[36] Speleologist William Halliday argued in 1983 that the story arose from an incident in which hikers from a nearby camp had thrown rocks into the canyon.[37] There are also local rumors that pranksters harassed the men and planted faked footprints.[13]
+1941: Jeannie Chapman and her children said they had escaped their home when a 7.5 feet (2.3 m) tall Sasquatch approached their residence in Ruby Creek, British Columbia.[38]
+1958: Bulldozer operator Jerry Crew took to a newspaper office a cast of one of the enormous footprints he and other workers had seen at an isolated work site at Bluff Creek, California. The crew was overseen by Wilbur L. Wallace, brother of Raymond L. Wallace. After Ray Wallace's death, his children came forward with a pair of 16-inch (41 cm) wooden feet, which they said their father had used to fake the Bigfoot tracks in 1958.[5][13] Wallace is poorly regarded by many Bigfoot proponents. John Napier wrote, "I do not feel impressed with Mr. Wallace's story" regarding having over 15,000 feet (4,600 m) of film showing Bigfoot.[39]
+1967: Roger Patterson and Robert Gimlin reported that on October 20 they had captured a purported Sasquatch on film at Bluff Creek, California. This came to be known as the Patterson-Gimlin film. Many years later, Bob Heironimus, an acquaintance of Patterson's, said that he had worn an ape costume for the making of the film.[13] However, Patterson and Gimlin claimed that they sought various experts to examine the film. Patterson claimed to have screened the film for unnamed technicians "in the special effects department at Universal Studios in Hollywood ... Their conclusion was: 'We could try (faking it), but we would have to create a completely new system of artificial muscles and find an actor who could be trained to walk like that. It might be done, but we would have to say that it would be almost impossible.'"[40]
+2007: On September 16, 2007, hunter Rick Jacobs captured an image of a supposed Sasquatch by using an automatically triggered camera attached to a tree,[41] prompting a spokesperson for the Pennsylvania Game Commission to say that it was probably an image of "a bear with a severe case of mange."[42] The photo was taken near the town of Ridgway, Pennsylvania, in the Allegheny National Forest.[43][44]
+
+Proposed explanations for sightings
+Various types of creatures have been suggested to explain both the sightings and what type of creature Bigfoot would be if it existed. The scientific community typically attributes sightings to either hoaxes or misidentification of known animals and their tracks. While cryptozoologists generally explain Bigfoot as an unknown ape, some believers in Bigfoot attribute the phenomenon to UFOs or other paranormal causes.[45]
+Misidentification
+
+
+
+
+Photo of an unidentified animal the Bigfoot Research Organization claims is a "juvenile Sasquatch"[46]
+
+
+In 2007, the Pennsylvania Game Commission said that photos the Bigfoot Field Researchers Organization claimed showed a juvenile Bigfoot were probably of a bear with mange.[43][47] Jeffrey Meldrum, on the other hand, said the limb proportions of the suspected juvenile in question were not bear-like, and stated that he felt they were "more like a chimpanzee."[48]
+Hoaxes
+Both scientists and Bigfoot believers agree that many of the sightings are hoaxes or misidentified animals.[12]
+Bigfoot sightings or footprints are often demonstrably hoaxes. Author Jerome Clark argues that the Jacko Affair, involving an 1884 newspaper report of an apelike creature captured in British Columbia, was a hoax. Citing research by John Green, who found that several contemporary British Columbia newspapers regarded the alleged capture as very dubious, Clark notes that the Mainland Guardian of New Westminster, British Columbia, wrote, "Absurdity is written on the face of it."[49]
+On July 14, 2005, Tom Biscardi, a long-time Bigfoot enthusiast and CEO of Searching for Bigfoot Inc., appeared on the Coast to Coast AM paranormal radio show and announced that he was "98% sure that his group will be able to capture a Bigfoot which they have been tracking in the Happy Camp, California area."[50] A month later, Biscardi announced on the same radio show that he had access to a captured Bigfoot and was arranging a pay-per-view event for people to see it. Biscardi appeared on Coast to Coast AM again a few days later to announce that there was no captive Bigfoot. Biscardi blamed an unnamed woman for misleading him and the show's audience for being gullible.[50]
+On July 9, 2008, Rick Dyer and Matthew Whitton posted a video to YouTube claiming that they had discovered the body of a dead Sasquatch in a forest in northern Georgia. Tom Biscardi was contacted to investigate. Dyer and Whitton received $50,000 from Searching for Bigfoot, Inc., as a good faith gesture.[51] The story of the men's claims was covered by many major news networks, including BBC,[52] CNN,[53] ABC News,[54] and Fox News.[55] Soon after a press conference, the alleged Bigfoot body arrived in a block of ice in a freezer with the Searching for Bigfoot team. When the contents were thawed, it was discovered that the hair was not real, the head was hollow, and the feet were rubber.[56] Dyer and Whitton subsequently admitted it was a hoax after being confronted by Steve Kulls, executive director of Squatchdetective.com.[57]
+In August 2012, a man in Montana was killed by a car while perpetrating a Bigfoot hoax using a ghillie suit.[58][59]
+Gigantopithecus
+
+
+
+
+Fossil jaw of Gigantopithecus blacki, an extinct primate
+
+
+Bigfoot proponents Grover Krantz and Geoffrey Bourne believed that Bigfoot could be a relict population of Gigantopithecus. Bourne contends that as all Gigantopithecus fossils were found in Asia, and as many species of animals migrated across the Bering land bridge, it is not unreasonable to assume that Gigantopithecus might have as well.[60]
+The Gigantopithecus hypothesis is generally considered entirely speculative. Gigantopithecus fossils are not found in the Americas. As the only recovered fossils are of mandibles and teeth, there is some uncertainty about Gigantopithecus's locomotion. Krantz has argued, based on his extrapolation of the shape of its mandible, that Gigantopithecus blacki could have been bipedal. However, the relevant part of mandible is not present in any fossils.[61] The mainstream view is that Gigantopithecus was quadrupedal, and it has been argued that Gigantopithecus's enormous mass would have made it difficult for it to adopt a bipedal gait.
+Matt Cartmill presents another problem with the Gigantopithecus hypothesis: "The trouble with this account is that Gigantopithecus was not a hominin and maybe not even a crown-group hominoid; yet the physical evidence implies that Bigfoot is an upright biped with buttocks and a long, stout, permanently adducted hallux. These are hominin autapomorphies, not found in other mammals or other bipeds. It seems unlikely that Gigantopithecus would have evolved these uniquely hominin traits in parallel."[62]
+Bernard G. Campbell wrote: "That Gigantopithecus is in fact extinct has been questioned by those who believe it survives as the Yeti of the Himalayas and the Sasquatch of the north-west American coast. But the evidence for these creatures is not convincing."[63]
+Extinct hominidae
+A species of Paranthropus, such as Paranthropus robustus, with its crested skull and bipedal gait, was suggested by primatologist John Napier and anthropologist Gordon Strasenburg as a possible candidate for Bigfoot's identity,[64] despite the fact that fossils of Paranthropus are found only in Africa.
+Michael Rugg, of the Bigfoot Discovery Museum, presented a comparison between human, Gigantopithecus and Meganthropus skulls (reconstructions made by Grover Krantz) in episodes 131 and 132 of the Bigfoot Discovery Museum Show.[65] He favorably compares a modern tooth suspected of coming from a Bigfoot to the Meganthropus fossil teeth, noting the worn enamel on the occlusal surface. The Meganthropus fossils originated from Asia, and the tooth was found near Santa Cruz, California.
+Some suggest Neanderthal, Homo erectus, or Homo heidelbergensis to be the creature, but no remains of any of those species have been found in the Americas.[66]
+Scientific view
+See also: Formal studies of Bigfoot
+The scientific community discounts the existence of Bigfoot, as there is no evidence supporting the survival of such a large, prehistoric ape-like creature. The evidence that does exist points more towards a hoax or delusion than to sightings of a genuine creature.[5] In a 1996 USA Today article, Washington State zoologist John Crane said, "There is no such thing as Bigfoot. No data other than material that's clearly been fabricated has ever been presented."[17] In addition to the lack of evidence, scientists cite the fact that Bigfoot is alleged to live in regions unusual for a large, nonhuman primate, i.e., temperate latitudes in the northern hemisphere; all recognized nonhuman apes are found in the tropics of Africa and Asia.
+As with other proposed megafauna cryptids, climate and food supply issues would make such a creature's survival in reported habitats unlikely.[67] Great apes are not found in the fossil record in the Americas, and no Bigfoot remains are known to have been found. Scientific consensus is that the breeding population of such an animal would be so large that it would account for many more purported sightings than currently occur, making the existence of such an animal an almost certain impossibility.[6] In the 1970s, when Bigfoot "experts" were frequently given high-profile media coverage, the scientific community generally avoided lending credence to the theories by debating them.[68]
+A few scientists have been less skeptical about the claims of the existence of Sasquatch. Idaho university professor Jeffrey Meldrum characterizes the search for Sasquatch as "a valid scientific endeavor",[citation needed] and says that the fossil remains of an ancient giant ape called Gigantopithecus could turn out to be ancestors of today’s commonly known Bigfoot.[69] John Napier asserts that the scientific community's attitude towards Bigfoot stems primarily from insufficient evidence.[70] Other scientists who have shown varying degrees of interest in the legend are anthropologist David Daegling,[71] field biologist George Schaller,[17][72][73] Russell Mittermeier, Daris Swindler, Esteban Sarmiento,[74] and discredited racial anthropologist Carleton S. Coon.[75]
+Jane Goodall, in a September 27, 2002, interview on National Public Radio's "Science Friday", expressed her ideas about the existence of Bigfoot. First stating "I'm sure they exist", she later went on to say, chuckling, "Well, I'm a romantic, so I always wanted them to exist", and finally: "You know, why isn't there a body? I can't answer that, and maybe they don't exist, but I want them to."[7] In 2012, Goodall said, "I'm fascinated and would actually love them to exist."[8]
+Bigfoot DNA claim
+After what The Huffington Post described as "a five-year study of purported Bigfoot (also known as Sasquatch) DNA samples,"[76] Texas veterinarian Melba Ketchum and her team announced that they had found proof that the Sasquatch "is a human relative that arose approximately 15,000 years ago as a hybrid cross of modern Homo sapiens with an unknown primate species." Ketchum called for this to be recognized officially, saying that "Government at all levels must recognize them as an indigenous people and immediately protect their human and Constitutional rights against those who would see in their physical and cultural differences a 'license' to hunt, trap, or kill them."[77]
+Failing to find a scientific journal that would publish their results, Ketchum announced on February 13, 2013 that their research had been published in the DeNovo Journal of Science. The Huffington Post discovered that the domain had been registered anonymously only nine days before the announcement. The only edition of DeNovo was listed as Volume 1, Issue 1, and its only content was the Bigfoot research. It cost $30 to read.[76][77][78] The site went down later in the year, replaced by an empty Wix account page.
+Bigfoot organizations
+There are several organizations dedicated to the research and investigation of Bigfoot sightings in the United States. The oldest and largest[citation needed] is the Bigfoot Field Researchers Organization (BFRO). The BFRO also provides a free database to individuals and other organizations. Their internet website includes reports from across North America that have been investigated by researchers to determine credibility.[79]
+
+
+
+Wikinews has related news: Reported Bigfoot sighting in Clarence, New York a hoax
+
+
+Popular culture
+Main article: Bigfoot in popular culture
+Bigfoot has had a demonstrable impact as a popular culture phenomenon. It has "become entrenched in American popular culture and it is as viable an icon as Michael Jordan" with more than forty-five years having passed since reported sightings in California, and neither an animal nor "a satisfying explanation as to why folks see giant hairy men that don't exist".[80]
+See also
+
+
+Ape Canyon
+Bigfoot trap
+Harry and the Hendersons
+Hibagon – Japan's Bigfoot
+List of cryptids
+Mogollon Monster
+Sasquatch, the Legend of Bigfoot
+Sasquatch: Legend Meets Science
+Skookum cast
+The Legend of Boggy Creek
+Tsul 'Kalu
+Wild Man of the Navidad
+Yeren – Mongolia's Bigfoot
+Yeti – The Himalayas' Bigfoot
+Yowie – Australia's Bigfoot
+
+
+Footnotes
+
+
+^ Long, Greg (2004). The Making of Bigfoot: The Inside Story. Prometheus Books. ISBN 1-59102-139-1. 
+^ a b Bright, William (2004). Native American Place Names of the United States. Norman: University of Oklahoma Press, pg. 422
+^ "Sasquatch". Dictionary.com Unabridged. Random House, Inc. Retrieved February 15, 2012. 
+^ Daegling 2004, pp. 62–63.
+^ a b c d e "Bigfoot [a.k.a. Abominable Snowman of the Himalayas, Mapinguari (the Amazon), Sasquatch, Yowie (Australia) and Yeti (Asia)]". The Skeptic's Dictionary. Archived from the original on September 14, 2008. Retrieved August 17, 2008. 
+^ a b Earls, Stephanie. "Bigfoot hunting". Archived from the original on January 29, 2010. Retrieved January 2, 2010. 
+^ a b "National Public Radio's Science Friday, September 27, 2002, Ira Flatow interviews Dr. Jane Goodall".  Missing or empty |url= (help)
+^ a b Moye, David (October 1, 2012). "Jane Goodall 'Fascinated' By Bigfoot (VIDEO)". The Huffington Post. Retrieved August 7, 2013. 
+^ "Evaluation of Alleged Sasquatch Footprints and their Inferred Functional Morphology". Retrieved October 18, 2010. 
+^ a b "Sasquatch". Encyclopædia Britannica. 2008. 
+^ "Sasquatch Smell / Aroma / Odor / Scent". Bigfoot Encounters. Retrieved August 15, 2008. 
+^ a b Radford, Benjamin (March/April 2002). "Bigfoot at 50 Evaluating a Half-Century of Bigfoot Evidence". Skeptical Inquirer. Retrieved August 17, 2008. 
+^ a b c d e f g h i j Nickell, Joe (January 2007). "Investigative Files: Mysterious Entities of the Pacific Northwest, Part I". Skeptical Inquirer. Retrieved October 20, 2009. 
+^ Bear signs, San Diego Natural History Museum.
+^ "Physiology". Bigfoot Field Research Organization. Retrieved August 19, 2008. 
+^ a b Daegling 2004, p. 28
+^ a b c Goodavage, Maria (May 24, 1996). "Hunt for Bigfoot Attracts True Believers". USA TODAY/bz050. 
+^ Rasmus, S. Michelle (Spring 200). "Repatriating Words: Local Knowledge in a Global Context". American Indian Quarterly 26 (2): 286–307 [292]. doi:10.1353/aiq.2003.0018. JSTOR 4128463. 
+^ Rigsby, Bruce. "Some Pacific Northwest Native Language Names for the Sasquatch Phenomenon". Bigfoot: Fact or Fantasy?. Retrieved August 18, 2008. 
+^ "The Diary of Elkanah Walker". Bigfoot Encounters. Retrieved August 1, 2007. 
+^ a b Meldrum, Jeff (2007). Sasquatch: Legend Meets Science. Macmillan. p. 50. ISBN 978-0-7653-1217-4. Retrieved February 19, 2010. 
+^ "Sasquatch". Merriam-Webster. Retrieved August 7, 2007. 
+^ a b "Bigfoot". Missing Links Primate Center. Archived from the original on April 20, 1999. Retrieved August 17, 2008. 
+^ Blu Buhs 2009, pp. 69, 75
+^ Krantz, Grover (1992). Big Footprints: A Scientific Inquiry into the Reality of Sasquatch. Johnson Books. p. 5. ISBN 1-55566-099-1. 
+^ Blu Buhs 2009, p. 241
+^ Driscoll, John (October 30, 2008). "Birth of Bigfoot". The Times-Standard (Eureka, CA). 
+^ Daegling 2004, p. 35
+^ "Geographical Database of Bigfoot/Sasquatch Sightings & Reports". BFRO. Archived from the original on February 28, 2009. Retrieved April 10, 2009. 
+^ "Geographical Database of Bigfoot/Sasquatch Sightings and Reports". Bigfoot Field Research Organization. Archived from the original on August 19, 2008. Retrieved August 19, 2008. 
+^ Cartmill, Matt (January 2008). "Bigfoot Exposed: An Anthropologist Examines America's Enduring Legend/Sasquatch: Legend Meets Science". American Journal of Physical Anthropology 135 (1): 118. doi:10.1002/ajpa.20691. 
+^ Green, John Willison (1978). Sasquatch – The Apes Among Us. Hancock House Publishing. p. 16. ISBN 0-88839-123-4. 
+^ Boys Life Magazine. Page 34 Published by The Boy Scouts of America. October 1980 
+^ Beck, Ronald A. "I Fought the Apemen of Mount St. Helens, WA.". bigfootencounters.com. Archived from the original on June 22, 2007. Retrieved August 1, 2007. 
+^ "Gorilla Seeahtik Indians and prospectors," Engineering and Mining Journal-Press, Aug 16, 1924, p.242.
+^ Beck, Fred; told to Ronald A. Beck. (1967) I Fought The Apemen of Mount St. Helens, WA.
+^ Halliday, William R. (1983). Ape Cave and the Mount St. Helens Apes. ISBN 1-886168-00-8. 
+^ Sanderson, Ivan T. "Sasquatch Classics: Ruby Creek". 
+^ Napier 1973, p. 89
+^ Hunter and Dahinden, 119.
+^ "Jacobs Photos – Pennsylvania, 9/16/2007". Bigfoot Field Research Organization. September 16, 2007. Retrieved January 12, 2010. 
+^ "Is It Bigfoot? Hunter’s Photos Ignite Debate". Foxnews.com. October 28, 2007. Retrieved February 16, 2011. 
+^ a b "Is this Bigfoot ... or is it a bear with bad skin?". Mail Online. October 30, 2007. Retrieved August 16, 2008. 
+^ Hart, Josh (October 30, 2007). "Rick Jacobs Bigfoot Pictures: Multiple Photos Now Online". Retrieved January 12, 2010. 
+^ Boston, Rob (December 2003). "Scenes from a Bigfoot Conference". Skeptical Inquirer. Retrieved August 19, 2008. 
+^ "Jacobs Photos". Retrieved September 16, 2009. 
+^ "Hunter's pics revive lively Bigfoot debate". MSNBC. October 29, 2007. Retrieved February 16, 2011. 
+^ "Young Sasquatch? ''Earthfiles Podcast 10-31-07''". Earthfiles333.com. October 31, 2007. Retrieved February 16, 2011. 
+^ Clark, Jerome (1993). Unexplained! 347 Strange Sightings, Incredible Occurrences and Puzzling Physical Phenomena. Visible Ink. p. 195. ISBN 0-8103-9436-7. 
+^ a b "Georgia Bigfoot body in freezer". Retrieved March 30, 2010. 
+^ Boone, Christian; Kathy Jefcoats (August 20, 2008). "Searching for Bigfoot group to sue Georgia hoaxers". The Atlanta Journal-Constitution. Archived from the original on December 6, 2008. 
+^ "Americans 'find body of Bigfoot'". BBC News. August 15, 2008. Retrieved March 31, 2010. 
+^ "Body proves Bigfoot no myth, hunters say". CNN. August 15, 2008. Archived from the original on March 18, 2010. Retrieved March 31, 2010. 
+^ Ki Mae Heusser (August 15, 2008). "Legend of Bigfoot: Discovery or Hoax?". ABC News. Retrieved March 30, 2010. 
+^ Wollan, Malia (September 16, 2008). "Georgia men claim hairy, frozen corpse is Bigfoot". Fox News. Retrieved April 1, 2010. 
+^ Keefe, Bob (August 19, 2008). "Bigfoot’s body a hoax, California site reveals". Cox News Service. Archived from the original on December 6, 2008. Retrieved April 1, 2010. 
+^ Ki Mae Heusser (August 19, 2008). "A Monster Discovery? It Was Just a Costume". ABC News. Archived from the original on September 29, 2008. Retrieved October 22, 2008. 
+^ Lynch, Rene (August 28, 2012). Bigfoot hoax ends badly: Montana jokester hit, killed by car. L.A. Times.
+^ Skeptical Inquirer, Vol. 36 #6, Nov. 2012, p. 9
+^ Bourne, Geoffrey H.; Cohen, Maury (1975). The Gentle Giants: The Gorilla Story. G.P. Putnam's Sons. p. 296. ISBN 0-399-11528-5. 
+^ Daegling 2004, p. 14
+^ Cartmill 2008, p. 117
+^ Campbell, Bernard G. (1979). Humankind Emerging. Little, Brown and Company. p. 100. ISBN 0-673-52170-2. Library of Congress Catalog Card No. 78-78234. 
+^ Coleman, Loren. "Scientific Names for Bigfoot". BFRO. Archived from the original on September 9, 2008. Retrieved August 19, 2008. 
+^ "Bigfoot Discovery Project Media". Archived from the original on April 19, 2010. Retrieved April 4, 2010. 
+^ Daegling 2004, p. 16
+^ Sjögren, Bengt (1980). Berömda vidunder. Settern. ISBN 91-7586-023-6. (Swedish)
+^ McLeod, Michael (2009). Anatomy of a beast: obsession and myth on the trail of Bigfoot. Berkley: University of California Press. p. 4. ISBN 978-0-520-25571-5. 
+^ Meldrum, Jeffrey (2006). When Legend Meets Science: A Scientific analysis to the Sasquatch – or Bigfoot – debate. Johnson Books. p. 320. ISBN 0-7653-1216-6. 
+^ Napier 1973
+^ Daegling 2004
+^ Bailey, Eric (April 19, 2003). "Bigfoot's Big Feat: New Life; A prankster's deeds revealed posthumously appeared to doom the legend.". The Los Angeles Times. pp. section A.1. Retrieved October 5, 2007. 
+^ Napier 1973, p. 197
+^ Stein, Theo (January 5, 2003). "Bigfoot Believers". The Denver Post. 
+^ Markotic, Vladimir; Krantz, Grover (1984). The Sasquatch and Other Unknown Primates. Western Publishers. p. 46. ISBN 0-919119-10-7. 
+^ a b Speigel, Lee (February 14, 2013). "Bigfoot DNA Tests: Science Journal's Credibility Called Into Question". Huffington Post. Retrieved March 1, 2013. 
+^ a b Nicholson, Eric (February 15, 2013). "A Texas Geneticist Apparently Invented a Science Journal to Publish Her DNA Proof of Bigfoot". Dallas Observer. Retrieved March 2, 2013. 
+^ Radford, Benjamin (February 14, 2013). "'Bigfoot DNA' Study Seeks Yeti Rights". Discovery.com. Retrieved March 1, 2013. 
+^ Coleman, Loren (2003). Bigfoot!:The True Story of Apes in America. Simon and Schuster. p. 233. ISBN 1439187789. 
+^ Daegling 2004, p. 4.
+
+
+Bibliography
+
+Blu Buhs, Joshua (2009). Bigfoot: the life and times of a legend. University of Chicago Press. ISBN 978-0-226-07979-0. 
+Daegling, David J. (2004). Bigfoot Exposed: An Anthropologist Examines America's Enduring Legend. Altamira Press. pp. 62–63. ISBN 0-7591-0539-1. 
+Napier, John Russell (1973). Bigfoot: The Sasquatch and Yeti in Myth and Reality. E.P. Dutton. ISBN 0-525-06658-6. 
+
+Further reading
+
+
+Arment, Arment (2006). The Historical Bigfoot. Coachwhip Publications. ISBN 1-930585-30-6. 
+Coleman, Loren (2003). Bigfoot!: The True Story of Apes in America. ISBN 1439187789. 
+Debenat, Jean-Paul; Paul H LeBlond; Christopher L Murphy (2009). Sasquatch/Bigfoot and the mystery of the Wild Man. Hancock House. ISBN 978-0-88839-685-3. 
+Guttilla, Peter (2009). The Bigfoot Files. ISBN 9781892264152. 
+
+
+External links
+
+
+
+Wikimedia Commons has media related to Bigfoot.
+
+
+
+Bigfoot at 50 Evaluating a Half-Century of Bigfoot Evidence
+Online article about Gigantopithecus that also includes relationship theory with Bigfoot and other similar cryptids, prehistoric-wildlife.com
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Cryptozoology and cryptobotany
+
+
+
+
+
+
+
+
+
+
+ 
+Overview
+
+
+
+
+
+
+
+
+
+
+
+Core topics
+
+
+
+
+Cryptid
+List of cryptids
+Zoology
+Botany
+Megafauna discovered in modern times
+Pseudoscience
+
+
+
+
+
+
+
+
+
+Cryptozoologists
+
+
+
+
+Bernard Heuvelmans
+Karl Shuker
+Jonathan Downes
+Jon-Erik Beckjord
+John Bindernagel
+Richard Freeman
+Loren Coleman
+Alexandr Mikhailovych Kondratov
+Roy Mackal
+Ivan T. Sanderson
+Organizations
+
+
+
+
+
+
+
+
+
+Books and television
+
+
+
+
+Animal X
+Arthur C. Clarke's Mysterious World
+Beast Hunter
+Beast Legends
+Destination Truth
+Fact or Faked: Paranormal Files
+Fortean TV
+In Search of...
+Is It Real?
+Lost Tapes
+MonsterQuest
+On the Track of Unknown Animals
+Sasquatch: Legend Meets Science
+The X Creatures
+The Secret Saturdays
+Weird Travels
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Zoological cryptids
+
+
+
+
+
+
+
+
+
+
+
+Africa
+
+
+
+
+Adjule
+Agogwe
+Emela-ntouka
+Ennedi tiger
+Gambo
+Grootslang
+Gustave
+Inkanyamba
+Kongamato
+Mbielu-Mbielu-Mbielu
+Mokele-mbembe
+Malawi terror beast
+Mamlambo
+Muhuru
+Nandi Bear
+Ngoubou
+Olitiau
+Nguma-monene
+Popobawa
+Salawa
+Trunko
+Zanzibar Leopard
+
+
+
+
+
+
+
+
+
+Asia
+
+
+
+
+Ahool
+Akkorokamui
+Almas
+Amomongo
+Ayia Napa sea monster
+Barmanou
+Batutut
+Bergman's Bear
+Brosno dragon
+Bukit Timah Monkey Man
+Buru
+Cat-fox
+Devil Bird
+Hibagon
+Issie
+Kappa
+Kting Voar
+Kussie
+Lake Tianchi Monster
+Lake Van Monster
+Maltese Tiger
+Mongolian Death Worm
+Monkey-man of Delhi
+Orang Pendek
+Phaya Naga
+Qilin
+Ropen
+Sigbin
+Sarimanok
+Sumxu
+Tsuchinoko
+Veo
+Yeren
+Yeti
+
+
+
+
+
+
+
+
+
+Australasia-
+Oceania
+
+
+
+
+Amomongo
+Blue Mountains panther
+Bunyip
+Ebu Gogo
+Four Mile Globster
+Gippsland phantom cat
+Globster
+Manaul
+Megalania
+Moehau
+Zuiyo-maru carcass
+New Zealand Globster
+Queensland Tiger
+Siyokoy
+Tasmanian Globster
+Thylacoleo
+Tikbalang
+Waitoreke
+Yowie
+
+
+
+
+
+
+
+
+
+Europe
+
+
+
+
+Afanc
+Ayia Napa sea monster
+Beast of Gévaudan
+Bishop-fish
+British big cats
+Canvey Island Monster
+Dahu
+Dobhar-chú
+Each uisge
+Eachy
+Elwetritsch
+Fear liath
+Fish-man of Liérganes
+Giglioli's Whale
+Hebrides Blob
+Jenny Haniver
+Kellas Cat
+Kraken
+Lagarfljót Worm
+Lariosauro
+Lindworm
+Loch Ness Monster
+Morag
+Morgawr
+Muc-sheilch
+Owlman
+Sea monk
+Sea serpent
+Selma
+Skvader
+Storsjöodjuret
+Stronsay Beast
+Tatzelwurm
+Wolpertinger
+
+
+
+
+
+
+
+
+
+North
+America
+
+
+
+
+Altamaha-ha
+Bear Lake Monster
+Beast of Bladenboro
+Beast of Bray Road
+Beast of Busco
+Bermuda Blob
+Bermuda Blob 2
+Bessie
+Bigfoot
+Cadborosaurus willsi
+Champ
+Chessie
+Chupacabra
+Crawfordsville monster
+Dover Demon
+Flatwoods monster
+Fouke Monster
+Goatman
+Grassman
+Hodag
+Homo gardarensis
+Honey Island Swamp monster
+Hoop snake
+Huay Chivo
+Igopogo
+Iliamna Lake Monster
+Jersey Devil
+Kingstie
+Lake Worth Monster
+Lizard Man of Scape Ore Swamp
+Loveland frog
+Lusca
+MacFarlane's bear
+Manipogo
+Melon heads
+Michigan Dogman
+Minnesota Iceman
+Momo the Monster
+Montauk Monster
+Mothman
+Mussie
+Nantucket Blob
+Newfoundland Blob
+Nuk-luk
+Ogopogo
+Old Yellow Top
+Ozark Howler
+Panama Creature
+Pope Lick Monster
+Shunka Warakin
+Sidehill gouger
+Skunk Ape
+St. Augustine Monster
+Tahoe Tessie
+Thunderbird
+Trinity Alps giant salamander
+Tsul 'Kalu
+Turtle Lake Monster
+Waheela
+Wampus cat
+
+
+
+
+
+
+
+
+
+South
+America
+
+
+
+
+Ameranthropoides loysi
+Andean Wolf
+Bloop
+Cherufe
+Chilean Blob
+Chupacabra
+Giant anaconda
+Mapinguari
+Minhocão
+Mono Grande
+Mylodon
+Nahuelito
+Peuchen
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Botanical cryptids
+
+
+
+
+
+
+
+
+
+Raskovnik
+Man-eating tree
+Umdhlebi
+Vegetable Lamb of Tartary
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+NewPP limit report
+CPU time usage: 2.328 seconds
+Real time usage: 3.142 seconds
+Preprocessor visited node count: 8440/1000000
+Preprocessor generated node count: 40273/1500000
+Post‐expand include size: 217129/2048000 bytes
+Template argument size: 20676/2048000 bytes
+Highest expansion depth: 25/40
+Expensive parser function count: 7/500
+Lua time usage: 0.249s
+Lua memory usage: 2.73 MB
+
+
+ Saved in parser cache with key enwiki:pcache:idhash:4009-0!*!0!!en!4!* and timestamp 20131003214045 
+								
+				Retrieved from "http://en.wikipedia.org/w/index.php?title=Bigfoot&oldid=575641221"				
+												Categories: American folkloreBigfootCalifornia cryptidsCalifornia cultureCanadian folkloreCryptozoologyCulture of British ColumbiaCulture of ManitobaCulture of the Pacific NorthwestCulture of SaskatchewanHominid cryptidsLegendary creatures of the indigenous peoples of North AmericaOregon cultureWashington (state) cultureAmerican folklore legendary creaturesCascadian folkloreHidden categories: Pages using web citations with no URLArticles with inconsistent citation formatsArticles with Swedish-language external linksUse mdy dates from April 2013Wikipedia indefinitely semi-protected pagesWikipedia indefinitely move-protected pagesAll articles with unsourced statementsArticles with unsourced statements from April 2011Articles with unsourced statements from December 2012Commons category template with no category setCommons category with page title same as on Wikidata												
+							
+		
+		
+			Navigation menu
+			
+				
+	Personal tools
+	
+Create accountLog in	
+
+				
+					
+	Namespaces
+	
+					Article
+					Talk
+			
+
+
+	
+		
+	Variants
+	
+		
+					
+	
+
+				
+				
+					
+	Views
+	
+					Read
+					View source
+					View history
+			
+
+
+	Actions
+	
+		
+					
+	
+
+
+	Search
+	
+				
+																				
+		
+	
+
+				
+			
+			
+					
+				
+	Navigation
+	
+		
+			Main page
+			Contents
+			Featured content
+			Current events
+			Random article
+			Donate to Wikipedia
+		
+	
+
+
+	Interaction
+	
+		
+			Help
+			About Wikipedia
+			Community portal
+			Recent changes
+			Contact page
+		
+	
+
+
+	Toolbox
+	
+		
+			What links here
+			Related changes
+			Upload file
+			Special pages
+			Permanent link
+			Page information
+			Data item
+Cite this page		
+	
+
+
+	Print/export
+	
+		
+			Create a book
+			Download as PDF
+			Printable version
+		
+	
+
+
+	Languages
+	
+		
+			العربية
+			Български
+			Bosanski
+			Català
+			Česky
+			Cymraeg
+			Dansk
+			Deutsch
+			Español
+			Esperanto
+			فارسی
+			Français
+			Galego
+			한국어
+			Hrvatski
+			Bahasa Indonesia
+			Italiano
+			עברית
+			Latina
+			Magyar
+			Македонски
+			Nederlands
+			日本語
+			Norsk bokmål
+			Occitan
+			Polski
+			Português
+			Română
+			Русский
+			Scots
+			Simple English
+			Slovenčina
+			Српски / srpski
+			Srpskohrvatski / српскохрватски
+			Suomi
+			Svenska
+			Tagalog
+			ไทย
+			Türkçe
+			Українська
+			Tiếng Việt
+			中文
+			
+			Edit links
+		
+	
+
+			
+		
+		
+							
+											 This page was last modified on 3 October 2013 at 21:40.
+											Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. 
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+									
+							
+											Privacy policy
+											About Wikipedia
+											Disclaimers
+											Contact Wikipedia
+											Developers
+											Mobile view
+									
+										
+					
+						
+					
+					
+						
+					
+				
+						
+		
+		
+
+
+ Served by mw1026 in 0.329 secs. 
+	
+if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Bigfoot","wgTitle":"Bigfoot","wgCurRevisionId":575641221,"wgRevisionId":575641221,"wgArticleId":4009,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Pages using web citations with no URL","Articles with inconsistent citation formats","Articles with Swedish-language external links","Use mdy dates from April 2013","Wikipedia indefinitely semi-protected pages","Wikipedia indefinitely move-protected pages","All articles with unsourced statements","Articles with unsourced statements from April 2011","Articles with unsourced statements from December 2012","Commons category template with no category set","Commons category with page title same as on Wikidata","American folklore","Bigfoot","California cryptids","California culture","Canadian folklore","Cryptozoology","Culture of British Columbia","Culture of Manitoba","Culture of the Pacific Northwest","Culture of Saskatchewan","Hominid cryptids","Legendary creatures of the indigenous peoples of North America","Oregon culture","Washington (state) culture","American folklore legendary creatures","Cascadian folklore"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Bigfoot","wgIsProbablyEditable":false,"wgRestrictionEdit":["autoconfirmed"],"wgRestrictionMove":["sysop"],"wgRedirectedFrom":"Neo-Giant","wgVectorEnabledModules":{"collapsiblenav":true,"experiments":true},"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"templateEditor":false,"templates":false,"preview":false,"previewDialog":false,"publish":false,"toc":false},"wgArticleFeedbackv5Permissions":{"aft-reader":true,"aft-member":false,"aft-editor":false,"aft-monitor":false,"aft-administrator":false,"aft-oversighter":false,"aft-noone":false},"wgVisualEditor":{"isPageWatched":false,"magnifyClipIconURL":"//bits.wikimedia.org/static-1.22wmf19/skins/common/images/magnify-clip.png","pageLanguageCode":"en","pageLanguageDir":"ltr"},"wikilove-recipient":"","wikilove-anon":0,"wgGuidedTourHelpGuiderUrl":"Help:Guided tours/guider","wgULSAcceptLanguageList":[],"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia","aftv5Article":{"id":4009,"title":"Bigfoot","namespace":0,"categories":["All articles with unsourced statements","American folklore","American folklore legendary creatures","Articles with Swedish-language external links","Articles with inconsistent citation formats","Articles with unsourced statements from April 2011","Articles with unsourced statements from December 2012","Bigfoot","California cryptids","California culture","Canadian folklore","Cascadian folklore","Commons category template with no category set","Commons category with page title same as on Wikidata","Cryptozoology","Culture of British Columbia","Culture of Manitoba","Culture of Saskatchewan","Culture of the Pacific Northwest","Hominid cryptids","Legendary creatures of the indigenous peoples of North America","Oregon culture","Pages using web citations with no URL","Use mdy dates from April 2013","Washington (state) culture","Wikipedia indefinitely move-protected pages","Wikipedia indefinitely semi-protected pages"],"permissionLevel":false},"wgWikibaseItemId":"Q44810"});
+}if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":false,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,
+"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"useeditwarning":1,"prefershttps":1,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"vector-simplesearch":1,"vector-collapsiblenav":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"aftv5-last-filter":null,"visualeditor-enable":0,"visualeditor-enable-experimental":0,"visualeditor-betatempdisable":0,"wikilove-enabled":1,"echo-subscriptions-web-page-review":true,"echo-subscriptions-email-page-review":false,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"echo-notify-show-link":true,"echo-show-alert":true,"echo-email-frequency":0,"echo-email-format":"html","echo-subscriptions-email-system":true,"echo-subscriptions-web-system":true,"echo-subscriptions-email-other":false,"echo-subscriptions-web-other":true,"echo-subscriptions-email-edit-user-talk":false,"echo-subscriptions-web-edit-user-talk":true,
+"echo-subscriptions-email-reverted":false,"echo-subscriptions-web-reverted":true,"echo-subscriptions-email-article-linked":false,"echo-subscriptions-web-article-linked":false,"echo-subscriptions-email-mention":false,"echo-subscriptions-web-mention":true,"echo-subscriptions-web-edit-thank":true,"echo-subscriptions-email-edit-thank":false,"gettingstarted-task-toolbar-show-intro":true,"uls-preferences":"","language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs446":false,"searchNs447":false
+,"searchNs710":false,"searchNs711":false,"searchNs828":false,"searchNs829":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-mySandbox":1,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:156d8fe0ae17f8afd74198057563e45d */
+}if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","ext.visualEditor.viewPageTarget.init","ext.wikimediaShopLink.core","ext.uls.init","ext.uls.interface","wikibase.client.init","ext.centralNotice.bannerController","skins.vector.js"]);
+}/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}if(window.mw){
+mw.loader.load(["mediawiki.action.view.postEdit","mobile.desktop","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.cite","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","mw.MwEmbedSupport.style","ext.vector.collapsibleNav","ext.articleFeedbackv5.startup","schema.HttpsSupport","ext.coreEvents.httpsSupport","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","mw.PopUpMediaTransform"],null,true);
+}

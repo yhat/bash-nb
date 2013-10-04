@@ -1,0 +1,802 @@
+
+
+
+Allosaurus - Wikipedia, the free encyclopedia
+
+
+
+
+
+
+
+
+
+
+
+
+a:lang(ar),a:lang(ckb),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:0de201fdea5d684523607ed88007b127 */
+
+
+
+
+[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.22wmf18/skins/vector/csshover.min.htc")}</style><![endif]
+
+		
+		
+		
+			
+			
+						 CentralNotice 
+						Allosaurus
+			
+								From Wikipedia, the free encyclopedia
+								
+												
+					Jump to:					navigation, 					search
+				
+				
+
+
+Allosaurus
+Temporal range: Late Jurassic, 155–150Ma
+
+PreЄ
+Є
+O
+S
+D
+C
+P
+T
+J
+K
+Pg
+N
+
+
+
+↓
+
+
+
+
+
+
+
+
+
+Mounted A. fragilis skeleton cast, San Diego Natural History Museum
+
+
+Scientific classification 
+
+
+Kingdom:
+Animalia
+
+
+Phylum:
+Chordata
+
+
+Clade:
+Sauropsida
+
+
+Clade:
+Dinosauria
+
+
+Clade:
+Theropoda
+
+
+Clade:
+†Carnosauria
+
+
+Family:
+†Allosauridae
+
+
+Subfamily:
+†Allosaurinae
+Marsh, 1877
+
+
+Genus:
+†Allosaurus
+Marsh, 1877
+
+
+Type species
+
+
+†Allosaurus fragilis
+Marsh, 1877
+
+
+Species
+
+
+
+
+†A. fragilis Marsh, 1877
+†A. europaeus? Mateus et al., 2006
+
+
+
+
+Synonyms
+
+
+
+
+Antrodemus? Leidy, 1873
+Creosaurus Marsh, 1878
+Epanterias? Cope, 1878
+Labrosaurus Marsh, 1879
+Saurophaganax? Chure, 1995
+
+
+
+
+
+Allosaurus /ˌælɵˈsɔrəs/ is a genus of large theropod dinosaur that lived 155 to 150 million years ago during the late Jurassic period (Kimmeridgian to early Tithonian[1]). The name "Allosaurus" means "different lizard". It is derived from the Greek ἄλλος/allos ("different, other") and σαῦρος/sauros ("lizard / generic reptile"). The first fossil remains that can definitely be ascribed to this genus were described in 1877 by paleontologist Othniel Charles Marsh, and it became known as Antrodemus. As one of the first well-known theropod dinosaurs, it has long attracted attention outside of paleontological circles. Indeed, it has been a top feature in several films and documentaries about prehistoric life.
+Allosaurus was a large bipedal predator. Its skull was large and equipped with dozens of large, sharp teeth. It averaged 8.5 m (28 ft) in length, though fragmentary remains suggest it could have reached over 12 m (39 ft). Relative to the large and powerful hindlimbs, its three-fingered forelimbs were small, and the body was balanced by a long and heavily muscled tail. It is classified as an allosaurid, a type of carnosaurian theropod dinosaur. The genus has a complicated taxonomy, and includes an uncertain number of valid species, the best known of which is A. fragilis. The bulk of Allosaurus remains have come from North America's Morrison Formation, with material also known from Portugal and possibly Tanzania. It was known for over half of the 20th century as Antrodemus, but study of the copious remains from the Cleveland-Lloyd Dinosaur Quarry brought the name "Allosaurus" back to prominence, and established it as one of the best-known dinosaurs.
+As the most abundant large predator in the Morrison Formation, Allosaurus was at the top of the food chain, probably preying on contemporaneous large herbivorous dinosaurs and perhaps even other predators). Potential prey included ornithopods, stegosaurids, and sauropods. Some paleontologists interpret Allosaurus as having had cooperative social behavior, and hunting in packs, while others believe individuals may have been aggressive toward each other, and that congregations of this genus are the result of lone individuals feeding on the same carcasses. It may have attacked large prey by ambush, using its upper jaw like a hatchet.
+
+
+Contents
+
+
+1 Description
+
+1.1 Skull
+1.2 Postcranial skeleton
+
+
+2 Classification
+3 Discovery and history
+
+3.1 Early discoveries and research
+3.2 Cleveland-Lloyd discoveries
+3.3 Recent work: 1980s–present
+
+3.3.1 "Big Al" and "Big Al Two"
+
+
+
+
+4 Species and taxonomy
+5 Paleoecology
+6 Paleobiology
+
+6.1 Life history
+6.2 Feeding
+6.3 Social behavior
+6.4 Brain and senses
+6.5 Paleopathology
+
+
+7 In popular culture
+8 References
+9 External links
+
+
+Description[edit]
+
+
+
+
+The size range of Allosaurus and possible synonym Epanterias (largest), compared with a human.
+
+
+Allosaurus was a typical large theropod, having a massive skull on a short neck, a long tail and reduced forelimbs. Allosaurus fragilis, the best-known species, had an average length of 8.5 m (28 ft),[2] with the largest definitive Allosaurus specimen (AMNH 680) estimated at 9.7 meters long (32 ft),[3] and an estimated weight of 2.3 metric tons (2.5 short tons).[3] In his 1976 monograph on Allosaurus, James Madsen mentioned a range of bone sizes which he interpreted to show a maximum length of 12 to 13 m (40 to 43 ft).[4] As with dinosaurs in general, weight estimates are debatable, and since 1980 have ranged between 1500 kilograms (3300 lb), 1000 to 4000 kilograms (2200 to 8800 lb), and 1010 kilograms (2230 lb) for modal adult weight (not maximum).[5] John Foster, a specialist on the Morrison Formation, suggests that 1000 kg (2200 lb) is reasonable for large adults of A. fragilis, but that 700 kg (1500 lb) is a closer estimate for individuals represented by the average-sized thigh bones he has measured.[6] Using the subadult specimen nicknamed "Big Al", researchers using computer modelling arrived at a best estimate of 1,500 kilograms (3,300 lb) for the individual, but by varying parameters they found a range from approximately 1,400 kilograms (3,100 lb) to approximately 2,000 kilograms (4,400 lb).[7]
+Several gigantic specimens have been attributed to Allosaurus, but may in fact belong to other genera. The closely related genus Saurophaganax (OMNH 1708) reached perhaps 10.9 m (36 ft) in length,[3] and its single species has sometimes been included in the genus Allosaurus as Allosaurus maximus, though recent studies support it as a separate genus.[8] Another potential specimen of Allosaurus, once assigned to the genus Epanterias (AMNH 5767), may have measured 12.1 meters in length (40 ft).[3] A more recent discovery is a partial skeleton from the Peterson Quarry in Morrison rocks of New Mexico; this large allosaurid may be another individual of Saurophaganax.[9]
+Skull[edit]
+
+
+
+
+Skull cast of A. fragilis, Oklahoma Museum of Natural History
+
+
+The skull and teeth of Allosaurus were modestly proportioned for a theropod of its size. Paleontologist Gregory S. Paul gives a length of 845 mm (33.3 in) for a skull belonging to an individual he estimates at 7.9 m long (26 ft).[10] Each premaxilla (the bones that formed the tip of the snout), held five teeth with D-shaped cross-sections, and each maxilla (the main tooth-bearing bones in the upper jaw) had between 14 and 17 teeth; the number of teeth does not exactly correspond to the size of the bone. Each dentary (the tooth-bearing bone of the lower jaw) had between 14 and 17 teeth, with an average count of 16. The teeth became shorter, more narrow, and more curved toward the back of the skull. All of the teeth had saw-like edges. They were shed easily, and were replaced continually, making them common fossils.[4]
+The skull had a pair of horns above and in front of the eyes. These horns were composed of extensions of the lacrimal bones,[4] and varied in shape and size. There were also lower paired ridges running along the top edges of the nasal bones that led into the horns.[4] The horns were probably covered in a keratin sheath and may have had a variety of functions, including acting as sunshades for the eye,[4] being used for display, and being used in combat against other members of the same species[10][11] (although they were fragile).[4] There was a ridge along the back of the skull roof for muscle attachment, as is also seen in tyrannosaurids.[10]
+Inside the lacrimal bones were depressions that may have held glands, such as salt glands.[12] Within the maxillae were sinuses that were better developed than those of more basal theropods such as Ceratosaurus and Marshosaurus; they may have been related to the sense of smell, perhaps holding something like Jacobson's organ. The roof of the braincase was thin, perhaps to improve thermoregulation for the brain.[4] The skull and lower jaws had joints that permitted motion within these units. In the lower jaws, the bones of the front and back halves loosely articulated, permitting the jaws to bow outward and increasing the animal's gape.[13] The braincase and frontals may also have had a joint.[4]
+Postcranial skeleton[edit]
+Allosaurus had nine vertebrae in the neck, 14 in the back, and five in the sacrum supporting the hips.[14] The number of tail vertebrae is unknown and varied with individual size; James Madsen estimated about 50,[4] while Gregory S. Paul considered that to be too many and suggested 45 or less.[10] There were hollow spaces in the neck and anterior back vertebrae.[4] Such spaces, which are also found in modern theropods (that is, the birds), are interpreted as having held air sacs used in respiration.[15] The rib cage was broad, giving it a barrel chest, especially in comparison to less derived theropods like Ceratosaurus.[16] Allosaurus had gastralia (belly ribs), but these are not common findings,[4] and they may have ossified poorly.[10] In one published case, the gastralia show evidence of injury during life.[17] A furcula (wishbone) was also present, but has only been recognized since 1996; in some cases furculae were confused with gastralia.[17][18] The ilium, the main hip bone, was massive, and the pubic bone had a prominent foot that may have been used for both muscle attachment and as a prop for resting the body on the ground. Madsen noted that in about half of the individuals from the Cleveland-Lloyd Dinosaur Quarry, independent of size, the pubes had not fused to each other at their foot ends. He suggested that this was a sexual characteristic, with females lacking fused bones to make egg-laying easier.[4] This proposal has not attracted further attention, however.
+
+
+
+
+Hand and claws of A. fragilis
+
+
+The forelimbs of Allosaurus were short in comparison to the hindlimbs (only about 35% the length of the hindlimbs in adults)[19] and had three fingers per hand, tipped with large, strongly curved and pointed claws.[4] The arms were powerful,[10] and the forearm was somewhat shorter than the upper arm (1:1.2 ulna/humerus ratio).[20] The wrist had a version of the semilunate carpal[21] also found in more derived theropods like maniraptorans. Of the three fingers, the innermost (or thumb) was the largest,[10] and diverged from the others.[20] The phalangeal formula is 2-3-4-0-0, meaning that the innermost finger (phalange) has two bones, the next has three, etc.[22] The legs were not as long or suited for speed as those of tyrannosaurids, and the claws of the toes were less developed and more hoof-like than those of earlier theropods.[10] Each foot had three weight-bearing toes and an inner dewclaw, which Madsen suggested could have been used for grasping in juveniles.[4] There was also what is interpreted as the splint-like remnant of a fifth (outermost) metatarsal, perhaps used as a lever between the Achilles tendon and foot.[23]
+Classification[edit]
+
+
+
+
+Life restoration of A. fragilis.
+
+
+Allosaurus was an allosaurid, a member of a family of large theropods within the larger group Carnosauria. The family name Allosauridae was created for this genus in 1878 by Othniel Charles Marsh,[24] but the term was largely unused until the 1970s in favor of Megalosauridae, another family of large theropods that eventually became a wastebasket taxon. This, along with the use of Antrodemus for Allosaurus during the same period, is a point that needs to be remembered when searching for information on Allosaurus in publications that predate James Madsen's 1976 monograph. Major publications using the name "Megalosauridae" instead of "Allosauridae" include Gilmore, 1920,[20] von Huene, 1926,[25] Romer, 1956 and 1966,[26][27] Steel, 1970,[28] and Walker, 1964.[29]
+Following the publication of Madsen's influential monograph, Allosauridae became the preferred family assignment, but it too was not strongly defined. Semi-technical works used Allosauridae for a variety of large theropods, usually those that were larger and better-known than megalosaurids. Typical theropods that were thought to be related to Allosaurus included Piatnitzkysaurus, Piveteausaurus, Yangchuanosaurus,[30] Acrocanthosaurus, Chilantaisaurus, Compsosuchus, Stokesosaurus, and Szechuanosaurus.[31] Given modern knowledge of theropod diversity and the advent of cladistic study of evolutionary relationships, none of these theropods is now recognized as an allosaurid, although several, like Acrocanthosaurus and Yangchuanosaurus, are members of closely related families.[15]
+Allosauridae is one of four families in Carnosauria; the other three are Neovenatoridae,[32] Carcharodontosauridae and Sinraptoridae.[15] Allosauridae has at times been proposed as ancestral to the Tyrannosauridae (which would make it paraphyletic), one recent example being Gregory S. Paul's Predatory Dinosaurs of the World,[33] but this has been rejected, with tyrannosaurids identified as members of a separate branch of theropods, the Coelurosauria.[34] Allosauridae is the smallest of the carnosaur families, with only Saurophaganax and a currently unnamed French allosauroid accepted as possible valid genera besides Allosaurus in the most recent review.[15] Another genus, Epanterias, is a potential valid member, but it and Saurophaganax may turn out to be large examples of Allosaurus.[10] Recent reviews have kept the genus Saurophaganax and included Epanterias with Allosaurus.[5][15]
+Discovery and history[edit]
+Early discoveries and research[edit]
+
+
+
+
+Restoration of the pelvis, fore and hindlimbs based on specimens O. C. Marsh had assigned to A. fragilis by 1884
+
+
+The discovery and early study of Allosaurus is complicated by the multiplicity of names coined during the Bone Wars of the late 19th century. The first described fossil in this history was a bone obtained secondhand by Ferdinand Vandiveer Hayden in 1869. It came from Middle Park, near Granby, Colorado, probably from Morrison Formation rocks. The locals had identified such bones as "petrified horse hoofs". Hayden sent his specimen to Joseph Leidy, who identified it as half of a tail vertebra, and tentatively assigned it to the European dinosaur genus Poekilopleuron as Poicilopleuron  [sic] valens.[35] He later decided it deserved its own genus, Antrodemus.[36]
+
+
+
+
+Mounted A. fragilis specimen (AMNH 5753), posed as scavenging an Apatosaurus
+
+
+
+
+
+
+AMNH 5753 in a Charles R. Knight life restoration.
+
+
+Allosaurus itself is based on YPM 1930, a small collection of fragmentary bones including parts of three vertebrae, a rib fragment, a tooth, a toe bone, and, most useful for later discussions, the shaft of the right humerus (upper arm). Othniel Charles Marsh gave these remains the formal name Allosaurus fragilis in 1877. Allosaurus comes from the Greek allos/αλλος, meaning "strange" or "different" and sauros/σαυρος, meaning "lizard" or "reptile".[37] It was named 'different lizard' because its vertebrae were different from those of other dinosaurs known at the time of its discovery.[38][39] The species epithet fragilis is Latin for "fragile", referring to lightening features in the vertebrae. The bones were collected from the Morrison Formation of Garden Park, north of Cañon City.[38] Marsh and Edward Drinker Cope, who were in scientific competition, went on to coin several other genera based on similarly sparse material that would later figure in the taxonomy of Allosaurus. These include Marsh's Creosaurus[24] and Labrosaurus,[40] and Cope's Epanterias.[41]
+In their haste, Cope and Marsh did not always follow up on their discoveries (or, more commonly, those made by their subordinates). For example, after the discovery by Benjamin Mudge of the type specimen of Allosaurus in Colorado, Marsh elected to concentrate work in Wyoming; when work resumed at Garden Park in 1883, M. P. Felch found an almost complete Allosaurus and several partial skeletons.[12] In addition, one of Cope's collectors, H. F. Hubbell, found a specimen in the Como Bluff area of Wyoming in 1879, but apparently did not mention its completeness, and Cope never unpacked it. Upon unpacking in 1903 (several years after Cope had died), it was found to be one of the most complete theropod specimens then known, and in 1908 the skeleton, now cataloged as AMNH 5753, was put on public view.[42] This is the well-known mount poised over a partial Apatosaurus skeleton as if scavenging it, illustrated as such by Charles R. Knight. Although notable as the first free-standing mount of a theropod dinosaur, and often illustrated and photographed, it has never been scientifically described.[43]
+The multiplicity of early names complicated later research, with the situation compounded by the terse descriptions provided by Marsh and Cope. Even at the time, authors such as Samuel Wendell Williston suggested that too many names had been coined.[44] For example, Williston pointed out in 1901 that Marsh had never been able to adequately distinguish Allosaurus from Creosaurus.[45] The most influential early attempt to sort out the convoluted situation was produced by Charles W. Gilmore in 1920. He came to the conclusion that the tail vertebra dubbed Antrodemus by Leidy was indistinguishable from those of Allosaurus, and Antrodemus thus should be the preferred name because as the older name it had priority.[20] Antrodemus became the accepted name for this familiar genus for over fifty years, until James Madsen published on the Cleveland-Lloyd specimens and concluded that Allosaurus should be used because Antrodemus was based on material with poor, if any, diagnostic features and locality information (for example, the geological formation that the single bone of Antrodemus came from is unknown).[4] "Antrodemus" has been used informally for convenience when distinguishing between the skull Gilmore restored and the composite skull restored by Madsen.[46]
+Cleveland-Lloyd discoveries[edit]
+Although sporadic work at what became known as the Cleveland-Lloyd Dinosaur Quarry in Emery County, Utah had taken place as early as 1927, and the fossil site itself described by William J. Stokes in 1945,[47] major operations did not begin there until 1960. Under a cooperative effort involving nearly 40 institutions, thousands of bones were recovered between 1960 and 1965.[4] The quarry is notable for the predominance of Allosaurus remains, the condition of the specimens, and the lack of scientific resolution on how it came to be. The majority of bones belong to the large theropod Allosaurus fragilis (it is estimated that the remains of at least 46 A. fragilis have been found there, out of at minimum 73 dinosaurs), and the fossils found there are disarticulated and well-mixed. Nearly a dozen scientific papers have been written on the taphonomy of the site, suggesting numerous mutually exclusive explanations for how it may have formed. Suggestions have ranged from animals getting stuck in a bog, to becoming trapped in deep mud, to falling victim to drought-induced mortality around a waterhole, to getting trapped in a spring-fed pond or seep.[48] Regardless of the actual cause, the great quantity of well-preserved Allosaurus remains has allowed this genus to be known in detail, making it among the best-known theropods. Skeletal remains from the quarry pertain to individuals of almost all ages and sizes, from less than 1 meter (3.3 ft)[49] to 12 meters (39 ft) long, and the disarticulation is an advantage for describing bones usually found fused.[4]
+Recent work: 1980s–present[edit]
+The period since Madsen's monograph has been marked by a great expansion in studies dealing with topics concerning Allosaurus in life (paleobiological and paleoecological topics). Such studies have covered topics including skeletal variation,[50] growth,[51][52] skull construction,[53] hunting methods,[54] the brain,[55] and the possibility of gregarious living and parental care.[56] Reanalysis of old material (particularly of large 'allosaur' specimens),[10][57] new discoveries in Portugal,[58] and several very complete new specimens[17][59][60] have also contributed to the growing knowledge base.
+"Big Al" and "Big Al Two"[edit]
+
+
+
+
+"Big Al" at Museum of the Rockies
+
+
+One of the more significant Allosaurus finds was the 1991 discovery of "Big Al" (MOR 693), a 95% complete, partially articulated specimen that measured about 8 meters (about 26 ft) in length. MOR 693 was excavated near Shell, Wyoming, by a joint Museum of the Rockies and University of Wyoming Geological Museum team.[61] This skeleton was discovered by a Swiss team, led by Kirby Siber. In 1996 the same team discovered a second Allosaurus, "Big Al Two", which is the best preserved skeleton of its kind to date.[60]
+The completeness, preservation, and scientific importance of this skeleton gave "Big Al" its name; the individual itself was below the average size for Allosaurus fragilis,[61] and was a subadult estimated at only 87% grown.[62] The specimen was described by Breithaupt in 1996.[59] 19 of its bones were broken or showed signs of infection, which may have contributed to "Big Al's" death. Pathologic bones included five ribs, five vertebrae, and four bones of the feet; several damaged bones showed osteomyelitis, a bone infection. A particular problem for the living animal was infection and trauma to the right foot that probably affected movement and may have also predisposed the other foot to injury because of a change in gait.[62]
+Species and taxonomy[edit]
+Main article: Species of Allosaurus
+
+
+
+
+Skull of "A. jimmadseni" (DINO 11541) from Dinosaur National Monument, when it was still partially encased in matrix
+
+
+It is unclear how many species of Allosaurus there were. Seven species have been considered potentially valid since 1988 (A. amplexus,[10] A. atrox,[10] A. europaeus,[63] the type species A. fragilis,[15] the as-yet not formally described "A. jimmadseni",[8] A. maximus,[50] and A. tendagurensis[15]), although only a fraction are usually considered valid at any given time. Additionally, there are at least ten dubious or undescribed species that have been assigned to Allosaurus over the years, along with the species belonging to genera now sunk into Allosaurus. In a recent review of basal tetanuran theropods, only A. fragilis (including A. amplexus and A. atrox as synonyms), "A. jimmadseni" (as an unnamed species), and A. tendagurensis were accepted as potentially valid species, with A. europaeus not yet proposed and A. maximus assigned to Saurophaganax.[15]
+A. amplexus, A. atrox, A. fragilis, "A. jimmadseni", and A. maximus are all known from remains discovered in the Kimmeridgian–Tithonian Upper Jurassic-age Morrison Formation of the United States, spread across the states of Colorado, Montana, New Mexico, Oklahoma, South Dakota, Utah, and Wyoming. A. fragilis is regarded as the most common, known from the remains of at least sixty individuals.[15] Debate has gone on since the 1980s regarding the possibility that there are two common Morrison Formation species of Allosaurus, with the second known as A. atrox;[10][64] recent work has followed a "one species" interpretation,[15] with the differences seen in the Morrison Formation material attributed to individual variation.[65][66] A study of skull elements from the Cleveland-Lloyd site found wide variation between individuals, calling into question previous species-level distinctions based such features as the shape of the lacrimal horns, and the proposed differentiation of "A. jimmadseni" based on the shape of the jugal.[67] A. europaeus was found in the Kimmeridgian-age Porto Novo Member of the Lourinhã Formation,[63] but may be the same as A. fragilis.[68] A. tendagurensis was found in Kimmeridgian-age rocks of Tendaguru, in Mtwara, Tanzania.[69] It may be a more basal tetanuran,[70] a carcharodontosaurid,[71] or simply a dubious theropod.[2] Although obscure, it was a large theropod, possibly around 10 meters long (33 ft) and 2.5 metric tons (2.8 short tons) in weight.[3]
+
+
+
+
+Holotype material of Creosaurus atrox
+
+
+Allosaurus is regarded as a probable synonym of the genera Antrodemus, Creosaurus, Epanterias, and Labrosaurus.[15] Most of the species that are regarded as synonyms of A. fragilis, or that were misassigned to the genus, are obscure and were based on scrappy remains. One exception is Labrosaurus ferox, named in 1884 by Marsh for an oddly formed partial lower jaw, with a prominent gap in the tooth row at the tip of the jaw, and a rear section greatly expanded and turned down.[72] Later researchers suggested that the bone was pathologic, showing an injury to the living animal,[20] and that part of the unusual form of the rear of the bone was due to plaster reconstruction.[73] It is now regarded as an example of A. fragilis.[15] Other remains thought to pertain to Allosaurus have come from across the world, including Australia,[74] Siberia,[75] and Switzerland,[2] but these fossils have been reassessed as belonging to other dinosaurs.
+The issue of synonyms is complicated by the type specimen of Allosaurus fragilis (catalog number YPM 1930) being extremely fragmentary, consisting of a few incomplete vertebrae, limb bone fragments, rib fragments, and a tooth. Because of this, several scientists have interpreted the type specimen as potentially dubious, and thus the genus Allosaurus itself or at least the species A. fragilis would be a nomen dubium ("dubious name", based on a specimen too incomplete to compare to other specimens or to classify). To address this situation, Gregory S. Paul and Kenneth Carpenter (2010) submitted a petition to the ICZN to have the name "A. fragilis" officially transferred to the more complete specimen USNM4734 (as a neotype). This request is currently pending review.[76]
+Paleoecology[edit]
+
+
+
+
+Outcrop of the Brushy Basin Member of the Morrison Formation, west of Green River, Utah, on the Colorado Plateau.
+
+
+Allosaurus was the most common large theropod in the vast tract of Western American fossil-bearing rock known as the Morrison Formation, accounting for 70 to 75% of theropod specimens,[6] and as such was at the top trophic level of the Morrison food web.[77] The Morrison Formation is interpreted as a semiarid environment with distinct wet and dry seasons, and flat floodplains.[78] Vegetation varied from river-lining forests of conifers, tree ferns, and ferns (gallery forests), to fern savannas with occasional trees such as the Araucaria-like conifer Brachyphyllum.[79]
+The Morrison Formation has been a rich fossil hunting ground. The flora of the period has been revealed by fossils of green algae, fungi, mosses, horsetails, ferns, cycads, ginkgoes, and several families of conifers. Animal fossils discovered include bivalves, snails, ray-finned fishes, frogs, salamanders, turtles, sphenodonts, lizards, terrestrial and aquatic crocodylomorphans, several species of pterosaur, numerous dinosaur species, and early mammals such as docodonts, multituberculates, symmetrodonts, and triconodonts. Dinosaurs known from the Morrison include the theropods Ceratosaurus, Ornitholestes, and Torvosaurus, the sauropods Apatosaurus, Brachiosaurus, Camarasaurus, and Diplodocus, and the ornithischians Camptosaurus, Dryosaurus, and Stegosaurus.[80] It is commonly found at the same sites as Apatosaurus, Camarasaurus, Diplodocus, and Stegosaurus.[81] The Late Jurassic formations of Portugal where Allosaurus is present are interpreted as having been similar to the Morrison but with a stronger marine influence. Many of the dinosaurs of the Morrison Formation are the same genera as those seen in Portuguese rocks (mainly Allosaurus, Ceratosaurus, Torvosaurus, and Apatosaurus), or have a close counterpart (Brachiosaurus and Lusotitan, Camptosaurus and Draconyx).[82]
+
+
+
+
+Locations in the Morrison Formation (yellow) where Allosaurus remains have been found
+
+
+Allosaurus coexisted with fellow large theropods Ceratosaurus and Torvosaurus in both the United States and Portugal.[82] The three appear to have had different ecological niches, based on anatomy and the location of fossils. Ceratosaurs and torvosaurs may have preferred to be active around waterways, and had lower, thinner bodies that would have given them an advantage in forest and underbrush terrains, whereas allosaurs were more compact, with longer legs, faster but less maneuverable, and seem to have preferred dry floodplains.[83] Ceratosaurus, better known than Torvosaurus, differed noticeably from Allosaurus in functional anatomy by having a taller, narrower skull with large, broad teeth.[46] Allosaurus was itself a potential food item to other carnivores, as illustrated by an Allosaurus pubic foot marked by the teeth of another theropod, probably Ceratosaurus or Torvosaurus. The location of the bone in the body (along the bottom margin of the torso and partially shielded by the legs), and the fact that it was among the most massive in the skeleton, indicates that the Allosaurus was being scavenged.[84]
+Paleobiology[edit]
+Life history[edit]
+The wealth of Allosaurus fossils, from nearly all ages of individuals, allows scientists to study how the animal grew and how long its lifespan may have been. Remains may reach as far back in the lifespan as eggs—crushed eggs from Colorado have been suggested as those of Allosaurus.[2] Based on histological analysis of limb bones, bone deposition appears to stop at around 22 to 28 years, which is comparable to that of other large theropods like Tyrannosaurus. From the same analysis, its maximum growth appears to have been at age 15, with an estimated growth rate of about 150 kilograms (330 lb) per year.[51]
+Medullary bone tissue (endosteally derived, ephemeral, mineralization located inside the medulla of the long bones in gravid female birds) has been reported in at least one Allosaurus specimen, a shin bone from the Cleveland-Lloyd Quarry.[85] Today, this bone tissue is only formed in female birds that are laying eggs, as it is used to supply calcium to shells. Its presence in the Allosaurus individual has been used to establish sex and show it had reached reproductive age. However, other studies have called into question some cases of medullary bone in dinosaurs, including this Allosaurus individual. Data from extant birds suggested that the medullary bone in this Allosaurus individual may have been the result of a bone pathology instead.[86]
+The discovery of a juvenile specimen with a nearly complete hindlimb shows that the legs were relatively longer in juveniles, and the lower segments of the leg (shin and foot) were relatively longer than the thigh. These differences suggest that younger Allosaurus were faster and had different hunting strategies than adults, perhaps chasing small prey as juveniles, then becoming ambush hunters of large prey upon adulthood.[52] The thigh bone became thicker and wider during growth, and the cross-section less circular, as muscle attachments shifted, muscles became shorter, and the growth of the leg slowed. These changes imply that juvenile legs has less predictable stresses compared with adults, which would have moved with more regular forward progression.[87] Conversely, the skull bones appear to have generally grown isometrically, increasing in size without changing in proportion.[67]
+Feeding[edit]
+
+
+
+
+Allosaurus and Stegosaurus skeletons, Denver Museum of Nature and Science
+
+
+Paleontologists accept Allosaurus as an active predator of large animals. There is dramatic evidence for allosaur attacks on Stegosaurus, including an Allosaurus tail vertebra with a partially healed puncture wound that fits a Stegosaurus tail spike, and a Stegosaurus neck plate with a U-shaped wound that correlates well with an Allosaurus snout.[88] Sauropods seem to be likely candidates as both live prey and as objects of scavenging, based on the presence of scrapings on sauropod bones fitting allosaur teeth well and the presence of shed allosaur teeth with sauropod bones.[89] However, as Gregory Paul noted in 1988, Allosaurus was probably not a predator of fully grown sauropods, unless it hunted in packs, as it had a modestly sized skull and relatively small teeth, and was greatly outweighed by contemporaneous sauropods.[10] Another possibility is that it preferred to hunt juveniles instead of fully grown adults.[6][64] Research in the 1990s and first decade of the 21st century may have found other solutions to this question. Robert T. Bakker, comparing Allosaurus to Cenozoic sabre-toothed carnivorous mammals, found similar adaptations, such as a reduction of jaw muscles and increase in neck muscles, and the ability to open the jaws extremely wide. Although Allosaurus did not have sabre teeth, Bakker suggested another mode of attack that would have used such neck and jaw adaptations: the short teeth in effect became small serrations on a saw-like cutting edge running the length of the upper jaw, which would have been driven into prey. This type of jaw would permit slashing attacks against much larger prey, with the goal of weakening the victim.[54]
+
+
+
+
+Allosaurus attacking, based on the theories of Bakker (1998) and Rayfield et al. (2001).
+
+
+Similar conclusions were drawn by another study using finite element analysis on an Allosaurus skull. According to their biomechanical analysis, the skull was very strong but had a relatively small bite force. By using jaw muscles only, it could produce a bite force of 805 to 2,148 N, less than the values for alligators (13,000 N), lions (4,167 N), and leopards (2,268 N), but the skull could withstand nearly 55,500 N of vertical force against the tooth row. The authors suggested that Allosaurus used its skull like a hatchet against prey, attacking open-mouthed, slashing flesh with its teeth, and tearing it away without splintering bones, unlike Tyrannosaurus, which is thought to have been capable of damaging bones. They also suggested that the architecture of the skull could have permitted the use of different strategies against different prey; the skull was light enough to allow attacks on smaller and more agile ornithopods, but strong enough for high-impact ambush attacks against larger prey like stegosaurids and sauropods.[53] Their interpretations were challenged by other researchers, who found no modern analogues to a hatchet attack and considered it more likely that the skull was strong to compensate for its open construction when absorbing the stresses from struggling prey.[90] The original authors noted that Allosaurus itself has no modern equivalent, that the tooth row is well-suited to such an attack, and that articulations in the skull cited by their detractors as problematic actually helped protect the palate and lessen stress.[91] Another possibility for handling large prey is that theropods like Allosaurus were "flesh grazers" which could take bites of flesh out of living sauropods that were sufficient to sustain the predator so it would not have needed to expend the effort to kill the prey outright. This strategy would also potentially have allowed the prey to recover and be fed upon in a similar way later.[15] An additional suggestion notes that ornithopods were the most common available dinosaurian prey, and that allosaurs may have subdued them by using an attack similar to that of modern big cats: grasping the prey with their forelimbs, and then making multiple bites on the throat to crush the trachea.[6] This is compatible with other evidence that the forelimbs were strong and capable of restraining prey.[21]
+A biomechanical study published in 2013 by Eric Snively and colleagues found that Allosaurus had an unusually low attachment point on the skull for the longissimus capitis superficialis neck muscle compared to other theropods such as Tyrannosaurus. This would have allowed the animal to make rapid and forceful vertical movements with the skull. The authors found that vertical strikes as proposed by Bakker and Rayfield are consistent with the animal's capabilities. They also found that the animal probably processed carcasses by vertical movements in a similar manner to falcons, such as kestrels: the animal could have gripped prey with the skull and feet, then pulled back and up to remove flesh. This differs from the prey-handling envisioned for theropods with more typical necks, which probably tore flesh with lateral shakes of the skull, similar to crocodilians.[92] In addition, Allosaurus was able to "move its head and neck around relatively rapidly and with considerable control", at the cost of power.[93]
+
+
+
+
+A. fragilis skull cast in front view at the Museum für Naturkunde, Berlin
+
+
+Other aspects of feeding include the eyes, arms, and legs. The shape of the skull of Allosaurus limited potential binocular vision to 20° of width, slightly less than that of modern crocodilians. As with crocodilians, this may have been enough to judge prey distance and time attacks.[94] The arms, compared with those of other theropods, were suited for both grasping prey at a distance or clutching it close,[21] and the articulation of the claws suggests that they could have been used to hook things.[20] Finally, the top speed of Allosaurus has been estimated at 30 to 55 kilometers per hour (19 to 34 miles per hour).[95]
+Social behavior[edit]
+
+
+
+
+The holotype dentary of Labrosaurus ferox, which may have been injured by the bite of another A. fragilis
+
+
+It has been speculated since the 1970s that Allosaurus preyed on sauropods and other large dinosaurs by hunting in groups.[96] Such a depiction is common in semitechnical and popular dinosaur literature.[12][30][64] Robert T. Bakker has extended social behavior to parental care, and has interpreted shed allosaur teeth and chewed bones of large prey animals as evidence that adult allosaurs brought food to lairs for their young to eat until they were grown, and prevented other carnivores from scavenging on the food.[56] However, there is actually little evidence of gregarious behavior in theropods,[15] and social interactions with members of the same species would have included antagonistic encounters, as shown by injuries to gastralia[17] and bite wounds to skulls (the pathologic lower jaw named Labrosaurus ferox is one such possible example). Such head-biting may have been a way to establish dominance in a pack or to settle territorial disputes.[97]
+Although Allosaurus may have hunted in packs,[98] it has been argued that Allosaurus and other theropods had largely aggressive interactions instead of cooperative interactions with other members of their own species. The study in question noted that cooperative hunting of prey much larger than an individual predator, as is commonly inferred for theropod dinosaurs, is rare among vertebrates in general, and modern diapsid carnivores (including lizards, crocodiles, and birds) very rarely cooperate to hunt in such a way. Instead, they are typically territorial and will kill and cannibalize intruders of the same species, and will also do the same to smaller individuals that attempt to eat before they do when aggregated at feeding sites. According to this interpretation, the accumulation of remains of multiple Allosaurus individuals at the same site, e.g. in the Cleveland–Lloyd Quarry, are not due to pack hunting, but to the fact that Allosaurus individuals were drawn together to feed on other disabled or dead allosaurs, and were sometimes killed in the process. This could explain the high proportion of juvenile and subadult allosaurs present, as juveniles and subadults are disproportionally killed at modern group feeding sites of animals like crocodiles and Komodo dragons. The same interpretation applies to Bakker's lair sites.[99] There is some evidence for cannibalism in Allosaurus, including Allosaurus shed teeth found among rib fragments, possible tooth marks on a shoulder blade,[100] and cannibalized allosaur skeletons among the bones at Bakker's lair sites.[83]
+Brain and senses[edit]
+The brain of Allosaurus, as interpreted from spiral CT scanning of an endocast, was more consistent with crocodilian brains than those of the other living archosaurs, birds. The structure of the vestibular apparatus indicates that the skull was held nearly horizontal, as opposed to strongly tipped up or down. The structure of the inner ear was like that of a crocodilian, and so Allosaurus probably could have heard lower frequencies best, and would have had trouble with subtle sounds. The olfactory bulbs were large and seem to have been well suited for detecting odors, although the area for evaluating smells was relatively small.[55]
+Paleopathology[edit]
+
+
+
+
+Mounted A. fragilis skeleton (USNM4734), which has several healed injuries
+
+
+In 2001, Bruce Rothschild and others published a study examining evidence for stress fractures and tendon avulsions in theropod dinosaurs and the implications for their behavior. Since stress fractures are caused by repeated trauma rather than singular events they are more likely to be caused by the behavior of the animal than other kinds of injury. Stress fractures and tendon avulsions occurring in the forelimb have special behavioral significance since while injuries to the feet could be caused by running or migration, resistant prey items are the most probable source of injuries to the hand. Allosaurus was one of only two theropods examined in the study to exhibit a tendon avulsion, and in both cases the avulsion occurred on the forelimb. When the researchers looked for stress fractures, they found that Allosaurus had a significantly greater number of stress fractures than Albertosaurus, Ornithomimus or Archaeornithomimus. Of the 47 hand bones the researchers studied, 3 were found to contain stress fractures. Of the feet, 281 bones were studied and 17 found to have stress fractures. The stress fractures in the foot bones "were distributed to the proximal phalanges" and occurred across all three weight-bearing toes in "statistically indistinguishable" numbers. Since the lower end of the third metatarsal would have contacted the ground first while an allosaur was running it would have borne the most stress. If the allosaurs' stress fractures were caused by damage accumulating while walking or running this bone should have experience more stress fractures than the others. The lack of such a bias in the examined Allosaurus fossils indicates an origin for the stress fractures from a source other than running. The authors conclude that these fractures occurred during interaction with prey, like an allosaur trying to hold struggling prey with its feet. The abundance of stress fractures and avulsion injuries in Allosaurus provide evidence for "very active" predation-based rather than scavenging diets.[101]
+The left scapula and fibula of an Allosaurus fragilis specimen catalogued as USNM 4734 are both pathological, both probably due to healed fractures. The specimen USNM 8367 preserved several pathological gastralia which preserve evidence of healed fractures near their middle. Some of the fractures were poorly healed and "formed pseudoarthroses." A specimen with a fractured rib was recovered from the Cleveland-Lloyd Quarry. Another specimen had fractured ribs and fused vertebrae near the end of the tail. An apparent subadult male Allosaurus fragilis was reported to have extensive pathologies, with a total of fourteen separate injuries. The specimen MOR 693 had pathologies on five ribs, the sixth neck vertebra the third eighth and thirteenth back vertebrae, the second tail vertebra and its chevron, the gastralia right scapula, manual phalanx I left ilium metatarsals III and V, the first phalanx of the third toe and the third phalanx of the second. The ilium had "a large hole... caused by a blow from above".The near end of the first phalanx of the third toe was afflicted by an involucrum.[102]
+Other pathologies reported in Allosaurus include:
+
+
+
+
+Willow breaks in two ribs.[102]
+
+
+Healed fractures in the humerus and radius.[102]
+
+
+Distortion of joint surfaces in the foot possibly due to osteoarthritis or developmental issues.[102]
+
+
+Osteopetrosis along the endosteal surface of a tibia.[86]
+
+
+
+
+Distortions of the joint surfaces of the tail vertebrae possibly due to osetoarthritis or developmental issues.[102]
+
+
+"[E]xtensive 'neoplastic' ankylosis of caudals," possibly due to physical trauma as well as the fusion of chevrons to centra.[102]
+
+
+Coossification of vertebral centra near the end of the tail.[102]
+
+
+
+
+Amputation of a chevron and foot bone, both possibly a result of bites.[102]
+
+
+"[E]xtensive exostoses" in the first phalanx of the third toe.[102]
+
+
+Lesions similar to those caused by osteomyelitis in two scapulae.[102]
+
+
+
+
+Bone spurs in a premaxilla, ungual, and two metacarpals.[102]
+
+
+Exostosis in a pedal phalanx possibly attributable to an infectious disease.[102]
+
+
+A metacarpal with a round depressed fracture.[102]
+
+
+
+
+In popular culture[edit]
+
+
+
+
+Allosaurus model in Bałtów, Poland.
+
+
+Along with Tyrannosaurus, Allosaurus has come to represent the quintessential large, carnivorous dinosaur in popular culture. It is a common dinosaur in museums, due in particular to the excavations at the Cleveland-Lloyd Dinosaur Quarry; by 1976, as a result of cooperative operations, 38 museums in eight countries on three continents had Cleveland-Lloyd allosaur material or casts.[4] Allosaurus is the official state fossil of Utah.[103]
+Allosaurus has been depicted in popular culture since the early years of the 20th century. It is top predator in both Arthur Conan Doyle's 1912 novel, The Lost World, and its 1925 film adaptation, the first full-length motion picture to feature dinosaurs.[104] Allosaurus was used as the starring dinosaur of the 1956 film The Beast of Hollow Mountain,[105] and the 1969 film The Valley of Gwangi, two genre combinations of living dinosaurs with Westerns. In The Valley of Gwangi, Gwangi is billed as an Allosaurus, although Ray Harryhausen based his model for the creature on Charles R. Knight's depiction of a Tyrannosaurus. Harryhausen sometimes confuses the two, stating in a DVD interview "They're both meat eaters, they're both tyrants... one was just a bit larger than the other."[106] Allosaurus appeared in the second episode of the 1999 BBC television series Walking with Dinosaurs and the follow-up special The Ballad of Big Al, which speculated on the life of the "Big Al" specimen, based on scientific evidence from the numerous injuries and pathologies in its skeleton.[107] Allosaurus also made an appearance in the Discovery Channel series Dinosaur Revolution. Its depiction in this series was based upon a specimen with a smashed lower jaw that was uncovered by paleontologist Thomas Holtz.[108]
+References[edit]
+
+
+^ Turner, C.E. and Peterson, F., (1999). "Biostratigraphy of dinosaurs in the Upper Jurassic Morrison Formation of the Western Interior, U.S.A." Pp. 77–114 in Gillette, D.D. (ed.), Vertebrate Paleontology in Utah. Utah Geological Survey Miscellaneous Publication 99-1.
+^ a b c d Glut, Donald F. (1997). "Allosaurus". Dinosaurs: The Encyclopedia. Jefferson, North Carolina: McFarland & Co. pp. 105–117. ISBN 978-0-89950-917-4. 
+^ a b c d e Mortimer, Mickey (2003-07-21). "And the largest Theropod is...". The Dinosaur Mailing List. Archived from the original on 2010-01-16. Retrieved 2007-09-08. 
+^ a b c d e f g h i j k l m n o p q r Madsen, James H., Jr. (1993) [1976]. Allosaurus fragilis: A Revised Osteology. Utah Geological Survey Bulletin 109 (2nd ed.). Salt Lake City: Utah Geological Survey. 
+^ a b Foster, John R. (2003). Paleoecological Analysis of the Vertebrate Fauna of the Morrison Formation (Upper Jurassic), Rocky Mountain Region, U.S.A. New Mexico Museum of Natural History and Science Bulletin 23. Albuquerque: New Mexico Museum of Natural History and Science. p. 37. 
+^ a b c d Foster, John (2007). "Allosaurus fragilis". Jurassic West: The Dinosaurs of the Morrison Formation and Their World. Bloomington, Indiana: Indiana University Press. pp. 170–176. ISBN 978-0-253-34870-8. OCLC 77830875. 
+^ Bates, Karl T.; Falkingham, Peter L.; Breithaupt, Brent H.; Hodgetts, David; Sellers, William I.; and Manning, Phillip L. (2009). "How big was 'Big Al'? Quantifying the effect of soft tissue and osteological unknowns on mass predictions for Allosaurus (Dinosauria:Theropoda)". Palaeontologia Electronica 12 (3): unpaginated. Archived from the original on 25 December 2009. Retrieved 2009-12-13. 
+^ a b Chure, Daniel J. (2000). A new species of Allosaurus from the Morrison Formation of Dinosaur National Monument (Utah–Colorado) and a revision of the theropod family Allosauridae. Ph.D. dissertation. Columbia University. 
+^ Foster, John. 2007. Jurassic West: the Dinosaurs of the Morrison Formation and Their World. Bloomington, Indiana:Indiana University Press. p. 117.
+^ a b c d e f g h i j k l m n Paul, Gregory S. (1988). "Genus Allosaurus". Predatory Dinosaurs of the World. New York: Simon & Schuster. pp. 307–313. ISBN 978-0-671-61946-6. 
+^ Molnar, Ralph E. (1977). "Analogies in the evolution of combat and display structures in ornithopods and ungulates". Evolutionary Theory 3: 165–190. 
+^ a b c Norman, David B. (1985). "'Carnosaurs'". The Illustrated Encyclopedia of Dinosaurs: An Original and Compelling Insight into Life in the Dinosaur Kingdom. New York: Crescent Books. pp. 62–67. ISBN 978-0-517-46890-6. 
+^ Paul, Gregory S. (1988). Predatory Dinosaurs of the World. 91 and Figure 4–5 (93).
+^ Madsen, 1976; note that not everyone agrees on where the neck ends and the back begins, and some authors such as Gregory S. Paul interpret the count as ten neck and thirteen back vertebrae.
+^ a b c d e f g h i j k l m n Holtz, Thomas R., Jr.; Molnar, Ralph E.; and Currie, Philip J. (2004). "Basal Tetanurae". In Weishampel, David B.; Dodson, Peter; and Osmólska, Halszka (eds.). The Dinosauria (2nd ed.). Berkeley: University of California Press. pp. 71–110. ISBN 978-0-520-24209-8. 
+^ Paul, Gregory S. (1988). Predatory Dinosaurs of the World. 277.
+^ a b c d Chure, Daniel J. (2000). "Observations on the morphology and pathology of the gastral basket of Allosaurus, based on a new specimen from Dinosaur National Monument". Oryctos 3: 29–37. ISSN 1290-4805. 
+^ Chure, Daniel J.; Madsen, James (1996). "On the presence of furculae in some non-maniraptoran theropods". Journal of Vertebrate Paleontology 16 (3): 573–577. doi:10.1080/02724634.1996.10011341. 
+^ Middleton, Kevin M. (2000). "Theropod forelimb design and evolution" (PDF). Zoological Journal of the Linnean Society 128 (2): 149–187. doi:10.1006/zjls.1998.0193. Archived from the original on 25 October 2007. Retrieved 2007-10-25. 
+^ a b c d e f Gilmore, Charles W. (1920). "Osteology of the carnivorous dinosauria in the United States National Museum, with special reference to the genera Antrodemus (Allosaurus) and Ceratosaurus". Bulletin of the United States National Museum 110: 1–159. 
+^ a b c Carpenter, Kenneth (2002). "Forelimb biomechanics of nonavian theropod dinosaurs in predation". Senckenbergiana Lethaea 82 (1): 59–76. doi:10.1007/BF03043773. 
+^ Martin, A.J. (2006). Introduction to the Study of Dinosaurs. Second Edition. Oxford, Blackwell Publishing. 560 pp. ISBN 1–4051–3413–5.
+^ Paul, Gregory S. (1988). Predatory Dinosaurs of the World. 113; note illustrations of Allosaurus on 310 and 311 as well; Madsen (1976) interpreted these bones as possible upper portions of the inner metatarsal.
+^ a b Marsh, Othniel Charles (1878). "Notice of new dinosaurian reptiles". American Journal of Science and Arts 15: 241–244. 
+^ von Huene, Friedrich (1926). "The carnivorous Saurischia in the Jura and Cretaceous formations, principally in Europe". Revista del Museo de La Plata 29: 35–167. 
+^ Romer, Alfred S. (1956). Osteology of the Reptiles. Chicago: University of Chicago Press. ISBN 978-0-89464-985-1. 
+^ Romer, Alfred S. (1966). Vertebrate Paleontology (Third ed.). Chicago: University of Chicago Press. ISBN 978-0-7167-1822-2. 
+^ Steel, R. (1970). "Part 14. Saurischia. Handbuch der Paläoherpetologie/Encyclopedia of Paleoherpetology". Gustav Fischer Verlag, Stuttgart: 1–87. 
+^ Walker, Alick D. (1964). "Triassic reptiles from the Elgin area: Ornithosuchus and the origin of carnosaurs". Philosophical Transactions of the Royal Society of London, Series B, Biological Sciences 248 (744): 53–134. Bibcode:1964RSPTB.248...53W. doi:10.1098/rstb.1964.0009. JSTOR 2416617. 
+^ a b Lambert, David; and the Diagram Group (1983). "Allosaurids". A Field Guide to Dinosaurs. New York: Avon Books. pp. 80–81. ISBN 978-0-380-83519-5. 
+^ Lambert, David; and the Diagram Group (1990). "Allosaurids". The Dinosaur Data Book. New York: Avon Books. p. 130. ISBN 0-380-75896-2. 
+^ Benson, R. B. J.; Carrano, M. T.; Brusatte, S. L. (2009). "A new clade of archaic large-bodied predatory dinosaurs (Theropoda: Allosauroidea) that survived to the latest Mesozoic". Naturwissenschaften 97 (1): 71–78. Bibcode:2010NW.....97...71B. doi:10.1007/s00114-009-0614-x. PMID 19826771.  edit
+^ Paul, Gregory S. (1988). "The allosaur-tyrannosaur group", Predatory Dinosaurs of the World. 301–347.
+^ Holtz, Thomas R., Jr. (1994). "The phylogenetic position of the Tyrannosauridae: Implications for theropod systematics". Journal of Paleontology 68 (5): 1100–1117. JSTOR 1306180. 
+^ Leidy, Joseph (1870). "Remarks on Poicilopleuron valens, Clidastes intermedius, Leiodon proriger, Baptemys wyomingensis, and Emys stevensonianus". Proceedings of the Academy of Natural Sciences, Philadelphia 22: 3–4. 
+^ Leidy, Joseph (1873). "Contribution to the extinct vertebrate fauna of the western territories". Report of the U.S. Geological Survey of the Territories I: 14–358. 
+^ Liddell & Scott (1980). Greek–English Lexicon, Abridged Edition. Oxford: Oxford University Press. ISBN 978-0-19-910207-5. OCLC 17396377 187441362 213803616 217157617 225305941 237142939 43379590 78588771. 
+^ a b Marsh, Othniel Charles (1877). "Notice of new dinosaurian reptiles from the Jurassic formation". American Journal of Science and Arts 14: 514–516. 
+^ Creisler, Ben (2003-07-07). "Dinosauria Translation and Pronunciation Guide A". Dinosauria On-Line. Archived from the original on 2010-01-16. Retrieved 2007-09-11. 
+^ Marsh, Othniel Charles (1879). "Principal characters of American Jurassic dinosaurs. Part II". American Journal of Science. Series 3 17: 86–92. 
+^ Cope, Edward Drinker (1878). "A new opisthocoelous dinosaur". American Naturalist 12 (6): 406. doi:10.1086/272127. 
+^ Norell, Mark A.; Gaffney, Eric S.; and Dingus, Lowell (1995). Discovering Dinosaurs in the American Museum of Natural History. New York: Knopf. pp. 112–113. ISBN 978-0-679-43386-6. 
+^ Breithaupt, Brent H. (1999). "AMNH 5753: The world's first free-standing theropod skeleton". Journal of Vertebrate Paleontology 19 (3, Suppl.): 33A. 
+^ Williston, Samuel Wendell (1878). "American Jurassic dinosaurs". Transactions of the Kansas Academy of Science 6: 42–46. 
+^ Williston, Samuel Wendell (1901). "The dinosaurian genus Creosaurus, Marsh". American Journal of Science. Series 4 11 (11): 111–114. 
+^ a b Henderson, Donald M. (1998). "Skull and tooth morphology as indicators of niche partitioning in sympatric Morrison Formation theropods" (PDF). Gaia 15: 219–266. ISSN 0871-5424. 
+^ Stokes, William J. (1945). "A new quarry for Jurassic dinosaurs". Science 101 (2614): 115–117. Bibcode:1945Sci...101..115S. doi:10.1126/science.101.2614.115-a. PMID 17799203. 
+^ Hunt, Adrian P; Lucas, Spencer G.; Krainer, Karl; and Spielmann, Justin (2006). "The taphonomy of the Cleveland-Lloyd Dinosaur Quarry, Upper Jurassic Morrison Formation, Utah: a re-evaluation". In Foster, John R.; and Lucas, Spencer G. (eds.). Paleontology and Geology of the Upper Jurassic Morrison Formation. New Mexico Museum of Natural History and Science Bulletin, 36. Albuquerque, New Mexico: New Mexico Museum of Natural History and Science. pp. 57–65. 
+^ Loewen, Mark A. (2003). "Morphology, taxonomy, and stratigraphy of Allosaurus from the Upper Jurassic Morrison Formation". Journal of Vertebrate Paleontology 23 (3, Suppl.): 72A. 
+^ a b Smith, David K. (1998). "A morphometric analysis of Allosaurus". Journal of Vertebrate Paleontology 18 (1): 126–142. doi:10.1080/02724634.1998.10011039. 
+^ a b Bybee, Paul J.; Lee, AH; Lamm, ET (2006). "Sizing the Jurassic theropod dinosaur Allosaurus: Assessing growth strategy and evolution of ontogenetic scaling of limbs". Journal of Morphology 267 (3): 347–359. doi:10.1002/jmor.10406. PMID 16380967. 
+^ a b Foster, John R.; and Chure, Daniel J. (2006). "Hindlimb allometry in the Late Jurassic theropod dinosaur Allosaurus, with comments on its abundance and distribution". In Foster, John R.; and Lucas, Spencer G. (eds.). Paleontology and Geology of the Upper Jurassic Morrison Formation. New Mexico Museum of Natural History and Science Bulletin, 36. Albuquerque, New Mexico: New Mexico Museum of Natural History and Science. pp. 119–122. 
+^ a b Rayfield, Emily J.; Norman, DB; Horner, CC; Horner, JR; Smith, PM; Thomason, JJ; Upchurch, P (2001). "Cranial design and function in a large theropod dinosaur". Nature 409 (6823): 1033–1037. doi:10.1038/35059070. PMID 11234010. 
+^ a b Bakker, Robert T. (1998). "Brontosaur killers: Late Jurassic allosaurids as sabre-tooth cat analogues" (PDF). Gaia 15: 145–158. ISSN 0871-5424. 
+^ a b Rogers, Scott W. (1999). "Allosaurus, crocodiles, and birds: Evolutionary clues from spiral computed tomography of an endocast" (PDF). The Anatomical Record 257 (5): 163–173. doi:10.1002/(SICI)1097-0185(19991015)257:5<162::AID-AR5>3.0.CO;2-W. PMID 10597341. 
+^ a b Bakker, Robert T. (1997). "Raptor Family values: Allosaur parents brought giant carcasses into their lair to feed their young". In Wolberg, Donald L.; Sump, Edmund; and Rosenberg, Gary D. (eds.). Dinofest International, Proceedings of a Symposium Held at Arizona State University. Philadelphia: Academy of Natural Sciences. pp. 51–63. ISBN 978-0-935868-94-4. 
+^ Chure, Daniel J. (1995). "A reassessment of the gigantic theropod Saurophagus maximus from the Morrison Formation (Upper Jurassic) of Oklahoma, USA". In Ailing Sun and Yuangqing Wang (eds.). Sixth Symposium on Mesozoic Terrestrial Ecosystems and Biota, Short Papers. Beijing: China Ocean Press. pp. 103–106. ISBN 978-7-5027-3898-3. 
+^ Pérez-Moreno, B.P.; Chure, D. J.; Pires, C.; Marques Da Silva, C.; Dos Santos, V.; Dantas, P.; Povoas, L.; Cachao, M.; Sanz, J. L. (1999). "On the presence of Allosaurus fragilis (Theropoda: Carnosauria) in the Upper Jurassic of Portugal: First evidence of an intercontinental dinosaur species" (PDF). Journal of the Geological Society 156 (3): 449–452. doi:10.1144/gsjgs.156.3.0449. 
+^ a b Breithaupt, Brent (1996). "The discovery of a nearly complete Allosaurus from the Jurassic Morrison Formation, eastern Bighorn Basin, Wyoming". In Brown, C.E.; Kirkwood, S.C.; and Miller, T.S. (eds). Forty-Seventh Annual Field Conference Guidebook. Casper, Wyoming: Wyoming Geological Association. pp. 309–313. OCLC 36004754. 
+^ a b "Howe Dinosaur Quarry – Wyoming's Jurassic Treasure". GeoScience Adventures. 2007-07-24. Archived from the original on 2007-12-03. Retrieved 2007-09-27. 
+^ a b Breithaupt, Brent H. "The case of "Big Al" the Allosaurus: a study in paleodetective partnerships". Archived from the original on 2010-01-16. Retrieved 2007-10-03. 
+^ a b Hanna, Rebecca R. (2002). "Multiple injury and infection in a sub-adult theropod dinosaur (Allosaurus fragilis) with comparisons to allosaur pathology in the Cleveland-Lloyd Dinosaur Quarry Collection". Journal of Vertebrate Paleontology 22 (1): 76–90. doi:10.1671/0272-4634(2002)022[0076:MIAIIA]2.0.CO;2. ISSN 0272-4634. 
+^ a b Mateus, Octávio; Walen, Aart; and Antunes, Miguel Telles (2006). "The large theropod fauna of the Lourinha Formation (Portugal) and its similarity to that of the Morrison Formation, with a description of a new species of Allosaurus". In Foster, John R.; and Lucas, Spencer G. (eds.). Paleontology and Geology of the Upper Jurassic Morrison Formation. New Mexico Museum of Natural History and Science Bulletin, 36. Albuquerque, New Mexico: New Mexico Museum of Natural History and Science. pp. 123–129. 
+^ a b c Lessem, Don; and Glut, Donald F. (1993). "Allosaurus". The Dinosaur Society's Dinosaur Encyclopedia. Random House. pp. 19–20. ISBN 978-0-679-41770-5. OCLC 30361459. 
+^ Smith, David K. (1996). "A discriminant analysis of Allosaurus population using quarries as the operational units". Museum of Northern Arizona Bulletin 60: 69–72. 
+^ Smith, David K. (1999). "Patterns of size-related variation within Allosaurus". Journal of Vertebrate Paleontology 19 (2): 402–403. doi:10.1080/02724634.1999.10011153. 
+^ a b Carpenter, Kenneth (2010). "Variation in a population of Theropoda (Dinosauria): Allosaurus from the Cleveland-Lloyd Quarry (Upper Jurassic), Utah, USA". Paleontological Research 14 (4): 250–259. doi:10.2517/1342-8144-14.4.250. 
+^ Malafaia, Elisabete (2007). "Nuevos restos de Allosaurus fragilis (Theropoda: Carnosauria) del yacimiento de Andrés (Jurásico Superior; centro-oeste de Portugal)" (PDF). Cantera Paleontológica (in Spanish with English abstract): 255–271. 
+^ Janensch, Werner (1925). "Die Coelurosaurier und Theropoden der Tendaguru-Schichten Deutsch-Ostafrikas". Palaeontographica, Supplement 7 (in German) 1: 1–99. 
+^ Rauhut, Oliver W.M. (2005). "Post-cranial remains of 'coelurosaurs' (Dinosauria, Theropoda) from the Late Jurassic of Tanzania". Geological Magazine 142 (1): 97–107. doi:10.1017/S0016756804000330. 
+^ Rauhut, Oliver W. M. (2011). "Theropod dinosaurs from the Late Jurassic of Tendaguru (Tanzania)". Special Papers in Palaeontology 86: 195–239. doi:10.1111/j.1475-4983.2011.01084.x. 
+^ Marsh, Othniel Charles (1884). "Principal characters of American Jurassic dinosaurs. Part VIII". American Journal of Science, Series 3 27: 329–340. 
+^ Madsen, James H.; and Welles, Samuel P. (2000). Ceratosaurus (Dinosauria, Theropoda), a Revised Osteology. Miscellaneous Publication, 00-2. Utah Geological Survey. 
+^ Molnar, Ralph E.; Flannery, Timothy; Rich, Thomas (1981). "An allosaurid theropod dinosaur from the Early Cretaceous of Victoria, Australia". Alcheringa 5 (2): 141–146. doi:10.1080/03115518108565427. 
+^ Riabinin, Anatoly Nikolaenvich (1914). "Zamtka o dinozavry ise Zabaykalya". Trudy Geologichyeskago Muszeyah Imeni Petra Velikago Imperatorskoy Academiy Nauk (in Russian) 8 (5): 133–140. 
+^ Paul, Gregory S.; and Carpenter, Kenneth (2010). "Allosaurus Marsh, 1877 (Dinosauria, Theropoda): proposed conservation of usage by designation of a neotype for its type species Allosaurus fragilis Marsh, 1877". Bulletin of Zoological Nomenclature 67 (1): 53–56. 
+^ Foster, John R. (2003). Paleoecological Analysis of the Vertebrate Fauna of the Morrison Formation (Upper Jurassic), Rocky Mountain Region, U.S.A. New Mexico Museum of Natural History and Science Bulletin, 23. Albuquerque, New Mexico: New Mexico Museum of Natural History and Science. p. 29. 
+^ Russell, Dale A. (1989). An Odyssey in Time: Dinosaurs of North America. Minocqua, Wisconsin: NorthWord Press. pp. 64–70. ISBN 978-1-55971-038-1. 
+^ Carpenter, Kenneth (2006). "Biggest of the big: a critical re-evaluation of the mega-sauropod Amphicoelias fragillimus". In Foster, John R.; and Lucas, Spencer G. (eds.). Paleontology and Geology of the Upper Jurassic Morrison Formation. New Mexico Museum of Natural History and Science Bulletin, 36. Albuquerque, New Mexico: New Mexico Museum of Natural History and Science. pp. 131–138. 
+^ Chure, Daniel J.; Litwin, Ron; Hasiotis, Stephen T.; Evanoff, Emmett; and Carpenter, Kenneth (2006). "The fauna and flora of the Morrison Formation: 2006". In Foster, John R.; and Lucas, Spencer G. (eds.). Paleontology and Geology of the Upper Jurassic Morrison Formation. New Mexico Museum of Natural History and Science Bulletin, 36. Albuquerque, New Mexico: New Mexico Museum of Natural History and Science. pp. 233–248. 
+^ Dodson, Peter; Behrensmeyer, A.K.; Bakker, Robert T.; and McIntosh, John S. (1980). "Taphonomy and paleoecology of the dinosaur beds of the Jurassic Morrison Formation". Paleobiology 6 (2): 208–232. 
+^ a b Mateus, Octávio (2006). "Jurassic dinosaurs from the Morrison Formation (USA), the Lourinhã and Alcobaça Formations (Portugal), and the Tendaguru Beds (Tanzania): A comparison". In Foster, John R.; and Lucas, Spencer G. (eds.). Paleontology and Geology of the Upper Jurassic Morrison Formation. New Mexico Museum of Natural History and Science Bulletin, 36. Albuquerque, New Mexico: New Mexico Museum of Natural History and Science. pp. 223–231. 
+^ a b Bakker, Robert T.; and Bir, Gary (2004). "Dinosaur crime scene investigations: theropod behavior at Como Bluff, Wyoming, and the evolution of birdness". In Currie, Philip J.; Koppelhus, Eva B.; Shugar, Martin A.; and Wright, Joanna L. (eds.). Feathered Dragons: Studies on the Transition from Dinosaurs to Birds. Bloomington and Indianapolis: Indiana University Press. pp. 301–342. ISBN 978-0-253-34373-4. 
+^ Chure, Daniel J. (2000). "Prey bone utilization by predatory dinosaurs in the Late Jurassic of North America, with comments on prey bone use by dinosaurs throughout the Mesozoic" (PDF). Gaia 15: 227–232. ISSN 0871-5424. 
+^ Lee, Andrew H.; Werning, S (2008). "Sexual maturity in growing dinosaurs does not fit reptilian growth models". Proceedings of the National Academy of Sciences 105 (2): 582–587. Bibcode:2008PNAS..105..582L. doi:10.1073/pnas.0708903105. PMC 2206579. PMID 18195356. 
+^ a b Chinsamy, A., Tumarkin-Deratzian, A. 2009. Pathological Bone Tissues in a Turkey Vulture and a Nonavian Dinosaur: Implications for Interpreting Endosteal Bone and Radial Fibrolamellar Bone in Fossil Dinosaurs. Anat. Rec. 292:1478-1484
+^ Loewen, Mark A. (2002). "Ontogenetic changes in hindlimb musculature and function in the Late Jurassic theropod Allosaurus". Journal of Vertebrate Paleontology 22 (3, Suppl.): 80A. 
+^ Carpenter, Kenneth; Sanders, Frank; McWhinney, Lorrie A.; and Wood, Lowell (2005). "Evidence for predator-prey relationships: Examples for Allosaurus and Stegosaurus". In Carpenter, Kenneth (ed.). The Carnivorous Dinosaurs. Bloomington and Indianapolis: Indiana University Press. pp. 325–350. ISBN 978-0-253-34539-4. 
+^ Fastovsky, David E.; and Smith, Joshua B. (2004). "Dinosaur Paleoecology", in The Dinosauria (2nd). 614–626.
+^ Frazzetta, T. H.; Kardong, K. V. (2002). "Prey attack by a large theropod dinosaur". Nature 416 (6879): 387–388. Bibcode:2002Natur.416..387F. doi:10.1038/416387a. PMID 11919619. 
+^ Rayfield, Emily J.; Norman, D. B.; Upchurch, P. (2002). "Prey attack by a large theropod dinosaur: Response to Frazzetta and Kardong, 2002". Nature 416 (6879): 388. Bibcode:2002Natur.416..388R. doi:10.1038/416388a. 
+^ Snively, Eric.; Cotton, John R.; Ridgely, Ryan; and Witmer, Lawrence M. (2013). "Multibody dynamics model of head and neck function in Allosaurus (Dinosauria, Theropoda)". Palaeontologica Electronica 16 (2). 
+^ Ohio University (22 May 2013). /releases/2013/05/130521152638.htm "Allosaurus fed more like a falcon than a crocodile: Engineering, anatomy work reveals differences in dinosaur feeding styles". ScienceDaily. Retrieved 22 May 2013. 
+^ Stevens, Kent A. (2006). "Binocular vision in theropod dinosaurs". Journal of Vertebrate Paleontology 26 (2): 321–330. doi:10.1671/0272-4634(2006)26[321:BVITD]2.0.CO;2. ISSN 0272-4634. 
+^ Christiansen, Per (1998). "Strength indicator values of theropod long bones, with comments on limb proportions and cursorial potential". Gaia 15: 241–255. ISSN 0871-5424. 
+^ Farlow, James O. (1976). "Speculations about the diet and foraging behavior of large carnivorous dinosaurs". American Midland Naturalist 95 (1): 186–191. doi:10.2307/2424244. 
+^ Tanke, Darren H. (1998). "Head-biting behavior in theropod dinosaurs: Paleopathological evidence" (PDF). Gaia (15): 167–184. ISSN 0871-5424. 
+^ Currie, Philip J. (1999). "Theropods". In Farlow, James; and Brett-Surman, M.K. (eds.). The Complete Dinosaur. Indiana: Indiana University Press. p. 228. ISBN 978-0-253-21313-6. 
+^ Roach, Brian T.; Brinkman, Daniel L. (2007). "A reevaluation of cooperative pack hunting and gregariousness in Deinonychus antirrhopus and other nonavian theropod dinosaurs". Bulletin of the Peabody Museum of Natural History 48 (1): 103–138. doi:10.3374/0079-032X(2007)48[103:AROCPH]2.0.CO;2. 
+^ Goodchild Drake, Brandon (2004). "A new specimen of Allosaurus from north-central Wyoming". Journal of Vertebrate Paleontology 24 (3, Suppl.): 65A. 
+^ Rothschild, B., Tanke, D. H., and Ford, T. L., 2001, Theropod stress fractures and tendon avulsions as a clue to activity: In: Mesozoic Vertebrate Life, edited by Tanke, D. H., and Carpenter, K., Indiana University Press, p. 331-336.
+^ a b c d e f g h i j k l m Molnar, R. E., 2001, Theropod paleopathology: a literature survey: In: Mesozoic Vertebrate Life, edited by Tanke, D. H., and Carpenter, K., Indiana University Press, p. 337-363.
+^ "Utah Symbols – State Fossil". Pioneer: Utah's Online Library, State of Utah. Archived from the original on 2010-01-16. Retrieved 2010-06-16. 
+^ Glut, Donald F.; Brett-Surman, Michael K. (1997). "Dinosaurs and the media", in Farlow, James; and Brett-Surman, Michael K. (eds.): The Complete Dinosaur. Bloomington and Indianapolis: Indiana University Press, 675–706. ISBN 978-0-253-33349-0.
+^ Lambert, Dinosaur Data Book, p. 299.
+^ Return to the Valley, a documentary on the Region 1 Valley of Gwangi DVD.
+^ Benton, M.J. (2001). "The science of 'Walking with Dinosaurs'". Teaching Earth Sciences 24: 371–400. 
+^ Marcot, Molly (8 September 2011). "Dr. Dinosaur". The Diamondback (The University of Maryland). Retrieved 20 October 2011. 
+
+
+External links[edit]
+
+
+
+
+Dinosaurs portal
+
+
+
+
+
+
+Wikimedia Commons has media related to Allosaurus.
+
+
+
+
+
+Wikispecies has information related to: Allosaurus
+
+
+
+
+
+Wikibooks has a book on the topic of: Wikijunior:Dinosaurs/Allosaurus
+
+
+
+Specimens, discussion, and references pertaining to Allosaurus fragilis at The Theropod Database.
+Allosaurus at DinoData.
+Utah State Fossil, Allosaurus, from Pioneer: Utah's Online Library.
+Restoration of MOR 693 ("Big Al") and muscle and organ restoration at Scott Hartman's Skeletal Drawing website.
+List of the many possible Allosaurus species...
+
+
+     
+
+
+ 
+NewPP limit report
+CPU time usage: 9.485 seconds
+Real time usage: 9.925 seconds
+Preprocessor visited node count: 36416/1000000
+Preprocessor generated node count: 80134/1500000
+Post‐expand include size: 268412/2048000 bytes
+Template argument size: 54034/2048000 bytes
+Highest expansion depth: 39/40
+Expensive parser function count: 4/500
+Lua time usage: 0.358s
+Lua memory usage: 2.82 MB
+
+
+ Saved in parser cache with key enwiki:pcache:idhash:1347-0!*!0!!en!4!* and timestamp 20131001102122 
+								
+				Retrieved from "http://en.wikipedia.org/w/index.php?title=Allosaurus&oldid=573694061"				
+												Categories: CarnosaursDinosaurs of AfricaDinosaurs of EuropeDinosaurs of North AmericaJurassic dinosaursSymbols of UtahDinosaurs of the Morrison FormationFossil taxa described in 1877Hidden categories: Use dmy dates from July 2012Articles with 'species' microformatsArticles containing Ancient Greek-language textFeatured articles												
+							
+		
+		
+			Navigation menu
+			
+				
+	Personal tools
+	
+Create accountLog in	
+
+				
+					
+	Namespaces
+	
+					Article
+					Talk
+			
+
+
+	
+		
+	Variants
+	
+		
+					
+	
+
+				
+				
+					
+	Views
+	
+					Read
+					Edit
+					View history
+			
+
+
+	Actions
+	
+		
+					
+	
+
+
+	Search
+	
+				
+																				
+		
+	
+
+				
+			
+			
+					
+				
+	Navigation
+	
+		
+			Main page
+			Contents
+			Featured content
+			Current events
+			Random article
+			Donate to Wikipedia
+		
+	
+
+
+	Interaction
+	
+		
+			Help
+			About Wikipedia
+			Community portal
+			Recent changes
+			Contact page
+		
+	
+
+
+	Toolbox
+	
+		
+			What links here
+			Related changes
+			Upload file
+			Special pages
+			Permanent link
+			Page information
+			Data item
+Cite this page		
+	
+
+
+	Print/export
+	
+		
+			Create a book
+			Download as PDF
+			Printable version
+		
+	
+
+
+	Languages
+	
+		
+			العربية
+			Azərbaycanca
+			Български
+			Brezhoneg
+			Català
+			Česky
+			Dansk
+			Deutsch
+			Ελληνικά
+			Español
+			Esperanto
+			Euskara
+			فارسی
+			Français
+			Galego
+			한국어
+			Hrvatski
+			Bahasa Indonesia
+			Italiano
+			עברית
+			Basa Jawa
+			ქართული
+			Latina
+			Latviešu
+			Lietuvių
+			Magyar
+			മലയാളം
+			Bahasa Melayu
+			Nederlands
+			日本語
+			Norsk bokmål
+			Occitan
+			ଓଡ଼ିଆ
+			Polski
+			Português
+			Română
+			Русский
+			Simple English
+			Slovenčina
+			Српски / srpski
+			Srpskohrvatski / српскохрватски
+			Suomi
+			Svenska
+			Tagalog
+			ไทย
+			Türkçe
+			Українська
+			Tiếng Việt
+			中文
+			
+			Edit links
+		
+	
+
+			
+		
+		
+							
+											 This page was last modified on 19 September 2013 at 20:30.
+											Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. 
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+									
+							
+											Privacy policy
+											About Wikipedia
+											Disclaimers
+											Contact Wikipedia
+											Developers
+											Mobile view
+									
+										
+					
+						
+					
+					
+						
+					
+				
+						
+		
+		
+
+
+ Served by mw1100 in 0.221 secs. 
+	
+if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Allosaurus","wgTitle":"Allosaurus","wgCurRevisionId":573694061,"wgArticleId":1347,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Use dmy dates from July 2012","Articles with 'species' microformats","Articles containing Ancient Greek-language text","Featured articles","Carnosaurs","Dinosaurs of Africa","Dinosaurs of Europe","Dinosaurs of North America","Jurassic dinosaurs","Symbols of Utah","Dinosaurs of the Morrison Formation","Fossil taxa described in 1877"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Allosaurus","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":["sysop"],"wgVectorEnabledModules":{"collapsiblenav":true,"experiments":true},"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"templateEditor":false,"templates":false,"preview":false,"previewDialog":false,"publish":false,"toc":false},"wgArticleFeedbackv5Permissions":{"aft-reader":true,"aft-member":false,"aft-editor":false,"aft-monitor":false,"aft-administrator":false,"aft-oversighter":false,"aft-noone":false},"wgVisualEditor":{"isPageWatched":false,"magnifyClipIconURL":"//bits.wikimedia.org/static-1.22wmf18/skins/common/images/magnify-clip.png","pageLanguageCode":"en","pageLanguageDir":"ltr"},"wikilove-recipient":"","wikilove-anon":0,"wgGuidedTourHelpGuiderUrl":"Help:Guided tours/guider","wgULSAcceptLanguageList":[],"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia","aftv5Article":{"id":1347,"title":"Allosaurus","namespace":0,"categories":["Articles containing Ancient Greek-language text","Articles with 'species' microformats","Carnosaurs","Dinosaurs of Africa","Dinosaurs of Europe","Dinosaurs of North America","Dinosaurs of the Morrison Formation","Featured articles","Fossil taxa described in 1877","Jurassic dinosaurs","Symbols of Utah","Use dmy dates from July 2012"],"permissionLevel":false},"wgWikibaseItemId":"Q14400"});
+}if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":false,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,
+"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"useeditwarning":1,"prefershttps":1,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"vector-simplesearch":1,"vector-collapsiblenav":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"aftv5-last-filter":null,"visualeditor-enable":0,"visualeditor-enable-experimental":0,"visualeditor-betatempdisable":0,"wikilove-enabled":1,"echo-subscriptions-web-page-review":true,"echo-subscriptions-email-page-review":false,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"echo-notify-show-link":true,"echo-show-alert":true,"echo-email-frequency":0,"echo-email-format":"html","echo-subscriptions-email-system":true,"echo-subscriptions-web-system":true,"echo-subscriptions-email-other":false,"echo-subscriptions-web-other":true,"echo-subscriptions-email-edit-user-talk":false,"echo-subscriptions-web-edit-user-talk":true,
+"echo-subscriptions-email-reverted":false,"echo-subscriptions-web-reverted":true,"echo-subscriptions-email-article-linked":false,"echo-subscriptions-web-article-linked":false,"echo-subscriptions-email-mention":false,"echo-subscriptions-web-mention":true,"echo-subscriptions-web-edit-thank":true,"echo-subscriptions-email-edit-thank":false,"gettingstarted-task-toolbar-show-intro":true,"uls-preferences":"","language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs446":false,"searchNs447":false
+,"searchNs710":false,"searchNs711":false,"searchNs828":false,"searchNs829":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-mySandbox":1,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:156d8fe0ae17f8afd74198057563e45d */
+}if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","ext.visualEditor.viewPageTarget.init","ext.wikimediaShopLink.core","ext.uls.init","ext.uls.interface","wikibase.client.init","ext.centralNotice.bannerController","skins.vector.js"]);
+}/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}if(window.mw){
+mw.loader.load(["mobile.desktop","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.cite","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","mw.MwEmbedSupport.style","ext.vector.collapsibleNav","ext.articleFeedbackv5.startup","ext.gettingstarted.logging","ext.gettingstarted.openTask","schema.HttpsSupport","ext.coreEvents.httpsSupport","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","mw.PopUpMediaTransform"],null,true);
+}

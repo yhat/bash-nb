@@ -1,0 +1,2744 @@
+
+
+
+Kting voar - Wikipedia, the free encyclopedia
+
+
+
+
+
+
+
+
+
+
+
+
+a:lang(ar),a:lang(ckb),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:0de201fdea5d684523607ed88007b127 */
+
+
+
+
+[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.22wmf18/skins/vector/csshover.min.htc")}</style><![endif]
+
+		
+		
+		
+			
+			
+						 CentralNotice 
+						Kting voar
+			
+								From Wikipedia, the free encyclopedia
+								  (Redirected from Kting Voar)
+												
+					Jump to:					navigation, 					search
+				
+				
+
+
+Kting voar
+
+
+Conservation status
+
+
+
+
+Endangered (IUCN 2.3)
+
+
+
+Scientific classification
+
+
+Kingdom:
+Animalia
+
+
+Phylum:
+Chordata
+
+
+Class:
+Mammalia
+
+
+Order:
+Artiodactyla
+
+
+Family:
+Bovidae
+
+
+Subfamily:
+Bovinae
+
+
+Genus:
+Pseudonovibos
+
+
+Species:
+P. spiralis
+
+
+Binomial name
+
+
+Pseudonovibos spiralis
+Peter and Feiler, 1994
+
+
+
+The kting voar, also known as the khting vor, linh dương, or snake-eating cow (Pseudonovibos spiralis) is a bovid mammal reputed to exist in Cambodia and Vietnam.
+
+
+Contents
+
+
+1 Characteristics
+2 Names
+3 Controversy
+4 References
+
+
+Characteristics[edit]
+The kting voar is normally described as a cow-like animal with peculiar twisting horns about 45 centimetres (20 inches) long and spotted fur. It often has some sort of connection with snakes, varying between stories.
+Names[edit]
+Kting voar is the animal's Cambodian name. This was erroneously translated in the West as 'jungle sheep', leading to a mistaken assumption that the animal was related to sheep and goats. In fact the name means 'liana-horned gaur' (a gaur is a species of wild Asian cow).
+Adding to the confusion, the Vietnamese name linh dương meaning ('antelope') or ('gnu') was once reported to refer to this animal. However, this is in fact a local name of the mainland serow.
+Other Kampuchean names possibly include kting sipuoh ('snake-eating cattle') and khting pôs. The Latinized binomial "Pseudonovibos spiralis" is invalid, given that the holotype for the species was identified as a domesticated cow. However, the name would mean c.f. 'fake new cattle' with 'spiral' horns.
+Controversy[edit]
+For Western scientists, the first evidence supporting the kting voar's existence was a set of horns found by biologist Wolfgang Peter in a Ho Chi Minh City market (Peter & Feiler, 1994a). The horns were so unusual that Peter believed them to belong to a new species (Peter & Feiler, 1994b).
+No anatomical information, except for horns and frontlets, is available, so the phylogenetic status of the kting voar has been uncertain. Peter & Feiler (1994a) proposed the relationships of P. spiralis with Antilopini, but morphological analyses by Dioli (1995, 1997) and Timm & Brandt (2001) suggest affinities within Bovini, while Nadler (1997) believed P. spiralis to be related to Caprini. Genetic studies using alleged kting voar specimens have produced confusing results (Hammer et al., 1999; Kuznetsov et al., 2001a,b, 2002). However, these results from DNA have been demonstrated to be cases of DNA contamination (Hassanin & Douzery, 2000; Hassanin, 2002; Olson & Hassanin, 2003).
+All supposed kting voar specimens that were subject to DNA analysis to date have turned out to be artificially shaped cattle horns (Hassanin et al., 2001; Thomas, Seveau, and Hassanin, 2001; Hassanin, 2002). The most likely explanation, given the DNA testing results and the unusual spotted fur (which is well known in domesticated, but unknown in wild cattle), seem to be that modern specimens at least are cattle horns shaped by a complicated technique in order to serve as anti-snake talismans.
+The vigorous controversy over the existence P. spiralis has been covered in Nature (Whitfield, 2002), New York Times (Mydans, 2002), and Science (Malakoff, 2001).
+There is also an earlier report of British tiger-hunters in the first part the 20th century, who observed kting voar and shot two as tiger bait.
+Skeptical opinion is that the kting voar is a mythical animal. Cow horns are often sold as imitation kting voar horns in Kampuche markets. However, some scientists, notably American mammalogist Dr. Robert Timm, consider it probable that the root of the folklore is a real, distinct species of wild bovid (Brandt et al., 2001; Timm & Brandt, 2001). If so, this animal would be highly endangered or more probably recently extinct, because rampant hunting and deforestation decimated populations of other big mammals in the region.
+More recently, Feiler et al. (2002) established that most of the horn sheaths of the kting voar, including the holotype were superficially embellished, but added that it remains to be seen whether these horns belong to cattle or a distinct species in its own right.
+The existence of the kting voar is far more likely than that of other cryptids. IUCN Red List of threatened species lists it as endangered, stating "The existence and systematic position of Pseudonovibos spiralis is currently being debated. There are undoubtedly manufactured trophies ("fakes") in circulation, but the precautionary principle requires us to assume that the species did exist and may still exist."
+Until further evidence is obtained, the kting voar's existence as a real species should be regarded as questionable (Galbreath & Melville, 2003).
+References[edit]
+
+
+
+
+
+This article includes a list of references, related reading or external links, but its sources remain unclear because it lacks inline citations. Please improve this article by introducing more precise citations. (June 2009) 
+
+
+
+Antelope Specialist Group (1996). Pseudonovibos spiralis. 2006. IUCN Red List of Threatened Species. IUCN 2006. www.iucnredlist.org. Retrieved on 11 May 2006. Database entry includes justification for why this species is endangered
+Brandt, J. H., Dioli, M., Hassanin, A., Melville, R. A., Olson, L. E., Seveau, A., and Timm, R. M., 2001. Debate on the authenticity of Pseudonovibos spiralis as a new species of wild bovid from Vietnam and Cambodia. Journal of Zoology 255:437–444.
+Dioli M., 1995. A clarification about the morphology of the horns of the female kouprey: a new unknown bovid species from Cambodia. Mammalia 59, 663–667.
+Dioli, M., 1997. Notes on the morphology of the horns of a new artiodactyl mammal from Cambodia: Pseudonovibos spiralis. J. Zool. (Lond.) 241: 527–531.
+Feiler, A., Ziegler, T., Ansorge, H. & Nadler, T. 2002. Pseudonovibos spiralis – Mythos oder Wirklichkeit? ZGAP Mitteilungen 18: 21–24.
+Galbreath, G. J. and Melville, R. A., 2003. Pseudonovibos spiralis: epitaph. J. Zool. (Lond.) 259: 169–170.
+Hammer, S.E., Suchentrunk, F., Tiedemann, R., Hartl, G.B., Feiler, A., 1999. Mitochondrial DNA sequence relationships of the newly described enigmatic Vietnamese bovid, Pseudonovibos spiralis. Naturwissenschaften 86, 279–280.
+Hassanin, A., 2002. Ancient specimens and DNA contamination: a case study from the 12S rRNA gene sequence of the ‘‘linh duong’’ bovid (Pseudonovibos spiralis). Naturwissenschaften 89, 107–110.
+Hassanin, A., Douzery, E., 2000. Is the newly described bovid, Pseudonovibos spiralis, a chamois (genus Rupicapra)? Naturwissenschaften 87, 122–124.
+Hassanin, A., Seveau, A., Thomas, H., Bocherens, H., Billiou, D. and Nguyen, B.X. 2001. Evidence from DNA that the mysterious 'linh duong' (Pseudonovibos spiralis) is not a new bovid. Comptes Rendus de l'Académie des Sciences Série III Sciences de la Vie 324: 71–80.
+Hoffmann R.S., 1986. A new locality record for the kouprey from Vietnam, and an archaeological record from China, Mammalia 50, 391–395.
+Kuznetsov, G.V., Kulikov, E.E., Petrov, N.B., Ivanova, N.V., Lomov, A.A., Kholodova, M.V., Poltaraus, A.B., 2001a. The ‘‘linh duong’’ Pseudonovibos spiralis (Mammalia, Artiodactyla) is a new buffalo. Naturwissenschaften 88, 123–125.
+Kuznetsov, G.V., Kulikov, E.E., Petrov, N.B., Ivanova, N.V., Lomov, A.A., Kholodova, M.V., Poltaraus, A.B., 2001b. Taxonomic status and phylogenetic relations of the new genus and species Pseudonovibos spiralis W.P. Peter, A. Feiler, 1994 (Artiodactyla, Bovidae). Zoologičeskij Žurnal 80 (11): 1395–1403.
+Kuznetsov, G.V., Kulikov, E.E., Petrov, N.B., Ivanova, N.V., Lomov, A.A., Kholodova, M.V., Poltaraus, A.B., 2002. Mitochondrial 12S rDNA sequence relationships suggest that the enigmatic bovid ‘‘linh duong’’ Pseudonovibos spiralis is closely related to buffalo. Mol. Phylogenet. Evol. 23 (1), 91–94.
+MacDonald, A. A. & Linxin N. Yang, 1997. Chinese sources suggest early knowledge of the "unknown" ungulate Pseudonovibos spiralis from Vietnam and Cambodia. Journal of Zoology 241: 523–526.
+Malakoff, D. (Ed.), 2001. Horny dilemma (in ‘‘Random Samples’’). Science 291: 39.
+Mydans, S., 2002. Cambodia's mystery, the horns that never were. New York Times (May 6).
+Nadler, T., 1997. Was ist Pseudonovibos spiralis? Zool. Garten N.F. 67, 290–292.
+Olson, L. E. and Hassanin A., 2003. Contamination and chimerism are perpetuating the legend of the snake-eating cow with twisted horns (Pseudonovibos spiralis): A case study of the pitfalls of ancient DNA. Mol. Phylogenetics. Evol. 27 (2):545–548.
+Peter, W.P., Feiler, A., 1994a. Horns of an unknown bovid species from Vietnam (Mammalia: Ruminantia). Faun. Abh. Mus. Tierkd. Dresden 19, 247–253.
+Peter, W.P., Feiler, A., 1994b. A new bovid species from Vietnam and Cambodia (Mammalia: Ruminantia). Zool. Abh. Mus. Tierkd. Dresden 48, 169–176.
+Thomas, H., Seveau, A. and Hassanin, A. 2001. The enigmatic new Indochinese bovid, Pseudonovibos spiralis: an extraordinary forgery. Comptes Rendus de l'Académie des Sciences Série III Sciences de la Vie 324:81–86.
+Timm, R.M. & Brandt, J.H., 2001. Pseudonovibos spiralis (Artiodactyla: Bovidae): new information on this enigmatic South-east Asian ox. J. Zool., Lond. 253: 157–166.
+Whitfield, J., 2002. Locking horns. Nature 415: 956.
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Extant Artiodactyla species
+
+
+
+
+
+
+
+
+
+Kingdom: Animalia
+Phylum: Chordata
+Class: Mammalia
+Infraclass: Eutheria
+Superorder: Laurasiatheria
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Suborder Ruminantia
+
+
+
+
+
+
+
+
+
+
+Antilocapridae
+
+
+
+
+
+Antilocapra
+
+
+
+
+Pronghorn (A. americana)
+
+
+
+
+
+
+
+
+
+
+
+Giraffidae
+
+
+
+
+
+Okapia
+
+
+
+
+Okapi (O. johnstoni)
+
+
+
+
+
+
+
+
+
+Giraffa
+
+
+
+
+Giraffe (G. camelopardalis)
+
+
+
+
+
+
+
+
+
+
+
+Moschidae
+
+
+
+
+
+Moschus
+
+
+
+
+Himalayan musk deer (M. chrysogaster)
+Siberian musk deer (M. moschiferus)
+Dwarf musk deer (M. berezovskii)
+Black musk deer (M. fuscus)
+
+
+
+
+
+
+
+
+
+
+
+Tragulidae
+
+
+
+
+
+Hyemoschus
+
+
+
+
+Water chevrotain (H. aquaticus)
+
+
+
+
+
+
+
+
+
+Moschiola
+
+
+
+
+Indian spotted chevrotain (M. indica)
+Yellow-striped chevrotain (M. kathygre)
+Sri Lankan spotted chevrotain (M. meminna)
+
+
+
+
+
+
+
+
+
+Tragulus
+
+
+
+
+Java mouse-deer (T. javanicus)
+Lesser mouse-deer (T. kanchil)
+Greater mouse-deer (T. napu)
+Philippine mouse-deer (T. nigricans)
+Vietnam mouse-deer (T. versicolor)
+Williamson's mouse-deer (T. williamsoni)
+
+
+
+
+
+
+
+
+
+
+
+Cervidae
+
+Large family listed below
+
+
+
+
+
+
+Bovidae
+
+Large family listed below
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Family Cervidae
+
+
+
+
+
+
+
+
+
+
+Cervinae
+
+
+
+
+
+Muntiacus
+
+
+
+
+Indian muntjac (M. muntjak)
+Reeves's muntjac (M. reevesi)
+Hairy-fronted muntjac (M. crinifrons)
+Fea's muntjac (M. feae)
+Bornean yellow muntjac (M. atherodes)
+Roosevelt's muntjac (M. rooseveltorum)
+Gongshan muntjac (M. gongshanensis)
+Giant muntjac (M. vuquangensis)
+Truong Son muntjac (M. truongsonensis)
+Leaf muntjac (M. putaoensis)
+
+
+
+
+
+
+
+
+
+Elaphodus
+
+
+
+
+Tufted deer (E. cephalophus)
+
+
+
+
+
+
+
+
+
+Dama
+
+
+
+
+Fallow deer (D. dama)
+Persian fallow deer (D. mesopotamica)
+
+
+
+
+
+
+
+
+
+Axis
+
+
+
+
+Chital (A. axis)
+
+
+
+
+
+
+
+
+
+Rucervus
+
+
+
+
+Barasingha (R. duvaucelii)
+
+
+
+
+
+
+
+
+
+Panolia
+
+
+
+
+Eld's Deer (P. eldii)
+
+
+
+
+
+
+
+
+
+Elaphurus
+
+
+
+
+Père David's deer (E. davidianus)
+
+
+
+
+
+
+
+
+
+Hyelaphus
+
+
+
+
+Hog deer (H. porcinus)
+Calamian deer (H. calamianensis)
+Bawean deer (H. kuhlii)
+
+
+
+
+
+
+
+
+
+Rusa
+
+
+
+
+Sambar deer (R. unicolor)
+Rusa deer (R. timorensis)
+Philippine sambar (R. mariannus)
+Philippine spotted deer (R. alfredi)
+
+
+
+
+
+
+
+
+
+Cervus
+
+
+
+
+Red deer (C. elaphus)
+Elk (C. canadensis)
+Thorold's deer (C. albirostris)
+Sika deer (C. nippon)
+
+
+
+
+
+
+
+
+
+
+
+Capreolinae
+
+
+
+
+
+Alces
+
+
+
+
+Moose (A. alces)
+
+
+
+
+
+
+
+
+
+Hydropotes
+
+
+
+
+Water deer (H. inermis)
+
+
+
+
+
+
+
+
+
+Capreolus
+
+
+
+
+Roe deer (C. capreolus)
+Siberian roe deer (C. pygargus)
+
+
+
+
+
+
+
+
+
+Rangifer
+
+
+
+
+Reindeer (R. tarandus)
+
+
+
+
+
+
+
+
+
+Hippocamelus
+
+
+
+
+Taruca (H. antisensis)
+South Andean deer (H. bisulcus)
+
+
+
+
+
+
+
+
+
+Mazama
+
+
+
+
+Red brocket (M. americana)
+Small red brocket (M. bororo)
+Merida brocket (M. bricenii)
+Dwarf brocket (M. chunyi)
+Gray brocket (M. gouazoubira)
+Pygmy brocket (M. nana)
+Amazonian brown brocket (M. nemorivaga)
+Yucatan brown brocket (M. pandora)
+Little red brocket (M. rufina)
+Central American red brocket (M. temama)
+
+
+
+
+
+
+
+
+
+Ozotoceros
+
+
+
+
+Pampas deer (O. bezoarticus)
+
+
+
+
+
+
+
+
+
+Blastocerus
+
+
+
+
+Marsh deer (B. dichotomus)
+
+
+
+
+
+
+
+
+
+Pudu
+
+
+
+
+Northern pudu (P. mephistophiles)
+Pudú (P. pudu)
+
+
+
+
+
+
+
+
+
+Odocoileus
+
+
+
+
+White-tailed deer (O. virginianus)
+Mule deer (O. hemionus)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Family Bovidae
+
+
+
+
+
+
+
+
+
+
+Cephalophinae
+
+
+
+
+
+Cephalophus
+
+
+
+
+Abbott's duiker (C. spadix)
+Aders' duiker (C. adersi)
+Bay duiker (C. dorsalis)
+Black duiker (C. niger)
+Black-fronted duiker (C. nigrifrons)
+Blue duiker (C. monticola)
+Harvey's duiker (C. harveyi)
+Jentink's duiker (C. jentinki)
+Maxwell's duiker (C. maxwellii)
+Red forest duiker (C. natalensis)
+Ogilby's duiker (C. ogilbyi)
+Peters's duiker (C. callipygus)
+Red-flanked duiker (C. rufilatus)
+Ruwenzori duiker (C. rubidis)
+Weyns's duiker (C. weynsi)
+White-bellied duiker (C. leucogaster)
+White-legged duiker (C. crusalbum)
+Yellow-backed duiker (C. Sylvicultor)
+Zebra duiker (C. zebra)
+
+
+
+
+
+
+
+
+
+Sylvicapra
+
+
+
+
+Common duiker (S. grimmia)
+
+
+
+
+
+
+
+
+
+
+
+Hippotraginae
+
+
+
+
+
+Hippotragus
+
+
+
+
+Roan antelope (H. equinus)
+Sable antelope (H. niger)
+
+
+
+
+
+
+
+
+
+Oryx
+
+
+
+
+East African oryx (O. beisa)
+Scimitar oryx (O. dammah)
+Gemsbok (O. gazella)
+Arabian oryx (O. leucoryx)
+
+
+
+
+
+
+
+
+
+Addax
+
+
+
+
+Addax (A. nasomaculatus)
+
+
+
+
+
+
+
+
+
+
+
+Reduncinae
+
+
+
+
+
+Kobus
+
+
+
+
+Upemba lechwe (K. anselli)
+Waterbuck (K. ellipsiprymnus)
+Kob (K. kob)
+Lechwe (K. leche)
+Nile lechwe (K. megaceros)
+Puku (K. vardonii)
+
+
+
+
+
+
+
+
+
+Redunca
+
+
+
+
+Southern reedbuck (R. arundinum)
+Mountain reedbuck (R. fulvorufula)
+Bohor reedbuck (R. redunca)
+
+
+
+
+
+
+
+
+
+
+
+Aepycerotinae
+
+
+
+
+
+Aepyceros
+
+
+
+
+Impala (A. melampus)
+
+
+
+
+
+
+
+
+
+
+
+Peleinae
+
+
+
+
+
+Pelea
+
+
+
+
+Grey rhebok (P. capreolus)
+
+
+
+
+
+
+
+
+
+
+
+Alcelaphinae
+
+
+
+
+
+Beatragus
+
+
+
+
+Hirola (B. hunteri)
+
+
+
+
+
+
+
+
+
+Damaliscus
+
+
+
+
+Korrigum (D. korrigum)
+Common tsessebe (D. lunatus)
+Bontebok (D. pygargus)
+Bangweulu tsessebe (D. superstes)
+
+
+
+
+
+
+
+
+
+Alcelaphus
+
+
+
+
+Hartebeest (A. buselaphus)
+Red hartebeest (A. caama)
+Lichtenstein's hartebeest (A. lichtensteinii)
+
+
+
+
+
+
+
+
+
+Connochaetes
+
+
+
+
+Black wildebeest (C. gnou)
+Blue wildebeest (C. taurinus)
+
+
+
+
+
+
+
+
+
+
+
+Pantholopinae
+
+
+
+
+
+Pantholops
+
+
+
+
+Tibetan antelope (P. hodgsonii)
+
+
+
+
+
+
+
+
+
+
+
+Caprinae
+
+Large subfamily listed below
+
+
+
+
+
+
+Bovinae
+
+Large subfamily listed below
+
+
+
+
+
+
+Antilopinae
+
+Large subfamily listed below
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Family Bovidae (subfamily Caprinae)
+
+
+
+
+
+
+
+
+
+
+
+Ammotragus
+
+
+
+
+Barbary sheep (A. lervia)
+
+
+
+
+
+
+
+
+
+Budorcas
+
+
+
+
+Takin (B. taxicolor)
+
+
+
+
+
+
+
+
+
+Capra
+
+
+
+
+Wild goat (C. aegagrus)
+West Caucasian tur (C. caucasia)
+East Caucasian tur (C. cylindricornis)
+Markhor (C. falconeri)
+Alpine ibex (C. ibex)
+Nubian ibex (C. nubiana)
+Spanish ibex (C. pyrenaica)
+Siberian ibex (C. sibirica)
+Walia ibex (C. walie)
+
+
+
+
+
+
+
+
+
+Hemitragus
+
+
+
+
+Nilgiri tahr (H. hylocrius)
+Arabian tahr (H. jayakari)
+Himalayan tahr (H. jemlahicus)
+
+
+
+
+
+
+
+
+
+Naemorhedus
+
+
+
+
+Red goral (N. baileyi)
+Japanese serow (N. crispus)
+Long-tailed goral (N. caudatus)
+Himalayan goral (N. goral)
+Mainland serow (N. sumatraensis)
+Taiwan serow (N. swinhoei)
+
+
+
+
+
+
+
+
+
+Oreamnos
+
+
+
+
+Mountain goat (O. americanus)
+
+
+
+
+
+
+
+
+
+Ovibos
+
+
+
+
+Muskox (O. moschatus)
+
+
+
+
+
+
+
+
+
+Ovis
+
+
+
+
+Argali (O. ammon)
+Domestic sheep (O. aries)
+Bighorn sheep (O. canadensis)
+Dall sheep (O. dalli)
+Mouflon (O. musimon)
+Snow sheep (O. nivicola)
+Urial (O. orientalis)
+
+
+
+
+
+
+
+
+
+Pseudois
+
+
+
+
+Bharal (P. nayaur)
+Dwarf blue sheep (P. schaeferi)
+
+
+
+
+
+
+
+
+
+Rupicapra
+
+
+
+
+Pyrenean chamois (R. pyrenaica)
+Chamois (R. rupicapra)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Family Bovidae (subfamily Bovinae)
+
+
+
+
+
+
+
+
+
+
+Boselaphini
+
+
+
+
+
+Tetracerus
+
+
+
+
+Four-horned antelope (T. quadricornis)
+
+
+
+
+
+
+
+
+
+Boselaphus
+
+
+
+
+Nilgai (B. tragocamelus)
+
+
+
+
+
+
+
+
+
+
+
+Bovini
+
+
+
+
+
+Bubalus
+
+
+
+
+Water buffalo (B. bubalus)
+Wild Water Buffalo (B. arnee)
+Lowland anoa (B. depressicornis)
+Mountain anoa (B. quarlesi)
+Tamaraw (B. mindorensis)
+
+
+
+
+
+
+
+
+
+Bos
+
+
+
+
+Banteng (B. javanicus)
+Gaur (B. gaurus)
+Yak (B. mutus)
+Cattle (B. taurus)
+Kouprey (B. sauveli)
+Zebu (B. indicus)
+
+
+
+
+
+
+
+
+
+Pseudonovibos
+
+
+
+
+Kting voar (P. spiralis)
+
+
+
+
+
+
+
+
+
+Pseudoryx
+
+
+
+
+Saola (P. nghetinhensis)
+
+
+
+
+
+
+
+
+
+Syncerus
+
+
+
+
+African buffalo (S. caffer)
+
+
+
+
+
+
+
+
+
+Bison
+
+
+
+
+American bison (B. bison)
+Wisent (B. bonasus)
+
+
+
+
+
+
+
+
+
+
+
+Strepsicerotini
+
+
+
+
+
+Tragelaphus
+(including kudus)
+
+
+
+
+Sitatunga (T. spekeii)
+Nyala (T. angasii)
+Bushbuck (T. scriptus)
+Mountain nyala (T. buxtoni)
+Lesser kudu (T. imberbis)
+Greater kudu (T. strepsiceros)
+Bongo (T. eurycerus)
+
+
+
+
+
+
+
+
+
+Taurotragus
+
+
+
+
+Common eland (T. oryx)
+Giant eland (T. derbianus)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Family Bovidae (subfamily Antilopinae)
+
+
+
+
+
+
+
+
+
+
+Antilopini
+
+
+
+
+
+Ammodorcas
+
+
+
+
+Dibatag (A. clarkei)
+
+
+
+
+
+
+
+
+
+Antidorcas
+
+
+
+
+Springbok (A. marsupialis)
+
+
+
+
+
+
+
+
+
+Antilope
+
+
+
+
+Blackbuck (A. cervicapra)
+
+
+
+
+
+
+
+
+
+Gazella
+
+
+
+
+Mountain gazelle (G. gazella)
+Neumann's gazelle (G. erlangeri)
+Speke's gazelle (G. spekei)
+Dorcas gazelle (G. dorcas)
+Saudi gazelle (G. saudiya)
+Chinkara (G. bennettii)
+Thomson's gazelle (G. thomsonii)
+Red-fronted gazelle (G. rufifrons)
+Dama gazelle (G. dama)
+Grant's gazelle (G. granti)
+Soemmerring's gazelle (G. soemmerringii)
+Cuvier's gazelle (G. cuvieri)
+Rhim gazelle (G. leptoceros)
+Goitered gazelle (G. subgutturosa)
+
+
+
+
+
+
+
+
+
+Litocranius
+
+
+
+
+Gerenuk (L. walleri)
+
+
+
+
+
+
+
+
+
+Procapra
+
+
+
+
+Mongolian gazelle (P. gutturosa)
+Goa (P. picticaudata)
+Przewalski's gazelle (P. przewalskii)
+
+
+
+
+
+
+
+
+
+
+
+Saigini
+
+
+
+
+
+Pantholops
+
+
+
+
+Tibetan antelope (P. hodgsonii)
+
+
+
+
+
+
+
+
+
+Saiga
+
+
+
+
+Saiga antelope (S. tatarica)
+
+
+
+
+
+
+
+
+
+
+
+Neotragini
+
+
+
+
+
+Dorcatragus
+
+
+
+
+Beira (D. megalotis)
+
+
+
+
+
+
+
+
+
+Madoqua
+
+
+
+
+Günther's dik-dik (M. guentheri)
+Kirk's dik-dik (M. kirkii)
+Silver dik-dik (M. piacentinii)
+Salt's dik-dik (M. saltiana)
+
+
+
+
+
+
+
+
+
+Neotragus
+
+
+
+
+Bates's pygmy antelope (N. batesi)
+Suni (N. moschatus)
+Royal antelope (N. pygmaeus)
+
+
+
+
+
+
+
+
+
+Oreotragus
+
+
+
+
+Klipspringer (O. oreotragus)
+
+
+
+
+
+
+
+
+
+Ourebia
+
+
+
+
+Oribi (O. ourebi)
+
+
+
+
+
+
+
+
+
+Raphicerus
+
+
+
+
+Steenbok (R. campestris)
+Cape grysbok (R. melanotis)
+Sharpe's grysbok (R. sharpei)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Suborder Suina
+
+
+
+
+
+
+
+
+
+
+Suidae
+
+
+
+
+
+Babyrousa
+
+
+
+
+Buru babirusa (B. babyrussa)
+North Sulawesi babirusa (B. celebensis)
+Togian babirusa (B. togeanensis)
+
+
+
+
+
+
+
+
+
+Hylochoerus
+
+
+
+
+Giant forest hog (H. meinertzhageni)
+
+
+
+
+
+
+
+
+
+Phacochoerus
+
+
+
+
+Desert warthog (P. aethiopicus)
+Warthog (P. africanus)
+
+
+
+
+
+
+
+
+
+Porcula
+
+
+
+
+Pygmy hog (P. salvania)
+
+
+
+
+
+
+
+
+
+Potamochoerus
+
+
+
+
+Bushpig (P. larvatus)
+Red River Hog (P. porcus)
+
+
+
+
+
+
+
+
+
+Sus
+
+
+
+
+Palawan bearded pig (S. ahoenobarbus)
+Bornean bearded pig (S. barbatus)
+Indo-chinese warty pig (S. bucculentus)
+Visayan warty pig (S. cebifrons)
+Celebes warty pig (S. celebensis)
+Flores warty pig (S. heureni)
+Oliver's warty pig (S. oliveri)
+Philippine warty pig (S. philippensis)
+Wild boar (S. scrofa)
+Timor warty pig (S. timoriensis)
+Javan warty pig (S. verrucosus)
+
+
+
+
+
+
+
+
+
+
+
+Tayassuidae
+
+
+
+
+
+Tayassu
+
+
+
+
+White-lipped peccary (T. pecari)
+
+
+
+
+
+
+
+
+
+Catagonus
+
+
+
+
+Chacoan peccary (C. wagneri)
+
+
+
+
+
+
+
+
+
+Pecari
+
+
+
+
+Collared peccary (P. tajacu)
+Giant peccary (P. maximus)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Suborder Tylopoda
+
+
+
+
+
+
+
+
+
+
+
+Camelidae
+
+
+
+
+
+
+Lama
+
+
+
+
+Llama (L. glama)
+Guanaco (L. guanicoe)
+
+
+
+
+
+
+
+
+
+Vicugna
+
+
+
+
+Vicuña (V. vicugna)
+Alpaca (V. pacos)
+
+
+
+
+
+
+
+
+
+Camelus
+
+
+
+
+Dromedary (C. dromedarius)
+Bactrian camel (C. bactrianus)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Cetartiodactyla (unranked clade, higher than Artiodactyla)
+
+
+
+
+
+
+
+
+
+
+
+Hippopotamidae
+
+
+
+
+
+
+Hippopotamus
+
+
+
+
+Hippopotamus (H. amphibius)
+
+
+
+
+
+
+
+
+
+Choeropsis
+
+
+
+
+Pygmy hippopotamus (C. liberiensis)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Cryptozoology and cryptobotany
+
+
+
+
+
+
+
+
+
+
+ 
+Overview
+
+
+
+
+
+
+
+
+
+
+
+Core topics
+
+
+
+
+Cryptid
+List of cryptids
+Zoology
+Botany
+Megafauna discovered in modern times
+Pseudoscience
+
+
+
+
+
+
+
+
+
+Cryptozoologists
+
+
+
+
+Bernard Heuvelmans
+Karl Shuker
+Jonathan Downes
+Jon-Erik Beckjord
+John Bindernagel
+Richard Freeman
+Loren Coleman
+Alexandr Mikhailovych Kondratov
+Roy Mackal
+Ivan T. Sanderson
+Organizations
+
+
+
+
+
+
+
+
+
+Books and television
+
+
+
+
+Animal X
+Arthur C. Clarke's Mysterious World
+Beast Hunter
+Beast Legends
+Destination Truth
+Fact or Faked: Paranormal Files
+Fortean TV
+In Search of...
+Is It Real?
+Lost Tapes
+MonsterQuest
+On the Track of Unknown Animals
+Sasquatch: Legend Meets Science
+The X Creatures
+The Secret Saturdays
+Weird Travels
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Zoological cryptids
+
+
+
+
+
+
+
+
+
+
+
+Africa
+
+
+
+
+Adjule
+Agogwe
+Emela-ntouka
+Ennedi tiger
+Gambo
+Grootslang
+Gustave
+Inkanyamba
+Kongamato
+Mbielu-Mbielu-Mbielu
+Mokele-mbembe
+Malawi terror beast
+Mamlambo
+Muhuru
+Nandi Bear
+Ngoubou
+Olitiau
+Nguma-monene
+Popobawa
+Salawa
+Trunko
+Zanzibar Leopard
+
+
+
+
+
+
+
+
+
+Asia
+
+
+
+
+Ahool
+Akkorokamui
+Almas
+Amomongo
+Ayia Napa sea monster
+Barmanou
+Batutut
+Bergman's Bear
+Brosno dragon
+Bukit Timah Monkey Man
+Buru
+Cat-fox
+Devil Bird
+Hibagon
+Issie
+Kappa
+Kting Voar
+Kussie
+Lake Tianchi Monster
+Lake Van Monster
+Maltese Tiger
+Mongolian Death Worm
+Monkey-man of Delhi
+Orang Pendek
+Phaya Naga
+Qilin
+Ropen
+Sigbin
+Sarimanok
+Sumxu
+Tsuchinoko
+Veo
+Yeren
+Yeti
+
+
+
+
+
+
+
+
+
+Australasia-
+Oceania
+
+
+
+
+Amomongo
+Blue Mountains panther
+Bunyip
+Ebu Gogo
+Four Mile Globster
+Gippsland phantom cat
+Globster
+Manaul
+Megalania
+Moehau
+Zuiyo-maru carcass
+New Zealand Globster
+Queensland Tiger
+Siyokoy
+Tasmanian Globster
+Thylacoleo
+Tikbalang
+Waitoreke
+Yowie
+
+
+
+
+
+
+
+
+
+Europe
+
+
+
+
+Afanc
+Ayia Napa sea monster
+Beast of Gévaudan
+Bishop-fish
+British big cats
+Canvey Island Monster
+Dahu
+Dobhar-chú
+Each uisge
+Eachy
+Elwetritsch
+Fear liath
+Fish-man of Liérganes
+Giglioli's Whale
+Hebrides Blob
+Jenny Haniver
+Kellas Cat
+Kraken
+Lagarfljót Worm
+Lariosauro
+Lindworm
+Loch Ness Monster
+Morag
+Morgawr
+Muc-sheilch
+Owlman
+Sea monk
+Sea serpent
+Selma
+Skvader
+Storsjöodjuret
+Stronsay Beast
+Tatzelwurm
+Wolpertinger
+
+
+
+
+
+
+
+
+
+North
+America
+
+
+
+
+Altamaha-ha
+Bear Lake Monster
+Beast of Bladenboro
+Beast of Bray Road
+Beast of Busco
+Bermuda Blob
+Bermuda Blob 2
+Bessie
+Bigfoot
+Cadborosaurus willsi
+Champ
+Chessie
+Chupacabra
+Crawfordsville monster
+Dover Demon
+Flatwoods monster
+Fouke Monster
+Goatman
+Grassman
+Hodag
+Homo gardarensis
+Honey Island Swamp monster
+Hoop snake
+Huay Chivo
+Igopogo
+Iliamna Lake Monster
+Jersey Devil
+Kingstie
+Lake Worth Monster
+Lizard Man of Scape Ore Swamp
+Loveland frog
+Lusca
+MacFarlane's bear
+Manipogo
+Melon heads
+Michigan Dogman
+Minnesota Iceman
+Momo the Monster
+Montauk Monster
+Mothman
+Mussie
+Nantucket Blob
+Newfoundland Blob
+Nuk-luk
+Ogopogo
+Old Yellow Top
+Ozark Howler
+Panama Creature
+Pope Lick Monster
+Shunka Warakin
+Sidehill gouger
+Skunk Ape
+St. Augustine Monster
+Tahoe Tessie
+Thunderbird
+Trinity Alps giant salamander
+Tsul 'Kalu
+Turtle Lake Monster
+Waheela
+Wampus cat
+
+
+
+
+
+
+
+
+
+South
+America
+
+
+
+
+Ameranthropoides loysi
+Andean Wolf
+Bloop
+Cherufe
+Chilean Blob
+Chupacabra
+Giant anaconda
+Mapinguari
+Minhocão
+Mono Grande
+Mylodon
+Nahuelito
+Peuchen
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Botanical cryptids
+
+
+
+
+
+
+
+
+
+Raskovnik
+Man-eating tree
+Umdhlebi
+Vegetable Lamb of Tartary
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+NewPP limit report
+CPU time usage: 2.860 seconds
+Real time usage: 3.250 seconds
+Preprocessor visited node count: 16529/1000000
+Preprocessor generated node count: 45418/1500000
+Post‐expand include size: 857169/2048000 bytes
+Template argument size: 101863/2048000 bytes
+Highest expansion depth: 19/40
+Expensive parser function count: 5/500
+Lua time usage: 0.157s
+Lua memory usage: 1.69 MB
+
+
+ Saved in parser cache with key enwiki:pcache:idhash:992106-0!*!0!!en!4!* and timestamp 20130922042534 
+								
+				Retrieved from "http://en.wikipedia.org/w/index.php?title=Kting_voar&oldid=540512715"				
+												Categories: IUCN Red List endangered speciesMammals of AsiaCryptidsBovinesAnimals described in 1994Megafauna of EurasiaMonotypic mammal generaHidden categories: Articles with 'species' microformatsArticles lacking in-text citations from June 2009All articles lacking in-text citations												
+							
+		
+		
+			Navigation menu
+			
+				
+	Personal tools
+	
+Create accountLog in	
+
+				
+					
+	Namespaces
+	
+					Article
+					Talk
+			
+
+
+	
+		
+	Variants
+	
+		
+					
+	
+
+				
+				
+					
+	Views
+	
+					Read
+					Edit
+					View history
+			
+
+
+	Actions
+	
+		
+					
+	
+
+
+	Search
+	
+				
+																				
+		
+	
+
+				
+			
+			
+					
+				
+	Navigation
+	
+		
+			Main page
+			Contents
+			Featured content
+			Current events
+			Random article
+			Donate to Wikipedia
+		
+	
+
+
+	Interaction
+	
+		
+			Help
+			About Wikipedia
+			Community portal
+			Recent changes
+			Contact page
+		
+	
+
+
+	Toolbox
+	
+		
+			What links here
+			Related changes
+			Upload file
+			Special pages
+			Permanent link
+			Page information
+			Data item
+Cite this page		
+	
+
+
+	Print/export
+	
+		
+			Create a book
+			Download as PDF
+			Printable version
+		
+	
+
+
+	Languages
+	
+		
+			Català
+			Deutsch
+			Français
+			Italiano
+			Português
+			ไทย
+			Tiếng Việt
+			中文
+			
+			Edit links
+		
+	
+
+			
+		
+		
+							
+											 This page was last modified on 26 February 2013 at 05:49.
+											Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. 
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+									
+							
+											Privacy policy
+											About Wikipedia
+											Disclaimers
+											Contact Wikipedia
+											Developers
+											Mobile view
+									
+										
+					
+						
+					
+					
+						
+					
+				
+						
+		
+		
+
+
+ Served by mw1028 in 0.252 secs. 
+	
+if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Kting_voar","wgTitle":"Kting voar","wgCurRevisionId":540512715,"wgArticleId":992106,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["IUCN Red List endangered species","Articles with 'species' microformats","Articles lacking in-text citations from June 2009","All articles lacking in-text citations","Mammals of Asia","Cryptids","Bovines","Animals described in 1994","Megafauna of Eurasia","Monotypic mammal genera"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Kting_voar","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Kting_Voar","wgVectorEnabledModules":{"collapsiblenav":true,"experiments":true},"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"templateEditor":false,"templates":false,"preview":false,"previewDialog":false,"publish":false,"toc":false},"wgArticleFeedbackv5Permissions":{"aft-reader":true,"aft-member":false,"aft-editor":false,"aft-monitor":false,"aft-administrator":false,"aft-oversighter":false,"aft-noone":false},"wgVisualEditor":{"isPageWatched":false,"magnifyClipIconURL":"//bits.wikimedia.org/static-1.22wmf18/skins/common/images/magnify-clip.png","pageLanguageCode":"en","pageLanguageDir":"ltr"},"wikilove-recipient":"","wikilove-anon":0,"wgGuidedTourHelpGuiderUrl":"Help:Guided tours/guider","wgULSAcceptLanguageList":[],"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia","aftv5Article":{"id":992106,"title":"Kting voar","namespace":0,"categories":["All articles lacking in-text citations","Animals described in 1994","Articles lacking in-text citations from June 2009","Articles with 'species' microformats","Bovines","Cryptids","IUCN Red List endangered species","Mammals of Asia","Megafauna of Eurasia","Monotypic mammal genera"],"permissionLevel":false},"wgWikibaseItemId":"Q1310564"});
+}if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":false,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,
+"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"useeditwarning":1,"prefershttps":1,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"vector-simplesearch":1,"vector-collapsiblenav":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"aftv5-last-filter":null,"visualeditor-enable":0,"visualeditor-enable-experimental":0,"visualeditor-betatempdisable":0,"wikilove-enabled":1,"echo-subscriptions-web-page-review":true,"echo-subscriptions-email-page-review":false,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"echo-notify-show-link":true,"echo-show-alert":true,"echo-email-frequency":0,"echo-email-format":"html","echo-subscriptions-email-system":true,"echo-subscriptions-web-system":true,"echo-subscriptions-email-other":false,"echo-subscriptions-web-other":true,"echo-subscriptions-email-edit-user-talk":false,"echo-subscriptions-web-edit-user-talk":true,
+"echo-subscriptions-email-reverted":false,"echo-subscriptions-web-reverted":true,"echo-subscriptions-email-article-linked":false,"echo-subscriptions-web-article-linked":false,"echo-subscriptions-email-mention":false,"echo-subscriptions-web-mention":true,"echo-subscriptions-web-edit-thank":true,"echo-subscriptions-email-edit-thank":false,"gettingstarted-task-toolbar-show-intro":true,"uls-preferences":"","language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs446":false,"searchNs447":false
+,"searchNs710":false,"searchNs711":false,"searchNs828":false,"searchNs829":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-mySandbox":1,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:156d8fe0ae17f8afd74198057563e45d */
+}if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","ext.visualEditor.viewPageTarget.init","ext.wikimediaShopLink.core","ext.uls.init","ext.uls.interface","wikibase.client.init","ext.centralNotice.bannerController","skins.vector.js"]);
+}/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}if(window.mw){
+mw.loader.load(["mobile.desktop","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.cite","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","mw.MwEmbedSupport.style","ext.vector.collapsibleNav","ext.articleFeedbackv5.startup","ext.gettingstarted.logging","ext.gettingstarted.openTask","schema.HttpsSupport","ext.coreEvents.httpsSupport","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","mw.PopUpMediaTransform"],null,true);
+}

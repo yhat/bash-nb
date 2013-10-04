@@ -1,0 +1,461 @@
+
+
+
+Ankylosaurus - Wikipedia, the free encyclopedia
+
+
+
+
+
+
+
+
+
+
+
+
+a:lang(ar),a:lang(ckb),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:0de201fdea5d684523607ed88007b127 */
+
+
+
+
+[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.22wmf18/skins/vector/csshover.min.htc")}</style><![endif]
+
+		
+		
+		
+			
+			
+						 CentralNotice 
+						Ankylosaurus
+			
+								From Wikipedia, the free encyclopedia
+								
+												
+					Jump to:					navigation, 					search
+				
+				
+
+
+
+Ankylosaurus
+Temporal range: Late Cretaceous,[1] 66.5–65.5Ma
+
+PreЄ
+Є
+O
+S
+D
+C
+P
+T
+J
+K
+Pg
+N
+
+
+
+↓
+
+
+
+
+
+
+
+
+
+Skull from the Scollard Formation, Alberta
+
+
+Scientific classification 
+
+
+Kingdom:
+Animalia
+
+
+Phylum:
+Chordata
+
+
+Clade:
+Sauropsida
+
+
+Clade:
+Dinosauria
+
+
+Order:
+†Ornithischia
+
+
+Family:
+†Ankylosauridae
+
+
+Subfamily:
+†Ankylosaurinae
+
+
+Genus:
+†Ankylosaurus
+Brown, 1908
+
+
+Species:
+†A. magniventris
+Brown, 1908
+
+
+
+Ankylosaurus (pronounced /ˌæŋkɨlɵˈsɔrəs/ ANG-ki-lo-SAWR-əs or /æŋˌkaɪlɵˈsɔrəs/ ang-KY-lo-SAWR-əs,[2] and which means "fused lizard") is a genus of ankylosaurid dinosaur, containing one species, A. magniventris. Fossils of Ankylosaurus are found in geologic formations dating to the very end of the Cretaceous Period (between about 66.5–65.5 Ma ago[1]) in western North America.
+Although a complete skeleton has not been discovered and several other dinosaurs are represented by more extensive fossil material, Ankylosaurus is often considered the archetypal armored dinosaur. Other ankylosaurids shared its well-known features—the heavily-armored body and massive bony tail club—but Ankylosaurus was the largest known member of the family.
+
+
+Contents
+
+
+1 Anatomy and paleobiology
+
+1.1 Armor
+1.2 Tail club
+1.3 Environment
+
+
+2 Classification
+3 Discovery
+4 In popular culture
+5 References
+6 External links
+
+
+Anatomy and paleobiology[edit]
+
+
+
+
+Estimated size of Ankylosaurus compared to a human.
+
+
+Ankylosaurus was a large animal by modern standards, estimated at lengths of 8 to 9 m (26 to 30 ft)[3] and weighing up to 6 tonnes (13,000 lb).[4] However, following a significant redescription of the fossils in 2004, a much smaller size has been suggested, based on the largest known skull, at 64.5 cm (25.4 inches) long and 74.5 cm (29.3 inches) wide, the whole animal was estimated at 6.25 m (20.5 feet) long, 1.5 m (4.9 feet) wide and 1.7 m (5.6 feet) tall at the hip.[5] The body shape was low-slung and quite wide. It was quadrupedal, with the hind limbs longer than the forelimbs. Although its feet are still unknown, comparisons with other ankylosaurs suggest Ankylosaurus probably had five toes on each foot. The skull was low and triangular in shape, wider than it was long. Like other ankylosaurs, Ankylosaurus was herbivorous, with small, leaf-shaped teeth suitable for cropping vegetation. These teeth were smaller, relative to the body size, than in any other ankylosaurid species.[6] Ankylosaurus did not share the grinding tooth batteries of the contemporaneous ceratopsid and hadrosaurid dinosaurs, indicating that very little chewing occurred. Bones in the skull and other parts of the body were fused, increasing their strength.[5]
+Armor[edit]
+The most obvious feature of Ankylosaurus is its armor, consisting of massive knobs and plates of bone, known as osteoderms or scutes, embedded in the skin. Osteoderms are also found in the skin of crocodiles, armadillos and some lizards. The bone was probably overlain by a tough, horny layer of keratin. These osteoderms ranged greatly in size, from wide, flat plates to small, round nodules. The plates were aligned in regular horizontal rows down the animal's neck, back, and hips, with the many smaller nodules protecting the areas between the large plates. Smaller plates may have been arranged on the limbs and tail. Compared to the slightly more ancient ankylosaurid Euoplocephalus, the plates of Ankylosaurus were smooth in texture, without the high keels found on the armor of the contemporaneous nodosaurid Edmontonia. A row of flat, triangular spikes may have protruded laterally along each side of the tail. Tough, rounded scales protected the top of the skull, while four large pyramidal horns projected outwards from its rear corners.[5]
+Tail club[edit]
+
+
+
+
+Ankylosaurus tail club, AMNH
+
+
+The famous tail club of Ankylosaurus was also composed of several large osteoderms, which were fused to the last few tail vertebrae. It was heavy and supported by the last seven tail vertebrae, which interlocked to form a stiff rod at the base of the club. Thick tendons have been preserved, which attached to these vertebrae. These tendons were partially ossified (or bony) and were not very elastic, allowing great force to be transmitted to the end of the tail when it was swung. It seems to have been an active defensive weapon, capable of producing enough of a devastating impact to break the bones of an assailant.[5] A 2009 study showed that "large tail knobs could generate sufficient force to break bone during impacts, but average and small knobs could not", and that "tail swinging behavior is feasible in ankylosaurids, but it remains unknown whether the tail was used for interspecific defense, intraspecific combat, or both".[7] It has also been proposed that the tail club acted as a decoy for the head, although this idea is now largely discredited.[8]
+Environment[edit]
+
+
+
+
+Illustration of Ankylosaurus magniventris
+
+
+Ankylosaurus existed between 66.5 to 65.5 million years ago, in the final Maastrichtian stage of the Late Cretaceous Period, and was among the last dinosaur species that appeared before the Cretaceous–Paleogene extinction event. The type specimen is from the Hell Creek Formation of Montana, while other specimens have been found in the Lance Formation of Wyoming and the Scollard Formation in Alberta, Canada, all of which date to the end of the Cretaceous.[3]
+The Lance, Hell Creek and Scollard Formations represent different sections of the western shore of the shallow sea that divided western and eastern North America during the Cretaceous. They represent a broad coastal plain, extending westward from the seaway to the newly formed Rocky Mountains. These formations are composed largely of sandstone and mudstone, which have been attributed to floodplain environments.[9][10][11] The Hell Creek is the best studied of these ancient environments. At the time, this region was subtropical, with a warm and humid climate. Many plant species were supported, primarily angiosperms, with less common conifers, ferns and cycads. An abundance of fossil leaves found at dozens of different sites indicates that the area was largely forested by small trees.[12] Ankylosaurus shared its environment with dinosaurs including the ceratopsids Triceratops and Torosaurus, hypsilophodont Thescelosaurus, hadrosaurid Edmontosaurus, nodosaurid Edmontonia, pachycephalosaurian Pachycephalosaurus, and the theropods Ornithomimus, Troodon, and Tyrannosaurus.[13][14]
+Fossils of Ankylosaurus are considerably rare in these sediments, compared to Edmontosaurus and the super-abundant Triceratops, which make up most of the large herbivore fauna. Another ankylosaur, Edmontonia, is also found in the same formations. However, Ankylosaurus and Edmontonia seem to have been separated both geographically and ecologically. Ankylosaurus had a wide muzzle, perhaps used for non-selective grazing and thus may have been limited to the upland regions, away from the coast, while Edmontonia had a narrower muzzle, indicating a more selective diet, and seems to have lived at lower elevations, closer to the coast.[5]
+Classification[edit]
+Ankylosaurus was named as the type genus of the family Ankylosauridae.[15] Ankylosaurids are members of the larger taxon Ankylosauria, which also contains the nodosaurids. Ankylosaur phylogeny is a contentious topic, with several mutually exclusive analyses presented in recent years, so the exact position of Ankylosaurus within Ankylosauridae is unknown. Ankylosaurus and Euoplocephalus are often thought to be sister taxa.[3] However, other analyses have found these genera in different positions.[16][17] Further discoveries or research may clarify the situation.
+Discovery[edit]
+
+
+
+
+Restoration of Ankylosaurus (AMNH 5895) by Barnum Brown, 1908, before the tail club was known
+
+
+Ankylosaurus was named by American paleontologist Barnum Brown, in 1908. The generic name is derived from the Greek words αγκυλος/ankulos ('curved') and σαυρος/sauros ('lizard'). Brown intended this name in the same sense as the medical term ankylosis, to refer to the stiffness produced by the fusion of many bones in the skull and body, so the name is often translated as 'stiffened lizard.' The type species is A. magniventris, from the Latin magnus ('great') and venter ('belly'), referring to the great width of the animal's body.[15]
+A team led by Brown discovered the type specimen of A. magniventris (AMNH 5895) in the Hell Creek Formation of Montana, in 1906. This consisted of the top of the skull, as well as vertebrae, ribs, part of the shoulder girdle and armor. Six years earlier, Brown found the skeleton of a large theropod dinosaur (AMNH 5866) in the Lance Formation of Wyoming. This specimen was named Dynamosaurus imperiosus in 1905 but is now thought to belong to Tyrannosaurus rex. Associated with AMNH 5866 were more than 75 osteoderms of various sizes, which were attributed to Dynamosaurus. However, these osteoderms are nearly identical in form to those of A. magniventris and most probably belong to this species. In 1910, while on an expedition to Alberta, Barnum Brown recovered his third specimen of A. magniventris (AMNH 5214), from the Scollard Formation. AMNH 5214 includes a complete skull and the first known tail club, as well as ribs, limb bones and armor. All three of the above specimens are now housed at the American Museum of Natural History in New York City. The largest known skull of this animal (NMC 8880) was collected in Alberta by Charles M. Sternberg, in 1947, and is now housed at the Canadian Museum of Nature. Many other isolated bones, armor plates and teeth have been found over the years.[5]
+In popular culture[edit]
+Since its description in 1908, Ankylosaurus has been publicized as the archetypal armored dinosaur, and due to its easily recognizable appearance and the intense public interest in dinosaurs, it has been a feature of worldwide popular culture for many years. A life-sized reconstruction of Ankylosaurus featured at the 1964 World's Fair in New York City greatly contributed to its popularity.[5] Ankylosaurus is named in the 1955 Japanese kaiju film Godzilla Raids Again as the ancestor of the mutated monster Anguirus. (Many variations in pronunciation and spelling exist.) Anguirus appeared in seven Godzilla films between 1955 and 2004. Anguirus has also made numerous appearances in books, on television shows, and in video games.
+References[edit]
+
+
+^ a b Arbour, V. M.; Burns, M. E.; and Sissons, R. L. (2009). "A redescription of the ankylosaurid dinosaur Dyoplosaurus acutosquameus Parks, 1924 (Ornithischia: Ankylosauria) and a revision of the genus". Journal of Vertebrate Paleontology 29 (4): 1117–1135. doi:10.1671/039.029.0405. 
+^ Creisler, Ben (July 7, 2003). "Dinosauria Translation and Pronunciation Guide A". Archived from the original on August 18, 2010. Retrieved September 3, 2010. 
+^ a b c Vickaryous, M.K., Maryanska, T., & Weishampel, D.B. 2004. Ankylosauria. In: Weishampel, D.B., Dodson, P., & Osmólska, H. (Eds.). The Dinosauria (2nd edition). Berkeley: University of California Press. Pp. 363-392.
+^ Coombs, Walter P. (December 1978). "Theoretical Aspects of Cursorial Adaptations in Dinosaurs". The Quarterly Review of Biology 53 (4): 393–418. doi:10.1086/410790. 
+^ a b c d e f g Carpenter, K. 2004. Redescription of Ankylosaurus magniventris Brown 1908 (Ankylosauridae) from the Upper Cretaceous of the Western Interior of North America. Canadian Journal of Earth Sciences 41: 961–986.
+^ Carpenter, Kenneth (2001). The Armored Dinosaurs. Indiana University Press. p. 255. ISBN 0-253-33964-2. 
+^ Arbour, V. M. (2009) "Estimating Impact Forces of Tail Club Strikes by Ankylosaurid Dinosaurs" PLoS ONE 4(8): e6738. [1] doi:10.1371/journal.pone.0006738
+^ Thulborn, T. 1993. Mimicry in ankylosaurid dinosaurs. Record of the South Australian Museum 27: 151–158.
+^ Lofgren, D.F. 1997. Hell Creek Formation. In: Currie, P.J. & Padian, K. (Eds.). The Encyclopedia of Dinosaurs. San Diego: Academic Press. Pp. 302-303.
+^ Breithaupt, B.H. 1997. Lance Formation. In: Currie, P.J. & Padian, K. (Eds.). The Encyclopedia of Dinosaurs. San Diego: Academic Press. Pp. 394-395.
+^ Eberth, D.A. 1997. Edmonton Group. In: Currie, P.J. & Padian, K. (Eds.). The Encyclopedia of Dinosaurs. San Diego: Academic Press. Pp. 199-204.
+^ Johnson, K.R. 1997. Hell Creek Flora. In: Currie, P.J. & Padian, K. (Eds.). The Encyclopedia of Dinosaurs. San Diego: Academic Press. Pp. 300-302.
+^ Weishampel, David B.; Barrett, Paul M.; Coria, Rodolfo A.; Le Loeuff, Jean; Xu Xing; Zhao Xijin; Sahni, Ashok; Gomani, Elizabeth, M.P.; and Noto, Christopher R. (2004). "Dinosaur Distribution". The Dinosauria (2nd). 517–606.
+^ Phillip Bigelow. "Cretaceous "Hell Creek Faunal Facies; Late Maastrichtian". Archived from the original on 24 January 2007. Retrieved 2007-01-26. 
+^ a b Brown, B. 1908. The Ankylosauridae, a new family of armored dinosaurs from the Upper Cretaceous. Bulletin of the American Museum of Natural History 24: 187–201.
+^ Carpenter, K. 2001. Phylogenetic analysis of the Ankylosauria. In: Carpenter, K. (Ed.). The Armored Dinosaurs. Bloomington: Indiana University Press. Pp. 454–483.
+^ Hill, R.V., Witmer, L.M., & Norell, M.A. 2003. A new specimen of Pinacosaurus grangeri (Dinosauria: Ornithischia) from the Late Cretaceous of Mongolia: ontogeny and phylogeny of ankylosaurs. American Museum Novitates 3395: 1-29.
+
+
+External links[edit]
+
+
+
+Wikispecies has information related to: Ankylosaurus
+
+
+
+
+
+Wikimedia Commons has media related to Ankylosaurus.
+
+
+
+
+
+Look up ankylosaurus in Wiktionary, the free dictionary.
+
+
+
+
+
+Wikibooks has a book on the topic of: Wikijunior Dinosaurs/Ankylosaurus
+
+
+
+
+
+
+Dinosaurs portal
+
+
+
+
+Ankylosaurus- The Bullet-Proof Dinosaur'
+
+ 
+
+
+ 
+NewPP limit report
+CPU time usage: 4.672 seconds
+Real time usage: 4.933 seconds
+Preprocessor visited node count: 26306/1000000
+Preprocessor generated node count: 44817/1500000
+Post‐expand include size: 87705/2048000 bytes
+Template argument size: 45788/2048000 bytes
+Highest expansion depth: 39/40
+Expensive parser function count: 1/500
+Lua time usage: 0.073s
+Lua memory usage: 1.7 MB
+
+
+ Saved in parser cache with key enwiki:pcache:idhash:983374-0!*!0!!en!4!* and timestamp 20131003061013 
+								
+				Retrieved from "http://en.wikipedia.org/w/index.php?title=Ankylosaurus&oldid=575541539"				
+												Categories: AnkylosaursCretaceous dinosaursDinosaurs of North AmericaHidden categories: Good articlesArticles with 'species' microformats												
+							
+		
+		
+			Navigation menu
+			
+				
+	Personal tools
+	
+Create accountLog in	
+
+				
+					
+	Namespaces
+	
+					Article
+					Talk
+			
+
+
+	
+		
+	Variants
+	
+		
+					
+	
+
+				
+				
+					
+	Views
+	
+					Read
+					Edit
+					View history
+			
+
+
+	Actions
+	
+		
+					
+	
+
+
+	Search
+	
+				
+																				
+		
+	
+
+				
+			
+			
+					
+				
+	Navigation
+	
+		
+			Main page
+			Contents
+			Featured content
+			Current events
+			Random article
+			Donate to Wikipedia
+		
+	
+
+
+	Interaction
+	
+		
+			Help
+			About Wikipedia
+			Community portal
+			Recent changes
+			Contact page
+		
+	
+
+
+	Toolbox
+	
+		
+			What links here
+			Related changes
+			Upload file
+			Special pages
+			Permanent link
+			Page information
+			Data item
+Cite this page		
+	
+
+
+	Print/export
+	
+		
+			Create a book
+			Download as PDF
+			Printable version
+		
+	
+
+
+	Languages
+	
+		
+			العربية
+			Български
+			Brezhoneg
+			Català
+			Česky
+			Dansk
+			Deutsch
+			Ελληνικά
+			Español
+			Euskara
+			Français
+			Galego
+			한국어
+			Hawai`i
+			Hrvatski
+			Bahasa Indonesia
+			Íslenska
+			Italiano
+			עברית
+			Basa Jawa
+			Magyar
+			Монгол
+			Nederlands
+			日本語
+			Norsk bokmål
+			Occitan
+			Polski
+			Português
+			Română
+			Русский
+			Simple English
+			Slovenčina
+			Srpskohrvatski / српскохрватски
+			Suomi
+			Svenska
+			Tagalog
+			ไทย
+			Türkçe
+			Українська
+			Tiếng Việt
+			中文
+			
+			Edit links
+		
+	
+
+			
+		
+		
+							
+											 This page was last modified on 3 October 2013 at 06:10.
+											Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. 
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+									
+							
+											Privacy policy
+											About Wikipedia
+											Disclaimers
+											Contact Wikipedia
+											Developers
+											Mobile view
+									
+										
+					
+						
+					
+					
+						
+					
+				
+						
+		
+		
+
+
+ Served by mw1185 in 0.165 secs. 
+	
+if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Ankylosaurus","wgTitle":"Ankylosaurus","wgCurRevisionId":575541539,"wgArticleId":983374,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Good articles","Articles with 'species' microformats","Ankylosaurs","Cretaceous dinosaurs","Dinosaurs of North America"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Ankylosaurus","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgVectorEnabledModules":{"collapsiblenav":true,"experiments":true},"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"templateEditor":false,"templates":false,"preview":false,"previewDialog":false,"publish":false,"toc":false},"wgArticleFeedbackv5Permissions":{"aft-reader":false,"aft-member":false,"aft-editor":false,"aft-monitor":false,"aft-administrator":false,"aft-oversighter":false,"aft-noone":false},"wgVisualEditor":{"isPageWatched":false,"magnifyClipIconURL":"//bits.wikimedia.org/static-1.22wmf18/skins/common/images/magnify-clip.png","pageLanguageCode":"en","pageLanguageDir":"ltr"},"wikilove-recipient":"","wikilove-anon":0,"wgGuidedTourHelpGuiderUrl":"Help:Guided tours/guider","wgULSAcceptLanguageList":[],"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia","aftv5Article":{"id":983374,"title":"Ankylosaurus","namespace":0,"categories":["Ankylosaurs","Articles with 'species' microformats","Cretaceous dinosaurs","Dinosaurs of North America","Good articles"],"permissionLevel":false},"wgWikibaseItemId":"Q40621"});
+}if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":false,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,
+"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"useeditwarning":1,"prefershttps":1,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"vector-simplesearch":1,"vector-collapsiblenav":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"aftv5-last-filter":null,"visualeditor-enable":0,"visualeditor-enable-experimental":0,"visualeditor-betatempdisable":0,"wikilove-enabled":1,"echo-subscriptions-web-page-review":true,"echo-subscriptions-email-page-review":false,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"echo-notify-show-link":true,"echo-show-alert":true,"echo-email-frequency":0,"echo-email-format":"html","echo-subscriptions-email-system":true,"echo-subscriptions-web-system":true,"echo-subscriptions-email-other":false,"echo-subscriptions-web-other":true,"echo-subscriptions-email-edit-user-talk":false,"echo-subscriptions-web-edit-user-talk":true,
+"echo-subscriptions-email-reverted":false,"echo-subscriptions-web-reverted":true,"echo-subscriptions-email-article-linked":false,"echo-subscriptions-web-article-linked":false,"echo-subscriptions-email-mention":false,"echo-subscriptions-web-mention":true,"echo-subscriptions-web-edit-thank":true,"echo-subscriptions-email-edit-thank":false,"gettingstarted-task-toolbar-show-intro":true,"uls-preferences":"","language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs446":false,"searchNs447":false
+,"searchNs710":false,"searchNs711":false,"searchNs828":false,"searchNs829":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-mySandbox":1,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:156d8fe0ae17f8afd74198057563e45d */
+}if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","ext.visualEditor.viewPageTarget.init","ext.wikimediaShopLink.core","ext.uls.init","ext.uls.interface","wikibase.client.init","ext.centralNotice.bannerController","skins.vector.js"]);
+}/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}if(window.mw){
+mw.loader.load(["mobile.desktop","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.cite","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","mw.MwEmbedSupport.style","ext.vector.collapsibleNav","ext.articleFeedbackv5.startup","ext.gettingstarted.logging","ext.gettingstarted.openTask","schema.HttpsSupport","ext.coreEvents.httpsSupport","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","mw.PopUpMediaTransform"],null,true);
+}

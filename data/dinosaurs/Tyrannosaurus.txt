@@ -1,0 +1,1220 @@
+
+
+
+Tyrannosaurus - Wikipedia, the free encyclopedia
+
+
+
+
+
+
+
+
+
+
+a:lang(ar),a:lang(ckb),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:0de201fdea5d684523607ed88007b127 */
+
+
+
+
+[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.22wmf18/skins/vector/csshover.min.htc")}</style><![endif]
+
+		
+		
+		
+			
+			
+						 CentralNotice 
+						Tyrannosaurus
+			
+								From Wikipedia, the free encyclopedia
+								
+												
+					Jump to:					navigation, 					search
+				
+				"T. rex" redirects here. For other uses, see T. rex (disambiguation).
+
+
+
+
+Tyrannosaurus
+Temporal range: Late Cretaceous, 67–65.5Ma
+
+PreЄ
+Є
+O
+S
+D
+C
+P
+T
+J
+K
+Pg
+N
+
+
+
+↓
+
+
+
+
+
+
+
+
+
+Reconstructed type specimen (CM 9380) at the Carnegie Museum of Natural History
+
+
+Scientific classification 
+
+
+Kingdom:
+Animalia
+
+
+Phylum:
+Chordata
+
+
+Clade:
+Sauropsida
+
+
+Clade:
+Dinosauria
+
+
+Clade:
+Theropoda
+
+
+Family:
+†Tyrannosauridae
+
+
+Subfamily:
+†Tyrannosaurinae
+
+
+Tribe:
+†Tyrannosaurini
+Osborn, 1906
+
+
+Genus:
+†Tyrannosaurus
+Osborn, 1905
+
+
+Type species
+
+
+†Tyrannosaurus rex
+Osborn, 1905
+
+
+Synonyms
+
+
+
+
+Genus synonymy
+
+Manospondylus
+Cope, 1892
+Dynamosaurus
+Osborn, 1905
+Nanotyrannus?
+Bakker, Williams & Currie, 1988
+Stygivenator
+Olshevsky, 1995
+Dinotyrannus
+Olshevsky, 1995
+
+
+
+Species synonymy
+
+Manospondylus gigas
+Cope, 1892
+Aublysodon amplus?
+Marsh, 1892
+Deinodon amplus?
+(Marsh, 1892)
+Manospondylus amplus?
+(Marsh, 1892)
+Stygivenator amplus?
+(Marsh, 1892)
+Tyrannosaurus amplus?
+(Marsh, 1892)
+Aublysodon cristatus?
+Marsh, 1892
+Deinodon cristatus?
+(Marsh, 1892)
+Stygivenator cristatus?
+(Marsh, 1892)
+Dynamosaurus imperiosus
+Osborn, 1905
+Tyrannosaurus imperiosus
+(Osborn, 1905)
+Gorgosaurus lancensis?
+Gilmore, 1946
+Albertosaurus lancensis?
+(Gilmore, 1946)
+Aublysodon lancensis?
+(Gilmore, 1946)
+Deinodon lancensis?
+(Gilmore, 1946)
+Nanotyrannus lancensis?
+(Gilmore, 1946)
+Stygivenator molnari
+(Paul, 1988)
+Dinotyrannus megagracilis
+Olshevsky, 1995
+
+
+
+
+
+
+Tyrannosaurus (/tɨˌrænəˈsɔrəs/ or /taɪˌrænəˈsɔrəs/; meaning "tyrant lizard", from Greek tyrannos (τύραννος) meaning "tyrant," and sauros (σαῦρος) meaning "lizard"[1]) is a genus of coelurosaurian theropod dinosaur. The species Tyrannosaurus rex (rex meaning "king" in Latin), commonly abbreviated to T. rex, is a fixture in popular culture. It lived throughout what is now western North America, at the time an island continent termed Laramidia, with a much wider range than other tyrannosaurids. Fossils are found in a variety of rock formations dating to the Maastrichtian age of the upper Cretaceous Period, 67 to 65.5 million years ago.[2] It was among the last non-avian dinosaurs to exist before the Cretaceous–Paleogene extinction event.
+Like other tyrannosaurids, Tyrannosaurus was a bipedal carnivore with a massive skull balanced by a long, heavy tail. Relative to the large and powerful hindlimbs, Tyrannosaurus forelimbs were small, though unusually powerful for their size, and bore two clawed digits. Although other theropods rivaled or exceeded Tyrannosaurus rex in size, it was the largest known tyrannosaurid and one of the largest known land predators, the most complete specimen measuring up to 12.3 m (40 ft) in length,[3] up to 4 metres (13 ft) tall at the hips,[4] and up to 6.8 metric tons (7.5 short tons) in weight.[5] By far the largest carnivore in its environment, Tyrannosaurus rex may have been an apex predator, preying upon hadrosaurs, ceratopsians, and possibly sauropods,[6] although some experts have suggested it was primarily a scavenger. The debate over Tyrannosaurus as apex predator or scavenger is among the longest running in paleontology. However, it is commonly agreed amongst most scientists that Tyrannosaurus rex was an opportunistic carnivore, both predating and scavenging.[7]
+More than 30 specimens of Tyrannosaurus rex have been identified, some of which are nearly complete skeletons. Soft tissue and proteins have been reported in at least one of these specimens. The abundance of fossil material has allowed significant research into many aspects of its biology, including life history and biomechanics. The feeding habits, physiology and potential speed of Tyrannosaurus rex are a few subjects of debate. Its taxonomy is also controversial, with some scientists considering Tarbosaurus bataar from Asia to represent a second species of Tyrannosaurus and others maintaining Tarbosaurus as a separate genus. Several other genera of North American tyrannosaurids have also been synonymized with Tyrannosaurus.
+
+
+Contents
+
+
+1 Description
+2 Classification
+3 Paleobiology
+
+3.1 Life history
+3.2 Sexual dimorphism
+3.3 Posture
+3.4 Arms
+3.5 Soft tissue
+3.6 Skin and feathers
+3.7 Thermoregulation
+3.8 Footprints
+3.9 Locomotion
+3.10 Senses
+3.11 Feeding
+
+3.11.1 Scavenging
+3.11.2 Hunting Strategies
+3.11.3 Feeding behavior
+3.11.4 Cannibalism
+3.11.5 Pack behavior
+
+
+3.12 Pathology
+
+
+4 Paleoecology
+5 History
+
+5.1 Earliest finds
+5.2 Manospondylus
+5.3 Notable specimens
+
+
+6 In popular culture
+7 References
+8 Further reading
+9 External links
+
+
+Description
+
+
+
+
+Size (in green) compared with selected giant theropods
+
+
+Tyrannosaurus rex was one of the largest land carnivores of all time; the largest complete specimen, FMNH PR2081 ("Sue") measured 12.3 metres (40 ft) long,[3] and was 4 metres (13 ft) tall at the hips.[4] Mass estimates have varied widely over the years, from more than 7.2 metric tons (7.9 short tons),[8] to less than 4.5 metric tons (5.0 short tons),[9][10] with most modern estimates ranging between 5.4 and 6.8 metric tons (6.0 and 7.5 {{{u}}}).[5][11][12][13] Packard et al. (2009) tested dinosaur mass estimation procedures on elephants and concluded that dinosaur estimations are flawed and produce over-estimations; thus, the weight of Tyrannosaurus could be much less than usually estimated.[14] Other estimations have concluded that the largest known Tyrannosaurus specimens had masses approaching[15] or exceeding 9 tonnes.[3]
+
+
+
+
+Restoration of T. rex
+
+
+The neck of Tyrannosaurus rex formed a natural S-shaped curve like that of other theropods, but was short and muscular to support the massive head. The forelimbs had only two clawed fingers,[16] along with an additional small metacarpal representing the remnant of a third digit.[17] In contrast the hind limbs were among the longest in proportion to body size of any theropod. The tail was heavy and long, sometimes containing over forty vertebrae, in order to balance the massive head and torso. To compensate for the immense bulk of the animal, many bones throughout the skeleton were hollow, reducing its weight without significant loss of strength.[16]
+The largest known Tyrannosaurus rex skulls measure up to 5 feet (1.5 m) in length.[18] Large fenestrae (openings) in the skull reduced weight and provided areas for muscle attachment, as in all carnivorous theropods. But in other respects Tyrannosaurus's skull was significantly different from those of large non-tyrannosauroid theropods. It was extremely wide at the rear but had a narrow snout, allowing unusually good binocular vision.[19][20] The skull bones were massive and the nasals and some other bones were fused, preventing movement between them; but many were pneumatized (contained a "honeycomb" of tiny air spaces) which may have made the bones more flexible as well as lighter. These and other skull-strengthening features are part of the tyrannosaurid trend towards an increasingly powerful bite, which easily surpassed that of all non-tyrannosaurids.[21][22][23] The tip of the upper jaw was U-shaped (most non-tyrannosauroid carnivores had V-shaped upper jaws), which increased the amount of tissue and bone a tyrannosaur could rip out with one bite, although it also increased the stresses on the front teeth.[24][25]
+
+
+
+
+Profile view of a skull (AMNH 5027)
+
+
+A 2012 study by scientists Karl Bates and Peter Falkingham suggested that the bite force of Tyrannosaurus could have been the strongest of any terrestrial animal that has ever lived. The calculations suggested that adult T. rex could have generated from 35000 to 57000 newtons of force in the back teeth, or the equivalent of three times the force estimated for a great white shark, 15 times the force of an African lion, 3 and a half times the force of an Australian saltwater crocodile and around 7 times the estimated force for Allosaurus.[26][27] However, even higher estimates were made by professor Mason B. Meers of the University of Tampa in 2003. In his study, Meers estimated a possible bite force of around 183000 to 235000 newtons or 18.3 to 23.5 metric tons; a bite force equivalent to that of the largest Megalodon shark specimens.[23][28]
+The teeth of Tyrannosaurus rex displayed marked heterodonty (differences in shape).[16][29] The premaxillary teeth at the front of the upper jaw were closely packed, D-shaped in cross-section, had reinforcing ridges on the rear surface, were incisiform (their tips were chisel-like blades) and curved backwards. The D-shaped cross-section, reinforcing ridges and backwards curve reduced the risk that the teeth would snap when Tyrannosaurus bit and pulled. The remaining teeth were robust, like "lethal bananas" rather than daggers; more widely spaced and also had reinforcing ridges.[30] Those in the upper jaw were larger than those in all but the rear of the lower jaw. The largest found so far is estimated to have been 30 centimetres (12 in) long including the root when the animal was alive, making it the largest tooth of any carnivorous dinosaur yet found.[4]
+Classification
+Tyrannosaurus is the type genus of the superfamily Tyrannosauroidea, the family Tyrannosauridae, and the subfamily Tyrannosaurinae; in other words it is the standard by which paleontologists decide whether to include other species in the same group. Other members of the tyrannosaurine subfamily include the North American Daspletosaurus and the Asian Tarbosaurus,[31][32] both of which have occasionally been synonymized with Tyrannosaurus.[25] Tyrannosaurids were once commonly thought to be descendants of earlier large theropods such as megalosaurs and carnosaurs, although more recently they were reclassified with the generally smaller coelurosaurs.[24]
+
+
+
+
+Diagram showing the differences between a generalised Tarbosaurus (A) and Tyrannosaurus (B) skull
+
+
+In 1955, Soviet paleontologist Evgeny Maleev named a new species, Tyrannosaurus bataar, from Mongolia.[33] By 1965, this species had been renamed Tarbosaurus bataar.[34] Despite the renaming, many phylogenetic analyses have found Tarbosaurus bataar to be the sister taxon of Tyrannosaurus rex,[32] and it has often been considered an Asian species of Tyrannosaurus.[24][35][36] A recent redescription of the skull of Tarbosaurus bataar has shown that it was much narrower than that of Tyrannosaurus rex and that during a bite, the distribution of stress in the skull would have been very different, closer to that of Alioramus, another Asian tyrannosaur.[37] A related cladistic analysis found that Alioramus, not Tyrannosaurus, was the sister taxon of Tarbosaurus, which, if true, would suggest that Tarbosaurus and Tyrannosaurus should remain separate.[31]
+Other tyrannosaurid fossils found in the same formations as Tyrannosaurus rex were originally classified as separate taxa, including Aublysodon and Albertosaurus megagracilis,[25] the latter being named Dinotyrannus megagracilis in 1995.[38] However, these fossils are now universally considered to belong to juvenile Tyrannosaurus rex.[39] A small but nearly complete skull from Montana, 60 centimetres (2.0 ft) long, may be an exception. This skull was originally classified as a species of Gorgosaurus (G. lancensis) by Charles W. Gilmore in 1946,[40] but was later referred to a new genus, Nanotyrannus.[41] Opinions remain divided on the validity of N. lancensis. Many paleontologists consider the skull to belong to a juvenile Tyrannosaurus rex.[42] There are minor differences between the two species, including the higher number of teeth in N. lancensis, which lead some scientists to recommend keeping the two genera separate until further research or discoveries clarify the situation.[32][43]
+Below is the classification of Tyrannosauridae after Brusatte et al. (2010).[44]
+
+
+Tyrannosauridae
+
+
+
+Albertosaurinae
+
+
+
+
+
+Albertosaurus
+
+
+
+
+
+
+
+
+Gorgosaurus
+
+
+
+
+
+
+
+
+
+
+
+
+Tyrannosaurinae
+
+
+
+
+
+Alioramus
+
+
+
+
+
+
+
+
+
+
+
+
+Teratophoneus
+
+
+
+
+
+
+
+
+
+
+
+
+Daspletosaurus
+
+
+
+
+
+
+
+
+
+
+
+
+Tarbosaurus
+
+
+
+
+
+
+
+
+Tyrannosaurus
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Paleobiology
+Life history
+
+
+
+
+The skull of an adult and an 11 year old juvenile ("Jane") specimen, Museum of the Rockies
+
+
+The identification of several specimens as juvenile Tyrannosaurus rex has allowed scientists to document ontogenetic changes in the species, estimate the lifespan, and determine how quickly the animals would have grown. The smallest known individual (LACM 28471, the "Jordan theropod") is estimated to have weighed only 30 kg (66 lb), while the largest, such as FMNH PR2081 ("Sue") most likely weighed over 5,400 kg (11,900 lb). Histologic analysis of Tyrannosaurus rex bones showed LACM 28471 had aged only 2 years when it died, while "Sue" was 28 years old, an age which may have been close to the maximum for the species.[5]
+
+
+
+
+A graph showing the hypothesized growth curve, body mass versus age (drawn in black, with other tyrannosaurids for comparison). Based on Erickson et al. 2004
+
+
+Histology has also allowed the age of other specimens to be determined. Growth curves can be developed when the ages of different specimens are plotted on a graph along with their mass. A Tyrannosaurus rex growth curve is S-shaped, with juveniles remaining under 1,800 kg (4,000 lb) until approximately 14 years of age, when body size began to increase dramatically. During this rapid growth phase, a young Tyrannosaurus rex would gain an average of 600 kg (1,300 lb) a year for the next four years. At 18 years of age, the curve plateaus again, indicating that growth slowed dramatically. For example, only 600 kg (1,300 lb) separated the 28-year-old "Sue" from a 22-year-old Canadian specimen (RTMP 81.12.1).[5] Another recent histological study performed by different workers corroborates these results, finding that rapid growth began to slow at around 16 years of age.[45] Another study corroborated the latter study's results but found the growth rate to be much faster, finding it to be around 1800 kilograms (4000 lbs). Although these results were much higher than previous estimations, the authors noted that these results significantly lowered the great difference between its actual growth rate and the one which would be expected of an animal of its size.[3] The sudden change in growth rate at the end of the growth spurt may indicate physical maturity, a hypothesis which is supported by the discovery of medullary tissue in the femur of a 16 to 20-year-old Tyrannosaurus rex from Montana (MOR 1125, also known as "B-rex"). Medullary tissue is found only in female birds during ovulation, indicating that "B-rex" was of reproductive age.[46] Further study indicates an age of 18 for this specimen.[47] Other tyrannosaurids exhibit extremely similar growth curves, although with lower growth rates corresponding to their lower adult sizes.[48]
+Over half of the known Tyrannosaurus rex specimens appear to have died within six years of reaching sexual maturity, a pattern which is also seen in other tyrannosaurs and in some large, long-lived birds and mammals today. These species are characterized by high infant mortality rates, followed by relatively low mortality among juveniles. Mortality increases again following sexual maturity, partly due to the stresses of reproduction. One study suggests that the rarity of juvenile Tyrannosaurus rex fossils is due in part to low juvenile mortality rates; the animals were not dying in large numbers at these ages, and so were not often fossilized. However, this rarity may also be due to the incompleteness of the fossil record or to the bias of fossil collectors towards larger, more spectacular specimens.[48]
+Sexual dimorphism
+
+
+
+
+Skeleton casts mounted in a mating position, Jurassic Museum of Asturias
+
+
+As the number of known specimens increased, scientists began to analyze the variation between individuals and discovered what appeared to be two distinct body types, or morphs, similar to some other theropod species. As one of these morphs was more solidly built, it was termed the 'robust' morph while the other was termed 'gracile'. Several morphological differences associated with the two morphs were used to analyze sexual dimorphism in Tyrannosaurus rex, with the 'robust' morph usually suggested to be female. For example, the pelvis of several 'robust' specimens seemed to be wider, perhaps to allow the passage of eggs.[49] It was also thought that the 'robust' morphology correlated with a reduced chevron on the first tail vertebra, also ostensibly to allow eggs to pass out of the reproductive tract, as had been erroneously reported for crocodiles.[50]
+In recent years, evidence for sexual dimorphism has been weakened. A 2005 study reported that previous claims of sexual dimorphism in crocodile chevron anatomy were in error, casting doubt on the existence of similar dimorphism between Tyrannosaurus rex sexes.[51] A full-sized chevron was discovered on the first tail vertebra of "Sue", an extremely robust individual, indicating that this feature could not be used to differentiate the two morphs anyway. As Tyrannosaurus rex specimens have been found from Saskatchewan to New Mexico, differences between individuals may be indicative of geographic variation rather than sexual dimorphism. The differences could also be age-related, with 'robust' individuals being older animals.[16]
+Only a single Tyrannosaurus rex specimen has been conclusively shown to belong to a specific sex. Examination of "B-rex" demonstrated the preservation of soft tissue within several bones. Some of this tissue has been identified as a medullary tissue, a specialized tissue grown only in modern birds as a source of calcium for the production of eggshell during ovulation. As only female birds lay eggs, medullary tissue is only found naturally in females, although males are capable of producing it when injected with female reproductive hormones like estrogen. This strongly suggests that "B-rex" was female, and that she died during ovulation.[46] Recent research has shown that medullary tissue is never found in crocodiles, which are thought to be the closest living relatives of dinosaurs, aside from birds. The shared presence of medullary tissue in birds and theropod dinosaurs is further evidence of the close evolutionary relationship between the two.[52]
+Posture
+
+
+
+
+Outdated reconstruction (by Charles R. Knight), showing upright pose
+
+
+Modern representations in museums, art, and film show Tyrannosaurus rex with its body approximately parallel to the ground and tail extended behind the body to balance the head.[25]
+Like many bipedal dinosaurs, Tyrannosaurus rex was historically depicted as a 'living tripod', with the body at 45 degrees or less from the vertical and the tail dragging along the ground, similar to a kangaroo. This concept dates from Joseph Leidy's 1865 reconstruction of Hadrosaurus, the first to depict a dinosaur in a bipedal posture.[53] In 1915, convinced that the creature stood upright, Henry Fairfield Osborn (former president of AMNH – American Museum of Natural History, New York City, USA), further reinforced the notion in unveiling the first complete Tyrannosaurus rex skeleton arranged this way. It stood in an upright pose for 77 years, until it was dismantled in 1992.[54]
+By 1970, scientists realized this pose was incorrect and could not have been maintained by a living animal, as it would have resulted in the dislocation or weakening of several joints, including the hips and the articulation between the head and the spinal column.[55] The inaccurate AMNH mount inspired similar depictions in many films and paintings (such as Rudolph Zallinger's famous mural The Age of Reptiles in Yale University's Peabody Museum of Natural History)[56] until the 1990s, when films such as Jurassic Park introduced a more accurate posture to the general public.
+Arms
+
+
+
+
+The forelimbs might have been used to help T. rex rise from a resting pose, as seen in this cast ("Bucky" specimen)
+
+
+When Tyrannosaurus rex was first discovered, the humerus was the only element of the forelimb known.[57] For the initial mounted skeleton as seen by the public in 1915, Osborn substituted longer, three-fingered forelimbs like those of Allosaurus.[58] However, a year earlier, Lawrence Lambe described the short, two-fingered forelimbs of the closely related Gorgosaurus.[59] This strongly suggested that Tyrannosaurus rex had similar forelimbs, but this hypothesis was not confirmed until the first complete Tyrannosaurus rex forelimbs were identified in 1989, belonging to MOR 555 (the "Wankel rex").[60] The remains of "Sue" also include complete forelimbs.[16] Tyrannosaurus rex arms are very small relative to overall body size, measuring only 1 metre (3.3 ft) long, and some scholars have labelled them as vestigial. However, the bones show large areas for muscle attachment, indicating considerable strength. This was recognized as early as 1906 by Osborn, who speculated that the forelimbs may have been used to grasp a mate during copulation.[61] It has also been suggested that the forelimbs were used to assist the animal in rising from a prone position.[55] Another possibility is that the forelimbs held struggling prey while it was killed by the tyrannosaur's enormous jaws. This hypothesis may be supported by biomechanical analysis.
+
+
+
+
+Diagram illustrating arm anatomy
+
+
+Tyrannosaurus rex forelimb bones exhibit extremely thick cortical bone, which have been interpreted as evidence that they were developed to withstand heavy loads. The biceps brachii muscle of a full-grown Tyrannosaurus rex was capable of lifting 199 kilograms (439 lb) by itself; other muscles such as the brachialis would work along with the biceps to make elbow flexion even more powerful. The M. biceps muscle of T. rex was 3.5 times as powerful as the human equivalent. A Tyrannosaurus rex forearm had a limited range of motion, with the shoulder and elbow joints allowing only 40 and 45 degrees of motion, respectively. In contrast, the same two joints in Deinonychus allow up to 88 and 130 degrees of motion, respectively, while a human arm can rotate 360 degrees at the shoulder and move through 165 degrees at the elbow. The heavy build of the arm bones, strength of the muscles, and limited range of motion may indicate a system evolved to hold fast despite the stresses of a struggling prey animal. Carpenter and Smith dismissed notions that the forelimbs were useless or that Tyrannosaurus rex was an obligate scavenger.[62]
+Soft tissue
+In the March 2005 issue of Science, Mary Higby Schweitzer of North Carolina State University and colleagues announced the recovery of soft tissue from the marrow cavity of a fossilized leg bone, from a Tyrannosaurus rex. The bone had been intentionally, though reluctantly, broken for shipping and then not preserved in the normal manner, specifically because Schweitzer was hoping to test it for soft tissue.[63] Designated as the Museum of the Rockies specimen 1125, or MOR 1125, the dinosaur was previously excavated from the Hell Creek Formation. Flexible, bifurcating blood vessels and fibrous but elastic bone matrix tissue were recognized. In addition, microstructures resembling blood cells were found inside the matrix and vessels. The structures bear resemblance to ostrich blood cells and vessels. Whether an unknown process, distinct from normal fossilization, preserved the material, or the material is original, the researchers do not know, and they are careful not to make any claims about preservation.[64] If it is found to be original material, any surviving proteins may be used as a means of indirectly guessing some of the DNA content of the dinosaurs involved, because each protein is typically created by a specific gene. The absence of previous finds may merely be the result of people assuming preserved tissue was impossible, therefore simply not looking. Since the first, two more tyrannosaurs and a hadrosaur have also been found to have such tissue-like structures.[63] Research on some of the tissues involved has suggested that birds are closer relatives to tyrannosaurs than other modern animals.[65]
+
+
+
+
+T. rex femur (MOR 1125) from which demineralized matrix and peptides (insets) were obtained
+
+
+In studies reported in the journal Science in April 2007, Asara and colleagues concluded that seven traces of collagen proteins detected in purified Tyrannosaurus rex bone most closely match those reported in chickens, followed by frogs and newts. The discovery of proteins from a creature tens of millions of years old, along with similar traces the team found in a mastodon bone at least 160,000 years old, upends the conventional view of fossils and may shift paleontologists' focus from bone hunting to biochemistry. Until these finds, most scientists presumed that fossilization replaced all living tissue with inert minerals. Paleontologist Hans Larsson of McGill University in Montreal, who was not part of the studies, called the finds "a milestone", and suggested that dinosaurs could "enter the field of molecular biology and really slingshot paleontology into the modern world".[66]
+Subsequent studies in April 2008 confirmed the close connection of Tyrannosaurus rex to modern birds. Postdoctoral biology researcher Chris Organ at Harvard University announced, "With more data, they would probably be able to place T. rex on the evolutionary tree between alligators and chickens and ostriches." Co-author John M. Asara added, "We also show that it groups better with birds than modern reptiles, such as alligators and green anole lizards."[67]
+The presumed soft tissue was called into question by Thomas Kaye of the University of Washington and his co-authors in 2008. They contend that what was really inside the tyrannosaur bone was slimy biofilm created by bacteria that coated the voids once occupied by blood vessels and cells.[68] The researchers found that what previously had been identified as remnants of blood cells, because of the presence of iron, were actually framboids, microscopic mineral spheres bearing iron. They found similar spheres in a variety of other fossils from various periods, including an ammonite. In the ammonite they found the spheres in a place where the iron they contain could not have had any relationship to the presence of blood.[69] However, Schweitzer has strongly criticized Kaye's claims and argues that there’s no reported evidence that biofilms can produce branching, hollow tubes like those noted in her study.[70] San Antonio, Schweitzer and colleagues published an analysis in 2011 of what parts of the collagen had been recovered, finding that it was the inner parts of the collagen coil that had been preserved, as would have been expected from a long period of protein degradation.[71] Other research challenges the identification of soft tissue as biofilm and confirms finding "branching, vessel-like structures" from within fossilized bone.[72]
+Skin and feathers
+Main article: Feathered dinosaurs
+
+
+
+
+Restoration of a young Tyrannosaurus, depicted with filamentous feathers.
+
+
+While there is no direct evidence for Tyrannosaurus rex having had feathers, many scientists now consider it likely that T. rex had feathers on at least parts of its body,[73] due to their presence in related species of similar size. Dr. Mark Norell of the American Museum of Natural History summarized the balance of evidence by stating that “we have as much evidence that T. rex was feathered, at least during some stage of its life, as we do that australopithecines like Lucy had hair."[74]
+The first evidence for feathers in tyrannosauroids came from the small species Dilong paradoxus, found in the famous Yixian Formation of China, and reported in the journal Nature in 2004. As with many other theropods discovered in the Yixian, the fossil skeleton was preserved with a coat of filamentous structures which are commonly recognized as the precursors of feathers.[75] Because all known skin impressions from larger tyrannosauroids known at the time showed evidence of scales, the researchers who studied Dilong speculated that feathers may correlate negatively with body size — that juveniles may have been feathered, then shed the feathers and expressed only scales as the animal became larger and no longer needed insulation to stay warm.[75] However, subsequent discoveries showed that even some gigantic tyrannosauroids had feathers covering much of their bodies, casting doubt on the hypothesis that they were a size-related feature.[76]
+While skin impressions from a Tyrannosaurus rex specimen nicknamed "Wyrex" (BHI 6230) discovered in Montana in 2002,[77] as well as some other giant tyrannosauroid specimens, show at least small patches of mosaic scales,[78] others, such as Yutyrannus huali (which was up to 9 metres (30 ft) long and weighed about 1,400 kilograms (3,100 lb)), preserve feathers on various sections of the body, strongly suggesting that its whole body was covered in feathers.[76] It is possible that the extent and nature of feather covering in tyrannosauroids may have changed over time in response to body size, a warmer climate, or other factors.[76]
+Thermoregulation
+Main article: Physiology of dinosaurs
+As of 2013, it is not clear if Tyrannosaurus was endothermic (warm-blooded). Tyrannosaurus, like most dinosaurs, was long thought to have an ectothermic ("cold-blooded") reptilian metabolism. The idea of dinosaur ectothermy was challenged by scientists like Robert T. Bakker and John Ostrom in the early years of the "Dinosaur Renaissance", beginning in the late 1960s.[79][80] Tyrannosaurus rex itself was claimed to have been endothermic ("warm-blooded"), implying a very active lifestyle.[10] Since then, several paleontologists have sought to determine the ability of Tyrannosaurus to regulate its body temperature. Histological evidence of high growth rates in young Tyrannosaurus rex, comparable to those of mammals and birds, may support the hypothesis of a high metabolism. Growth curves indicate that, as in mammals and birds, Tyrannosaurus rex growth was limited mostly to immature animals, rather than the indeterminate growth seen in most other vertebrates.[45]
+Oxygen isotope ratios in fossilized bone are sometimes used to determine the temperature at which the bone was deposited, as the ratio between certain isotopes correlates with temperature. In one specimen, the isotope ratios in bones from different parts of the body indicated a temperature difference of no more than 4 to 5 °C (7 to 9 °F) between the vertebrae of the torso and the tibia of the lower leg. This small temperature range between the body core and the extremities was claimed by paleontologist Reese Barrick and geochemist William Showers to indicate that Tyrannosaurus rex maintained a constant internal body temperature (homeothermy) and that it enjoyed a metabolism somewhere between ectothermic reptiles and endothermic mammals.[81] Other scientists have pointed out that the ratio of oxygen isotopes in the fossils today does not necessarily represent the same ratio in the distant past, and may have been altered during or after fossilization (diagenesis).[82] Barrick and Showers have defended their conclusions in subsequent papers, finding similar results in another theropod dinosaur from a different continent and tens of millions of years earlier in time (Giganotosaurus).[83] Ornithischian dinosaurs also showed evidence of homeothermy, while varanid lizards from the same formation did not.[84] Even if Tyrannosaurus rex does exhibit evidence of homeothermy, it does not necessarily mean that it was endothermic. Such thermoregulation may also be explained by gigantothermy, as in some living sea turtles.[85][86]
+Footprints
+
+
+
+
+Probable footprint from New Mexico
+
+
+Two isolated fossilized footprints have been tentatively assigned to Tyrannosaurus rex. The first was discovered at Philmont Scout Ranch, New Mexico, in 1983 by American geologist Charles Pillmore. Originally thought to belong to a hadrosaurid, examination of the footprint revealed a large 'heel' unknown in ornithopod dinosaur tracks, and traces of what may have been a hallux, the dewclaw-like fourth digit of the tyrannosaur foot. The footprint was published as the ichnogenus Tyrannosauripus pillmorei in 1994, by Martin Lockley and Adrian Hunt. Lockley and Hunt suggested that it was very likely the track was made by a Tyrannosaurus rex, which would make it the first known footprint from this species. The track was made in what was once a vegetated wetland mud flat. It measures 83 centimetres (33 in) long by 71 centimetres (28 in) wide.[87]
+A second footprint that may have been made by a Tyrannosaurus was first reported in 2007 by British paleontologist Phil Manning, from the Hell Creek Formation of Montana. This second track measures 72 centimetres (28 in) long, shorter than the track described by Lockley and Hunt. Whether or not the track was made by Tyrannosaurus is unclear, though Tyrannosaurus and Nanotyrannus are the only large theropods known to have existed in the Hell Creek Formation. Further study of the track (a full description has not yet been published) will compare the Montana track with the one found in New Mexico.[88]
+Locomotion
+There are two main issues concerning the locomotory abilities of Tyrannosaurus: how well it could turn; and what its maximum straight-line speed was likely to have been. Both are relevant to the debate about whether it was a hunter or a scavenger (see below).
+Tyrannosaurus may have been slow to turn, possibly taking one to two seconds to turn only 45° — an amount that humans, being vertically oriented and tailless, can spin in a fraction of a second.[89] The cause of the difficulty is rotational inertia, since much of Tyrannosaurus’ mass was some distance from its center of gravity, like a human carrying a heavy timber — although it might have reduced the average distance by arching its back and tail and pulling its head and forelimbs close to its body, rather like the way ice skaters pull their arms closer in order to spin faster.[90]
+
+
+
+
+Replica of a sequence of theropod footprints attributed to Megalosaurus at OUMNH. No such sequence has yet been reported for tyrannosaurs, making gait and speed estimates difficult
+
+
+Scientists have produced a wide range of maximum speed estimates, mostly around 11 metres per second (40 km/h; 25 mph), but a few as low as 5–11 metres per second (18–40 km/h; 11–25 mph), and a few as high as 20 metres per second (72 km/h; 45 mph). Researchers have to rely on various estimating techniques because, while there are many tracks of very large theropods walking, so far none have been found of very large theropods running—and this absence may indicate that they did not run.[91] Scientists who think that Tyrannosaurus was able to run point out that hollow bones and other features that would have lightened its body may have kept adult weight to a mere 4.5 metric tons (5.0 short tons) or so, or that other animals like ostriches and horses with long, flexible legs are able to achieve high speeds through slower but longer strides. Additionally, some have argued that Tyrannosaurus had relatively larger leg muscles than any animal alive today, which could have enabled fast running 40–70 kilometres per hour (25–43 mph).[92]
+Jack Horner and Don Lessem argued in 1993 that Tyrannosaurus was slow and probably could not run (no airborne phase in mid-stride), because its ratio of femur (thigh bone) to tibia (shin bone) length was greater than 1, as in most large theropods and like a modern elephant.[60] However, Holtz (1998) noted that tyrannosaurids and some closely related groups had significantly longer distal hindlimb components (shin plus foot plus toes) relative to the femur length than most other theropods, and that tyrannosaurids and their close relatives had a tightly interlocked metatarsus that more effectively transmitted locomotory forces from the foot to the lower leg than in earlier theropods ("metatarsus" means the foot bones, which function as part of the leg in digitigrade animals). He therefore concluded that tyrannosaurids and their close relatives were the fastest large theropods.[93]
+
+
+
+
+Femur (thigh bone)
+Tibia (shin bone)
+Metatarsals (foot bones)
+Dewclaw
+Phalanges (toe bones)
+
+
+
+Skeletal anatomy of a T. rex right leg
+
+A study by Eric Snively and Anthony P Russel published on 2003 would also find that Tyrannosaurus’ arctometatarsals and its ligaments worked together in what he called a 'tensile keystone model' to strengthen Tyrannosaur’s foot, increase the animals stability and add greater resistance to dissociation over that of other theropods; while still allowing resiliency that is otherwise reduced in ratites,horses, giraffids and other animals with metapodia reduced to a single element. The study involved identifying the type of ligaments attached to the metatarsals, how they functioned together and comparing it to those of other theropods and modern day analogs. The scientists would state that arctometatarsals may have enabled Tyrannosaurus' feet to absorb forces such as linear deceleration, lateral acceleration and torsion more effectively than those of other theropods. It is also stated in their study that this may imply, though not demonstrate, that Tyrannosaurus had greater agility than other large theropods without an arctometatarsus.[94]
+Christiansen (1998) estimated that the leg bones of Tyrannosaurus were not significantly stronger than those of elephants, which are relatively limited in their top speed and never actually run (there is no airborne phase), and hence proposed that the dinosaur's maximum speed would have been about 11 metres per second (40 km/h; 25 mph), which is about the speed of a human sprinter. But he also noted that such estimates depend on many dubious assumptions.[95]
+Farlow and colleagues (1995) have argued that a Tyrannosaurus weighing 5.4 metric tons (6.0 short tons) to 7.3 metric tons (8.0 short tons) would have been critically or even fatally injured if it had fallen while moving quickly, since its torso would have slammed into the ground at a deceleration of 6 g (six times the acceleration due to gravity, or about 60 meters/s²) and its tiny arms could not have reduced the impact.[11] However, giraffes have been known to gallop at 50 kilometres per hour (31 mph), despite the risk that they might break a leg or worse, which can be fatal even in a "safe" environment such as a zoo.[96][97] Thus it is quite possible that Tyrannosaurus also moved fast when necessary and had to accept such risks.[98][99]
+
+
+
+
+Leg mass of T. rex and a chicken compared, by Luis Rey
+
+
+Most recent research on Tyrannosaurus locomotion does not support speeds faster than 40 kilometres per hour (25 mph), i.e. moderate-speed running. For example, a 2002 paper in the journal Nature used a mathematical model (validated by applying it to three living animals, alligators, chickens, and humans; additionally later eight more species including emus and ostriches[91]) to gauge the leg muscle mass needed for fast running (over 40 km/h or 25 mph).[92] They found that proposed top speeds in excess of 40 kilometres per hour (25 mph) were unfeasible, because they would require very large leg muscles (more than approximately 40–86% of total body mass). Even moderately fast speeds would have required large leg muscles. This discussion is difficult to resolve, as it is unknown how large the leg muscles actually were in Tyrannosaurus. If they were smaller, only 18 kilometres per hour (11 mph) walking/jogging might have been possible.[92]
+A study in 2007 used computer models to estimate running speeds, based on data taken directly from fossils, and claimed that Tyrannosaurus rex had a top running speed of 8 metres per second (29 km/h; 18 mph). An average professional football (soccer) player would be slightly slower, while a human sprinter can reach 12 metres per second (43 km/h; 27 mph). Note that these computer models predict a top speed of 17.8 metres per second (64 km/h; 40 mph) for a 3-kilogram (6.6 lb) Compsognathus[100][101] (probably a juvenile individual).[102]
+
+
+
+
+Muscle mass reconstruction of M. caudofemoralis longus
+
+
+However in 2010, Scott Persons, a graduate student from the University of Alberta proposed that Tyrannosaurus's speed may have been enhanced by strong tail muscles.[103]He found that theropods such as T rex had certain muscle arrangements that are different from modern day birds and mammals but with some similarities to modern reptiles.[104] He concluded that the caudofemoralis muscles which link the tail bones and the upper leg bones could have assisted Tyrannosaurus in leg retraction and enhanced its running ability, agility and balance. The caudofemoralis muscle would have been a key muscle in femoral retraction; pulling back the leg at the femur.[103] The study also found that theropod skeletons such as those of Tyrannosaurus' had adaptations (such as elevated transverse processes in the tail vertebrae) to enable the growth of larger tail muscles and that Tyrannosaurus's tail muscle mass may have been underestimated by over 25 percent and perhaps as much as 45 percent. Tyrannosaurus had the largest absolute and relative caudofemoralis muscle mass out of the three extinct organisms in the study. This is because Tyrannosaurus also had additional adaptations to enable large tail muscles; the elongation of its tail's hemal arches. According to Persons, the increase in tail muscle mass would have moved the center of mass closer to the hind quarters and hips which would have lessened the strain on the leg muscles to support its weight; improving its overall balance and agility. This would also have made the animal less front heavy, thus reducing rotational inertia. Persons also notes that the tail is also rich in tendons and septa which could have been stores of elastic energy, and thereby improved locomotive efficiency. Persons adds that this means that non-avian theropods actually had broader tails than previously depicted, as broad or broader laterally than dorsoventrally near the base.[103][104]
+Heinrich Mallison from Berlin’s Museum of Natural History would also present a theory on 2011, suggesting that Tyrannosaurus and many other dinosaurs may have achieved relatively high speeds through short rapid strides instead of the long strides employed by modern birds and mammals when running, likening their movement to power-walking. This, according to Mallison, would have been achievable irrespective of joint strength and lessened the need for additional muscle mass in the legs, particularly at the ankles. To support his theory, Mallison assessed the limbs of various dinosaurs and found that they were different from that of modern mammals and birds; having their stride length greatly limited by their skeletons, but also having relatively large muscles at the hindquarters. He would however find a few similarities between the musculature of dinosaurs and race-walkers; having less muscle mass in the ankles but more at the hindquarters. Mallison suggests that the differences between dinosaurs the extant mammals and birds would also have made equations to calculate speed from stride length inapplicable to dinosaurs. John Hutchinson however advised caution regarding this theory, suggesting that they must first look into dinosaur muscles to see how frequently they could have contracted.[105][106]
+Those who argue that Tyrannosaurus was incapable of running estimate the top speed of Tyrannosaurus at about 17 kilometres per hour (11 mph). This is still faster than its most likely prey species, hadrosaurids and ceratopsians.[92] In addition, some advocates of the idea that Tyrannosaurus was a predator claim that tyrannosaur running speed is not important, since it may have been slow but still faster than its probable prey.[107] However, Paul and Christiansen (2000) argued that at least the later ceratopsians had upright forelimbs and the larger species may have been as fast as rhinos.[108] Healed Tyrannosaurus bite wounds on ceratopsian fossils are interpreted as evidence of attacks on living ceratopsians (see below). If the ceratopsians that lived alongside Tyrannosaurus were fast, that casts doubt on the argument that Tyrannosaurus did not have to be fast to catch its prey.[99]
+Senses
+
+
+
+
+The eye-sockets faced mainly forwards, giving it good binocular vision ("Sue" specimen)
+
+
+A study conducted by Lawrence Witmer and Ryan Ridgely of Ohio University added detail to the known sensory abilities of Tyrannosaurus, finding that they shared the heightened sensory abilities of other coelurosaurs, highlighting relatively rapid and coordinated eye and head movements, as well as an enhanced ability to sense low frequency sounds that would allow tyrannosaurs to track prey movements from long distances and an enhanced sense of smell.[109] A study published by Kent Stevens of the University of Oregon concluded that Tyrannosaurus had keen vision. By applying modified perimetry to facial reconstructions of several dinosaurs including Tyrannosaurus, the study found that Tyrannosaurs had a binocular range of 55 degrees, surpassing that of modern hawks, and had 13 times the visual acuity of a human, thereby surpassing the visual acuity of an eagle which is only 3.6 times that of a person. This would have allowed Tyrannosaurs to discern objects as far as 6 km away, which is greater than the 1.6 km that a human can see.[110][19][20][111]
+Tyrannosaurus is notable for having very large olfactory bulbs and olfactory nerves relative to their brain size, the organs responsible for a heightened sense of smell. This suggest that the sense of smell was highly developed, and implying that tyrannosaurs could detect carcasses by scent alone across great distances. The sense of smell in tyrannosaurs may have been comparable to modern vultures, which use scent to track carcasses for scavenging. Research on the olfactory bulbs has shown that Tyrannosaurus rex had the most highly developed sense of smell of 21 sampled non-avialan dinosaurs species.[112]
+Somewhat unusually among theropods, T. rex had very long cochlea of the ear. The length of the cochlea is often related to hearing acuity, or at least the importance of hearing in behavior, implying that hearing was a particularly important sense to tyrannosaurs. Specifically, data suggests that Tyrannosaurus rex heard best in the low-frequency range, and that low-frequency sounds were an important part of tyrannosaur behavior.[109]
+Feeding
+
+
+
+
+Bust in Naturhistorischen Museum Wien
+
+
+Like other tyrannosaurids, Tyrannosaurus rex is known to have been carnivorous due primarily to the shape of the teeth. A study conducted by Miriam Reichel of the University of Alberta found that the tyrannosaurs' dissimilar teeth had different uses depending on their size, placement, serrated edge and angle in the mouth. While the teeth at the front were specially designed for gripping and pulling, the teeth at the side of the jaw were meant to puncture and the teeth at the back were specialized to both slice pieces from its prey and force it to its throat. She also proposed that the banana-shaped teeth of Tyrannosaurus rex' were designed to withstand the strain of violently struggling prey which would otherwise snap teeth that were sharp, flat and knife-like.[113][114]
+A study by Emily J. Rayfield from the University of Bristol would further support that Tyrannosaurus used the puncture and pull feeding strategy, where the Tyrannosaurus would startle its prey with a powerful bite and then drag its teeth back through its prey’s flesh and bone. The study found that Tyrannosaurus had a bony skull that is adapted to withstand biting and shearing forces; with strong nasal bones that helped it withstand compression and shearing stresses and lacrimal bones that enabled the skull to withstand a variety of stresses. Her study also found that the maxilla jugal sutures found in Tyrannosaurus cheeks acted as shock absorbers. These joints had soft tissue that absorbed some of the stresses encountered when biting. This trades some of the skull’s durability in return for enabling it to better protect the surrounding the skull bones from damage when biting. The study also found that the skull redirected much of the strain from biting to the Tyrannosaurus skull’s robust nasal bones.[115] [116]
+Scavenging
+The debate about whether Tyrannosaurus was an active predator or a pure scavenger, however, is as old as the debate about its locomotion. Lambe (1917) described a good skeleton of Tyrannosaurus’ close relative Gorgosaurus and concluded that it and therefore also Tyrannosaurus was a pure scavenger, because the Gorgosaurus’ teeth showed hardly any wear.[117] This argument is no longer taken seriously, because theropods replaced their teeth quite rapidly. Ever since the first discovery of Tyrannosaurus most scientists have speculated that it was a predator; like modern large predators it would readily scavenge or steal another predator's kill if it had the opportunity.[118]
+Paleontologist Jack Horner has been a major advocate of the idea that Tyrannosaurus was exclusively a scavenger and did not engage in active hunting at all,[60][119][120] though Horner himself has claimed that he never published this idea in the peer reviewed scientific literature and used it mainly as a tool to teach a popular audience, particularly children, the dangers of making assumptions in science (such as assuming T. rex was a hunter) without using evidence.[121] Nevertheless, Horner presented several arguments in the popular literature to support the pure scavenger hypothesis:
+
+
+
+
+Cast of the braincase at the Australian Museum, Sydney
+
+
+
+Tyrannosaur arms are short when compared to other known predators. Horner argues that the arms were too short to make the necessary gripping force to hold on to prey.[122] Other paleontologists such as Thomas Holtz Jr. and James Fowler would however give examples of animals that do not use their forelimbs to hunt such as wolves, seriemas and secretary birds.[118] Thomas Holtz Jr. would later state that the use of forelimbs are not the only viable way of prey capture giving examples of modern predators such as canids and hyaenids(hyenas). He would also cite other extinct animals such as the Diatryma(also known as Gastornis) and Phorusrhacids.[123] Gregory S. Paul would also cite thylacines as another example.[124]
+
+
+Tyrannosaurs had large olfactory bulbs, suggesting a highly developed sense of smell which could sniff out carcasses over great distances, as modern vultures do. Because vultures are primarily scavengers, it has been suggested that such a highly developed sense of smell may imply that tyrannosaurs were as well.[125] However, James Fowler and Thomas R. Hotlz, Jr. have noted that a good sense of smell could also be used to detect live prey as well as for behaviors unrelated to food acquisition.[118] Darla K. Zelenitsky, Francois Therrien and Yoshitsugu Kobayashi would also discuss the Tyrannosaurus’ sense of smell in their 2009 study and state that it wasn’t an indication of a particular feeding strategy the animal was using (predator versus scavenger), but indicate that tyrannosaurids such as Tyrannosaurus were active during low light conditions and may have used their sense of smell to search for food and navigate through large home ranges.[126] Others have argued that the primary scavenger hypothesis is implausible because the only modern pure scavengers are large gliding birds, which use their keen senses and energy-efficient gliding to cover vast areas economically.[127] However, researchers from Glasgow concluded that an ecosystem as productive as the current Serengeti would provide sufficient carrion for a large theropod scavenger, although the theropod might have had to be cold-blooded in order to get more calories from carrion than it spent on foraging (see Metabolism of dinosaurs). They also suggested that modern ecosystems like Serengeti have no large terrestrial scavengers because gliding birds now do the job much more efficiently, while large theropods did not face competition for the scavenger ecological niche from gliding birds.[128] However, further research by the same scientists would find that the evolution of a terrestrial obligate scavenger as unlikely (read more on Ruxton & Houson's 2004 study below).[129]
+Tyrannosaur teeth could crush bone, and therefore could extract as much food (bone marrow) as possible from carcass remnants, usually the least nutritious parts. Karen Chin and colleagues have found bone fragments in coprolites (fossilized feces) that they attribute to tyrannosaurs, but point out that a tyrannosaur's teeth were not well adapted to systematically chewing bone like hyenas do to extract marrow.[130] Gregory S. Paul would also write that a bone crushing bite would also have been advantageous to a predator; providing the extreme bite force to kill prey and later consume it efficiently.[124]
+
+
+Since at least some of Tyrannosaurus's potential prey could move quickly, evidence that it walked instead of ran could indicate that it was a scavenger.[119][131] On the other hand, recent analyses suggest that Tyrannosaurus, while slower than large modern terrestrial predators, may well have been fast enough to prey on large hadrosaurs and ceratopsians.[92][107]
+
+Other evidence suggests hunting behavior in Tyrannosaurus. The eye-sockets of tyrannosaurs are positioned so that the eyes would point forward, giving them binocular vision slightly better than that of modern hawks. Horner also pointed out that the tyrannosaur lineage had a history of steadily improving binocular vision. It is not obvious why natural selection would have favored this long-term trend if tyrannosaurs had been pure scavengers, which would not have needed the advanced depth perception that stereoscopic vision provides.[19][20] In modern animals, binocular vision is found mainly in predators.
+
+
+
+
+The damage to the tail vertebrae of this Edmontosaurus annectens skeleton (on display at the Denver Museum of Nature and Science) indicates that it may have been bitten by a Tyrannosaurus
+
+
+Furthermore, fossil evidence of Tyrannosaur attacks on other dinosaurs have been discovered. A pair of hadrosaur caudal vertebrae(tail vertebrae) found in 2007 was described by David Burnham et al in 2013 has the tip of an adult Tyrannosaurus tooth embedded in the bone, with evidence of new bone growth that wrapped around the tooth. Burnham and his colleagues suggest that this Edmontosaur had also survived a Tyrannosaur attack and that this was further proof that Tyrannosaurus were predators.[132][133][134][135][136] Kenneth Carpenter(1998) had also described another specimen of the hadrosaurid Edmontosaurus annectens (in some newspapers it is misidentified as the similar Hadrosaurus) from Montana as having healed supposed tyrannosaur-inflicted damage on its tail vertebrae; having some of its caudal neural spines mutilated. The fact that the damage seems to have healed suggests that the Edmontosaurus survived a tyrannosaur's attack on a living target, i.e. the tyrannosaur had attempted active predation, [137] however the damage is ambiguous and not directly attributable to Tyrannosaurus.[132]Another Edmontosaur specimen that is suspected to have survived a Tyrannosaur attack had also been previously identified by Bruce Rothschild and Robert DePalma in an article published in the journal "Cretaceous Research". This specimen is described to have fossilized skin showing scars and tooth induced traumas on the skull, with size and spacing that leaves only Tyrannosaurus as only likely assailant.[138][139][140][141] Phil Bell of Pipestone Creek would further state that the skull injuries were consistent with Tyrannosaur bitten bones. [142] There is also evidence for an aggressive interaction between a Triceratops and a Tyrannosaurus in the form of partially healed tyrannosaur tooth marks on a Triceratops brow horn and squamosal (a bone of the neck frill); the bitten horn is also broken, with new bone growth after the break. It is not known what the exact nature of the interaction was, though: either animal could have been the aggressor.[143] Since the Triceratops wounds healed, it is most likely that the Triceratops survived the encounter and managed to overcome the Tyrannosaurus. Paleontologist Peter Dodson estimates that in a battle against a bull Triceratops, the Triceratops had the upper hand and would successfully defend itself by inflicting fatal wounds to the Tyrannosaurus using its sharp horns.[144]
+
+
+
+
+Tyrannosaurus tooth marks on bones of various herbivores
+
+
+Various studies have also taken into account the ecosystem that Tyrannosaurus lived in. Some researchers argue that if Tyrannosaurus were a scavenger, another dinosaur had to be the top predator in the Amerasian Upper Cretaceous. Top prey were the larger marginocephalians and ornithopods. The other tyrannosaurids share so many characteristics that only small dromaeosaurs and troodontids remain as feasible top predators. In this light, scavenger hypothesis adherents have suggested that the size and power of tyrannosaurs allowed them to steal kills from smaller predators.[131] However a study published on 2011 by Chris Carbone, Samuel T. Turvey and Jon Bielby found that Tyrannosaurus would have been unable to compete as an obligate scavenger against smaller theropods and it would have been necessary for it to primarily hunt large prey.[145] In addition, a study by Graeme D. Ruxton and David C. Houson on 2004 would find that vertebrates would need to be large bodied and capable of soaring flight to be obligate scavengers. This study would also find the evolution of a terrestrial obligate scavenger as unlikely even with the absence of birds because for terrestrial carnivores there is a lack of strong selection pressure towards becoming an exclusive scavenger. The study further adds that it may always be more advantageous for terrestrial carnivores to be able to retain the flexibilty of obtaining food through hunting and scavenging.[129] A census study of the Hell Creek Formation published by John Horner, Mark B. Goodwin and Nathan Myhrvold on 2011 would find that because of their relative abundance, Tyrannosaurs they were more like hyenas; opportunistic feeders that dined on more than just live prey and a specific group of dinosaurs.[146]Brian Switek would however write that this research did not overturn Tyrannosaurus’ image as a predator, noting that research has found that spotted hyenas obtained a majority of their food from hunting; scavenging as little as 5% in some locations. [147][148]He would also note that the census is an imperfect depiction of the area’s ecology since various biases in collecting and preservation may have affected the results. For example, Tyrannosaurus may have regularly destroyed the skeletons of Edmontosaurus which it preyed upon. Horner, Goodwin and Myhrvold's study, according Switek, actually shows what most palaeontologists believe; that Tyrannosaurus was an opportunistic carnivore; an animal that both hunted and scavenged.[149]
+Most paleontologists accept that Tyrannosaurus was both an active predator and a scavenger like most large carnivores. David Hone of Queen Mary, University of London, for example, would write in his blog that answering that it was either predator or scavenger in various papers has been unsatisfactory because it was most likely both.[150] Brian Switek would also write that Tyrannosaurus was undoubtedly a predator and a scavenger. He further adds that researchers have objected to the idea that Tyrannosaurus was an obligate scavenger and that there have only been a few studies to directly support the idea of Tyrannosaurus as an obligate scavenger.[151] John Hutchinson would also state in his blog that most scientists are in agreement that Tyrannosaurus switched between being a predator and scavenger; not turning down a meal either dead or alive.[7]
+Hunting Strategies
+
+
+
+
+Edmontosaurus and a cast of the "Wankelrex" specimen, Houston Museum of Natural Science
+
+
+Various proposals have been made regarding the ways Tyrannosaurus may have hunted. Though adult tyrannosaurs are often depicted in art and other media as frequently attacking other giant dinosaurs, research suggests this type of behavior would have been rare.[152] As with other carnivorous dinosaurs and modern carnivores in general, Tyrannosaurus probably preferred to target small prey animals, including juveniles of larger dinosaur species. A 2010 analysis by Hone & Rauhut suggested that this may partially explain the general lack of small and juvenile dinosaur skeletons in the fossil record. Tyrannosaurids like Tyrannosaurus appear to have been specialized to crush and likely ingest the bones of their prey, and predation of juvenile dinosaurs would therefore have left fewer skeletons to fossilize.[152]
+Some studies also suggest that Tyrannosaurus preferred different prey at different stages of its life. In K. T. Bates and P. L. Falkingham's 2012 study, they found that there was a great disparity between the bite force of adult and juvenile Tyrannosaurus. According to the study, Tyrannosaurus only gained their powerful bite forces during their adulthood. This, according to the pair, suggest a difference in feeding ecologies between juveniles and adults; that the animals may have fed on different prey items at different stages of their lives. They propose that the powerful bite forces of adults may have allowed them to act as large prey specialists and thereby alleviate competition with younger Tyrannosaurs. [27] The juveniles according to the scientists were long-legged runners, but had relatively shallow skulls that were incapable of anchoring the muscles necessary to generate an adult Tyrannosaurus’ bite force. However when the animals grew their jaw muscles grew exponentially to the point that these muscles were huge even for animals of their size. The scientists suggest that juveniles chased after small prey while adults had the power to prey on megaherbivores such as Edmontosaurus and Triceratops. The scientists call this phenomenon as resource partitioning which would have given Tyrannosaurus a large evolutionary advantage. [26]Horner, Goodwin and Myhrvold’s 2011 census makes a similar proposition, proposing that adult Tyrannosaurus may have not have directly competed with juveniles if the possibility of scavenging increased with size as they aged. [146]
+The University of Maryland's Thomas R. Holtz, Jr. has proposed that Tyrannosaurus attacked prey like canids and hyaenids do; seizing and killing prey with the jaws, with limited use of the forelimbs for capture and dispatch. Holtz pointed out that Tyrannosaurus had stout, strong teeth and a bony palate; both of which would have enabled Tyrannosaurus to resist greater twisting loads and occasional bone contact than allosaurids or other typical theropds. Holtz elaborated that Tyrannosaurus incrassate (thickened) teeth were mechanically stronger than those of other theropods, with deep roots to withstand lateral forces during predation or feeding with a greater torsional component. Furthermore, Tyrannosaurus had a solidly built bony secondary palate found at the roof of its mouth that would also have strengthened it against torsional loads, a similar adaptation to that of crocodiles.[123] Holtz along with James O. Farlow would also support freelance researcher Gregory S. Paul's suggestion that Tyrannosaurus could have used hit-and-run attacks on its prey[118][25]
+
+
+
+
+Edmontonia and a cast of the "Stan" specimen, Houston Museum of Natural Science
+
+
+Gregory S. Paul has suggested that Tyrannosaurus was a high risk predator that also attacked massive and dangerous prey; citing this as a reason tyrannosaurs died young. He would indicate that the fossil evidence of animals that surviving tyrannosaur attacks show that these animals were at least healthy enough to heal from their injuries; even suggesting the possibility that one of the horned ones may have been able to kill its attacker. Paul would write that Triceratops were probably Tyrannosaurus' most challenging and dangerous prey; with horns and parrot like beaks that they could use for defence. Paul writes that Tyrannosaurus did not attack horned animals such as Triceratops head on because that would have maximized the danger while lessening the chance of success. Instead Tyrannosaurus would attack these prey from behind, attempting to bite either the thigh or the caudofemoralis muscle to disable its prey. The Tyrannosaurus would have done this through either ambushing or trying to intimidate the horned animals into trying to run away which would have then exposed these animals to attack.[124]
+
+
+
+
+Tyrannosaurus and Triceratops at Los Angeles Natural History Museum
+
+
+David A. Krauss and John M. Robinson proposed that Tyrannosaurus could have used a hunting strategy similar in concept to “cow tipping” against Triceratops, where the Tyrannosaurus would ambush and knock the Triceratops over to fall on its side. This strategy, according to the Krauss and Robinson could explain the unique characteristics of Tyrannosaurus. Tyrannosaurus’ small, yet strong arms could have been adapted to grasp onto the back of Triceratops while pushing with its pectoral region, its large clawed feet would have given it better traction, its large head could have been used to tip the Triceratops over and its large mouth and bone piercing teeth would have made bites to the side more efficient and deadly. When the Triceratops had fallen over to its side, Tyrannosaurus would then bitten it at the rib cage; killing it. Krauss and Robinson would back up their proposal through physical analyses; finding that Tyrannosaurus moving at moderate could have generated enough force to topple Triceratops and would have only taken 2-3 seconds. The study states that a Tyrannosaurus impacting the Triceratops at a conservative estimated speed of 7.5 meters per second would have enabled it to topple Triceratops without injuring itself, though there could be some variance depending on the sizes of the animals (Tyrannosaurus could have attacked a smaller Triceratops). What’s more, their study noted that Triceratops would have experienced some difficulty quickly getting back up from being toppled on to its side. According to the study, modern day analogues of Triceratops such as rhinoceros, camels and large bovids, experience the same kind of difficulty, taking 3-10 seconds to recover. But Triceratops may have experienced more difficulty due to its frill. According to the study, Tyrannosaurus arms were adapted for this strategy, pushing the prey with its chest while gripping it with its arms reduced the chance of the prey slipping away while being pushed. The arms, being short yet strong reduced the chance of joint injury during this struggle. Also having more of the arm’s power concentrated on its flexors instead of the extensors, were ideal since it would have had to flex its arms to keep its prey close. When the Tyrannosaurus is pressed against the side of Tricieratops, its arms were at the right height to reach the spine of the Triceratops, providing a place to grip on. Furthermore, Krauss and Robinson suggest that this strategy would have been effective against other large ceratopsians and because the attack was done through an ambush, Tyrannosaurus would not have needed to compete in speed.[153]
+Tyrannosaurus may have had infectious saliva used to kill its prey. This theory was first proposed by William Abler.[154] Abler examined the teeth of tyrannosaurids between each tooth serration; the serrations may have held pieces of carcass with bacteria, giving Tyrannosaurus a deadly, infectious bite much like the Komodo dragon was thought to have.[155] However, Jack Horner regards Tyrannosaurus tooth serrations as more like cubes in shape than the serrations on a Komodo monitor's teeth, which are rounded.[156] All forms of saliva contain possibly hazardous bacteria, so the prospect of it being used as a method of predation is disputable.
+Feeding behavior
+
+
+
+
+Two teeth from the lower jaw of specimen MOR 1125, "B-rex", showing the variation in tooth size within an individual
+
+
+A few studies have also focused on Tyrannosaurus complex feeding habits.Tyrannosaurus, and most other theropods, probably primarily processed carcasses with lateral shakes of the head, like crocodilians. The head was not as maneuverable as the skulls of allosauroids, due to flat joints of the neck vertebrae.[157] Eric Snively and Anthony Russell further elaborates in a study published on 2007 that Tyrannosaurus had a powerful neck that would have enabled it to strike rapidly at prey and take on complex and modulated intertial feeding; a way of feeding used by modern archosaurs that involved the animal ripping away chunks of meat, tossing it into the air and swallowing it.[158] A team of paleontologist, lead by Denver Fowler from the university of the Rockies would later discover that Tyrannosaurus rex employed a complex feeding strategy to consume Triceratops after analysing various Triceratop specimens. This involved the Tyrannosaurus repositioning and tearing off the head of the dead Triceratops so that it could consume its meal's nutrient-rich neck muscles.[159]
+More findings have also shed light on how Tyrannosaurus interacted with each other. When examining Sue, paleontologist Pete Larson found a broken and healed fibula and tail vertebrae, scarred facial bones and a tooth from another Tyrannosaurus embedded in a neck vertebra. If correct, these might be strong evidence for aggressive behavior between tyrannosaurs but whether it would have been competition for food and mates or active cannibalism is unclear.[160] However, further recent investigation of these purported wounds has shown that most are infections rather than injuries (or simply damage to the fossil after death) and the few injuries are too general to be indicative of intraspecific conflict.[119]
+Cannibalism
+
+
+
+
+Tyrannosaurus bones with evidence of cannibalism
+
+
+A study from Currie, Horner, Erickson and Longrich in 2010 has been put forward as evidence of cannibalism in the genus Tyrannosaurus.[161] They studied some Tyrannosaurus specimens with tooth marks in the bones, attributable to the same genus. The tooth marks were identified in the humerus, foot bones and metatarsals, and this was seen as evidence for opportunistic scavenging, rather than wounds caused by intraspecific combat. In a fight, they proposed it would be difficult to reach down to bite in the feet of a rival, making it more likely that the bitemarks were made in a carcass. As the bitemarks were made in body parts with relatively scantly amounts of flesh, it is suggested that the Tyrannosaurus was feeding on a cadaver in which the more fleshy parts already had been consumed. They were also open to the possibility that other tyrannosaurids practiced cannibalism.[161]
+Pack behavior
+
+
+
+
+Mounted skeletons of different age groups, Los Angeles Natural History Museum
+
+
+Philip J. Currie of the University of Alberta has suggested that Tyrannosaurus may have been pack animals. Currie compared Tyrannosaurus rex favorably to related species Tarbosaurus bataar and Albertosaurus sarcophagus, fossil evidence from which Currie had previously used to suggest that they lived in packs.[162] Currie pointed out that a find in South Dakota preserved three Tyrannosaurus rex skeletons in close proximity to each other.[163] After using CT scanning, Currie stated that Tyrannosaurus would have been capable of such complex behavior, because its brain size is three times greater than what would be expected for an animal of its size. Currie elaborated that Tyrannosaurus had a larger brain to body size proportion than crocodiles and three times more than plant eating dinosaurs such as Triceratops of the same size. Currie believed Tyrannosaurus to be six times smarter than most dinosaurs and other reptiles.[164][162] Currie stated that because the available prey, such as Triceratops and Ankylosaurus, were well armored, and that others were fast moving, it would have been necessary for Tyrannosaurus to hunt in groups. Currie speculated that juveniles and adults would have hunted together, with the faster juveniles chasing down the prey and the more powerful adults making the kill, by analogy to modern-day pack hunters where each member contributes a skill.[162]
+However, Currie's pack-hunting hypothesis has been harshly criticized by other scientists. Brian Switek, writing for The Guardian in 2011,[165] noted that Currie's pack hypothesis has not been presented as research in a peer-reviewed scientific journal, but primarily in relation to a television special and tie-in book called "Dino Gangs." Switek also noted that Currie's argument for pack hunting in Tyrannosaurus rex is primarily based on analogy to a different species, Tarbosaurus bataar, and that the supposed evidence for pack hunting in T. bataar itself has not yet been published and subjected to scientific scrutiny. According to Switek and other scientists who have participated in panel discussions about the "Dino Gangs" television program, the evidence for pack hunting in Tarbosaurus and Albertosaurus is weak, based primarily on the association of several skeletons, for which numerous alternative explanations have been proposed (e.g. drought or floods forcing numerous specimens together to die in one place). In fact, Switek notes that the Albertosaurus bonebed site, on which Currie has based most of the interpretations of supposed pack hunting in related species, preserves geological evidence of just such a flood. Switek said, "bones alone are not enough to reconstruct dinosaur behaviour. The geological context in which those bones are found – the intricate details of ancient environments and the pace of prehistoric time – are essential to investigating the lives and deaths of dinosaurs,"[165] and noted that Currie must first describe the geological evidence from other tyrannosaur bonebed sites before jumping to conclusions about social behavior. Switek described the sensational claims provided in press releases and news stories surrounding the "Dino Gangs" program as "nauseating hype" and noted that the production company responsible for the program, Atlantic Productions, has a poor record involving exaggerating claims about new fossil discoveries, most notably the controversial claim it published regarding the supposed early human ancestor Darwinius, which soon turned out to be a relative of lemurs instead.[165]
+Pathology
+
+
+
+
+Restoration of an individual (based on MOR 980) with parasite infections
+
+
+In 2001, Bruce Rothschild and others published a study examining evidence for stress fractures and tendon avulsions in theropod dinosaurs and the implications for their behavior. Since stress fractures are caused by repeated trauma rather than singular events they are more likely to be caused by regular behavior than other types of injuries. Of the 81 Tyrannosaurus foot bones examined in the study one was found to have a stress fracture, while none of the 10 hand bones were found to have stress fractures. The researchers found tendon avulsions only among Tyrannosaurus and Allosaurus. An avulsion injury left a divot on the humerus of Sue the T. rex, apparently located at the origin of the deltoid or teres major muscles. The presence of avulsion injuries being limited to the forelimb and shoulder in both Tyrannosaurus and Allosaurus suggests that theropods may have had a musculature more complex and functionally different than those of birds. The researchers concluded that Sue's tendon avulsion was probably obtained from struggling prey. The presence of stress fractures and tendon avulsions in general provide evidence for a "very active" predation-based diet rather than obligate scavenging.[166]
+A 2009 study showed that holes in the skulls of several specimens that were previously explained by intraspecific attacks might have been caused by Trichomonas-like parasites that commonly infect avians.[167] Further evidence of intraspecific attack would however be found by Joseph Peterson and his colleagues in the juvenile Tyrannosaurus nicknamed "Jane". Peterson and his team found that Jane's skull showed healed puncture wounds on the upper jaw and snout which they believe came from another juvenile Tyrannosaurus. Subsequent CT scans of Jane's skull would further confirm the team's hypothesis, showing that the puncture wounds came from a traumatic injury and that there was subsequent healing.[168]The team would also state that Jane's injuries were structurally different from the parasite induced lesions found in Sue and that Jane's injuries were on her face whereas the parasite that infected Sue caused lesions to the lower jaw.[169]
+Paleoecology
+Tyrannosaurus lived during what is referred to as the Lancian faunal stage (Maastrichtian age) at the end of the Late Cretaceous. Tyrannosaurus ranged from Canada in the north to at least Texas and New Mexico in the south of Western North America. During this era Triceratops was the considered the dominate herbivore in the northern portion of its range, while the titanosaurian sauropod Alamosaurus dominated its southern range. Additionally, Tyrannosaurus remains have been discovered in several different types of ecosystems, including inland, coastal/swampy, and semi-arid to arid plains.
+Several notable Tyrannosaurus remains have been found in the Hell Creek Formation. During the Maastrichtian this area was subtropical, with a warm and humid climate. The flora consisted of angiosperms, but also included trees like dawn redwood (Metasequoia) and Araucaria. Tyrannosaurus shared this ecosystem with Triceratops, related ceratopsian Torosaurus, hadrosaurid Edmontosaurus annectens, Ankylosaurus, Pachycephalosaurus, hypsilophodont Thescelosaurus, and the therepods Ornithomimus and Troodon.[170]
+Another location with Tyrannosaur remains is the Lance Formation of Wyoming. This has been interpenetrated as a bayou environment similar to today's Gulf Coast. The fauna was very similar to Hell Creek, but with Struthiomimus replacing its relative Ornithomimus. Additionally, the small ceratopsian Leptoceratops also lived in the area.[171]
+In its southern range Tyrannosaurus lived alongside Alamosaurus, Torosaurus, a species of Edmontosaurus, possibly the ankylosaur Glyptodontopelta and the pterosaur Quetzalcoatlus.[172] The region is interpenetrated to be semi-arid inland plains, probably following the retreat of the Western Interior Seaway as global sea levels fell.[173]
+History
+
+
+
+
+Skeletal restoration by William D. Matthew from 1905, the first reconstruction of this dinosaur ever published[174]
+
+
+Henry Fairfield Osborn, president of the American Museum of Natural History, named Tyrannosaurus rex in 1905. The generic name is derived from the Greek words τυράννος (tyrannos, meaning "tyrant") and σαύρος (sauros, meaning "lizard"). Osborn used the Latin word rex, meaning "king", for the specific name. The full binomial therefore translates to "tyrant lizard the king" or "King Tyrant Lizard",[175] emphasizing the animal's size and perceived dominance over other species of the time.[57]
+Earliest finds
+Teeth from what is now documented as a Tyrannosaurus rex were found in 1874 by Arthur Lakes near Golden, Colorado. In the early 1890s, John Bell Hatcher collected postcranial elements in eastern Wyoming. The fossils were believed to be from a large species of Ornithomimus (O. grandis) but are now considered Tyrannosaurus rex. Vertebral fragments found by Edward Drinker Cope in western South Dakota in 1892 and named as Manospondylus gigas have also been recognized as belonging to Tyrannosaurus rex.[176]
+
+
+
+
+Type specimen of Dynamosaurus imperiosus
+
+
+Barnum Brown, assistant curator of the American Museum of Natural History, found the first partial skeleton of Tyrannosaurus rex in eastern Wyoming in 1900. H. F. Osborn originally named this skeleton Dynamosaurus imperiosus in a paper in 1905. Brown found another partial skeleton in the Hell Creek Formation in Montana in 1902. Osborn used this holotype to describe Tyrannosaurus rex in the same paper in which D. imperiosus was described.[57] In 1906, Osborn recognized the two as synonyms, and acted as first revisor by selecting Tyrannosaurus as the valid name.[61] The original Dynamosaurus material resides in the collections of the Natural History Museum, London.[177]
+In total, Brown found five Tyrannosaurus partial skeletons. In 1941, Brown's 1902 find was sold to the Carnegie Museum of Natural History in Pittsburgh, Pennsylvania. Brown's fourth and largest find, also from Hell Creek, is on display in the American Museum of Natural History in New York.[60]
+Although there are numerous skeletons in the world, only one track has been documented — at Philmont Scout Ranch in northeast New Mexico. It was discovered in 1983 and identified and documented in 1994.[178]
+Manospondylus
+
+
+
+
+Illustration of the type specimen (AMNH 3982) of Manospondylus gigas
+
+
+The first named fossil specimen which can be attributed to Tyrannosaurus rex consists of two partial vertebrae (one of which has been lost) found by Edward Drinker Cope in 1892. Cope believed that they belonged to an "agathaumid" (ceratopsid) dinosaur, and named them Manospondylus gigas, meaning "giant porous vertebra" in reference to the numerous openings for blood vessels he found in the bone.[176] The M. gigas remains were later identified as those of a theropod rather than a ceratopsid, and H.F. Osborn recognized the similarity between M. gigas and Tyrannosaurus rex as early as 1917. However, owing to the fragmentary nature of the Manospondylus vertebrae, Osborn did not synonymize the two genera.[58]
+In June 2000, the Black Hills Institute located the type locality of M. gigas in South Dakota and unearthed more tyrannosaur bones there. These were judged to represent further remains of the same individual, and to be identical to those of Tyrannosaurus rex.[179] According to the rules of the International Code of Zoological Nomenclature (ICZN), the system that governs the scientific naming of animals, Manospondylus gigas should therefore have priority over Tyrannosaurus rex, because it was named first. However, the Fourth Edition of the ICZN, which took effect on 1 January 2000, states that "the prevailing usage must be maintained" when "the senior synonym or homonym has not been used as a valid name after 1899" and "the junior synonym or homonym has been used for a particular taxon, as its presumed valid name, in at least 25 works, published by at least 10 authors in the immediately preceding 50 years ..."[180] Tyrannosaurus rex may qualify as the valid name under these conditions and would most likely be considered a nomen protectum ("protected name") under the ICZN if it is ever formally published on, which it has not yet been. Manospondylus gigas could then be deemed a nomen oblitum ("forgotten name").[181]
+Notable specimens
+Main article: Specimens of Tyrannosaurus
+
+
+
+
+"Sue" specimen, Field Museum of Natural History, Chicago
+
+
+Sue Hendrickson, amateur paleontologist, discovered the most complete (approximately 85%) and, until 2001, the largest, Tyrannosaurus fossil skeleton known in the Hell Creek Formation near Faith, South Dakota, on 12 August 1990. This Tyrannosaurus, nicknamed "Sue" in her honor, was the object of a legal battle over its ownership. In 1997 this was settled in favor of Maurice Williams, the original land owner. The fossil collection was purchased by the Field Museum of Natural History at auction for USD 7.6 million, making it the most expensive dinosaur skeleton to date. From 1998 to 1999 Field Museum of Natural History preparators spent over 25,000 man-hours taking the rock off each of the bones.[182] The bones were then shipped off to New Jersey where the mount was made. The finished mount was then taken apart, and along with the bones, shipped back to Chicago for the final assembly. The mounted skeleton opened to the public on May 17, 2000 in the great hall (Stanley Field Hall) at the Field Museum of Natural History. A study of this specimen's fossilized bones showed that "Sue" reached full size at age 19 and died at age 28, the longest any tyrannosaur is known to have lived.[183] Early speculation that Sue may have died from a bite to the back of the head was not confirmed. Though subsequent study showed many pathologies in the skeleton, no bite marks were found.[184] Damage to the back of the skull may have been caused by post-mortem trampling. Recent speculation indicates that "Sue" may have died of starvation after contracting a parasitic infection from eating diseased meat; the resulting infection would have caused inflammation in the throat, ultimately leading "Sue" to starve because she could no longer swallow food. This hypothesis is substantiated by smooth-edged holes in her skull which are similar to those caused in modern-day birds that contract the same parasite.[185]
+Another Tyrannosaurus, nicknamed "Stan", in honor of amateur paleontologist Stan Sacrison, was found in the Hell Creek Formation near Buffalo, South Dakota, in the spring of 1987. It was not collected until 1992, as it was mistakenly thought to be a Triceratops skeleton. Stan is 63% complete and is on display in the Black Hills Institute of Geological Research in Hill City, South Dakota, after an extensive world tour during 1995 and 1996.[77] This tyrannosaur, too, was found to have many bone pathologies, including broken and healed ribs, a broken (and healed) neck and a spectacular hole in the back of its head, about the size of a Tyrannosaurus tooth.[186]
+
+
+
+
+Size of various specimens compared with a human
+
+
+In the summer of 2000, Jack Horner discovered five Tyrannosaurus skeletons near the Fort Peck Reservoir in Montana. One of the specimens, dubbed "C. rex", was reported to be perhaps the largest Tyrannosaurus ever found.[187]
+In 2001, a 50% complete skeleton of a juvenile Tyrannosaurus was discovered in the Hell Creek Formation in Montana, by a crew from the Burpee Museum of Natural History of Rockford, Illinois. Dubbed "Jane", the find was initially considered the first known skeleton of the pygmy tyrannosaurid Nanotyrannus but subsequent research has revealed that it is more likely a juvenile Tyrannosaurus.[188] It is the most complete and best preserved juvenile example known to date. Jane has been examined by Jack Horner, Pete Larson, Robert Bakker, Greg Erickson, and several other renowned paleontologists, because of the uniqueness of her age. "Jane" is currently on exhibit at the Burpee Museum of Natural History in Rockford, Illinois.[189][190]
+In a press release on 7 April 2006, Bozeman Campus, Montana State University, USA revealed that it possessed the largest Tyrannosaurus skull yet discovered. Discovered in the 1960s and only recently reconstructed, the skull measures 59 inches (150 cm) long compared to the 55.4 inches (141 cm) of "Sue's" skull, a difference of 6.5%.[191][192]
+In popular culture
+Main article: Tyrannosaurus in popular culture
+Since it was first described in 1905, Tyrannosaurus rex has become the most widely recognized dinosaur species in popular culture. It is the only dinosaur that is commonly known to the general public by its full scientific name (binomial name) (Tyrannosaurus rex), and the scientific abbreviation T. rex has also come into wide usage.[16] Robert T. Bakker notes this in The Dinosaur Heresies and explains that a name like "Tyrannosaurus rex is just irresistible to the tongue."[10]
+References
+
+
+^ "Tyrannosaurus". Online Etymology Dictionary. 
+^ Hicks, J.F., Johnson, K.R., Obradovich, J.D., Tauxe, L. and Clark, D. (2002). "Magnetostratigraphy and geochronology of the Hell Creek and basal Fort Union Formations of southwestern North Dakota and a recalibration of the Cretaceous–Tertiary Boundary", in J.H. Hartman, K.R. Johnson & D.J. Nichols (eds.), The Hell Creek Formation and the Cretaceous–Tertiary boundary in the northern Great Plains: An integrated continental record of the end of the Cretaceous. GSA Special Paper, 361: 35–55.
+^ a b c d Hutchinson J.R., Bates K.T., Molnar J., Allen V, Makovicky P.J. (2011). "A Computational Analysis of Limb and Body Dimensions in Tyrannosaurus rex with Implications for Locomotion, Ontogeny, and Growth". PLoS ONE 6 (10): e26037. doi:10.1371/journal.pone.0026037. 
+^ a b c "Sue's vital statistics". Sue at the Field Museum. Field Museum of Natural History. Archived from the original on 2007-09-29. Retrieved 2007-09-15. 
+^ a b c d Erickson, Gregory M., GM; Makovicky, Peter J.; Currie, Philip J.; Norell, Mark A.; Yerby, Scott A.; & Brochu, Christopher A. (2004). "Gigantism and comparative life-history parameters of tyrannosaurid dinosaurs". Nature 430 (7001): 772–775. doi:10.1038/nature02699. PMID 15306807. 
+^ Switeck, Brian (2012-04-13). "When Tyrannosaurus Chomped Sauropods". Smithsonian Media. Retrieved 2013-08-24. 
+^ a b Hutchinson, John (2013-07-15). "Tyrannosaurus rex: predator or media hype?". What's in John's Freezer?. Retrieved 2013-08-26. 
+^ Henderson DM (January 1, 1999). "Estimating the masses and centers of mass of extinct animals by 3-D mathematical slicing". Paleobiology 25 (1): 88–106. 
+^ Anderson, JF; Hall-Martin AJ Russell DA (1985). "Long bone circumference and weight in mammals, birds and dinosaurs". Journal of Zoology 207 (1): 53–61. doi:10.1111/j.1469-7998.1985.tb04915.x. 
+^ a b c Bakker, Robert T. (1986). The Dinosaur Heresies. New York: Kensington Publishing. ISBN 0-688-04287-2. OCLC 13699558. [page needed]
+^ a b Farlow, JO; Smith MB, Robinson JM (1995). "Body mass, bone "strength indicator", and cursorial potential of Tyrannosaurus rex". Journal of Vertebrate Paleontology 15 (4): 713–725. doi:10.1080/02724634.1995.10011257. 
+^ Seebacher, Frank. (2001). "A new method to calculate allometric length–mass relationships of dinosaurs". Journal of Vertebrate Paleontology 21 (1): 51–60. doi:10.1671/0272-4634(2001)021[0051:ANMTCA]2.0.CO;2. 
+^ Christiansen, Per; & Fariña, Richard A. (2004). "Mass prediction in theropod dinosaurs". Historical Biology 16 (2–4): 85–92. doi:10.1080/08912960412331284313. 
+^ Boardman T.J., Packard G.C., Birchard G.F. (2009). "Allometric equations for predicting body mass of dinosaurs". Journal of Zoology 279 (1): 102–110. doi:10.1111/j.1469-7998.2009.00594.x. 
+^ Hartman, Scott (2013-07-07). "Mass estimates: North vs South redux". Scott Hartman's Skeletal Drawing.com. Retrieved 2013-08-24. 
+^ a b c d e f Brochu, C.R. (2003). "Osteology of Tyrannosaurus rex: insights from a nearly complete skeleton and high-resolution computed tomographic analysis of the skull". Society of Vertebrate Paleontology Memoirs 7: 1–138. doi:10.2307/3889334. JSTOR 3889334. 
+^ Lipkin, Christine; and Carpenter, Kenneth (2008). "Looking again at the forelimb of Tyrannosaurus rex". In Carpenter, Kenneth; and Larson, Peter E. (editors). Tyrannosaurus rex, the Tyrant King (Life of the Past). Bloomington: Indiana University Press. pp. 167–190. ISBN 0-253-35087-5. 
+^ "Museum unveils world's largest T-rex skull" (Press release). Montana State University. 2006-04-07. Retrieved 2008-09-13. 
+^ a b c Stevens, Kent A. (June 2006). "Binocular vision in theropod dinosaurs". Journal of Vertebrate Paleontology 26 (2): 321–330 doi=10.1671/0272-4634(2006)26[321:BVITD]2.0.CO;2. 
+^ a b c Jaffe, Eric (2006-07-01). "Sight for 'Saur Eyes: T. rex vision was among nature's best". Science News 170 (1): 3–4. doi:10.2307/4017288. JSTOR 4017288. Retrieved 2008-10-06. 
+^ Snively, Eric; Donald M. Henderson, and Doug S. Phillips (2006). "Fused and vaulted nasals of tyrannosaurid dinosaurs: Implications for cranial strength and feeding mechanics" (PDF). Acta Palaeontologica Polonica 51 (3): 435–454. Retrieved 2008-10-08. 
+^ Erickson, G.M.; Van Kirk, S.D.; Su, J.; Levenston, M.E.; Caler, W.E.; and Carter, D.R. (1996). "Bite-force estimation for Tyrannosaurus rex from tooth-marked bones". Nature 382 (6593): 706–708. doi:10.1038/382706a0. 
+^ a b Meers, Mason B. (August 2003). "Maximum bite force and prey size of Tyrannosaurus rex and their relationships to the inference of feeding behavior". Historical Biology: A Journal of Paleobiology 16 (1): 1–12. doi:10.1080/0891296021000050755. 
+^ a b c Holtz, Thomas R. (1994). "The Phylogenetic Position of the Tyrannosauridae: Implications for Theropod Systematics". Journal of Palaeontology 68 (5): 1100–1117. JSTOR 1306180. 
+^ a b c d e Paul, Gregory S. (1988). Predatory dinosaurs of the world: a complete illustrated guide. New York: Simon and Schuster. ISBN 0-671-61946-2. OCLC 18350868. [page needed]
+^ a b Switek, Brian (October 2012). "The Tyrannosaurus Rex’s Dangerous and Deadly Bite". Smithsonian.com. 
+^ a b [1], Bates, K.T & Falkingham P.L.(2012). Estimating maximum bite performance in Tyrannosaurus rex using multi-body dynamics. Biological Letters. doi: 10.1098/rsbl.2012.0056
+^ [2], Meers, Mason B.(2003) T. Rex Bite Force and Prey Size. Retrieved on July 15, 2013 from http://utweb.ut.edu/hosted/faculty/mmeers/res/trex/trexbite.html
+^ Smith, J.B. (December 2005). "Heterodonty in Tyrannosaurus rex: implications for the taxonomic and systematic utility of theropod dentitions". Journal of Vertebrate Paleontology 25 (4): 865–887. doi:10.1671/0272-4634(2005)025[0865:HITRIF]2.0.CO;2. 
+^ Douglas K, Young S (1998). "The dinosaur detectives". New Scientist. Retrieved 2008-10-16. "One palaeontologist memorably described the huge, curved teeth of T. rex as 'lethal bananas'" 
+^ a b Currie, Philip J.; Jørn H. Hurum and Karol Sabath (2003). "Skull structure and evolution in tyrannosaurid dinosaurs" (PDF). Acta Palaeontologica Polonica 48 (2): 227–234. Retrieved 2008-10-08. 
+^ a b c Holtz, Thomas R., Jr. (2004). "Tyrannosauroidea". In David B. Weishampel, Peter Dodson and Halszka Osmólska. The dinosauria. Berkeley: University of California Press. pp. 111–136. ISBN 0-520-24209-2. 
+^ Maleev, E. A. (1955). "(title in Russian)" [Gigantic carnivorous dinosaurs of Mongolia]. translated by F. J. Alcock. Doklady Akademii Nauk SSSR (in Russian) 104 (4): 634–637. 
+^ Rozhdestvensky, AK (1965). "Growth changes in Asian dinosaurs and some problems of their taxonomy". Paleontological Journal 3: 95–109. 
+^ Carpenter, Kenneth (1992). "Tyrannosaurids (Dinosauria) of Asia and North America". In Niall J. Mateer and Pei-ji Chen. Aspects of nonmarine Cretaceous geology. Beijing: China Ocean Press. ISBN 978-7-5027-1463-5. OCLC 28260578. 
+^ Carr, Thomas D.; Thomas E. Williamson and David R. Schwimmer (March 2005). "A New Genus and Species of Tyrannosauroid from the Late Cretaceous (Middle Campanian) Demopolis Formation of Alabama". Journal of Vertebrate Paleontology 25 (1): 119–143. doi:10.1671/0272-4634(2005)025[0119:ANGASO]2.0.CO;2. 
+^ Hurum, Jørn H.; Karol Sabath (2003). "Giant theropod dinosaurs from Asia and North America: Skulls of Tarbosaurus bataar and Tyrannosaurus rex compared" (PDF). Acta Palaeontologica Polonica 48 (2): 161–190. Retrieved 2008-10-08. 
+^ Olshevsky, George (1995). "The origin and evolution of the tyrannosaurids". Kyoryugaku Saizensen [Dino Frontline] 9–10: 92–119. 
+^ Carr, T.D.; T.E. Williamson (2004). "Diversity of late Maastrichtian Tyrannosauridae (Dinosauria: Theropoda) from western North America". Zoological Journal of the Linnean Society 142 (4): 479–523. doi:10.1111/j.1096-3642.2004.00130.x. 
+^ Gilmore, C.W. (1946). "A new carnivorous dinosaur from the Lance Formation of Montana". Smithsonian Miscellaneous Collections 106: 1–19. 
+^ Bakker, R.T.; M. Williams and P.J. Currie (1988). "Nanotyrannus, a new genus of pygmy tyrannosaur, from the latest Cretaceous of Montana". Hunteria 1 (5): 1–30. 
+^ Carr, TD (1999). "Craniofacial ontogeny in Tyrannosauridae (Dinosauria, Theropoda)". Journal of Vertebrate Paleontology 19 (3): 497–520. doi:10.1080/02724634.1999.10011161. 
+^ Currie, Philip J. (2003). "Cranial anatomy of tyrannosaurid dinosaurs from the Late Cretaceous of Alberta, Canada" (PDF). Acta Palaeontologica Polonica 42 (2): 191–226. Retrieved 2008-10-09. 
+^ Brusatte, S.L.; Norell, M.A.; Carr, T.D.; Erickson, G.M.; Hutchinson, J.R.; Balanoff, A.N.; Bever, G.S.; Choiniere, J.N.; Makovichy, P.J.; and Xu, X. (2010). "Tyrannosaur paleobiology: new research on ancient exemplar organisms". Science. 329 (5998): 1481–1485. doi:10.1126/science.1193304. PMID 20847260. 
+^ a b Horner JR, Padian K (September 2004). "Age and growth dynamics of Tyrannosaurus rex". Proceedings. Biological sciences / the Royal Society 271 (1551): 1875–80. doi:10.1098/rspb.2004.2829. PMC 1691809. PMID 15347508. Retrieved 2008-10-05. 
+^ a b Schweitzer MH, Wittmeyer JL, Horner JR (June 2005). "Gender-specific reproductive tissue in ratites and Tyrannosaurus rex". Science 308 (5727): 1456–60. doi:10.1126/science.1112158. PMID 15933198. Retrieved 2008-10-05. 
+^ Lee, Andrew H.; and Werning, Sarah (2008). "Sexual maturity in growing dinosaurs does not fit reptilian growth models". Proceedings of the National Academy of Sciences 105 (2): 582–587. doi:10.1073/pnas.0708903105. PMC 2206579. PMID 18195356. 
+^ a b Erickson GM, Currie PJ, Inouye BD, Winn AA (July 2006). "Tyrannosaur life tables: an example of nonavian dinosaur population biology". Science 313 (5784): 213–7. doi:10.1126/science.1125721. PMID 16840697. 
+^ Carpenter, Kenneth (1992). "Variation in Tyrannosaurus rex". In Kenneth Carpenter and Philip J. Currie. Dinosaur Systematics: Approaches and Perspectives. Cambridge: Cambridge University Press. pp. 141–145. ISBN 0-521-43810-1. 
+^ Larson, P.L. 1994. Tyrannosaurus sex. In: Rosenberg, G.D. & Wolberg, D.L. Dino Fest. The Paleontological Society Special Publications. 7: 139–155.
+^ Erickson GM, Kristopher Lappin A, Larson P (2005). "Androgynous rex – the utility of chevrons for determining the sex of crocodilians and non-avian dinosaurs". Zoology (Jena, Germany) 108 (4): 277–86. doi:10.1016/j.zool.2005.08.001. PMID 16351976. Retrieved 2008-10-08. 
+^ Schweitzer MH, Elsey RM, Dacke CG, Horner JR, Lamm ET (April 2007). "Do egg-laying crocodilian (Alligator mississippiensis) archosaurs form medullary bone?". Bone 40 (4): 1152–8. doi:10.1016/j.bone.2006.10.029. PMID 17223615. Retrieved 2008-10-08. 
+^ Leidy, J (1865). "Memoir on the extinct reptiles of the Cretaceous formations of the United States". Smithsonian Contributions to Knowledge 14: 1–135. 
+^ "Tyrannosaurus". American Museum of Natural History. Retrieved 2008-10-16. 
+^ a b Newman, BH (1970). "Stance and gait in the flesh-eating Tyrannosaurus". Biological Journal of the Linnean Society 2 (2): 119–123. doi:10.1111/j.1095-8312.1970.tb01707.x. 
+^ "The Age of Reptiles Mural". Yale University. 2008. Retrieved 2008-10-16. 
+^ a b c Osborn, H. F. (1905). "Tyrannosaurus and other Cretaceous carnivorous dinosaurs". Bulletin of the AMNH (New York City: American Museum of Natural History) 21 (14): 259–265. hdl:2246/1464.  Retrieved 2008-10-06.
+^ a b Osborn, H. F. (1917). "Skeletal adaptations of Ornitholestes, Struthiomimus, Tyrannosaurus". Bulletin of the American Museum of Natural History (New York City: American Museum of Natural History) 35 (43): 733–771. hdl:2246/1334.  Retrieved 2008-10-08.
+^ Lambe, L. M. (1914). "On a new genus and species of carnivorous dinosaur from the Belly River Formation of Alberta, with a description of the skull of Stephanosaurus marginatus from the same horizon". Ottawa Naturalist 27: 129–135. 
+^ a b c d Horner, John R.; Don Lessem (1993). The complete T. rex. New York City: Simon & Schuster. ISBN 0-671-74185-3. [page needed]
+^ a b Osborn, Henry Fairfield; Barnum Brown (1906). "Tyrannosaurus, Upper Cretaceous carnivorous dinosaur". Bulletin of the AMNH (New York City: American Museum of Natural History) 22 (16): 281–296. hdl:2246/1473. Retrieved 2008-10-06. 
+^ Carpenter, Kenneth; Matt Smith (2001). "Forelimb Osteology and Biomechanics of Tyrannosaurus rex". In Darren Tanke and Kenneth Carpenter. Mesozoic vertebrate life. Bloomington: Indiana University Press. pp. 90–116. ISBN 0-253-33907-3. 
+^ a b Fields, Helen (May 2006). "Dinosaur Shocker". Smithsonian Magazine. Retrieved 2008-10-02. 
+^ Schweitzer, Mary H.; Jennifer L. Wittmeyer, John R. Horner and Jan K. Toporski (March 2005). "Soft-tissue vessels and cellular preservation in Tyrannosaurus rex". Science 307 (5717): 1952–5. Bibcode:2005Sci...307.1952S. doi:10.1126/science.1108397. PMID 15790853. Retrieved 2008-10-02. 
+^ Rincon, Paul (2007-04-12). "Protein links T. rex to chickens". BBC News. Retrieved 2008-10-02. 
+^ Vergano, Dan (2007-04-13). "Yesterday's T. Rex is today's chicken". USA Today. Retrieved 2008-10-08. 
+^ Schmid, Randolph E.; Associated Press (2008-04-24). "Scientists study evidence modern birds came from dinosaurs". Newsvine. Retrieved 2008-10-08. 
+^ Kaye, Thomas G.; Gary Gaugler and Zbigniew Sawlowicz (July 2008). "Dinosaurian Soft Tissues Interpreted as Bacterial Biofilms". In Stepanova, Anna. PLoS ONE 3 (7): e2808. doi:10.1371/journal.pone.0002808. PMC 2483347. PMID 18665236. 
+^ "New Research Challenges Notion That Dinosaur Soft Tissues Still Survive" (Press release). Newswise. 2008-07-24. Retrieved 2008-10-08. 
+^ "Researchers Debate: Is It Preserved Dinosaur Tissue, or Bacterial Slime?" (Press release). Discover. 2008-07-30. Retrieved 2008-09-04. 
+^ San Antonio JD, Schweitzer MH, Jensen ST, Kalluri R, Buckley M, et al. (2011). "Dinosaur Peptides Suggest Mechanisms of Protein Survival". In Van Veen, Hendrik W. PLoS ONE 6 (6): e20381. doi:10.1371/journal.pone.0020381. PMC 3110760. PMID 21687667. 
+^ Peterson, Joseph E.; Melissa E. Lenczewski, Reed P. Scherer (October 12, 2010). "Influence of Microbial Biofilms on the Preservation of Primary Soft Tissue in Fossil and Extant Archosaurs". PLoS ONE 5 (10): e13334. doi:10.1371/journal.pone.0013334. Retrieved 2012-03-30. "[T]he interpretation of preserved organic remains as microbial biofilm [is] highly unlikely" 
+^ Hone, D. (2012) "Did Tyrannosaurus rex have feathers?" The Guardian, 17 October 2012. Accessed online 08 August 2013, http://www.theguardian.com/science/lost-worlds/2012/oct/17/dinosaurs-fossils
+^ Keim, B. (2012). "Giant Feathered Tyrannosaur Found in China." Wired, 04 April 2012. Accessed online 08 August 2013, http://www.wired.com/wiredscience/2012/04/yutyrannus-huali-feathers/
+^ a b Xu, Xing; Mark A. Norell, Xuewen Kuang, Xiaolin Wang, Qi Zhao and Chengkai Jia (2004-10-07). "Basal tyrannosauroids from China and evidence for protofeathers in tyrannosauroids". Nature 431 (7009): 680–684. doi:10.1038/nature02855. PMID 15470426. 
+^ a b c Xu, X.; Wang, K.; Zhang, K.; Ma, Q.; Xing, L.; Sullivan, C.; Hu, D.; Cheng, S.; Wang, S. et al. (2012). "A gigantic feathered dinosaur from the Lower Cretaceous of China" (PDF). Nature 484: 92–95. doi:10.1038/nature10906. PMID 22481363. 
+^ a b Larson, Neal L. (2008). "One hundred years of Tyrannosaurus rex: the skeletons". In Larson, Peter; and Carpenter, Kenneth, editors. Tyrannosaurus rex, the tyrant king. Bloomington, IN: Indiana University Press. pp. 1–55. ISBN 978-0-253-35087-9. 
+^ Paul, Gregory S. (2008). "The extreme lifestyles and habits of the gigantic tyrannosaurid superpredators of the Late Cretaceous of North America and Asia". In Carpenter, Kenneth; and Larson, Peter E. (editors). Tyrannosaurus rex, the Tyrant King (Life of the Past). Bloomington: Indiana University Press. p. 316. ISBN 0-253-35087-5. 
+^ Bakker, Robert T. (1968). "The superiority of dinosaurs" (PDF). Discovery 3 (2): 11–12. Archived from the original on September 9, 2006. Retrieved 2008-10-07. 
+^ Bakker, Robert T. (1972). "Anatomical and ecological evidence of endothermy in dinosaurs" (PDF). Nature 238 (5359): 81–85. Bibcode:1972Natur.238...81B. doi:10.1038/238081a0. Archived from the original on September 9, 2006. Retrieved 2008-10-07. 
+^ Barrick, Reese E.; William J. Showers (July 1994). "Thermophysiology of Tyrannosaurus rex: Evidence from Oxygen Isotopes". Science (New York City) 265 (5169): 222–224. doi:10.1126/science.265.5169.222. PMID 17750663. Retrieved 2008-10-07. 
+^ Trueman, Clive; Carolyn Chenery, David A. Eberth and Baruch Spiro (2003). "Diagenetic effects on the oxygen isotope composition of bones of dinosaurs and other vertebrates recovered from terrestrial and marine sediments". Journal of the Geological Society 160 (6): 895. doi:10.1144/0016-764903-019. 
+^ Barrick, Reese E.; William J. Showers (October 1999). "Thermophysiology and biology of Giganotosaurus: comparison with Tyrannosaurus". Palaeontologia Electronica 2 (2). Retrieved 2008-10-07. 
+^ Barrick, Reese E.; Michael K. Stoskopf and William J. Showers (1999). "Oxygen isotopes in dinosaur bones". In James O. Farlow and M. K. Brett-Surman. The Complete Dinosaur. Bloomington: Indiana University Press. pp. 474–490. ISBN 0-253-21313-4. 
+^ Paladino, Frank V.; James R. Spotila and Peter Dodson (1999). "A blueprint for giants: modeling the physiology of large dinosaurs". In James O. Farlow and M. K. Brett-Surman. The Complete Dinosaur. Bloomington: Indiana University Press. pp. 491–504. ISBN 0-253-21313-4. 
+^ Chinsamy, Anusuya; Willem J. Hillenius (2004). "Physiology of nonavian dinosaurs". In David B. Weishampel, Peter Dodson and Halszka Osmólska. The dinosauria. Berkeley: University of California Press. pp. 643–659. ISBN 0-520-24209-2. 
+^ Lockley, MG; Hunt AP (1994). "A track of the giant theropod dinosaur Tyrannosaurus from close to the Cretaceous/Tertiary boundary, northern New Mexico". Ichnos 3 (3): 213–218. doi:10.1080/10420949409386390. 
+^ "A PROBABLE TYRANNOSAURID TRACK FROM THE HELL CREEK FORMATION(UPPER CRETACEOUS), MONTANA, UNITED STATES". 2008. 
+^ Hutchinson JR, Ng-Thow-Hing V, Anderson FC (June 2007). "A 3D interactive method for estimating body segmental parameters in animals: application to the turning and running performance of Tyrannosaurus rex". Journal of Theoretical Biology 246 (4): 660–80. doi:10.1016/j.jtbi.2007.01.023. PMID 17363001. 
+^ Carrier, David R.; Rebecca M. Walter and David V. Lee (2001-11-15). "Influence of rotational inertia on turning performance of theropod dinosaurs: clues from humans with increased rotational inertia". Journal of Experimental Biology (Company of Biologists) 204 (22): 3917–3926. PMID 11807109. 
+^ a b Hutchinson, J.R. (2004). "Biomechanical Modeling and Sensitivity Analysis of Bipedal Running Ability. II. Extinct Taxa" (PDF). Journal of Morphology 262 (1): 441–461. doi:10.1002/jmor.10240. PMID 15352202. 
+^ a b c d e Hutchinson JR, Garcia M (February 2002). "Tyrannosaurus was not a fast runner". Nature 415 (6875): 1018–21. doi:10.1038/4151018a. PMID 11875567. 
+^ Holtz, Thomas R. (1996-05-01). "Phylogenetic taxonomy of the Coelurosauria (Dinosauria; Theropoda)". Journal of Paleontology 70 (3): 536–538. Retrieved 2008-10-03. 
+^ [3], Snively, Eric, Russell, Anthony P.(2003) “Kinematic Model of Tyrannosaurid (Dinosauria: Theropoda) Arctometatarsus Function”. Journal of Morphology255(2)215-227. DOI: 10.1002/jmor.10059
+^ Christiansen, P. (1998). "Strength indicator values of theropod long bones, with comments on limb proportions and cursorial potential" (pdf). Gaia 15: 241–255. ISSN 0871-5424. 
+^ "Giraffe". WildlifeSafari.info. Retrieved 2006-04-29. 
+^ "The History of Woodland Park Zoo – Chapter 4". Retrieved 2006-04-29. [dead link]
+^ Alexander, R.M. (August 7, 2006). "Dinosaur biomechanics". Proc Biol Sci. (The Royal Society) 273 (1596): 1849–1855. doi:10.1098/rspb.2006.3532. PMC 1634776. PMID 16822743. 
+^ a b Hanna, Rebecca R. (2002). "Multiple injury and infection in a sub-adult theropod dinosaur (Allosaurus fragilis) with comparisons to allosaur pathology in the Cleveland-Lloyd dinosaur quarry collection". Journal of Vertebrate Paleontology 22 (1): 76–90. doi:10.1671/0272-4634(2002)022[0076:MIAIIA]2.0.CO;2. ISSN 0272-4634.  catalogs the injuries of the Allosaurus known as "Big Al" – at least one was attributed to a fall.
+^ Sellers, W.I., and Manning, P.L. (July 2007). "Estimating dinosaur maximum running speeds using evolutionary robotics". Proc. R. Soc. B (The Royal Society) 274 (1626): 2711–6. doi:10.1098/rspb.2007.0846. PMC 2279215. PMID 17711833. 
+^ Seward, L (2007-08-21). "T. rex 'would outrun footballer'". BBCNews. Retrieved 2008-10-16. 
+^ Callison, G.; H. M. Quimby (1984). "Tiny dinosaurs: Are they fully grown?". Journal of Vertebrate Paleontology 3 (4): 200–209. doi:10.1080/02724634.1984.10011975. 
+^ a b c Persons, Scott W.; Currie, Philip J. (January 2011) [Article first published online 12 November 2010]. "The Tail of Tyrannosaurus: Reassessing the Size and Locomotive Importance of the M. caudofemoralis in Non-Avian Theropods". The Anatomical Record: Advances in Integrative Anatomy and Evolutionary Biology 294 (1): 119–131,. doi:10.1002/ar.21290. Retrieved 2013. 
+^ a b Persons, Scott W.(2010)Guest Post: Bulking-Up the Back End – Why Tyrannosaurus Tail Mass Matters.(2010) Retrieved from http://archosaurmusings.wordpress.com/2010/12/06/guest-post-bulking-up-the-back-end-why-tyrannosaurus-tail-mass-matters/
+^ Kaplan, Matt (2011-11-07). "Tyrannosaurs were power-walkers". Nature. Retrieved 2013-08-23. 
+^ Daily Mail Reporter (2011-11-15). "T Rex 'power walked' to hunt down prey thanks to superior muscles in his posterior". Associated Newspapers Ltd. Retrieved 2013-08-23. 
+^ a b Manning P (2008). "T. rex speed trap". In Carpenter, Kenneth; Larson, Peter E. Tyrannosaurus rex, the Tyrant King (Life of the Past). Bloomington: Indiana University Press. pp. 205–228. ISBN 0-253-35087-5. 
+^ Paul, G.S., and Christiansen, P. (September 2000). "Forelimb posture in neoceratopsian dinosaurs: implications for gait and locomotion". Paleobiology 26 (3): 450. doi:10.1666/0094-8373(2000)026<0450:FPINDI>2.0.CO;2. ISSN 0094-8373. 
+^ a b [4], Witmer, Lawrence M., Ridgely, Ryan C.(26 Aug 2009) New insights into the brain, braincase, and ear region of tyrannosaurs (Dinosauria, Theropoda), with implications for sensory organization and behavior. The Anatomical Record 292(9) 1266-1296. doi: 10.1002/ar.20983.
+^ [5], Emily,John(3 July 2006).Supersight for a Dino King. Retrieved July 7 2006 from http://www.sciencenewsforkids.org/2006/07/supersight-for-a-dino-king-3/
+^ [6], Stevens, Kent A.(1 April 2011)The Binocular Vision of Theropod Dinosaurs.Retrieved July 29, 2013 from http://ix.cs.uoregon.edu/~kent/paleontology/binocularVision/
+^ "T. Rex brain study reveals a refined "nose"". Calgary Herald. 2008-10-28. Retrieved 2008-10-29. 
+^ University of Alberta (2012-03-18). "T. rex's killer smile revealed". ScienceDaily. Retrieved 2013-07-15. 
+^ Reichel Miriam, Sues Hans-Dieter (2012). "The variation of angles between anterior and posterior carinae of tyrannosaurid teeth". Canadian Journal of Earth Sciences 49 (3): 477–491. doi:10.1139/e11-068. 
+^ Rayfield, Emily J. (22 July 2004). "Cranial mechanics and feeding in Tyrannosaurus rex". Proceedings of the Royal Society B: Biological Sciences 271 (1547): 1451–1459. doi:10.1098/rspb.2004.2755. 
+^ Nicholls,Henry (2004-06-09). "T. rex's Shock-Absorbing Skull". American Association for the Advancement of Science. Retrieved 2013-08-10. 
+^ Lambe, L. B. (1917). "The Cretaceous theropodous dinosaur Gorgosaurus". Memoirs of the Geological Survey of Canada 100: 1–84. 
+^ a b c d Farlow, J. O. and Holtz, T. R. (2002). "The fossil record of predation in dinosaurs" (pdf). In Kowalewski, M. and Kelley, P.H. The Fossil Record of Predation. The Paleontological Society Papers 8. pp. 251–266. 
+^ a b c Horner, J.R. (1994). "Steak knives, beady eyes, and tiny little arms (a portrait of Tyrannosaurus as a scavenger)". The Paleontological Society Special Publication 7: 157–164. 
+^ Amos, J. (2003-07-31). "T. rex goes on trial". BBC. 
+^ Novella, S. "Interview with Jack Horner." The Skeptics Guide to the Universe. 14-OCT-2011. Accessed 24-OCT-2011, http://media.libsyn.com/media/skepticsguide/skepticast2009-10-14.mp3
+^ The king of killers or fearsome freeloader? It is one of the big questions currently in palaeontology.
+^ a b Holtz, Thomas R. (2008). "Chapter 20: A critical re-appraisal of the obligate scavenging hypothesis for Tyrannosaurus rex and other tyrant dinosaurs". In Larson, Peter; Carpenter, Kenneth. Tyrannosaurus rex: The Tyrant King. Book Publishers. pp. 371–394. ISBN 978-0-253-35087-9. 
+^ a b c Paul, Gregory S. (2008). "Chapter 18: The Extreme Life Style and Habits of the Gigantic Tyrannosaurid Superpredators of the Cretaceous North America and Asia". In Larson, Peter L.; Carpenter, Kenneth. Tyrannosaurus, The Tyrant King. Indiana University Press. pp. 307–345. ISBN 9780253350879. Retrieved September 14, 2013. 
+^ "T. Rex brain study reveals a refined "nose"". Calgary Herald. 2008-10-28. Retrieved 2008-10-29. 
+^ Zelenitsky, Darla K.; Therrien, Francois; Kobayashi, Yoshitsugu (22 February 2009). "Olfactory acuity in theropods: palaeobiological and evolutionary implications". Proceedings of the Royal Society B 276 (1657): 667–673. doi:10.1098/rspb.2008.1075. 
+^ Paul, G.S. (1988). Predatory Dinosaurs of the World. Simon and Schuster. ISBN 0-671-61946-2. OCLC 18350868. 
+^ Ruxton GD, Houston DC (April 2003). "Could Tyrannosaurus rex have been a scavenger rather than a predator? An energetics approach". Proceedings. Biological sciences / the Royal Society 270 (1516): 731–3. doi:10.1098/rspb.2002.2279. PMC 1691292. PMID 12713747. Retrieved 2008-10-05. 
+^ a b Ruxton Graeme D., Houson David C. (7 June 2004). "Obligate vertebrate scavengers must be large soaring fliers". Journal of Theoretical Biology 228 (3): 431–436. doi:10.1016/j.jtbi.2004.02.005. 
+^ Chin, K., Erickson, G.M. et al. (1998-06-18). "A king-sized theropod coprolite". Nature 393 (6686): 680. doi:10.1038/31461.  Summary at Monastersky, R. (1998-06-20). "Getting the scoop from the poop of T. rex". Science News 153 (25): 391. doi:10.2307/4010364. JSTOR 4010364. 
+^ a b Walters, Martin (1995). Bloomsbury Illustrated Dictionary of Prehistoric Life (Bloomsbury Illustrated Dictionaries). Godfrey Cave Associates Ltd. ISBN 1-85471-648-4. 
+^ a b [7],Robert A. DePalma II, David A. Burnham, Larry D. Martin, Bruce M. Rothschild, and Peter L. Larson (2013) Physical evidence of predatory behavior in Tyrannosaurus rex. Proceedings of the National Academy of Sciences (advance online publication) doi: 10.1073/pnas.1216534110
+^ [8], Subbaraman, Nidhi(2013, July 16). Crunch! T. rex tooth found in dino tailbone. Retrieved on July 16, 2013 from http://www.nbcnews.com/science/crunch-t-rex-tooth-found-dino-tailbone-6C10640610]
+^ [9], Tyrannosaurus rex tooth found in dinosaur's tail bone 'proves' it was hunter, not scavenger(2013, July 16). Retrieved on July 16, 2013 from http://www.news.com.au/technology/sci-tech/tyrannosaurus-rex-tooth-found-in-dinosaurs-tail-bone-proves-it-was-hunter-not-scavenger/story-fn5fsgyc-1226679904234]
+^ [10], DePalma II, Robert A., Burnham, David A., Martin, Larry D.,Rotchild Bruce M., Larson, Peter L.(2013)Physical evidence of predatory behavior in Tyrannosaurus rex.PNAS 2013; published ahead of print July 15, 2013, doi:10.1073/pnas.1216534110
+^ Hotz, Robert Lee(July 16, 2013). Fossil Proves T. Rex Wasn't Just a Scavenger. Retrieved on July 16, 2013 from http://online.wsj.com/article/SB10001424127887323664204578607911233796672.html
+^ Carpenter, K. (1998). "Evidence of predatory behavior by theropod dinosaurs". Gaia 15: 135–144. 
+^ [11], Tennant, Jon (2013).Dinosaur’s Flesh Wound Preserved in Fossil Record. Retrieved July 22, 2013 from http://blogs.discovermagazine.com/crux/2013/02/20/dinosaurs-flesh-wound-preserved-in-fossil-record/#.Ue0quUpZOSp
+^ [12], Edwards , Tim(5 March, 2013). First fossilized dinosaur scar suggest Edmontosaurus survived T. Rex attack. Retrieved July 22, 2013 from http://www.walkingwithdinosaurs.com/news/post/fossilised-edmontosaurus-scar-dinosaur-picture/
+^ [13], Vergano, Dan(21,February 2013).Duckbill dinosaur survived T. Rex attack. Retrieved July 22, 2013 from http://www.usatoday.com/story/tech/sciencefair/2013/02/21/tyrannosaur-teeth-duckbill-skin/1933843/
+^ [14], Rothschild, Bruce M., DePalma, Robert(2013)” Skin pathology in the Cretaceous: Evidence for probable failed predation in a dinosaur”. Cretaceous Research , 42(0),44-47. Doi: 10.1016/j.cretres.2013.01.005
+^ [15], Than, Ker(28, February 2013)Scarred Duckbill Dinoasaur Survived T. Rex Attack: A fossilized bite mark on a dinosaur indicates it survived a T. Rex attack. Retrieved July 22, 2013 from http://news.nationalgeographic.com/news/2013/13/130228-duckbill-tyrannosaurus-dinosaur-wound-scar-science/
+^ Happ, John; and Carpenter, Kenneth (2008). "An analysis of predator–prey behavior in a head-to-head encounter between Tyrannosaurus rex and Triceratops". In Carpenter, Kenneth; and Larson, Peter E. (editors). Tyrannosaurus rex, the Tyrant King (Life of the Past). Bloomington: Indiana University Press. pp. 355–368. ISBN 0-253-35087-5. 
+^ Dodson, Peter, The Horned Dinosaurs, Princeton Press. p.19
+^ Carbone, Chris; Turvey, Samuel T.; Bielby, Jon (January 26, 2011). "Intra-guild Competition and its Implications for One of the Biggest Terrestrial Predators, Tyrannosaurus rex". Proceedings of the Royal Society B: Biological Sciences. doi:10.1098/rspb.2010.2497.  edit
+^ a b Horner John R., Goodwin Mark B., Myhrvold Nathan (9 February 2011). "Dinosaur Census Reveals Abundant Tyrannosaurus and Rare Ontogenetic Stages in the Upper Cretaceous Hell Creek Formation (Maastrichtian), Montana, USA". PLoS ONE 6 (2): e16574. doi:10.1371/journal.pone.0016574. 
+^ Hayward M. (2006). "Prey preferences of the spotted hyaena (Crocuta crocuta) and degree of dietary overlap with the lion (Panthera leo)". Journal of Zoology 270 (4): 606–614. doi:10.1111/j.1469-7998.2006.00183.x. 
+^ Cooper Susan M., Holekamp Kaye E., Smale Laura (June 1999). "A seasonal feast: long-term analysis of feeding behaviour in the spotted hyaena (Crocuta crocuta)". African Journal of Ecology 37 (2): 149–160. doi:10.1046/j.1365-2028.1999.00161.x. 
+^ Switek Brian (2011-03-7). "Tyrannosaurus: Hyena of the Cretaceous". Smithsonian Media. Retrieved 2013-08-26. 
+^ Hone, David (2010-07-13). "So tyrannosaurs were scavengers then…". David Hone's Archosaur Musing's. Retrieved 2013-08-26. 
+^ Switek, Brian (2013-07-16). "Time to Slay the T. rex Scavenger “Debate”". National Geographic. Retrieved 2013-08-26. 
+^ a b Hone, D. W., & Rauhut, O. W. (2010). "Feeding behaviour and bone utilization by theropod dinosaurs." Lethaia, 43(2): 232-244.
+^ Krauss, David A.; Robinson, John M. (2013-07-05). "Chapter 13: The Biomechanics of a Plausible Hunting Strategy for Tyrannosaurus rex". In Parrish, Michael J. Tyrannosaurid Paleobiology (Life of the Past). Indiana University Press. pp. 251–253,257,260. ISBN 9780253009470. Retrieved September 1, 2013. 
+^ 1999. The teeth of the Tyrannosaurus. Scientific American 281: 40-41.
+^ Abler William (1992). "The serrated teeth of tyrannosaurid dinosaurs, and biting structures in other animals". PALEOBIOLOGY 18 (2): 161–183. 
+^ The Complete T. Rex: How Stunning New Discoveries are Changing our Understanding of the World's Most Famous Dinosaur copyright 1993 by John R. Horner: pp 214-215
+^ Snively, Eric.; Cotton, John R.; Ridgely, Ryan; and Witmer, Lawrence M. (2013). "Multibody dynamics model of head and neck function in Allosaurus (Dinosauria, Theropoda)". Palaeontologica Electronica 16 (2). 
+^ [16], Snively, Eric and Russell, Anthony P. (2007). Craniocervical feeding dynamics of Tyrannosaurus rex. PALEOBIOLOGY 33(4): 610-638. doi: 10.1666/06059.1
+^ Kaplan, Matt(2012). How to eat a Triceratops. Retrieved on July 16, 2013 from http://www.nature.com/news/how-to-eat-a-triceratops-1.11650
+^ Tanke, Darren H.; and Currie, Philip J. (1998). "Head-biting behavior in theropod dinosaurs: paleopathological evidence" (pdf). Gaia (15): 167–184. ISSN 0871-5424. 
+^ a b Longrich N R., Horner J.R., Erickson G.M. & Currie P.J. (2010), "Cannibalism in Tyrannosaurus rex", Public Library of Science.
+^ a b c [17], Discover Ed(22 June 2011) Dino Gangs. Retrieved on July 28, 2013 from http://www.discoveryuk.com/the-loop/dino-gangs/
+^ [http http://www.telegraph.co.uk/science/dinosaurs/8589113/Tyrannosaurus-Rex-hunted-in-packs.html],Collins, Nick(22 June 2011). Tyrannosaurus Rex 'hunted in packs. Retrieved on July 28, 2013 from http://www.telegraph.co.uk/science/dinosaurs/8589113/Tyrannosaurus-Rex-hunted-in-packs.html
+^ [18], Wallis, Paul(11 June 2012) Op-Ed: T. Rex pack hunters? Scary, but likely to be true. Retrieved on July 28, 2013 from http://digitaljournal.com/article/326451
+^ a b c Switek, B. (2011). "A bunch of bones doesn't make a gang of bloodthirsty tyrannosaurs: Evidence presented in Dino Gangs that tyrannosaurs hunted cooperatively is a triumph of PR over hard scientific evidence." The Guardian, 25 July 2011. Accessed online 29 July 2013, http://www.guardian.co.uk/science/blog/2011/jul/25/bunch-bones-gang-bloodthirsty-tyrannosaurs
+^ Rothschild, B., Tanke, D. H., and Ford, T. L., 2001, Theropod stress fractures and tendon avulsions as a clue to activity: In: Mesozoic Vertebrate Life, edited by Tanke, D. H., and Carpenter, K., Indiana University Press, p. 331-336.
+^ Wolff EDS, Salisbury SW, Horner JR, Varricchi DJ (2009). "Common Avian Infection Plagued the Tyrant Dinosaurs". In Hansen, Dennis Marinus. PLoS ONE 4 (9): e7288. doi:10.1371/journal.pone.0007288. PMC 2748709. PMID 19789646. Retrieved 2009-11-01. 
+^ Peterson, Joseph E., Henderson, Michael D., Sherer, Reed P., Vittore, Christopher P. (November 2009). "Face Biting On A Juvenile Tyrannosaurid And Behavioral Implications". Palaios 24 (11): 780–784. doi:10.2110/palo.2009.p09-056r. 
+^ Parisi, Tom (2009-11-02). "The terrible teens of T. rex NIU scientists: Young tyrannosaurs did serious battle against each other". Northern Illinois University. Retrieved 2013-08-10. 
+^ Estes, R., and P. Berberian. 1970. Paleoecology of a late Cretaceous vertebrate community from Montana. Breviora volume 343, 35 pages
+^ Derstler, Kraig (1994). "Dinosaurs of the Lance Formation in eastern Wyoming". In Nelson, Gerald E. (ed.). The Dinosaurs of Wyoming. Wyoming Geological Association Guidebook, 44th Annual Field Conference. Wyoming Geological Association. pp. 127–146.
+^ Weishampel, David B; et al. (2004). "Dinosaur distribution (Late Cretaceous, North America)." In: Weishampel, David B.; Dodson, Peter; and Osmólska, Halszka (eds.): The Dinosauria, 2nd, Berkeley: University of California Press. Pp. 574-588. ISBN 0-520-24209-2.
+^ Jasinski, S. E., Sullivan, R. M., & Lucas, S. G. (2011). Taxonomic composition of the Alamo Wash local fauna from the Upper Cretaceous Ojo Alamo Formation (Naashoibito Member) San Juan Basin, New Mexico. Bulletin, 53, 216-271.
+^ "The First Tyrannosaurus Skeleton, 1905". Linda Hall Library of Science, Engineering and Technology. Archived from the original on September 28, 2006. Retrieved 2008-08-03. 
+^ Compare Oedipus rex, translated as Oedipus the King or King Oedipus, as the second part of the species name is syntactically an apposition to the genus name.
+^ a b Breithaupt, Brent H.; Elizabeth H. Southwell and Neffra A. Matthews (2005-10-18). "In Celebration of 100 years of Tyrannosaurus rex: Manospondylus gigas, Ornithomimus grandis, and Dynamosaurus imperiosus, the Earliest Discoveries of Tyrannosaurus Rex in the West". Abstracts with Programs. 2005 Salt Lake City Annual Meeting 37 (7). Geological Society of America. p. 406. Retrieved 2008-10-08. 
+^ Breithaup, BH; Southwell EH, Matthews NA (2006). "Dynamosaurus imperiosus and the earliest discoveries of Tyrannosaurus rex in Wyoming and the West". New Mexico Museum of Natural History and Science Bulletin 35: 257–258. 
+^ "Footprint of a Giant". Online guide to the continental Cretaceous–Tertiary boundary in the Raton basin, Colorado and New Mexico. United States Geological Survey. Retrieved 2008-10-09. 
+^ Anonymous, 2000. "New discovery may endanger T-Rex's name" The Associated Press. June 13, 2000.
+^ Ride, W. D. L. (1999). "Article 23.9 – Reversal of Precedence". International code of zoological nomenclature. London: International Commission on Zoological Nomenclature. ISBN 0-85301-006-4. OCLC 183090345. Retrieved 2008-10-08. 
+^ Taylor, Mike (2002-08-27). "So why hasn't Tyrannosaurus been renamed Manospondylus?". The Dinosaur FAQ. Retrieved 2008-10-08. 
+^ "Preparation and mounting". Sue at the Field Museum. The Field Museum. 2007. Retrieved 11 February 2010. [dead link]
+^ Erickson, G., Makovicky, P. J., Currie, P. J., Norell, M., Yerby, S., Brochu, C. A. (26 May 2004). "Gigantism and life history parameters of tyrannosaurid dinosaurs". Nature 430 (7001): 772–775. doi:10.1038/nature02699. PMID 15306807. 
+^ Brochu, C.A. (December 2003). "Lessons From A Tyrannosaur: The Ambassadorial Role Of Paleontology". PALAIOS 18 (6): 475. doi:10.1669/0883-1351(2003)018<0475:LFATTA>2.0.CO;2. ISSN 0883-1351. 
+^ http://www.sciencedaily.com/releases/2009/09/090929133117.htm#
+^ Steve Fiffer (2000). Tyrannosaurus Sue. W. H. Freeman and Company, New York. ISBN 0-7167-4017-6.  chapter 7 "Jurassic Farce", pp 121–2
+^ "Dig pulls up five T. rex specimens". BBC News. 10 October 2000. Retrieved 13 December 2008. 
+^ Currie, PJ; Huru, JH, Sabath, K (2003). "Skull structure and evolution in tyrannosaurid dinosaurs" (PDF). Acta Palaeontologica Polonica 48 (2): 227–234. Retrieved 2008-10-16. 
+^ Henderson, M (In press). "Nano No More: The death of the pygmy tyrant". In Henderson, M. The origin, systematics, and paleobiology of Tyrannosauridae. Dekalb, Illinois: Northern Illinois University Press. 
+^ "Visit Jane the Dinosaur at the Burpee Museum, Rockford, Illinois". Archived from the original on May 25, 2008. Retrieved 2008-10-16. 
+^ "Museum unveils world's largest T-rex skull.". Retrieved 2006-04-07. 
+^ Ryan, M. J. "New Biggest T-rex Skull.". Retrieved 2006-04-12. 
+
+
+Further reading
+
+Farlow, J. O. (2000). "Theropod Locomotion". American Zoologist (The Society for Integrative and Comparative Biology) 40 (4): 640–663. doi:10.1093/icb/40.4.640. 
+
+External links
+
+
+
+Wikimedia Commons has media related to Tyrannosaurus.
+
+
+
+
+
+Wikispecies has information related to: Tyrannosaurus
+
+
+
+
+
+Wikibooks has a book on the topic of: Wikijunior:Dinosaurs/Tyrannosaurus
+
+
+
+
+
+
+Dinosaurs portal
+
+
+
+
+Tyrannosauridae "Tree of Life" page, very comprehensive survey by major authority Tom Holtz.
+Radford, Tim (12 August 2004). "The secret of T. rex's colossal size: a teenage growth spurt". London: The Guardian. Retrieved 2010-04-09. 
+Sue's homepage
+Stan's homepage
+Unearthing Tyrannosaurus rex
+Museum of Unnatural Mystery – Bite force etc. of T. rex
+Stanford University on bite force of T. rex
+Recent Discovery of Soft Tissue
+Miniature tyrannosaurid discovered
+
+
+     
+
+
+ 
+NewPP limit report
+CPU time usage: 13.901 seconds
+Real time usage: 14.729 seconds
+Preprocessor visited node count: 56339/1000000
+Preprocessor generated node count: 106963/1500000
+Post‐expand include size: 468472/2048000 bytes
+Template argument size: 106084/2048000 bytes
+Highest expansion depth: 39/40
+Expensive parser function count: 0/500
+Lua time usage: 0.924s
+Lua memory usage: 2.92 MB
+
+
+ Saved in parser cache with key enwiki:pcache:idhash:30467-0!*!0!!en!4!* and timestamp 20131003134634 
+								
+				Retrieved from "http://en.wikipedia.org/w/index.php?title=Tyrannosaurus&oldid=575578983"				
+												Categories: Animals having identical common and scientific namesCretaceous dinosaursDinosaurs of North AmericaTyrannosaursGeology of MontanaHidden categories: Wikipedia articles needing page number citations from September 2010All articles with dead external linksArticles with dead external links from April 2012Wikipedia semi-protected pagesWikipedia indefinitely move-protected pagesArticles with 'species' microformatsCommons category with local link same as on WikidataFeatured articles												
+							
+		
+		
+			Navigation menu
+			
+				
+	Personal tools
+	
+Create accountLog in	
+
+				
+					
+	Namespaces
+	
+					Article
+					Talk
+			
+
+
+	
+		
+	Variants
+	
+		
+					
+	
+
+				
+				
+					
+	Views
+	
+					Read
+					View source
+					View history
+			
+
+
+	Actions
+	
+		
+					
+	
+
+
+	Search
+	
+				
+																				
+		
+	
+
+				
+			
+			
+					
+				
+	Navigation
+	
+		
+			Main page
+			Contents
+			Featured content
+			Current events
+			Random article
+			Donate to Wikipedia
+		
+	
+
+
+	Interaction
+	
+		
+			Help
+			About Wikipedia
+			Community portal
+			Recent changes
+			Contact page
+		
+	
+
+
+	Toolbox
+	
+		
+			What links here
+			Related changes
+			Upload file
+			Special pages
+			Permanent link
+			Page information
+			Data item
+Cite this page		
+	
+
+
+	Print/export
+	
+		
+			Create a book
+			Download as PDF
+			Printable version
+		
+	
+
+
+	Languages
+	
+		
+			Afrikaans
+			العربية
+			Azərbaycanca
+			Bân-lâm-gú
+			Български
+			Bosanski
+			Brezhoneg
+			Català
+			Česky
+			Dansk
+			Deutsch
+			Eesti
+			Ελληνικά
+			Español
+			Esperanto
+			Euskara
+			فارسی
+			Føroyskt
+			Français
+			Frysk
+			Gàidhlig
+			Galego
+			한국어
+			Hawai`i
+			हिन्दी
+			Hrvatski
+			Bahasa Indonesia
+			Ирон
+			Íslenska
+			Italiano
+			עברית
+			Basa Jawa
+			ქართული
+			Latina
+			Latviešu
+			Lëtzebuergesch
+			Lietuvių
+			Magyar
+			Македонски
+			മലയാളം
+			मराठी
+			Bahasa Melayu
+			Монгол
+			Nederlands
+			日本語
+			Norsk bokmål
+			Norsk nynorsk
+			Occitan
+			پنجابی
+			پښتو
+			Polski
+			Português
+			Română
+			Русский
+			Shqip
+			Simple English
+			Slovenčina
+			Slovenščina
+			Српски / srpski
+			Srpskohrvatski / српскохрватски
+			Suomi
+			Svenska
+			Tagalog
+			தமிழ்
+			ไทย
+			Türkçe
+			Українська
+			Tiếng Việt
+			Volapük
+			Winaray
+			粵語
+			Žemaitėška
+			中文
+			
+			Edit links
+		
+	
+
+			
+		
+		
+							
+											 This page was last modified on 3 October 2013 at 13:46.
+											Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. 
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+									
+							
+											Privacy policy
+											About Wikipedia
+											Disclaimers
+											Contact Wikipedia
+											Developers
+											Mobile view
+									
+										
+					
+						
+					
+					
+						
+					
+				
+						
+		
+		
+
+
+ Served by mw1058 in 0.291 secs. 
+	
+if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Tyrannosaurus","wgTitle":"Tyrannosaurus","wgCurRevisionId":575578983,"wgArticleId":30467,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Wikipedia articles needing page number citations from September 2010","All articles with dead external links","Articles with dead external links from April 2012","Wikipedia semi-protected pages","Wikipedia indefinitely move-protected pages","Articles with 'species' microformats","Commons category with local link same as on Wikidata","Featured articles","Animals having identical common and scientific names","Cretaceous dinosaurs","Dinosaurs of North America","Tyrannosaurs","Geology of Montana"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Tyrannosaurus","wgIsProbablyEditable":false,"wgRestrictionEdit":["autoconfirmed"],"wgRestrictionMove":["sysop"],"wgVectorEnabledModules":{"collapsiblenav":true,"experiments":true},"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"templateEditor":false,"templates":false,"preview":false,"previewDialog":false,"publish":false,"toc":false},"wgArticleFeedbackv5Permissions":{"aft-reader":false,"aft-member":false,"aft-editor":false,"aft-monitor":false,"aft-administrator":false,"aft-oversighter":false,"aft-noone":false},"wgVisualEditor":{"isPageWatched":false,"magnifyClipIconURL":"//bits.wikimedia.org/static-1.22wmf18/skins/common/images/magnify-clip.png","pageLanguageCode":"en","pageLanguageDir":"ltr"},"wikilove-recipient":"","wikilove-anon":0,"wgGuidedTourHelpGuiderUrl":"Help:Guided tours/guider","wgULSAcceptLanguageList":[],"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia","aftv5Article":{"id":30467,"title":"Tyrannosaurus","namespace":0,"categories":["All articles with dead external links","Animals having identical common and scientific names","Articles with 'species' microformats","Articles with dead external links from April 2012","Commons category with local link same as on Wikidata","Cretaceous dinosaurs","Dinosaurs of North America","Featured articles","Geology of Montana","Tyrannosaurs","Wikipedia articles needing page number citations from September 2010","Wikipedia indefinitely move-protected pages","Wikipedia semi-protected pages"],"permissionLevel":false},"wgWikibaseItemId":"Q14332"});
+}if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":false,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,
+"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"useeditwarning":1,"prefershttps":1,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"vector-simplesearch":1,"vector-collapsiblenav":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"aftv5-last-filter":null,"visualeditor-enable":0,"visualeditor-enable-experimental":0,"visualeditor-betatempdisable":0,"wikilove-enabled":1,"echo-subscriptions-web-page-review":true,"echo-subscriptions-email-page-review":false,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"echo-notify-show-link":true,"echo-show-alert":true,"echo-email-frequency":0,"echo-email-format":"html","echo-subscriptions-email-system":true,"echo-subscriptions-web-system":true,"echo-subscriptions-email-other":false,"echo-subscriptions-web-other":true,"echo-subscriptions-email-edit-user-talk":false,"echo-subscriptions-web-edit-user-talk":true,
+"echo-subscriptions-email-reverted":false,"echo-subscriptions-web-reverted":true,"echo-subscriptions-email-article-linked":false,"echo-subscriptions-web-article-linked":false,"echo-subscriptions-email-mention":false,"echo-subscriptions-web-mention":true,"echo-subscriptions-web-edit-thank":true,"echo-subscriptions-email-edit-thank":false,"gettingstarted-task-toolbar-show-intro":true,"uls-preferences":"","language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs446":false,"searchNs447":false
+,"searchNs710":false,"searchNs711":false,"searchNs828":false,"searchNs829":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-mySandbox":1,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:156d8fe0ae17f8afd74198057563e45d */
+}if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","ext.visualEditor.viewPageTarget.init","ext.wikimediaShopLink.core","ext.uls.init","ext.uls.interface","wikibase.client.init","ext.centralNotice.bannerController","skins.vector.js"]);
+}/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}if(window.mw){
+mw.loader.load(["mediawiki.action.view.postEdit","mobile.desktop","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.cite","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","mw.MwEmbedSupport.style","ext.vector.collapsibleNav","ext.articleFeedbackv5.startup","ext.gettingstarted.logging","ext.gettingstarted.openTask","schema.HttpsSupport","ext.coreEvents.httpsSupport","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","mw.PopUpMediaTransform"],null,true);
+}

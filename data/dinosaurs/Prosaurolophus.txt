@@ -1,0 +1,585 @@
+
+
+
+Prosaurolophus - Wikipedia, the free encyclopedia
+
+
+
+
+
+
+
+
+
+
+
+
+a:lang(ar),a:lang(ckb),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:0de201fdea5d684523607ed88007b127 */
+
+
+
+
+[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.22wmf19/skins/vector/csshover.min.htc")}</style><![endif]
+
+		
+		
+		
+			
+			
+						 CentralNotice 
+						Prosaurolophus
+			
+								From Wikipedia, the free encyclopedia
+								
+												
+					Jump to:					navigation, 					search
+				
+				
+
+
+
+Prosaurolophus
+Temporal range: Late Cretaceous, 76–75Ma
+
+PreЄ
+Є
+O
+S
+D
+C
+P
+T
+J
+K
+Pg
+N
+
+
+
+↓
+
+
+
+
+
+
+
+
+
+P. maximus, collected 1921, Royal Ontario Museum, Toronto
+
+
+Scientific classification
+
+
+Kingdom:
+Animalia
+
+
+Phylum:
+Chordata
+
+
+Class:
+Reptilia
+
+
+Superorder:
+Dinosauria
+
+
+Order:
+Ornithischia
+
+
+Suborder:
+Ornithopoda
+
+
+Family:
+Hadrosauridae
+
+
+Subfamily:
+Saurolophinae
+
+
+Genus:
+Prosaurolophus
+Brown, 1916
+
+
+Species
+
+
+
+
+P. maximus Brown, 1916 (type)
+P. blackfeetensis Horner, 1992
+
+
+
+
+
+Prosaurolophus (/ˌproʊsɔːˈrɒləfəs/; meaning "before Saurolophus", in comparison to the later dinosaur with a similar head crest) is a genus of hadrosaurid (or duck-billed) dinosaur from the Late Cretaceous of North America. It is known from the remains of at least 25 individuals belonging to two species, including skulls and skeletons, but it remains obscure. Around 9 meters long (29.5 ft), its fossils have been found in the late Campanian-age Upper Cretaceous Dinosaur Park Formation in Alberta, and the roughly contemporaneous Two Medicine Formation in Montana, dating to around 76-75 million years ago.[1] Its most recognizable feature is a small solid crest formed by the nasal bones, sticking up in front of the eyes.
+The type species is P. maximus, described by American paleontologist Barnum Brown of the American Museum of Natural History in 1916. A second species, P. blackfeetensis, was described by Jack Horner of the Museum of the Rockies in 1992. The two species are differentiated mainly by crest size and skull proportions.
+
+
+Contents
+
+
+1 Description
+2 Classification
+3 History
+4 Paleoecology
+5 Paleobiology
+
+5.1 Social behavior
+
+
+6 References
+7 External links
+
+
+Description[edit]
+
+
+
+
+Three-dimensional reconstruction of a P. maximus head
+
+
+Prosaurolophus was a large-headed duckbill; the most complete described specimen has a skull around 0.9 meters long (2.9 ft) on a ~8.5 meter long skeleton (~28 ft).[2] It had a small, stout, triangular crest in front of the eyes; the sides of this crest were concave, forming depressions. The upper arm was relatively short.[3]
+Otherwise, its anatomy was unremarkable for a hadrosaurine hadrosaurid. Like nearly all hadrosaurids, the whole front of the skull was flat and broadened out to form a beak, ideal for clipping leaves and twigs from the forests of North America. The back of the mouth contained thousands of teeth suitable for grinding food before it was swallowed.
+The two species are differentiated by details of the crest, and in profile, P. blackfeetensis is restored with a steeper, taller face than P. maximus. In P. blackfeetensis, at least, the crest migrated backward toward the eyes during growth.[4]
+Classification[edit]
+
+
+
+
+
+ Hadrosaurinae 
+
+
+
+
+
+Lophorhothon
+
+
+
+
+
+
+unnamed
+
+
+
+unnamed
+
+
+
+
+
+Prosaurolophus
+
+
+
+
+
+
+unnamed
+
+
+
+
+
+Gryposaurus
+
+
+
+
+
+
+unnamed
+
+
+
+
+
+Edmontosaurus
+
+
+
+
+
+
+unnamed
+
+
+
+
+
+Brachylophosaurus
+
+
+
+
+
+
+
+
+Maiasaura
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+unnamed
+
+
+
+
+
+"Kritosaurus" australis
+
+
+
+
+
+
+
+
+Naashoibitosaurus
+
+
+
+
+
+
+
+
+Saurolophus
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Because of its name, Prosaurolophus is often associated with Saurolophus. However, this is contentious; some authors have found the animals to be closely related,[5][6] whereas others have not, instead finding it closer to Brachylophosaurus, Edmontosaurus, Gryposaurus, and Maiasaura.[7] It was a hadrosaurine hadrosaur, meaning it lacked a hollow crest.
+The cladogram to the right is based on the 2004 review by Jack Horner, David B. Weishampel, and Catherine Forster, in the second edition of The Dinosauria.[7] In this review, Prosaurolophus is closest to Gryposaurus. This is only one of many proposed cladograms for hadrosaurids.
+History[edit]
+
+
+
+
+Holotype skull of P. maximus
+
+
+Well-known paleontologist Barnum Brown recovered a duckbill skull in 1915 for the American Museum of Natural History (AMNH 5836) from the Red Deer River of Alberta, near Steveville. He described the specimen in 1916 as a new genus, Prosaurolophus. Brown's choice of name comes from a comparison to the genus Saurolophus, which he had described in 1912. Saurolophus had a similar but longer and more spike-like head crest.[8] The skull had a damaged muzzle and was inadvertently reconstructed too long,[9] but better remains were soon found that showed the true shape; one is a nearly complete skeleton and skull, described by William Parks in 1924.[10] Twenty to twenty-five individuals are known for this species, including seven skulls with at least some of the rest of the skeleton.[7]
+The second species, P. blackfeetensis, is based on a specimen in the Museum of the Rockies (MOR 454), which was described by another notable paleontologist, Jack Horner. This specimen, and the remains of three or four other individuals, were found in Glacier County, Montana.[4] In this case, the fossils were found in a bonebed of Prosaurolophus remains, which indicates that the animals lived together for at least some time. The bonebed is interpreted as reflecting a group of animals that congregated near a water source during a drought.[11] Although many species of hadrosaurs have been consolidated, this species was considered to be valid in the most recent review.[7]
+Paleoecology[edit]
+
+
+
+
+Skeleton, Royal Tyrrell Museum
+
+
+The Dinosaur Park Formation, home to Prosaurolophus maximus, is interpreted as a low-relief setting of rivers and floodplains that became more swampy and influenced by marine conditions over time as the Western Interior Seaway transgressed westward.[12] The climate was warmer than present-day Alberta, without frost, but with wetter and drier seasons. Conifers were apparently the dominant canopy plants, with an understory of ferns, tree ferns, and flowering plants.[13] In this well-studied formation, P. maximus is only known from the upper part, which had more of a marine influence than the lower section. It was the most common hadrosaurine of this section, which was deposited from about 76 to about 74 million years ago.[14] The Dinosaur Park Formation was also home to well-known dinosaurs like the horned Centrosaurus, Styracosaurus, and Chasmosaurus, fellow duckbills Gryposaurus, Corythosaurus, Lambeosaurus, and Parasaurolophus, tyrannosaurid Gorgosaurus, and armored Edmontonia and Euoplocephalus.[15]
+The roughly contemporaneous Two Medicine Formation, home to P. blackfeetensis, is well known for its fossils of dinosaur nests, eggs, and young, produced by the hadrosaurids Hypacrosaurus stebingeri and Maiasaura, and the troodontid Troodon. The tyrannosaurid Daspletosaurus, caenagnathid Chirostenotes, dromaeosaurids Bambiraptor and Saurornitholestes, armored dinosaurs Edmontonia and Euoplocephalus, hypsilophodont Orodromeus, and horned dinosaurs Achelousaurus, Brachyceratops, Einiosaurus, and Styracosaurus ovatus were also present.[15] This formation was more distant from the Western Interior Seaway, and higher and drier than the Dinosaur Park Formation.[11]
+Paleobiology[edit]
+
+
+
+
+P. maximus specimen exhibited in Paris
+
+
+As a hadrosaurid, Prosaurolophus would have been a large herbivore, eating plants with a sophisticated skull that permitted a grinding motion analogous to chewing. Its teeth were continually replaced and packed into dental batteries that contained hundreds of teeth, only a relative handful of which were in use at any time. Plant material would have been cropped by its broad beak, and held in the jaws by a cheek-like structure. Feeding would have been from the ground up to around 4 meters (13 ft) above. Like other hadrosaurs, it could have moved both bipedally and quadrupedally.[7] Comparisons between the scleral rings of Prosaurolophus and modern birds and reptiles suggest that it may have been cathemeral, active throughout the day at short intervals.[16]
+Social behavior[edit]
+As noted, there is bonebed evidence that this genus lived in groups during at least part of the year.[11] Additionally, it had several potential methods for display in a social setting. The bony facial crest is an obvious candidate, and nasal diverticula may also have been present. These postulated diverticula would have taken the form of inflatable soft-tissue sacs housed in the deep excavations flanking the crest and elongate holes for the nostrils. Such sacs could be used for both visual and auditory signals.[17]
+References[edit]
+
+
+^ Arbour, V. M.; Burns, M. E.; and Sissons, R. L. (2009). "A redescription of the ankylosaurid dinosaur Dyoplosaurus acutosquameus Parks, 1924 (Ornithischia: Ankylosauria) and a revision of the genus". Journal of Vertebrate Paleontology 29 (4): 1117–1135. doi:10.1671/039.029.0405. 
+^ Lull, Richard Swann; and Wright, Nelda E. (1942). Hadrosaurian Dinosaurs of North America. Geological Society of America Special Paper 40. Geological Society of America. p. 226. 
+^ Lull, Richard Swann; and Wright, Nelda E. (1942). Hadrosaurian Dinosaurs of North America. Geological Society of America Special Paper 40. Geological Society of America. pp. 172–175. 
+^ a b Horner, John R. (1992). "Cranial morphology of Prosaurolophus (Ornithischia: Hadrosauridae) with descriptions of two new hadrosaurid species and an evaluation of hadrosaurid phylogenetic relationships". Museum of the Rockies Occasional Paper 2: 1–119. 
+^ Weishampel, David B.; and Horner, Jack R. (1990). "Hadrosauridae". In Weishampel, David B.; Dodson, Peter; and Osmólska, Halszka (eds.). The Dinosauria (1st ed.). Berkeley: University of California Press. pp. 534–561. ISBN 0-520-06727-4. 
+^ Gates, Terry A.; Sampson, Scott D. (2007). "A new species of Gryposaurus (Dinosauria: Hadrosauridae) from the late Campanian Kaiparowits Formation, southern Utah, USA". Zoological Journal of the Linnean Society 151 (2): 351–376. doi:10.1111/j.1096-3642.2007.00349.x. 
+^ a b c d e Horner, John R.; Weishampel, David B.; and Forster, Catherine A (2004). "Hadrosauridae". In Weishampel, David B.; Dodson, Peter; and Osmólska, Halszka (eds.). The Dinosauria (2nd ed.). Berkeley: University of California Press. pp. 438–463. ISBN 0-520-24209-2. 
+^ Brown, Barnum (1916). "A new crested trachodont dinosaur, Prosaurolophus maximus". Bulletin of the American Museum of Natural History 35 (37): 701–708. Retrieved 2007-04-15. 
+^ Lull, Richard Swann; and Wright, Nelda E. (1942). Hadrosaurian Dinosaurs of North America. Geological Society of America Special Paper 40. Geological Society of America. p. late 22. 
+^ Parks, William A (1924). "Dyoplosaurus acutosquameus, a new genus and species of armoured dinosaur; and notes on a skeleton of Prosaurolophus maximus". University of Toronto Studies, Geological Series 18: 1–35. 
+^ a b c Rogers, Raymond R. (1990). "Taphonomy of three dinosaur bone beds in the Upper Cretaceous Two Medicine Formation of northwestern Montana: Evidence for drought-related mortality". PALAIOS 5 (5): 394–413. doi:10.2307/3514834. JSTOR 3514834. 
+^ Eberth, David A. 2005. "The geology", in Dinosaur Provincial Park, pp. 54–82.
+^ Braman, Dennis R., and Koppelhus, Eva B. 2005. "Campanian palynomorphs", in Dinosaur Provincial Park, pp. 101–130.
+^ Ryan, Michael J.; and Evans, David C. (2005). "Ornithischian Dinosaurs". In Currie, Phillip J., and Koppelhus, Eva. Dinosaur Provincial Park: A Spectacular Ancient Ecosystem Revealed. Bloomington: Indiana University Press. pp. 312–348. ISBN 0-253-34595-2. 
+^ a b Weishampel, David B.; Barrett, Paul M.; Coria, Rodolfo A.; Le Loeuff, Jean; Xu Xing; Zhao Xijin; Sahni, Ashok; Gomani, Elizabeth, M.P.; and Noto, Christopher R. (2004). "Dinosaur Distribution", in The Dinosauria (2nd), pp. 517–606.
+^ Schmitz, L.; Motani, R. (2011). "Nocturnality in Dinosaurs Inferred from Scleral Ring and Orbit Morphology". Science 332 (6030): 705–8. doi:10.1126/science.1200043. PMID 21493820. 
+^ Hopson, James A. (1975). "The evolution of cranial display structures in hadrosaurian dinosaurs". Paleobiology 1 (1): 21–43. 
+
+
+External links[edit]
+
+
+
+
+Dinosaurs portal
+
+
+
+
+Prosaurolophus at Thescelosaurus! (under Hadrosaurinae)
+Prosaurolophus, Natural History Museum
+Hadrosaurinae from Palaeos.com (technical)
+
+
+
+
+ 
+NewPP limit report
+CPU time usage: 3.536 seconds
+Real time usage: 4.057 seconds
+Preprocessor visited node count: 16151/1000000
+Preprocessor generated node count: 33628/1500000
+Post‐expand include size: 116613/2048000 bytes
+Template argument size: 54416/2048000 bytes
+Highest expansion depth: 20/40
+Expensive parser function count: 0/500
+Lua time usage: 0.068s
+Lua memory usage: 2.05 MB
+
+
+ Saved in parser cache with key enwiki:pcache:idhash:4961656-0!*!0!!en!4!* and timestamp 20130919153122 
+								
+				Retrieved from "http://en.wikipedia.org/w/index.php?title=Prosaurolophus&oldid=557859959"				
+												Categories: Cretaceous dinosaursDinosaurs of North AmericaHadrosaursFossil taxa described in 1916Hidden categories: Good articlesArticles with 'species' microformats												
+							
+		
+		
+			Navigation menu
+			
+				
+	Personal tools
+	
+Create accountLog in	
+
+				
+					
+	Namespaces
+	
+					Article
+					Talk
+			
+
+
+	
+		
+	Variants
+	
+		
+					
+	
+
+				
+				
+					
+	Views
+	
+					Read
+					Edit
+					View history
+			
+
+
+	Actions
+	
+		
+					
+	
+
+
+	Search
+	
+				
+																				
+		
+	
+
+				
+			
+			
+					
+				
+	Navigation
+	
+		
+			Main page
+			Contents
+			Featured content
+			Current events
+			Random article
+			Donate to Wikipedia
+		
+	
+
+
+	Interaction
+	
+		
+			Help
+			About Wikipedia
+			Community portal
+			Recent changes
+			Contact page
+		
+	
+
+
+	Toolbox
+	
+		
+			What links here
+			Related changes
+			Upload file
+			Special pages
+			Permanent link
+			Page information
+			Data item
+Cite this page		
+	
+
+
+	Print/export
+	
+		
+			Create a book
+			Download as PDF
+			Printable version
+		
+	
+
+
+	Languages
+	
+		
+			Català
+			Deutsch
+			Español
+			Esperanto
+			Français
+			한국어
+			Italiano
+			Lietuvių
+			Magyar
+			日本語
+			Polski
+			Português
+			Русский
+			Srpskohrvatski / српскохрватски
+			Svenska
+			中文
+			
+			Edit links
+		
+	
+
+			
+		
+		
+							
+											 This page was last modified on 1 June 2013 at 17:41.
+											Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. 
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+									
+							
+											Privacy policy
+											About Wikipedia
+											Disclaimers
+											Contact Wikipedia
+											Developers
+											Mobile view
+									
+										
+					
+						
+					
+					
+						
+					
+				
+						
+		
+		
+
+
+ Served by mw1184 in 0.158 secs. 
+	
+if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Prosaurolophus","wgTitle":"Prosaurolophus","wgCurRevisionId":557859959,"wgRevisionId":557859959,"wgArticleId":4961656,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Good articles","Articles with 'species' microformats","Cretaceous dinosaurs","Dinosaurs of North America","Hadrosaurs","Fossil taxa described in 1916"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Prosaurolophus","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgVectorEnabledModules":{"collapsiblenav":true,"experiments":true},"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"templateEditor":false,"templates":false,"preview":false,"previewDialog":false,"publish":false,"toc":false},"wgArticleFeedbackv5Permissions":{"aft-reader":true,"aft-member":false,"aft-editor":false,"aft-monitor":false,"aft-administrator":false,"aft-oversighter":false,"aft-noone":false},"wgVisualEditor":{"isPageWatched":false,"magnifyClipIconURL":"//bits.wikimedia.org/static-1.22wmf19/skins/common/images/magnify-clip.png","pageLanguageCode":"en","pageLanguageDir":"ltr"},"wikilove-recipient":"","wikilove-anon":0,"wgGuidedTourHelpGuiderUrl":"Help:Guided tours/guider","wgULSAcceptLanguageList":[],"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia","aftv5Article":{"id":4961656,"title":"Prosaurolophus","namespace":0,"categories":["Articles with 'species' microformats","Cretaceous dinosaurs","Dinosaurs of North America","Fossil taxa described in 1916","Good articles","Hadrosaurs"],"permissionLevel":false},"wgWikibaseItemId":"Q132191"});
+}if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":false,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,
+"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"useeditwarning":1,"prefershttps":1,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"vector-simplesearch":1,"vector-collapsiblenav":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"aftv5-last-filter":null,"visualeditor-enable":0,"visualeditor-enable-experimental":0,"visualeditor-betatempdisable":0,"wikilove-enabled":1,"echo-subscriptions-web-page-review":true,"echo-subscriptions-email-page-review":false,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"echo-notify-show-link":true,"echo-show-alert":true,"echo-email-frequency":0,"echo-email-format":"html","echo-subscriptions-email-system":true,"echo-subscriptions-web-system":true,"echo-subscriptions-email-other":false,"echo-subscriptions-web-other":true,"echo-subscriptions-email-edit-user-talk":false,"echo-subscriptions-web-edit-user-talk":true,
+"echo-subscriptions-email-reverted":false,"echo-subscriptions-web-reverted":true,"echo-subscriptions-email-article-linked":false,"echo-subscriptions-web-article-linked":false,"echo-subscriptions-email-mention":false,"echo-subscriptions-web-mention":true,"echo-subscriptions-web-edit-thank":true,"echo-subscriptions-email-edit-thank":false,"gettingstarted-task-toolbar-show-intro":true,"uls-preferences":"","language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs446":false,"searchNs447":false
+,"searchNs710":false,"searchNs711":false,"searchNs828":false,"searchNs829":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-mySandbox":1,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:156d8fe0ae17f8afd74198057563e45d */
+}if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","ext.visualEditor.viewPageTarget.init","ext.wikimediaShopLink.core","ext.uls.init","ext.uls.interface","wikibase.client.init","ext.centralNotice.bannerController","skins.vector.js"]);
+}/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}if(window.mw){
+mw.loader.load(["mobile.desktop","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.cite","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","mw.MwEmbedSupport.style","ext.vector.collapsibleNav","ext.articleFeedbackv5.startup","schema.HttpsSupport","ext.coreEvents.httpsSupport","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","mw.PopUpMediaTransform"],null,true);
+}

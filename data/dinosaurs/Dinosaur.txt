@@ -1,0 +1,2111 @@
+
+
+
+Dinosaur - Wikipedia, the free encyclopedia
+
+
+
+
+
+
+
+
+
+
+a:lang(ar),a:lang(ckb),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:0de201fdea5d684523607ed88007b127 */
+
+
+
+
+[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.22wmf18/skins/vector/csshover.min.htc")}</style><![endif]
+
+		
+		
+		
+			
+			
+						 CentralNotice 
+						Dinosaur
+			
+								From Wikipedia, the free encyclopedia
+								
+												
+					Jump to:					navigation, 					search
+				
+				For other uses, see Dinosaur (disambiguation).
+
+
+
+
+Dinosaurs
+Temporal range: Late Triassic–Holocene, 231.4–0 Ma (range includes birds)
+
+PreЄ
+Є
+O
+S
+D
+C
+P
+T
+J
+K
+Pg
+N
+
+
+
+
+
+
+
+
+
+
+
+
+
+A collection of fossil dinosaur skeletons. Clockwise from top left: Microraptor gui (a winged theropod), Apatosaurus louisae (a giant sauropod), Stegosaurus stenops (a plated stegosaur), Triceratops horridus (a horned ceratopsian), Edmontosaurus regalis (a duck-billed ornithopod), Gastonia burgei (an armored ankylosaur).
+
+
+Scientific classification 
+
+
+Kingdom:
+Animalia
+
+
+Phylum:
+Chordata
+
+
+Clade:
+Sauropsida
+
+
+Clade:
+Dinosauriformes
+
+
+Clade:
+Dinosauria
+Owen, 1842
+
+
+Major groups
+
+
+
+
+†Ornithischia
+
+†Stegosauria
+†Ankylosauria
+†Ornithopoda
+†Ceratopsia
+
+
+Saurischia
+
+†Sauropodomorpha
+Theropoda
+
+
+
+
+
+
+
+Dinosaurs are a diverse group of animals of the clade Dinosauria. They first appeared during the Triassic period, 231.4 million years ago, and were the dominant terrestrial vertebrates for 135 million years, from the beginning of the Jurassic (about 201 million years ago) until the end of the Cretaceous (66 million years ago), when the Cretaceous–Paleogene extinction event led to the extinction of most dinosaur groups at the close of the Mesozoic Era. The fossil record indicates that birds evolved from theropod dinosaurs during the Jurassic Period and, consequently, they are considered a subgroup of dinosaurs by many paleontologists.[1] Some birds survived the extinction event that occurred 66 million years ago, and their descendants continue the dinosaur lineage to the present day.[2]
+Dinosaurs are a varied group of animals from taxonomic, morphological and ecological standpoints. Birds, at over 10,000 living species,[3] are the most diverse group of vertebrates besides perciform fish.[4] Using fossil evidence, paleontologists have identified over 500 distinct genera[5] and more than 1,000 different species of non-avian dinosaurs.[6] Dinosaurs are represented on every continent by both extant species and fossil remains.[7] Some are herbivorous, others carnivorous. While dinosaurs were ancestrally bipedal, many extinct groups included quadrupedal species, and some were able to shift between these stances. Elaborate display structures such as horns or crests are common to all dinosaur groups, and some extinct groups developed skeletal modifications such as bony armor and spines. Evidence suggests that egg laying and nest building are additional traits shared by all dinosaurs. While modern birds are generally small due to the constraints of flight, many prehistoric dinosaurs were large-bodied—the largest sauropod dinosaurs may have achieved lengths of 58 meters (190 feet) and heights of 9.25 meters (30 feet 4 inches).[8] Still, the idea that non-avian dinosaurs were uniformly gigantic is a misconception based on preservation bias, as large, sturdy bones are more likely to last until they are fossilized. Many dinosaurs were quite small: Xixianykus, for example, was only about 50 cm (20 in) long.
+Although the word dinosaur means "terrible lizard", the name is somewhat misleading, as dinosaurs are not lizards. Instead, they represent a separate group of reptiles which, like many extinct forms, did not exhibit characteristics traditionally seen as reptilian, such as a sprawling limb posture or ectothermy. Additionally, many prehistoric animals, including mosasaurs, ichthyosaurs, pterosaurs, plesiosaurs, and Dimetrodon, are popularly conceived of as dinosaurs, but are not classified as dinosaurs. Through the first half of the 20th century, before birds were recognized to be dinosaurs, most of the scientific community believed dinosaurs to have been sluggish and cold-blooded. Most research conducted since the 1970s, however, has indicated that all dinosaurs were active animals with elevated metabolisms and numerous adaptations for social interaction.
+Since the first dinosaur fossils were recognized in the early 19th century, mounted fossil dinosaur skeletons have been major attractions at museums around the world, and dinosaurs have become an enduring part of world culture. The large sizes of some groups, as well as their seemingly monstrous and fantastic nature, have ensured dinosaurs' regular appearance in best-selling books and films, such as Jurassic Park. Persistent public enthusiasm for the animals has resulted in significant funding for dinosaur science, and new discoveries are regularly covered by the media.
+
+
+Contents
+
+
+1 Etymology
+2 Definition
+
+2.1 General description
+2.2 Distinguishing anatomical features
+
+
+3 Evolutionary history
+
+3.1 Origins and early evolution
+3.2 Evolution and paleobiogeography
+
+
+4 Classification
+
+4.1 Taxonomy
+
+
+5 Biology
+
+5.1 Size
+
+5.1.1 Largest and smallest
+
+
+5.2 Behavior
+5.3 Communication
+5.4 Reproductive biology
+5.5 Physiology
+
+
+6 Origin of birds
+
+6.1 Feathers
+6.2 Skeleton
+6.3 Soft anatomy
+6.4 Behavioral evidence
+
+
+7 Extinction of major groups
+
+7.1 Impact event
+7.2 Deccan Traps
+7.3 Possible Paleocene survivors
+
+
+8 History of study
+
+8.1 The "dinosaur renaissance"
+8.2 Soft tissue and DNA
+
+
+9 Cultural depictions
+10 See also
+11 Notes and references
+12 Further reading
+13 External links
+
+
+Etymology
+The taxon Dinosauria was formally named in 1842 by paleontologist Sir Richard Owen, who used it to refer to the "distinct tribe or sub-order of Saurian Reptiles" that were then being recognized in England and around the world.[9]:103 The term is derived from the Greek words δεινός (deinos, meaning "terrible," "potent," or "fearfully great") and σαῦρος (sauros, meaning "lizard" or "reptile").[9]:103[10] Though the taxonomic name has often been interpreted as a reference to dinosaurs' teeth, claws, and other fearsome characteristics, Owen intended it merely to evoke their size and majesty.[11]
+Definition
+
+
+
+
+Triceratops horridus skeleton, American Museum of Natural History
+
+
+Under phylogenetic taxonomy, dinosaurs are usually defined as the group consisting of Triceratops, Neornithes [modern birds], their most recent common ancestor (MRCA), and all descendants".[12] It has also been suggested that Dinosauria be defined with respect to the MRCA of Megalosaurus and Iguanodon, because these were two of the three genera cited by Richard Owen when he recognized the Dinosauria.[13] Both definitions result in the same set of animals being defined as dinosaurs: "Dinosauria = Ornithischia + Saurischia", encompassing theropods (mostly bipedal carnivores and birds), ankylosaurians (armored herbivorous quadrupeds), stegosaurians (plated herbivorous quadrupeds), ceratopsians (herbivorous quadrupeds with horns and frills), ornithopods (bipedal or quadrupedal herbivores including "duck-bills"), and, perhaps, sauropodomorphs (mostly large herbivorous quadrupeds with long necks and tails).
+
+
+
+
+The common House Sparrow (Passer domesticus) is often used to represent modern birds in definitions of the group Dinosauria
+
+
+Many paleontologists note that the point at which sauropodomorphs and theropods diverged may omit sauropodomorphs from the definition for both saurischians and dinosaurs. To avoid instability, Dinosauria can be more conservatively defined with respect to four anchoring nodes: Triceratops horridus, Saltasaurus loricatus, and Passer domesticus, their MRCA, and all descendants. This "safer" definition can be expressed as "Dinosauria = Ornithischia + Sauropodomorpha + Theropoda".[14]
+There is nearly universal consensus among paleontologists that birds are the descendants of theropod dinosaurs. In traditional taxonomy, birds were considered a separate class that had evolved from dinosaurs, a distinct superorder. However, a majority of contemporary paleontologists concerned with dinosaurs reject the traditional style of classification in favor of phylogenetic nomenclature; this approach requires that, for a group to be natural, all descendants of members of the group must be included in the group as well. Birds are thus considered to be dinosaurs and dinosaurs are, therefore, not extinct. Birds are classified as belonging to the subgroup Maniraptora, which are coelurosaurs, which are theropods, which are saurischians, which are dinosaurs.
+
+General description
+Using one of the above definitions, dinosaurs can be generally described as archosaurs with limbs held erect beneath the body.[15] Many prehistoric animal groups are popularly conceived of as dinosaurs, such as ichthyosaurs, mosasaurs, plesiosaurs, pterosaurs, and Dimetrodon, but are not classified scientifically as dinosaurs, and none had the erect limb posture characteristic of true dinosaurs.[16] Dinosaurs were the dominant terrestrial vertebrates of the Mesozoic, especially the Jurassic and Cretaceous periods. Other groups of animals were restricted in size and niches; mammals, for example, rarely exceeded the size of a cat, and were generally rodent-sized carnivores of small prey.[17]
+
+
+
+
+Stegosaurus stenops skeleton, Field Museum
+
+
+Dinosaurs have always been an extremely varied group of animals; according to a 2006 study, over 500 non-avialan dinosaur genera have been identified with certainty so far, and the total number of genera preserved in the fossil record has been estimated at around 1850, nearly 75% of which remain to be discovered.[5] An earlier study predicted that about 3400 dinosaur genera existed, including many which would not have been preserved in the fossil record.[18] By September 17, 2008, 1047 different species of dinosaurs had been named.[6] Some are herbivorous, others carnivorous, including seed-eaters, fish-eaters, insectivores, and omnivores. While dinosaurs were ancestrally bipedal (as are all modern birds), some prehistoric species were quadrupeds, and others, such as Ammosaurus and Iguanodon, could walk just as easily on two or four legs. Cranial modifications like horns and crests are common dinosaurian traits, and some extinct species had bony armor. Although known for large size, many Mesozoic dinosaurs were human-sized or smaller, and modern birds are generally small in size. Dinosaurs today inhabit every continent, and fossils show that they had achieved global distribution by at least the early Jurassic period.[7] Modern birds inhabit most available habitats, from terrestrial to marine, and there is evidence that some non-avialan dinosaurs (such as Microraptor) could fly or at least glide, and others, such as spinosaurids, had semi-aquatic habits.[19]
+Distinguishing anatomical features
+While recent discoveries have made it more difficult to present a universally agreed-upon list of dinosaurs' distinguishing features, nearly all dinosaurs discovered so far share certain modifications to the ancestral archosaurian skeleton, or are clear descendants of older dinosaurs showing these modifications. Although some later groups of dinosaurs featured further modified versions of these traits, they are considered typical for Dinosauria; the earliest dinosaurs had them and passed them on to their descendants. Such modifications, originating in the last common ancestor of a certain taxonomic group, are called the synapomorphies of such a group.
+A detailed assessment of archosaur interrelations by S. Nesbitt[20] confirmed or found the following twelve unambiguous synapomorphies, some previously known:
+
+in the skull, a supratemporal fossa (excavation) is present in front of the supratemporal fenestra, the main opening in the rear skull roof
+epipophyses, obliquely backward pointing processes on the rear top corners, present in the anterior (front) neck vertebrae behind the atlas and axis, the first two neck vertebrae
+apex of deltopectoral crest (a projection on which the deltopectoral muscles attach) located at or more than 30% down the length of the humerus (upper arm bone)
+radius, a lower arm bone, shorter than 80% of humerus length
+fourth trochanter (projection where the caudofemoralis muscle attaches on the inner rear shaft) on the femur (thighbone) is a sharp flange
+fourth trochanter asymmetrical, with distal, lower, margin forming a steeper angle to the shaft
+on the astragalus and calcaneum, upper ankle bones, the proximal articular facet, the top connecting surface, for the fibula occupies less than 30% of the transverse width of the element
+exocciptials (bones at the back of the skull) do not meet along the midline on the floor of the endocranial cavity, the inner space of the braincase
+in the pelvis, the proximal articular surfaces of the ischium with the ilium and the pubis are separated by a large concave surface (on the upper side of the ischium a part of the open hip joint is located between the contacts with the pubic bone and the ilium)
+cnemial crest on the tibia (protruding part of the top surface of the shinbone) arcs anterolaterally (curves to the front and the outer side)
+distinct proximodistally oriented (vertical) ridge present on the posterior face of the distal end of the tibia (the rear surface of the lower end of the shinbone)
+Concave articular surface for the fibula of the calcaneum (the top surface of the calcaneum, where it touches the fibula, has a hollow profile)
+
+Nesbitt found a number of further potential synapomorphies, and discounted a number of synapomorphies previously suggested. Some of these are also present in silesaurids, which Nesbitt recovered as a sister group to Dinosauria, including a large anterior trochanter, metatarsals II and IV of subequal length, reduced contact between ischium and pubis, the presence of a cnemial crest on the tibia and of an ascending process on the astragalus,[12] and many others.
+
+
+
+
+Diagram of a typical diapsid skull
+
+
+
+
+
+
+Hip joints and hindlimb postures of typical reptiles (left), dinosaurs and mammals (middle), and rauisuchians (right)
+
+
+A variety of other skeletal features are shared by dinosaurs. However, because they are either common to other groups of archosaurs or were not present in all early dinosaurs, these features are not considered to be synapomorphies. For example, as diapsids, dinosaurs ancestrally had two pairs of temporal fenestrae (openings in the skull behind the eyes), and as members of the diapsid group Archosauria, had additional openings in the snout and lower jaw.[21] Additionally, several characteristics once thought to be synapomorphies are now known to have appeared before dinosaurs, or were absent in the earliest dinosaurs and independently evolved by different dinosaur groups. These include an elongated scapula, or shoulder blade; a sacrum composed of three or more fused vertebrae (three are found in some other archosaurs, but only two are found in Herrerasaurus);[12] and a perforate acetabulum, or hip socket, with a hole at the center of its inside surface (closed in Saturnalia, for example).[22][23] Another difficulty of determining distinctly dinosaurian features is that early dinosaurs and other archosaurs from the Late Triassic are often poorly known and were similar in many ways; these animals have sometimes been misidentified in the literature.[24]
+Dinosaurs stand erect in a manner similar to most modern mammals, but distinct from most other reptiles, whose limbs sprawl out to either side.[25] This posture is due to the development of a laterally facing recess in the pelvis (usually an open socket) and a corresponding inwardly facing distinct head on the femur.[26] Their erect posture enabled early dinosaurs to breathe easily while moving, which likely permitted stamina and activity levels that surpassed those of "sprawling" reptiles.[27] Erect limbs probably also helped support the evolution of large size by reducing bending stresses on limbs.[28] Some non-dinosaurian archosaurs, including rauisuchians, also had erect limbs but achieved this by a "pillar erect" configuration of the hip joint, where instead of having a projection from the femur insert on a socket on the hip, the upper pelvic bone was rotated to form an overhanging shelf.[28]
+Evolutionary history
+Main article: Evolution of dinosaurs
+Origins and early evolution
+
+
+
+
+Skeleton of Marasuchus lilloensis, a dinosaur-like ornithodiran
+
+
+
+
+
+
+The early forms Herrerasaurus (large), Eoraptor (small) and a Plateosaurus skull
+
+
+Dinosaurs diverged from their archosaur ancestors during the Middle to Late Triassic period, roughly 20 million years after the Permian–Triassic extinction event wiped out an estimated 95% of all life on Earth.[29][30] Radiometric dating of the rock formation that contained fossils from the early dinosaur genus Eoraptor at 231.4 million years old establishes its presence in the fossil record at this time.[31] Paleontologists think that Eoraptor resembles the common ancestor of all dinosaurs;[32] if this is true, its traits suggest that the first dinosaurs were small, bipedal predators.[33] The discovery of primitive, dinosaur-like ornithodirans such as Marasuchus and Lagerpeton in Argentinian Middle Triassic strata supports this view; analysis of recovered fossils suggests that these animals were indeed small, bipedal predators. Dinosaurs may have appeared as early as 243 million years ago, as evidenced by remains of the genus Nyasasaurus from that period, though known fossils of these animals are too fragmentary to tell if they are dinosaurs or very close dinosaurian relatives.[34]
+When dinosaurs appeared, terrestrial habitats were occupied by various types of archosaurs and therapsids, such as aetosaurs, cynodonts, dicynodonts, ornithosuchids, rauisuchians, and rhynchosaurs. Most of these other animals became extinct in the Triassic, in one of two events. First, at about the boundary between the Carnian and Norian faunal stages (about 215 million years ago), dicynodonts and a variety of basal archosauromorphs, including the prolacertiforms and rhynchosaurs, became extinct. This was followed by the Triassic–Jurassic extinction event (about 200 million years ago), that saw the end of most of the other groups of early archosaurs, like aetosaurs, ornithosuchids, phytosaurs, and rauisuchians. These losses left behind a land fauna of crocodylomorphs, dinosaurs, mammals, pterosaurians, and turtles.[12] The first few lines of early dinosaurs diversified through the Carnian and Norian stages of the Triassic, most likely by occupying the niches of the groups that became extinct.
+Evolution and paleobiogeography
+Dinosaur evolution after the Triassic follows changes in vegetation and the location of continents. In the Late Triassic and Early Jurassic, the continents were connected as the single landmass Pangaea, and there was a worldwide dinosaur fauna mostly composed of coelophysoid carnivores and early sauropodomorph herbivores.[35] Gymnosperm plants (particularly conifers), a potential food source, radiated in the Late Triassic. Early sauropodomorphs did not have sophisticated mechanisms for processing food in the mouth, and so must have employed other means of breaking down food farther along the digestive tract.[36] The general homogeneity of dinosaurian faunas continued into the Middle and Late Jurassic, where most localities had predators consisting of ceratosaurians, spinosauroids, and carnosaurians, and herbivores consisting of stegosaurian ornithischians and large sauropods. Examples of this include the Morrison Formation of North America and Tendaguru Beds of Tanzania. Dinosaurs in China show some differences, with specialized sinraptorid theropods and unusual, long-necked sauropods like Mamenchisaurus.[35] Ankylosaurians and ornithopods were also becoming more common, but prosauropods had become extinct. Conifers and pteridophytes were the most common plants. Sauropods, like the earlier prosauropods, were not oral processors, but ornithischians were evolving various means of dealing with food in the mouth, including potential cheek-like organs to keep food in the mouth, and jaw motions to grind food.[36] Another notable evolutionary event of the Jurassic was the appearance of true birds, descended from maniraptoran coelurosaurians.[37]
+By the Early Cretaceous and the ongoing breakup of Pangaea, dinosaurs were becoming strongly differentiated by landmass. The earliest part of this time saw the spread of ankylosaurians, iguanodontians, and brachiosaurids through Europe, North America, and northern Africa. These were later supplemented or replaced in Africa by large spinosaurid and carcharodontosaurid theropods, and rebbachisaurid and titanosaurian sauropods, also found in South America. In Asia, maniraptoran coelurosaurians like dromaeosaurids, troodontids, and oviraptorosaurians became the common theropods, and ankylosaurids and early ceratopsians like Psittacosaurus became important herbivores. Meanwhile, Australia was home to a fauna of basal ankylosaurians, hypsilophodonts, and iguanodontians.[35] The stegosaurians appear to have gone extinct at some point in the late Early Cretaceous or early Late Cretaceous. A major change in the Early Cretaceous, which would be amplified in the Late Cretaceous, was the evolution of flowering plants. At the same time, several groups of dinosaurian herbivores evolved more sophisticated ways to orally process food. Ceratopsians developed a method of slicing with teeth stacked on each other in batteries, and iguanodontians refined a method of grinding with tooth batteries, taken to its extreme in hadrosaurids.[36] Some sauropods also evolved tooth batteries, best exemplified by the rebbachisaurid Nigersaurus.[38]
+There were three general dinosaur faunas in the Late Cretaceous. In the northern continents of North America and Asia, the major theropods were tyrannosaurids and various types of smaller maniraptoran theropods, with a predominantly ornithischian herbivore assemblage of hadrosaurids, ceratopsians, ankylosaurids, and pachycephalosaurians. In the southern continents that had made up the now-splitting Gondwana, abelisaurids were the common theropods, and titanosaurian sauropods the common herbivores. Finally, in Europe, dromaeosaurids, rhabdodontid iguanodontians, nodosaurid ankylosaurians, and titanosaurian sauropods were prevalent.[35] Flowering plants were greatly radiating,[36] with the first grasses appearing by the end of the Cretaceous.[39] Grinding hadrosaurids and shearing ceratopsians became extremely diverse across North America and Asia. Theropods were also radiating as herbivores or omnivores, with therizinosaurians and ornithomimosaurians becoming common.[36]
+The Cretaceous–Paleogene extinction event, which occurred approximately 66 million years ago at the end of the Cretaceous period, caused the extinction of all dinosaur groups except for the neornithine birds. Some other diapsid groups, such as crocodilians, sebecosuchians, turtles, lizards, snakes, sphenodontians, and choristoderans, also survived the event.[40]
+The surviving lineages of neornithine birds, including the ancestors of modern ratites, ducks and chickens, and a variety of waterbirds, diversified rapidly at the beginning of the Paleogene period, entering ecological niches left vacant by the extinction of Mesozoic dinosaur groups such as the arboreal enantiornithines, aquatic hesperornithines, and even the larger terrestrial theropods (in the form of Gastornis, mihirungs, and "terror birds"). However, mammals were also rapidly diversifying during this time, and out-competed the neornithines for dominance of most terrestrial niches.[41]
+Classification
+Main article: Dinosaur classification
+Dinosaurs are archosaurs, like modern crocodilians. Within the archosaur group, dinosaurs are differentiated most noticeably by their gait. Dinosaur legs extend directly beneath the body, whereas the legs of lizards and crocodilians sprawl out to either side.
+Collectively, dinosaurs as a clade are divided into two primary branches, Saurischia and Ornithischia. Saurischia includes those taxa sharing a more recent common ancestor with birds than with Ornithischia, while Ornithischia includes all taxa sharing a more recent common ancestor with Triceratops than with Saurischia. Anatomically, these two groups can be distinguished most noticeably by their pelvic structure. Early saurischians—"lizard-hipped", from the Greek sauros (σαῦρος) meaning "lizard" and ischion (ἰσχίον) meaning "hip joint—retained the hip structure of their ancestors, with a pubis bone directed cranially, or forward.[26] This basic form was modified by rotating the pubis backward to varying degrees in several groups (Herrerasaurus,[42] therizinosauroids,[43] dromaeosaurids,[44] and birds[37]). Saurischia includes the theropods (exclusively bipedal and with a wide variety of diets) and sauropodomorphs (long-necked herbivores which include advanced, quadrupedal groups).
+By contrast, ornithischians—"bird-hipped", from the Greek ornitheios (ὀρνίθειος) meaning "of a bird" and ischion (ἰσχίον) meaning "hip joint"—had a pelvis that superficially resembled a bird's pelvis: the pubis bone was oriented caudally (rear-pointing). Unlike birds, the ornithischian pubis also usually had an additional forward-pointing process. Ornithischia includes a variety of species which were primarily herbivores. (NB: the terms "lizard hip" and "bird hip" are misnomers – birds evolved from dinosaurs with "lizard hips".)
+
+
+
+
+
+
+
+
+Saurischian pelvis structure (left side)
+
+
+
+
+
+
+
+
+
+Tyrannosaurus pelvis (showing saurischian structure – left side)
+
+
+
+
+
+
+
+
+
+Ornithischian pelvis structure (left side)
+
+
+
+
+
+
+
+
+
+Edmontosaurus pelvis (showing ornithischian structure – left side)
+
+
+
+
+
+Taxonomy
+The following is a simplified classification of dinosaur groups based on their evolutionary relationships, and organized based on the list of Mesozoic dinosaur species provided by Holtz (2008).[2] A more detailed version can be found at Dinosaur classification. The dagger (†) is used to signify groups with no living members.
+
+Dinosauria
+
+
+
+
+Saurischia ("lizard-hipped"; includes Theropoda and Sauropodomorpha)
+
+
+
+
+Theropoda (all bipedal; most were carnivorous)
+
+
+
+
+†Herrerasauria (early bipedal carnivores)
+†Coelophysoidea (small, early theropods; includes Coelophysis and close relatives)
+†Dilophosauridae (early crested and carnivorous theropods)
+†Ceratosauria (generally elaborately horned, the dominant southern carnivores of the Cretaceous)
+Tetanurae ("stiff tails"; includes most theropods)
+
+
+
+
+†Megalosauroidea (early group of large carnivores including the semi-aquatic spinosaurids)
+†Carnosauria (Allosaurus and close relatives, like Carcharodontosaurus)
+Coelurosauria (feathered theropods, with a range of body sizes and niches)
+
+
+
+
+†Compsognathidae (common early coelurosaurs with reduced forelimbs)
+†Tyrannosauridae (Tyrannosaurus and close relatives; had reduced forelimbs)
+†Ornithomimosauria ("ostrich-mimics"; mostly toothless; carnivores to possible herbivores)
+†Alvarezsauroidea (small insectivores with reduced forelimbs each bearing one enlarged claw)
+Maniraptora ("hand snatchers"; had long, slender arms and fingers)
+
+
+
+
+†Therizinosauria (bipedal herbivores with large hand claws and small heads)
+†Oviraptorosauria (mostly toothless; their diet and lifestyle are uncertain)
+†Archaeopterygidae (small, winged theropods or primitive birds)
+†Deinonychosauria (small- to medium-sized; bird-like, with a distinctive toe claw)
+Avialae (modern birds and extinct relatives)
+
+
+
+
+†Scansoriopterygidae (small primitive avialans with long third fingers)
+†Omnivoropterygidae (large, early short-tailed avialans)
+†Confuciusornithidae (small toothless avialans)
+†Enantiornithes (primitive tree-dwelling, flying avialans)
+Euornithes (advanced flying birds)
+
+
+
+
+†Yanornithiformes (toothed Cretaceous Chinese birds)
+†Hesperornithes (specialized aquatic diving birds)
+Aves (modern, beaked birds and their extinct relatives)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Several macronarian Sauropods: from left to right Camarasaurus, Brachiosaurus, Giraffatitan, and Euhelopus
+
+
+
+
+
+
+
+†Sauropodomorpha (herbivores with small heads, long necks, long tails)
+
+
+
+
+†Guaibasauridae (small, primitive, omnivorous sauropodomorphs)
+†Plateosauridae (primitive, strictly bipedal "prosauropods")
+†Riojasauridae (small, primitive sauropodomorphs)
+†Massospondylidae (small, primitive sauropodomorphs)
+†Sauropoda (very large and heavy, usually over 15 meters (49 feet) long; quadrupedal)
+
+
+
+
+†Vulcanodontidae (primitive sauropods with pillar-like limbs)
+†Eusauropoda ("true sauropods")
+
+
+
+
+†Cetiosauridae ("whale reptiles")
+†Turiasauria (European group of Jurassic and Cretaceous sauropods)
+†Neosauropoda ("new sauropods")
+
+
+
+
+†Diplodocoidea (skulls and tails elongated; teeth typically narrow and pencil-like)
+†Macronaria (boxy skulls; spoon- or pencil-shaped teeth)
+
+
+
+
+†Brachiosauridae (long-necked, long-armed macronarians)
+†Titanosauria (diverse; stocky, with wide hips; most common in the Late Cretaceous of southern continents)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Various ornithopod dinosaurs and one heterodontosaurid. Far left: Camptosaurus, left: Iguanodon, center background: Shantungosaurus, center foreground: Dryosaurus, right: Corythosaurus, far right (small): Heterodontosaurus, far right (large) Tenontosaurus.
+
+
+
+
+
+†Ornithischia ("bird-hipped"; diverse bipedal and quadrupedal herbivores)
+
+
+
+
+†Heterodontosauridae (small basal ornithopod herbivores/omnivores with prominent canine-like teeth)
+†Thyreophora (armored dinosaurs; mostly quadrupeds)
+
+
+
+
+†Ankylosauria (scutes as primary armor; some had club-like tails)
+†Stegosauria (spikes and plates as primary armor)
+
+
+
+
+†Neornithischia ("new ornithischians")
+
+
+
+
+†Ornithopoda (various sizes; bipeds and quadrupeds; evolved a method of chewing using skull flexibility and numerous teeth)
+†Marginocephalia (characterized by a cranial growth)
+
+
+
+
+†Pachycephalosauria (bipeds with domed or knobby growth on skulls)
+†Ceratopsia (quadrupeds with frills; many also had horns)
+
+
+
+
+
+
+
+
+
+Biology
+Knowledge about dinosaurs is derived from a variety of fossil and non-fossil records, including fossilized bones, feces, trackways, gastroliths, feathers, impressions of skin, internal organs and soft tissues.[45][46] Many fields of study contribute to our understanding of dinosaurs, including physics (especially biomechanics), chemistry, biology, and the earth sciences (of which paleontology is a sub-discipline). Two topics of particular interest and study have been dinosaur size and behavior.
+Size
+Main article: Dinosaur size
+
+
+
+
+Scale diagram comparing the largest known dinosaurs in five major clades and a human
+
+
+Current evidence suggests that dinosaur average size varied through the Triassic, early Jurassic, late Jurassic and Cretaceous periods.[32] Predatory theropod dinosaurs, which occupied most terrestrial carnivore niches during the Mesozoic, most often fall into the 100 to 1000 kilogram (220 to 2200 lb) category when sorted by estimated weight into categories based on order of magnitude, whereas recent predatory carnivoran mammals peak in the 10 to 100 kilogram (22 to 220 lb) category.[47] The mode of Mesozoic dinosaur body masses is between one and ten metric tonnes.[48] This contrasts sharply with the size of Cenozoic mammals, estimated by the National Museum of Natural History as about 2 to 5 kilograms (5 to 10 lb).[49]
+The sauropods were the largest and heaviest dinosaurs. For much of the dinosaur era, the smallest sauropods were larger than anything else in their habitat, and the largest were an order of magnitude more massive than anything else that has since walked the Earth. Giant prehistoric mammals such as the Paraceratherium (the largest land mammal ever) were dwarfed by the giant sauropods, and only modern whales approach or surpass them in size.[50] There are several proposed advantages for the large size of sauropods, including protection from predation, reduction of energy use, and longevity, but it may be that the most important advantage was dietary. Large animals are more efficient at digestion than small animals, because food spends more time in their digestive systems. This also permits them to subsist on food with lower nutritive value than smaller animals. Sauropod remains are mostly found in rock formations interpreted as dry or seasonally dry, and the ability to eat large quantities of low-nutrient browse would have been advantageous in such environments.[8]
+Largest and smallest
+Scientists will probably never be certain of the largest and smallest dinosaurs to have ever existed. This is because only a tiny percentage of animals ever fossilize, and most of these remain buried in the earth. Few of the specimens that are recovered are complete skeletons, and impressions of skin and other soft tissues are rare. Rebuilding a complete skeleton by comparing the size and morphology of bones to those of similar, better-known species is an inexact art, and reconstructing the muscles and other organs of the living animal is, at best, a process of educated guesswork.[citation needed]
+
+
+
+
+Comparative size of Giraffatitan
+
+
+The tallest and heaviest dinosaur known from good skeletons is Giraffatitan brancai (previously classified as a species of Brachiosaurus). Its remains were discovered in Tanzania between 1907 and 1912. Bones from several similar-sized individuals were incorporated into the skeleton now mounted and on display at the Museum für Naturkunde Berlin;[51] this mount is 12 meters (39 ft) tall and 22.5 meters (74 ft) long, and would have belonged to an animal that weighed between 30000 and 60000 kilograms (70000 and 130000 lb). The longest complete dinosaur is the 27-meter (89 ft) long Diplodocus, which was discovered in Wyoming in the United States and displayed in Pittsburgh's Carnegie Natural History Museum in 1907.
+
+
+
+
+Comparative size of Eoraptor
+
+
+There were larger dinosaurs, but knowledge of them is based entirely on a small number of fragmentary fossils. Most of the largest herbivorous specimens on record were all discovered in the 1970s or later, and include the massive Argentinosaurus, which may have weighed 80000 to 100000 kilograms (90 to 110 short tons); some of the longest were the 33.5 meters (110 ft) long Diplodocus hallorum[8] (formerly Seismosaurus) and the 33 meters (108 ft) long Supersaurus;[52] and the tallest, the 18 meters (59 ft) tall Sauroposeidon, which could have reached a sixth-floor window. The heaviest and longest of them all may have been Amphicoelias fragillimus, known only from a now lost partial vertebral neural arch described in 1878. Extrapolating from the illustration of this bone, the animal may have been 58 meters (190 ft) long and weighed over 120000 kg (260000 lb).[8] The largest known carnivorous dinosaur was Spinosaurus, reaching a length of 16 to 18 meters (52 to 60 ft), and weighing in at 8150 kg (18000 lb).[53] Other large meat-eaters included Giganotosaurus, Carcharodontosaurus and Tyrannosaurus.[54]
+Not including birds (Avialae), the smallest known dinosaurs were about the size of pigeons.[55] Not surprisingly, the smallest non-avialan dinosaurs were those theropods most closely related to birds. Anchiornis huxleyi, for example, had a total skeletal length of under 35 centimeters (1.1 ft).[55][56] A. huxleyi is currently the smallest non-avialan dinosaur described from an adult specimen, with an estimated weight of 110 grams.[56] The smallest herbivorous non-avialan dinosaurs included Microceratus and Wannanosaurus, at about 60 cm (2 ft) long each.[2][57]
+Behavior
+
+
+
+
+A nesting ground of hadrosaur Maiasaura peeblesorum was discovered in 1978.
+
+
+Many modern birds are highly social, often found living in flocks. There is general agreement that some behaviors which are common in birds, as well as in crocodiles (birds' closest living relatives), were also common among extinct dinosaur groups. Interpretations of behavior in fossil species are generally based on the pose of skeletons and their habitat, computer simulations of their biomechanics, and comparisons with modern animals in similar ecological niches.[citation needed]
+The first potential evidence for herding or flocking as a widespread behavior common to many dinosaur groups in addition to birds was the 1878 discovery of 31 Iguanodon bernissartensis, ornithischians which were then thought to have perished together in Bernissart, Belgium, after they fell into a deep, flooded sinkhole and drowned.[58] Other mass-death sites have been subsequently discovered. Those, along with multiple trackways, suggest that gregarious behavior was common in many early dinosaur species. Trackways of hundreds or even thousands of herbivores indicate that duck-bills (hadrosaurids) may have moved in great herds, like the American Bison or the African Springbok. Sauropod tracks document that these animals traveled in groups composed of several different species, at least in Oxfordshire, England,[59] although there is not evidence for specific herd structures.[60] Congregated into herds may have evolved for defense, for migratory purposes, or to provide protection for young. There is evidence that many types of slow-growing dinosaurs, including various theropods, sauropods, ankylosaurians, ornithopods, and ceratopsians, formed aggregations of immature individuals. One example is a site in Inner Mongolia that has yielded the remains of over 20 Sinornithomimus, from one to seven years old. This assemblage is interpreted as a social group that was trapped in mud.[61] The interpretation of dinosaurs as gregarious has also extended to depicting carnivorous theropods as pack hunters working together to bring down large prey.[62][63] However, this lifestyle is uncommon among modern birds, crocodiles, and other reptiles, and the taphonomic evidence suggesting mammal-like pack hunting in such theropods as Deinonychus and Allosaurus can also be interpreted as the results of fatal disputes between feeding animals, as is seen in many modern diapsid predators.[64]
+
+
+
+
+Artist's rendering of two Centrosaurus apertus engaged in intra-specific combat.
+
+
+The crests and frills of some dinosaurs, like the marginocephalians, theropods and lambeosaurines, may have been too fragile to be used for active defense, and so they were likely used for sexual or aggressive displays, though little is known about dinosaur mating and territorialism. Head wounds from bites suggest that theropods, at least, engaged in active aggressive confrontations.[65]
+From a behavioral standpoint, one of the most valuable dinosaur fossils was discovered in the Gobi Desert in 1971. It included a Velociraptor attacking a Protoceratops,[66] providing evidence that dinosaurs did indeed attack each other.[67] Additional evidence for attacking live prey is the partially healed tail of an Edmontosaurus, a hadrosaurid dinosaur; the tail is damaged in such a way that shows the animal was bitten by a tyrannosaur but survived.[67] Cannibalism amongst some species of dinosaurs was confirmed by tooth marks found in Madagascar in 2003, involving the theropod Majungasaurus.[68]
+Comparisons between the scleral rings of dinosaurs and modern birds and reptiles have been used to infer daily activity patterns of dinosaurs. Although it has been suggested that most dinosaurs were active during the day, these comparisons have shown that small predatory dinosaurs such as dromaeosaurids, Juravenator, and Megapnosaurus were likely nocturnal. Large and medium-sized herbivorous and omnivorous dinosaurs such as ceratopsians, sauropodomorphs, hadrosaurids, ornithomimosaurs may have been cathemeral, active during short intervals throughout the day, although the small ornithischian Agilisaurus was inferred to be diurnal.[69]
+Based on current fossil evidence from dinosaurs such as Oryctodromeus, some ornithischian species seem to have led a partially fossorial (burrowing) lifestyle.[70] Many modern birds are arboreal (tree climbing), and this was also true of many Mesozoic birds, especially the enantiornithines.[71] While some early bird-like species may have already been arboreal as well (including dromaeosaurids such as Microraptor[72]) most non-avialan dinosaurs seem to have relied on land-based locomotion. A good understanding of how dinosaurs moved on the ground is key to models of dinosaur behavior; the science of biomechanics, in particular, has provided significant insight in this area. For example, studies of the forces exerted by muscles and gravity on dinosaurs' skeletal structure have investigated how fast dinosaurs could run,[73] whether diplodocids could create sonic booms via whip-like tail snapping,[74] and whether sauropods could float.[75]
+Communication
+
+
+
+
+Artists impression of a striking and unusual visual display in a Lambeosaurus magnicristatus
+
+
+Modern birds are well known for communicating using primarily visual and auditory signals, and the wide diversity of visual display structures among fossil dinosaur groups suggests that visual communication has always been important to dinosaur biology. However, the evolution of dinosaur vocalization is less certain. In 2008, paleontologist Phil Senter examined the evidence for vocalization in Mesozoic animal life, including dinosaurs.[76] Senter found that, contrary to popular depictions of roaring dinosaurs in motion pictures, it is likely that most Mesozoic dinosaurs were not capable of creating any vocalizations (though the hollow crests of the lambeosaurines could have functioned as resonance chambers used for a wide range of vocalizations).[77][78] To draw this conclusion, Senter studied the distribution of vocal organs in modern reptiles and birds. He found that vocal cords in the larynx probably evolved multiple times among reptiles, including crocodilians, which are able to produce guttural roars. Birds, on the other hand, lack a larynx. Instead, bird calls are produced by the syrinx, a vocal organ found only in birds, and which is not related to the larynx, meaning it evolved independently from the vocal organs in reptiles. The syrinx depends on the air sac system in birds to function; specifically, it requires the presence of a clavicular air sac near the wishbone or collar bone. This air sac leaves distinctive marks or opening on the bones, including a distinct opening in the upper arm bone (humerus). While extensive air sac systems are a unique characteristic of saurischian dinosaurs, the clavicular air sac necessary to vocalize does not appear in the fossil record until the enantiornithines (one exception, Aerosteon, probably evolved its clavicular air sac independently of birds for reasons other than vocalization).[76]
+The most primitive dinosaurs with evidence of a vocalizing syrinx are the enantironithine birds. Any bird-line archosaurs more primitive than this probably did not make vocal calls. Rather, several lines of evidence suggest that early dinosaurs used primarily visual communication, in the form of distinctive-looking (and possibly brightly colored) horns, frills, crests, sails and feathers. This is similar to some modern reptile groups such as lizards, in which many forms are largely silent (though like dinosaurs they possess well-developed senses of hearing) but use complex coloration and display behaviors to communicate.[76]
+In addition, dinosaurs use other methods of producing sound for communication. Other animals, including other reptiles, use a wide variety of non-vocal sound communication, including hissing, jaw grinding or clapping, use of environment (such as splashing), and wing beating (possible in winged maniraptoran dinosaurs).[76]
+Reproductive biology
+
+
+
+
+Nest of a plover (Charadrius).
+
+
+All dinosaurs lay amniotic eggs with hard shells made mostly of calcium carbonate.[79] Eggs are usually laid in a nest. Most species create somewhat elaborate nests, which can be cups, domes, plates, beds scrapes, mounds, or burrows.[80] Some species of modern bird have no nests; the cliff-nesting Common Guillemot lays its eggs on bare rock, and male Emperor Penguins keep eggs between their body and feet. Primitive birds and many non-avialan dinosaurs often lay eggs in communal nests, with males primarily incubating the eggs. While modern birds have only one functional oviduct and lay one egg at a time, more primitive birds and dinosaurs had two oviducts, like crocodiles. Some non-avialan dinosaurs, such as Troodon, exhibited iterative laying, where the adult might lay a pair of eggs every one or two days, and then ensured simultaneous hatching by delaying brooding until all eggs were laid.[81]
+When laying eggs, females grow a special type of bone between the hard outer bone and the marrow of their limbs. This medullary bone, which is rich in calcium, is used to make eggshells. A discovery of features in a Tyrannosaurus rex skeleton provided evidence of medullary bone in extinct dinosaurs and, for the first time, allowed paleontologists to establish the sex of a fossil dinosaur specimen. Further research has found medullary bone in the carnosaur Allosaurus and the ornithopod Tenontosaurus. Because the line of dinosaurs that includes Allosaurus and Tyrannosaurus diverged from the line that led to Tenontosaurus very early in the evolution of dinosaurs, this suggests that the production of medullary tissue is a general characteristic of all dinosaurs.[82]
+
+
+
+
+Fossilized egg of the oviraptorid Citipati, American Museum of Natural History
+
+
+Another widespread trait among modern birds is parental care for young after hatching. Jack Horner's 1978 discovery of a Maiasaura ("good mother lizard") nesting ground in Montana demonstrated that parental care continued long after birth among ornithopods, suggesting this behavior might also have been common to all dinosaurs.[83] There is evidence that other non-theropod dinosaurs, like Patagonian titanosaurian sauropods (1997 discovery), also nested in large groups.[84] A specimen of the Mongolian oviraptorid Citipati osmolskae was discovered in a chicken-like brooding position in 1993, which indicates that they had begun using an insulating layer of feathers to keep the eggs warm.[85] Parental care being a trait common to all dinosaurs is supported by other finds. For example, the fossilized remains of a grouping of Psittacosaurus has been found, consisting of one adult and 34 juveniles; in this case, the large number of juveniles may be due to communal nesting.[86] Additionally, a dinosaur embryo (pertaining to the prosauropod Massospondylus) was found without teeth, indicating that some parental care was required to feed the young dinosaurs.[87] Trackways have also confirmed parental behavior among ornithopods from the Isle of Skye in northwestern Scotland.[88] Nests and eggs have been found for most major groups of dinosaurs, and it appears likely that all dinosaurs cared for their young to some extent either before or shortly after hatching.
+Physiology
+Main article: Physiology of dinosaurs
+
+
+
+
+Comparison between the air sacs of an abelisaur and a bird
+
+
+Because both modern crocodilians and birds have four-chambered hearts (albeit modified in crocodilians), it is likely that this is a trait shared by all archosaurs, including all dinosaurs.[89] While all modern birds have high metabolisms and are "warm blooded" (endothermic), a vigorous debate has been ongoing since the 1960s regarding how far back in the dinosaur lineage this trait extends. Scientists disagree as to whether non-avian dinosaurs were endothermic, ectothermic, or some combination of both.[90]
+After non-avian dinosaurs were discovered, paleontologists first posited that they were ectothermic. This supposed "cold-bloodedness" was used to imply that the ancient dinosaurs were relatively slow, sluggish organisms, even though many modern reptiles are fast and light-footed despite relying on external sources of heat to regulate their body temperature. The idea of dinosaurs as ectothermic and sluggish remained a prevalent view until Robert T. "Bob" Bakker, an early proponent of dinosaur endothermy, published an influential paper on the topic in 1968.[91]
+Modern evidence indicates that even non-avian dinosaurs and birds thrived in cooler temperate climates, and that at least some early species must have regulated their body temperature by internal biological means (aided by the animals' bulk in large species and feathers or other body coverings in smaller species). Evidence of endothermy in Mesozoic dinosaurs includes the discovery of polar dinosaurs in Australia and Antarctica (where they would have experienced a cold, dark six-month winter), and analysis of blood-vessel structures within fossil bones that are typical of endotherms. Scientific debate continues regarding the specific ways in which dinosaur temperature regulation evolved.[92]
+In the saurischian dinosaurs, higher metabolisms were supported by the evolution of the avian respiratory system, characterized by an extensive system of air sacs that extended the lungs and invaded many of the bones in the skeleton, making them hollow.[93]
+Early avian-style respiratory systems with air sacs may have been capable of sustaining higher activity levels than mammals of similar size and build could sustain. In addition to providing a very efficient supply of oxygen, the rapid airflow would have been an effective cooling mechanism, which is essential for animals that are active but too large to get rid of all the excess heat through their skin.[94]
+Like other reptiles, dinosaurs are primarily uricotelic, that is, their kidneys extract nitrogenous wastes from their bloodstream and excrete it as uric acid instead of urea or ammonia via the ureters into the intestine. In most living species, uric acid is excreted along with feces as a semisolid waste.[95][96][97] However, at least some modern birds (such as hummingbirds) can be facultatively ammonotelic, excreting most of the nitrogenous wastes as ammonia.[98] They also excrete creatine, rather than creatinine like mammals. This material, as well as the output of the intestines, emerges from the cloaca.[99][100] In addition, many species regurgitate pellets, and fossil pellets that may have come from dinosaurs are known from as long ago as the Cretaceous period.[101]
+Origin of birds
+Main article: Origin of birds
+The possibility that dinosaurs were the ancestors of birds was first suggested in 1868 by Thomas Henry Huxley.[102] After the work of Gerhard Heilmann in the early 20th century, the theory of birds as dinosaur descendants was abandoned in favor of the idea of their being descendants of generalized thecodonts, with the key piece of evidence being the supposed lack of clavicles in dinosaurs.[103] However, as later discoveries showed, clavicles (or a single fused wishbone, which derived from separate clavicles) were not actually absent;[37] they had been found as early as 1924 in Oviraptor, but misidentified as an interclavicle.[104] In the 1970s, John Ostrom revived the dinosaur–bird theory,[105] which gained momentum in the coming decades with the advent of cladistic analysis,[106] and a great increase in the discovery of small theropods and early birds.[21] Of particular note have been the fossils of the Yixian Formation, where a variety of theropods and early birds have been found, often with feathers of some type.[37] Birds share over a hundred distinct anatomical features with theropod dinosaurs, which are now generally accepted to have been their closest ancient relatives.[107] They are most closely allied with maniraptoran coelurosaurs.[37] A minority of scientists, most notably Alan Feduccia and Larry Martin, have proposed other evolutionary paths, including revised versions of Heilmann's basal archosaur proposal,[108] or that maniraptoran theropods are the ancestors of birds but themselves are not dinosaurs, only convergent with dinosaurs.[1]
+Feathers
+Main article: Feathered dinosaurs
+
+
+
+
+The famous Berlin specimen of Archaeopteryx lithographica
+
+
+Feathers are one of the most recognizable characteristics of modern birds, and a trait that was shared by all other dinosaur groups. Based on the current distribution of fossil evidence, it appears that feathers were an ancestral dinosaurian trait, though one that may have been selectively lost in some species.[109] Direct fossil evidence of feathers or feather-like structures has been discovered in a diverse array of species in many non-avian dinosaur groups, both among saurischians and ornithischians. Simple, branched, feather-like structures are known from heterodontosaurids, primitive neornithischians[110] and theropods,[111] and primitive ceratopsians. Evidence for true, vaned feathers similar to the flight feathers of of modern birds has been found only in the theropod subgroup Maniraptora, which includes oviraptorosaurs, troodontids, dromaeosaurids, and birds.[37][112] Feather-like structures known as pycnofibres have also been found in pterosaurs,[113] suggesting the possibility that feather-like filaments may have been common in the bird linage and evolved before the appearance of dinosaurs themselves.[109]
+Archaeopteryx was the first fossil found which revealed a potential connection between dinosaurs and birds. It is considered a transitional fossil, in that it displays features of both groups. Brought to light just two years after Darwin's seminal The Origin of Species, its discovery spurred the nascent debate between proponents of evolutionary biology and creationism. This early bird is so dinosaur-like that, without a clear impression of feathers in the surrounding rock, at least one specimen was mistaken for Compsognathus.[114] Since the 1990s, a number of additional feathered dinosaurs have been found, providing even stronger evidence of the close relationship between dinosaurs and modern birds. Most of these specimens were unearthed in the lagerstätte of the Yixian Formation, Liaoning, northeastern China, which was part of an island continent during the Cretaceous. Though feathers have been found in only a few locations, it is possible that non-avian dinosaurs elsewhere in the world were also feathered. The lack of widespread fossil evidence for feathered non-avian dinosaurs may be because delicate features like skin and feathers are not often preserved by fossilization and thus are absent from the fossil record.
+The description of feathered dinosaurs has not been without controversy; perhaps the most vocal critics have been Alan Feduccia and Theagarten Lingham-Soliar, who have proposed that some purported feather-like fossils are the result of the decomposition of collagenous fiber that underlaid the dinosaurs' skin,[115][116][117] and that maniraptoran dinosaurs with vaned feathers were not actually dinosaurs, but convergent with dinosaurs.[1][116] However, their views have for the most part not been accepted by other researchers, to the point that the question of the scientific nature of Feduccia's proposals has been raised.[118]
+Skeleton
+Because feathers are often associated with birds, feathered dinosaurs are often touted as the missing link between birds and dinosaurs. However, the multiple skeletal features also shared by the two groups represent another important line of evidence for paleontologists. Areas of the skeleton with important similarities include the neck, pubis, wrist (semi-lunate carpal), arm and pectoral girdle, furcula (wishbone), and breast bone. Comparison of bird and dinosaur skeletons through cladistic analysis strengthens the case for the link.
+Soft anatomy
+
+
+
+
+Pneumatopores on the left ilium of Aerosteon riocoloradensis
+
+
+Large meat-eating dinosaurs had a complex system of air sacs similar to those found in modern birds, according to an investigation which was led by Patrick O'Connor of Ohio University. The lungs of theropod dinosaurs (carnivores that walked on two legs and had bird-like feet) likely pumped air into hollow sacs in their skeletons, as is the case in birds. "What was once formally considered unique to birds was present in some form in the ancestors of birds", O'Connor said.[119] In a 2008 paper published in the online journal PLoS ONE, scientists described Aerosteon riocoloradensis, the skeleton of which supplies the strongest evidence to date of a dinosaur with a bird-like breathing system. CT-scanning of Aerosteon's fossil bones revealed evidence for the existence of air sacs within the animal's body cavity.[120][121]
+Behavioral evidence
+Fossils of the troodonts Mei and Sinornithoides demonstrate that some dinosaurs slept with their heads tucked under their arms.[122] This behavior, which may have helped to keep the head warm, is also characteristic of modern birds. Several deinonychosaur and oviraptorosaur specimens have also been found preserved on top of their nests, likely brooding in a bird-like manner.[123] The ratio between egg volume and body mass of adults among these dinosaurs suggest that the eggs were primarily brooded by the male, and that the young were highly precocial, similar to many modern ground-dwelling birds.[124]
+Some dinosaurs are known to have used gizzard stones like modern birds. These stones are swallowed by animals to aid digestion and break down food and hard fibers once they enter the stomach. When found in association with fossils, gizzard stones are called gastroliths.[125]
+Extinction of major groups
+Main article: Cretaceous–Paleogene extinction event
+The discovery that birds are a type of dinosaur showed that dinosaurs in general are not, in fact, extinct as is commonly stated.[126] However, all non-avian dinosaurs as well as many groups of birds did suddenly become extinct approximately 66 million years ago. Many other groups of animals also became extinct at this time, including ammonites (nautilus-like mollusks), mosasaurs, plesiosaurs, pterosaurs, and many groups of mammals.[7] Significantly, the insects suffered no discernible population loss, which left them available as food for other survivors. This mass extinction is known as the Cretaceous–Paleogene extinction event. The nature of the event that caused this mass extinction has been extensively studied since the 1970s; at present, several related theories are supported by paleontologists. Though the consensus is that an impact event was the primary cause of dinosaur extinction, some scientists cite other possible causes, or support the idea that a confluence of several factors was responsible for the sudden disappearance of dinosaurs from the fossil record.
+At the peak of the Mesozoic, there were no polar ice caps, and sea levels are estimated to have been from 100 to 250 meters (300 to 800 ft) higher than they are today. The planet's temperature was also much more uniform, with only 25 °C (45 °F) separating average polar temperatures from those at the equator. On average, atmospheric temperatures were also much higher; the poles, for example, were 50 °C (90 °F) warmer than today.[127][128]
+The atmosphere's composition during the Mesozoic is a matter for debate. While some academics argue that oxygen levels were much higher than today, others argue that biological adaptations seen in birds and dinosaurs indicate that respiratory systems evolved beyond what would be necessary if oxygen levels were high.[129] By the late Cretaceous, the environment was changing dramatically. Volcanic activity was decreasing, which led to a cooling trend as levels of atmospheric carbon dioxide dropped. Oxygen levels in the atmosphere also started to fluctuate and would ultimately fall considerably. Some scientists hypothesize that climate change, combined with lower oxygen levels, might have led directly to the demise of many species.
+Impact event
+Main article: Chicxulub crater
+
+
+
+
+The Chicxulub Crater at the tip of the Yucatán Peninsula; the impactor that formed this crater may have caused the dinosaur extinction.
+
+
+The asteroid collision theory, which was brought to wide attention in 1980 by Walter Alvarez and colleagues, links the extinction event at the end of the Cretaceous period to a bolide impact approximately 65 million years ago. Alvarez et al. proposed that a sudden increase in iridium levels, recorded around the world in the period's rock stratum, was direct evidence of the impact.[130] The bulk of the evidence now suggests that a bolide 5 to 15 kilometers (3 to 9 mi) wide hit in the vicinity of the Yucatán Peninsula (in southeastern Mexico), creating the approximately 180 km (110 mi) Chicxulub Crater and triggering the mass extinction.[131][132] Scientists are not certain whether dinosaurs were thriving or declining before the impact event. Some scientists propose that the meteorite caused a long and unnatural drop in Earth's atmospheric temperature, while others claim that it would have instead created an unusual heat wave. The consensus among scientists who support this theory is that the impact caused extinctions both directly (by heat from the meteorite impact) and also indirectly (via a worldwide cooling brought about when matter ejected from the impact crater reflected thermal radiation from the sun). Although the speed of extinction cannot be deduced from the fossil record alone, various models suggest that the extinction was extremely rapid, being down to hours rather than years.[133]
+In September 2007, U.S. researchers led by William Bottke of the Southwest Research Institute in Boulder, Colorado, and Czech scientists used computer simulations to identify the probable source of the Chicxulub impact. They calculated a 90% probability that an asteroid named Baptistina, approximately 160 km (99 mi) in diameter, orbiting in the asteroid belt which lies between Mars and Jupiter, was struck by a smaller unnamed asteroid about 55 km (35 mi) in diameter about 160 million years ago. The impact shattered Baptistina, creating a cluster which still exists today as the Baptistina family. Calculations indicate that some of the fragments were sent hurtling into earth-crossing orbits, one of which was the 10 km (6.2 mi) wide meteorite which struck Mexico's Yucatan peninsula at the end of the Cretaceous, creating the Chicxulub crater.[134] In 2011, new data from the Wide-field Infrared Survey Explorer revised the date of the collision which created the Baptistina family to about 80 million years ago. This makes an asteroid from this family highly improbable to be the asteroid that created the Chicxulub Crater, as typically the process of resonance and collision of an asteroid takes many tens of millions of years.[135]
+A similar but more controversial explanation proposes that "passages of the [hypothetical] solar companion star Nemesis through the Oort comet cloud would trigger comet showers."[136] One or more of these comets then collided with the Earth at approximately the same time, causing the worldwide extinction. As with the impact of a single asteroid, the end result of this comet bombardment would have been a sudden drop in global temperatures, followed by a protracted cool period.[136]
+Deccan Traps
+Main article: Deccan Traps
+Before 2000, arguments that the Deccan Traps flood basalts caused the extinction were usually linked to the view that the extinction was gradual, as the flood basalt events were thought to have started around 68 million years ago and lasted for over 2 million years. However, there is evidence that two thirds of the Deccan Traps were created in only 1 million years about 65.5 million years ago, and so these eruptions would have caused a fairly rapid extinction, possibly over a period of thousands of years, but still longer than would be expected from a single impact event.[137][138]
+The Deccan Traps could have caused extinction through several mechanisms, including the release into the air of dust and sulphuric aerosols, which might have blocked sunlight and thereby reduced photosynthesis in plants. In addition, Deccan Trap volcanism might have resulted in carbon dioxide emissions, which would have increased the greenhouse effect when the dust and aerosols cleared from the atmosphere.[138] Before the mass extinction of the dinosaurs, the release of volcanic gases during the formation of the Deccan Traps "contributed to an apparently massive global warming. Some data point to an average rise in temperature of 8 °C (14 °F) in the last half million years before the impact [at Chicxulub]."[137][138]
+In the years when the Deccan Traps theory was linked to a slower extinction, Luis Alvarez (who died in 1988) replied that paleontologists were being misled by sparse data. While his assertion was not initially well-received, later intensive field studies of fossil beds lent weight to his claim. Eventually, most paleontologists began to accept the idea that the mass extinctions at the end of the Cretaceous were largely or at least partly due to a massive Earth impact. However, even Walter Alvarez has acknowledged that there were other major changes on Earth even before the impact, such as a drop in sea level and massive volcanic eruptions that produced the Indian Deccan Traps, and these may have contributed to the extinctions.[139]
+Possible Paleocene survivors
+Main article: Paleocene dinosaurs
+Non-avian dinosaur remains are occasionally found above the Cretaceous–Paleogene boundary. In 2001, paleontologists Zielinski and Budahn reported the discovery of a single hadrosaur leg-bone fossil in the San Juan Basin, New Mexico, and described it as evidence of Paleocene dinosaurs. The formation in which the bone was discovered has been dated to the early Paleocene epoch, approximately 64.5 million years ago. If the bone was not re-deposited into that stratum by weathering action, it would provide evidence that some dinosaur populations may have survived at least a half million years into the Cenozoic Era.[140] Other evidence includes the finding of dinosaur remains in the Hell Creek Formation up to 1.3 meters (51 in) above (40000 years later than) the Cretaceous–Paleogene boundary. Similar reports have come from other parts of the world, including China.[141] Many scientists, however, dismissed the supposed Paleocene dinosaurs as re-worked, that is, washed out of their original locations and then re-buried in much later sediments.[142][143] However, direct dating of the bones themselves has supported the later date, with U–Pb dating methods resulting in a precise age of 64.8 ± 0.9 million years ago.[144] If correct, the presence of a handful of dinosaurs in the early Paleocene would not change the underlying facts of the extinction.[142]
+History of study
+Further information: History of paleontology
+Dinosaur fossils have been known for millennia, although their true nature was not recognized. The Chinese, whose modern word for dinosaur is konglong (恐龍, or "terrible dragon"), considered them to be dragon bones and documented them as such. For example, Hua Yang Guo Zhi, a book written by Zhang Qu during the Western Jin Dynasty, reported the discovery of dragon bones at Wucheng in Sichuan Province.[145] Villagers in central China have long unearthed fossilized "dragon bones" for use in traditional medicines, a practice that continues today.[146] In Europe, dinosaur fossils were generally believed to be the remains of giants and other creatures killed by the Great Flood[citation needed].
+
+
+
+
+Marsh's 1896 illustration of the bones of Stegosaurus, a dinosaur he described and named in 1877.
+
+
+Scholarly descriptions of what would now be recognized as dinosaur bones first appeared in the late 17th century in England. Part of a bone, now known to have been the femur of a Megalosaurus,[147] was recovered from a limestone quarry at Cornwell near Chipping Norton, Oxfordshire, England, in 1676. The fragment was sent to Robert Plot, Professor of Chemistry at the University of Oxford and first curator of the Ashmolean Museum, who published a description in his Natural History of Oxfordshire in 1677. He correctly identified the bone as the lower extremity of the femur of a large animal, and recognized that it was too large to belong to any known species. He therefore concluded it to be the thigh bone of a giant human similar to those mentioned in the Bible. In 1699, Edward Lhuyd, a friend of Sir Isaac Newton, was responsible for the first published scientific treatment of what would now be recognized as a dinosaur when he described and named a sauropod tooth, "Rutellum implicatum",[148][149] that had been found in Caswell, near Witney, Oxfordshire.[150]
+
+
+
+
+William Buckland
+
+
+Between 1815 and 1824, the Rev William Buckland, a professor of geology at Oxford University, collected more fossilized bones of Megalosaurus and became the first person to describe a dinosaur in a scientific journal.[147][151] The second dinosaur genus to be identified, Iguanodon, was discovered in 1822 by Mary Ann Mantell – the wife of English geologist Gideon Mantell. Gideon Mantell recognized similarities between his fossils and the bones of modern iguanas. He published his findings in 1825.[152][153]
+The study of these "great fossil lizards" soon became of great interest to European and American scientists, and in 1842 the English paleontologist Richard Owen coined the term "dinosaur". He recognized that the remains that had been found so far, Iguanodon, Megalosaurus and Hylaeosaurus, shared a number of distinctive features, and so decided to present them as a distinct taxonomic group. With the backing of Prince Albert of Saxe-Coburg-Gotha, the husband of Queen Victoria, Owen established the Natural History Museum in South Kensington, London, to display the national collection of dinosaur fossils and other biological and geological exhibits.
+In 1858, the first known American dinosaur was discovered, in marl pits in the small town of Haddonfield, New Jersey (although fossils had been found before, their nature had not been correctly discerned). The creature was named Hadrosaurus foulkii. It was an extremely important find: Hadrosaurus was one of the first nearly complete dinosaur skeletons found (the first was in 1834, in Maidstone, Kent, England), and it was clearly a bipedal creature. This was a revolutionary discovery as, until that point, most scientists had believed dinosaurs walked on four feet, like other lizards. Foulke's discoveries sparked a wave of dinosaur mania in the United States.
+
+
+
+
+Othniel Charles Marsh, 19th-century photograph
+
+
+
+
+
+
+Edward Drinker Cope, 19th-century photograph
+
+
+Dinosaur mania was exemplified by the fierce rivalry between Edward Drinker Cope and Othniel Charles Marsh, both of whom raced to be the first to find new dinosaurs in what came to be known as the Bone Wars. The feud probably originated when Marsh publicly pointed out that Cope's reconstruction of an Elasmosaurus skeleton was flawed: Cope had inadvertently placed the plesiosaur's head at what should have been the animal's tail end. The fight between the two scientists lasted for over 30 years, ending in 1897 when Cope died after spending his entire fortune on the dinosaur hunt. Marsh 'won' the contest primarily because he was better funded through a relationship with the US Geological Survey. Unfortunately, many valuable dinosaur specimens were damaged or destroyed due to the pair's rough methods: for example, their diggers often used dynamite to unearth bones (a method modern paleontologists would find appalling). Despite their unrefined methods, the contributions of Cope and Marsh to paleontology were vast: Marsh unearthed 86 new species of dinosaur and Cope discovered 56, a total of 142 new species. Cope's collection is now at the American Museum of Natural History in New York, while Marsh's is on display at the Peabody Museum of Natural History at Yale University.[154]
+After 1897, the search for dinosaur fossils extended to every continent, including Antarctica. The first Antarctic dinosaur to be discovered, the ankylosaurid Antarctopelta oliveroi, was found on James Ross Island in 1986, although it was 1994 before an Antarctic species, the theropod Cryolophosaurus ellioti, was formally named and described in a scientific journal.
+Current dinosaur "hot spots" include southern South America (especially Argentina) and China. China in particular has produced many exceptional feathered dinosaur specimens due to the unique geology of its dinosaur beds, as well as an ancient arid climate particularly conducive to fossilization.
+The "dinosaur renaissance"
+Main article: Dinosaur renaissance
+
+
+
+
+Paleontologist Robert T. Bakker with mounted skeleton of a tyrannosaurid (Gorgosaurus libratus)
+
+
+The field of dinosaur research has enjoyed a surge in activity that began in the 1970s and is ongoing. This was triggered, in part, by John Ostrom's discovery of Deinonychus, an active predator that may have been warm-blooded, in marked contrast to the then-prevailing image of dinosaurs as sluggish and cold-blooded. Vertebrate paleontology has become a global science. Major new dinosaur discoveries have been made by paleontologists working in previously unexploited regions, including India, South America, Madagascar, Antarctica, and most significantly China (the amazingly well-preserved feathered dinosaurs in China have further consolidated the link between dinosaurs and their conjectured living descendants, modern birds). The widespread application of cladistics, which rigorously analyzes the relationships between biological organisms, has also proved tremendously useful in classifying dinosaurs. Cladistic analysis, among other modern techniques, helps to compensate for an often incomplete and fragmentary fossil record.
+Soft tissue and DNA
+One of the best examples of soft-tissue impressions in a fossil dinosaur was discovered in Pietraroia, Italy. The discovery was reported in 1998, and described the specimen of a small, very young coelurosaur, Scipionyx samniticus. The fossil includes portions of the intestines, colon, liver, muscles, and windpipe of this immature dinosaur.[45]
+In the March 2005 issue of Science, the paleontologist Mary Higby Schweitzer and her team announced the discovery of flexible material resembling actual soft tissue inside a 68-million-year-old Tyrannosaurus rex leg bone from the Hell Creek Formation in Montana. After recovery, the tissue was rehydrated by the science team.[46]
+When the fossilized bone was treated over several weeks to remove mineral content from the fossilized bone-marrow cavity (a process called demineralization), Schweitzer found evidence of intact structures such as blood vessels, bone matrix, and connective tissue (bone fibers). Scrutiny under the microscope further revealed that the putative dinosaur soft tissue had retained fine structures (microstructures) even at the cellular level. The exact nature and composition of this material, and the implications of Schweitzer's discovery, are not yet clear; study and interpretation of the material is ongoing.[46]
+In 2009, a team including Schweitzer announced that, using even more careful methodology, they had duplicated their results by finding similar soft tissue in a duck-billed dinosaur, Brachylophosaurus canadensis, found in the Judith River Formation of Montana. This included even more detailed tissue, down to preserved bone cells that seem even to have visible remnants of nuclei and what seem to be red blood cells. Among other materials found in the bone was collagen, as in the Tyrannosaurus bone mentioned above. The type of collagen an animal has in its bones varies according to its DNA and, in both cases, this collagen was of the same type found in modern chickens and ostriches.[155]
+The successful extraction of ancient DNA from dinosaur fossils has been reported on two separate occasions; upon further inspection and peer review, however, neither of these reports could be confirmed.[156] However, a functional peptide involved in the vision of a theoretical dinosaur has been inferred using analytical phylogenetic reconstruction methods on gene sequences of related modern species such as reptiles and birds.[157] In addition, several proteins, including hemoglobin,[158] have putatively been detected in dinosaur fossils.[159][160]
+Cultural depictions
+Main article: Cultural depictions of dinosaurs
+
+
+
+
+Outdated Iguanodon statues created by Benjamin Waterhouse Hawkins for the Crystal Palace Park in 1853.
+
+
+
+
+
+
+The battles that may have occurred between Tyrannosaurus rex and Triceratops are reoccurring theme in popular science and dinosaurs' depiction in culture.
+
+
+By human standards, dinosaurs were creatures of fantastic appearance and often enormous size. As such, they have captured the popular imagination and become an enduring part of human culture. Entry of the word "dinosaur" into the common vernacular reflects the animals' cultural importance: in English, "dinosaur" is commonly used to describe anything that is impractically large, obsolete, or bound for extinction.[161]
+Public enthusiasm for dinosaurs first developed in Victorian England, where in 1854, three decades after the first scientific descriptions of dinosaur remains, the famous dinosaur sculptures were unveiled in London's Crystal Palace Park. The Crystal Palace dinosaurs proved so popular that a strong market in smaller replicas soon developed. In subsequent decades, dinosaur exhibits opened at parks and museums around the world, ensuring that successive generations would be introduced to the animals in an immersive and exciting way.[162] Dinosaurs' enduring popularity, in its turn, has resulted in significant public funding for dinosaur science, and has frequently spurred new discoveries. In the United States, for example, the competition between museums for public attention led directly to the Bone Wars of the 1880s and 1890s, during which a pair of feuding paleontologists made enormous scientific contributions.[163]
+The popular preoccupation with dinosaurs has ensured their appearance in literature, film, and other media. Beginning in 1852 with a passing mention in Charles Dickens' Bleak House,[164] dinosaurs have been featured in large numbers of fictional works. Jules Verne's 1864 novel Journey to the Center of the Earth, Sir Arthur Conan Doyle's 1912 book The Lost World, the iconic 1933 film King Kong, the 1954 Godzilla and its many sequels, the best-selling 1990 novel Jurassic Park by Michael Crichton and its 1993 film adaptation are just a few notable examples of dinosaur appearances in fiction. Authors of general-interest non-fiction works about dinosaurs, including some prominent paleontologists, have often sought to use the animals as a way to educate readers about science in general. Dinosaurs are ubiquitous in advertising; numerous companies have referenced dinosaurs in printed or televised advertisements, either in order to sell their own products or in order to characterize their rivals as slow-moving, dim-witted, or obsolete.[165]
+See also
+
+Evolutionary history of life
+List of dinosaur-bearing rock formations
+List of dinosaur genera
+
+Notes and references
+
+
+
+^ a b c Feduccia, A. (2002). "Birds are dinosaurs: simple answer to a complex problem". The Auk 119 (4): 1187–1201. doi:10.1642/0004-8038(2002)119[1187:BADSAT]2.0.CO;2. 
+^ a b c Rey LV, Holtz, Jr TR (2007). Dinosaurs: the most complete, up-to-date encyclopedia for dinosaur lovers of all ages. New York: Random House. ISBN 0-375-82419-7. 
+^ "Numbers of threatened species by major groups of organisms (1996–2012)". IUCN Red List. 2012. Retrieved June 22, 2013. 
+^ Alfaro, M.E., F. Santini, C. Brock, H. Alamillo, A. Dornburg. D.L. Rabosky, G. Carnevale, and L.J. Harmon (2009). "Nine exceptional radiations plus high turnover explain species diversity in jawed vertebrates". Proceedings of the National Academy of Sciences USA 106 (32): 13410–13414. Bibcode:2009PNAS..10613410A. doi:10.1073/pnas.0811087106. PMC 2715324. PMID 19633192. 
+^ a b Wang, S.C., and Dodson, P. (2006). "Estimating the Diversity of Dinosaurs". Proceedings of the National Academy of Sciences USA 103 (37): 13601–13605. Bibcode:2006PNAS..10313601W. doi:10.1073/pnas.0606028103. PMC 1564218. PMID 16954187. 
+^ a b Amos J (2008-09-17). "Will the real dinosaurs stand up?". BBC News. Retrieved 2011-03-23. 
+^ a b c MacLeod, N, Rawson, PF, Forey, PL, Banner, FT, Boudagher-Fadel, MK, Bown, PR, Burnett, JA, Chambers, P, Culver, S, Evans, SE, Jeffery, C, Kaminski, MA, Lord, AR, Milner, AC, Milner, AR, Morris, N, Owen, E, Rosen, BR, Smith, AB, Taylor, PD, Urquhart, E & Young, JR (1997). "The Cretaceous–Tertiary biotic transition". Journal of the Geological Society 154 (2): 265–292. doi:10.1144/gsjgs.154.2.0265. 
+^ a b c d Carpenter, Kenneth (2006). "Biggest of the big: a critical re-evaluation of the mega-sauropod Amphicoelias fragillimus". In Foster, John R.; and Lucas, Spencer G. (eds.). Paleontology and Geology of the Upper Jurassic Morrison Formation. New Mexico Museum of Natural History and Science Bulletin 36. Albuquerque: New Mexico Museum of Natural History and Science. pp. 131–138. 
+^ a b Owen, R (1842). Report on British Fossil Reptiles." Part II. Report of the Eleventh Meeting of the British Association for the Advancement of Science; Held at Plymouth in July 1841. London: John Murray. pp. 60–204. 
+^ "Liddell–Scott–Jones Lexicon of Classical Greek". Retrieved 2008-08-05. 
+^ Farlow, J.O., and Brett-Surman, M.K. (1997). "Preface". In Farlow, J.O., and Brett-Surman, M.K. (eds.). The Complete Dinosaur. Indiana University Press. pp. ix–xi. ISBN 0-253-33349-0. 
+^ a b c d Benton, Michael J. (2004). "Origin and relationships of Dinosauria". In Weishampel, David B.; Dodson, Peter; and Osmólska, Halszka (eds.). The Dinosauria (2nd ed.). Berkeley: University of California Press. pp. 7–19. ISBN 0-520-24209-2. 
+^ Olshevsky, G. (2000). "An annotated checklist of dinosaur species by continent". Mesozoic Meanderings 3: 1–157. 
+^ Sereno, P. (2005). "The logical basis of phylogenetic taxonomy". Systematic Biology 54 (4): 595–619. doi:10.1080/106351591007453. PMID 16109704. 
+^ Glut, Donald F. (1997). Dinosaurs: The Encyclopedia. Jefferson, North Carolina: McFarland & Co. p. 40. ISBN 0-89950-917-7. 
+^ Lambert, David; and the Diagram Group (1990). The Dinosaur Data Book. New York: Avon Books. p. 288. ISBN 0-380-75896-2. 
+^ Morales, Michael (1997). "Nondinosaurian vertebrates of the Mesozoic". In Farlow JO, Brett-Surman MK. The Complete Dinosaur. Bloomington: Indiana University Press. pp. 607–624. ISBN 0-253-33349-0. 
+^ Russell, Dale A. (1995). "China and the lost worlds of the dinosaurian era". Historical Biology 10: 3–12. doi:10.1080/10292389509380510. 
+^ Amiot, R.; Buffetaut, E.; Lécuyer, C.; Wang, X.; Boudad, L.; Ding, Z.; Fourel, F.; Hutt, S.; Martineau, F.; Medeiros, A.; Mo, J.; Simon, L.; Suteethorn, V.; Sweetman, S.; Tong, H.; Zhang, F.; and Zhou, Z. (2010). "Oxygen isotope evidence for semi-aquatic habits among spinosaurid theropods". Geology 38 (2): 139–142. doi:10.1130/G30402.1. 
+^ Nesbitt S.J. (2011). "The early evolution of archosaurs : relationships and the origin of major clades". Bulletin of the American Museum of Natural History 352: 1–292. doi:10.1206/352.1. 
+^ a b Holtz, Jr., T.R. (2000). "Classification and evolution of the dinosaur groups". In Paul, G.S. The Scientific American Book of Dinosaurs. St. Martin's Press. pp. 140–168. ISBN 0-312-26226-4. 
+^ Smith, Dave. "Dinosauria Morphology". UC Berkeley. Retrieved 21 January 2013. 
+^ Langer, M.C., Abdala, F., Richter, M., and Benton, M.J.; Abdala; Richter; Benton (1999). "A sauropodomorph dinosaur from the Upper Triassic (Carnian) of southern Brazil". Comptes Rendus de l'Academie des Sciences, Paris: Sciences de la terre et des planètes 329 (7): 511–517. Bibcode:1999CRASE.329..511L. doi:10.1016/S1251-8050(00)80025-7. 
+^ Nesbitt, Sterling J.; Irmis, Randall B.; Parker, William G. (2007). "A critical re-evaluation of the Late Triassic dinosaur taxa of North America". Journal of Systematic Palaeontology 5 (2): 209–243. doi:10.1017/S1477201907002040. 
+^ This was recognized not later than 1909: "Dr. Holland and the Sprawling Sauropods". Archived from the original on 2011-06-12.  The arguments and many of the images are also presented in Desmond, A. (1976). Hot Blooded Dinosaurs. DoubleDay. ISBN 0-385-27063-1. 
+^ a b Benton, M.J. (2004). Vertebrate Paleontology. Blackwell Publishers. xii–452. ISBN 0-632-05614-2. 
+^ Cowen, Richard (2004). "Dinosaurs". History of Life (4th ed.). Blackwell Publishing. pp. 151–175. ISBN 1-4051-1756-7. OCLC 53970577. 
+^ a b Kubo, T.; Benton, Michael J. (2007). "Evolution of hindlimb posture in archosaurs: limb stresses in extinct vertebrates". Palaeontology 50 (6): 1519–1529. doi:10.1111/j.1475-4983.2007.00723.x. 
+^ Kump LR, Pavlov A & Arthur MA (2005). "Massive release of hydrogen sulfide to the surface ocean and atmosphere during intervals of oceanic anoxia". Geology 33 (5): 397–400. Bibcode:2005Geo....33..397K. doi:10.1130/G21295.1. 
+^ Tanner LH, Lucas SG & Chapman MG (2004). "Assessing the record and causes of Late Triassic extinctions" (PDF). Earth-Science Reviews 65 (1–2): 103–139. Bibcode:2004ESRv...65..103T. doi:10.1016/S0012-8252(03)00082-5. Archived from the original on October 25, 2007. Retrieved 2007-10-22. 
+^ Alcober, Oscar A.; and Martinez, Ricardo N. (2010). "A new herrerasaurid (Dinosauria, Saurischia) from the Upper Triassic Ischigualasto Formation of northwestern Argentina". ZooKeys 63 (63): 55–81. doi:10.3897/zookeys.63.550. PMC 3088398. PMID 21594020.  [1]
+^ a b Sereno PC (1999). "The evolution of dinosaurs". Science 284 (5423): 2137–2147. doi:10.1126/science.284.5423.2137. PMID 10381873. 
+^ Sereno, P.C.; Forster, Catherine A.; Rogers, Raymond R.; Monetta, Alfredo M. (1993). "Primitive dinosaur skeleton from Argentina and the early evolution of Dinosauria". Nature 361 (6407): 64–66. Bibcode:1993Natur.361...64S. doi:10.1038/361064a0. 
+^ Nesbitt, S. J., Barrett, P. M., Werning, S., Sidor, C. A., and A. J. Charig. (2012). "The oldest dinosaur? A Middle Triassic dinosauriform from Tanzania." Biology Letters.
+^ a b c d Holtz, Thomas R., Jr.; Chapman, Ralph E.; and Lamanna, Matthew C. (2004). "Mesozoic biogeography of Dinosauria". In Weishampel, David B.; Dodson, Peter; and Osmólska, Halszka (eds.). The Dinosauria (2nd ed.). Berkeley: University of California Press. pp. 627–642. ISBN 0-520-24209-2. 
+^ a b c d e Fastovsky, David E.; and Smith, Joshua B. (2004). "Dinosaur paleoecology". In Weishampel, David B.; Dodson, Peter; and Osmólska, Halszka. The Dinosauria (2nd ed.). Berkeley: University of California Press. pp. 614–626. ISBN 0-520-24209-2. 
+^ a b c d e f Padian K (2004). "Basal avialae". In Weishampel DB, Dodson P, Osmólska H. The Dinosauria (2d edition). University of California Press. pp. 210–231. ISBN 0-520-24209-2. 
+^ Sereno, P.C.; Wilson, JA; Witmer, LM; Whitlock, JA; Maga, A; Ide, O; Rowe, TA; Kemp, Tom (2007). "Structural extremes in a Cretaceous dinosaur". In Kemp, Tom. PLoS ONE 2 (11): e1230. Bibcode:2007PLoSO...2.1230S. doi:10.1371/journal.pone.0001230. PMC 2077925. PMID 18030355. 
+^ Prasad, V.; Strömberg, CA; Alimohammadian, H; Sahni, A (2005). "Dinosaur coprolites and the early evolution of grasses and grazers". Science 310 (5751): 1170–1180. Bibcode:2005Sci...310.1177P. doi:10.1126/science.1118806. PMID 16293759. 
+^ Archibald, J. David; and Fastovsky, David E. (2004). "Dinosaur Extinction". In Weishampel, David B.; Dodson, Peter; and Osmólska, Halszka (eds.). The Dinosauria (2nd ed.). Berkeley: University of California Press. pp. 672–684. ISBN 0-520-24209-2. 
+^ Lindow, B.E.K. (2011). "Bird Evolution Across the K–Pg Boundary and the Basal Neornithine Diversification." In Dyke, G. and Kaiser, G. (eds.)Living Dinosaurs: The Evolutionary History of Modern Birds, John Wiley & Sons, Ltd, Chichester, UK. doi:10.1002/9781119990475.ch14
+^ Paul, G.S. (1988). Predatory Dinosaurs of the World. New York: Simon and Schuster. pp. 248–250. ISBN 0-671-61946-2. 
+^ Clark J.M., Maryanska T., Barsbold R (2004). "Therizinosauroidea". In Weishampel DB, Dodson P, Osmólska H. The Dinosauria (2d edition). University of California Press. pp. 151–164. ISBN 0-520-24209-2. 
+^ Norell MA, Makovicky PJ (2004). "Dromaeosauridae". In Weishampel DB, Dodson P, Osmólska H. The Dinosauria (2d edition). University of California Press. pp. 196–210. ISBN 0-520-24209-2. 
+^ a b Dal Sasso, C. and Signore, M. (1998). "Exceptional soft-tissue preservation in a theropod dinosaur from Italy". Nature 392 (6674): 383–387. Bibcode:1998Natur.392..383D. doi:10.1038/32884. 
+^ a b c Schweitzer, M.H., Wittmeyer, J.L. and Horner, J.R. (2005). "Soft-Tissue Vessels and Cellular Preservation in Tyrannosaurus rex". Science 307 (5717): 1952–1955. Bibcode:2005Sci...307.1952S. doi:10.1126/science.1108397. PMID 15790853. 
+^ Farlow JA (1993). "On the rareness of big, fierce animals: speculations about the body sizes, population densities, and geographic ranges of predatory mammals and large, carnivorous dinosaurs". In Dodson, Peter; and Gingerich, Philip. Functional Morphology and Evolution. American Journal of Science, Special Volume 293-A. pp. 167–199. 
+^ Peczkis, J. (1994). "Implications of body-mass estimates for dinosaurs". Journal of Vertebrate Paleontology 14 (4): 520–33. doi:10.1080/02724634.1995.10011575. 
+^ "Anatomy and evolution". National Museum of Natural History. Retrieved 2007-11-21. 
+^ Sander, P. Martin et al.; Christian, Andreas; Clauss, Marcus; Fechner, Regina; Gee, Carole T.; Griebeler, Eva-Maria; Gunga, Hanns-Christian; Hummel, Jürgen; Mallison, Heinrich (2011). "Biology of the sauropod dinosaurs: the evolution of gigantism". Biological Reviews 86 (1): 117–155. doi:10.1111/j.1469-185X.2010.00137.x. PMC 3045712. PMID 21251189. 
+^ Colbert, Edwin Harris (1971). Men and dinosaurs: the search in field and laboratory. Harmondsworth [Eng.]: Penguin. ISBN 0-14-021288-4. 
+^ Lovelace, David M. (2007). "Morphology of a specimen of Supersaurus (Dinosauria, Sauropoda) from the Morrison Formation of Wyoming, and a re-evaluation of diplodocid phylogeny". Arquivos do Museu Nacional 65 (4): 527–544. 
+^ dal Sasso C, Maganuco S, Buffetaut E, Mendez MA (2006). "New information on the skull of the enigmatic theropod Spinosaurus, with remarks on its sizes and affinities" (PDF). Journal of Vertebrate Paleontology 25 (4): 888–896. doi:10.1671/0272-4634(2005)025[0888:NIOTSO]2.0.CO;2. Retrieved 2011-05-05. 
+^ Therrien, F.; and Henderson, D.M. (2007). "My theropod is bigger than yours ... or not: estimating body size from skull length in theropods". Journal of Vertebrate Paleontology 27 (1): 108–115. doi:10.1671/0272-4634(2007)27[108:MTIBTY]2.0.CO;2. 
+^ a b Zhang F, Zhou Z, Xu X, Wang X, Sullivan C (2008). "A bizarre Jurassic maniraptoran from China with elongate ribbon-like feathers". Nature 455 (7216): 1105–1108. Bibcode:2008Natur.455.1105Z. doi:10.1038/nature07447. PMID 18948955. 
+^ a b Xu X, Zhao Q, Norell M, Sullivan C, Hone D, Erickson G, Wang XL, Han FL, Guo Y (2008). "A new feathered maniraptoran dinosaur fossil that fills a morphological gap in avian origin". Chinese Science Bulletin 54 (3): 430–435. doi:10.1007/s11434-009-0009-6. 
+^ Butler, R.J.; Zhao, Q. (2009). "The small-bodied ornithischian dinosaurs Micropachycephalosaurus hongtuyanensis and Wannanosaurus yansiensis from the Late Cretaceous of China". Cretaceous Research 30 (1): 63–77. doi:10.1016/j.cretres.2008.03.002. 
+^ Yans J, Dejax J, Pons D, Dupuis C & Taquet P (2005). "Implications paléontologiques et géodynamiques de la datation palynologique des sédiments à faciès wealdien de Bernissart (bassin de Mons, Belgique)". Comptes Rendus Palevol (in French) 4 (1–2): 135–150. doi:10.1016/j.crpv.2004.12.003. 
+^ Day, J.J.; Upchurch, P; Norman, DB; Gale, AS; Powell, HP (2002). "Sauropod trackways, evolution, and behavior". Science 296 (5573): 1659. doi:10.1126/science.1070167. PMID 12040187. 
+^ Wright, Joanna L. (2005). "Steps in understanding sauropod biology". In Curry Rogers, Kristina A.; and Wilson, Jeffrey A. The Sauropods: Evolution and Paleobiology. Berkeley: University of California Press. pp. 252–284. ISBN 0-520-24623-3. 
+^ Varricchio, D.J.; Sereno, Paul C.; Xijin, Zhao; Lin, Tan; Wilson, Jeffery A.; Lyon, Gabrielle H. (2008). "Mud-trapped herd captures evidence of distinctive dinosaur sociality" (PDF). Acta Palaeontologica Polonica 53 (4): 567–578. doi:10.4202/app.2008.0402. Retrieved 2011-05-06. 
+^ Lessem, Don; and Glut, Donald F. (1993). "Allosaurus". The Dinosaur Society's Dinosaur Encyclopedia. Random House. pp. 19–20. ISBN 0-679-41770-2. 
+^ Maxwell, W. D.; Ostrom, John (1995). "Taphonomy and paleobiological implications of Tenontosaurus–Deinonychus associations". Journal of Vertebrate Paleontology 15 (4): 707–712. doi:10.1080/02724634.1995.10011256. 
+^ Roach, Brian T.; Brinkman, Daniel L. (2007). "A reevaluation of cooperative pack hunting and gregariousness in Deinonychus antirrhopus and other nonavian theropod dinosaurs". Bulletin of the Peabody Museum of Natural History 48 (1): 103–138. doi:10.3374/0079-032X(2007)48[103:AROCPH]2.0.CO;2. 
+^ Tanke, Darren H. (1998). "Head-biting behavior in theropod dinosaurs: paleopathological evidence" (PDF). Gaia (15): 167–184. Archived from the original on 2008-02-27. 
+^ "The Fighting Dinosaurs". American Museum of Natural History. Archived from the original on 2012-01-18. Retrieved 2007-12-05. 
+^ a b Carpenter, K. (1998). "Evidence of predatory behavior by theropod dinosaurs". Gaia 15: 135–144. 
+^ Rogers, Raymond R.; Krause, DW; Curry Rogers, K (2007). "Cannibalism in the Madagascan dinosaur Majungatholus atopus". Nature 422 (6931): 515–518. doi:10.1038/nature01532. PMID 12673249. 
+^ Schmitz, L.; Motani, R. (2011). "Nocturnality in Dinosaurs Inferred from Scleral Ring and Orbit Morphology". Science 332 (6030): 705–708. Bibcode:2011Sci...332..705S. doi:10.1126/science.1200043. PMID 21493820. 
+^ Varricchio DJ, Martin, AJ and Katsura, Y (2007). "First trace and body fossil evidence of a burrowing, denning dinosaur". Proceedings of the Royal Society B 274 (1616): 1361–1368. doi:10.1098/rspb.2006.0443. PMC 2176205. PMID 17374596. 
+^ Chiappe, L.M. and Witmer, L.M. (2002). Mesozoic Birds: Above the Heads of Dinosaurs. Berkeley: University of California Press. ISBN 0-520-20094-2
+^ Chatterjee, S.; Templin, R. J. (2007). "Biplane wing planform and flight performance of the feathered dinosaur Microraptor gui" (PDF). Proceedings of the National Academy of Sciences 104 (5): 1576–1580. Bibcode:2007PNAS..104.1576C. doi:10.1073/pnas.0609975104. PMC 1780066. PMID 17242354. 
+^ Alexander RM (2006). "Dinosaur biomechanics". Proceedings of the Royal Society B 273 (1596): 1849–1855. doi:10.1098/rspb.2006.3532. PMC 1634776. PMID 16822743. 
+^ Goriely A & McMillen T (2002). "Shape of a cracking whip". Physical Review Letters 88 (24): 244301. Bibcode:2002PhRvL..88x4301G. doi:10.1103/PhysRevLett.88.244301. PMID 12059302. 
+^ Henderson, D.M. (2003). "Effects of stomach stones on the buoyancy and equilibrium of a floating crocodilian: A computational analysis". Canadian Journal of Zoology 81 (8): 1346–1357. doi:10.1139/z03-122. 
+^ a b c d Senter, P. (2008). "Voices of the past: a review of Paleozoic and Mesozoic animal sounds". Historical Biology 20 (4): 255–287. doi:10.1080/08912960903033327. 
+^ Hopson, James A. (1975). "The evolution of cranial display structures in hadrosaurian dinosaurs". Paleobiology 1 (1): 21–43. 
+^ Diegert, Carl F. (1998). "A digital acoustic model of the lambeosaurine hadrosaur Parasaurolophus tubicen". Journal of Vertebrate Paleontology 18 (3, Suppl.): 38A. 
+^ Currie, Philip J and Kevin Padian, ed. (1997). Encyclopedia of Dinosaurs. Academic Press. p. 206. 
+^ Hansell M (2000). Bird Nests and Construction Behaviour. University of Cambridge Press ISBN 0-521-46038-7
+^ Varricchio, David J.; Horner, John J.; Jackson, Frankie D. (2002). "Embryos and eggs for the Cretaceous theropod dinosaur Troodon formosus". Journal of Vertebrate Paleontology 22 (3): 564–576. doi:10.1671/0272-4634(2002)022[0564:EAEFTC]2.0.CO;2. 
+^ Lee, Andrew H.; Werning, S (2008). "Sexual maturity in growing dinosaurs does not fit reptilian growth models". Proceedings of the National Academy of Sciences 105 (2): 582–587. Bibcode:2008PNAS..105..582L. doi:10.1073/pnas.0708903105. PMC 2206579. PMID 18195356. 
+^ Horner, J.R.; Makela, Robert (1979). "Nest of juveniles provides evidence of family structure among dinosaurs". Nature 282 (5736): 296–298. Bibcode:1979Natur.282..296H. doi:10.1038/282296a0. 
+^ Chiappe, Luis M.; Jackson, Frankie; Coria, Rodolfo A.; and Dingus, Lowell (2005). "Nesting titanosaurs from Auca Mahuevo and adjacent sites". In Curry Rogers, Kristina A.; and Wilson, Jeffrey A. The Sauropods: Evolution and Paleobiology. Berkeley: University of California Press. pp. 285–302. ISBN 0-520-24623-3. 
+^ "Discovering Dinosaur Behavior: 1960–present view". Encyclopædia Britannica. Retrieved 2011-05-05. [dead link]
+^ Meng Qingjin; Liu Jinyuan; Varricchio, David J.; Huang, Timothy; and Gao Chunling (2004). "Parental care in an ornithischian dinosaur". Nature 431 (7005): 145–146. Bibcode:2004Natur.431..145M. doi:10.1038/431145a. PMID 15356619. 
+^ Reisz RR, Scott, D Sues, H-D, Evans, DC & Raath, MA (2005). "Embryos of an Early Jurassic prosauropod dinosaur and their evolutionary significance". Science 309 (5735): 761–764. Bibcode:2005Sci...309..761R. doi:10.1126/science.1114942. PMID 16051793. 
+^ Clark NDL, Booth P, Booth CL, Ross DA (2004). "Dinosaur footprints from the Duntulm Formation (Bathonian, Jurassic) of the Isle of Skye" (PDF). Scottish Journal of Geology 40 (1): 13–21. doi:10.1144/sjg40010013. Retrieved 2011-05-05. 
+^ Chinsamy A, Hillenius WJ (2004). "Physiology of nonavian dinosaurs". In Weishampel DB, Dodson P, Osmólska H. The Dinosauria (2nd ed.). University of California Press. pp. 643–659. ISBN 0-520-24209-2. 
+^ Pontzer, H. .; Allen, V. .; Hutchinson, J. .; Farke, A. A. (2009). "Biomechanics of running indicates endothermy in bipedal dinosaurs". In Farke, Andrew Allen. PLoS ONE 4 (11): e7783. doi:10.1371/journal.pone.0007783. PMC 2772121. PMID 19911059.  edit
+^ "Hot-Blooded or Cold-Blooded??". University of California Museum of Paleontology. Retrieved February 12, 2012. 
+^ Parsons, Keith M. (2001). Drawing out Leviathan: Dinosaurs and the science wars. Bloomington: Indiana University Press. pp. 22–48. ISBN 0-253-33937-5. 
+^ Sereno PC, Martinez RN, Wilson JA, Varricchio DJ, Alcober OA, et al. (September 2008). "Evidence for Avian Intrathoracic Air Sacs in a New Predatory Dinosaur from Argentina". In Kemp, Tom. PLoS ONE 3 (9): e3303doi=10.1371/journal.pone.0003303. Bibcode:2008PLoSO...3.3303S. doi:10.1371/journal.pone.0003303. PMC 2553519. PMID 18825273. Retrieved 2008-09-29. 
+^ Reid, R.E.H. (1997). "Dinosaurian Physiology: the Case for "Intermediate" Dinosaurs". In Farlow, J.O., and Brett-Surman, M.K. The Complete Dinosaur. Bloomington: Indiana University Press. pp. 449–473. ISBN 0-253-33349-0. 
+^ Ehrlich, Paul R.; David S. Dobkin, and Darryl Wheye (1988). "Drinking". Birds of Stanford. Standford University. Retrieved 2007-12-13. 
+^ Tsahar, Ella; Martínez Del Rio, C; Izhaki, I; Arad, Z (2005). "Can birds be ammonotelic? Nitrogen balance and excretion in two frugivores" (Free full text). Journal of Experimental Biology 208 (6): 1025–34. doi:10.1242/jeb.01495. PMID 15767304. 
+^ Skadhauge, E; Erlwanger, KH; Ruziwa, SD; Dantzer, V; Elbrønd, VS; Chamunorwa, JP (2003). "Does the ostrich (Struthio camelus) coprodeum have the electrophysiological properties and microstructure of other birds?". Comparative biochemistry and physiology. Part A, Molecular & integrative physiology 134 (4): 749–755. doi:10.1016/S1095-6433(03)00006-0. PMID 12814783. 
+^ Preest, Marion R.; Beuchat, Carol A. (April 1997). "Ammonia excretion by hummingbirds". Nature 386 (6625): 561–62. Bibcode:1997Natur.386..561P. doi:10.1038/386561a0. 
+^ Mora, J.; Martuscelli, J; Ortiz Pineda, J; Soberon, G (July 1965). "The Regulation of Urea-Biosynthesis Enzymes in Vertebrates" (PDF). Biochemical Journal 96 (1): 28–35. PMC 1206904. PMID 14343146. 
+^ Packard, Gary C. (1966). "The Influence of Ambient Temperature and Aridity on Modes of Reproduction and Excretion of Amniote Vertebrates". The American Naturalist 100 (916): 667–82. doi:10.1086/282459. JSTOR 2459303. 
+^ Balgooyen, Thomas G. (1 October 1971). "Pellet Regurgitation by Captive Sparrow Hawks (Falco sparverius)" (PDF). Condor 73 (3): 382–85. doi:10.2307/1365774. JSTOR 1365774. 
+^ Huxley, Thomas H. (1868). "On the animals which are most nearly intermediate between birds and reptiles". Annals of the Magazine of Natural History 4 (2): 66–75. 
+^ Heilmann, Gerhard (1926). The Origin of Birds. London: Witherby. pp. 208pp. ISBN 0-486-22784-7. 
+^ Osborn, Henry Fairfield (1924). "Three new Theropoda, Protoceratops zone, central Mongolia" (PDF). American Museum Novitates 144: 1–12. 
+^ Ostrom, John H. (1973). "The ancestry of birds". Nature 242 (5393): 136. Bibcode:1973Natur.242..136O. doi:10.1038/242136a0. 
+^ Gauthier, Jacques. (1986). "Saurischian monophyly and the origin of birds". In Padian, Kevin. (ed.). The Origin of Birds and the Evolution of Flight. Memoirs of the California Academy of Sciences 8. pp. 1–55. 
+^ Mayr, G., Pohl, B. and Peters, D.S. (2005). "A Well-Preserved Archaeopteryx Specimen with Theropod Features". Science 310 (5753): 1483–1486. Bibcode:2005Sci...310.1483M. doi:10.1126/science.1120331. PMID 16322455. 
+^ Martin, Larry D. (2006). "A basal archosaurian origin for birds". Acta Zoologica Sinica 50 (6): 977–990. 
+^ a b Switek, B. (2012). "Rise of the fuzzy dinosaurs". Nature. doi:10.1038/nature.2012.10933.  edit
+^ Godefroit, P., Sinitsa, S., Dhouailly, D., Bolotsky, Y., and Sizov, A. "Feather-like structures and scales in a Jurassic neornithischian dinosaur from Siberia." Program and Abstracts of the 73rd Meeting of the Society of Vertebrate Paleontology, October 2013.
+^ Xu X.; Norell, M.A.; Kuang X.; Wang X.; Zhao Q.; and Jia C. (2004). "Basal tyrannosauroids from China and evidence for protofeathers in tyrannosauroids". Nature 431 (7009): 680–684. Bibcode:2004Natur.431..680X. doi:10.1038/nature02855. PMID 15470426. 
+^ Göhlich, U.B.; Chiappe, LM (2006). "A new carnivorous dinosaur from the Late Jurassic Solnhofen archipelago". Nature 440 (7082): 329–332. Bibcode:2006Natur.440..329G. doi:10.1038/nature04579. PMID 16541071. 
+^ Kellner, A.W.A., Wang, X., Tischlinger, H., Campos, D., Hone, D.W.E. and Meng, X. (2009). "The soft tissue of Jeholopterus (Pterosauria, Anurognathidae, Batrachognathinae) and the structure of the pterosaur wing membrane." Proceedings of the Royal Society B, published online before print August 5, 2009, doi:10.1098/rspb.2009.0846
+^ Wellnhofer, P (1988). "Ein neuer Exemplar von Archaeopteryx". Archaeopteryx 6: 1–30. 
+^ Lingham-Soliar, T. (2003). "The dinosaurian origin of feathers: perspectives from dolphin (Cetacea) collagen fibers". Naturwissenschaften 90 (12): 563–567. Bibcode:2003NW.....90..563L. doi:10.1007/s00114-003-0483-7. PMID 14676953. 
+^ a b Feduccia, A.; Lingham-Soliar, T; Hinchliffe, JR (2005). "Do feathered dinosaurs exist? Testing the hypothesis on neontological and paleontological evidence". Journal of Morphology 266 (2): 125–166. doi:10.1002/jmor.10382. PMID 16217748. 
+^ Lingham-Soliar, T.; Feduccia, A; Wang, X (2007). "A new Chinese specimen indicates that 'protofeathers' in the Early Cretaceous theropod dinosaur Sinosauropteryx are degraded collagen fibres". Proceedings of the Royal Society B 274 (1620): 1823–9. doi:10.1098/rspb.2007.0352. PMC 2270928. PMID 17521978. 
+^ Prum, Richard O. (April 2003). "Are Current Critiques Of The Theropod Origin Of Birds Science? Rebuttal To Feduccia 2002". The Auk 120 (2): 550–61. doi:10.1642/0004-8038(2003)120[0550:ACCOTT]2.0.CO;2. JSTOR 4090212. 
+^ O'Connor, P.M. & Claessens, L.P.A.M. (2005). "Basic avian pulmonary design and flow-through ventilation in non-avian theropod dinosaurs". Nature 436 (7048): 253–256. Bibcode:2005Natur.436..253O. doi:10.1038/nature03716. PMID 16015329. 
+^ Sereno, P.C.; Martinez, RN; Wilson, JA; Varricchio, DJ; Alcober, OA; Larsson, HC; Kemp, Tom (September 2008). "Evidence for Avian Intrathoracic Air Sacs in a New Predatory Dinosaur from Argentina". In Kemp, Tom. PLoS ONE 3 (9): e3303. Bibcode:2008PLoSO...3.3303S. doi:10.1371/journal.pone.0003303. PMC 2553519. PMID 18825273. Retrieved 2008-10-27. 
+^ "Meat-Eating Dinosaur from Argentina Had Bird-Like Breathing System". Retrieved 2011-05-05. 
+^ Xu, X. and Norell, M.A. (2004). "A new troodontid dinosaur from China with avian-like sleeping posture". Nature 431 (7010): 838–841. Bibcode:2004Natur.431..838X. doi:10.1038/nature02898. PMID 15483610. 
+^ Norell M.A., Clark J.M., Chiappe L.M., Dashzeveg D. (1995). "A nesting dinosaur". Nature 378 (6559): 774–776. Bibcode:1995Natur.378..774N. doi:10.1038/378774a0. 
+^ Varricchio, D. J.; Moore, J. R.; Erickson, G. M.; Norell, M. A.; Jackson, F. D.; Borkowski, J. J. (2008). "Avian Paternal Care Had Dinosaur Origin". Science 322 (5909): 1826–8. Bibcode:2008Sci...322.1826V. doi:10.1126/science.1163245. PMID 19095938. 
+^ Wings O (2007). "A review of gastrolith function with implications for fossil vertebrates and a revised classification" (PDF). Palaeontologica Polonica 52 (1): 1–16. Retrieved 2011-05-05. 
+^ Dingus, L. and Rowe, T. (1998). The Mistaken Extinction – Dinosaur Evolution and the Origin of Birds. New York: W. H. Freeman.
+^ Miller KG, Kominz MA, Browning JV, Wright JD, Mountain GS, Katz ME, Sugarman PJ, Cramer BS, Christie-Blick N, Pekar SF (2005). "The Phanerozoic record of global sea-level change". Science 310 (5752): 1293–8. Bibcode:2005Sci...310.1293M. doi:10.1126/science.1116412. PMID 16311326. 
+^ McArthura JM, Janssenb NMM, Rebouletc S, Lengd MJ, Thirlwalle MF & van de Shootbruggef B (2007). "Palaeotemperatures, polar ice-volume, and isotope stratigraphy (Mg/Ca, δ18O, δ13C, 87Sr/86Sr): The Early Cretaceous (Berriasian, Valanginian, Hauterivian)". Palaeogeography, Palaeoclimatology, Palaeoecology 248 (3–4): 391–430. doi:10.1016/j.palaeo.2006.12.015. 
+^ Paul, Gregory S. (2002). Dinosaurs of the air: the evolution and loss of flight in dinosaurs and birds. Johns Hopkins University Press. p. 397. ISBN 0-8018-6763-0. 
+^ Alvarez, LW, Alvarez, W, Asaro, F, and Michel, HV (1980). "Extraterrestrial cause for the Cretaceous–Tertiary extinction". Science 208 (4448): 1095–1108. Bibcode:1980Sci...208.1095A. doi:10.1126/science.208.4448.1095. PMID 17783054. 
+^ Hildebrand, Alan R.; Penfield, Glen T.; Kring, David A.; Pilkington, Mark; Zanoguera, Antonio Camargo; Jacobsen, Stein B.; Boynton, William V. (September 1991). "Chicxulub Crater; a possible Cretaceous/Tertiary boundary impact crater on the Yucatan Peninsula, Mexico". Geology 19 (9): 867–871. Bibcode:1991Geo....19..867H. doi:10.1130/0091-7613(1991)019<0867:CCAPCT>2.3.CO;2. 
+^ Pope KO, Ocampo AC, Kinsland GL, Smith R (1996). "Surface expression of the Chicxulub crater". Geology 24 (6): 527–30. Bibcode:1996Geo....24..527P. doi:10.1130/0091-7613(1996)024<0527:SEOTCC>2.3.CO;2. PMID 11539331. 
+^ Robertson, D.S.; et al. (30 September 2003). "Survival in the first hours of the Cenozoic". Geological Society of America Bulletin 116 (5/6): 760–768. Bibcode:2004GSAB..116..760R. doi:10.1130/B25402.1. Retrieved 15 June 2011. 
+^ Claeys, P; Goderis, S (2007-09-05). "Solar System: Lethal billiards". Nature 449 (7158): 30–31. Bibcode:2007Natur.449...30C. doi:10.1038/449030a. PMID 17805281. 
+^ Plotner, Tammy (2011). "Did Asteroid Baptistina Kill the Dinosaurs? Think other WISE ...". Universe Today. Retrieved 2011-09-20. 
+^ a b edited by Christian Koeberl and Kenneth G. MacLeod. (2002). Catastrophic Events and Mass Extinctions. Geological Society of America. ISBN 0-8137-2356-6. OCLC 213836505. 
+^ a b Hofman, C, Féraud, G & Courtillot, V (2000). "40Ar/39Ar dating of mineral separates and whole rocks from the Western Ghats lava pile: further constraints on duration and age of the Deccan traps". Earth and Planetary Science Letters 180: 13–27. Bibcode:2000E&PSL.180...13H. doi:10.1016/S0012-821X(00)00159-X. 
+^ a b c Duncan, RA & Pyle, DG (1988). "Rapid eruption of the Deccan flood basalts at the Cretaceous/Tertiary boundary". Nature 333 (6176): 841–843. Bibcode:1988Natur.333..841D. doi:10.1038/333841a0. 
+^ Alvarez, W (1997). T. rex and the Crater of Doom. Princeton University Press. pp. 130–146. ISBN 978-0-691-01630-6. 
+^ Fassett, JE, Lucas, SG, Zielinski, RA, and Budahn, JR; Lucas; Zielinski; Budahn (2001). "Compelling new evidence for Paleocene dinosaurs in the Ojo Alamo Sandstone, San Juan Basin, New Mexico and Colorado, USA" (PDF). Catastrophic events and mass extinctions, Lunar and Planetary Contribution 1053: 45–46. Bibcode:2001caev.conf.3139F. Retrieved 2007-05-18. 
+^ Sloan, R. E., Rigby, K,. Van Valen, L. M., Gabriel, Diane (1986). "Gradual dinosaur extinction and simultaneous ungulate radiation in the Hell Creek Formation". Science 232 (4750): 629–633. Bibcode:1986Sci...232..629S. doi:10.1126/science.232.4750.629. PMID 17781415. 
+^ a b Fastovsky, David E.; Sheehan, Peter M. (2005). "Reply to comment on "The Extinction of the dinosaurs in North America"" (PDF). GSA Today 15 (7): 11. doi:10.1130/1052-5173(2005)015[11b:RTEOTD]2.0.CO;2. 
+^ Sullivan, RM (2003). "No Paleocene dinosaurs in the San Juan Basin, New Mexico". Geological Society of America Abstracts with Programs 35 (5): 15. Retrieved 2007-07-02. 
+^ Fassett J.E., Heaman L.M., Simonetti A. (2011). "Direct U–Pb dating of Cretaceous and Paleocene dinosaur bones, San Juan Basin, New Mexico". Geology 39 (2): 159–162. doi:10.1130/G31466.1. 
+^ Dong Zhiming (1992). Dinosaurian Faunas of China. China Ocean Press, Beijing. ISBN 3-540-52084-8. OCLC 26522845. 
+^ "Dinosaur bones 'used as medicine'". BBC News. 2007-07-06. Retrieved 2007-07-06. 
+^ a b Sarjeant WAS (1997). "The earliert discoveries". In Farlow JO, Brett-Surman MK. The Complete Dinosaur. Bloomington: Indiana University Press. pp. 3–11. ISBN 0-253-33349-0. 
+^ Lhuyd, E. (1699). Lithophylacii Britannici Ichnographia, sive lapidium aliorumque fossilium Britannicorum singulari figura insignium. Gleditsch and Weidmann:London.
+^ Delair, J.B.; Sarjeant, W.A.S. (2002). "The earliest discoveries of dinosaurs: the records re-examined". Proceedings of the Geologists' Association 113 (3): 185–197. doi:10.1016/S0016-7878(02)80022-0. 
+^ Gunther RT (1968). Life and letters of Edward Lhwyd,: Second keeper of the Museum Ashmoleanum (Early science in Oxford Volume XIV). Dawsons of Pall Mall. 
+^ Buckland W (1824). "Notice on the Megalosaurus or great Fossil Lizard of Stonesfield". Transactions of the Geological Society of London 1 (2): 390–396. doi:10.1144/transgslb.1.2.390. 
+^ Mantell, Gideon A. (1825). "Notice on the Iguanodon, a newly discovered fossil reptile, from the sandstone of Tilgate forest, in Sussex". Philosophical Transactions of the Royal Society 115: 179–186. doi:10.1098/rstl.1825.0010. JSTOR 107739. 
+^ Sues, Hans-Dieter (1997). "European Dinosaur Hunters". In Farlow JO, Brett-Surman MK. The Complete Dinosaur. Bloomington: Indiana University Press. p. 14. ISBN 0-253-33349-0. 
+^ Holmes T (1996). Fossil Feud: The Bone Wars of Cope and Marsh, Pioneers in Dinosaur Science. Silver Burdett Press. ISBN 978-0-382-39147-7. OCLC 34472600. 
+^ "Blood, tissue extracted from duck-billed dinosaur bone". Cosmosmagazine.com. 2009-05-01. Retrieved 2013-10-02. 
+^ Wang, H., Yan, Z. and Jin, D. (1 May 1997). "Reanalysis of published DNA sequence amplified from Cretaceous dinosaur egg fossil". Molecular Biology and Evolution 14 (5): 589–591. doi:10.1093/oxfordjournals.molbev.a025796. PMID 9159936. Retrieved 2007-12-05. 
+^ Chang BS, Jönsson K, Kazmi MA, Donoghue MJ, Sakmar TP (1 September 2002). "Recreating a Functional Ancestral Archosaur Visual Pigment". Molecular Biology and Evolution 19 (9): 1483–1489. doi:10.1093/oxfordjournals.molbev.a004211. PMID 12200476. Retrieved 2007-12-05. 
+^ Schweitzer MH, Marshall M, Carron K, Bohle DS, Busse SC, Arnold EV, Barnard D, Horner JR, Starkey JR (1997). "Heme compounds in dinosaur trabecular bone". Proc Natl Acad Sci U S A. 94 (12): 6291–6. Bibcode:1997PNAS...94.6291S. doi:10.1073/pnas.94.12.6291. PMC 21042. PMID 9177210. 
+^ Embery G, Milner AC, Waddington RJ, Hall RC, Langley MS, Milan AM (2003). "Identification of proteinaceous material in the bone of the dinosaur Iguanodon". Connect Tissue Res 44 (Suppl 1): 41–6. doi:10.1080/713713598. PMID 12952172. 
+^ Peterson, JE; Lenczewski, ME; Reed, PS (October 2010). "Influence of Microbial Biofilms on the Preservation of Primary Soft Tissue in Fossil and Extant Archosaurs". In Stepanova, Anna. PLoS ONE 5 (10): 13A. Bibcode:2010PLoSO...513334P. doi:10.1371/journal.pone.0013334. 
+^ "Dinosaur – Definition and More". Merriam-Webster Dictionary. Retrieved 2011-05-06. 
+^ Torrens, H.S. (1993). "The dinosaurs and dinomania over 150 years". Modern Geology 18 (2): 257–286. 
+^ Breithaupt, Brent H. (1997). "First golden period in the USA". In Currie, Philip J. and Padian, Kevin (eds.). The Encyclopedia of Dinosaurs. San Diego: Academic Press. pp. 347–350. ISBN 978-0-12-226810-6. 
+^ "London. Michaelmas term lately over, and the Lord Chancellor sitting in Lincoln's Inn Hall. Implacable November weather. As much mud in the streets, as if the waters had but newly retired from the face of the earth, and it would not be wonderful to meet a Megalosaurus, forty feet long or so, waddling like an elephantine lizard up Holborne Hill." Dickens CJH (1852). Bleak House. London: Bradbury & Evans. p. 1. 
+^ Glut, D.F., and Brett-Surman, M.K. (1997). Farlow, James O. and Brett-Surman, Michael K. (eds.), ed. The Complete Dinosaur. Indiana University Press. pp. 675–697. ISBN 978-0-253-21313-6. 
+
+
+Further reading
+
+
+Library resources
+
+
+About Dinosaurs
+
+
+
+
+Online books
+Resources in your library
+Resources in other libraries
+
+
+
+
+
+Bakker, Robert T. (1986). The Dinosaur Heresies: New Theories Unlocking the Mystery of the Dinosaurs and Their Extinction. New York: Morrow. ISBN 0-688-04287-2.
+Holtz, Thomas R. Jr. (2007). Dinosaurs: The Most Complete, Up-to-Date Encyclopedia for Dinosaur Lovers of All Ages. New York: Random House. ISBN 978-0-375-82419-7.
+Paul, Gregory S. (2000). The Scientific American Book of Dinosaurs. New York: St. Martin's Press. ISBN 0-312-26226-4.
+Paul, Gregory S. (2002). Dinosaurs of the Air: The Evolution and Loss of Flight in Dinosaurs and Birds. Baltimore: The Johns Hopkins University Press. ISBN 0-8018-6763-0.
+Sternberg, C. M. (1966). Canadian Dinosaurs, in Geological Series, no. 54. Second ed. [Ottawa]: National Museum of Canada. 28 p., amply ill.
+Stewart, Tabori & Chang (1997). "The Humongous Book of Dinosaurs". New York: Stewart, Tabori & Chang. Retrieved May 17, 2012.  ISBN 1-55670-596-4 (Article: The Humongous Book of Dinosaurs)
+Zhou, Z. (2004). "The origin and early evolution of birds: discoveries, disputes, and perspectives from fossil evidence". Naturwissenschaften 91 (10): 455–471. Bibcode:2004NW.....91..455Z. doi:10.1007/s00114-004-0570-4. PMID 15365634. 
+
+External links
+
+
+
+
+Dinosaurs portal
+
+
+
+
+
+
+Wikimedia Commons has media related to Dinosauria.
+
+
+
+
+
+Look up dinosaur in Wiktionary, the free dictionary.
+
+
+
+Listen to this article (info/dl)
+
+
+Sorry, your browser either has JavaScript disabled or does not have any supported player.
+You can download the clip or download a player to play the clip in your browser.
+
+
+
+
+
+
+This audio file was created from a revision of the "Dinosaur" article dated 2005-12-30, and does not reflect subsequent edits to the article. (Audio help)
+More spoken articles
+
+
+
+General
+
+
+DinoDatabase.com | Hundreds of dinosaurs and dinosaur related topics
+
+
+Images
+
+
+The Grave Yard, featuring skeletal restorations of a variety of prehistoric animals
+The Science and Art of Gregory S. Paul Influential paleontologist's anatomy art and paintings
+Skeletal Drawing Professional restorations of numerous dinosaurs, and discussions of dinosaur anatomy.
+
+
+Video
+
+
+BBC Nature:Watch dinosaurs brought to life and get experts' interpretations with videos from BBC programmes including Walking with Dinosaurs
+
+
+Popular
+
+
+Dinosaurs & other extinct creatures: From the Natural History Museum, a well illustrated dinosaur directory.
+Dinosaurnews (www.dinosaurnews.org) The dinosaur-related headlines from around the world. Recent news on dinosaurs, including finds and discoveries, and many links.
+Dinosauria From UC Berkeley Museum of Paleontology Detailed information – scroll down for menu.
+LiveScience.com All about dinosaurs, with current featured articles.
+Zoom Dinosaurs (www.enchantedlearning.com) From Enchanted Learning. Kids' site, info pages and stats, theories, history.
+Dinosaur genus list contains data tables on nearly every published Mesozoic dinosaur genus as of January 2011.
+LiveScience.com Giant Dinosaurs Get Downsized by LiveScience, June 21, 2009
+
+
+Technical
+
+
+Palaeontologia Electronica From Coquina Press. Online technical journal.
+Dinobase A searchable dinosaur database, from the University of Bristol, with dinosaur lists, classification, pictures, and more.
+DinoData (www.dinodata.org) Technical site, essays, classification, anatomy.
+Thescelosaurus! By Justin Tweet. Includes a cladogram and small essays on each relevant genera and species.
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Archosauromorphs
+
+
+
+
+
+
+
+
+
+Kingdom: Animalia
+Phylum: Chordata
+Class: Sauropsida
+Subclass: Diapsida
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Major clades
+
+
+
+
+
+
+
+
+
+Archosauriformes
+Crurotarsi
+Pseudosuchia
+Avemetatarsalia
+Ornithodira
+Pterosauria
+Dinosauria
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Rhynchosauria
+
+
+
+
+
+
+
+
+
+
+
+Basal rhynchosaurs
+
+
+
+
+Howesia
+Mesosuchus
+
+
+
+
+
+
+
+
+
+Rhynchosauridae
+
+
+
+
+Rhynchosaurus
+
+
+
+
+
+
+
+
+
+Hyperodapedontidae
+
+
+
+
+
+
+
+
+Bentonyx
+Fodonyx
+Mesodapedon
+Otischalkia
+Stenaulorhynchus
+
+
+
+
+
+
+
+
+
+Hyperodapedontinae
+
+
+
+
+Ammorhynchus
+Hyperodapedon
+Isalorhynchus
+Supradapedon
+Teyumbaita
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Protorosauria
+
+
+
+
+
+
+
+
+
+
+
+Basal protorosaurs
+
+
+
+
+Cosesaurus
+Fuyuansaurus
+Jesairosaurus
+Langobardisaurus
+Macrocnemus
+Malerisaurus
+
+
+
+
+
+
+
+
+
+Protorosauridae
+
+
+
+
+Czatkowiella
+Eorasaurus
+Protorosaurus
+
+
+
+
+
+
+
+
+
+Sharovipterygidae
+
+
+
+
+Sharovipteryx
+
+
+
+
+
+
+
+
+
+Tanystropheidae
+
+
+
+
+Amotosaurus
+Augustaburiania
+Dinocephalosaurus
+Gwyneddosaurus
+Protanystropheus
+Tanystropheus
+Tanytrachelos
+
+
+
+
+
+
+
+
+
+Drepanosauromorpha
+
+
+
+
+
+
+
+
+Hypuronector
+Kyrgyzsaurus
+ ?Longisquama
+
+
+
+
+
+
+
+
+
+Elyurosauria
+
+
+
+
+
+
+
+
+Vallesaurus
+
+
+
+
+
+
+
+
+
+Drepanosauridae
+
+
+
+
+
+
+
+
+Dolabrosaurus
+
+
+
+
+
+
+
+
+
+Megalancosaurinae
+
+
+
+
+Drepanosaurus
+Megalancosaurus
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Other basal archosauromorphs
+
+
+
+
+
+
+
+
+
+
+
+Possible archosauromorphs
+
+
+
+
+Chelonii
+Choristodera
+ ?Helveticosaurus
+
+
+
+
+
+
+
+
+
+Indeterminate archosauromorphs
+
+
+
+
+Azendohsaurus
+Elachistosuchus
+Mecistotrachelos
+Prolacertoides
+Teraterpeton
+Trachelosaurus
+
+
+
+
+
+
+
+
+
+Trilophosauria / Trilophosauridae
+
+
+
+
+ ?Anisodontosaurus
+ ?Coelodontognathus
+Doniceps
+Spinosuchus
+Tricuspisaurus
+Trilophosaurus
+Variodens
+ ?Vitalia
+
+
+
+
+
+
+
+
+
+Prolacertidae
+
+
+
+
+Boreopricea
+Kadimakara
+Malutinisuchus
+Pamelaria
+Prolacerta
+Vritramimosaurus
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Archosauriformes
+
+
+
+
+
+
+
+
+
+
+
+Proterosuchidae
+
+
+
+
+Ankistrodon
+Archosaurus
+Blomosuchus
+Chasmatosuchus
+Exilisuchus
+ ?Gamosaurus
+Kalisuchus
+Proterosuchus
+Tasmaniosaurus
+Vonhuenia
+
+
+
+
+
+
+
+
+
+Erythrosuchidae
+
+
+
+
+Chalishevia
+Erythrosuchus
+ ?Fenhosuchus
+Fugusuchus
+Garjainia
+Guchengosuchus
+ ?Jaikosuchus
+Shansisuchus
+Vjushkovia
+Uralosaurus
+
+
+
+
+
+
+
+
+
+Doswelliidae
+
+
+
+
+Archeopelta
+Doswellia
+Jaxtasuchus
+Tarjadia
+Vancleavea
+
+
+
+
+
+
+
+
+
+Euparkeriidae
+
+
+
+
+ ?Dorosuchus
+Euparkeria
+ ?Halazhaisuchus
+ ?Osmolskina
+ ?Wangisuchus
+
+
+
+
+
+
+
+
+
+Proterochampsia
+
+
+
+
+
+
+Proterochampsidae
+
+
+
+
+Barberenachampsa
+Proterochampsa
+
+
+
+
+
+
+
+
+
+Rhadinosuchidae
+
+
+
+
+Cerritosaurus
+Chanaresuchus
+Gualosuchus
+Rhadinosuchus
+Tropidosuchus
+
+
+
+
+
+
+
+
+
+
+
+
+Other basal taxa
+
+
+
+
+Arctosaurus
+Asperoris
+"Cinizasaurus"
+Collilongus
+Crosbysaurus
+Cuyosuchus
+Dongusuchus
+Energosuchus
+Koilamasuchus
+Lucianosaurus
+Sarmatosuchus
+Scythosuchus
+Tecovasaurus
+"Teleocrater"
+Tsylmosuchus
+Uatchitodon
+Vjushkovisaurus
+Yonghesuchus
+
+
+
+
+
+
+
+
+
+Crurotarsi
+
+
+
+
+
+
+Phytosauria
+
+
+
+
+Phytosauridae
+
+
+
+
+
+
+
+
+
+Archosauria
+
+
+
+
+
+
+
+
+Brasileosaurus
+"Cryptoraptor"
+Jushatyria
+Protecovasaurus
+Razanandrongobe
+Sikannisuchus
+Smok
+
+
+
+
+
+
+
+
+
+Pseudosuchia
+
+
+
+
+Crocodylia
+
+
+
+
+
+
+
+
+
+Avemetatarsalia
+
+
+
+
+
+
+
+
+Pterosauria
+
+
+
+
+
+
+
+
+
+Dinosauria
+
+
+
+
+Aves
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Related categories
+
+
+
+
+
+
+
+
+
+Archosaurs
+
+
+
+
+
+
+
+
+
+
+
+     
+
+
+ 
+NewPP limit report
+CPU time usage: 9.157 seconds
+Real time usage: 9.827 seconds
+Preprocessor visited node count: 42854/1000000
+Preprocessor generated node count: 104801/1500000
+Post‐expand include size: 635330/2048000 bytes
+Template argument size: 92010/2048000 bytes
+Highest expansion depth: 39/40
+Expensive parser function count: 8/500
+Lua time usage: 0.596s
+Lua memory usage: 2.79 MB
+
+
+ Saved in parser cache with key enwiki:pcache:idhash:8311-0!*!0!!en!4!* and timestamp 20131002230550 
+								
+				Retrieved from "http://en.wikipedia.org/w/index.php?title=Dinosaur&oldid=575506354"				
+												Categories: DinosaursPaleontologyPaleozoologyHidden categories: All articles with dead external linksArticles with dead external links from October 2013Wikipedia indefinitely semi-protected pagesWikipedia indefinitely move-protected pagesArticles with 'species' microformatsAll articles with unsourced statementsArticles with unsourced statements from September 2013Articles with unsourced statements from October 2013Commons category with local link same as on WikidataSpoken articlesArticles with hAudio microformatsFeatured articles												
+							
+		
+		
+			Navigation menu
+			
+				
+	Personal tools
+	
+Create accountLog in	
+
+				
+					
+	Namespaces
+	
+					Article
+					Talk
+			
+
+
+	
+		
+	Variants
+	
+		
+					
+	
+
+				
+				
+					
+	Views
+	
+					Read
+					View source
+					View history
+			
+
+
+	Actions
+	
+		
+					
+	
+
+
+	Search
+	
+				
+																				
+		
+	
+
+				
+			
+			
+					
+				
+	Navigation
+	
+		
+			Main page
+			Contents
+			Featured content
+			Current events
+			Random article
+			Donate to Wikipedia
+		
+	
+
+
+	Interaction
+	
+		
+			Help
+			About Wikipedia
+			Community portal
+			Recent changes
+			Contact page
+		
+	
+
+
+	Toolbox
+	
+		
+			What links here
+			Related changes
+			Upload file
+			Special pages
+			Permanent link
+			Page information
+			Data item
+Cite this page		
+	
+
+
+	Print/export
+	
+		
+			Create a book
+			Download as PDF
+			Printable version
+		
+	
+
+
+	Languages
+	
+		
+			Afrikaans
+			العربية
+			Aragonés
+			Asturianu
+			Avañe'ẽ
+			Azərbaycanca
+			বাংলা
+			Bân-lâm-gú
+			Basa Banyumasan
+			Беларуская
+			Беларуская (тарашкевіца)‎
+			Български
+			Bosanski
+			Brezhoneg
+			Català
+			Cebuano
+			Česky
+			Cymraeg
+			Dansk
+			Deutsch
+			Diné bizaad
+			Eesti
+			Ελληνικά
+			Español
+			Esperanto
+			Euskara
+			فارسی
+			Føroyskt
+			Français
+			Frysk
+			Gaeilge
+			Gaelg
+			Galego
+			贛語
+			ગુજરાતી
+			客家語/Hak-kâ-ngî
+			한국어
+			Hawai`i
+			Հայերեն
+			हिन्दी
+			Hrvatski
+			Ido
+			Ilokano
+			Bahasa Indonesia
+			Interlingua
+			Íslenska
+			Italiano
+			עברית
+			Basa Jawa
+			ქართული
+			Қазақша
+			Kiswahili
+			Kreyòl ayisyen
+			Kurdî
+			Лезги
+			ລາວ
+			Latina
+			Latviešu
+			Lietuvių
+			Limburgs
+			Magyar
+			Македонски
+			മലയാളം
+			Malti
+			मराठी
+			Bahasa Melayu
+			Монгол
+			မြန်မာဘာသာ
+			Nāhuatl
+			Nederlands
+			नेपाली
+			日本語
+			Norsk bokmål
+			Norsk nynorsk
+			Occitan
+			ଓଡ଼ିଆ
+			Oʻzbekcha
+			ਪੰਜਾਬੀ
+			پنجابی
+			Papiamentu
+			پښتو
+			ភាសាខ្មែរ
+			Polski
+			Português
+			Română
+			Rumantsch
+			Runa Simi
+			Русиньскый
+			Русский
+			Shqip
+			Sicilianu
+			සිංහල
+			Simple English
+			Slovenčina
+			Slovenščina
+			Soomaaliga
+			Српски / srpski
+			Srpskohrvatski / српскохрватски
+			Basa Sunda
+			Suomi
+			Svenska
+			Tagalog
+			தமிழ்
+			Татарча/tatarça
+			తెలుగు
+			ไทย
+			ᏣᎳᎩ
+			Türkçe
+			Українська
+			اردو
+			ئۇيغۇرچە / Uyghurche
+			Vahcuengh
+			Tiếng Việt
+			Võro
+			文言
+			Winaray
+			吴语
+			ייִדיש
+			粵語
+			Žemaitėška
+			中文
+			
+			Edit links
+		
+	
+
+			
+		
+		
+							
+											 This page was last modified on 2 October 2013 at 23:05.
+											Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. 
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+									
+							
+											Privacy policy
+											About Wikipedia
+											Disclaimers
+											Contact Wikipedia
+											Developers
+											Mobile view
+									
+										
+					
+						
+					
+					
+						
+					
+				
+						
+		
+		
+
+
+ Served by mw1027 in 0.285 secs. 
+	
+if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Dinosaur","wgTitle":"Dinosaur","wgCurRevisionId":575506354,"wgArticleId":8311,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["All articles with dead external links","Articles with dead external links from October 2013","Wikipedia indefinitely semi-protected pages","Wikipedia indefinitely move-protected pages","Articles with 'species' microformats","All articles with unsourced statements","Articles with unsourced statements from September 2013","Articles with unsourced statements from October 2013","Commons category with local link same as on Wikidata","Spoken articles","Articles with hAudio microformats","Featured articles","Dinosaurs","Paleontology","Paleozoology"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Dinosaur","wgIsProbablyEditable":false,"wgRestrictionEdit":["autoconfirmed"],"wgRestrictionMove":["sysop"],"wgVectorEnabledModules":{"collapsiblenav":true,"experiments":true},"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"templateEditor":false,"templates":false,"preview":false,"previewDialog":false,"publish":false,"toc":false},"wgArticleFeedbackv5Permissions":{"aft-reader":false,"aft-member":false,"aft-editor":false,"aft-monitor":false,"aft-administrator":false,"aft-oversighter":false,"aft-noone":false},"wgVisualEditor":{"isPageWatched":false,"magnifyClipIconURL":"//bits.wikimedia.org/static-1.22wmf18/skins/common/images/magnify-clip.png","pageLanguageCode":"en","pageLanguageDir":"ltr"},"wikilove-recipient":"","wikilove-anon":0,"wgGuidedTourHelpGuiderUrl":"Help:Guided tours/guider","wgULSAcceptLanguageList":[],"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia","aftv5Article":{"id":8311,"title":"Dinosaur","namespace":0,"categories":["All articles with dead external links","All articles with unsourced statements","Articles with 'species' microformats","Articles with dead external links from October 2013","Articles with hAudio microformats","Articles with unsourced statements from October 2013","Articles with unsourced statements from September 2013","Commons category with local link same as on Wikidata","Dinosaurs","Featured articles","Paleontology","Paleozoology","Spoken articles","Wikipedia indefinitely move-protected pages","Wikipedia indefinitely semi-protected pages"],"permissionLevel":false},"wgWikibaseItemId":"Q430"});
+}if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":false,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,
+"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"useeditwarning":1,"prefershttps":1,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"vector-simplesearch":1,"vector-collapsiblenav":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"aftv5-last-filter":null,"visualeditor-enable":0,"visualeditor-enable-experimental":0,"visualeditor-betatempdisable":0,"wikilove-enabled":1,"echo-subscriptions-web-page-review":true,"echo-subscriptions-email-page-review":false,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"echo-notify-show-link":true,"echo-show-alert":true,"echo-email-frequency":0,"echo-email-format":"html","echo-subscriptions-email-system":true,"echo-subscriptions-web-system":true,"echo-subscriptions-email-other":false,"echo-subscriptions-web-other":true,"echo-subscriptions-email-edit-user-talk":false,"echo-subscriptions-web-edit-user-talk":true,
+"echo-subscriptions-email-reverted":false,"echo-subscriptions-web-reverted":true,"echo-subscriptions-email-article-linked":false,"echo-subscriptions-web-article-linked":false,"echo-subscriptions-email-mention":false,"echo-subscriptions-web-mention":true,"echo-subscriptions-web-edit-thank":true,"echo-subscriptions-email-edit-thank":false,"gettingstarted-task-toolbar-show-intro":true,"uls-preferences":"","language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs446":false,"searchNs447":false
+,"searchNs710":false,"searchNs711":false,"searchNs828":false,"searchNs829":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-mySandbox":1,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:156d8fe0ae17f8afd74198057563e45d */
+}if(window.mw){
+mw.loader.load(["mw.TMHGalleryHook.js","mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","ext.visualEditor.viewPageTarget.init","ext.wikimediaShopLink.core","ext.uls.init","ext.uls.interface","wikibase.client.init","ext.centralNotice.bannerController","skins.vector.js"]);
+}/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}if(window.mw){
+mw.loader.load(["mw.PopUpMediaTransform","mediawiki.action.view.postEdit","mobile.desktop","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.cite","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","mw.MwEmbedSupport.style","ext.vector.collapsibleNav","ext.articleFeedbackv5.startup","ext.gettingstarted.logging","ext.gettingstarted.openTask","schema.HttpsSupport","ext.coreEvents.httpsSupport","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger"],null,true);
+}

@@ -1,0 +1,703 @@
+
+
+
+Megapnosaurus - Wikipedia, the free encyclopedia
+
+
+
+
+
+
+
+
+
+
+
+
+a:lang(ar),a:lang(ckb),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:0de201fdea5d684523607ed88007b127 */
+
+
+
+
+[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.22wmf18/skins/vector/csshover.min.htc")}</style><![endif]
+
+		
+		
+		
+			
+			
+						 CentralNotice 
+						Megapnosaurus
+			
+								From Wikipedia, the free encyclopedia
+								
+												
+					Jump to:					navigation, 					search
+				
+				
+
+
+Megapnosaurus
+Temporal range: Early Jurassic, 199–188Ma
+
+PreЄ
+Є
+O
+S
+D
+C
+P
+T
+J
+K
+Pg
+N
+
+
+
+
+
+
+
+
+
+
+
+
+
+Profile of the head of M. rhodesiensis
+
+
+Scientific classification 
+
+
+Kingdom:
+Animalia
+
+
+Phylum:
+Chordata
+
+
+Clade:
+Sauropsida
+
+
+Clade:
+Dinosauria
+
+
+Clade:
+Theropoda
+
+
+Family:
+†Coelophysidae
+
+
+Subfamily:
+†Coelophysinae
+
+
+Genus:
+†Megapnosaurus
+Ivie, Ślipiński & Węgrzynowicz, 2001
+
+
+Species
+
+
+
+†M. rhodesiensis (Raath, 1969) (type)
+†M. kayentakatae? (Rowe, 1989)
+
+
+
+Synonyms
+
+
+
+Syntarsus Raath, 1969 (preoccupied by Fairmaire, 1869)
+
+
+
+
+Megapnosaurus (pron.: meg-APP-no-SORE-us[needs IPA]) is an extinct genus of coelophysid theropod dinosaur that lived approximately 199 to 188 million years ago during the early part of the Jurassic Period in what is now Africa and North America. Megapnosaurus was a small to medium sized, lightly-built, ground-dwelling, bipedal carnivore, that could grow up to 3 m (9.8 ft) long. It was formerly called Syntarsus but that name was already taken by a beetle, and was subsequently given in current name by Ivie, Ślipiński & Węgrzynowicz, in 2001. It is notable for being one of the most specimen-rich dinosaur genera, with dozens of individuals recovered across two continents.
+
+
+Contents
+
+
+1 Etymology
+2 History of the naming controversy
+3 Description
+4 Classification
+
+4.1 Distinguishing anatomical features
+
+
+5 Paleoecology
+
+5.1 Migration
+5.2 Provenance and occurrence
+5.3 Fauna and habitat
+
+
+6 Paleobiology
+
+6.1 Feeding and diet
+6.2 Paleopathology
+
+
+7 Taphonomy
+8 Ichnology
+9 In popular culture
+10 References
+
+
+Etymology[edit]
+The genus name Megapnosaurus comes from the Greek words μεγα/mega (meaning 'big') and απνοος/apnos (meaning 'not breathing' but implying 'dead'), thus "big dead lizard" which was named facetiously.
+History of the naming controversy[edit]
+Megapnosaurus was originally named Syntarsus by Raath in 1969.[1] It was renamed by American entomologist Dr. Michael Ivie (Montana State University of Bozeman), Polish Australian Dr. Adam Ślipiński, and Polish Dr. Piotr Węgrzynowicz (Muzeum Ewolucji Instytutu Zoologii PAN of Warsaw), the three scientists who discovered that the genus name Syntarsus was already taken by a colydiine beetle described in 1869.[2] Many paleontologists did not like the naming of Megapnosaurus, partially because taxonomists are generally expected to allow original authors of a name to correct any mistakes in their work. Raath was aware of the homonymy between the dinosaur Syntarsus and beetle Syntarsus, but the group who published Megapnosaurus were led to believe Raath was deceased and therefore unable to correct his mistake, and proceeded accordingly. Megapnosaurus remains the valid name for the fossil material, although many paleontologists still refer to this genus as Syntarsus. Mortimer (2012) points out that "Paleontologists might have reacted more positively if the replacement name (Megapnosaurus) hadn't been facetious, translating to "big dead lizard".[3]
+Description[edit]
+Megapnosaurus measured up to 3 meters (10 ft) long from nose to tail and weighed about 32 kilograms (70 lb). The bones of 30 Megapnosaurus individuals were found together in a fossil bed in Zimbabwe, so paleontologists think it may have hunted in packs. The various fossils attributed to this genus have been dated over a relatively large time span – the Hettangian, Sinemurian, and Pliensbachian stages of the Early Jurassic – meaning the fossils represent either a highly successful genus or a few closely related animals all currently assigned to Megapnosaurus.
+The African species (M. rhodesiensis) is known from almost 30 specimens. The North American species (M. kayentakatae) had small crests and may show an evolutionary step toward later and larger coelophysoids, such as the more derived Dilophosaurus. Both possess a "weak joint" between the premaxillary and the maxillary bones, creating a hooked premaxillary jaw.
+Specimen UCMP V128659 was discovered in 1982 and referred to Megapnosaurus kayentakatae by Rowe (1989),[4] as a subadult gracile individual and later, Tykoski (2005)[5] agreed. Gay (2010) described the specimen as the new tetanurine taxon Kayentavenator elysiae,[6] but Mortimer (2010) pointed out that there was no published evidence that Kayentavenator is the same taxon as M. kayentakatae.[7]
+Classification[edit]
+
+
+
+
+
+Theropoda 
+
+
+
+ Herrerasauridae 
+
+
+
+
+
+Staurikosaurus
+
+
+
+
+
+
+
+
+
+
+
+
+Herrerasaurus
+
+
+
+
+
+
+
+
+Chindesaurus
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Eoraptor
+
+
+
+
+
+
+
+
+
+
+
+
+Daemonosaurus
+
+
+
+
+
+
+
+
+
+
+
+
+Tawa
+
+
+
+
+
+
+ Neotheropoda 
+
+
+
+ Coelophysidae 
+
+
+
+
+
+Megapnosaurus
+
+
+
+
+
+
+
+
+Coelophysis
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Liliensternus
+
+
+
+
+
+
+
+
+
+
+
+
+Zupaysaurus
+
+
+
+
+
+
+
+
+
+
+
+
+Cryolophosaurus
+
+
+
+
+
+
+
+
+
+
+
+
+Dilophosaurus
+
+
+
+
+
+
+
+
+Jurassic theropods
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Theropod cladogram based on the phylogenetic analysis, conducted by Sues et al., 2011.[8]
+
+
+
+Megapnosaurus was first described by Raath (1969) and assigned to Podokesauridae.[1] The taxon "Podokesauridae", was abandoned since its type specimen was destroyed in a fire and can no longer be compared to new finds. Over the years paleontologists assigned this genus to Ceratosauridae (Welles, 1984), Procompsognathidae (Parrish and Carpenter, 1986) and Ceratosauria (Gauthier, 1986). Most recently, is has been assigned to Coelophysidae by Tykoski and Rowe (2004), Ezcurra and Novas (2007) and Ezcurra (2007), which is the current scientific consensus.[9]
+Megapnosaurus is almost identical to Coelophysis, and Yates (2005) suggested that Megapnosaurus was possibly synonymous with Coelophysis.[10] In 2004, Raath co-authored two papers in which he argued that Syntarsus was a junior synonym of Coelophysis.[11][12]
+Tykoski and Rowe (2004) and Irmis (2004) have argued that Megapnosaurus is not the same as Coelophysis and is therefore a valid genus.[9][13]
+Distinguishing anatomical features[edit]
+A diagnosis is a statement of the anatomical features of an organism (or group) that collectively distinguish it from all other organisms. Some, but not all, of the features in a diagnosis are also autapomorphies. An autapomorphy is a distinctive anatomical feature that is unique to a given organism or group.
+According to Tykoski and Rowe (2004) Megapnosaurus kayentakatae can be distinguished based on the following characteristics:
+
+the presence of nasal crests on the skull
+the frontal bones on the skull are separated by a midline anterior extension of the parietal bones
+
+According to Tykoski and Rowe (2004) Megapnosaurus rhodesiensis can be distinguished based on the following characteristics:
+
+it differs from Coelophysis bauri in the pit at the base of the nasal process of the premaxilla
+it differs from Megapnosaurus kayentakatae because the promaxillary fenestra is absent and the nasal crests are absent
+the frontal bones on the skull are not separated by a midline anterior extension of the parietal bones
+the anterior astragalar surface is flat
+metacarpal I has a reduced distal medial condyle (noted by Ezcurra, 2006)
+the anterior margin of antorbital fossa is blunt and squared (noted by Carrano et al., 2012)
+the base of lacrimal vertical ramus width is less than 30% its height (noted by Carrano et al., 2012)
+the maxillary and dentary tooth rows end posteriorly at the anterior rim of the lacrimal bone (noted by Carrano et al., 2012)
+
+Paleoecology[edit]
+Migration[edit]
+Megapnosaurus is a good example of how dinosaurs spread across the globe from their ancestral habitats (which was possibly South America). This small predator had the same basic features found in early dinosaurs, and its appearance in both Africa and the southwestern U.S. indicates that it migrated through the continents, which at the time were joined together as Pangaea. There is species-level differentiation between the African and U.S. specimens, again supporting the migration and adaptation theories.
+Provenance and occurrence[edit]
+The holotype of Megapnosaurus rhodesiensis (QG1) has been recovered in Upper Elliot Formation in South Africa, as well as the Chitake River bonebed quarry at the Forest Sandstone Formation in Zimbabwe. In South Africa, several individuals were collected in 1985 from mudstone deposited during the Hettangian stage of the Jurassic period, approximately 201 to 199 million years ago.[14] In Zimbabwe, twenty-six individuals were collected in 1963, 1968 and 1972 from yellow sandstone deposited during the Hettangian stage of the Jurassic period, approximately 201 to 199 million years ago.[15][16][17]
+The holotype of Megapnosaurus kayentakatae (MNA V2623) was recovered in the Silty Facies Member of the Kayenta Formation, in Arizona. This material was collected in 1977 from carbonaceous sandstone deposited during the Sinemurian and Pliensbachian stages of the Jurassic period, approximately 196 to 183 million years ago.
+Fauna and habitat[edit]
+
+
+
+
+M. kayentakatae feeding on a Scutellosaurus
+
+
+The Upper Elliot Formation is thought to have been an ancient floodplain. Fossils of the prosauropod dinosaur Massospondylus and Plateosaurus have been recovered from the Upper Elliot Formation, which boasts the world's most diverse fauna of early Jurassic ornithischian dinosaurs, including Abrictosaurus, Fabrosaurus, Heterodontosaurus, and Lesothosaurus, among others. The Forest Sandstone Formation was the paleoenvironment of protosuchid crocodiles, sphenodonts, the dinosaur Massospondylus and indeterminate remains of a prosauropod. Paul (1988) noted that Megapnosaurus rhodesiensis lived among desert dunes and oases and hunted juvenile and adult prosauropods.[18]
+The Kayenta Formation was primarily deposited by rivers, with the silty facies as the slower, more sluggish part of the river system. Kayenta Formation deposition was ended by the encroaching dune field that would become the Navajo Sandstone.[19] A definitive radiometric dating of this formation has not yet been made, and the available stratigraphic correlation has been based on a combination of radiometric dates from vertebrate fossils, magnetostratigraphy and pollen evidence.[20] The Kayenta Formation has yielded a small but growing assemblage of organisms, mostly from the silty facies.[21] Explorations in the 1970s and 1980s by James M. Clark, Farish Jenkins and David E. Fastovsky and collection and analysis by William R. Downs have produced several vertebrate specimens that shared the paleoenvironment of Megapnosaurus. These included hybodont sharks, lungfish, salamanders, the frog Prosalirus, the turtle Kayentachelys, a sphenodontian reptile, lizards,[22] several early crocodylomorphs including Calsoyasuchus, Eopneumatosuchus, Kayentasuchus, and Protosuchus), the pterosaur Rhamphinion, the tritylodontids synapsids Dinnebiton, Kayentatherium, and Oligokyphus, morganucodontids, possible early true mammal Dinnetherium, and a haramyidae|haramyid mammal and several theropods including Dilophosaurus, Kayentavenator,[23][24] Megapnosaurus kayentakatae, and the "Shake N Bake" theropod, the basal sauropodomorph Sarahsaurus,[25] a heterodontosaurid, and the armored dinosaurs Scelidosaurus and Scutellosaurus. Vertebrate trace fossils include coprolites and the tracks of therapsids, lizard-like animals, and several types of dinosaur.[26] The Kayenta Formation has produced several mass burial sites, and the remains of three coelophysoid taxa of different body size.[27]
+Paleobiology[edit]
+Age determination studies using growth ring counts suggest that the longevity of Megapnosaurus was approximately seven years.[28] Comparisons between the scleral rings of Megapnosaurus and modern birds and reptiles indicate that it may have been nocturnal.[29]
+Feeding and diet[edit]
+The supposed "weak joint" in the jaw, led to the early hypothesis that dinosaurs such as these were scavengers, as the front teeth and bone structure of the jaw were thought to be too weak to take down and hold struggling prey. Megapnosaurus was one of the first dinosaurs to be portrayed with feathers. Paul (1988) noted that this genus, which may have hunted in packs, preyed upon prosauropods and early lizards.[18]
+Paleopathology[edit]
+In Syntarsus rhodesiensis healed fractures of the tibia and metatarsus have been observed, but are very rare. "[T]he supporting butresses of the second sacral rib" in one specimen of Syntarsus rhodesiensis showed signs of fluctuating asymmetry. Fluctuating asymmetry results from developmental disturbances and is more common in populations under stress and can therefore be informative about the quality of conditions a dinosaur lived under.[30]
+Taphonomy[edit]
+The holotype MNA V2623 of Megapnosaurus kayentakatae likely came to rest on its left side and was partially buried. This served to stabile the bones on the left side of the skull, however the right side of the skull was likely exposed to water currents as it began to decompose. Some of the loosely connected bones on this side drifted out of place before the entire skull was finally buried. Later, the great weight of overlying sediment served to distort the specimen.[31]
+Ichnology[edit]
+Dinosaur footprints, that were later attributed to Megapnosaurus were discovered in Zimbabwe in 1915. These tracks were discovered at the Nyamandhlovu Sandstones Formation, in eolian red sandstone that was deposited in the Late Triassic, approximately 235 to 201 million years ago.[32]
+In popular culture[edit]
+In When Dinosaurs Roamed America, a pack of Megapnosaurus (referred to as Syntarsus) attack an Anchisaurus, only to be scared off by a Dilophosaurus.
+References[edit]
+
+
+^ a b Raath (1969). "A new Coelurosaurian dinosaur from the Forest Sandstone of Rhodesia." Arnoldia Rhodesia. 4 (28): 1-25.
+^ Ivie, M. A., S. A. Ślipiński, and P. Węgrzynowicz (2001). "Generic homonyms in the Colydiinae (Coleoptera: Zopheridae)." Insecta Mudi, 15:63-64.
+^ Mortimer, Mickey (2012). "Coelophysoidea". 
+^ Rowe, 1989. A new species of the theropod dinosaur Syntarsus from the Early Jurassic Kayenta Formation of Arizona. Journal of Vertebrate Paleontology. 9, 125-136.
+^ Tykoski, 1998. The osteology of Syntarsus kayentakatae and its implications for ceratosaurid phylogeny. Unpublished Masters Thesis, University of Texas at Austin, 217 pp.
+^ Gay, 2010. Notes on Early Mesozoic theropods. Lulu Press. 44 pp.
+^ Mortimer, Michael. "Coelophysoidea". Retrieved 15 April 2013. 
+^ Hans-Dieter Sues, Sterling J. Nesbitt, David S. Berman and Amy C. Henrici (2011). "A late-surviving basal theropod dinosaur from the latest Triassic of North America". Proceedings of the Royal Society B 278 (1723): 3459–3464
+^ a b Tykoski, R. S., and Rowe, T., 2004, Ceratosauria, Chapter Three: In: The Dinosauria, Second Edition, edited by Weishampel, D.B., Dodson, P., and Osmolska, H., California University Press, p. 47-70.
+^ Yates, A.M. (2005). "A new theropod dinosaur from the Early Jurassic of South Africa and its implications for the early evolution of theropods". Palaeontologia Africana 41:105-122
+^ Bristowe, A. & M.A. Raath (2004). "A juvenile coelophysoid skull from the Early Jurassic of Zimbabwe, and the synonymy of Coelophysis and Syntarsus." Palaeont. Afr., 40: 31-41.
+^ Bristowe, A., A. Parrott, J. Hack, M. Pencharz & M. Raath (2004). "A non-destructive investigation of the skull of the small theropod dinosaur, Coelophysis rhodesiensis, using CT scans and rapid prototyping." Palaeont. Afr. 40: 159-163.
+^ Irmis, R. B., 2004, First report of Megapnosaurus (Theropoda: Coelophysoidea) from China: PaleoBios, v. 24, n. 3, p. 11-18.
+^ D. Munyikwa and M. A. Raath. 1999. Further material of the ceratosaurian dinosaur Syntarsus from the Elliot Formation (Early Jurassic) of South Africa. Palaeontologia Africana 35:55-59
+^ M. A. Raath. 1969. A new coelurosaurian dinosaur from the Forest Sandstone of Rhodesia. Arnoldia (Rhodesia) 4(28):1-254
+^ G. Bond. 1965. Some new fossil localities in the Karroo System of Rhodesia. Arnoldia, Series of Miscellaneous Publications, National Museum of Southern Rhodesia 2(11):1-4
+^ M. A. Raath. 1977. The Anatomy of the Triassic Theropod Syntarsus rhodesiensis (Saurischia: Podokesauridae) and a Consideration of Its Biology. Department of Zoology and Entomology, Rhodes University, Salisbury, Rhodesia 1-233
+^ a b Paul, G. S., 1988, Predatory Dinosaurs of the World, a complete Illustrated guide: New York Academy of sciences book, 464pp.
+^ Harshbarger, J. W.; Repenning, C. A., and Irwin, J. H. (1957). Stratigraphy of the uppermost Triassic and the Jurassic rocks of the Navajo country. Professional Paper 291. Washington, D.C.: U.S. Geological Survey. 
+^ J. M. Clark and D. E. Fastovsky. 1986. Vertebrate biostratigraphy of the Glen Canyon Group in northern Arizona. The Beginning of the Age of the Dinosaurs: Faunal change across the Triassic-Jurassic boundary, N. C. Fraser and H.-D. Sues (eds.), Cambridge University Press 285-301
+^ Lucas, S. G.; Heckert, A. B.; and Tanner, L. H. (2005). "Arizona's Jurassic fossil vertebrates and the age of the Glen Canyon Group". In Heckert, A. B.; and Lucas, S. G. editors. Vertebrate paleontology in Arizona. Bulletin 29. Albuquerque, NM: New Mexico Museum of Natural History and Science. pp. 95–104. 
+^ Jenkins, F. A., Jr., Crompton, A. W., and Downs, W. R. 1983. Mesozoic mammals from Arizona: new evidence in mammalian evolution. Science 222(4629):1233-1235.
+^ Curtis, K., and Padian, K. 1999. An Early Jurassic microvertebrate fauna from the Kayenta Formation of northeastern Arizona: microfaunal change across the Triassic-Jurassic boundary. PaleoBios 19(2):19-37.
+^ Gay, R. 2010. Kayentavenator elysiae, a new tetanuran from the early Jurassic of Arizona. Pages 27-43 in Gay, R. Notes on early Mesozoic theropods. Lulu Press (on-demand online press).
+^ Rowe, T. B., Sues, H.-D., and Reisz, R. R. 2011. Dispersal and diversity in the earliest North American sauropodomorph dinosaurs, with a description of a new taxon. Proceedings of the Royal Society B: Biological Sciences 278(1708):1044-1053.
+^ Hamblin, A. H., and Foster, J. R. 2000. Ancient animal footprints and traces in the Grand Staircase-Escalante National Monument, south-central Utah. Pages 557-568 in Sprinkel, D. A., Chidsey, T. C., Jr., and Anderson, P. B. editors. Geology of Utah’s parks and monuments. Utah Geological Association, Salt Lake City, UT. Publication 28.
+^ Tykoski, R. S., 1998, The Osteology of Syntarsus kayentakatae and its Implications for Ceratosaurid Phylogeny: Theses, The University of Texas, December 1998.
+^ Chinsamy, A. (1994). Dinosaur bone histology: Implications and inferences. In Dino Fest (G. D. Rosenburg and D. L. Wolberg, Eds.), pp. 213-227. The Palentological Society, Department of Geological Sciences, Univ. of Tennessee, Knoxville.
+^ Schmitz, L.; Motani, R. (2011). "Nocturnality in Dinosaurs Inferred from Scleral Ring and Orbit Morphology". Science 332. doi:10.1126/science.1200043. PMID 21493820. 
+^ Molnar, R. E., 2001, Theropod paleopathology: a literature survey: In: Mesozoic Vertebrate Life, edited by Tanke, D. H., and Carpenter, K., Indiana University Press, p. 337-363.
+^ Tykoski, Ron. "Syntarsus kayentakatae Fossil, Theropod Dinosaur". digimorph.org. Retrieved 15 April 2013. 
+^ M. A. Raath. 1972. First record of dinosaur footprints from Rhodesia. Arnoldia 5(37):1-5
+
+
+
+
+
+
+Dinosaurs portal
+
+
+
+
+
+ 
+NewPP limit report
+CPU time usage: 5.612 seconds
+Real time usage: 5.856 seconds
+Preprocessor visited node count: 25113/1000000
+Preprocessor generated node count: 45802/1500000
+Post‐expand include size: 164057/2048000 bytes
+Template argument size: 113982/2048000 bytes
+Highest expansion depth: 39/40
+Expensive parser function count: 1/500
+Lua time usage: 0.059s
+Lua memory usage: 1.59 MB
+
+
+ Saved in parser cache with key enwiki:pcache:idhash:4715147-0!*!0!!en!4!* and timestamp 20131002132805 
+								
+				Retrieved from "http://en.wikipedia.org/w/index.php?title=Megapnosaurus&oldid=573726474"				
+												Categories: Articles needing IPA cleanupCoelophysoidsDinosaurs of AfricaDinosaurs of North AmericaJurassic dinosaursGeology of ZimbabweHidden categories: Articles with 'species' microformatsWikipedia articles with nonstandard pronunciation												
+							
+		
+		
+			Navigation menu
+			
+				
+	Personal tools
+	
+Create accountLog in	
+
+				
+					
+	Namespaces
+	
+					Article
+					Talk
+			
+
+
+	
+		
+	Variants
+	
+		
+					
+	
+
+				
+				
+					
+	Views
+	
+					Read
+					Edit
+					View history
+			
+
+
+	Actions
+	
+		
+					
+	
+
+
+	Search
+	
+				
+																				
+		
+	
+
+				
+			
+			
+					
+				
+	Navigation
+	
+		
+			Main page
+			Contents
+			Featured content
+			Current events
+			Random article
+			Donate to Wikipedia
+		
+	
+
+
+	Interaction
+	
+		
+			Help
+			About Wikipedia
+			Community portal
+			Recent changes
+			Contact page
+		
+	
+
+
+	Toolbox
+	
+		
+			What links here
+			Related changes
+			Upload file
+			Special pages
+			Permanent link
+			Page information
+			Data item
+Cite this page		
+	
+
+
+	Print/export
+	
+		
+			Create a book
+			Download as PDF
+			Printable version
+		
+	
+
+
+	Languages
+	
+		
+			Català
+			Deutsch
+			Español
+			Français
+			한국어
+			Italiano
+			Magyar
+			Nederlands
+			日本語
+			Polski
+			Русский
+			Simple English
+			Slovenčina
+			Svenska
+			中文
+			
+			Edit links
+		
+	
+
+			
+		
+		
+							
+											 This page was last modified on 20 September 2013 at 02:12.
+											Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. 
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+									
+							
+											Privacy policy
+											About Wikipedia
+											Disclaimers
+											Contact Wikipedia
+											Developers
+											Mobile view
+									
+										
+					
+						
+					
+					
+						
+					
+				
+						
+		
+		
+
+
+ Served by mw1105 in 0.199 secs. 
+	
+if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Megapnosaurus","wgTitle":"Megapnosaurus","wgCurRevisionId":573726474,"wgArticleId":4715147,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with 'species' microformats","Wikipedia articles with nonstandard pronunciation","Articles needing IPA cleanup","Coelophysoids","Dinosaurs of Africa","Dinosaurs of North America","Jurassic dinosaurs","Geology of Zimbabwe"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Megapnosaurus","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgVectorEnabledModules":{"collapsiblenav":true,"experiments":true},"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"templateEditor":false,"templates":false,"preview":false,"previewDialog":false,"publish":false,"toc":false},"wgArticleFeedbackv5Permissions":{"aft-reader":true,"aft-member":false,"aft-editor":false,"aft-monitor":false,"aft-administrator":false,"aft-oversighter":false,"aft-noone":false},"wgVisualEditor":{"isPageWatched":false,"magnifyClipIconURL":"//bits.wikimedia.org/static-1.22wmf18/skins/common/images/magnify-clip.png","pageLanguageCode":"en","pageLanguageDir":"ltr"},"wikilove-recipient":"","wikilove-anon":0,"wgGuidedTourHelpGuiderUrl":"Help:Guided tours/guider","wgULSAcceptLanguageList":["en-us","en"],"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia","aftv5Article":{"id":4715147,"title":"Megapnosaurus","namespace":0,"categories":["Articles needing IPA cleanup","Articles with 'species' microformats","Coelophysoids","Dinosaurs of Africa","Dinosaurs of North America","Geology of Zimbabwe","Jurassic dinosaurs","Wikipedia articles with nonstandard pronunciation"],"permissionLevel":false},"wgWikibaseItemId":"Q277277"});
+}if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":false,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,
+"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"useeditwarning":1,"prefershttps":1,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"vector-simplesearch":1,"vector-collapsiblenav":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"aftv5-last-filter":null,"visualeditor-enable":0,"visualeditor-enable-experimental":0,"visualeditor-betatempdisable":0,"wikilove-enabled":1,"echo-subscriptions-web-page-review":true,"echo-subscriptions-email-page-review":false,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"echo-notify-show-link":true,"echo-show-alert":true,"echo-email-frequency":0,"echo-email-format":"html","echo-subscriptions-email-system":true,"echo-subscriptions-web-system":true,"echo-subscriptions-email-other":false,"echo-subscriptions-web-other":true,"echo-subscriptions-email-edit-user-talk":false,"echo-subscriptions-web-edit-user-talk":true,
+"echo-subscriptions-email-reverted":false,"echo-subscriptions-web-reverted":true,"echo-subscriptions-email-article-linked":false,"echo-subscriptions-web-article-linked":false,"echo-subscriptions-email-mention":false,"echo-subscriptions-web-mention":true,"echo-subscriptions-web-edit-thank":true,"echo-subscriptions-email-edit-thank":false,"gettingstarted-task-toolbar-show-intro":true,"uls-preferences":"","language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs446":false,"searchNs447":false
+,"searchNs710":false,"searchNs711":false,"searchNs828":false,"searchNs829":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-mySandbox":1,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:156d8fe0ae17f8afd74198057563e45d */
+}if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","ext.visualEditor.viewPageTarget.init","ext.wikimediaShopLink.core","ext.uls.init","ext.uls.interface","wikibase.client.init","ext.centralNotice.bannerController","skins.vector.js"]);
+}/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}if(window.mw){
+mw.loader.load(["mobile.desktop","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.cite","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","mw.MwEmbedSupport.style","ext.vector.collapsibleNav","ext.articleFeedbackv5.startup","ext.gettingstarted.logging","ext.gettingstarted.openTask","schema.HttpsSupport","ext.coreEvents.httpsSupport","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","mw.PopUpMediaTransform"],null,true);
+}

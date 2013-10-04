@@ -1,0 +1,395 @@
+
+
+
+Nanotyrannus - Wikipedia, the free encyclopedia
+
+
+
+
+
+
+
+
+
+
+
+
+a:lang(ar),a:lang(ckb),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:0de201fdea5d684523607ed88007b127 */
+
+
+
+
+[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.22wmf19/skins/vector/csshover.min.htc")}</style><![endif]
+
+		
+		
+		
+			
+			
+						 CentralNotice 
+						Nanotyrannus
+			
+								From Wikipedia, the free encyclopedia
+								
+												
+					Jump to:					navigation, 					search
+				
+				
+
+
+Nanotyrannus
+Temporal range: Late Cretaceous, 68.5–65.5Ma
+
+PreЄ
+Є
+O
+S
+D
+C
+P
+T
+J
+K
+Pg
+N
+
+
+
+↓
+
+
+
+
+
+
+
+
+
+Cast of the holotype
+
+
+Scientific classification 
+
+
+Kingdom:
+Animalia
+
+
+Phylum:
+Chordata
+
+
+Clade:
+Sauropsida
+
+
+Clade:
+Dinosauria
+
+
+Clade:
+Theropoda
+
+
+Family:
+†Tyrannosauridae
+
+
+Subfamily:
+†Tyrannosaurinae
+
+
+Genus:
+†Nanotyrannus
+Bakker, Currie & Williams, 1988
+
+
+Species:
+† N. lancensis
+
+
+Binomial name
+
+
+Nanotyrannus lancensis
+(Gilmore, 1946 [originally Gorgosaurus])
+
+
+Synonyms
+
+
+
+
+Gorgosaurus lancensis Gilmore, 1946
+Deinodon lancensis (Gilmore, 1946)
+Aublysodon lancensis (Gilmore, 1946)
+Albertosaurus lancensis (Gilmore, 1946)
+
+
+
+
+
+Nanotyrannus ("dwarf tyrant") is a genus of tyrannosaurid dinosaur, known only from two juvenile specimens, which are possibly juvenile specimens of the contemporary species Tyrannosaurus rex.[1]
+
+
+Contents
+
+
+1 History
+2 Differences from Tyrannosaurus rex
+3 References
+4 External links
+
+
+History[edit]
+Nanotyrannus is based on CMN 7541, a skull collected in 1942 by David Hosbrook Dunkle and described by Charles W. Gilmore in 1946, who classified it as a new species in the tyrannosaur genus Gorgosaurus as G. lancensis.[2] In 1988, the specimen was re-described by Robert T. Bakker, Phil Currie, and Michael Williams, then the curator of paleontology at the Cleveland Museum of Natural History, where the original specimen was housed and is currently on display. Their initial research indicated that the skull bones were fused, and that it therefore represented an adult specimen. In light of this, Bakker and colleagues assigned the skull to a new genus, named Nanotyrannus for its apparently small adult size. The specimen is estimated to have been around 5.2 metres (17 ft) long when it died.[3] However, a detailed analysis of the specimen by Thomas Carr in 1999 showed that the specimen was in fact a juvenile, leading Carr and many other paleontologists to consider it a juvenile specimen of Tyrannosaurus rex.[4][5]
+
+
+
+
+Replica of the skull of "Jane", Burpee Museum of Natural History
+
+
+In 2001, a more complete juvenile tyrannosaur (nicknamed "Jane", catalogue number BMRP 2002.4.1), belonging to the same species as the original Nanotyrannus specimen, was uncovered. This discovery prompted a conference on tyrannosaurs focused on the issues of Nanotyrannus validity, held at the Burpee Museum of Natural History in 2005. Several paleontologists who had previously published opinions that N. lancensis was a valid species,[6] including Currie and Williams, saw the discovery of "Jane" as a confirmation that Nanotyrannus was in fact a juvenile T. rex.[1][7] On the other hand, some, such as Peter Larson, continued to support the hypothesis that Nanotyrannus lancensis was a separate but closely related species.[8]
+The actual scientific study of "Jane", set to be published by Bakker, Larson, and Currie, may help determine whether Nanotyrannus is a valid genus, whether it simply represents a juvenile T. rex, or whether it is a new species of a previously identified genus of tyrannosaur.[9]
+Differences from Tyrannosaurus rex[edit]
+
+
+
+
+Illustration of Nanotyrannus.
+
+
+The primary differences that some scientists have used to distinguish Nanotyrannus lancensis from Tyrannosaurus rex primarily concern the number of teeth. Nanotyrannus had more teeth in its upper and lower jaws than an adult Tyrannosaurus. N. lancensis had 14-15 teeth in each side of the upper jaw (maxilla) and 16 teeth in each side of the lower jaw (dentary). T. rex, on the other hand, had 11-12 tooth positions in the upper jaw and 11-14 in the lower. The exact implications of this difference in tooth count has been controversial. In his 1999 study of tyrannosaurid growth patterns, Carr showed that in Gorgosaurus libratus, the number of teeth decreased as the animal grew, and he used this data to support the hypothesis that N. lancensis is simply a juvenile T. rex.[4] The team of scientists who studied growth in the related Tarbosaurus bataar found little to no decrease in tooth count as that species grew, even though they had juvenile specimens much younger than the Nanotyrannus specimens. These researchers also noted, however, that in both Tyrannosaurus and Gorgosaurus, there were significant differences in tooth count between individuals of the same age group, and that tooth count may vary on an individual basis not related to growth.[5] A juvenile Tarbosaurus skull discovered in 2006 exhibits the same tooth count as do adult Tarbosaurus skulls, supporting the retention of Nanotyrannus as a distinct genus.[10]
+Another difference cited by those who support the validity of N. lancensis is the presence of a small foramen, or pit, in the quadratojugal, a bone in the back corner of the skull. Both the holotype and the "Jane" specimen have this feature, suggesting it is not a deformity, and it is not known in any adult tyrannosaurid specimens. It is possible that this is again an individual variant, or that it was a feature lost as the animals grew, though studies of other juvenile tyrannosaurids do not show an equivalent feature.[5]
+References[edit]
+
+
+^ a b Currie, Henderson, Horner and Williams (2005). "On tyrannosaur teeth, tooth positions and the taxonomic status of Nanotyrannus lancensis." In "The origin, systematics, and paleobiology of Tyrannosauridae”, a symposium hosted jointly by Burpee Museum of Natural History and Northern Illinois University.
+^ Gilmore, C.W. (1946). "A new carnivorous dinosaur from the Lance Formation of Montana." Smithsonian Miscellaneous Collections, 106: 1–19.
+^ Bakker, Williams, and Currie (1988). "Nanotyrannus, a new genus of pygmy tyrannosaur, from the latest Cretaceous of Montana." Hunteria, 1: 1–30.
+^ a b Carr, T.D. (1999). "Craniofacial ontogeny in Tyrannosauridae (Dinosauria, Coelurosauria)." Journal of Vertebrate Paleontology, 19: 497–520.
+^ a b c Tsuihiji, T., Watabe, M., Tsogtbaatar, K., Tsubamoto, T., Barsbold, R., Suzuki, S., Lee, A.H., Ridgely, R.C., Kawahara, Y. and Witmer, L.M. (2011). "Cranial osteology of a juvenile specimen of Tarbosaurus bataar from the Nemegt Formation (Upper Cretaceous) of Bugin Tsav, Mongolia." Journal of Vertebrate Paleontology, 31(3): 497-517. doi:10.1080/02724634.2011.557116
+^ Currie, P.J. (2003a). "Cranial anatomy of tyrannosaurid dinosaurs from the Late Cretaceous of Alberta, Canada." Acta Palaeontologica Polonica, 48: 191–226.
+^ Henderson (2005). "Nano No More: The death of the pygmy tyrant." In "The origin, systematics, and paleobiology of Tyrannosauridae”, a symposium hosted jointly by Burpee Museum of Natural History and Northern Illinois University.
+^ Larson (2005). "A case for Nanotyrannus." In "The origin, systematics, and paleobiology of Tyrannosauridae”, a symposium hosted jointly by Burpee Museum of Natural History and Northern Illinois University.
+^ Mortimer, M (2004). "Tyrannosauroidea". The Theropod Database. Retrieved 2007-08-21. 
+^ Tsuihiji, Takanobu; Mahito Watabe, Khishigjav Tsogtbaatar, Takehisa Tsubamoto, Rinchen Barsbold, Shigeru Suzuki, Andrew H. Lee, Ryan C. Ridgely, Yasuhiro Kawahara, Lawrence M. Witmer (2011-05-01). "Cranial Osteology of a Juvenile Specimen of Tarbosaurus bataar (Theropoda, Tyrannosauridae) from the Nemegt Formation (Upper Cretaceous) of Bugin Tsav, Mongolia". Journal of Vertebrate Paleontology 31 (3): 497–517. doi:10.1080/02724634.2011.557116. 
+
+
+External links[edit]
+
+TEDx talk by Jack Horner on shape-shifting dinosaur skulls and dinosaur misclassification.
+"Jane" juvenile tyrannosaur on Cleveland Museum of Natural History
+Discovery Channel 2006 'The Mystery Dinosaur'
+
+
+
+
+
+Dinosaurs portal
+
+
+
+
+
+ 
+NewPP limit report
+CPU time usage: 4.624 seconds
+Real time usage: 4.870 seconds
+Preprocessor visited node count: 27328/1000000
+Preprocessor generated node count: 39790/1500000
+Post‐expand include size: 115784/2048000 bytes
+Template argument size: 109742/2048000 bytes
+Highest expansion depth: 39/40
+Expensive parser function count: 0/500
+Lua time usage: 0.039s
+Lua memory usage: 1.42 MB
+
+
+ Saved in parser cache with key enwiki:pcache:idhash:2817885-0!*!0!!en!4!* and timestamp 20131002085600 
+								
+				Retrieved from "http://en.wikipedia.org/w/index.php?title=Nanotyrannus&oldid=572611626"				
+												Categories: Cretaceous dinosaursDinosaurs of North AmericaTyrannosaursHidden categories: Articles with 'species' microformats												
+							
+		
+		
+			Navigation menu
+			
+				
+	Personal tools
+	
+Create accountLog in	
+
+				
+					
+	Namespaces
+	
+					Article
+					Talk
+			
+
+
+	
+		
+	Variants
+	
+		
+					
+	
+
+				
+				
+					
+	Views
+	
+					Read
+					Edit
+					View history
+			
+
+
+	Actions
+	
+		
+					
+	
+
+
+	Search
+	
+				
+																				
+		
+	
+
+				
+			
+			
+					
+				
+	Navigation
+	
+		
+			Main page
+			Contents
+			Featured content
+			Current events
+			Random article
+			Donate to Wikipedia
+		
+	
+
+
+	Interaction
+	
+		
+			Help
+			About Wikipedia
+			Community portal
+			Recent changes
+			Contact page
+		
+	
+
+
+	Toolbox
+	
+		
+			What links here
+			Related changes
+			Upload file
+			Special pages
+			Permanent link
+			Page information
+			Data item
+Cite this page		
+	
+
+
+	Print/export
+	
+		
+			Create a book
+			Download as PDF
+			Printable version
+		
+	
+
+
+	Languages
+	
+		
+			Català
+			Česky
+			Deutsch
+			Ελληνικά
+			Español
+			Esperanto
+			Français
+			한국어
+			Italiano
+			Magyar
+			Nederlands
+			日本語
+			Polski
+			Português
+			Русский
+			Slovenčina
+			Suomi
+			Svenska
+			Tiếng Việt
+			中文
+			
+			Edit links
+		
+	
+
+			
+		
+		
+							
+											 This page was last modified on 12 September 2013 at 11:47.
+											Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. 
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+									
+							
+											Privacy policy
+											About Wikipedia
+											Disclaimers
+											Contact Wikipedia
+											Developers
+											Mobile view
+									
+										
+					
+						
+					
+					
+						
+					
+				
+						
+		
+		
+
+
+ Served by mw1111 in 0.194 secs. 
+	
+if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Nanotyrannus","wgTitle":"Nanotyrannus","wgCurRevisionId":572611626,"wgRevisionId":572611626,"wgArticleId":2817885,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with 'species' microformats","Cretaceous dinosaurs","Dinosaurs of North America","Tyrannosaurs"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Nanotyrannus","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgVectorEnabledModules":{"collapsiblenav":true,"experiments":true},"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"templateEditor":false,"templates":false,"preview":false,"previewDialog":false,"publish":false,"toc":false},"wgArticleFeedbackv5Permissions":{"aft-reader":true,"aft-member":false,"aft-editor":false,"aft-monitor":false,"aft-administrator":false,"aft-oversighter":false,"aft-noone":false},"wgVisualEditor":{"isPageWatched":false,"magnifyClipIconURL":"//bits.wikimedia.org/static-1.22wmf19/skins/common/images/magnify-clip.png","pageLanguageCode":"en","pageLanguageDir":"ltr"},"wikilove-recipient":"","wikilove-anon":0,"wgGuidedTourHelpGuiderUrl":"Help:Guided tours/guider","wgULSAcceptLanguageList":[],"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia","aftv5Article":{"id":2817885,"title":"Nanotyrannus","namespace":0,"categories":["Articles with 'species' microformats","Cretaceous dinosaurs","Dinosaurs of North America","Tyrannosaurs"],"permissionLevel":false},"wgWikibaseItemId":"Q131673"});
+}if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":false,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,
+"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"useeditwarning":1,"prefershttps":1,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"vector-simplesearch":1,"vector-collapsiblenav":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"aftv5-last-filter":null,"visualeditor-enable":0,"visualeditor-enable-experimental":0,"visualeditor-betatempdisable":0,"wikilove-enabled":1,"echo-subscriptions-web-page-review":true,"echo-subscriptions-email-page-review":false,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"echo-notify-show-link":true,"echo-show-alert":true,"echo-email-frequency":0,"echo-email-format":"html","echo-subscriptions-email-system":true,"echo-subscriptions-web-system":true,"echo-subscriptions-email-other":false,"echo-subscriptions-web-other":true,"echo-subscriptions-email-edit-user-talk":false,"echo-subscriptions-web-edit-user-talk":true,
+"echo-subscriptions-email-reverted":false,"echo-subscriptions-web-reverted":true,"echo-subscriptions-email-article-linked":false,"echo-subscriptions-web-article-linked":false,"echo-subscriptions-email-mention":false,"echo-subscriptions-web-mention":true,"echo-subscriptions-web-edit-thank":true,"echo-subscriptions-email-edit-thank":false,"gettingstarted-task-toolbar-show-intro":true,"uls-preferences":"","language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs446":false,"searchNs447":false
+,"searchNs710":false,"searchNs711":false,"searchNs828":false,"searchNs829":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-mySandbox":1,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:156d8fe0ae17f8afd74198057563e45d */
+}if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","ext.visualEditor.viewPageTarget.init","ext.wikimediaShopLink.core","ext.uls.init","ext.uls.interface","wikibase.client.init","ext.centralNotice.bannerController","skins.vector.js"]);
+}/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}if(window.mw){
+mw.loader.load(["mobile.desktop","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.cite","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","mw.MwEmbedSupport.style","ext.vector.collapsibleNav","ext.articleFeedbackv5.startup","schema.HttpsSupport","ext.coreEvents.httpsSupport","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","mw.PopUpMediaTransform"],null,true);
+}

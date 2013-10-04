@@ -1,0 +1,405 @@
+
+
+
+Astrodon - Wikipedia, the free encyclopedia
+
+
+
+
+
+
+
+
+
+
+
+
+a:lang(ar),a:lang(ckb),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:0de201fdea5d684523607ed88007b127 */
+
+
+
+
+[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.22wmf19/skins/vector/csshover.min.htc")}</style><![endif]
+
+		
+		
+		
+			
+			
+						 CentralNotice 
+						Astrodon
+			
+								From Wikipedia, the free encyclopedia
+								
+												
+					Jump to:					navigation, 					search
+				
+				
+
+
+Astrodon
+Temporal range: Early Cretaceous, 112Ma
+
+PreЄ
+Є
+O
+S
+D
+C
+P
+T
+J
+K
+Pg
+N
+
+
+
+↓
+
+
+
+
+
+
+
+
+
+Life restoration
+
+
+Scientific classification 
+
+
+Kingdom:
+Animalia
+
+
+Phylum:
+Chordata
+
+
+Clade:
+Sauropsida
+
+
+Clade:
+Dinosauria
+
+
+Suborder:
+†Sauropodomorpha
+
+
+Clade:
+†Titanosauriformes
+
+
+Family:
+†Pleurocoelidae
+Marsh, 1888
+
+
+Genus:
+†Astrodon
+Johnston, 1859
+
+
+Species:
+† A. johnstoni
+
+
+Binomial name
+
+
+Astrodon johnstoni
+Leidy, 1865
+
+
+Synonyms
+
+
+
+
+Pleurocoelus nanus? Marsh, 1888
+Pleurocoelus altus? Marsh, 1888
+
+
+
+
+
+Astrodon (aster: star, odon: tooth) is a genus of large herbivorous sauropod dinosaur, related to Brachiosaurus, that lived in what is now the eastern United States during the Early Cretaceous period. Its fossils have been found in the Arundel Formation, which has been dated through palynomorphs to the Aptian-Albian boundary, about 112 million years ago.[1] Adults are estimated to have been more than 9 m (30 ft) high and 15 to 18 m (50 to 60 ft) long.
+
+
+Contents
+
+
+1 Discovery and species
+2 Cultural references
+3 References
+4 External links
+
+
+Discovery and species[edit]
+
+
+
+
+Plate XIII from Cretaceous Reptiles of the United States, showing teeth of Astrodon on the bottom left
+
+
+Two dinosaur teeth were late November 1858 received by chemist Philip Thomas Tyson from John D. Latchford. They had been found in Latchford's open iron ore pit in the Arundel Formation at Swampoodle near Muirkirk in Prince George's County, Maryland. Tyson let them be studied by the dentist Christopher Johnston, professor at the Baltimore Dental College, who cut one tooth in half and thereby discovered a characteristic star-formed cross-section. Johnston named Astrodon in 1859. However, he did not attach a specific epithet, so Joseph Leidy is credited with naming Astrodon johnstoni (the type species) in 1865, with as holotype specimen YPM 798. If Johnston had attached a specific epithet, it would have been the second dinosaur species identified in the United States. Johnston incorrectly stated that the site of the discovery had been an iron mine near the town of Bladensburg.
+In 1888, O.C. Marsh named some bones from the Arundel found near Muirkirk, Maryland Pleurocoelus nanus and P. altus. However, in 1903 John Bell Hatcher, taking into account the similarity of the teeth of Astrodon johnstoni and the teeth from the Arundel Formation referred to Pleurocoelus nanus, argued that the latter represents the same species as the former and that the name Astrodon therefore had priority.[2] In 1921 Charles W. Gilmore agreed that the genus Pleurocoelus is a junior synonym of Astrodon, but at the same time kept P. nanus and P. altus as separate species of Astrodon. Other species at one time assigned to the genus include Astrodon valdensis[3] and Astrodon pussilus.[4] In 1962 R.F. Kingham assigned Brachiosaurus, including all its species, to Astrodon as a subgenus.[5] Carpenter and Tidwell (2005) accepted Hatcher's argument that there is only one species of sauropod dinosaur known from the Arundel Formation and that Astrodon johnstoni is the senior synonym of Pleurocoelus nanus (as well as P. altus) in the first in-depth description of this dinosaur. Interestingly, the majority of the bones of Astrodon are of juveniles, and Carpenter and Tidwell considered the two species named by Marsh, P. nanus and P. altus, as different growth stages of Astrodon johnstoni.[1]
+However, other authors did not find the argument in favor of the synonymization of Astrodon and Pleurocoelus so convincing. According to Peter Rose (2007) it has not been demonstrated that either the teeth of Astrodon johnstoni or those attributed to Pleurocoelus are "morphologically diagnostic among titanosauriforms", which limits their utility when it comes to distinguishing them from the teeth of other taxa. The type series of Pleurocoelus nanus and P. altus (four vertebrae and two hindlimbs bones, respectively) cannot be directly compared to the teeth from the type series of Astrodon, so any comparison has to be conducted based on the referred specimens of Pleurocoelus. These, however, are all isolated bones from the Arundel Formation, which themselves were referred to Pleurocoelus only based "on proximity of the localities and the size of the bones". Rose concludes that, as Astrodon is not based on the diagnostic material, "new discoveries should not be aligned with that genus" and that "the argument to synonymize the two taxa, Astrodon and Pleurocoelus, seems unfounded". The type material of Pleurocoelus may not be diagnostic as well, according to the author.[6]
+
+
+
+
+Vertebrae of P. nanus
+
+
+A similar argument was made by Michael D. D’Emic (2012). The author did not find any diagnostic features of the type material of Astrodon johnstoni, Pleurocoelus nanus and P. altus and considered the three taxa to be nomina dubia; according to the author there is no direct evidence that any sauropod bones from the Arundel Formation other than their type series can be referred to these taxa. D’Emic also stated that the exact provenance of the bones from the type series of Pleurocoelus nanus is uncertain and thus "these bones could represent a chimera of individuals or taxa". The author also commented on the diagnosis of Astrodon johnstoni proposed by Carpenter and Tidwell (which was based on all of the sauropod material from the Arundel Formation, not only on the teeth from the type series); he claimed that most of the supposed autapomorphies of this taxon "are indistinguishable compared to other sauropods such as Camarasaurus (...) and/or are related to the juvenile nature of the material".[7]
+Cultural references[edit]
+In 1998, Astrodon johnstoni was named the state dinosaur of Maryland. Astrodon also appears in the novel Raptor Red by Robert T. Bakker, as prey of Utahraptor.
+References[edit]
+
+
+^ a b Carpenter, Kenneth and Tidwell, Virginia (2005). "Reassessment of the Early Cretaceous Sauropod Astrodon johnstoni Leidy 1865 (Titanosauriformes)". In Carpenter, Kenneth and Tidswell, Virginia (ed.). Thunder Lizards: The Sauropodomorph Dinosaurs. Indiana University Press. pp. 38–77. ISBN 978-0-253-34542-4. 
+^ Hatcher, John Bell (1903). "Discovery of remains of Astrodon (Pleurocoelus) in the Atlantosaurus beds of Wyoming". Annals of the Carnegie Museum of Natural History 2: 9–14. 
+^ W.E. Swinton, 1936, "The dinosaurs of the Isle of Wight", Proceedings of the Geologists' Association 47(3): 204-220
+^ Lapparent, A.F. de, & Zbyszewski, G., 1957, Les Dinosauriens du Portugal, Mémoires des Services Geologiques du Portugal. Nouvelle série, numéro 2, 63 pp
+^ Kingham, R.F., 1962, "Studies of the sauropod dinosaur Astrodon Leidy", Proceedings of the Washington Junior Academy of Sciences, 1: 38-44
+^ Rose, Peter J. (2007). "A new titanosauriform sauropod (Dinosauria: Saurischia) from the Early Cretaceous of central Texas and its phylogenetic relationships". Palaeontologia Electronica 10 (2): 8A. 
+^ d’Emic, M. D. (2012). "Revision of the sauropod dinosaurs of the Lower Cretaceous Trinity Group, southern USA, with the description of a new genus". Journal of Systematic Palaeontology: 1–0. doi:10.1080/14772019.2012.667446.  edit
+
+
+
+Johnston, C., 1859, "Note on odontography," Amer. Journal Dental Sci. 9:337-343.
+
+
+Kranz, P.M. 1996, "Notes on the Sedimentary Iron Ores of Maryland and their Dinosaurian Fauna", in Maryland Geological Survey Special Publication No. 3, pp. 87–115.
+
+
+Leidy, J 1865, Memoir on the extinct reptiles of the Cretaceous formations of the United States. Smithson. Contrib. Knowl. XIV: atr. VI: 1-135.
+
+
+Lucas, F.A. 1904, "Paleontological notes," Science (n.s.) XIX (480): 436-437.
+
+
+Lull, R.S. 1911, "The Reptillian Fauna of the Arundel Formation" and "Systematic Paleontology of the Lower Cretaceous Deposits of Maryland -Dinosauria", Lower Cretaceous : Maryland Geological Survey Systematic Reports, pp. 173–178, 183-211.
+
+
+Marsh, O.C. 1888, "Notice of a New Genus of Sauropoda and Other New Dinosaurs from the Potomac Group," American Journal of Science, 3rd Series, Vol. XXXV, pp. 89–94.
+
+External links[edit]
+
+
+
+
+Dinosaurs portal
+
+
+
+
+Astrodon at DinoData
+Maryland State Archives
+
+
+
+ 
+NewPP limit report
+CPU time usage: 4.368 seconds
+Real time usage: 4.570 seconds
+Preprocessor visited node count: 27833/1000000
+Preprocessor generated node count: 41234/1500000
+Post‐expand include size: 124977/2048000 bytes
+Template argument size: 109515/2048000 bytes
+Highest expansion depth: 39/40
+Expensive parser function count: 1/500
+Lua time usage: 0.035s
+Lua memory usage: 1.58 MB
+
+
+ Saved in parser cache with key enwiki:pcache:idhash:4419315-0!*!0!!en!4!* and timestamp 20131002103221 
+								
+				Retrieved from "http://en.wikipedia.org/w/index.php?title=Astrodon&oldid=570461188"				
+												Categories: Cretaceous dinosaursDinosaurs of North AmericaSauropodsSymbols of MarylandHidden categories: Articles with 'species' microformats												
+							
+		
+		
+			Navigation menu
+			
+				
+	Personal tools
+	
+Create accountLog in	
+
+				
+					
+	Namespaces
+	
+					Article
+					Talk
+			
+
+
+	
+		
+	Variants
+	
+		
+					
+	
+
+				
+				
+					
+	Views
+	
+					Read
+					Edit
+					View history
+			
+
+
+	Actions
+	
+		
+					
+	
+
+
+	Search
+	
+				
+																				
+		
+	
+
+				
+			
+			
+					
+				
+	Navigation
+	
+		
+			Main page
+			Contents
+			Featured content
+			Current events
+			Random article
+			Donate to Wikipedia
+		
+	
+
+
+	Interaction
+	
+		
+			Help
+			About Wikipedia
+			Community portal
+			Recent changes
+			Contact page
+		
+	
+
+
+	Toolbox
+	
+		
+			What links here
+			Related changes
+			Upload file
+			Special pages
+			Permanent link
+			Page information
+			Data item
+Cite this page		
+	
+
+
+	Print/export
+	
+		
+			Create a book
+			Download as PDF
+			Printable version
+		
+	
+
+
+	Languages
+	
+		
+			Català
+			Česky
+			Deutsch
+			Español
+			Français
+			Italiano
+			עברית
+			Magyar
+			മലയാളം
+			Nederlands
+			Polski
+			Português
+			Simple English
+			Slovenčina
+			Svenska
+			Volapük
+			中文
+			
+			Edit links
+		
+	
+
+			
+		
+		
+							
+											 This page was last modified on 27 August 2013 at 23:03.
+											Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. 
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+									
+							
+											Privacy policy
+											About Wikipedia
+											Disclaimers
+											Contact Wikipedia
+											Developers
+											Mobile view
+									
+										
+					
+						
+					
+					
+						
+					
+				
+						
+		
+		
+
+
+ Served by mw1020 in 0.239 secs. 
+	
+if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Astrodon","wgTitle":"Astrodon","wgCurRevisionId":570461188,"wgRevisionId":570461188,"wgArticleId":4419315,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with 'species' microformats","Cretaceous dinosaurs","Dinosaurs of North America","Sauropods","Symbols of Maryland"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Astrodon","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgVectorEnabledModules":{"collapsiblenav":true,"experiments":true},"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"templateEditor":false,"templates":false,"preview":false,"previewDialog":false,"publish":false,"toc":false},"wgArticleFeedbackv5Permissions":{"aft-reader":false,"aft-member":false,"aft-editor":false,"aft-monitor":false,"aft-administrator":false,"aft-oversighter":false,"aft-noone":false},"wgVisualEditor":{"isPageWatched":false,"magnifyClipIconURL":"//bits.wikimedia.org/static-1.22wmf19/skins/common/images/magnify-clip.png","pageLanguageCode":"en","pageLanguageDir":"ltr"},"wikilove-recipient":"","wikilove-anon":0,"wgGuidedTourHelpGuiderUrl":"Help:Guided tours/guider","wgULSAcceptLanguageList":[],"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia","aftv5Article":{"id":4419315,"title":"Astrodon","namespace":0,"categories":["Articles with 'species' microformats","Cretaceous dinosaurs","Dinosaurs of North America","Sauropods","Symbols of Maryland"],"permissionLevel":false},"wgWikibaseItemId":"Q128194"});
+}if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":false,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,
+"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"useeditwarning":1,"prefershttps":1,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"vector-simplesearch":1,"vector-collapsiblenav":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"aftv5-last-filter":null,"visualeditor-enable":0,"visualeditor-enable-experimental":0,"visualeditor-betatempdisable":0,"wikilove-enabled":1,"echo-subscriptions-web-page-review":true,"echo-subscriptions-email-page-review":false,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"echo-notify-show-link":true,"echo-show-alert":true,"echo-email-frequency":0,"echo-email-format":"html","echo-subscriptions-email-system":true,"echo-subscriptions-web-system":true,"echo-subscriptions-email-other":false,"echo-subscriptions-web-other":true,"echo-subscriptions-email-edit-user-talk":false,"echo-subscriptions-web-edit-user-talk":true,
+"echo-subscriptions-email-reverted":false,"echo-subscriptions-web-reverted":true,"echo-subscriptions-email-article-linked":false,"echo-subscriptions-web-article-linked":false,"echo-subscriptions-email-mention":false,"echo-subscriptions-web-mention":true,"echo-subscriptions-web-edit-thank":true,"echo-subscriptions-email-edit-thank":false,"gettingstarted-task-toolbar-show-intro":true,"uls-preferences":"","language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs446":false,"searchNs447":false
+,"searchNs710":false,"searchNs711":false,"searchNs828":false,"searchNs829":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-mySandbox":1,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:156d8fe0ae17f8afd74198057563e45d */
+}if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","ext.visualEditor.viewPageTarget.init","ext.wikimediaShopLink.core","ext.uls.init","ext.uls.interface","wikibase.client.init","ext.centralNotice.bannerController","skins.vector.js"]);
+}/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}if(window.mw){
+mw.loader.load(["mobile.desktop","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.cite","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","mw.MwEmbedSupport.style","ext.vector.collapsibleNav","ext.articleFeedbackv5.startup","ext.gettingstarted.logging","ext.gettingstarted.openTask","schema.HttpsSupport","ext.coreEvents.httpsSupport","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","mw.PopUpMediaTransform"],null,true);
+}

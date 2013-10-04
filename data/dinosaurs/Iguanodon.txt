@@ -1,0 +1,935 @@
+
+
+
+Iguanodon - Wikipedia, the free encyclopedia
+
+
+
+
+
+
+
+
+
+
+
+
+a:lang(ar),a:lang(ckb),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:0de201fdea5d684523607ed88007b127 */
+
+
+
+
+[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.22wmf19/skins/vector/csshover.min.htc")}</style><![endif]
+
+		
+		
+		
+			
+			
+						 CentralNotice 
+						Iguanodon
+			
+								From Wikipedia, the free encyclopedia
+								
+												
+					Jump to:					navigation, 					search
+				
+				
+
+
+
+Iguanodon
+Temporal range: Early Cretaceous, 126–125Ma
+
+PreЄ
+Є
+O
+S
+D
+C
+P
+T
+J
+K
+Pg
+N
+
+
+
+↓
+
+
+
+
+
+
+
+
+
+I. bernissartensis mounted in a modern quadrupedal posture, Royal Belgian Institute of Natural Sciences, Brussels
+
+
+Scientific classification 
+
+
+Kingdom:
+Animalia
+
+
+Phylum:
+Chordata
+
+
+Clade:
+Sauropsida
+
+
+Clade:
+Dinosauria
+
+
+Order:
+†Ornithischia
+
+
+Clade:
+†Ornithopoda
+
+
+Clade:
+†Hadrosauriformes
+
+
+Superfamily:
+†Iguanodontoidea
+Cope, 1869
+
+
+Family:
+†Iguanodontidae
+Cope, 1869
+
+
+Genus:
+†Iguanodon
+Mantell, 1825
+
+
+Type species
+
+
+†Iguanodon bernissartensis
+Boulenger, 1881
+
+
+Species
+
+
+
+† †I. bernissartensis Boulenger, 1881
+†I. ottingeri? Galton and Jensen, 1979
+
+
+
+Synonyms
+
+
+
+Iguanosaurus? Ritgen, 1828
+Hikanodon? Keferstein, 1834
+
+
+
+
+Iguanodon (/ɨˈɡwɑːnədɒn/ i-GWAH-nə-don; meaning "iguana-tooth") is a genus of ornithopod dinosaurs that existed roughly halfway between the first of the swift bipedal hypsilophodontids of the mid-Jurassic and the duck-billed dinosaurs of the late Cretaceous. While many species have been classified in the genus Iguanodon, dating from the late Jurassic Period to the late Cretaceous Period of Asia, Europe, and North America, research in the first decade of the 21st century suggests that there is only one well-substantiated species: I. bernissartensis, which lived from the late Barremian to the earliest Aptian ages[1] (Early Cretaceous) in Belgium and possibly elsewhere in Europe, between about 126 and 125 million years ago. Iguanodon were large, bulky herbivores. Distinctive features include large thumb spikes, which were possibly used for defence against predators, combined with long prehensile fifth fingers able to forage for food.
+The genus was named in 1825 by English geologist Gideon Mantell, based on fossil specimens that are now assigned to different genera and species. Iguanodon was the second type of dinosaur formally named based on fossil specimens, after Megalosaurus. Together with Megalosaurus and Hylaeosaurus, it was one of the three genera originally used to define Dinosauria. The genus Iguanodon belongs to the larger group Iguanodontia, along with the duck-billed hadrosaurs. The taxonomy of this genus continues to be a topic of study as new species are named or long-standing ones reassigned to other genera.
+Scientific understanding of Iguanodon has evolved over time as new information has been obtained from fossils. The numerous specimens of this genus, including nearly complete skeletons from two well-known bonebeds, have allowed researchers to make informed hypotheses regarding many aspects of the living animal, including feeding, movement, and social behaviour. As one of the first scientifically well-known dinosaurs, Iguanodon has occupied a small but notable place in the public's perception of dinosaurs, its artistic representation changing significantly in response to new interpretations of its remains.
+
+
+Contents
+
+
+1 Description
+2 Classification and origins
+3 Biology
+
+3.1 Feeding and diet
+3.2 Posture and movement
+3.3 Thumb spike
+3.4 Possible social behaviour
+3.5 Paleopathology
+
+
+4 Discovery and history
+
+4.1 Gideon Mantell, Sir Richard Owen, and the discovery of dinosaurs
+4.2 Bernissart
+4.3 To the present: Worldwide finds
+
+
+5 Species
+
+5.1 Species currently accepted as valid
+5.2 Reassigned species
+5.3 Dubious species
+
+
+6 In popular culture
+7 References
+8 External links
+
+
+Description[edit]
+
+
+
+
+I. bernissartensis compared in size to a human
+
+
+Iguanodon were bulky herbivores that could shift from bipedality to quadrupedality.[2] The only well-supported species, I. bernissartensis, is estimated to have weighed about 3 tonnes (3.5 tons) on average,[3] and measured about 10 metres long (33 ft) as an adult, with some specimens possibly as long as 13 metres (43 ft).[4] These animals had large, tall but narrow skulls, with toothless beaks probably covered with keratin, and teeth like those of iguanas, but much larger and more closely packed.[2]
+The arms of I. bernissartensis were long (up to 75% the length of the legs) and robust,[4] with rather inflexible hands built so that the three central fingers could bear weight.[2] The thumbs were conical spikes that stuck out away from the three main digits. In early restorations, the spike was placed on the animal's nose. Later fossils revealed the true nature of the thumb spikes,[5] although their exact function is still debated. They could have been used for defense, or for foraging for food. The little finger was elongated and dextrous, and could have been used to manipulate objects. The phalangeal formula is 2-3-3-2-4, meaning that the innermost finger (phalange) has two bones, the next has three, etc.[6] The legs were powerful, but not built for running, and each foot had three toes. The backbone and tail were supported and stiffened by ossified tendons, which were tendons that turned to bone during life (these rod-like bones are usually omitted from skeletal mounts and drawings).[2] Overall, in body structure, it was not too dissimilar from its later relatives, the hadrosaurids.
+Classification and origins[edit]
+Main article: Iguanodont
+Iguanodon gives its name to the unranked clade Iguanodontia, a very populous group of ornithopods with many species known from the Middle Jurassic to the Late Cretaceous. Aside from Iguanodon, the best-known members of the clade include Dryosaurus, Camptosaurus, Ouranosaurus, and the duck-bills, or hadrosaurs. In older sources, Iguanodontidae was shown as a distinct family.[7][8] This family traditionally has been something of a wastebasket taxon, including ornithopods that were neither hypsilophodontids or hadrosaurids. In practice, animals like Callovosaurus, Camptosaurus, Craspedodon, Kangnasaurus, Mochlodon, Muttaburrasaurus, Ouranosaurus, and Probactrosaurus were usually assigned to this family.[8] With the advent of cladistic analyses, Iguanodontidae as traditionally construed was shown to be paraphyletic, and these animals are recognised to fall at different points in relation to hadrosaurs on a cladogram, instead of in a single distinct clade.[2][9] Essentially, the modern concept of Iguanodontidae currently includes only Iguanodon. Groups like Iguanodontoidea are still used as unranked clades in the scientific literature, though many traditional iguanodontids are now included in the superfamily Hadrosauroidea. Iguanodon lies between Camptosaurus and Ouranosaurus in cladograms, and is probably descended from a camptosaur-like animal.[2] At one point, Jack Horner suggested, based mostly on skull features, that hadrosaurids actually formed two more distantly related groups, with Iguanodon on the line to the flat-headed hadrosaurines, and Ouranosaurus on the line to the crested lambeosaurines,[10] but his proposal has been rejected.[2][9]
+
+
+
+
+Modern restoration showing Iguanodon in quadrupedal pose
+
+
+Below is a simplified cladogram of Iguanodontia, drawn after Norman (2004).[2]
+
+
+
+
+Hypsilophodon
+
+
+
+
+
+
+Iguanodontia
+
+
+
+
+
+Tenontosaurus
+
+
+
+
+
+
+
+
+
+
+
+
+Zalmoxes
+
+
+
+
+
+
+
+
+
+
+
+
+Dryosaurus
+
+
+
+
+
+
+
+
+
+
+
+
+Camptosaurus
+
+
+
+
+
+
+Iguanodontoidea
+
+
+
+
+
+Iguanodon
+
+
+
+
+
+
+
+
+
+
+
+
+Ouranosaurus
+
+
+
+
+
+
+
+
+
+
+
+
+Altirhinus
+
+
+
+
+
+
+
+
+
+
+
+
+Probactrosaurus
+
+
+
+
+
+
+
+
+Hadrosauridae
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Biology[edit]
+Feeding and diet[edit]
+
+
+
+
+I. bernissartensis skull and neck
+
+
+One of the first details noted about Iguanodon was that it had the teeth of a herbivorous reptile,[11] although there has not always been consensus on how it ate. As Mantell noted, the remains he was working with were unlike any modern reptile, especially in the toothless, scoop-shaped form of the lower jaw symphysis, which he found best compared to that of the two-toed sloth and the extinct ground sloth Mylodon. He also suggested that Iguanodon had a prehensile tongue which could be used to gather food,[12] like a giraffe. More complete remains have shown this to be an error; for example, the hyoid bones that supported the tongue are heavily built, implying a muscular, non-prehensile tongue used for moving food around in the mouth.[13] The giraffe-tongue idea has also been incorrectly attributed to Dollo via a broken lower jaw.[14]
+Iguanodon teeth are, as the name suggests, like those of an iguana, but larger. Unlike hadrosaurids, which had columns of replacement teeth, Iguanodon only had one replacement tooth at a time for each position. The upper jaw held up to 29 teeth per side, with none at the front of the jaw, and the lower jaw 25; the numbers differ because teeth in the lower jaw are broader than those in the upper.[9] Because the tooth rows are deeply inset from the outside of the jaws, and because of other anatomical details, it is believed that, as with most other ornithischians, Iguanodon had some sort of cheek-like structure, muscular or non-muscular, to retain food in the mouth.[15][16]
+
+
+
+
+The hand in Brussels; the extended digit is the prehensile fifth finger
+
+
+The skull was structured in such a way that as it closed, the bones holding the teeth in the upper jaw would bow out. This would cause the lower surfaces of the upper jaw teeth to rub against the upper surface of the lower jaw's teeth, grinding anything caught in between and providing an action that is the rough equivalent of mammalian chewing.[17] Because the teeth were always replaced, the animal could have used this mechanism throughout its life, and could eat tough plant material.[18] Additionally, the front ends of the animal's jaws were toothless and tipped with bony nodes, both upper and lower,[2] providing a rough margin that was likely covered and lengthened by a keratinous material to form a cropping beak for biting off twigs and shoots.[5] Its food gathering would have been aided by its flexible little finger, which could have been used to manipulate objects, unlike the other fingers.[2]
+Exactly what Iguanodon ate with its well-developed jaws is not known. The size of the larger species, such as I. bernissartensis, would have allowed them access to food from ground level to tree foliage at 4–5 metres high (13–16.5 ft).[4] A diet of horsetails, cycads, and conifers was suggested by David Norman,[5] although iguanodonts in general have been tied to the advance of angiosperm plants in the Cretaceous due to the dinosaurs' inferred low browsing habits. Angiosperm growth, according to this hypothesis, would have been encouraged by iguanodont feeding because gymnosperms would be removed, allowing more space for the weed-like early angiosperms to grow.[19] The evidence is not conclusive, though.[2][20] Whatever its exact diet, due to its size and abundance, Iguanodon is regarded as a dominant medium to large herbivore for its ecological communities.[2] In England, this included the small predator Aristosuchus, larger predators Eotyrannus, Baryonyx, and Neovenator, low-feeding herbivores Hypsilophodon and Valdosaurus, fellow "iguanodontid" Mantellisaurus, the armoured herbivore Polacanthus, and sauropods like Pelorosaurus.[21]
+Posture and movement[edit]
+
+
+
+
+Nineteenth-century painting showing Iguanodon in a tripod pose
+
+
+Early fossil remains were fragmentary, which led to much speculation on the posture and nature of Iguanodon. Iguanodon was initially portrayed as a quadrupedal horn-nosed beast. However as more bones were discovered, Mantell observed that the forelimbs were much smaller than the hindlimbs. His rival Owen was of the opinion it was a stumpy creature with four pillar-like legs. The job of overseeing the first lifesize reconstruction of dinosaurs was initially offered to Mantell, who declined due to poor health, and Owen's vision subsequently formed the basis on which the sculptures took shape. Its bipedal nature was revealed with the discovery of the Bernissart skeletons. However, it was depicted in an upright posture, with the tail dragging along the ground, acting as the third leg of a tripod.[citation needed]
+During his re-examination of Iguanodon, David Norman was able to show that this posture was unlikely, because the long tail was stiffened with ossified tendons.[13] To get the tripodal pose, the tail would literally have to be broken.[5] Putting the animal in a horizontal posture makes many aspects of the arms and pectoral girdle more understandable. For example, the hand is relatively immobile, with the three central fingers grouped together, bearing hoof-like phalanges, and able to hyperextend. This would have allowed them to bear weight. The wrist is also relatively immobile, and the arms and shoulder bones robust. These features all suggest that the animal spent time on all fours.[13]
+
+
+
+
+Track from Svalbard assigned to Iguanodon
+
+
+Furthermore, it appears that Iguanodon became more quadrupedal as it got older and heavier; juvenile I. bernissartensis have shorter arms than adults (60% of hindlimb length versus 70% for adults).[2] When walking as a quadruped, the animal's hands would have been held so that the palms faced each other, as shown by iguanodontian trackways and the anatomy of this genus's arms and hands.[22][23] The three toed pes (foot) of Iguanodon was relatively long, and when walking, both the hand and the foot would have been used in a digitigrade fashion (walking on the fingers and toes).[2] The maximum speed of Iguanodon has been estimated at 24 km/h (14.9 mph),[24] which would have been as a biped; it would not have been able to gallop as a quadruped.[2]
+Large three-toed footprints are known in Early Cretaceous rocks of England, particularly Wealden beds on the Isle of Wight, and these trace fossils were originally difficult to interpret. Some authors associated them with dinosaurs early on. In 1846, E. Tagert went so far as to assign them to an ichnogenus he named Iguanodon,[25] and Samuel Beckles noted in 1854 that they looked like bird tracks, but might have come from dinosaurs.[26] The identity of the trackmakers was greatly clarified upon the discovery in 1857 of the hind leg of a young Iguanodon, with distinctly three-toed feet, showing that such dinosaurs could have made the tracks.[27][28] Despite the lack of direct evidence, these tracks are often attributed to Iguanodon.[5] A trackway in England shows what may be an Iguanodon moving on all fours, but the foot prints are poor, making a direct connection difficult.[13] Tracks assigned to the ichnogenus Iguanodon are known from locations including places in Europe where the body fossil Iguanodon is known, to Spitsbergen, Svalbard, Norway.[29][30]
+Thumb spike[edit]
+
+
+
+
+Hand with spike
+
+
+The thumb spike is one of the best-known features of Iguanodon. Although it was originally placed on the animal's nose by Mantell, the complete Bernissart specimens allowed Dollo to place it correctly on the hand, as a modified thumb.[citation needed] (This would not be the last time a dinosaur's modified thumb claw would be misinterpreted; Noasaurus, Baryonyx, and Megaraptor are examples since the 1980s where an enlarged thumb claw was first put on the foot, as in dromaeosaurids.[citation needed])
+This thumb is typically interpreted as a close-quarter stiletto-like weapon against predators,[2][5] although it could also have been used to break into seeds and fruits,[2] or against other Iguanodon.[4] One author has suggested that the spike was attached to a venom gland,[31] but this has not been accepted, as the spike was not hollow,[4] nor were there any grooves on the spike for conducting venom.[32]
+Possible social behaviour[edit]
+Although sometimes interpreted as the result of a single catastrophe, the Bernissart finds instead are now interpreted as recording multiple events. According to this interpretation, at least three occasions of mortality are recorded, and though numerous individuals would have died in a geologically short time span (?10–100 years),[33] this does not necessarily mean these Iguanodon were herding animals.[2]
+An argument against herding is that juvenile remains are very uncommon at this site, unlike modern cases with herd mortality. They more likely were the periodic victims of flash floods whose carcasses accumulated in a lake or marshy setting.[33] The Nehden find, however, with its greater span of individual ages, more even mix of Dollodon or Mantellisaurus to Iguanodon bernissartensis, and confined geographic nature, may record mortality of herding animals migrating through rivers.[33]
+Unlike other purported herding dinosaurs (especially hadrosaurs and ceratopsids), there is no evidence that Iguanodon was sexually dimorphic, with one gender appreciably different from the other. At one time, it was suggested that the Bernissart I. "mantelli", or I. atherfieldensis (Dollodon and Mantellisaurus, respectively) represented a gender, possibly female, of the larger and more robust, possibly male, I. bernissartensis.[34] However, this is not supported today.[5][13][35]
+Paleopathology[edit]
+Evidence of a fractured hip bone was found in a specimen of Iguanodon, which had an injury to its ischium. Two other individuals were observed with signs of osteoarthritis as evidenced by bone overgrowths in their anklebones which called osteophytes.
+Discovery and history[edit]
+Gideon Mantell, Sir Richard Owen, and the discovery of dinosaurs[edit]
+
+
+
+
+Replica of one of the original iguanodont teeth, which was found embedded in rock, now classified as Therosaurus
+
+
+The discovery of Iguanodon has long been accompanied by a popular legend. The story goes that Gideon Mantell's wife, Mary Ann, discovered the first teeth[36] of an Iguanodon in the strata of Tilgate Forest in Whitemans Green, Cuckfield, Sussex, England, in 1822 while her husband was visiting a patient. However, there is no evidence that Mantell took his wife with him while seeing patients. Furthermore, he admitted in 1851 that he himself had found the teeth.[37] Not everyone agrees that the story is false, though.[38] It is known from his notebooks that Mantell first acquired large fossil bones from the quarry at Whitemans Green in 1820. Because also theropod teeth were found, thus belonging to carnivores, he at first interpreted these bones, which he tried to combine into a partial skeleton, as those of a giant crocodile. In 1821 Mantell mentioned the find of herbivorous teeth and began to consider the possibility that a large herbivorous reptile was present in the strata. However, in his 1822 publication Fossils of the South Downs he as yet did not dare to suggest a connection between the teeth and his very incomplete skeleton, presuming that his finds presented two large forms, one carnivorous ("an animal of the Lizard Tribe of enormous magnitude"), the other herbivorous. In May 1822 he first presented the herbivorous teeth to the Geological Society of London but the members, among them William Buckland, dismissed them as fish teeth or the incisors of a rhinoceros from a Tertiary stratum. On 23 June 1823 Charles Lyell showed some to Georges Cuvier, during a soiree in Paris, but the famous French naturalist at once dismissed them as those of a rhinoceros. Though the very next day Cuvier retracted, Lyell reported only the dismissal to Mantell, who became rather diffident about the issue. In 1824 Buckland described Megalosaurus and was on that occasion invited to visit Mantell's collection. Seeing the bones on 6 March he agreed that these were of some giant saurian — though still denying it was a herbivore. Emboldened nevertheless, Mantell again sent some teeth to Cuvier, who answered on 22 June 1824 that he had determined that they were reptilian and quite possibly belonged to a giant herbivore. In a new edition that year of his Recherches sur les Ossemens Fossiles Cuvier admitted his earlier mistake, leading to an immediate acceptance of Mantell, and his new saurian, in scientific circles. Mantell tried to corroborate his theory further by finding a modern-day parallel among extant reptiles.[39] In September 1824 he visited the Royal College of Surgeons but at first failed to find comparable teeth. However, assistant-curator Samuel Stutchbury recognised that they resembled those of an iguana he had recently prepared, albeit twenty times longer.[3] Mantell did not describe his findings until 10 February 1825, when he presented a paper on the remains to the Royal Geological Society of London.[11][37]
+
+
+
+
+Fossil iguanodont remains found in Maidstone in 1834, now classified as Mantellodon
+
+
+In recognition of the resemblance of the teeth to those of the iguana, Mantell named his new genus Iguanodon or "iguana-tooth", from iguana and the Greek word ὀδών (odon, odontos or "tooth").[4] Based on isometric scaling, he estimated that the creature might have been up to 18 metres (60 ft) long, more than the 12 metres (40 ft) length of Megalosaurus.[11] His initial idea for a name was Iguana-saurus ("Iguana lizard"), but his friend William Daniel Conybeare suggested that that name was more applicable to the iguana itself, so a better name would be Iguanoides ("Iguana-like") or Iguanodon.[39][40] He neglected to add a specific name to form a proper binomial, so one was supplied in 1829 by Friedrich Holl: I. anglicum, which was later amended to I. anglicus.[41]
+
+
+
+
+Mantell's "Iguanodon" restoration based on the Maidstone Mantellodon remains
+
+
+A more complete specimen of similar animal was discovered in a quarry in Maidstone, Kent, in 1834 (lower Lower Greensand Formation), which Mantell soon acquired. He was led to identify it as an Iguanodon based on its distinctive teeth. The Maidstone slab was utilized in the first skeletal reconstructions and artistic renderings of Iguanodon, but due to its incompleteness, Mantell made some mistakes, the most famous of which was the placement of what he thought was a horn on the nose.[42] The discovery of much better specimens in later years revealed that the horn was actually a modified thumb. Still encased in rock, the Maidstone skeleton is currently displayed at the Natural History Museum in London. The borough of Maidstone commemorated this find by adding an Iguanodon as a supporter to their coat of arms in 1949.[43] This specimen has become linked with the name I. mantelli, a species named in 1832 by Christian Erich Hermann von Meyer in place of I. anglicus, but it actually comes from a different formation than the original I. mantelli/I. anglicus material.[40] The Maidstone specimen, also known as Gideon Mantell's "Mantel-piece", and formally labelled NHMUK 3741[44][45] was subsequently excluded from Iguanodon. It is classified as cf. Mantellisaurus by McDonald (2012);[46] as cf. Mantellisaurus atherfieldensis by Norman (2012);[44] and made the holotype of a separate species Mantellodon carpenteri by Paul (2012).[45]
+At the same time, tension began to build between Mantell and Richard Owen, an ambitious scientist with much better funding and society connections in the turbulent worlds of Reform Act–era British politics and science. Owen, a firm creationist, opposed the early versions of evolutionary science ("transmutationism") then being debated and used what he would soon coin as dinosaurs as a weapon in this conflict. With the paper describing Dinosauria, he scaled down dinosaurs from lengths of over 61 metres (200 ft), determined that they were not simply giant lizards, and put forward that they were advanced and mammal-like, characteristics given to them by God; according to the understanding of the time, they could not have been "transmuted" from reptiles to mammal-like creatures.[47][48]
+In 1849, a few years before his death in 1852, Mantell realised that iguanodonts were not heavy, pachyderm-like animals,[49] as Owen was putting forward, but had slender forelimbs; however, his passing left him unable to participate in the creation of the Crystal Palace dinosaur sculptures, and so Owen's vision of the dinosaurs became that seen by the public for decades.[47] With Benjamin Waterhouse Hawkins, he had nearly two dozen lifesize sculptures of various prehistoric animals built out of concrete sculpted over a steel and brick framework; two iguanodonts (based on the Mantellodon specimen), one standing and one resting on its belly, were included. Before the sculpture of the standing iguanodont was completed, he held a banquet for twenty inside it.[50][51][52]
+Bernissart[edit]
+
+
+
+
+Photograph of a Bernissart Iguanodon skeleton being mounted
+
+
+The largest find of Iguanodon remains to that date occurred on 28 February 1878 in a coal mine at Bernissart in Belgium, at a depth of 322 m (1056 ft),[5] when two mineworkers, Jules Créteur and Alphonse Blanchard, accidentally hit on a skeleton that they initially took for petrified wood. With the encouragement of Alphonse Briart, supervisor of mines at nearby Morlanwelz, Louis de Pauw on 15 May 1878 started to excavate the skeletons and in 1882 Louis Dollo reconstructed them. At least 38 Iguanodon individuals were uncovered,[2] most of which were adults.[33] Many of them went on public display beginning in July 1883 and are still on public view; nine are displayed as standing mounts, and nineteen more are still in the Museum's basement.[5] The exhibit makes an impressive display in the Royal Belgian Institute of Natural Sciences, in Brussels. A replica of one of these is on display at the Oxford University Museum of Natural History and at the Sedgwick Museum in Cambridge. Most of the remains were referred to a new species, I. bernissartensis,[53] a larger and much more robust animal than the English remains had yet revealed, but one specimen was referred to the nebulous, gracile I. mantelli (now Dollodon bampingi). The skeletons were some of the first complete dinosaur skeletons known. Found with the dinosaur skeletons were the remains of plants, fish, and other reptiles,[5] including the crocodyliform Bernissartia.
+
+
+
+
+Iguanodon bernissartensis fossil drawn as it was found in 1882
+
+
+The science of conserving fossil remains was in its infancy, and new techniques had to be improvised to deal with what soon became known as "pyrite disease". Crystalline pyrite in the bones was being oxidized to iron sulphate, accompanied by an increase in volume that caused the remains to crack and crumble. When in the ground, the bones were isolated by anoxic moist clay that prevented this from happening, but when removed into the drier open air, the natural chemical conversion began to occur. To limit this effect, De Pauw immediately, in the mine-gallery, re-covered the dug-out fossils with wet clay, sealing them with paper and plaster reinforced by iron rings, forming in total about six hundred transportable blocks with a combined weight of a hundred and thirty tons. In Brussels after opening the plaster he impregnated the bones with boiling gelatine mixed with oil of cloves as a preservative. Removing most of the visible pyrite he then hardened them with hide glue, finishing with a final layer of tin foil. Damage was repaired with papier-mâché.[54] This treatment had the unintended effect of sealing in moisture and extending the period of damage. In 1932 museum director Victor van Straelen decided that the specimens had to be completely restored again to safeguard their preservation. From December 1935 to August 1936 the staff at the museum in Brussels treated the problem with a combination of alcohol, arsenic, and 390 kilograms of shellac. This combination was intended to simultaneously penetrate the fossils (with alcohol), prevent the development of mold of (with arsenic), and harden them (with shellac). The fossils entered a third round of conservation from 2003 until May 2007, when the shellac, hide glue and gelatine were removed and impregnated with polyvinyl acetate and cyanoacrylate and epoxy glues.[55] Modern treatments of this problem typically involve either monitoring the humidity of fossil storage, or, for fresh specimens, preparing a special coating of polyethylene glycol that is then heated in a vacuum pump, so that moisture is immediately removed and pore spaces are infiltrated with polyethelene glycol to seal and strengthen the fossil.[5]
+
+
+
+
+Specimen mounted in an outdated, upright posture
+
+
+Dollo's specimens allowed him to show that Owen's prehistoric pachyderms were not correct for Iguanodon. He instead modelled the skeletal mounts after the cassowary and wallaby, and put the spike that had been on the nose firmly on the thumb.[56][57] He was not completely correct, but he also had the disadvantage of being faced with some of the first complete dinosaur remains. A problem that was later recognised was the bend he introduced into the tail. This organ was more or less straight, as shown by the skeletons he was excavating, and the presence of ossified tendons. In fact, to get the bend in the tail for a more wallaby or kangaroo-like posture, the tail would have had to be broken. With its correct, straight tail and back, the animal would have walked with its body held horizontal to the ground, arms in place to support the body if needed.[5]
+Excavations at the quarry were stopped in 1881, although it was not exhausted of fossils, as recent drilling operations have shown.[58] During World War I, when the town was occupied by German forces, preparations were made to reopen the mine for palaeontology, and Otto Jaekel was sent from Berlin to supervise. The Allies recaptured Bernissart just as the first fossiliferous layer was about to be uncovered. Further attempts to reopen the mine were hindered by financial problems and were stopped altogether in 1921 when the mine flooded.[5]
+To the present: Worldwide finds[edit]
+Research on Iguanodon decreased during the early part of the 20th century as World Wars and the Great Depression enveloped Europe. A new species that would become the subject of much study and taxonomic controversy, I. atherfieldensis, was named in 1925 by R. W. Hooley, for a specimen collected at Atherfield Point on the Isle of Wight.[59] However, what had been a European genus was now being found worldwide, with material in Africa (teeth from Tunisia[60] and elsewhere in the Sahara),[61] Mongolia (I. orientalis),[62] and in North America (I. ottingeri from Utah[63]). Another North American species, from South Dakota, once assigned to Iguanodon as I. lakotaensis,[64] has since been reclassified as the genus Dakotadon.[65]
+Iguanodon was not part of the initial work of the dinosaur renaissance that began with the description of Deinonychus in 1969, but it was not neglected for long. David B. Weishampel's work on ornithopod feeding mechanisms provided a better understanding of how it fed,[17] and David B. Norman's work on numerous aspects of the genus has made it one of the best-known dinosaurs.[2][5][13][66] In addition, a further find of numerous Iguanodon skeletons, in Nehden, Nordrhein-Westphalen, Germany, has provided evidence for gregariousness in this genus, as the animals in this areally restricted find appear to have been killed by flash floods. At least 15 individuals, from 2 to 8 metres long (6.6 to 26.2 ft), have been found here, although at least some of them are gracile iguanodontians and belong to the related Mantellisaurus or Dollodon (described as I. atherfieldensis, at that time believed to be another species of Iguanodon).[33][65]
+Iguanodon material has also been used in the search for dinosaur DNA and other biomolecules. In research by Graham Embery et al., Iguanodon bones were processed to look for remnant proteins. In this research, identifiable remains of typical bone proteins, such as phosphoproteins and proteoglycans, were found in a rib.[67]
+Species[edit]
+
+
+
+
+Skeletal restoration by O.C. Marsh
+
+
+Because Iguanodon is one of the first dinosaur genera to have been named, numerous species have been assigned to it. While never becoming the wastebasket taxon several other early genera of dinosaurs became (such as Megalosaurus and Pelorosaurus), Iguanodon has had a complicated history, and its taxonomy continues to undergo revisions.[35][65][68][69] Remains of the only well-supported species are known definitively only from Belgium, though additional remains sometimes still attributed to I bernissartensis have been found in England. However, some researchers have recommended limiting use of I. bernissartensis to the Bernissart finds, and using I. sp. (meaning undetermined species) for robust iguanodontian remains from Barremian-age rocks of Europe.[65] Thus, after thorough restudy, what had been seen as a quintessentially British dinosaur is in fact poorly known from England.
+I. anglicus was the original type species, but the holotype was based on a single tooth and only partial remains of the species have been recovered since. In March 2000, the International Commission on Zoological Nomenclature changed the type species to the much better known I. bernissartensis, with the new holotype being IRSNB 1534. The original Iguanodon tooth is held at Te Papa Tongarewa, the national museum of New Zealand in Wellington, although it is not on display. The fossil arrived in New Zealand following the move of Gideon Mantell's son Walter there; after the elder Mantell's death, his fossils went to Walter.[70]
+Species currently accepted as valid[edit]
+Only a few of the many species assigned to Iguanodon are still considered to be valid, and only one may fall within the genus Iguanodon.[2][65] I. bernissartensis, described by George Albert Boulenger in 1881, is the neotype for the genus. This species is best known for the many skeletons discovered in Bernissart, but is also known from remains across Europe. David Norman suggested that it includes the dubious Mongolian I. orientalis,[71] but this has not been followed by other researchers.[65]
+Reassigned species[edit]
+Two species of Iguanodon named by Richard Owen have since been reassigned to other genera:
+
+I. hoggi (also spelled I. boggii or hoggii), named by Owen for a lower jaw from the Tithonian–Berriasian-age Upper Jurassic–Lower Cretaceous Purbeck Beds of Dorset in 1874, has been reassigned to its own genus, Owenodon.[72]
+I. major, a species named by Justin Delair in 1966,[73] based on a vertebra from the Isle of Wight originally described by Owen in 1842 as a species of Streptospondylus, S. major, is a nomen dubium which is now thought to be a synonym of I. anglicus,[2] although it may be its own species.[74]
+
+Other than the two species described by Owen which have been reassigned to other genera, sixteen other species have since been reclassified:
+
+Iguanodon albinus (or Albisaurus scutifer), described by Czech palaeontologist Antonin Fritsch (correctly Frič) in 1893, is a dubious nondinosaurian reptile now known as Albisaurus albinus.[75]
+
+
+
+
+
+Mounted skeleton of Mantellisaurus atherfieldensis, Natural History Museum, London
+
+
+
+I. atherfieldensis, described by R.W. Hooley in 1925,[59] was smaller and less robust than I. bernissartensis, with longer neural spines. It was renamed Mantellisaurus atherfieldensis in 2007.[35]
+I. exogyrarum (also spelled I. exogirarum or I. exogirarus) was described by Fritsch in 1878. It is a nomen dubium based on very poor material and has been reassigned, by George Olshevsky, to Ponerosteus.[76]
+I. valdensis, a species named by Ernst van den Broeck in 1900.[77] Originally named Vectisaurus by Hulke in 1879 based on vertebral and pelvic remains, it was from the Barremian stage of the Isle of Wight.[78] It may be a partially grown specimen of Mantellisaurus atherfieldensis,[79] or from an undetermined species of Mantellisaurus.[65]
+I. gracilis, named by Lydekker in 1888 as the type species of Sphenospondylus and assigned to Iguanodon in 1969 by Rodney Steel, may belong to Mantellisaurus atherfieldensis.[2]
+
+Two species described by Richard Lydekker in the late 19th century have been reassigned to different genera.[80]
+
+I. dawsoni, described by Lydekker in 1888,[81] is known from two partial skeletons found in East Sussex, England,[2] from the middle Valanginian-age Lower Cretaceous Wadhurt Clay.[65] It is now the type species of Barilium.[80]
+I. fittoni was described by Lydekker in 1889.[82] Like I. dawsoni, this species was described from the Wadhurst Clay[65] of East Sussex.[2] It is now the type species of Hypselospinus.[80]
+I. foxii (also spelled I. foxi) was originally described by Thomas Henry Huxley in 1869 as the type species of Hypsilophodon; Owen (1873 or 1874) reassigned it to Iguanodon, but his assignment was soon overturned.[83]
+I. hollingtoniensis (also spelled I. hollingtonensis), described by Lydekker in 1889 has variously been considered a synonym of Hypselospinus fittoni[2][80] or a distinct species assigned to the genus Huxleysaurus.[45] A specimen from the Valanginian Wadhurst Clay Formation,[45] variously assigned to I. hollingtoniensis and I. mantelli over the years, has an unusual combination of hadrosaurid-like lower jaw and very robust forelimb;[65] Norman (2010) assigned this specimen to the species Hypselospinus fittoni,[80] while Paul (2012) made it the holotype of a separate species Darwinsaurus evolutionis.[45]
+I. prestwichii (also spelled I. prestwichi), described by John Hulke in 1880, has been reassigned to Camptosaurus prestwichii or to its own genus Cumnoria.
+I. seelyi (also incorrectly spelled I. seeleyi), described by Hulke two years after I. prestwichii, has been synonymised with Dollodon bampingi, though this is controversial.[65][74]
+I. suessii, described by Emanuel Bunzel in 1871, has been reassigned to Mochlodon suessi.[2]
+I. lakotaensis was described by David B. Weishampel and Philip R. Bjork in 1989.[64] The only well-accepted North American species of Iguanodon, I. lakotaensis was described from a partial skull from the Barremian-age Lower Cretaceous Lakota Formation of South Dakota. Its assignment has been controversial. Some researchers suggest that it was more basal than I. bernissartensis, and related to Theiophytalia,[84] but David Norman has suggested that it was a synonym of I. bernissartensis.[68] Gregory S. Paul has since given the species its own genus, Dakotadon.[65]
+
+
+
+
+
+IRSNB 1551, the holotype of Dollodon bampingi, formerly Iguanodon mantelli, displayed in the Belgian Royal Institute for the Natural Sciences at Brussels
+
+
+
+Iguanodon mantelli (also spelled I. manteli or I. mantellii), described by Christian Erich Hermann von Meyer in 1832, was based on the same material as I. anglicus[40] and is an objective junior synonym of the latter.[85] Several skeletons including the Maidstone specimen (see the section "Discovery and history" on the subject of its current classification) and one of the Bernissart skeletons have been assigned here over the years, and their attribution is not complete. The gracile Bernissart skeleton, for example, has been reassigned, first to Mantellisaurus atherfieldensis,[66] and upon further review, to its own genus and species, Dollodon bampingi.[65] However, some authorities have continued to consider Dollodon a synonym of Mantellisaurus.[80][86]
+I. hillii, coined by Edwin Tully Newton in 1892 for a tooth from the early Cenomanian Upper Cretaceous Lower Chalk of Hertfordshire, is an early hadrosaurid of some sort.[87]
+I. orientalis, described by A. K. Rozhdestvensky in 1952,[62] was based on poor material, but a skull with a distinctive arched snout that had been assigned to it was renamed Altirhinus kurzanovi in 1998.[68] At the same time, I. orientalis was considered to be a nomen dubium because it cannot be compared to I. bernissartensis.[68][71]
+Harry Seeley described I. phillipsi in 1869,[88] but later reassigned it to Priodontognathus.[89]
+I. praecursor (also spelled I. precursor), described by E. Sauvage in 1876 from teeth from an unnamed Kimmeridgian (Late Jurassic) formation in Pas-de-Calais, France, is actually a sauropod, sometimes assigned to Neosodon,[90] although the two come from different formations.[91]
+"I. mongolensis" (Whitfield, 1992) is a nomen nudum from a photo caption in a book,[92] of remains that would later be named Altirhinus.[93]
+
+Delapparentia turolensis was named in 2011 based on a specimen previously assigned to Iguanodon bernissartensis.[94]
+Dubious species[edit]
+Two Iguanodon species are currently considered to be nomina dubia:
+
+I. anglicus, described by Friedrich Holl in 1829,[41] is the original type species of Iguanodon, but, as discussed above, was replaced by I. bernissartensis. In the past, it has been spelled as I. angelicus (Lessem and Glut, 1993) and I. anglicum (Holl, 1829 emend. Bronn, 1850). It is known from teeth from the middle Valanginian-age Lower Cretaceous Tilgate Forest (Grinstead Clay Formation) of East Sussex, England. It is currently classified in the genus Therosaurus as T. anglicus.
+I. ottingeri, described by Peter Galton and James A. Jensen in 1979, is a nomen dubium based on teeth from the possibly Aptian-age lower Cedar Mountain Formation of Utah.[63]
+
+Finally, several other poorly known genera and species are included with Iguanodon without being separately named species of that genus, although their assignment is less certain with the renaming of I. atherfieldensis. These include the species "Streptospondylus" recentior (Owen, 1851), "Cetiosaurus" brachyurus,[3] and part of "C." brevis (Owen, 1842; "C." brevis is a chimera).[95] The nomen nudum "Proiguanodon" (van den Broeck, 1900) also belongs here,[96] and possibly the very obscure "Streptospondylus" grandis (Owen, 1851) and meyeri (Owen, 1854).[40] The genera Iguanosaurus (Ritgen, 1828),[97] Hikanodon (Keferstein, 1834),[98][99] and Therosaurus (Fitzinger, 1840),[100] are simply junior objective synonyms, later names for the material of I. anglicus.
+In popular culture[edit]
+
+
+
+
+Iguanodon appearing in Arthur Conan Doyle's The Lost World
+
+
+Since its description in 1825, Iguanodon has been a feature of worldwide popular culture. Two lifesize reconstructions of Mantellodon (considered Iguanodon at the time) built at the Crystal Palace in London in 1852 greatly contributed to the popularity of the genus.[101] Their thumb spikes were mistaken for horns, and they were depicted as elephant-like quadrupeds, yet this was the first time an attempt was made at constructing full-size dinosaur models.
+Several motion pictures have featured Iguanodon. In the Disney film Dinosaur, an Iguanodon named Aladar served as the protagonist with three other iguanodonts as other main characters; a loosely related ride of the same name at Disney's Animal Kingdom is based around bringing an Iguanodon back to the present. Iguanodon is one of the three dinosaur genera that inspired Godzilla; the other two were Tyrannosaurus and Stegosaurus.[102] Iguanodon has also made appearances in some of the many Land Before Time films, as well as episodes of the television series.
+Aside from appearances in movies, Iguanodon has also been featured on the television documentary miniseries Walking with Dinosaurs (1999) produced by the BBC, and played a starring role in Sir Arthur Conan Doyle's book, The Lost World as well as featuring in an episode of the Discovery Channel documentary, Dinosaur Planet. It also was present in Bob Bakker's Raptor Red (1995), as a Utahraptor prey item. A main belt asteroid, 1989 CB3, has been named 9941 Iguanodon in honour of the genus.[103][104]
+Because it is both one of the first dinosaurs described and one of the best-known dinosaurs, Iguanodon has been well-placed as a barometer of changing public and scientific perceptions on dinosaurs. Its reconstructions have gone through three stages: the elephantine quadrupedal horn-snouted reptile satisfied the Victorians, then a bipedal but still fundamentally reptilian animal using its tail to prop itself up dominated the early 20th century, but was slowly overturned during the 1960s by its current, more agile and dynamic representation, able to shift from two legs to all fours.[105]
+References[edit]
+
+
+^ Carpenter, K.; Ishida, Y. (2010). "Early and "Middle" Cretaceous Iguanodonts in Time and Space" (PDF). Journal of Iberian Geology 36 (2): 145–164. doi:10.5209/rev_JIGE.2010.v36.n2.3. 
+^ a b c d e f g h i j k l m n o p q r s t u v w x y z aa Norman, David B. (2004). "Basal Iguanodontia". In Weishampel, D.B., Dodson, P., and Osmólska, H. (eds.). The Dinosauria (2nd ed.). Berkeley: University of California Press. pp. 413–437. ISBN 0-520-24209-2. 
+^ a b c Glut, Donald F. (1997). "Iguanodon". Dinosaurs: The Encyclopedia. Jefferson, North Carolina: McFarland & Co. pp. 490–500. ISBN 0-89950-917-7. 
+^ a b c d e f Naish, Darren; David M. Martill (2001). "Ornithopod dinosaurs". Dinosaurs of the Isle of Wight. London: The Palaeontological Association. pp. 60–132. ISBN 0-901702-72-2. 
+^ a b c d e f g h i j k l m n Norman, David B. (1985). "To Study a Dinosaur". The Illustrated Encyclopedia of Dinosaurs: An Original and Compelling Insight into Life in the Dinosaur Kingdom. New York: Crescent Books. pp. 24–33. ISBN 0-517-46890-5. 
+^ Martin, A.J. (2006). Introduction to the Study of Dinosaurs. Second Edition. Oxford, Blackwell Publishing. 560 pp. ISBN 1–4051–3413–5.
+^ Galton, Peter M. (September 1974). "Notes on Thescelosaurus, a conservative ornithopod dinosaur from the Upper Cretaceous of North America, with comments on ornithopod classification". Journal of Paleontology 48 (5): 1048–1067. ISSN 0022-3360. JSTOR 1303302. 
+^ a b Norman, David B. "Iguanodontidae". The Illustrated Encyclopedia of Dinosaurs, 110–115.
+^ a b c Norman, David B.; Weishampel, David B. (1990). "Iguanodontidae and related ornithopods". In Weishampel, David B.; Dodson, Peter; and Osmólska, Halszka (eds.). The Dinosauria. Berkeley: University of California Press. pp. 510–533. ISBN 0-520-06727-4. 
+^ Horner, J. R. (1990). "Evidence of diphyletic origination of the hadrosaurian (Reptilia: Ornithischia) dinosaurs". In Kenneth Carpenter and Phillip J. Currie (eds.). Dinosaur Systematics: Perspectives and Approaches. Cambridge: Cambridge University Press. pp. 179–187. ISBN 0-521-36672-0. 
+^ a b c Mantell, Gideon A. (1825). "Notice on the Iguanodon, a newly discovered fossil reptile, from the sandstone of Tilgate forest, in Sussex". Philosophical Transactions of the Royal Society 115: 179–186. doi:10.1098/rstl.1825.0010. ISSN 0261-0523. JSTOR 107739. 
+^ Mantell, Gideon A. (1848). "On the structure of the jaws and teeth of the Iguanodon". Philosophical Transactions of the Royal Society of London 138: 183–202. doi:10.1098/rstl.1848.0013. JSTOR 111004. 
+^ a b c d e f Norman, David B. (1980). "On the ornithischian dinosaur Iguanodon bernissartensis of Bernissart (Belgium)". Mémoires de l'Institut Royal des Sciences Naturelles de Belgique 178: 1–105. 
+^ Norman, D.B. (1985). The Illustrated Encyclopedia of Dinosaurs, 115.
+^ Galton, Peter M. (1973). "The cheeks of ornithischian dinosaurs". Lethaia 6: 67–89. doi:10.1111/j.1502-3931.1973.tb00873.x. 
+^ Fastovsky, D.E., and Smith, J.B. "Dinosaur paleoecology." The Dinosauria, 614–626.
+^ a b Weishampel, David B. (1984). Evolution in jaw mechanics in ornithopod dinosaurs. Advances in Anatomy, Embryology, and Cell Biology, 87. Berlin; New York: Springer-Verlag. ISBN 0-387-13114-0. ISSN 0301-5556. PMID 6464809. 
+^ Bakker, Robert T. (1986). "Dinosaurs At Table". The Dinosaur Heresies. New York: William Morrow. pp. 160–178. ISBN 0-14-010055-5. 
+^ Bakker, R.T. "When Dinosaurs Invented Flowers". The Dinosaur Heresies, 179–198
+^ Barrett, Paul M.; Willis, K.J. (2001). "Did dinosaurs invent flowers? Dinosaur–angiosperm coevolution revisited". Biological Reviews 76 (3): 411–447. doi:10.1017/S1464793101005735. PMID 11569792. 
+^ Weishampel, D.B., Barrett, P.M., Coria, R.A., Le Loeuff, J., Xu Xing, Zhao Xijin, Sahni, A., Gomani, E.M.P., and Noto, C.R. "Dinosaur Distribution". The Dinosauria, 517–606.
+^ Wright, J.L. (1996). Fossil terrestrial trackways: Preservation, taphonomy, and palaeoecological significance. University of Bristol. pp. 1–300. 
+^ Wright, J.L. (1999). "Ichnological evidence for the use of the forelimb in iguanodontians". In David M. Unwin (ed.). Cretaceous Fossil Vertebrates. Special Papers in Palaeontology, 60. Palaeontological Association. pp. 209–219. ISBN 0-901702-67-6wright. 
+^ Coombs Jr., Walter P. (1978). "Theoretical aspects of cursorial adaptations in dinosaurs". Quarterly Review of Biology 53 (4): 393–418. doi:10.1086/410790. ISSN 0033-5770. JSTOR 2826581. 
+^ Tagert, E. (1846). "On markings in the Hastings sands near Hastings, supposed to be the footprints of birds". Quarterly Journal of the Geological Society of London 2: 267. doi:10.1144/GSL.JGS.1846.002.01-02.45. 
+^ Beckles, Samuel H. (1854). "On the ornithoidichnites of the Wealden". Quarterly Journal of the Geological Society of London 10: 456–464. doi:10.1144/GSL.JGS.1854.010.01-02.52. 
+^ Owen, Richard (1858). "Monograph on the Fossil Reptilia of the Wealden and Purbeck Formations. Part IV. Dinosauria (Hylaeosaurus)". Paleontographical Society Monograph 10: 1–26. 
+^ "Bird-Footed Iguanodon, 1857". Paper Dinosaurs 1824–1969. Linda Hall Library of Science, Engineering & Technology. Archived from the original on September 28, 2006. Retrieved 2007-02-14. 
+^ Glut, Donald F. (2003). Dinosaurs: The Encyclopedia. 3rd Supplement. Jefferson, North Carolina: McFarland & Company, Inc. p. 626. ISBN 0-7864-1166-X. 
+^ Lapparent, Albert-Félix de (1962). "Footprints of dinosaurs in the Lower Cretaceous of Vestspitsbergen — Svalbard". Arbok Norsk Polarinstitutt, 1960: 13–21. 
+^ Tweedie, Michael W.F. (1977). The World of the Dinosaurs. London: Weidenfeld & Nicolson. p. 143. ISBN 0-688-03222-2. 
+^ Naish, D. "Venomous & Septic Bites". Retrieved 2007-02-14. 
+^ a b c d e Norman, David B. (March 1987). "A mass-accumulation of vertebrates from the Lower Cretaceous of Nehden (Sauerland), West Germany". Proceedings of the Royal Society of London. Series B, Biological Sciences 230 (1259): 215–255. doi:10.1098/rspb.1987.0017. 
+^ van Beneden, P.J. (1878). "Sur la découverte de reptiles fossiles gigantesques dans le charbonnage de Bernissart, près de Pruwelz". Bulletin de l'Institut Royal d'Histoire Naturelle de Belgique 3 (1): 1–19. 
+^ a b c Paul, Gregory S. (2007). "Turning the old into the new: a separate genus for the gracile iguanodont from the Wealden of England". In Kenneth Carpenter (ed.). Horns and Beaks: Ceratopsian and Ornithopod Dinosaurs. Bloomington: Indiana University Press. pp. 69–77. ISBN 0-253-34817-X. 
+^ Fossil Iguanodon Tooth – Collections Online – Museum of New Zealand Te Papa Tongarewa
+^ a b Sues, Hans-Dieter (1997). "European Dinosaur Hunters". In James Orville Farlow and M. K. Brett-Surman (eds.). The Complete Dinosaur. Bloomington: Indiana University Press. p. 14. ISBN 0-253-33349-0. 
+^ Lucas, Spencer G.; Dean, Dennis R. (December 1999). "Book review: Gideon Mantell and the discovery of dinosaurs". PALAIOS 14 (6): 601–602. doi:10.2307/3515316. ISSN 0883-1351. JSTOR 3515316. 
+^ a b Cadbury, D. (2000). The Dinosaur Hunters. Fourth Estate:London, 384 p. ISBN 1-85702-959-3.
+^ a b c d Olshevsky, G. "Re: Hello and a question about Iguanodon mantelli (long)". Retrieved 2007-02-11. 
+^ a b Holl, Friedrich (1829). Handbuch der Petrifaktenkunde, Vol. I. Ouedlinberg. Dresden: P.G. Hilscher. OCLC 7188887. 
+^ Mantell, Gideon A. (1834). "Discovery of the bones of the Iguanodon in a quarry of Kentish Rag (a limestone belonging to the Lower Greensand Formation) near Maidstone, Kent". Edinburgh New Philosophical Journal 17: 200–201. 
+^ Colbert, Edwin H. (1968). Men and Dinosaurs: The Search in Field and Laboratory. New York: Dutton & Company. ISBN 0-14-021288-4. 
+^ a b David B. Norman (2012). "Iguanodontian taxa (Dinosauria: Ornithischia) from the Lower Cretaceous of England and Belgium". In Godefroit, P. (eds). Bernissart Dinosaurs and Early Cretaceous Terrestrial Ecosystems. Indiana University Press. pp. 175–212. ISBN 978-0-253-35721-2. 
+^ a b c d e Paul, G.S. (2012). "Notes on the rising diversity of Iguanodont taxa, and Iguanodonts named after Darwin, Huxley, and evolutionary science." Actas de V Jornadas Internacionales sobre Paleontología de Dinosaurios y su Entorno, Salas de los Infantes, Burgos. p123-133.
+^ McDonald, Andrew T. (2012). "The status of Dollodon and other basal iguanodonts (Dinosauria: Ornithischia) from the upper Wealden beds (Lower Cretaceous) of Europe". Cretaceous Research 33 (1): 1–6. doi:10.1016/j.cretres.2011.03.002. 
+^ a b Torrens, Hugh. "Politics and Paleontology". The Complete Dinosaur, 175–190.
+^ Owen, R. (1842). "Report on British Fossil Reptiles: Part II". Report of the British Association for the Advancement of Science for 1841 1842: 60–204. 
+^ Mantell, Gideon A. (1851). Petrifications and their teachings: or, a handbook to the gallery of organic remains of the British Museum. London: H. G. Bohn. OCLC 8415138. 
+^ Benton, Michael S. (2000). "brief history of dinosaur paleontology". In Gregory S. Paul (ed.). The Scientific American Book of Dinosaurs. New York: St. Martin's Press. pp. 10–44. ISBN 0-312-26226-4. 
+^ Yanni, Carla (September 1996). "Divine Display or Secular Science: Defining Nature at the Natural History Museum in London". The Journal of the Society of Architectural Historians 55 (3): 276–299. doi:10.2307/991149. JSTOR 991149. 
+^ Norman, David B. The Illustrated Encyclopedia of Dinosaurs. p. 11.
+^ I.e. "from Bernissart".
+^ De Pauw, L.F., 1902, Notes sur les fouilles du charbonnage de Bernissart, Découverte, solidification et montage des Iguanodons, Imprim. photo-litho, JH. & P. Jumpertz, 150 av.d'Auderghem. 25 pp
+^ Pascal Godefroit & Thierry Leduc, 2008, "La conservation des ossements fossiles : le cas des Iguanodons de Bernissart", Conservation, Exposition, Restauration d'Objets d'Art 2 (2008)
+^ Dollo, Louis (1882). "Première note sur les dinosauriens de Bernissart". Bulletin du Musée Royal d'Histoire Naturelle de Belgique 1: 161–180 language=French. 
+^ Dollo, Louis (1883). "Note sur les restes de dinosauriens recontrés dans le Crétacé Supérieur de la Belgique". Bulletin du Musée Royal d'Histoire Naturelle de Belgique 2: 205–221 language=French. 
+^ de Ricqlès, A. (2003). "Bernissart's Iguanodon: the case for "fresh" versus "old" dinosaur bone". Journal of Vertebrate Paleontology 23 (Supplement to Number 3): 45A. ISSN 0272-4634.  Abstracts of Papers, Sixty-Third Annual Meeting.
+^ a b Hooley, R. W. (1925). "On the skeleton of Iguanodon atherfieldensis sp. nov., from the Wealden Shales of Atherfield (Isle of Wight)". Quarterly Journal of the Geological Society of London 81 (2): 1–61. doi:10.1144/GSL.JGS.1925.081.01-04.02. ISSN 0370-291X. 
+^ Lapparent, A. F. de (1951). "Découverte de Dinosauriens associés à une faune de Reptiles et de Poissons, dans le Crétacé inférieur de l'Extrême Sud Tunisien". Comptes Rendus Hebdomadaires des Séances de l'Académie des Sciences (in French) 232: 1430. ISSN 0567-655X. 
+^ Lapparent, A. F. de (1960). "Les dinosauriens du "Continental Intercalaire" du Sahara Central". Mémoires de la Société Géologique de France. Nouvelle Série (in French) 88A: 1–57. 
+^ a b Rozhdestvensky, Anatoly K. (1952). "Открытие игуанодона в Монголии" [Discovery of an iguanodon in Mongolia]. Doklady Akademii Nauk SSSR (in Russian) 84 (6): 1243–1246. 
+^ a b Galton, P. M.; J. A. Jensen (1979). "Remains of ornithopod dinosaurs from the Lower Cretaceous of North America". Brigham Young University Geology Studies 25 (3): 1–10. ISSN 1041-7184. 
+^ a b Weishampel, David B.; Phillip R. Bjork (1989). "The first indisputable remains of Iguanodon (Ornithischia: Ornithopoda) from North America: Iguanodon lakotaensis, sp. nov". Journal of Vertebrate Paleontology 9 (1): 56–66. doi:10.1080/02724634.1989.10011738. 
+^ a b c d e f g h i j k l m Paul, Gregory S. (2008). "A revised taxonomy of the iguanodont dinosaur genera and species". Cretaceous Research 29 (2): 192–216. doi:10.1016/j.cretres.2007.04.009. 
+^ a b Norman, David B. (1986). "On the anatomy of Iguanodon atherfieldensis (Ornithischia: Ornithopoda)". Bulletin de L'institut Royal des Sciences Naturelles de Belgique Sciences de la Terre 56: 281–372. ISSN 0374-6291. 
+^ Embery, Graham; Milner, Angela C.; Waddington, Rachel J.; Hall, Rachel C.; Langley, Martin S.; and Milan, Anna M. (2003). "Identification of proteinaceous material in the bone of the dinosaur Iguanodon". Connective Tissue Research 44 (Suppl. 1): 41–46. doi:10.1080/713713598. PMID 12952172. 
+^ a b c d Norman, David B. (January 1998). "On Asian ornithopods (Dinosauria, Ornithischia). 3. A new species of iguanodontid dinosaur". Zoological Journal of the Linnean Society 122 (1–2): 291–348. doi:10.1006/zjls.1997.0122. 
+^ Norman, David B.; Barrett, Paul M. (2002). "Ornithischian dinosaurs from the Lower Cretaceous (Berriasian) of England". In Milner, Andrew, and Batten, David J. (eds.). Life and Environments in Purbeck Times. Special Papers in Palaeontology 68. London: Palaeontological Association. pp. 161–189. ISBN 0-901702-73-0. 
+^ Royal Society of New Zealand. "Celebrating the great fossil hunters". Archived from the original on 2005-08-26. Retrieved 2007-02-22. 
+^ a b Norman, David B. (March 1996). "On Asian ornithopods (Dinosauria, Ornithischia). 1. Iguanodon orientalis Rozhdestvensky, 1952". Zoological Journal of the Linnean Society 116 (2): 303–315. doi:10.1006/zjls.1996.0021. 
+^ Galton, Peter M. (2009). "Notes on Neocomian (Late Cretaceous) ornithopod dinosaurs from England – Hypsilophodon, Valdosaurus, "Camptosaurus", "Iguanodon" – and referred specimens from Romania and elsewhere". Revue de Paléobiologie 28 (1): 211–273. 
+^ Delair, J.B. (1966). "New records of dinosaurs and other fossil reptiles from Dorset". Proceedings of the Dorset Natural History and Archaeological Society 87: 57–66. 
+^ a b Naish, Darren; and Martill, David M. (2008). "Dinosaurs of Great Britain and the role of the Geological Society of London in their discovery: Ornithischia". Journal of the Geological Society, London 165 (3): 613–623. doi:10.1144/0016-76492007-154. 
+^ Brikman, Winand (1988). Zur Fundgeschichte und Systematik der Ornithopoden (Ornithischia, Reptilia) aus der Ober-Kreide von Europa. Documenta Naturae, 45 (in German). Munich: Kanzler. ISBN 3-86544-045-2. 
+^ Olshevsky, George (2000). An annotated checklist of dinosaur species by continent. Mesozoic Meanderings, 3. San Diego: G. Olshevsky Publications Requiring Research. ISSN 0271-9428. OCLC 44433611. 
+^ Van den Broeck, Ernst, 1900, "Les dépôts à iguanodons de Bernissart et leur transfert dans l'étage purbeckien ou aquilonien du Jurassique Supérieur" Bulletin de la Société Belge Géologique XIV Mem., 39-112
+^ Galton, P.M. (1976). "The Dinosaur Vectisaurus valdensis (Ornithischia: Iguanodontidae) from the Lower Cretaceous of England". Journal of Paleontology 50 (5): 976–984. JSTOR 1303593. 
+^ Norman, David B. "A review of Vectisaurus valdensis, with comments on the family Iguanodontidae". Dinosaur Systematics, 147–161.
+^ a b c d e f Norman, David B. (2010). "A taxonomy of iguanodontians (Dinosauria: Ornithopoda) from the lower Wealden Group (Cretaceous: Valanginian) of southern England". Zootaxa 2489: 47–66. 
+^ Lydekker, Richard (1888). "Note on a new Wealden iguanodont and other dinosaurs". Quarterly Journal of the Geological Society of London 44: 46–61. doi:10.1144/GSL.JGS.1888.044.01-04.08. 
+^ Lydekker, Richard (1889). "On the remains and affinities of five genera of Mesozoic reptiles". Quarterly Journal of the Geological Society of London 45: 41–59. doi:10.1144/GSL.JGS.1889.045.01-04.04. 
+^ Woodward, Henry (1885). "On Iguanodon mantelli, Meyer". Geological Magazine, series 3 2 (1): 10–15. doi:10.1017/S0016756800188211. OCLC 2139602. 
+^ Brill, Kathleen and Kenneth Carpenter. "A description of a new ornithopod from the Lytle Member of the Purgatoire Formation (Lower Cretaceous) and a reassessment of the skull of Camptosaurus." Horns and Beaks, 49–67.
+^ David B. Norman (2011). "Ornithopod dinosaurs". In Batten, D. J. (eds). English Wealden Fossils. The Palaeontological Association (London). pp. 407–475. 
+^ McDonald, Andrew T. (2011). "The status of Dollodon and other basal iguanodonts (Dinosauria: Ornithischia) from the upper Wealden beds (Lower Cretaceous) of Europe". Cretaceous Research advance online publication 33: 1. doi:10.1016/j.cretres.2011.03.002. 
+^ Horner, John R., David B. Weishampel and Catherine A. Forster. "Hadrosauridae". The Dinosauria, pp 438–463.
+^ Seeley, Harry G. (1869). Index to the fossil remains of Aves, Ornithosauria, and Reptilia, from the secondary system of strata arranged in the Woodwardian Museum of the University of Cambridge. Cambridge: Deighton, Bell, and Co. OCLC 7743994. 
+^ Seeley, Harry G. (1875). "On the maxillary bone of a new dinosaur (Priodontognathus phillipsii), contained in the Woodwardian Museum of the University of Cambridge". Quarterly Journal of the Geological Society of London 31: 439–443. doi:10.1144/GSL.JGS.1875.031.01-04.30. 
+^ Sauvage, H. E. (1888). "Sur les reptiles trouvés dans le Portlandian supérieur de Boulogne-sur-mer". Bulletin du Muséum National d'Historie Naturalle, Paris (in French) 3 (16): 626. 
+^ Upchurch, Paul, Paul M. Barrett, and Peter Dodson. "Sauropoda". The Dinosauria
+^ Philip Whitfield, 1992, Children's Guide to Dinosaurs and other Prehistoric Animals, Simon & Schuster pp. 96
+^ Olshevsky, G. "Dinosaurs of China, Mongolia, and Eastern Asia [under Altirhinus]". Retrieved 2007-02-22. 
+^ J. I. Ruiz-Omeñaca. (2011) "Delapparentia turolensis nov. gen et sp., un nuevo dinosaurio iguanodontoideo (Ornithischia: Ornithopoda) en el Cretácico Inferior de Galve." Estudios Geológicos (advance online publication) doi:10.3989/egeol.40276.124
+^ Upchurch, Paul; John Martin (March 2003). "The Anatomy and Taxonomy of Cetiosaurus (Saurischia, Sauropoda) from the Middle Jurassic of England". Journal of Vertebrate Palaeontology 23 (1): 208–231. doi:10.1671/0272-4634(2003)23[208:TAATOC]2.0.CO;2. ISSN 0272-4634. 
+^ Olshevsky, G. "Re: What are these dinosaurs?". Retrieved 2007-02-16. 
+^ Ritgen, F. A. (1828). "Versuch einer natürlichen Eintheilung der Amphibien". Verhandlungen der Kaiserlichen Leopoldinisch-Carolinischen Akademie der Naturforscher 14: 247–284. 
+^ Christian Keferstein, 1834, Die Naturgeschichte des Erdkörpers in ihren ersten Grundzügen. Zweiter Theil: Die Geologie und Paläonthologie, Friedrich Fleischer, Leipzig, p. 259
+^ Muncke, Georg Wilhelm, 1830, Handbuch der Naturkunde Band 2, Heidelberg 1830
+^ Fitzinger, L. J. (1840). "Über Palaeosaurus sternbergii, eine neue Gattung vorweltlicher Reptilien und die Stellung dieser Thiere im Systeme überhaupt". Wiener Museum Annalen II: 175–187. 
+^ Smith, Dan (2001-02-26). "A site for saur eyes". New Statesman. Retrieved 2007-02-22. 
+^ Snider, Mike (2006-08-29). "Godzilla arouses atomic terror". USA Today (Gannett Corporation). Retrieved 2007-02-21. 
+^ "JPL Small-Body Database Browser: 9941 Iguanodon (1989 CB3)". NASA. Retrieved 2007-02-10. 
+^ Williams, Gareth. "Minor Planet Names: Alphabetical List". Smithsonian Astrophysical Observatory. Retrieved 2007-02-10. 
+^ Lucas, Spencer G. (2000). Dinosaurs: The Textbook. Boston: McGraw-Hill. p. 13. ISBN 0-07-303642-0. 
+
+
+External links[edit]
+
+
+
+Wikimedia Commons has media related to Iguanodon.
+
+
+
+
+
+Wikispecies has information related to: Iguanodon
+
+
+
+
+
+Wikibooks has a book on the topic of: Wikijunior Dinosaurs/Iguanodon
+
+
+
+The Bernissart Iguanodons (Iguanodon herd found in Belgium).
+Iguanodon DinoData.
+Mantell's Iguanodon tooth in the collection of the Museum of New Zealand Te Papa Tongarewa
+
+
+
+
+
+Dinosaurs portal
+
+
+
+    
+
+
+ 
+NewPP limit report
+CPU time usage: 7.608 seconds
+Real time usage: 8.042 seconds
+Preprocessor visited node count: 34937/1000000
+Preprocessor generated node count: 72639/1500000
+Post‐expand include size: 299100/2048000 bytes
+Template argument size: 104580/2048000 bytes
+Highest expansion depth: 39/40
+Expensive parser function count: 2/500
+Lua time usage: 0.215s
+Lua memory usage: 2.37 MB
+
+
+ Saved in parser cache with key enwiki:pcache:idhash:228798-0!*!0!!en!4!* and timestamp 20131003181156 
+								
+				Retrieved from "http://en.wikipedia.org/w/index.php?title=Iguanodon&oldid=573118288"				
+												Categories: Cretaceous dinosaursDinosaurs of EuropeFossil taxa described in 1881IguanodontsHidden categories: Wikipedia indefinitely move-protected pagesFeatured articlesArticles with 'species' microformatsAll articles with unsourced statementsArticles with unsourced statements from April 2012												
+							
+		
+		
+			Navigation menu
+			
+				
+	Personal tools
+	
+Create accountLog in	
+
+				
+					
+	Namespaces
+	
+					Article
+					Talk
+			
+
+
+	
+		
+	Variants
+	
+		
+					
+	
+
+				
+				
+					
+	Views
+	
+					Read
+					Edit
+					View history
+			
+
+
+	Actions
+	
+		
+					
+	
+
+
+	Search
+	
+				
+																				
+		
+	
+
+				
+			
+			
+					
+				
+	Navigation
+	
+		
+			Main page
+			Contents
+			Featured content
+			Current events
+			Random article
+			Donate to Wikipedia
+		
+	
+
+
+	Interaction
+	
+		
+			Help
+			About Wikipedia
+			Community portal
+			Recent changes
+			Contact page
+		
+	
+
+
+	Toolbox
+	
+		
+			What links here
+			Related changes
+			Upload file
+			Special pages
+			Permanent link
+			Page information
+			Data item
+Cite this page		
+	
+
+
+	Print/export
+	
+		
+			Create a book
+			Download as PDF
+			Printable version
+		
+	
+
+
+	Languages
+	
+		
+			العربية
+			Български
+			Brezhoneg
+			Català
+			Česky
+			Dansk
+			Deutsch
+			Ελληνικά
+			Español
+			Euskara
+			فارسی
+			Français
+			Galego
+			한국어
+			हिन्दी
+			Italiano
+			עברית
+			ქართული
+			Latina
+			Latviešu
+			Lietuvių
+			Magyar
+			Македонски
+			Nederlands
+			日本語
+			Norsk bokmål
+			Occitan
+			Polski
+			Português
+			Română
+			Русский
+			Simple English
+			Slovenčina
+			Српски / srpski
+			Suomi
+			Svenska
+			ไทย
+			Türkçe
+			Українська
+			Tiếng Việt
+			粵語
+			中文
+			
+			Edit links
+		
+	
+
+			
+		
+		
+							
+											 This page was last modified on 16 September 2013 at 06:38.
+											Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. 
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+									
+							
+											Privacy policy
+											About Wikipedia
+											Disclaimers
+											Contact Wikipedia
+											Developers
+											Mobile view
+									
+										
+					
+						
+					
+					
+						
+					
+				
+						
+		
+		
+
+
+ Served by mw1071 in 0.237 secs. 
+	
+if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Iguanodon","wgTitle":"Iguanodon","wgCurRevisionId":573118288,"wgRevisionId":573118288,"wgArticleId":228798,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Wikipedia indefinitely move-protected pages","Featured articles","Articles with 'species' microformats","All articles with unsourced statements","Articles with unsourced statements from April 2012","Cretaceous dinosaurs","Dinosaurs of Europe","Fossil taxa described in 1881","Iguanodonts"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Iguanodon","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":["sysop"],"wgVectorEnabledModules":{"collapsiblenav":true,"experiments":true},"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"templateEditor":false,"templates":false,"preview":false,"previewDialog":false,"publish":false,"toc":false},"wgArticleFeedbackv5Permissions":{"aft-reader":true,"aft-member":false,"aft-editor":false,"aft-monitor":false,"aft-administrator":false,"aft-oversighter":false,"aft-noone":false},"wgVisualEditor":{"isPageWatched":false,"magnifyClipIconURL":"//bits.wikimedia.org/static-1.22wmf19/skins/common/images/magnify-clip.png","pageLanguageCode":"en","pageLanguageDir":"ltr"},"wikilove-recipient":"","wikilove-anon":0,"wgGuidedTourHelpGuiderUrl":"Help:Guided tours/guider","wgULSAcceptLanguageList":["en-us"],"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia","aftv5Article":{"id":228798,"title":"Iguanodon","namespace":0,"categories":["All articles with unsourced statements","Articles with 'species' microformats","Articles with unsourced statements from April 2012","Cretaceous dinosaurs","Dinosaurs of Europe","Featured articles","Fossil taxa described in 1881","Iguanodonts","Wikipedia indefinitely move-protected pages"],"permissionLevel":false},"wgWikibaseItemId":"Q130980"});
+}if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":false,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,
+"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"useeditwarning":1,"prefershttps":1,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"vector-simplesearch":1,"vector-collapsiblenav":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"aftv5-last-filter":null,"visualeditor-enable":0,"visualeditor-enable-experimental":0,"visualeditor-betatempdisable":0,"wikilove-enabled":1,"echo-subscriptions-web-page-review":true,"echo-subscriptions-email-page-review":false,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"echo-notify-show-link":true,"echo-show-alert":true,"echo-email-frequency":0,"echo-email-format":"html","echo-subscriptions-email-system":true,"echo-subscriptions-web-system":true,"echo-subscriptions-email-other":false,"echo-subscriptions-web-other":true,"echo-subscriptions-email-edit-user-talk":false,"echo-subscriptions-web-edit-user-talk":true,
+"echo-subscriptions-email-reverted":false,"echo-subscriptions-web-reverted":true,"echo-subscriptions-email-article-linked":false,"echo-subscriptions-web-article-linked":false,"echo-subscriptions-email-mention":false,"echo-subscriptions-web-mention":true,"echo-subscriptions-web-edit-thank":true,"echo-subscriptions-email-edit-thank":false,"gettingstarted-task-toolbar-show-intro":true,"uls-preferences":"","language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs446":false,"searchNs447":false
+,"searchNs710":false,"searchNs711":false,"searchNs828":false,"searchNs829":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-mySandbox":1,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:156d8fe0ae17f8afd74198057563e45d */
+}if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","ext.visualEditor.viewPageTarget.init","ext.wikimediaShopLink.core","ext.uls.init","ext.uls.interface","wikibase.client.init","ext.centralNotice.bannerController","skins.vector.js"]);
+}/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}if(window.mw){
+mw.loader.load(["mobile.desktop","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.cite","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","mw.MwEmbedSupport.style","ext.vector.collapsibleNav","ext.articleFeedbackv5.startup","ext.gettingstarted.logging","ext.gettingstarted.openTask","schema.HttpsSupport","ext.coreEvents.httpsSupport","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","mw.PopUpMediaTransform"],null,true);
+}

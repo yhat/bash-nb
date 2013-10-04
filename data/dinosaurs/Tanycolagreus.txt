@@ -1,0 +1,372 @@
+
+
+
+Tanycolagreus - Wikipedia, the free encyclopedia
+
+
+
+
+
+
+
+
+
+
+
+
+a:lang(ar),a:lang(ckb),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:0de201fdea5d684523607ed88007b127 */
+
+
+
+
+[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.22wmf18/skins/vector/csshover.min.htc")}</style><![endif]
+
+		
+		
+		
+			
+			
+						 CentralNotice 
+						Tanycolagreus
+			
+								From Wikipedia, the free encyclopedia
+								
+												
+					Jump to:					navigation, 					search
+				
+				
+
+
+Tanycolagreus
+Temporal range: Late Jurassic, 153–150Ma
+
+PreЄ
+Є
+O
+S
+D
+C
+P
+T
+J
+K
+Pg
+N
+
+
+
+↓
+
+
+
+
+
+
+
+
+
+Tanycolagreus holotype, North American Museum of Ancient Life.
+
+
+Scientific classification
+
+
+Kingdom:
+Animalia
+
+
+Phylum:
+Chordata
+
+
+Class:
+Reptilia
+
+
+Superorder:
+Dinosauria
+
+
+Order:
+Saurischia
+
+
+Suborder:
+Theropoda
+
+
+(unranked):
+Coelurosauria
+
+
+Superfamily:
+?Tyrannosauroidea
+
+
+Family:
+Coeluridae
+
+
+Genus:
+Tanycolagreus
+Carpenter et al., 2005
+
+
+Species
+
+
+
+
+T. topwilsoni Carpenter et al., 2005 (type)
+
+
+
+
+
+Tanycolagreus is a genus of coelurid theropod from the Late Jurassic of North America.
+
+
+Contents
+
+
+1 Discovery and naming
+2 Description
+3 Phylogeny
+4 References
+
+
+Discovery and naming[edit]
+
+
+
+
+Restored skull cast
+
+
+In 1995 Western Paleontological Laboratories, Inc. uncovered the partial skeleton of a small theropod at the Bone Cabin Quarry West locality, Albany County, Wyoming, from the Salt Wash Member of the Morrison Formation, dating to the Oxfordian-Tithonian. At first the find was considered to be a specimen of Coelurus[1] but subsequent study indicated it represented a species new to science, that in 2001 was announced to be named Tanycolagreus topwilsoni. It was actually named and described by Kenneth Carpenter, Clifford Miles and Karen Cloward in 2005. The etymology of the generic name Tanycolagreus, suggested by Ben Creisler, is based upon the greater length of its forelimbs and hindlimbs compared to Coelurus. It is derived from the Greek prefix τανυ~, tany~: 'long, stretched out', κῶλον, kolon: 'limb' and ἀγρεύς, agreus: 'hunter'. The specific name honours George Eugene "Top" Wilson, the father of a benefactor financially supporting the scientific research.[2]
+The fossil, holotype TPII 2000-09-29, was donated to science by an anonymous benefactor. It is part of the collection of Thanksgiving Point Institute, Inc. and displayed in the North American Museum of Ancient Life at Lehi, Utah. It includes an incomplete skull and mandible (lower jaws) and much of the postcranial skeleton, i.e. the parts behind the head. The skull of Tanycolagreus is less well known than its postcranial anatomy, and only the following elements have been found: left nasal, left lacrimal, left premaxilla and one premaxillary tooth, left postorbital, left quadratojugal, incomplete left squamosal, right quadrate, right splenial, left articular, and two cheek teeth. A paratype has been assigned to the species: specimen AMNH 587 consisting of an incomplete hand also collected from Bone Cabin Quarry and originally in 1903 by Henry Fairfield Osborn referred to Ornitholestes hermanni.[3] Two other fossils have been referred to Tanycolagreus: UUVP 2999, a premaxilla, originally in 1974 referred to Stokesosaurus clevelandi,[4] from the Cleveland-Lloyd Quarry of Utah; and USNM 5737, a pair of distal pubes from Colorado earlier in 1920 by Charles Whitney Gilmore referred to Coelurus.[5] These specimens are from the later Brushy Basin Member.[2]
+Tanycolagreus is present in stratigraphic zone 2 of the Morrison. Remains possibly referrable to Stokesosaurus have been recovered from stratigraphic zone 5 of the Morrison Formation.[6] A life restoration of Tanycolagreus is also on display at the North American Museum of Ancient Life, where it is portrayed as preying upon a small ornithischian dinosaur, Othnielia rex.
+Description[edit]
+Carpenter et al. (2005, pp. 43–44) determined that the holotype of Tanycolagreus represents a subadult individual which measured approximately 3.3 meters (11 ft) long in life. However, one of the referred fossils, the premaxilla from the Cleveland-Lloyd Quarry, would have belonged to a larger individual, measuring 4 meters (13 ft) long. In 2010 Gregory S. Paul estimated the weight of a four metres long animal at hundred twenty kilogrammes.[7] It cannot be determined whether or not the Cleveland-Lloyd specimen represents a fully mature adult, so the upper size limit for the taxon remains unknown.
+
+
+
+
+Restoration of Tanycolagreus topwilsoni
+
+
+The head of Tanycolagreus is large, elongated and rectangular in profile due to a blunt snout. The leg is rather long and lightly built.[7]
+Carpenter et al. (2005; pp. 27 & 29) diagnosed Tanycolagreus topwilsoni as follows: "Medium-sized tetanuran having short, deep-bodied premaxilla pierced by narial foramen at base of nasal process, orbital process on postorbital, T-shaped quadratojugal, centrodiapophyseal lamina on dorsals. Differs from Coelurus in the absence of pleurocoel on anterior dorsals; posterior caudal prezygapophyses elongated to one-third centrum length, rather than short; straight, rather than sigmoidal, humeral shaft; bowed, rather than straight, radius; flat-bottomed rather than arced pubic foot; straight rather than sigmoidal femoral shaft; metatarsal length subequal to humeral length, rather than 1.75 times humeral length. Differs from Ornitholestes in straight anterior margin of premaxilla, rather than rounded; T-shaped rather than L-shaped quadratojugal; elongate neural spine; posterior caudal prezygapophyses only one-third centrum length, rather than one-half centrum length; bowed, slender radius, rather than straight, robust radius".[2]
+The single premaxillary tooth preserved with the holotype is badly damaged, but does exhibit the asymmetrical cross-section typical in theropod teeth; the cheek teeth are too poorly preserved to show any detail. In the foot the second toe is slightly hyperextendable but does not carry an enlarged claw.[2]
+Phylogeny[edit]
+Carpenter e.a. originally assigned Tanycolagreus to the Coeluridae.[2] Carpenter et alii (2005, p. 44) state that, of the other known Morrison theropods, this genus most closely resembles Coelurus, though it retains more "primitive" features. A detailed phylogenetic analysis in 2007 by Philip Senter including Tanycolagreus showed it had a basal position in the Tyrannosauroidea.[8] Later analyses indicated a basal position in the Coelurosauria.[9]
+References[edit]
+
+^ Miles, C.A., Carpenter K. and Cloward, K.C., 1998, "A new skeleton of Coelurus fragilis from the Morrison Formation of Wyoming", Journal of Vertebrate Paleontology 18(3): 64A
+^ a b c d e Carpenter, K., Miles, C., and Cloward, K. (2005). "New small theropod from the Upper Jurassic Morrison Formation of Wyoming." in Carpenter, K. 2005. The Carnivorous Dinosaurs, Indiana University Press: 23-48
+^ Osborn, Henry Fairfield, 1903, "Ornitholestes hermanni, a new compsognathoid dinosaur from the Upper Jurassic", Bulletin of the American Museum of Natural History 19(12): 459–464
+^ Madsen, J., 1974, "A new theropod dinosaur from the Upper Jurassic of Utah", Journal of Paleontology, 48: 27-31
+^ Gilmore, C.W., 1920, "Osteology of the carnivorous Dinosauria in the United States National Museum, with special reference to the genera Antrodemus (Allosaurus) and Ceratosaurus", Bulletin of the United States National Museum, 110: 1-154
+^ Foster, J. (2007). "Appendix." Jurassic West: The Dinosaurs of the Morrison Formation and Their World. Indiana University Press. pp. 327-329
+^ a b Paul, G.S., 2010, The Princeton Field Guide to Dinosaurs, Princeton University Press p. 124
+^ Senter, P. (2007). "A new look at the phylogeny of Coelurosauria (Dinosauria: Theropoda)", Journal of Systematic Palaeontology, 5(4): 429-463
+^ O.W.M. Rauhut, A.C. Milner, and S. Moore-Fay, 2010, "Cranial osteology and phylogenetic position of the theropod dinosaur Proceratosaurus bradleyi (Woodward, 1910) from the Middle Jurassic of England", Zoological Journal of the Linnean Society, 158(1): 155-195
+
+
+
+
+
+Dinosaurs portal
+
+
+
+
+
+ 
+NewPP limit report
+CPU time usage: 1.696 seconds
+Real time usage: 1.789 seconds
+Preprocessor visited node count: 12189/1000000
+Preprocessor generated node count: 22122/1500000
+Post‐expand include size: 32779/2048000 bytes
+Template argument size: 14560/2048000 bytes
+Highest expansion depth: 20/40
+Expensive parser function count: 0/500
+Lua time usage: 0.009s
+Lua memory usage: 492 KB
+
+
+ Saved in parser cache with key enwiki:pcache:idhash:4850331-0!*!0!!en!4!* and timestamp 20130928022857 
+								
+				Retrieved from "http://en.wikipedia.org/w/index.php?title=Tanycolagreus&oldid=565403385"				
+												Categories: CoelurosaursJurassic dinosaursDinosaurs of North AmericaMorrison faunaHidden categories: Articles with 'species' microformats												
+							
+		
+		
+			Navigation menu
+			
+				
+	Personal tools
+	
+Create accountLog in	
+
+				
+					
+	Namespaces
+	
+					Article
+					Talk
+			
+
+
+	
+		
+	Variants
+	
+		
+					
+	
+
+				
+				
+					
+	Views
+	
+					Read
+					Edit
+					View history
+			
+
+
+	Actions
+	
+		
+					
+	
+
+
+	Search
+	
+				
+																				
+		
+	
+
+				
+			
+			
+					
+				
+	Navigation
+	
+		
+			Main page
+			Contents
+			Featured content
+			Current events
+			Random article
+			Donate to Wikipedia
+		
+	
+
+
+	Interaction
+	
+		
+			Help
+			About Wikipedia
+			Community portal
+			Recent changes
+			Contact page
+		
+	
+
+
+	Toolbox
+	
+		
+			What links here
+			Related changes
+			Upload file
+			Special pages
+			Permanent link
+			Page information
+			Data item
+Cite this page		
+	
+
+
+	Print/export
+	
+		
+			Create a book
+			Download as PDF
+			Printable version
+		
+	
+
+
+	Languages
+	
+		
+			Català
+			Česky
+			Español
+			Nederlands
+			日本語
+			Polski
+			Simple English
+			中文
+			
+			Edit links
+		
+	
+
+			
+		
+		
+							
+											 This page was last modified on 23 July 2013 at 00:17.
+											Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. 
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+									
+							
+											Privacy policy
+											About Wikipedia
+											Disclaimers
+											Contact Wikipedia
+											Developers
+											Mobile view
+									
+										
+					
+						
+					
+					
+						
+					
+				
+						
+		
+		
+
+
+ Served by mw1032 in 0.131 secs. 
+	
+if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Tanycolagreus","wgTitle":"Tanycolagreus","wgCurRevisionId":565403385,"wgArticleId":4850331,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with 'species' microformats","Coelurosaurs","Jurassic dinosaurs","Dinosaurs of North America","Morrison fauna"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Tanycolagreus","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgVectorEnabledModules":{"collapsiblenav":true,"experiments":true},"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"templateEditor":false,"templates":false,"preview":false,"previewDialog":false,"publish":false,"toc":false},"wgArticleFeedbackv5Permissions":{"aft-reader":false,"aft-member":false,"aft-editor":false,"aft-monitor":false,"aft-administrator":false,"aft-oversighter":false,"aft-noone":false},"wgVisualEditor":{"isPageWatched":false,"magnifyClipIconURL":"//bits.wikimedia.org/static-1.22wmf18/skins/common/images/magnify-clip.png","pageLanguageCode":"en","pageLanguageDir":"ltr"},"wikilove-recipient":"","wikilove-anon":0,"wgGuidedTourHelpGuiderUrl":"Help:Guided tours/guider","wgULSAcceptLanguageList":[],"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia","aftv5Article":{"id":4850331,"title":"Tanycolagreus","namespace":0,"categories":["Articles with 'species' microformats","Coelurosaurs","Dinosaurs of North America","Jurassic dinosaurs","Morrison fauna"],"permissionLevel":false},"wgWikibaseItemId":"Q1826774"});
+}if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":false,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,
+"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"useeditwarning":1,"prefershttps":1,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"vector-simplesearch":1,"vector-collapsiblenav":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"aftv5-last-filter":null,"visualeditor-enable":0,"visualeditor-enable-experimental":0,"visualeditor-betatempdisable":0,"wikilove-enabled":1,"echo-subscriptions-web-page-review":true,"echo-subscriptions-email-page-review":false,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"echo-notify-show-link":true,"echo-show-alert":true,"echo-email-frequency":0,"echo-email-format":"html","echo-subscriptions-email-system":true,"echo-subscriptions-web-system":true,"echo-subscriptions-email-other":false,"echo-subscriptions-web-other":true,"echo-subscriptions-email-edit-user-talk":false,"echo-subscriptions-web-edit-user-talk":true,
+"echo-subscriptions-email-reverted":false,"echo-subscriptions-web-reverted":true,"echo-subscriptions-email-article-linked":false,"echo-subscriptions-web-article-linked":false,"echo-subscriptions-email-mention":false,"echo-subscriptions-web-mention":true,"echo-subscriptions-web-edit-thank":true,"echo-subscriptions-email-edit-thank":false,"gettingstarted-task-toolbar-show-intro":true,"uls-preferences":"","language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs446":false,"searchNs447":false
+,"searchNs710":false,"searchNs711":false,"searchNs828":false,"searchNs829":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-mySandbox":1,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:156d8fe0ae17f8afd74198057563e45d */
+}if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","ext.visualEditor.viewPageTarget.init","ext.wikimediaShopLink.core","ext.uls.init","ext.uls.interface","wikibase.client.init","ext.centralNotice.bannerController","skins.vector.js"]);
+}/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}if(window.mw){
+mw.loader.load(["mobile.desktop","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.cite","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","mw.MwEmbedSupport.style","ext.vector.collapsibleNav","ext.articleFeedbackv5.startup","ext.gettingstarted.logging","ext.gettingstarted.openTask","schema.HttpsSupport","ext.coreEvents.httpsSupport","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","mw.PopUpMediaTransform"],null,true);
+}

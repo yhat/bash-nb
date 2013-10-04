@@ -1,0 +1,550 @@
+
+
+
+Pachyrhinosaurus - Wikipedia, the free encyclopedia
+
+
+
+
+
+
+
+
+
+
+
+
+a:lang(ar),a:lang(ckb),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:0de201fdea5d684523607ed88007b127 */
+
+
+
+
+[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.22wmf18/skins/vector/csshover.min.htc")}</style><![endif]
+
+		
+		
+		
+			
+			
+						 CentralNotice 
+						Pachyrhinosaurus
+			
+								From Wikipedia, the free encyclopedia
+								
+												
+					Jump to:					navigation, 					search
+				
+				
+
+
+Pachyrhinosaurus
+Temporal range: 73.5–69Ma
+
+PreЄ
+Є
+O
+S
+D
+C
+P
+T
+J
+K
+Pg
+N
+
+
+
+↓
+
+
+
+
+
+
+
+
+
+P. canadensis skull, Royal Tyrrell Museum
+
+
+Scientific classification 
+
+
+Kingdom:
+Animalia
+
+
+Phylum:
+Chordata
+
+
+Clade:
+Sauropsida
+
+
+Clade:
+Dinosauria
+
+
+Order:
+†Ornithischia
+
+
+Family:
+†Ceratopsidae
+
+
+Tribe:
+†Pachyrhinosaurini
+
+
+Clade:
+†Pachyrostra
+
+
+Genus:
+†Pachyrhinosaurus
+Sternberg, 1950
+
+
+Type species
+
+
+Pachyrhinosaurus canadensis
+Sternberg, 1950
+
+
+Species
+
+
+
+P. canadensis Sternberg, 1950
+P. lakustai Currie, Langston & Tanke, 2008
+P. perotorum Fiorillo & Tykoski, 2012
+
+
+
+
+Pachyrhinosaurus (meaning "thick-nosed lizard") is an extinct genus of centrosaurine ceratopsid dinosaurs from the Late Cretaceous period of North America. The first examples were discovered by Charles M. Sternberg in Alberta, Canada, in 1946, and named in 1950. Over a dozen partial skulls and a large assortment of other fossils from various species have been found in Alberta and Alaska. A great number were not available for study until the 1980s, resulting in a relatively recent increase of interest in the Pachyrhinosaurus. Three species have been identified. P. lakustai, from the Wapiti Formation, the bonebed horizon of which is roughly equivalent age to the upper Bearpaw and lower Horseshoe Canyon Formations, is known to have existed from about 73.5-72.5 million years ago. P. canadensis is younger, known only from the lower Horseshoe Canyon Formation, about 71.5-71 Ma ago.[1] Fossils of the youngest species, P. perotorum, have been recovered from the Prince Creek Formation of Alaska, and date to 70-69 million years ago.[2] The presence of three known species makes this genus the most speciose among the centrosaurines.
+A Pachyrhinosaurus was selected as the mascot for the 2010 Arctic Winter Games held in Grande Prairie, Alberta.[3]
+
+
+Contents
+
+
+1 Description
+2 Discovery and species
+3 Habitat
+4 References
+5 External links
+
+
+Description[edit]
+
+
+
+
+Restoration of P. lakustai
+
+
+The largest Pachyrhinosaurus species were 8 metres (26 ft) long.[4] It weighed about four tons. They were herbivorous and possessed strong cheek teeth to help them chew tough, fibrous plants.
+Instead of horns, their skulls bore massive, flattened bosses; a large boss over the nose and a smaller one over the eyes. A prominent pair of horns grew from the frill and extended upwards. The skull also bore several smaller horns or ornaments that varied between individuals and between species. In P. canadensis and P. perotorum, the bosses over the nose and eyes nearly grew together, and were separated only by a narrow groove. In P. lakustai, the two bosses were separated by a wide gap. In P. canadensis and P. lakustai, the frill bore two additional small, curved, backward-pointed horns. These were not present in P. perotorum, and in fact some specimens of P. lakustai also lack them, which may indicate that the presence of these horns varied by age or sex.[2]
+
+
+
+
+Skull differences between different growth stages of P. perotorum
+
+
+Various ornaments of the nasal boss have also been used to distinguish between different species of Pachyrhinosaurus. Both P. lakustai and P. perotorum bore a jagged, comb-like extension at the tip of the boss which was missing in P. canadensis. P. perotorum was unique in having a narrow dome in the middle of the back portion of the nasal boss, and P. lakustai had a pommel-like structure projecting from the front of the boss (the boss of P. canadensis was mainly flat on top and rounded). P. perotorum bore two unique, flattened horns which projected forward and down from the top edge of the frill, and P. lakustai bore another comb-like horn arising from the middle of the frill behind the eyes.[2]
+Discovery and species[edit]
+
+
+
+
+Hypothetical restoration of P. perotorum engaged in intraspecific combat
+
+
+The type species, Pachyrhinosaurus canadensis, was described in 1950 by Charles Mortram Sternberg. This specimen and others came from the Scabby Butte locality near Lethbridge, Alberta and was among the first dinosaur sites found in the province (in the 1880s), but its significance was not understood until shortly after World War II when some preliminary excavations were conducted. Two skulls were collected by Charles M. Sternberg from the Scabby Butte site and another location on the Little Bow River nearby. Another Pachyrhinosaurus skull was taken out of the Scabby Butte locality in 1955, and then in 1957 Wann Langston Jr. and a small crew excavated additional pachyrhinosaur remains. The University of Calgary has plans to reopen this important site some day as a field school for university-level paleontology students.
+
+
+
+
+P. lakustai skull
+
+
+Another Pachyrhinosaurus bonebed, on the Wapiti River south of Beaverlodge in northwestern Alberta, was worked briefly by staff of the Royal Tyrrell Museum in the late 1980s but is now worked annually for a couple weeks each summer (since 2006) by the University of Alberta. Material from this site appears referable to Pachyrhinosaurus canadensis.
+In 1972, Grande Prairie, Alberta science teacher Al Lakusta found a large bonebed along Pipestone Creek in Alberta. When the area was finally excavated between 1986 and 1989 by staff and volunteers of the Royal Tyrrell Museum of Palaeontology, paleontologists discovered an amazingly large and dense selection of bones—up to 100 per square meter, with a total of 3500 bones and 14 skulls. This was apparently the site of a mass mortality, perhaps a failed attempt to cross a river during a flood. Found amongst the fossils were the skeletons of four distinct age groups ranging from juveniles to full grown dinosaurs, indicating that the Pachyrhinosaurus cared for their young.
+The adult skulls had both convex and concave bosses as well as unicorn-style horns on the parietal bone just behind their eyes. The concave boss types might be related to erosion only and not reflect male/female differences. In 2008, a detailed monograph describing the skull of the Pipestone Creek pachyrhinosaur, and penned by Philip J. Currie, Wann Langston, Jr., and Darren Tanke, classified the specimen as a second species of Pachyrhinosaurus, named P. lakustai after its discoverer.[5]
+In 2013, Fiorillo et al. described a new specimen, an incomplete nasal bone attributable to Pachyrhinosaurus perotorum which was collected from the Kikak-Tegoseak Quarry in northern Alaska. This bone, designated DMNH 21460 belongs to an immature individual. This discovery expands the known age profile of this dinosaur genus from this particular site. The specimen has nasal ornamentation that is dorsally enlarged, representing an intermediate stage of growth. Of note, the authors pointed out that the posterior part of the nasal shows evidence for "a degree of integument complexity not previously recognized in other species" of Pachyrhinosaurus. It was determined that the dorsal surface of the nasal boss bore a thick, cornified pad and sheath.[6]
+The cladogram below shows the phylogenetic position of all currently known Pachyrhinosaurus species following Anthony R. Fiorillo and Ronald S. Tykoski, 2011 (only members of the Pachyrhinosaurini are shown below).[7]
+
+
+
+
+Unnamed species (specimen TMP 2002.76.1), Royal Tyrell Museum
+
+
+
+
+Pachyrhinosaurini
+
+
+
+
+
+
+
+
+
+Rubeosaurus ovatus
+
+
+
+
+
+
+
+
+Einiosaurus procurvicornis
+
+
+
+
+
+
+
+
+
+
+
+
+Pachyrostra
+
+
+
+
+
+Achelousaurus horneri
+
+
+
+
+
+
+Pachyrhinosaurus
+
+
+
+
+
+Unnamed species (TMP 2002.76.1)
+
+
+
+
+
+
+
+
+
+
+
+
+Pachyrhinosaurus lakustai
+
+
+
+
+
+
+
+
+
+
+
+
+Pachyrhinosaurus canadensis
+
+
+
+
+
+
+
+
+Pachyrhinosaurus perotorum
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Habitat[edit]
+
+
+
+
+P. perotorum holotype
+
+
+Modern life at high elevations in lower latitudes resembles life at low elevation in higher latitudes.[8] There may be parallels to this phenomenon in Cretaceous ecosystems, for instance, Pachyrhinosaurus species are found in both Alaska and upland environments in southern Alberta.[8]
+During the Edmontonian, in North America's northern biome, there is a general trend of reduced centrosaurine diversity, with only Pachyrhinosaurus surviving.[8] Pachyrhinosaurus appears to have been part of a coastal fauna characterized by an association with Edmontosaurus.[8]
+References[edit]
+
+
+^ Arbour, V. M.; Burns, M. E.; and Sissons, R. L. (2009). "A redescription of the ankylosaurid dinosaur Dyoplosaurus acutosquameus Parks, 1924 (Ornithischia: Ankylosauria) and a revision of the genus". Journal of Vertebrate Paleontology 29 (4): 1117–1135. doi:10.1671/039.029.0405. 
+^ a b c Anthony R. Fiorillo and Ronald S. Tykoski (2012). "A new species of the centrosaurine ceratopsid Pachyrhinosaurus from the North Slope (Prince Creek Formation: Maastrichtian) of Alaska". Acta Palaeontologica Polonica 57 (3): 561–573. doi:10.4202/app.2011.0033. 
+^ "2010 Arctic Winter Games Hosts One-Year-Out Celebration". Arctic Winter Games Host Society. 2009-03-08. Retrieved 11 December 2009. 
+^ Holtz, Thomas R. Jr. (2008) Dinosaurs: The Most Complete, Up-to-Date Encyclopedia for Dinosaur Lovers of All Ages Supplementary Information
+^ Currie, P.J., Langston, W., and Tanke, D.H. (2008). "A new species of Pachyrhinosaurus (Dinosauria, Ceratopsidae) from the Upper Cretaceous of Alberta, Canada." pp. 1-108. In: Currie, P.J., Langston, W., and Tanke, D.H. 2008. A New Horned Dinosaur from an Upper Cretaceous Bone Bed in Alberta. NRC Research Press, Ottawa, Ontario, Canada. 144 pp. ISBN 978-0-660-19819-4
+^ Fiorillo AR, Tykoski RS (2013) An Immature Pachyrhinosaurus perotorum (Dinosauria: Ceratopsidae) Nasal Reveals Unexpected Complexity of Craniofacial Ontogeny and Integument in Pachyrhinosaurus. PLoS ONE 8(6): e65802. doi:10.1371/journal.pone.0065802
+^ Fiorillo, A. R.; Tykoski, R. S. (2012). "A new Maastrichtian species of the centrosaurine ceratopsid Pachyrhinosaurus from the North Slope of Alaska". Acta Palaeontologica Polonica 57 (3): 561. doi:10.4202/app.2011.0033.  edit
+^ a b c d Lehman, T. M., 2001, Late Cretaceous dinosaur provinciality: In: Mesozoic Vertebrate Life, edited by Tanke, D. H., and Carpenter, K., Indiana University Press, pp. 310-328.
+
+
+External links[edit]
+
+Pachyrhinosaurus at DinoData
+Pachyrhinosaurus, from the Dinosaur Encyclopaedia at Dino Russ' Lair
+
+
+
+
+
+Dinosaurs portal
+
+
+
+
+
+ 
+NewPP limit report
+CPU time usage: 4.664 seconds
+Real time usage: 4.872 seconds
+Preprocessor visited node count: 26019/1000000
+Preprocessor generated node count: 40083/1500000
+Post‐expand include size: 108858/2048000 bytes
+Template argument size: 63545/2048000 bytes
+Highest expansion depth: 39/40
+Expensive parser function count: 2/500
+Lua time usage: 0.035s
+Lua memory usage: 1.36 MB
+
+
+ Saved in parser cache with key enwiki:pcache:idhash:1792302-0!*!0!!en!4!* and timestamp 20131001104546 
+								
+				Retrieved from "http://en.wikipedia.org/w/index.php?title=Pachyrhinosaurus&oldid=574812803"				
+												Categories: CeratopsidsDinosaurs of North AmericaCretaceous dinosaursHidden categories: Articles with 'species' microformats												
+							
+		
+		
+			Navigation menu
+			
+				
+	Personal tools
+	
+Create accountLog in	
+
+				
+					
+	Namespaces
+	
+					Article
+					Talk
+			
+
+
+	
+		
+	Variants
+	
+		
+					
+	
+
+				
+				
+					
+	Views
+	
+					Read
+					Edit
+					View history
+			
+
+
+	Actions
+	
+		
+					
+	
+
+
+	Search
+	
+				
+																				
+		
+	
+
+				
+			
+			
+					
+				
+	Navigation
+	
+		
+			Main page
+			Contents
+			Featured content
+			Current events
+			Random article
+			Donate to Wikipedia
+		
+	
+
+
+	Interaction
+	
+		
+			Help
+			About Wikipedia
+			Community portal
+			Recent changes
+			Contact page
+		
+	
+
+
+	Toolbox
+	
+		
+			What links here
+			Related changes
+			Upload file
+			Special pages
+			Permanent link
+			Page information
+			Data item
+Cite this page		
+	
+
+
+	Print/export
+	
+		
+			Create a book
+			Download as PDF
+			Printable version
+		
+	
+
+
+	Languages
+	
+		
+			Català
+			Česky
+			Deutsch
+			Español
+			Français
+			한국어
+			Italiano
+			עברית
+			Magyar
+			Nederlands
+			日本語
+			Polski
+			Português
+			Русский
+			Simple English
+			Slovenčina
+			Svenska
+			தமிழ்
+			中文
+			
+			Edit links
+		
+	
+
+			
+		
+		
+							
+											 This page was last modified on 28 September 2013 at 01:09.
+											Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. 
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+									
+							
+											Privacy policy
+											About Wikipedia
+											Disclaimers
+											Contact Wikipedia
+											Developers
+											Mobile view
+									
+										
+					
+						
+					
+					
+						
+					
+				
+						
+		
+		
+
+
+ Served by mw1178 in 0.156 secs. 
+	
+if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Pachyrhinosaurus","wgTitle":"Pachyrhinosaurus","wgCurRevisionId":574812803,"wgArticleId":1792302,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with 'species' microformats","Ceratopsids","Dinosaurs of North America","Cretaceous dinosaurs"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Pachyrhinosaurus","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgVectorEnabledModules":{"collapsiblenav":true,"experiments":true},"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"templateEditor":false,"templates":false,"preview":false,"previewDialog":false,"publish":false,"toc":false},"wgArticleFeedbackv5Permissions":{"aft-reader":true,"aft-member":false,"aft-editor":false,"aft-monitor":false,"aft-administrator":false,"aft-oversighter":false,"aft-noone":false},"wgVisualEditor":{"isPageWatched":false,"magnifyClipIconURL":"//bits.wikimedia.org/static-1.22wmf18/skins/common/images/magnify-clip.png","pageLanguageCode":"en","pageLanguageDir":"ltr"},"wikilove-recipient":"","wikilove-anon":0,"wgGuidedTourHelpGuiderUrl":"Help:Guided tours/guider","wgULSAcceptLanguageList":[],"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia","aftv5Article":{"id":1792302,"title":"Pachyrhinosaurus","namespace":0,"categories":["Articles with 'species' microformats","Ceratopsids","Cretaceous dinosaurs","Dinosaurs of North America"],"permissionLevel":false},"wgWikibaseItemId":"Q131568"});
+}if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":false,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,
+"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"useeditwarning":1,"prefershttps":1,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"vector-simplesearch":1,"vector-collapsiblenav":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"aftv5-last-filter":null,"visualeditor-enable":0,"visualeditor-enable-experimental":0,"visualeditor-betatempdisable":0,"wikilove-enabled":1,"echo-subscriptions-web-page-review":true,"echo-subscriptions-email-page-review":false,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"echo-notify-show-link":true,"echo-show-alert":true,"echo-email-frequency":0,"echo-email-format":"html","echo-subscriptions-email-system":true,"echo-subscriptions-web-system":true,"echo-subscriptions-email-other":false,"echo-subscriptions-web-other":true,"echo-subscriptions-email-edit-user-talk":false,"echo-subscriptions-web-edit-user-talk":true,
+"echo-subscriptions-email-reverted":false,"echo-subscriptions-web-reverted":true,"echo-subscriptions-email-article-linked":false,"echo-subscriptions-web-article-linked":false,"echo-subscriptions-email-mention":false,"echo-subscriptions-web-mention":true,"echo-subscriptions-web-edit-thank":true,"echo-subscriptions-email-edit-thank":false,"gettingstarted-task-toolbar-show-intro":true,"uls-preferences":"","language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs446":false,"searchNs447":false
+,"searchNs710":false,"searchNs711":false,"searchNs828":false,"searchNs829":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-mySandbox":1,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:156d8fe0ae17f8afd74198057563e45d */
+}if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","ext.visualEditor.viewPageTarget.init","ext.wikimediaShopLink.core","ext.uls.init","ext.uls.interface","wikibase.client.init","ext.centralNotice.bannerController","skins.vector.js"]);
+}/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}if(window.mw){
+mw.loader.load(["mobile.desktop","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.cite","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","mw.MwEmbedSupport.style","ext.vector.collapsibleNav","ext.articleFeedbackv5.startup","ext.gettingstarted.logging","ext.gettingstarted.openTask","schema.HttpsSupport","ext.coreEvents.httpsSupport","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","mw.PopUpMediaTransform"],null,true);
+}

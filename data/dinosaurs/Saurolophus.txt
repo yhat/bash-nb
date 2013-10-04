@@ -1,0 +1,468 @@
+
+
+
+Saurolophus - Wikipedia, the free encyclopedia
+
+
+
+
+
+
+
+
+
+
+
+
+a:lang(ar),a:lang(ckb),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:0de201fdea5d684523607ed88007b127 */
+
+
+
+
+[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.22wmf19/skins/vector/csshover.min.htc")}</style><![endif]
+
+		
+		
+		
+			
+			
+						 CentralNotice 
+						Saurolophus
+			
+								From Wikipedia, the free encyclopedia
+								
+												
+					Jump to:					navigation, 					search
+				
+				
+
+
+
+Saurolophus
+Temporal range: Late Cretaceous, 69.5–68.5Ma
+
+PreЄ
+Є
+O
+S
+D
+C
+P
+T
+J
+K
+Pg
+N
+
+
+
+↓
+
+
+
+
+
+
+
+
+
+Mounted S. angustirostris, Palaeontological Institute, Moscow
+
+
+Scientific classification 
+
+
+Kingdom:
+Animalia
+
+
+Phylum:
+Chordata
+
+
+Clade:
+Sauropsida
+
+
+Clade:
+Dinosauria
+
+
+Order:
+†Ornithischia
+
+
+Clade:
+†Ornithopoda
+
+
+Family:
+†Hadrosauridae
+
+
+Subfamily:
+†Saurolophinae
+
+
+Tribe:
+†Saurolophini
+
+
+Genus:
+†Saurolophus
+Brown, 1912
+
+
+Type species
+
+
+†Saurolophus osborni
+Brown, 1912
+
+
+Species
+
+
+
+†S. osborni Brown, 1912
+†S. angustirostris Rozhdestvensky, 1952
+†S. kryschtofovici Riabinin, 1930 (dubious)
+†S. "morrisi" Prieto-Márquez & Wagner, in press
+
+
+
+
+Saurolophus (/sɔːˈrɒləfəs/; meaning "lizard crest") is a genus of large hadrosaurine duckbill that lived about 69.5–68.5 million years ago,[1] in the Late Cretaceous of North America and Asia; it is one of the few genera of dinosaurs known from multiple continents. It is distinguished by a spike-like crest which projects up and back from the skull. Saurolophus was an herbivorous dinosaur which could move about either bipedally or quadrupedally.
+The type species, S. osborni, was described by Barnum Brown in 1912 from Canadian fossils. A second valid species, S. angustirostris, is represented by numerous specimens from Mongolia, and was described by Anatoly Konstantinovich Rozhdestvensky. A third species, S. "morrisi" from California, was a nomen nudum as of 2011,[2] and a fourth species, S. kryschtofovici from China, is considered dubious.
+
+
+Contents
+
+
+1 Description
+2 Classification
+3 Discovery and history
+
+3.1 Species
+
+
+4 Paleoecology
+5 Paleobiology
+
+5.1 Crest
+
+
+6 References
+7 External links
+
+
+Description[edit]
+
+
+
+
+Restorations of S. osborni and S. angustirostris, showing differences in scalation
+
+
+Saurolophus is known from material including nearly complete skeletons, giving researchers a clear picture of its bony anatomy. S. osborni, the rarer Albertan species, was around 9.8 meters long (32 feet), with its skull a meter long (3.3 feet).[3] Its weight is estimated at 1.9 tonnes (2.1 tons).[4] S. angustirostris, the Mongolian species, was larger; the type skeleton is roughly 12 meters long (39.4 ft), and larger remains are reported.[4] Aside from size, the two species are virtually identical, with differentiation hindered by lack of study.[5]
+The most distinctive feature of Saurolophus is its cranial crest, which is present in young individuals but is smaller. It is long and spike-like and projects upward and backward at about a 45 degree angle, starting from over the eyes. This crest is often described as solid, but appears to be solid only at the point, with internal chambers that may have had a respiratory and/or heat-regulation function.[6]
+Classification[edit]
+Barnum Brown, who described the first specimens, put it in its own subfamily in "Trachodontidae" (=Hadrosauridae), the Saurolophinae. At the time, this also included Corythosaurus and Hypacrosaurus, the only well-known examples of what would become Lambeosaurinae.[7] Brown thought that Saurolophus had an expanded tip to the ischium bone in the hip, as dinosaurs now recognized as lambeosaurines had, but this appears to have been based on a mistakenly associated lambeosaurine ischium. Additionally, he misinterpreted the crests of Saurolophus and lambeosaurines as being made of the same bones.[8]
+Most publications before 2010 classified Saurolophus as a member of Hadrosaurinae, often known colloquially as the "flat-headed hadrosaurs". In 2010, the subfamily Saurolophinae was brought back into use because Hadrosaurus appears to have branched off prior to the "hadrosaurine"–lambeosaurine split. As a result, Hadrosaurinae by definition cannot include the traditional "hadrosaurines". Saurolophinae is the oldest available name for the former "hadrosaurine" clade.[9] Saurolophus, as the name suggests, is a saurolophine, as it has a saurolophine pelvis and a (largely) solid crest.
+Discovery and history[edit]
+
+
+
+
+Photo from the excavation of S. osborni in 1911
+
+
+Barnum Brown recovered the first described remains of Saurolophus in 1911, including a nearly complete skeleton (AMNH 5220). Now on display in the American Museum of Natural History, this skeleton was the first nearly complete dinosaur skeleton from Canada. It was found in rocks of early Maastrichtian age, in the Upper Cretaceous Horseshoe Canyon Formation (then known as the Edmonton Formation) near Tolman Ferry on the Red Deer River in Alberta. Brown wasted little time in describing his material,[10][11] giving it its own subfamily.[7] Saurolophus was an important early reference for other hadrosaurs, as seen in the names of Prosaurolophus ("before Saurolophus") and Parasaurolophus ("near Saurolophus"). However, little additional material has been recovered and described.
+
+
+
+
+A photograph of the panel mount of the holotype of S. osborni, from Barnum Brown, 1913
+
+
+Instead, more abundant remains from Asia have provided more data. Initial remains were not promising: a partial fragmentary ischium from Heilongjiang, China that Riabinin named S. kryschtofovici.[12] Much better remains were soon recovered, though, but from Mongolia's early Maastrichtian-age Nemegt Formation. The 1947–49 Polish-Mongolian Paleontological Expedition recovered the large skeleton that became S. angustirostris as described by Anatoly Rozhdestvensky.[13] Other skeletons from a variety of growth stages have also been discovered, and S. angustirostris is now the most abundant Asian hadrosaurid.[4]
+In 1939–40, two partial skeletons were found in the Moreno Formation of California. These specimens were referred to cf. Saurolophus sp. In 2010, one of the skulls was instead assigned to Edmontosaurus.[14] A newer study placed the two specimens in a new species, S. "morrisi". Because the study has not yet been published, S. "morrisi" is currently a nomen nudum.[15]
+Species[edit]
+
+
+
+
+Saurolophus "morrisi" skull
+
+
+Two species are regarded as valid today: the type species S. osborni, and S. angustirostris. S. osborni (Brown, 1912) is known from a skull and skeleton, two other complete skulls, and skull fragments. S. angustirostris (Rozhdestvensky, 1952) is known from at least fifteen specimens.[16] It differs from S. osborni by some details of the skull as well as in the pattern of scales found in skin impressions. The Mongolian species had a longer skull (by 20%) and the front of the snout (the premaxillary bones) were more upwardly-directed.[17] S. angustirostris also had a distinctive row of square scales along the back and tail, which was smooth in S. osborni. In S. angustirostris, the scales on the tail flank were arranged in vertical patterns, which may have corresponded to striped coloration in life. This area was covered in radial scale patterns in S. osborni, possibly indicating a more mottled or spotted coloration.[18] S, kryschtofovici (Riabinin, 1930) is not considered valid; either it is regarded as a dubious name,[5][16] or as a synonym of S. angustirostris[4] (although the name predates S. angustirostris). As noted above, S. "morrisi" is in press and is not yet official.[15]
+Paleoecology[edit]
+S. osborni is known only from the upper part (unit 4) of the Horseshoe Canyon Formation. It lived alongside other dinosaur species including the ornithopods Hypacrosaurus altispinus and Parksosaurus warreni, ankylosaurid Anodontosaurus lambei, pachycephalosaurid Sphaerotholus edmontonense, ornithomimids Ornithomimus brevitertius and an unnamed species of Struthiomimus, small theropods including Atrociraptor marshalli and Albertonykus borealis, and the tyrannosauroid Albertosaurus sarcophagus.[19] The dinosaurs from this formation form part of the Edmontonian land vertebrate age.[20] The Horseshoe Canyon Formation is interpreted as having a significant marine influence, due to an encroaching Western Interior Seaway, the shallow sea that covered the midsection of North America through much of the Cretaceous.[20] S. osborni may have preferred to stay inland.[16] A 2001 study suggested that Saurolophus osborni was part of a distinct inland fauna characterized by an association between it and Anchiceratops ornatus, while the contemporary coastal fauna was characterized by the association of Pachyrhinosaurus canadensis and Edmontosaurus regalis.[21] However, the association between S. osborni and Anchiceratops was later noted to be in error, Anchiceratops only occurs lower in the Horseshoe Canyon Formation, before the major transgression of the Western Interior Seaway represented by the Drumheller Marine Tongue.[22]
+S. angustirostris was one of the largest herbivores of the Nemegt Formation, which lacked large horned dinosaurs but had sauropods and a more diverse theropod fauna. It coexisted with the rare crested hadrosaurid Barsboldia, flat-headed pachycephalosaurian Homalocephale and domed Prenocephale, the large ankylosaurid Tarchia, rare saltasaurid sauropods Nemegtosaurus and Opisthocoelicaudia, the alvarezsaurid Mononykus, three types of troodontids including Saurornithoides, several oviraptorosaurians including Rinchenia and Nomingia, the ostrich-mimics Gallimimus and Deinocheirus, therizinosaurid Therizinosaurus, tyrannosaurid relative Bagaraatan, and the tyrannosaurid Tarbosaurus.[19] Unlike other Mongolian formations like the well-known Djadochta Formation that includes Velociraptor and Protoceratops, the Nemegt is interpreted as being well-watered, like the Dinosaur Park Formation in Alberta.[20] When examined, the rock facies of the Nemegt formation suggest the presence of stream and river channels, mudflats, and shallow lakes. Sediments also indicate that there existed a rich habitat, offering diverse food in abundant amounts that could sustain Cretaceous dinosaurs.[23]
+Paleobiology[edit]
+
+
+
+
+Saurolophus restoration
+
+
+As a hadrosaurid, Saurolophus would have been a bipedal/quadrupedal herbivore, eating a variety of plants. Its skull permitted a grinding motion analogous to chewing, and its teeth were continually replacing and packed into dental batteries that contained hundreds of teeth, only a relative handful of which were in use at any time. Plant material would have been cropped by its broad beak, and held in the jaws by a cheek-like organ. Its feeding range would have extended from the ground to ~4 meter (13 ft) above.[16] Common S. angustirostris would have been an important large herbivore in the Nemegt Formation, but S. osborni was rare in the Horseshoe Canyon Formation and faced competition from other duckbills (genus Hypacrosaurus). Comparisons between the scleral rings of Saurolophus and modern birds and reptiles suggest that it may have been cathemeral, active throughout the day at short intervals.[24]
+Crest[edit]
+
+
+
+
+Skull of Saurolophus osborni
+
+
+The distinctive spike-like crest of Saurolophus has been interpreted in multiple ways, and could have had multiple functions. Brown compared it to the crest of a chameleon, and suggested it could provide an area for muscle attachment and a connection point for a nonbody back frill like that seen in the basilisk lizard. Peter Dodson interpreted similar features in other duckbills as having use in sexual identification.[25] Maryańska and Osmólska, noting the hollow base, suggested that the crest increased the surface area of the respiratory cavity, and helped in thermoregulation.[6] James Hopson supported a function as a visual signal, and further mentioned the possibility that there were inflatable skin flaps over the nostrils that could have acted as resonators and additional visual signals.[26] This idea has been picked up by authors of popular dinosaur works, such as David B. Norman who discussed hadrosaurid display at length and included a life restoration of such an adaptation in action.[27]
+References[edit]
+
+
+^ Arbour, V. M.; Burns, M. E.; and Sissons, R. L. (2009). "A redescription of the ankylosaurid dinosaur Dyoplosaurus acutosquameus Parks, 1924 (Ornithischia: Ankylosauria) and a revision of the genus". Journal of Vertebrate Paleontology 29 (4): 1117–1135. doi:10.1671/039.029.0405. 
+^ "Saurolophus morrisi, a new species of hadrosaurid dinosaur from the Late Cretaceous of the Pacific coast of North America" in Acta Palaontologica Polonica
+^ Lull, Richard Swann; and Wright, Nelda E. (1942). Hadrosaurian Dinosaurs of North America. Geological Society of America Special Paper 40. Geological Society of America. p. 226. 
+^ a b c d Glut, Donald F. (1997). "Saurolophus". Dinosaurs: The Encyclopedia. Jefferson, North Carolina: McFarland & Co. pp. 788–789. ISBN 0-89950-917-7. 
+^ a b Norman, David B.; Sues, Hans-Dieter (2000). "Ornithopods from Kazakhstan, Mongolia and Siberia". In Benton, Michael J.; Shishkin, Mikhail A.; Unwin, David M.; and Kurochkin, Evgenii N. The Age of Dinosaurs in Russia and Mongolia. Cambridge: Cambridge University Press. pp. 462–479. ISBN 0-521-55476-4. 
+^ a b Maryańska, Teresa; and Osmólska, Halszka (1981). "Cranial anatomy of Saurolophus angustirostris with comments on the Asian Hadrosauridae (Dinosauria)". Palaeontologia Polonica 42: 5–24. 
+^ a b Brown, Barnum (1914). "Corythosaurus casuarius, a new crested dinosaur from the Belly River Cretaceous, with provisional classification of the family Trachodontidae". Bulletin of the American Museum of Natural History 33 (55): 559–564. Retrieved 2007-04-29. 
+^ Sternberg, Charles M. (1954). "Classification of American duckbilled dinosaurs". Journal of Paleontology 28 (3): 382–383. 
+^ Prieto-Márquez, Alberto (2010). "Global phylogeny of Hadrosauridae (Dinosauria: Ornithopoda) using parsimony and Bayesian methods". Zoological Journal of the Linnean Society 159 (2): 435–502. doi:10.1111/j.1096-3642.2009.00617.x. 
+^ Brown, Barnum (1912). "A crested dinosaur from the Edmonton Cretaceous". Bulletin of the American Museum of Natural History 31 (14): 131–136. Retrieved 2007-04-29. 
+^ Brown, Barnum (1913). "The skeleton of Saurolophus, a crested duck-billed dinosaur from the Edmonton Cretaceous". Bulletin of the American Museum of Natural History 32 (19): 387–393. Retrieved 2007-04-29. 
+^ Riabinin, Anatoly Nikolaenvich, N. (1930). "On the age and fauna of the dinosaur beds on the Amur River". Mémoir, Société Mineral Russia (in Russian) 59: 41–51. 
+^ Rozhdestvensky, Anatoly K. (1952). "Новый представитель утконосых динозавров из верхнемеловых отложений Монголии" [A new representative of the duck-billed dinosaurs from the Upper Cretaceous deposits of Mongolia]. Doklady Akademii Nauk SSSR (in Russian) 86 (2): 405–408. 
+^ Bell, P.R.; and Evans, D.C. (2010). "Revision of the status of Saurolophus (Hadrosauridae) from California, USA". Canadian Journal of Earth Sciences 47 (11): 1417–1426. doi:10.1139/E10-062. 
+^ a b Prieto-Márquez, A.; and Wagner, J.R. (2011). "Saurolophus morrisi, a new species of hadrosaurid dinosaur from the Late Cretaceous of the Pacific coast of North America". Acta Palaeontologica Polonica. in press. doi:10.4202/app.2011.0049. 
+^ a b c d Horner, John R.; Weishampel, David B.; and Forster, Catherine A (2004). "Hadrosauridae". In Weishampel, David B.; Dodson, Peter; and Osmólska, Halszka (eds.). The Dinosauria (2nd ed.). Berkeley: University of California Press. pp. 438–463. ISBN 0-520-24209-2. 
+^ Bell, Phil R. (2011). "Cranial osteology and ontogeny of Saurolophus angustirostris from the Late Cretaceous of Mongolia with comments on Saurolophus osborni from Canada" (pdf). Acta Palaeontologica Polonica 56. doi:10.4202/app.2010.0061. 
+^ Bell, P.R. (2012). "Standardized Terminology and Potential Taxonomic Utility for Hadrosaurid Skin Impressions: A Case Study for Saurolophus from Canada and Mongolia." PLoS ONE, 7(2): e31295. doi:10.1371/journal.pone.0031295
+^ a b Weishampel, David B.; Barrett, Paul M.; Coria, Rodolfo A.; Le Loueff, Jean; Xu Xing; Zhao Xijin; Sahni, Ashok; Gomani, Elizabeth M.P.; and Noto, Christopher N. (2004). "Dinosaur distribution". In Weishampel, David B.; Dodson, Peter; and Osmólska, Halszka (eds.). The Dinosauria (2nd ed.). Berkeley: University of California Press. pp. 517–606. ISBN 0-520-24209-2. 
+^ a b c Dodson, Peter (1996). The Horned Dinosaurs: A Natural History. Princeton: Princeton University Press. pp. 14–15. ISBN 0-691-05900-4. 
+^ Lehman, T. M., 2001, Late Cretaceous dinosaur provinciality: In: Mesozoic Vertebrate Life, edited by Tanke, D. H., and Carpenter, K., Indiana University Press, pp. 310-328.
+^ Sullivan, R.M. and Lucas, S. G. (2006). "The Kirtlandian land-vertebrate “age”–faunal composition, temporal position and biostratigraphic correlation in the nonmarine Upper Cretaceous of western North America." Pp. 7-29 in Lucas, S. G. and Sullivan, R.M. (eds.), Late Cretaceous vertebrates from the Western Interior. New Mexico Museum of Natural History and Science Bulletin 35.
+^ Novacek, M. (1996). Dinosaurs of the Flaming Cliffs. Bantam Doubleday Dell Publishing Group Inc. New York, New York. ISBN 978-0-385-47775-8
+^ Schmitz, L.; Motani, R. (2011). "Nocturnality in Dinosaurs Inferred from Scleral Ring and Orbit Morphology". Science 332 (6030): 705–8. doi:10.1126/science.1200043. PMID 21493820. 
+^ Dodson, Peter (1975). "Taxonomic implications of relative growth in lambeosaurine dinosaurs". Systematic Zoology 24 (1): 37–54. doi:10.2307/2412696. JSTOR 2412696. 
+^ Hopson, James A. (1975). "The evolution of cranial display structures in hadrosaurian dinosaurs". Paleobiology 1 (1): 21–43. 
+^ Norman, David B. (1985). "Hadrosaurids II". The Illustrated Encyclopedia of Dinosaurs: An Original and Compelling Insight into Life in the Dinosaur Kingdom. New York: Crescent Books. pp. 122–127. ISBN 0-517-46890-5. 
+
+
+External links[edit]
+
+
+
+
+Dinosaurs portal
+
+
+
+
+Saurolophus, from the Natural History Museum
+
+
+
+
+ 
+NewPP limit report
+CPU time usage: 7.024 seconds
+Real time usage: 7.276 seconds
+Preprocessor visited node count: 28670/1000000
+Preprocessor generated node count: 45596/1500000
+Post‐expand include size: 121881/2048000 bytes
+Template argument size: 47272/2048000 bytes
+Highest expansion depth: 39/40
+Expensive parser function count: 1/500
+Lua time usage: 0.077s
+Lua memory usage: 2.07 MB
+
+
+ Saved in parser cache with key enwiki:pcache:idhash:2820761-0!*!0!!en!4!* and timestamp 20131001103617 
+								
+				Retrieved from "http://en.wikipedia.org/w/index.php?title=Saurolophus&oldid=570951923"				
+												Categories: Dinosaurs of AsiaDinosaurs of North AmericaCretaceous dinosaursHadrosaursHidden categories: Good articlesArticles with 'species' microformats												
+							
+		
+		
+			Navigation menu
+			
+				
+	Personal tools
+	
+Create accountLog in	
+
+				
+					
+	Namespaces
+	
+					Article
+					Talk
+			
+
+
+	
+		
+	Variants
+	
+		
+					
+	
+
+				
+				
+					
+	Views
+	
+					Read
+					Edit
+					View history
+			
+
+
+	Actions
+	
+		
+					
+	
+
+
+	Search
+	
+				
+																				
+		
+	
+
+				
+			
+			
+					
+				
+	Navigation
+	
+		
+			Main page
+			Contents
+			Featured content
+			Current events
+			Random article
+			Donate to Wikipedia
+		
+	
+
+
+	Interaction
+	
+		
+			Help
+			About Wikipedia
+			Community portal
+			Recent changes
+			Contact page
+		
+	
+
+
+	Toolbox
+	
+		
+			What links here
+			Related changes
+			Upload file
+			Special pages
+			Permanent link
+			Page information
+			Data item
+Cite this page		
+	
+
+
+	Print/export
+	
+		
+			Create a book
+			Download as PDF
+			Printable version
+		
+	
+
+
+	Languages
+	
+		
+			Català
+			Česky
+			Deutsch
+			Español
+			Esperanto
+			Français
+			한국어
+			Hrvatski
+			Italiano
+			Lietuvių
+			Magyar
+			Nederlands
+			日本語
+			Polski
+			Português
+			Русский
+			Simple English
+			Српски / srpski
+			Srpskohrvatski / српскохрватски
+			Svenska
+			ไทย
+			中文
+			
+			Edit links
+		
+	
+
+			
+		
+		
+							
+											 This page was last modified on 31 August 2013 at 14:49.
+											Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. 
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+									
+							
+											Privacy policy
+											About Wikipedia
+											Disclaimers
+											Contact Wikipedia
+											Developers
+											Mobile view
+									
+										
+					
+						
+					
+					
+						
+					
+				
+						
+		
+		
+
+
+ Served by mw1071 in 0.225 secs. 
+	
+if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Saurolophus","wgTitle":"Saurolophus","wgCurRevisionId":570951923,"wgRevisionId":570951923,"wgArticleId":2820761,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Good articles","Articles with 'species' microformats","Dinosaurs of Asia","Dinosaurs of North America","Cretaceous dinosaurs","Hadrosaurs"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Saurolophus","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgVectorEnabledModules":{"collapsiblenav":true,"experiments":true},"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"templateEditor":false,"templates":false,"preview":false,"previewDialog":false,"publish":false,"toc":false},"wgArticleFeedbackv5Permissions":{"aft-reader":true,"aft-member":false,"aft-editor":false,"aft-monitor":false,"aft-administrator":false,"aft-oversighter":false,"aft-noone":false},"wgVisualEditor":{"isPageWatched":false,"magnifyClipIconURL":"//bits.wikimedia.org/static-1.22wmf19/skins/common/images/magnify-clip.png","pageLanguageCode":"en","pageLanguageDir":"ltr"},"wikilove-recipient":"","wikilove-anon":0,"wgGuidedTourHelpGuiderUrl":"Help:Guided tours/guider","wgULSAcceptLanguageList":[],"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia","aftv5Article":{"id":2820761,"title":"Saurolophus","namespace":0,"categories":["Articles with 'species' microformats","Cretaceous dinosaurs","Dinosaurs of Asia","Dinosaurs of North America","Good articles","Hadrosaurs"],"permissionLevel":false},"wgWikibaseItemId":"Q131096"});
+}if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":false,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,
+"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"useeditwarning":1,"prefershttps":1,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"vector-simplesearch":1,"vector-collapsiblenav":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"aftv5-last-filter":null,"visualeditor-enable":0,"visualeditor-enable-experimental":0,"visualeditor-betatempdisable":0,"wikilove-enabled":1,"echo-subscriptions-web-page-review":true,"echo-subscriptions-email-page-review":false,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"echo-notify-show-link":true,"echo-show-alert":true,"echo-email-frequency":0,"echo-email-format":"html","echo-subscriptions-email-system":true,"echo-subscriptions-web-system":true,"echo-subscriptions-email-other":false,"echo-subscriptions-web-other":true,"echo-subscriptions-email-edit-user-talk":false,"echo-subscriptions-web-edit-user-talk":true,
+"echo-subscriptions-email-reverted":false,"echo-subscriptions-web-reverted":true,"echo-subscriptions-email-article-linked":false,"echo-subscriptions-web-article-linked":false,"echo-subscriptions-email-mention":false,"echo-subscriptions-web-mention":true,"echo-subscriptions-web-edit-thank":true,"echo-subscriptions-email-edit-thank":false,"gettingstarted-task-toolbar-show-intro":true,"uls-preferences":"","language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs446":false,"searchNs447":false
+,"searchNs710":false,"searchNs711":false,"searchNs828":false,"searchNs829":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-mySandbox":1,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:156d8fe0ae17f8afd74198057563e45d */
+}if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","ext.visualEditor.viewPageTarget.init","ext.wikimediaShopLink.core","ext.uls.init","ext.uls.interface","wikibase.client.init","ext.centralNotice.bannerController","skins.vector.js"]);
+}/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}if(window.mw){
+mw.loader.load(["mobile.desktop","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.cite","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","mw.MwEmbedSupport.style","ext.vector.collapsibleNav","ext.articleFeedbackv5.startup","schema.HttpsSupport","ext.coreEvents.httpsSupport","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","mw.PopUpMediaTransform"],null,true);
+}

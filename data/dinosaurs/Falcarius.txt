@@ -1,0 +1,609 @@
+
+
+
+Falcarius - Wikipedia, the free encyclopedia
+
+
+
+
+
+
+
+
+
+
+
+
+a:lang(ar),a:lang(ckb),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:0de201fdea5d684523607ed88007b127 */
+
+
+
+
+[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.22wmf18/skins/vector/csshover.min.htc")}</style><![endif]
+
+		
+		
+		
+			
+			
+						 CentralNotice 
+						Falcarius
+			
+								From Wikipedia, the free encyclopedia
+								
+												
+					Jump to:					navigation, 					search
+				
+				
+
+
+Falcarius
+Temporal range: Early Cretaceous, 126Ma
+
+PreЄ
+Є
+O
+S
+D
+C
+P
+T
+J
+K
+Pg
+N
+
+
+
+↓
+
+
+
+
+
+
+
+
+
+Reconstructed skeleton, Utah Museum of Natural History
+
+
+Scientific classification 
+
+
+Kingdom:
+Animalia
+
+
+Phylum:
+Chordata
+
+
+Clade:
+Sauropsida
+
+
+Clade:
+Dinosauria
+
+
+Clade:
+Theropoda
+
+
+Clade:
+†Therizinosauria
+
+
+Genus:
+†Falcarius
+Kirkland et al., 2005
+
+
+Species:
+† F. utahensis
+
+
+Binomial name
+
+
+Falcarius utahensis
+Kirkland et al., 2005
+
+
+
+Falcarius is a genus of therizinosaurian dinosaur found in the Cretaceous of east-central Utah, United States. Its name is derived from the word "sickle", falcarius in Latin being a sickle cutter, which scientists have used to describe its unwieldy clawed hands.
+Falcarius was a rather small, 4 metres (13 ft) long, bipedal herbivore. It had a small head and a long neck and tail.
+The find of Falcarius, along with the recently discovered therizinosauroid Beipiaosaurus from the Early Cretaceous of China, clarifies the early evolution of the Therizinosauria and their relationship with the larger group of theropod dinosaurs, because Falcarius is a transitional form between older theropods and the much more changed Therizinosauridae.
+
+
+Contents
+
+
+1 History of discovery
+2 Description
+3 Phylogeny
+4 Notes
+5 References
+6 External links
+
+
+History of discovery[edit]
+
+
+
+
+Mount in Japan
+
+
+The remains of Falcarius were first discovered in 1999 by commercial fossil collector Lawrence Walker at the Crystal Geyser Quarry site in Grand County. He informed paleontologist James Kirkland of the find, who with a team of the Utah Geological Survey from 2001 onwards began to uncover the bones that proved to be present in a two acre (8,000 square meter) area of Utah's Cedar Mountain Formation (Yellow Cat member). Falcarius thus lived approximately 126 million years ago, in the Barremian stage of the early Cretaceous Period. Two extensive bone beds were discovered, including the remains of hundreds, perhaps thousands, of individuals of the new species. The minimum number of individual animals was in 2006 estimated at three hundred.[1] In 2005 over two thousand specimens had been excavated, mostly consisting of disarticulated bones.[2] These included the remains of juvenile animals.[1] In 2008 a second site was reported, the Suarez Quarry, with mainly adult individuals, but of a perhaps slightly different type. In 2010 the number of specimens from the original quarry had increased to over 2700,[3] and was later that year reported to have risen to over three thousand.[4]
+While a first scientific report of Falcarius was published in 2004,[5] and a braincase and the anterior appendicular skeleton were partly described the same year,[6] it was not formally named until a subsequent paper was published in the May 2005 issue of the journal Nature.[2] Co-authors of the study, apart from Kirkland himself, include Scott Sampson, chief curator at the University of Utah's Utah Museum of Natural History, and Lindsay Zanno, then a doctoral student at the University. Dr. Sampson is quoted as saying that this species "...is the missing link between predatory dinosaurs and the bizarre plant-eating therizinosaurs".
+The type species is Falcarius utahensis. The generic name is Latin for "sickle cutter", in reference to the large hand claws. The specific name reflects the provenance from Utah.[2]
+The holotype specimen, UMNH VP 15000, consists of a partial braincase. A large number of paratypes were assigned: specimens UMNH VP 12283, 12285, 12286, 12288, 12290, 12292, 12293, 12315, 12321-12329, 12343-12345, 12347-12349, 12360, 12363, 12366, 12369-12373, 12377, 12380, 12383-12384, 12386-12389, 12392-12394, 12396-12400, 12402-12404, 12406, 12410-12417, 12419-12425, 12427-12439, 12441-12443, 14530-14533, 14537-14538, 14542-14557, 14560-14565, 14568-14582, 14584-14656, 14658-14666, 14668-14670, 14672-14676, 14678-14680, 14682-14690, 14692-14699, 14701-14999 and 15001-15149. Apart from this extensive hypodigm, dozens of other bones were referred to the species.[2]
+A skeletal mount of Falcarius utahensis, consisting of cast reconstructed elements and made by Gaston Design, went on display at the Utah Museum of Natural History on 29 June 2005.
+The species has since been described in detail by Zanno in a series of studies, beginning with her thesis in 2006.[7]
+Description[edit]
+
+
+
+
+Reconstructed skull
+
+
+From examining fossilized bones from several individual animals, scientists have shown that Falcarius utahensis averaged 3.7 to 4 m (12 to 13 ft) in length and was just over 1.2 m (4 ft) tall. Gregory S. Paul in 2010 estimated the weight at a hundred kilogrammes.[8] The smallest juvenile individuals found had a length of about half a metre.[1]
+Zanno in 2010 established some autapomorphies, unique derived traits. On the underside of the braincase there is a well-developed depression, the recessus basisphenoidalis. At the back of the head there are deep depressions below the occipital condyle and on the subotics, each with several pneumatic grooves. On the thumb claw the raised attachment point for the tendon of the extensor muscle is bordered by deep grooves for ligaments. The large skull opening in the snout, the fenestra antorbitalis, is positioned in a depression which reaches the side of the nasal bone. There are at least five pairs of conical teeth in the front of the lower jaws. These teeth are hollowed-out at the inside. On the underside of the vertebrae of the neck there is a depression with at the mid-line a ridge. The vertebrae of the back have below their front extensions, the prezygapophyses, a groove which is divided in three smaller depressions. The middle vertebrae of the back have a second ridge extending from the base of the upper rib joint, the diapophysis, to the back of the vertebra. In the arm, the shaft of the humerus is reinforced by powerful, somewhat obliquely placed, thickenings extending towards the condyles of the lower joint, which swellings have a hollow front edge. The front edge of the hip joint has a well-developed swelling, pointing sideways to the back, on the pubis.[4]
+The head of Falcarius is still very incompletely known. It was small and elongated. With its long neck, Falcarius could apparently reach about 1.5 m (5 ft) off the ground to munch leaves or fruit. The teeth numbered at least sixteen in the maxilla of the upper jaw. The lower jaw carried twenty-eight teeth. Its small leaf-shaped and very finely serrated maxillary teeth indicate that it consumed plant material. The front-most five teeth of the lower jaw are much longer, straighter and more pointed though, and might indicate a partially omnivorous diet including meat, e.g. small animals such as lizards. In the back of the head, the braincase was relatively large. Its lower elements were moderately inflated by pneumatised, hollowed-out, bone tissue.[9]
+The partitioning of the vertebral column is still unknown. The neck was very long with elongated cervical vertebrae. The tail was relatively long. The arm was moderately long with a somewhat robust humerus. The relatively large, and slightly recurved, pointed ten to thirteen centimeter (four to five inch) hand claws were likely used in self-defence.[10]
+
+
+
+
+The propubic pelvis of Falcarius, with the pubis pointing forwards
+
+
+In the pelvis the ilium was by a moderate inclination partly adapted to a more raised position of the trunk. The pelvis was propubic or mesopubic: the pubic bone pointed more or less forwards. The leg was relatively long and adapted to running, with the lower leg longer than the thighbone. In the foot there were three weight-bearing toes. The first toe did not reach the ground nor did the first metatarsal touch the ankle.[3]
+In general Falcarius can be seen as a transitional form between the original theropod build and the more derived Therizinosauridae. Falcarius shared some derived traits with the therizinosaurids: it had a long neck, small head with teeth adapted for eating plant material, a more robust arm with large hand-claws and a more vertical position of the body. On the other hand it resembled more typical theropods in having a long tail, a propubic pelvis, a long lower leg and a foot without a fourth toe reaching the ground.
+Phylogeny[edit]
+Falcarius partly resembles dinosaurs belonging to the Therizinosauridae, part of the group Maniraptora. Falcarius itself probably does not belong to this former group, although it does belong to the more inclusive group Therizinosauria. The group is characterized by wider hips, a comparatively large braincase and long necks typical of plant eaters. The less basal Asian specimens were covered in quill-like feathers; this is assumed for Falcarius as well.
+The describers in 2005 assigned Falcarius to the Therizinosauroidea sensu Zhang, in a basal position.[2] Zanno later placed it as the basal-most taxon in the Therizinosauria, just outside a Therizinosauroidea sensu Sereno.
+The cladogram below shows Zanno's phylogenetic analysis of Therizinosauria in 2010, with Falcarius as the first taxon to split off.[4]
+
+
+
+Therizinosauria
+
+
+
+
+
+Falcarius
+
+
+
+
+
+
+Therizinosauroidea
+
+
+
+
+
+Beipiaosaurus
+
+
+
+
+
+
+unnamed
+
+
+
+
+
+Alxasaurus
+
+
+
+
+
+
+unnamed
+
+
+
+
+
+Erliansaurus
+
+
+
+
+
+
+unnamed
+
+
+
+
+
+Neimongosaurus
+
+
+
+
+
+
+unnamed
+
+
+
+
+
+Enigmosaurus
+
+
+
+
+
+
+unnamed
+
+
+
+
+
+Suzhousaurus
+
+
+
+
+
+
+Therizinosauridae
+
+
+
+
+
+Nanshiungosaurus
+
+
+
+
+
+
+
+
+Segnosaurus
+
+
+
+
+
+
+
+
+Erlikosaurus
+
+
+
+
+
+
+
+
+Therizinosaurus
+
+
+
+
+
+
+Nothronychus
+
+
+
+
+
+Nothronychus mckinleyi
+
+
+
+
+
+
+
+
+Nothronychus graffami
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Notes[edit]
+
+
+^ a b c Zanno, L.E. and Erickson, G.M., 2006, "Ontogeny and life history of Falcarius utahensis, a primitive therizinosauroid from the Early Cretaceous of Utah", Journal of Vertebrate Paleontology 26(3): 143A
+^ a b c d e Kirkland, J. I., Zanno, L. E., Sampson, S. D., Clark, J. M. & DeBlieux, D. D. (2005). "A primitive therizinosauroid dinosaur from the Early Cretaceous of Utah." Nature, 435: 84-87
+^ a b Zanno, L.E., 2010, "Osteology of Falcarius utahensis: Characterizing the anatomy of basal therizinosaurs", Zoological Journal of the Linnaean Society 158: 196-230
+^ a b c Lindsay E. Zanno (2010). "A taxonomic and phylogenetic re-evaluation of Therizinosauria (Dinosauria: Maniraptora)". Journal of Systematic Palaeontology 8 (4): 503–543. doi:10.1080/14772019.2010.488045. 
+^ J.I. Kirkland, L.E. Zanno, D. Deblieux, D. Smith, and S.D. Sampson, 2004, "A new, basal-most therizinosauroid (Theropoda: Maniraptora) from Utah demonstrates a pan-Laurasian distribution for Early Cretaceous (Barremian) therizinosauroids", Journal of Vertebrate Paleontology 24(3, suppl.):78A
+^ Zanno, L.E., 2004, "The pectoral girdle and forelimb of a primitive therizinosauroid (Theropoda: Maniraptora): New information on the phylogenetics and evolution of therizinosaurs", Journal of Vertebrate Paleontology 24(3): 134A
+^ Zanno, L.E., 2006, The pectoral girdle and forelimb of a basal therizinosauroid (Theropoda, Maniraptora) with phylogenetic and functional implications, thesis University of Utah
+^ Paul, G.S., 2010, The Princeton Field Guide to Dinosaurs, Princeton University Press p. 156
+^ David K. Smith, Lindsay E. Zanno, R. Kent Sanders, Donald D. DeBlieux, and James I. Kirkland, 2011, "New information on the braincase of the North American Therizinosaurian (Theropoda, Maniraptora) Falcarius utahensis", Journal of Vertebrate Paleontology, 31(2): 387-404
+^ Zanno, L.E., 2006, "The pectoral girle and forelimb of the primitive therizinosauroid Falcarius utahensis (Theropoda, Maniraptora): Analyzing evolutionary trends within Therizinosauroidea", Journal of Vertebrate Paleontology 26(3): 636-650
+
+
+References[edit]
+
+Smith, Kirkland, Sanders, Zanno and DeBlieux, (2004). "A comparison of North American therizinosaur (Theropoda: Dinosauria) braincases." Journal of Vertebrate Paleontology, 24(3).
+
+External links[edit]
+
+BBC
+Therizinosauroidea - UCMP, Berkeley
+
+
+
+
+
+Dinosaurs portal
+
+
+
+
+
+ 
+NewPP limit report
+CPU time usage: 5.032 seconds
+Real time usage: 5.264 seconds
+Preprocessor visited node count: 27711/1000000
+Preprocessor generated node count: 39401/1500000
+Post‐expand include size: 200603/2048000 bytes
+Template argument size: 186039/2048000 bytes
+Highest expansion depth: 39/40
+Expensive parser function count: 0/500
+Lua time usage: 0.027s
+Lua memory usage: 1.08 MB
+
+
+ Saved in parser cache with key enwiki:pcache:idhash:1843483-0!*!0!!en!4!* and timestamp 20131002102905 
+								
+				Retrieved from "http://en.wikipedia.org/w/index.php?title=Falcarius&oldid=573044332"				
+												Categories: Cretaceous dinosaursDinosaurs of North AmericaFossil taxa described in 2005TherizinosaursTransitional fossilsHidden categories: Articles with 'species' microformats												
+							
+		
+		
+			Navigation menu
+			
+				
+	Personal tools
+	
+Create accountLog in	
+
+				
+					
+	Namespaces
+	
+					Article
+					Talk
+			
+
+
+	
+		
+	Variants
+	
+		
+					
+	
+
+				
+				
+					
+	Views
+	
+					Read
+					Edit
+					View history
+			
+
+
+	Actions
+	
+		
+					
+	
+
+
+	Search
+	
+				
+																				
+		
+	
+
+				
+			
+			
+					
+				
+	Navigation
+	
+		
+			Main page
+			Contents
+			Featured content
+			Current events
+			Random article
+			Donate to Wikipedia
+		
+	
+
+
+	Interaction
+	
+		
+			Help
+			About Wikipedia
+			Community portal
+			Recent changes
+			Contact page
+		
+	
+
+
+	Toolbox
+	
+		
+			What links here
+			Related changes
+			Upload file
+			Special pages
+			Permanent link
+			Page information
+			Data item
+Cite this page		
+	
+
+
+	Print/export
+	
+		
+			Create a book
+			Download as PDF
+			Printable version
+		
+	
+
+
+	Languages
+	
+		
+			Català
+			Español
+			Français
+			Italiano
+			Magyar
+			Nederlands
+			日本語
+			Norsk bokmål
+			Polski
+			Português
+			Русский
+			Slovenčina
+			Svenska
+			Українська
+			中文
+			
+			Edit links
+		
+	
+
+			
+		
+		
+							
+											 This page was last modified on 15 September 2013 at 17:51.
+											Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. 
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+									
+							
+											Privacy policy
+											About Wikipedia
+											Disclaimers
+											Contact Wikipedia
+											Developers
+											Mobile view
+									
+										
+					
+						
+					
+					
+						
+					
+				
+						
+		
+		
+
+
+ Served by mw1055 in 0.174 secs. 
+	
+if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Falcarius","wgTitle":"Falcarius","wgCurRevisionId":573044332,"wgArticleId":1843483,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with 'species' microformats","Cretaceous dinosaurs","Dinosaurs of North America","Fossil taxa described in 2005","Therizinosaurs","Transitional fossils"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Falcarius","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgVectorEnabledModules":{"collapsiblenav":true,"experiments":true},"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"templateEditor":false,"templates":false,"preview":false,"previewDialog":false,"publish":false,"toc":false},"wgArticleFeedbackv5Permissions":{"aft-reader":false,"aft-member":false,"aft-editor":false,"aft-monitor":false,"aft-administrator":false,"aft-oversighter":false,"aft-noone":false},"wgVisualEditor":{"isPageWatched":false,"magnifyClipIconURL":"//bits.wikimedia.org/static-1.22wmf18/skins/common/images/magnify-clip.png","pageLanguageCode":"en","pageLanguageDir":"ltr"},"wikilove-recipient":"","wikilove-anon":0,"wgGuidedTourHelpGuiderUrl":"Help:Guided tours/guider","wgULSAcceptLanguageList":[],"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia","aftv5Article":{"id":1843483,"title":"Falcarius","namespace":0,"categories":["Articles with 'species' microformats","Cretaceous dinosaurs","Dinosaurs of North America","Fossil taxa described in 2005","Therizinosaurs","Transitional fossils"],"permissionLevel":false},"wgWikibaseItemId":"Q251225"});
+}if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":false,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,
+"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"useeditwarning":1,"prefershttps":1,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"vector-simplesearch":1,"vector-collapsiblenav":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"aftv5-last-filter":null,"visualeditor-enable":0,"visualeditor-enable-experimental":0,"visualeditor-betatempdisable":0,"wikilove-enabled":1,"echo-subscriptions-web-page-review":true,"echo-subscriptions-email-page-review":false,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"echo-notify-show-link":true,"echo-show-alert":true,"echo-email-frequency":0,"echo-email-format":"html","echo-subscriptions-email-system":true,"echo-subscriptions-web-system":true,"echo-subscriptions-email-other":false,"echo-subscriptions-web-other":true,"echo-subscriptions-email-edit-user-talk":false,"echo-subscriptions-web-edit-user-talk":true,
+"echo-subscriptions-email-reverted":false,"echo-subscriptions-web-reverted":true,"echo-subscriptions-email-article-linked":false,"echo-subscriptions-web-article-linked":false,"echo-subscriptions-email-mention":false,"echo-subscriptions-web-mention":true,"echo-subscriptions-web-edit-thank":true,"echo-subscriptions-email-edit-thank":false,"gettingstarted-task-toolbar-show-intro":true,"uls-preferences":"","language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs446":false,"searchNs447":false
+,"searchNs710":false,"searchNs711":false,"searchNs828":false,"searchNs829":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-mySandbox":1,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:156d8fe0ae17f8afd74198057563e45d */
+}if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","ext.visualEditor.viewPageTarget.init","ext.wikimediaShopLink.core","ext.uls.init","ext.uls.interface","wikibase.client.init","ext.centralNotice.bannerController","skins.vector.js"]);
+}/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}if(window.mw){
+mw.loader.load(["mobile.desktop","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.cite","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","mw.MwEmbedSupport.style","ext.vector.collapsibleNav","ext.articleFeedbackv5.startup","ext.gettingstarted.logging","ext.gettingstarted.openTask","schema.HttpsSupport","ext.coreEvents.httpsSupport","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","mw.PopUpMediaTransform"],null,true);
+}

@@ -1,0 +1,355 @@
+
+
+
+Stokesosaurus - Wikipedia, the free encyclopedia
+
+
+
+
+
+
+
+
+
+
+
+
+a:lang(ar),a:lang(ckb),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:0de201fdea5d684523607ed88007b127 */
+
+
+
+
+[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.22wmf19/skins/vector/csshover.min.htc")}</style><![endif]
+
+		
+		
+		
+			
+			
+						 CentralNotice 
+						Stokesosaurus
+			
+								From Wikipedia, the free encyclopedia
+								
+												
+					Jump to:					navigation, 					search
+				
+				
+
+
+Stokesosaurus
+Temporal range: Late Jurassic, 150Ma
+
+PreЄ
+Є
+O
+S
+D
+C
+P
+T
+J
+K
+Pg
+N
+
+
+
+↓
+
+
+
+
+
+
+
+
+
+Holotype UMNH VP 7473
+
+
+Scientific classification 
+
+
+Kingdom:
+Animalia
+
+
+Phylum:
+Chordata
+
+
+Clade:
+Sauropsida
+
+
+Clade:
+Dinosauria
+
+
+Clade:
+Theropoda
+
+
+Superfamily:
+†Tyrannosauroidea
+
+
+Genus:
+†Stokesosaurus
+Madsen, 1974
+
+
+Species:
+† S. clevelandi
+
+
+Binomial name
+
+
+Stokesosaurus clevelandi
+Madsen, 1974
+
+
+
+Stokesosaurus (meaning "Stokes' lizard") is a genus of small (around three to four meters (10-13 ft) in length), carnivorous early tyrannosauroid theropod dinosaurs from the late Jurassic period of Utah.
+History[edit]
+
+
+
+
+Estimated size of juvenile South Dakota specimen (blue) and the Stokesosaurus holotype (orange), compared to a human.
+
+
+From 1960 onwards Utah geologist William Lee Stokes and his assistant James Madsen excavated thousands of disarticulated Allosaurus bones at the Cleveland-Lloyd Dinosaur Quarry in Emery County, Utah. During the early seventies Madsen began to catalogue these finds in detail, discovering that some remains represented species new to science. In 1974 Madsen named and described the type species Stokesosaurus clevelandi. Its generic name honours Stokes. The specific name refers to the town of Cleveland, Utah.[1]
+The holotype (UUVP 2938) was uncovered in the Brushy Basin Member of the Morrison Formation dating from the early Tithonian stage, about 150 million years old. It consists of a left ilium or hip bone, belonging to a juvenile individual. Madsen also assigned a paratype, UUVP 2320, a 50% larger right ilium. Additionally he referred a right premaxilla, UUVP 2999.[1] However, this was in 2005 referred to Tanycolagreus.[2] Stokesosaurus and Tanycolagreus are about the same size, and it is possible that the latter is a junior synonym of the former. However, the ilium (the best and perhaps only known element of Stokesosaurus) of Tanycolagreus has never been recovered, making direct comparison difficult.[3]
+In 1976 Peter Malcolm Galton considered Stokesosaurus to be a second species of the British possible early tyrannosauroid Iliosuchus, that he named as Iliosuchus clevelandi.[4] This has found no acceptance among other researchers;[5] in 1980 Galton himself withdrew his opinion.[6]
+Some later finds were referred to Stokesosaurus. This included some ischia and tail vertebrae in 1991,[7] and a partial braincase in 1998.[8] Another, very small ilium referred to Stokesosaurus, found in South Dakota,[9] is lost but may actually belong to the related Aviatyrannis.[10] More fragmentary remains possibly referable to Stokesosaurus have been recovered from stratigraphic zone 2 of the Morrison Formation, dated to the late Kimmeridgian age, about 152 million years ago.[11][12]
+A second species, Stokesosaurus langhami, was described by Roger Benson in 2008 based on a partial skeleton from England.[5] However, further study showed that this species should be referred to a new genus, which was named Juratyrant in 2012. Benson and Stephen Brusatte concluded that not a single bone had been justifiably referred to Stokesosaurus, and that not even the paratype could be safely assigned, leaving the holotype ilium as the only known fossil of the taxon.[13]
+The holotype ilium is twenty-two centimetres long, indicating a small individual. Madsen in 1974 estimated that the adult body length was about four metres.[1] In 2010 Gregory S. Paul estimated the length at 2.5 metres, the weight at sixty kilogrammes.[14] In 2012 Benson and Brusatte established a single unique derived trait or autapomorphy of Stokesosaurus: the normally vertical ridge on the outer blade surface of the ilium, above the hip joint, was strongly inclined to the back and reached the upper rim of the blade.[13]
+In 1974 Madsen assigned Stokesosaurus to the Tyrannosauridae.[1] However, modern cladistic analyses indicate a more basal position. In 2012 the study by Brusatte and Benson recovered Stokesosaurus as a basal member of the Tyrannosauroidea, and closely related to Eotyrannus and Juratyrant.[13]
+References[edit]
+
+
+^ a b c d Madsen J.H. (1974). "A new theropod dinosaur from the Upper Jurassic of Utah". Journal of Paleontology 48: 27–31. 
+^ K. Carpenter, C.A. Miles, and K.C. Cloward, 2005, "New small theropod from the Upper Jurassic Morrison Formation of Wyoming", In: K. Carpenter (ed.), The Carnivorous Dinosaurs. Indiana University Press, Bloomington pp. 23-48
+^ Foster, J. (2007). Jurassic West: The Dinosaurs of the Morrison Formation and Their World. Indiana University Press. 389pp.
+^ Galton P.M. (1976). "Iliosuchus, a Jurassic dinosaur from Oxfordshire and Utah". Palaeontology 19: 587–589. 
+^ a b Benson, R.B.J. (2008). "New information on Stokesosaurus, a tyrannosauroid (Dinosauria: Theropoda) from North America and the United Kingdom." Journal of Vertebrate Paleontology, 28(3):732-750. doi:10.1671/0272-4634(2008)28[732:NIOSAT]2.0.CO;2.
+^ Galton, P.M. and Powell, H.P., 1980, "The ornithischian dinosaur Camptosaurus prestwichii from the Upper Jurassic of England", Palaeontology, 23: 411-443
+^ Britt, B., 1991, "Theropods of Dry Mesa Quarry (Morrison Formation, Late Jurassic), Colorado, with emphasis on the osteology of Torvosaurus tanneri", Brigham Young University Geology Studies, 37: 1-72
+^ Chure D.; Madsen, James (1998). "An unusual braincase (?Stokesosaurus clevelandi) from the Cleveland-Lloyd Dinosaur Quarry, Utah (Morrison Formation; Late Jurassic)". Journal of Vertebrate Paleontology 18 (1): 115–125. doi:10.1080/02724634.1998.10011038. 
+^ Foster J. and Chure D. (2000). "An ilium of a juvenile Stokesosaurus (Dinosauria, Theropoda) from the Morrison Formation (Upper Jurassic: Kimmeridgian), Meade County, South Dakota". Brigham Young University Geology Studies 45: 5–10. 
+^ Oliver W. M. Rauhut. (2003). "A tyrannosauroid dinosaur from the Upper Jurassic of Portugal". Palaeontology 46(5): 903–910
+^ Turner, C.E. and Peterson, F., (1999). "Biostratigraphy of dinosaurs in the Upper Jurassic Morrison Formation of the Western Interior, U.S.A." Pp. 77–114 in Gillette, D.D. (ed.), Vertebrate Paleontology in Utah. Utah Geological Survey Miscellaneous Publication 99-1.
+^ Foster, J. (2007). "Appendix." Jurassic West: The Dinosaurs of the Morrison Formation and Their World. Indiana University Press. pp. 327-329.
+^ a b c Brusatte, S.L. and Benson, R.B.J. (In press). "The systematics of Late Jurassic tyrannosauroids (Dinosauria: Theropoda) from Europe and North America." Acta Palaeontologica Polonica, (in press). doi:10.4202/app.2011.0141
+^ Paul, G.S., 2010, The Princeton Field Guide to Dinosaurs, Princeton University Press p. 100
+
+
+External links[edit]
+
+Stokesosaurus from DinoData.org
+
+
+
+
+
+Dinosaurs portal
+
+
+
+
+
+ 
+NewPP limit report
+CPU time usage: 3.772 seconds
+Real time usage: 3.991 seconds
+Preprocessor visited node count: 26917/1000000
+Preprocessor generated node count: 37345/1500000
+Post‐expand include size: 114433/2048000 bytes
+Template argument size: 108139/2048000 bytes
+Highest expansion depth: 39/40
+Expensive parser function count: 0/500
+Lua time usage: 0.050s
+Lua memory usage: 1.54 MB
+
+
+ Saved in parser cache with key enwiki:pcache:idhash:3579152-0!*!0!!*!4!* and timestamp 20131002093812 
+								
+				Retrieved from "http://en.wikipedia.org/w/index.php?title=Stokesosaurus&oldid=542138864"				
+												Categories: Dinosaurs of North AmericaJurassic dinosaursTyrannosaursMorrison faunaHidden categories: Articles with 'species' microformats												
+							
+		
+		
+			Navigation menu
+			
+				
+	Personal tools
+	
+Create accountLog in	
+
+				
+					
+	Namespaces
+	
+					Article
+					Talk
+			
+
+
+	
+		
+	Variants
+	
+		
+					
+	
+
+				
+				
+					
+	Views
+	
+					Read
+					Edit
+					View history
+			
+
+
+	Actions
+	
+		
+					
+	
+
+
+	Search
+	
+				
+																				
+		
+	
+
+				
+			
+			
+					
+				
+	Navigation
+	
+		
+			Main page
+			Contents
+			Featured content
+			Current events
+			Random article
+			Donate to Wikipedia
+		
+	
+
+
+	Interaction
+	
+		
+			Help
+			About Wikipedia
+			Community portal
+			Recent changes
+			Contact page
+		
+	
+
+
+	Toolbox
+	
+		
+			What links here
+			Related changes
+			Upload file
+			Special pages
+			Permanent link
+			Page information
+			Data item
+Cite this page		
+	
+
+
+	Print/export
+	
+		
+			Create a book
+			Download as PDF
+			Printable version
+		
+	
+
+
+	Languages
+	
+		
+			Català
+			Česky
+			Deutsch
+			Español
+			Français
+			Italiano
+			Magyar
+			Nederlands
+			Polski
+			Português
+			Svenska
+			中文
+			
+			Edit links
+		
+	
+
+			
+		
+		
+							
+											 This page was last modified on 5 March 2013 at 02:11.
+											Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. 
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+									
+							
+											Privacy policy
+											About Wikipedia
+											Disclaimers
+											Contact Wikipedia
+											Developers
+											Mobile view
+									
+										
+					
+						
+					
+					
+						
+					
+				
+						
+		
+		
+
+
+ Served by mw1027 in 0.253 secs. 
+	
+if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Stokesosaurus","wgTitle":"Stokesosaurus","wgCurRevisionId":542138864,"wgRevisionId":542138864,"wgArticleId":3579152,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with 'species' microformats","Dinosaurs of North America","Jurassic dinosaurs","Tyrannosaurs","Morrison fauna"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Stokesosaurus","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgVectorEnabledModules":{"collapsiblenav":true,"experiments":true},"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"templateEditor":false,"templates":false,"preview":false,"previewDialog":false,"publish":false,"toc":false},"wgArticleFeedbackv5Permissions":{"aft-reader":false,"aft-member":false,"aft-editor":false,"aft-monitor":false,"aft-administrator":false,"aft-oversighter":false,"aft-noone":false},"wgVisualEditor":{"isPageWatched":false,"magnifyClipIconURL":"//bits.wikimedia.org/static-1.22wmf19/skins/common/images/magnify-clip.png","pageLanguageCode":"en","pageLanguageDir":"ltr"},"wikilove-recipient":"","wikilove-anon":0,"wgGuidedTourHelpGuiderUrl":"Help:Guided tours/guider","wgULSAcceptLanguageList":[],"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia","aftv5Article":{"id":3579152,"title":"Stokesosaurus","namespace":0,"categories":["Articles with 'species' microformats","Dinosaurs of North America","Jurassic dinosaurs","Morrison fauna","Tyrannosaurs"],"permissionLevel":false},"wgWikibaseItemId":"Q132366"});
+}if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":false,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,
+"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"useeditwarning":1,"prefershttps":1,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"vector-simplesearch":1,"vector-collapsiblenav":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"aftv5-last-filter":null,"visualeditor-enable":0,"visualeditor-enable-experimental":0,"visualeditor-betatempdisable":0,"wikilove-enabled":1,"echo-subscriptions-web-page-review":true,"echo-subscriptions-email-page-review":false,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"echo-notify-show-link":true,"echo-show-alert":true,"echo-email-frequency":0,"echo-email-format":"html","echo-subscriptions-email-system":true,"echo-subscriptions-web-system":true,"echo-subscriptions-email-other":false,"echo-subscriptions-web-other":true,"echo-subscriptions-email-edit-user-talk":false,"echo-subscriptions-web-edit-user-talk":true,
+"echo-subscriptions-email-reverted":false,"echo-subscriptions-web-reverted":true,"echo-subscriptions-email-article-linked":false,"echo-subscriptions-web-article-linked":false,"echo-subscriptions-email-mention":false,"echo-subscriptions-web-mention":true,"echo-subscriptions-web-edit-thank":true,"echo-subscriptions-email-edit-thank":false,"gettingstarted-task-toolbar-show-intro":true,"uls-preferences":"","language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs446":false,"searchNs447":false
+,"searchNs710":false,"searchNs711":false,"searchNs828":false,"searchNs829":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-mySandbox":1,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:156d8fe0ae17f8afd74198057563e45d */
+}if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","ext.visualEditor.viewPageTarget.init","ext.wikimediaShopLink.core","ext.uls.init","ext.uls.interface","wikibase.client.init","ext.centralNotice.bannerController","skins.vector.js"]);
+}/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}if(window.mw){
+mw.loader.load(["mobile.desktop","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.cite","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","mw.MwEmbedSupport.style","ext.vector.collapsibleNav","ext.articleFeedbackv5.startup","ext.gettingstarted.logging","ext.gettingstarted.openTask","schema.HttpsSupport","ext.coreEvents.httpsSupport","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","mw.PopUpMediaTransform"],null,true);
+}

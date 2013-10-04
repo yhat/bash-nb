@@ -1,0 +1,837 @@
+
+
+
+Set animal - Wikipedia, the free encyclopedia
+
+
+
+
+
+
+
+
+
+
+
+
+a:lang(ar),a:lang(ckb),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:0de201fdea5d684523607ed88007b127 */
+
+
+
+
+[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.22wmf18/skins/vector/csshover.min.htc")}</style><![endif]
+
+		
+		
+		
+			
+			
+						 CentralNotice 
+						Set animal
+			
+								From Wikipedia, the free encyclopedia
+								  (Redirected from Seth animal)
+												
+					Jump to:					navigation, 					search
+				
+				
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+Depictions of the Set animal
+(Gardiner E20, E21, C7)
+in hieroglyphs
+
+
+In ancient Egyptian art, the Set animal, or sha, is a chimerical beast, the totemic animal of the god Set. Because Set was identified with the Greek Typhon, the animal is also commonly known as the Typhonian animal or Typhonic beast. There may be some relation between the sha and the modern Egyptian cryptid known as the salawa.
+
+
+Contents
+
+
+1 Hieroglyphic representation
+2 Physical characteristics
+3 Ancient Egypt
+
+3.1 Association with Set
+3.2 Disappearance of the Sha
+
+
+4 Identification
+5 Salawa cryptid
+6 See also
+7 References
+8 Bibliography
+
+
+Hieroglyphic representation[edit]
+The ancient Egyptian Set-animal, Gardiner no. E20, E21, is one of the portrayals of the God Set. The other common hieroglyph used to represent Set is a seated, jackal-headed god, Gardiner no. C7.
+The linguistic use in the Egyptian language is as the determinative, for words portraying items with chaos, example words related to suffering, violence, perturbation. Also for the 'violent storms' of the atmosphere, a tempest.[1]
+According to Egyptologist Richard H. Wilkinson, the first known use of the Set animal was upon the Scorpion Macehead of King Scorpion, Dynasty 0. It was soon thereafter portrayed mounted upon the serekhs of Seth-Peribsen and Khasekhemwy.[2]
+
+
+
+
+
+
+
+Relief with cartouche
+
+
+
+
+
+
+
+
+
+Obelisk text (close-up)
+
+
+
+
+
+
+
+
+
+Obelisk text
+
+
+
+
+
+
+
+
+
+The animal Sha (after an original by E.A. Wallis Budge)
+
+
+
+
+Physical characteristics[edit]
+The sha is usually depicted as a slender dog, resembling a greyhound or a jackal, with three distinguishing features: a stiff tail, often forked at the end, which stands straight up or at an angle, whether the animal is sitting, standing, or walking; its ears, also held erect, are usually depicted as squarish or triangular, narrowest at the base and widest at the squarish tops; and a long nose, often with a slight downward curve. It is normally depicted as black, but may also have been reddish.[3][4]
+Ancient Egypt[edit]
+Drawings of the sha appear in Egyptian artwork from predynastic times until at least the period of the New Kingdom, a period of some two thousand years. Although sometimes described as a fantastic or composite animal, it was depicted in a realistic manner more typical of actual creatures. The sha is found on a ceremonial mace-head dating to the predynastic period; on the serekhs of the Second Dynasty kings Peribsen and Khasekhemwy; in Twelfth Dynasty tombs at Beni-hasan; and, in the form of Set, in the royal cartouches of the Nineteenth Dynasty kings Seti I and Seti II, and the Twentieth Dynasty king Setnakhte and his descendants.[5][6][7][8]
+Association with Set[edit]
+The god Set was usually depicted as a man with a head resembling that of the sha, usually with a long, slightly curved nose, and erect ears, squared at the tops. Occasionally he was represented in animal form as the sha itself, although he was also depicted in the form of an ass or as a black pig. Other animals sacred to Set included the antelope, hippopotamus, wild boar, crocodile, and scorpion, all of which represented strength, power, protection, or wildness. The sha was also used as a determinative in the names of Set and the goddess Nubt, who may be identified with Nephthys, the wife of Set.[9][10]
+In art, Set was mostly depicted as a mysterious and unknown creature, referred to by Egyptologists as the Set animal or Typhonic beast, with a curved snout, square ears, forked tail, and canine body, or sometimes as a human with only the head of the Set animal. It has no complete resemblance to any known creature, although it does resemble a composite of an aardvark, a donkey, and a jackal[citation needed]. In some descriptions he has the head of a greyhound. The earliest known representation of Set comes from a tomb dating to the Naqada I phase of the Predynastic Period (circa 4000 BC–3500 BC), and the Set-animal is even found on a mace-head of the Scorpion King, a Protodynastic ruler.
+Was ("power") scepters represent the Set-animal. Was scepters were carried by gods, pharaohs, and priests, as a symbol of power, and in later use, control over the force of chaos (Set). The head and forked tail of the Set-animal are clearly present. Was scepters are often depicted in paintings, drawings, and carvings of gods, and remnants of real was scepters have been found constructed of faience or wood.
+Both the Second Dynasty kings Peribsen and Khasekhemwy, whose serekhs depict the sha, identified themselves as divine manifestations of Set on earth, as previous kings had identified themselves with Horus. During the Old Kingdom, Horus and Set were generally viewed as twin supporters and defenders of the god Ra, head of the Egyptian pantheon; and they were often depicted anointing the king, as the divine source of his authority. The association of Horus and Set probably reflected the reconciliation of a struggle between two royal cults. Following the unification of Egypt, Narmer and the kings of the First Dynasty embraced the worship of Horus, by adopting the Horus name as part of their official nomenclature. This name identified the king as the god's representative on earth. Peribsen, however, chose a Set name in place of a Horus name, while Khasekhemwy's royal title invoked both of the great gods, presumably in an attempt to reconcile the followers of each cult.[11]
+Disappearance of the Sha[edit]
+Although Set was originally viewed as the son and defender of Ra, and the Egyptian kings, his reputation amongst the people declined along with the rise of the cult of Osiris. Originally a vegetation god, Osiris became one of the pre-eminent gods of the Egyptian pantheon. His worship stressed the role of Set as violence personified; the murderer of his brother, and usurper of his throne, who instead of standing alongside Horus, became his eternal enemy. This view of Set was encouraged during the Second Intermediate Period, when Egypt was invaded by the Hyksos, a Semitic people from the east, whose god 'Sutekh' became identified with Set.[12]
+Set continued to be revered during the New Kingdom. Several kings of the Nineteenth and Twentieth Dynasties had royal names indicating their devotion to Set, and these names were written with a hieroglyphic representation of the god (Gardiner no. C7) as a determinative. Here Set is depicted as a seated deity with the head of a sha. However, during the Third Intermediate Period, Set was deeply unpopular, his worship abandoned, and many depictions of him were destroyed or defaced. References to and depictions of the sha, which was closely linked with Set, must have suffered a similar fate.[13][14]
+Identification[edit]
+Depictions of the sha as an animal appear distinctly canine, but the precise identity of the animal has never been firmly established. It is sometimes described as a jackal or some other wild dog, although the jackal is usually identified with the god Anubis. In connection with Anubis, the jackal is never depicted with the distinguishing features of the sha: the stiff, often forked tail; the squared ears; and the long, slightly curved nose. It is conceivable that these features were added to representations of the jackal solely in order to distinguish Set from Anubis. Early representations of the sha frequently omit the fork at the end of the tail, or show it with something resembling a tuft instead, so the idea of the forked tail may have been symbolic.[15]
+However, some scholars believe the sha to be a stylized representation of some other animal, such as an African hunting dog, a pig, an antelope, an okapi, a giraffe, or even an aardvark; or that it might represent a species that was rare in Egyptian times, and has since become extinct. Since Set was later represented as a donkey or with the head of a donkey,[16] it is possible the donkey was the inspiration for the sha. Others have speculated that it is a purely fantastic or composite animal, which never existed in nature; this was the opinion of Egyptologist E. A. Wallis Budge. Because the name sha is not as familiar as that of Set, and has no independent mythology associated with it, the animal is commonly referred to as the Set or Seth Animal, or the Typhonian Animal, so called because the Greeks equated Set or Sutekh with the monster Typhon.[17][18]
+Salawa cryptid[edit]
+
+
+
+
+Fennec foxes
+
+
+In the 1960s,[citation needed] and again in April 1997,[19] stories circulated in Egypt about a mysterious canid, dubbed the salawa or sal'awa (scary wolf). The creature allegedly attacked several small villages[citation needed] in remote parts of southern Egypt, resulting in several injuries and even deaths.
+A contemporary report[20] indicates that one of the animals was killed by residents of the Qattamiya suburb and tentatively identified by local police as a hyena. During filming of a 2009 episode of the SyFy channel program, Destination Truth, an animal suspected by the film crew of being the salawa was determined to be a fennec fox.[21]
+This variety of fox is another possible identification for the sha. Its large, squarish ears and slender legs, its solitary habits, and its reddish fur are all consistent with representations of the sha, although the animal's other features must have become highly stylized.
+See also[edit]
+
+Ancient Egyptian religion
+Canidae
+Cryptozoology
+List of hieroglyphs/C
+List of hieroglyphs/E
+Peribsen and Khasekhemwy (for the history of the Set animal mounted upon serekh)
+Set (mythology)
+
+References[edit]
+
+
+
+Wikimedia Commons has media related to: Seth-chimerical creature (hieroglyph)
+
+
+
+
+^ Betrò, 1995. Hieroglyphics: The Writings of Ancient Egypt, Section: "Seth", variant "The mythic animal Seth", p. 75.
+^ Wilkinson, 1992. Reading Egyptian Art, Seth Animal, E20, E21, p. 66-67.
+^ E. A. Wallis Budge, The Gods of the Egyptians: Studies in Egyptian Mythology (1904)
+^ New Larousse Encyclopedia of Mythology (1974)
+^ Richard H. Wilkinson, Reading Egyptian Art: A Hieroglyphic Guide to Ancient Egyptian Painting and Sculpture (1992)
+^ E. A. Wallis Budge, The Gods of the Egyptians: Studies in Egyptian Mythology (1904)
+^ New Larousse Encyclopedia of Mythology (1974)
+^ Stephen Quirke, Who Were the Pharaohs? A history of their names with a list of cartouches (1990)
+^ New Larousse Encyclopedia of Mythology (1974)
+^ E. A. Wallis Budge, The Gods of the Egyptians: Studies in Egyptian Mythology (1904)
+^ New Larousse Encyclopedia of Mythology (1974)
+^ New Larousse Encyclopedia of Mythology (1974)
+^ New Larousse Encyclopedia of Mythology (1974)
+^ Stephen Quirke, Who Were the Pharaohs? A history of their names with a list of cartouches (1990)
+^ New Larousse Encyclopedia of Mythology (1974)
+^ H. te Velde, Seth, God of Confusion: A Study of His Role in Egyptian Mythology and Religion, Probleme der Ägyptologie, 6 , G. E. van Baaren-Pape, transl. (W. Helck. Leiden: Brill 1967), pp.13-15.
+^ E. A. Wallis Budge, The Gods of the Egyptians: Studies in Egyptian Mythology (1904)
+^ New Larousse Encyclopedia of Mythology (1974)
+^ George M. Eberhart. Mysterious Creatures, entry "al-Salaawa". ABC-CLIO, 2002. (Google Books)
+^ "Earthweek: Wild beast attacks", Pittsburgh Post-Gazette, April 7, 1997. Page A9. (Google News)
+"Police snipers were dispatched to two Cairo suburbs to hunt down animals, believed to be hyenas, which mauled 23 people during a two-day rampage. Many of the victims were children who were attacked by the beasts at Qattamiya's marketplace. The animals later broke into several apartments, mauling the residents. A young woman managed to throw a blanket on one of the attacking beasts and, with the help of others, was able to beat it to death. Authorities have not yet positively identified the species."
+^ Destination Truth (television program): Ghosts of Chernobyl/Sal'awa (2009)
+
+
+Bibliography[edit]
+
+Betrò, 1995. Hieroglyphics: The Writings of Ancient Egypt, Maria Carmela Betrò, c. 1995, 1996-(English), Section: Seth, (variant hieroglyph: seth animal), p. 75. Abbeville Press Publishers, New York, London, Paris (hardcover, ISBN 0-7892-0232-8)
+Wilkinson, 1992. Reading Egyptian Art: A Hieroglyphic Guide to Ancient Egyptian Painting and Sculpture, Richard H. Wilkinson, c 1992, 1994, Section: Seth Animal, p. 66-67. Thames and Hudson; abbreviated Index, 224 pp. (softcover, ISBN 0-500-27751-6)
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Cryptozoology and cryptobotany
+
+
+
+
+
+
+
+
+
+
+ 
+Overview
+
+
+
+
+
+
+
+
+
+
+
+Core topics
+
+
+
+
+Cryptid
+List of cryptids
+Zoology
+Botany
+Megafauna discovered in modern times
+Pseudoscience
+
+
+
+
+
+
+
+
+
+Cryptozoologists
+
+
+
+
+Bernard Heuvelmans
+Karl Shuker
+Jonathan Downes
+Jon-Erik Beckjord
+John Bindernagel
+Richard Freeman
+Loren Coleman
+Alexandr Mikhailovych Kondratov
+Roy Mackal
+Ivan T. Sanderson
+Organizations
+
+
+
+
+
+
+
+
+
+Books and television
+
+
+
+
+Animal X
+Arthur C. Clarke's Mysterious World
+Beast Hunter
+Beast Legends
+Destination Truth
+Fact or Faked: Paranormal Files
+Fortean TV
+In Search of...
+Is It Real?
+Lost Tapes
+MonsterQuest
+On the Track of Unknown Animals
+Sasquatch: Legend Meets Science
+The X Creatures
+The Secret Saturdays
+Weird Travels
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Zoological cryptids
+
+
+
+
+
+
+
+
+
+
+
+Africa
+
+
+
+
+Adjule
+Agogwe
+Emela-ntouka
+Ennedi tiger
+Gambo
+Grootslang
+Gustave
+Inkanyamba
+Kongamato
+Mbielu-Mbielu-Mbielu
+Mokele-mbembe
+Malawi terror beast
+Mamlambo
+Muhuru
+Nandi Bear
+Ngoubou
+Olitiau
+Nguma-monene
+Popobawa
+Salawa
+Trunko
+Zanzibar Leopard
+
+
+
+
+
+
+
+
+
+Asia
+
+
+
+
+Ahool
+Akkorokamui
+Almas
+Amomongo
+Ayia Napa sea monster
+Barmanou
+Batutut
+Bergman's Bear
+Brosno dragon
+Bukit Timah Monkey Man
+Buru
+Cat-fox
+Devil Bird
+Hibagon
+Issie
+Kappa
+Kting Voar
+Kussie
+Lake Tianchi Monster
+Lake Van Monster
+Maltese Tiger
+Mongolian Death Worm
+Monkey-man of Delhi
+Orang Pendek
+Phaya Naga
+Qilin
+Ropen
+Sigbin
+Sarimanok
+Sumxu
+Tsuchinoko
+Veo
+Yeren
+Yeti
+
+
+
+
+
+
+
+
+
+Australasia-
+Oceania
+
+
+
+
+Amomongo
+Blue Mountains panther
+Bunyip
+Ebu Gogo
+Four Mile Globster
+Gippsland phantom cat
+Globster
+Manaul
+Megalania
+Moehau
+Zuiyo-maru carcass
+New Zealand Globster
+Queensland Tiger
+Siyokoy
+Tasmanian Globster
+Thylacoleo
+Tikbalang
+Waitoreke
+Yowie
+
+
+
+
+
+
+
+
+
+Europe
+
+
+
+
+Afanc
+Ayia Napa sea monster
+Beast of Gévaudan
+Bishop-fish
+British big cats
+Canvey Island Monster
+Dahu
+Dobhar-chú
+Each uisge
+Eachy
+Elwetritsch
+Fear liath
+Fish-man of Liérganes
+Giglioli's Whale
+Hebrides Blob
+Jenny Haniver
+Kellas Cat
+Kraken
+Lagarfljót Worm
+Lariosauro
+Lindworm
+Loch Ness Monster
+Morag
+Morgawr
+Muc-sheilch
+Owlman
+Sea monk
+Sea serpent
+Selma
+Skvader
+Storsjöodjuret
+Stronsay Beast
+Tatzelwurm
+Wolpertinger
+
+
+
+
+
+
+
+
+
+North
+America
+
+
+
+
+Altamaha-ha
+Bear Lake Monster
+Beast of Bladenboro
+Beast of Bray Road
+Beast of Busco
+Bermuda Blob
+Bermuda Blob 2
+Bessie
+Bigfoot
+Cadborosaurus willsi
+Champ
+Chessie
+Chupacabra
+Crawfordsville monster
+Dover Demon
+Flatwoods monster
+Fouke Monster
+Goatman
+Grassman
+Hodag
+Homo gardarensis
+Honey Island Swamp monster
+Hoop snake
+Huay Chivo
+Igopogo
+Iliamna Lake Monster
+Jersey Devil
+Kingstie
+Lake Worth Monster
+Lizard Man of Scape Ore Swamp
+Loveland frog
+Lusca
+MacFarlane's bear
+Manipogo
+Melon heads
+Michigan Dogman
+Minnesota Iceman
+Momo the Monster
+Montauk Monster
+Mothman
+Mussie
+Nantucket Blob
+Newfoundland Blob
+Nuk-luk
+Ogopogo
+Old Yellow Top
+Ozark Howler
+Panama Creature
+Pope Lick Monster
+Shunka Warakin
+Sidehill gouger
+Skunk Ape
+St. Augustine Monster
+Tahoe Tessie
+Thunderbird
+Trinity Alps giant salamander
+Tsul 'Kalu
+Turtle Lake Monster
+Waheela
+Wampus cat
+
+
+
+
+
+
+
+
+
+South
+America
+
+
+
+
+Ameranthropoides loysi
+Andean Wolf
+Bloop
+Cherufe
+Chilean Blob
+Chupacabra
+Giant anaconda
+Mapinguari
+Minhocão
+Mono Grande
+Mylodon
+Nahuelito
+Peuchen
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Botanical cryptids
+
+
+
+
+
+
+
+
+
+Raskovnik
+Man-eating tree
+Umdhlebi
+Vegetable Lamb of Tartary
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+NewPP limit report
+CPU time usage: 1.392 seconds
+Real time usage: 1.582 seconds
+Preprocessor visited node count: 3459/1000000
+Preprocessor generated node count: 16636/1500000
+Post‐expand include size: 113181/2048000 bytes
+Template argument size: 18868/2048000 bytes
+Highest expansion depth: 20/40
+Expensive parser function count: 4/500
+Lua time usage: 0.065s
+Lua memory usage: 1.01 MB
+
+
+ Saved in parser cache with key enwiki:pcache:idhash:25364746-0!*!0!!en!4!* and timestamp 20130927060330 
+								
+				Retrieved from "http://en.wikipedia.org/w/index.php?title=Set_animal&oldid=549993346"				
+												Categories: Mythological dogsMythological hybridsEgyptian legendary creaturesEgyptian hieroglyphs-Gardiner listedEgyptian hieroglyphs: mammalsHidden categories: All articles with unsourced statementsArticles with unsourced statements from May 2009Articles with unsourced statements from April 2013Commons category without a link on Wikidata												
+							
+		
+		
+			Navigation menu
+			
+				
+	Personal tools
+	
+Create accountLog in	
+
+				
+					
+	Namespaces
+	
+					Article
+					Talk
+			
+
+
+	
+		
+	Variants
+	
+		
+					
+	
+
+				
+				
+					
+	Views
+	
+					Read
+					Edit
+					View history
+			
+
+
+	Actions
+	
+		
+					
+	
+
+
+	Search
+	
+				
+																				
+		
+	
+
+				
+			
+			
+					
+				
+	Navigation
+	
+		
+			Main page
+			Contents
+			Featured content
+			Current events
+			Random article
+			Donate to Wikipedia
+		
+	
+
+
+	Interaction
+	
+		
+			Help
+			About Wikipedia
+			Community portal
+			Recent changes
+			Contact page
+		
+	
+
+
+	Toolbox
+	
+		
+			What links here
+			Related changes
+			Upload file
+			Special pages
+			Permanent link
+			Page information
+			Data item
+Cite this page		
+	
+
+
+	Print/export
+	
+		
+			Create a book
+			Download as PDF
+			Printable version
+		
+	
+
+
+	Languages
+	
+		
+			Español
+			Italiano
+			
+			Edit links
+		
+	
+
+			
+		
+		
+							
+											 This page was last modified on 12 April 2013 at 12:37.
+											Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. 
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+									
+							
+											Privacy policy
+											About Wikipedia
+											Disclaimers
+											Contact Wikipedia
+											Developers
+											Mobile view
+									
+										
+					
+						
+					
+					
+						
+					
+				
+						
+		
+		
+
+
+ Served by mw1035 in 0.247 secs. 
+	
+if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Set_animal","wgTitle":"Set animal","wgCurRevisionId":549993346,"wgArticleId":25364746,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["All articles with unsourced statements","Articles with unsourced statements from May 2009","Articles with unsourced statements from April 2013","Commons category without a link on Wikidata","Mythological dogs","Mythological hybrids","Egyptian legendary creatures","Egyptian hieroglyphs-Gardiner listed","Egyptian hieroglyphs: mammals"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Set_animal","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Seth_animal","wgVectorEnabledModules":{"collapsiblenav":true,"experiments":true},"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"templateEditor":false,"templates":false,"preview":false,"previewDialog":false,"publish":false,"toc":false},"wgArticleFeedbackv5Permissions":{"aft-reader":true,"aft-member":false,"aft-editor":false,"aft-monitor":false,"aft-administrator":false,"aft-oversighter":false,"aft-noone":false},"wgVisualEditor":{"isPageWatched":false,"magnifyClipIconURL":"//bits.wikimedia.org/static-1.22wmf18/skins/common/images/magnify-clip.png","pageLanguageCode":"en","pageLanguageDir":"ltr"},"wikilove-recipient":"","wikilove-anon":0,"wgGuidedTourHelpGuiderUrl":"Help:Guided tours/guider","wgULSAcceptLanguageList":["fr-ca"],"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia","aftv5Article":{"id":25364746,"title":"Set animal","namespace":0,"categories":["All articles with unsourced statements","Articles with unsourced statements from April 2013","Articles with unsourced statements from May 2009","Commons category without a link on Wikidata","Egyptian hieroglyphs-Gardiner listed","Egyptian hieroglyphs: mammals","Egyptian legendary creatures","Mythological dogs","Mythological hybrids"],"permissionLevel":false},"wgWikibaseItemId":"Q3945272"});
+}if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":false,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,
+"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"useeditwarning":1,"prefershttps":1,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"vector-simplesearch":1,"vector-collapsiblenav":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"aftv5-last-filter":null,"visualeditor-enable":0,"visualeditor-enable-experimental":0,"visualeditor-betatempdisable":0,"wikilove-enabled":1,"echo-subscriptions-web-page-review":true,"echo-subscriptions-email-page-review":false,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"echo-notify-show-link":true,"echo-show-alert":true,"echo-email-frequency":0,"echo-email-format":"html","echo-subscriptions-email-system":true,"echo-subscriptions-web-system":true,"echo-subscriptions-email-other":false,"echo-subscriptions-web-other":true,"echo-subscriptions-email-edit-user-talk":false,"echo-subscriptions-web-edit-user-talk":true,
+"echo-subscriptions-email-reverted":false,"echo-subscriptions-web-reverted":true,"echo-subscriptions-email-article-linked":false,"echo-subscriptions-web-article-linked":false,"echo-subscriptions-email-mention":false,"echo-subscriptions-web-mention":true,"echo-subscriptions-web-edit-thank":true,"echo-subscriptions-email-edit-thank":false,"gettingstarted-task-toolbar-show-intro":true,"uls-preferences":"","language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs446":false,"searchNs447":false
+,"searchNs710":false,"searchNs711":false,"searchNs828":false,"searchNs829":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-mySandbox":1,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:156d8fe0ae17f8afd74198057563e45d */
+}if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","ext.visualEditor.viewPageTarget.init","ext.wikimediaShopLink.core","ext.uls.init","ext.uls.interface","wikibase.client.init","ext.centralNotice.bannerController","skins.vector.js"]);
+}/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}if(window.mw){
+mw.loader.load(["mobile.desktop","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.cite","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","mw.MwEmbedSupport.style","ext.vector.collapsibleNav","ext.articleFeedbackv5.startup","ext.gettingstarted.logging","ext.gettingstarted.openTask","schema.HttpsSupport","ext.coreEvents.httpsSupport","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","mw.PopUpMediaTransform"],null,true);
+}

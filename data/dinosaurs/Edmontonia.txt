@@ -1,0 +1,406 @@
+
+
+
+Edmontonia - Wikipedia, the free encyclopedia
+
+
+
+
+
+
+
+
+
+
+
+
+a:lang(ar),a:lang(ckb),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:0de201fdea5d684523607ed88007b127 */
+
+
+
+
+[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.22wmf19/skins/vector/csshover.min.htc")}</style><![endif]
+
+		
+		
+		
+			
+			
+						 CentralNotice 
+						Edmontonia
+			
+								From Wikipedia, the free encyclopedia
+								
+												
+					Jump to:					navigation, 					search
+				
+				
+
+
+Edmontonia
+Temporal range: Late Cretaceous, 76.5–65.5Ma
+
+PreЄ
+Є
+O
+S
+D
+C
+P
+T
+J
+K
+Pg
+N
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mounted skeleton
+
+
+Scientific classification 
+
+
+Kingdom:
+Animalia
+
+
+Phylum:
+Chordata
+
+
+Clade:
+Sauropsida
+
+
+Clade:
+Dinosauria
+
+
+Order:
+†Ornithischia
+
+
+Family:
+†Nodosauridae
+
+
+Genus:
+†Edmontonia
+Sternberg, 1928
+
+
+Species
+
+
+
+
+E. longiceps Sternberg, 1928 (type)
+E. rugosidens (Gilmore, 1930 [originally Palaeoscincus rugosidens])
+E. schlessmani (Bakker, 1988 [originally Denversaurus schlessmani])
+
+
+
+
+Synonyms
+
+
+
+
+Denversaurus Bakker, 1988
+Chassternbergia Bakker, 1988
+
+
+
+
+
+Edmontonia was an armoured dinosaur, a part of the nodosaur family from the Late Cretaceous Period. It is named after the Edmonton Formation (now the Horseshoe Canyon Formation), the unit of rock it was found in.
+
+
+Contents
+
+
+1 Description
+2 Discovery and species
+3 Paleobiology
+4 References
+
+
+Description[edit]
+
+
+
+
+An artist's depiction of Edmontonia
+
+
+Edmontonia was bulky and tank-like at roughly 6.6 m (22 ft)[1] long and 2 m (6.5 ft) high.[citation needed] It had small, ridged bony plates on its back and head and many sharp spikes along its back and tail. The four largest spikes jutted out from the shoulders on each side, two of which were split into subspines in some specimens.[1] Its skull had a pear-like shape when viewed from above.[1] (Compare 26 feet long and 8 feet high for the M1 Abrams army tank.)
+Discovery and species[edit]
+
+
+
+
+The 1915 AMNH specimen (first referred to Palaeoscincus by Matthew in 1922), showing the position of the dermal armour
+
+
+In 1915, the American Museum of Natural History obtained the nearly complete, articulated front half of an armoured dinosaur. In 1922, William Diller Matthew referred this specimen to Palaeoscincus.[2] In 1940, Lori Russell referred it to Edmontonia rugosidens.[3]
+The type species of Edmontonia, E. longiceps was discovered in 1924 by George Paterson. It wasn't named until 1928 by C. M. Sternberg. E. rugosidens, formally named by Gilmore in 1930, is reported from the Aguja formation in Texas. Edmontonia species include:
+
+E. longiceps, the type, is known from the middle Horseshoe Canyon Formation (Unit 2) dated to 71.5-71 million years ago.[4]
+E. rugosidens, is sometimes given its own genus, Chassternbergia, first coined as a subgenus by Dr. Robert T. Bakker in 1988 (Edmontonia (Chassternbergia) rugosidens) and based on differences in skull proportion from E. longiceps and its earlier time period.[5][6] This subgenus or genus is not generally accepted;[7][8] It is found in the lower Dinosaur Park Formation, dating about 76.5-75 million years ago.[4]
+And E. australis,[6] which is known from cervical scutes only, and is considered to be a dubious name[7] or a synonym of Glyptodontopelta mimus.[9]
+
+Usually included in this genus is Denversaurus schlessmani ("Schlessman's Denver lizard"). This taxon was erected by Bakker in 1988 for a skull from the Late Maastrichtian Upper Cretaceous Lance Formation of South Dakota,[5] but considered by later workers to belong to Edmontonia rugosidens.[8] The type specimen of Denversaurus is in the collections of the Denver Museum of Natural History (now the Denver Museum of Nature and Science), Denver, Colorado (for which the genus was named).
+Paleobiology[edit]
+
+
+
+
+Life restoration of two Edmontonia from 1922, based on the 1915 AMNH specimen
+
+
+The large spikes were probably used between males in contests of strength to defend territory or gain mates.[1] The spikes would also have been useful for intimidating predators or rival males, protection, or for self-defense.[1] To protect itself from predators, an Edmontonia might have crouched down on the ground to minimize the possibility of attack to its defenseless underbelly.
+Rings in the petrified wood of trees contemporary with Edmontonia show evidence of strong seasonal changes in precipitation and temperature;[1] this may hold an explanation for why so many specimens have been found with their armor plating and spikes in the same position they were in life.[1] The Edmontonia could have died due to drought, dried up, and then rapidly became covered in sediment when the rainy season began.[1]
+References[edit]
+
+
+
+
+Dinosaurs portal
+
+
+
+
+
+^ a b c d e f g h "Edmontonia." In: Dodson, Peter & Britt, Brooks & Carpenter, Kenneth & Forster, Catherine A. & Gillette, David D. & Norell, Mark A. & Olshevsky, George & Parrish, J. Michael & Weishampel, David B. The Age of Dinosaurs. Publications International, LTD. p. 141. ISBN 0-7853-0443-6.
+^ Matthew, W. D. 1922. A superdreadnaught of the animal world—the armoured dinosaur Palaeoscincus. Natural History 22: 333-342.
+^ Russell, L.S. 1940. Edmontonia rugosidens (Gilmore), an armored dinosaur from the Belly River Series of Alberta. University of Toronto Studies, Geology Series 43: 3-2.
+^ a b Arbour, V. M.; Burns, M. E.; and Sissons, R. L. (2009). "A redescription of the ankylosaurid dinosaur Dyoplosaurus acutosquameus Parks, 1924 (Ornithischia: Ankylosauria) and a revision of the genus". Journal of Vertebrate Paleontology 29 (4): 1117–1135. doi:10.1671/039.029.0405. 
+^ a b Bakker, R.T. (1988). Review of the Late Cretaceous nodosauroid Dinosauria: Denversaurus schlessmani, a new armor-plated dinosaur from the Latest Cretaceous of South Dakota, the last survivor of the nodosaurians, with comments on Stegosaur-Nodosaur relationships. Hunteria 1(3):1-23.(1988).
+^ a b Ford, T.L. (2000). A review of ankylosaur osteoderms from New Mexico and a preliminary review of ankylosaur armor. In: Lucas, S.G., and Heckert, A.B. (eds.). Dinosaurs of New Mexico. New Mexico Museum of Natural History and Science Bulletin 17:157-176.
+^ a b Carpenter K (2001). "Phylogenetic analysis of the Ankylosauria". In Carpenter, Kenneth(ed). The Armored Dinosaurs. Indiana University Press. pp. 455–484. ISBN 0-253-33964-2. 
+^ a b Vickaryous, M.K., Maryańska, T., and Weishampel, D.B., (2004). "Ankylosauria". In Weishampel, D. B., Dodson, P., and Osmólska, H. (eds.). The Dinosauria (Second Edition). University of California Press. pp. 363–392. ISBN 0-520-24209-2. 
+^ Burns, Michael E. (2008). "Taxonomic utility of ankylosaur (Dinosauria, Ornithischia) osteoderms: Glyptodontopelta mimus Ford, 2000: a test case". Journal of Vertebrate Paleontology 28 (4): 1102–1109. doi:10.1671/0272-4634-28.4.1102. 
+
+
+
+
+ 
+NewPP limit report
+CPU time usage: 3.352 seconds
+Real time usage: 3.548 seconds
+Preprocessor visited node count: 23652/1000000
+Preprocessor generated node count: 38101/1500000
+Post‐expand include size: 74954/2048000 bytes
+Template argument size: 43099/2048000 bytes
+Highest expansion depth: 39/40
+Expensive parser function count: 2/500
+Lua time usage: 0.035s
+Lua memory usage: 1.38 MB
+
+
+ Saved in parser cache with key enwiki:pcache:idhash:3534789-0!*!0!!en!4!* and timestamp 20131001104531 
+								
+				Retrieved from "http://en.wikipedia.org/w/index.php?title=Edmontonia&oldid=564633895"				
+												Categories: Cretaceous dinosaursDinosaurs of North AmericaAnkylosaursHidden categories: Articles with 'species' microformatsAll articles with unsourced statementsArticles with unsourced statements from December 2008												
+							
+		
+		
+			Navigation menu
+			
+				
+	Personal tools
+	
+Create accountLog in	
+
+				
+					
+	Namespaces
+	
+					Article
+					Talk
+			
+
+
+	
+		
+	Variants
+	
+		
+					
+	
+
+				
+				
+					
+	Views
+	
+					Read
+					Edit
+					View history
+			
+
+
+	Actions
+	
+		
+					
+	
+
+
+	Search
+	
+				
+																				
+		
+	
+
+				
+			
+			
+					
+				
+	Navigation
+	
+		
+			Main page
+			Contents
+			Featured content
+			Current events
+			Random article
+			Donate to Wikipedia
+		
+	
+
+
+	Interaction
+	
+		
+			Help
+			About Wikipedia
+			Community portal
+			Recent changes
+			Contact page
+		
+	
+
+
+	Toolbox
+	
+		
+			What links here
+			Related changes
+			Upload file
+			Special pages
+			Permanent link
+			Page information
+			Data item
+Cite this page		
+	
+
+
+	Print/export
+	
+		
+			Create a book
+			Download as PDF
+			Printable version
+		
+	
+
+
+	Languages
+	
+		
+			Català
+			Česky
+			Cymraeg
+			Deutsch
+			Español
+			Esperanto
+			فارسی
+			Français
+			한국어
+			Italiano
+			עברית
+			Latina
+			Magyar
+			Nederlands
+			日本語
+			Norsk bokmål
+			Polski
+			Português
+			Русский
+			Simple English
+			Slovenčina
+			Српски / srpski
+			Srpskohrvatski / српскохрватски
+			Suomi
+			Svenska
+			Українська
+			Tiếng Việt
+			Volapük
+			中文
+			
+			Edit links
+		
+	
+
+			
+		
+		
+							
+											 This page was last modified on 17 July 2013 at 10:18.
+											Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. 
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+									
+							
+											Privacy policy
+											About Wikipedia
+											Disclaimers
+											Contact Wikipedia
+											Developers
+											Mobile view
+									
+										
+					
+						
+					
+					
+						
+					
+				
+						
+		
+		
+
+
+ Served by mw1082 in 0.211 secs. 
+	
+if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Edmontonia","wgTitle":"Edmontonia","wgCurRevisionId":564633895,"wgRevisionId":564633895,"wgArticleId":3534789,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with 'species' microformats","All articles with unsourced statements","Articles with unsourced statements from December 2008","Cretaceous dinosaurs","Dinosaurs of North America","Ankylosaurs"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Edmontonia","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgVectorEnabledModules":{"collapsiblenav":true,"experiments":true},"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"templateEditor":false,"templates":false,"preview":false,"previewDialog":false,"publish":false,"toc":false},"wgArticleFeedbackv5Permissions":{"aft-reader":true,"aft-member":false,"aft-editor":false,"aft-monitor":false,"aft-administrator":false,"aft-oversighter":false,"aft-noone":false},"wgVisualEditor":{"isPageWatched":false,"magnifyClipIconURL":"//bits.wikimedia.org/static-1.22wmf19/skins/common/images/magnify-clip.png","pageLanguageCode":"en","pageLanguageDir":"ltr"},"wikilove-recipient":"","wikilove-anon":0,"wgGuidedTourHelpGuiderUrl":"Help:Guided tours/guider","wgULSAcceptLanguageList":[],"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia","aftv5Article":{"id":3534789,"title":"Edmontonia","namespace":0,"categories":["All articles with unsourced statements","Ankylosaurs","Articles with 'species' microformats","Articles with unsourced statements from December 2008","Cretaceous dinosaurs","Dinosaurs of North America"],"permissionLevel":false},"wgWikibaseItemId":"Q245262"});
+}if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":false,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,
+"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"useeditwarning":1,"prefershttps":1,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"vector-simplesearch":1,"vector-collapsiblenav":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"aftv5-last-filter":null,"visualeditor-enable":0,"visualeditor-enable-experimental":0,"visualeditor-betatempdisable":0,"wikilove-enabled":1,"echo-subscriptions-web-page-review":true,"echo-subscriptions-email-page-review":false,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"echo-notify-show-link":true,"echo-show-alert":true,"echo-email-frequency":0,"echo-email-format":"html","echo-subscriptions-email-system":true,"echo-subscriptions-web-system":true,"echo-subscriptions-email-other":false,"echo-subscriptions-web-other":true,"echo-subscriptions-email-edit-user-talk":false,"echo-subscriptions-web-edit-user-talk":true,
+"echo-subscriptions-email-reverted":false,"echo-subscriptions-web-reverted":true,"echo-subscriptions-email-article-linked":false,"echo-subscriptions-web-article-linked":false,"echo-subscriptions-email-mention":false,"echo-subscriptions-web-mention":true,"echo-subscriptions-web-edit-thank":true,"echo-subscriptions-email-edit-thank":false,"gettingstarted-task-toolbar-show-intro":true,"uls-preferences":"","language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs446":false,"searchNs447":false
+,"searchNs710":false,"searchNs711":false,"searchNs828":false,"searchNs829":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-mySandbox":1,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:156d8fe0ae17f8afd74198057563e45d */
+}if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","ext.visualEditor.viewPageTarget.init","ext.wikimediaShopLink.core","ext.uls.init","ext.uls.interface","wikibase.client.init","ext.centralNotice.bannerController","skins.vector.js"]);
+}/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}if(window.mw){
+mw.loader.load(["mobile.desktop","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.cite","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","mw.MwEmbedSupport.style","ext.vector.collapsibleNav","ext.articleFeedbackv5.startup","schema.HttpsSupport","ext.coreEvents.httpsSupport","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","mw.PopUpMediaTransform"],null,true);
+}

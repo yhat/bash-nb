@@ -1,0 +1,438 @@
+
+
+
+Sauroposeidon - Wikipedia, the free encyclopedia
+
+
+
+
+
+
+
+
+
+
+
+
+a:lang(ar),a:lang(ckb),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:0de201fdea5d684523607ed88007b127 */
+
+
+
+
+[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.22wmf18/skins/vector/csshover.min.htc")}</style><![endif]
+
+		
+		
+		
+			
+			
+						 CentralNotice 
+						Sauroposeidon
+			
+								From Wikipedia, the free encyclopedia
+								
+												
+					Jump to:					navigation, 					search
+				
+				
+
+
+Sauroposeidon
+Temporal range: Early Cretaceous, 112Ma
+
+PreЄ
+Є
+O
+S
+D
+C
+P
+T
+J
+K
+Pg
+N
+
+
+
+↓
+
+
+
+
+
+
+
+
+
+Size comparison, showing the isolated vertebrae of the holotype specimen in white. Each grid square = 1m
+
+
+Scientific classification 
+
+
+Kingdom:
+Animalia
+
+
+Phylum:
+Chordata
+
+
+Clade:
+Sauropsida
+
+
+Clade:
+Dinosauria
+
+
+Suborder:
+†Sauropodomorpha
+
+
+Clade:
+†Titanosauriformes
+
+
+Clade:
+†Somphospondyli
+
+
+Genus:
+†Sauroposeidon
+Wedel, Cifelli & Sanders, 2000
+
+
+Species:
+† S. proteles
+
+
+Binomial name
+
+
+Sauroposeidon proteles
+Wedel, Cifelli & Sanders, 2000
+
+
+Synonyms
+
+
+
+Paluxysaurus jonesi Rose, 2007
+
+
+
+
+Sauroposeidon (/ˌsɔrɵpɵˈsaɪdən/ SOR-o-po-SY-dən; meaning "earthquake god lizard", after the Greek god Poseidon[1][2]) is a genus of sauropod dinosaur known from several incomplete specimens including a bone bed and fossilized trackways that have been found in the US states of Oklahoma, Wyoming, and Texas. The fossils were found in rocks dating from near the end of the Early Cretaceous (Aptian-early Albian), a time when sauropod diversity in North America had greatly diminished. It was the last known North American sauropod prior to an absence of the group on the continent of roughly 40 million years that ended with the appearance of Alamosaurus during the Maastrichtian.
+While the holotype remains were initially discovered in 1994, due to their unexpected age and unusual size they were initially misclassified as pieces of petrified wood. A more detailed analysis in 1999 revealed their true nature which resulted in a minor media frenzy, and formal publication of the find the following year.[3]
+Paleoecological analysis indicates that Sauroposeidon lived on the shores of the Gulf of Mexico, in a river delta. Extrapolations based on the more completely known Brachiosaurus indicate that the head of Sauroposeidon could reach 17 m (56 ft) in height with its neck extended, which would make it the tallest known dinosaur. With an estimated length of up to 34 m (112 ft) and a mass of 50–60 t (55–66 short tons), it also ranks among the longest and heaviest. However, this animal may not be as closely related to Brachiosaurus as previously thought, so these estimates may be inaccurate.
+While initially described as a brachiosaurid closely related to Brachiosaurus and Giraffatitan, the discovery of additional remains in the Cloverly Formation of Wyoming suggested that it was in fact more closely related to the titanosaurs, in the group Somphospondyli. Analysis of these remains and comparison with others from Texas supported this conclusion, and demonstrated that the more completely known sauropods from the Twin Mountains Formation (including a partial skull and fossil trackways) previously named Paluxysaurus jonesi also belonged to Sauroposeidon.[4]
+
+
+Contents
+
+
+1 Discovery
+2 Etymology
+3 Size
+4 Palaeoecology
+5 References
+6 External links
+
+
+Discovery[edit]
+
+
+
+
+Sauroposeidon was discovered in the southeast portion of Atoka County, Oklahoma
+
+
+The first fossils classified as Sauroposeidon were four neck vertebrae discovered in rural Oklahoma, not far from the Texas border, in a claystone outcrop that dates the fossils to about 110 million years ago (mya). This falls within the Early Cretaceous Period, specificially between the Aptian and Albian epochs. These vertebrae were discovered in 1994 at the Antlers Formation in Atoka County, Oklahoma by Dr. Richard Cifelli and a team from the Oklahoma Museum of Natural History. Initially the fossils were believed to be simply too large to be the remains of an animal, and due to the state of preservation, believed to be tree trunks. In fact, they are the longest such bones known in dinosaurs. Thus, the vertebrae were stored until 1999, when Dr. Cifelli gave them to a graduate student, Matt Wedel, to analyze as part of a project. Upon their realization of the find's significance, they issued a press release in October 1999, followed by official publication of their findings in the Journal of Vertebrate Paleontology in March 2000. The new species was dubbed S. proteles, and the holotype is OMNH 53062.
+In 2012, numerous other sauropod remains that had been known for decades under various different names were also classified in the genus Sauroposeidon.[4] Sauropod bones and trackways had long been known from the Paluxy River area of Texas, usually referred to the genus Pleurocoelus, including partial skeletons (particularly from the Glen Rose Formation, above the Twin Mountains Formation). In the mid 1980s, students from the University of Texas at Austin discovered a bonebed on a ranch in Hood County, but early work stopped in 1987. The quarry was reopened in 1993 and was subsequently worked by parties from Southern Methodist University, the Fort Worth Museum of Science and History, and Tarleton State University. All sauropod remains from this bonebed appear to come from the same genus of sauropod. Petrified logs are also known from the site. The site was fluvial when its rocks were being deposited, with channel sands and muds, and concretions of calcite-cemented sandstone containing fossils. Following excavation and preparation of the majority of the fossils from the site, its sauropod species was given the name Paluxysaurus jonesi.[5]
+
+
+
+
+Neck vertebrae
+
+
+The name Paluxysaurus was based on the specimen FWMSH 93B-10-18, a partial skull including an associated left maxilla, nasal, and teeth. Other bones from the quarry included a partial neck of seven vertebrae, thirteen vertebrae from the back and 30 from the tail, and examples of all limb and girdle bones except some hand and foot bones. It was distinguished from all other sauropods by vertebral details, and has various morphological differences in other bones compared to other sauropods of the Early Cretaceous of North America. The genus was limited to the bonebed remains; for example, the partial skeleton from Wise County known as Pleurocoelus sp. (SMU 61732) is not referred to Paluxysaurus; instead that specimen is the holotype of Astrophocaudia slaughteri D'Emic 2012, another somphospondylan sauropod.[6] There are differences in the remains of P. sp. and Paluxysaurus, but they cannot be distinguished with confidence.[5] In 2012, re-analysis of these specimens in light of additional Sauroposeidon remains led paleontologists D'Emic and Foreman to conclude that Paluxysaurus was the same animal as Sauroposeidon, and thus a junior synonym of S. proteles.[4]
+Etymology[edit]
+The generic name comes from sauros (Greek for "lizard"), and Poseidon, a sea-god in Greek mythology, who is also associated with earthquakes, that facet styled as Ennosigaios or Enosikhthōn, "Earthshaker". This is a reference to the notion that a sauropod's weight was so great that the ground shook as it walked.
+The specific descriptor proteles also comes from the Ancient Greek and means "perfect before the end", which refers to Sauroposeidon's status as the last and most specialized giant sauropod known in North America, during the Early Cretaceous.
+Size[edit]
+
+
+
+
+Hypothetical restoration
+
+
+
+It's truly astonishing. It's arguably the largest creature ever to walk the earth.
+—Richard Cifelli, discoverer of Sauroposeidon[7]
+
+
+
+
+
+Hypothetical restoration
+
+
+The press release in 1999 immediately garnered international media attention, which led to many (inaccurate) news reports of "the largest dinosaur ever!". While it is true that Sauroposeidon is probably the tallest known dinosaur, it is neither the longest nor the most massive. Argentinosaurus is a better candidate for the title "World's Largest Dinosaur" (presuming to ignore, as is conventional, Amphicoelias), though weak fossil evidence makes an exact ranking impossible.
+The original Sauroposeidon find was composed of four articulated, mid-cervical vertebrae (numbers 5 to 8), with the cervical ribs in place. The vertebrae are extremely elongated, with the largest one having an overall length of 1.4 m (4.6 ft), making it the longest sauropod neck vertebra on record.[8] Examination of the bones revealed that they are honeycombed with tiny air cells, and are very thin, like the bones of a chicken or an ostrich, making the neck lighter and easier to lift.[8] The cervical ribs were remarkably long as well, with the longest measurable rib (on vertebra 6) measuring 3.42 m (11.2 ft) – about 18% longer than the longest rib reported for Giraffatitan, but exceeded in length by the cervical ribs of Mamenchisaurus.[3]
+Estimates of Sauroposeidon's size are based on a comparison between the four Sauroposeidon vertebrae and the vertebrae of the HM SII specimen of Giraffatitan brancai, located in the Humboldt Museum in Berlin. The HM SII is the most complete brachiosaur known, though since it is composed of pieces from different individuals its proportions may not be totally accurate. Comparisons to the other relatives of Sauroposeidon are difficult due to limited remains.[3]
+The neck length of Sauroposeidon is estimated at 11.25–12 m (37–39 ft), compared to a neck length of 9 m (30 ft) for the HM SII Giraffatitan. This is based on the assumption that the rest of the neck has the same proportions as Giraffatitan, which is a reasonably good conjecture.[3]
+Sauroposeidon was probably able to raise its head 17 m (56 ft) above the ground, which is as high as a six-story building. In comparison, Giraffatitan could probably raise its head 13.5 m (44 ft) into the air.[3]
+Sauroposeidon's shoulder height has been estimated at 6–7 m (20–23 ft) based on an interpretation of the animal as a brachiosaurid. Estimates of its total possible length have ranged from 28 m (92 ft) to 34 m (112 ft).[1][3][9]
+The mass of Sauroposeidon is estimated at 50–60 t (55–66 short tons). While the vertebrae of Sauroposeidon are 25–33% longer than Giraffatitan', they are only 10–15% larger in diameter. This means that while Sauroposeidon probably has a larger body than Giraffatitan its body is smaller in comparison to the size of its neck, so it did not weigh as much as a scaled-up Giraffatitan. By comparison, Giraffatitan might have weighed 36–40 t (40–44 short tons). This estimate of the Giraffatitan is an average of several different methodologies.[3]
+However, Sauroposeidon has a gracile neck compared to Giraffatitan. If the rest of the body turns out to be similarly slender, the mass estimate may be too high. This could be similar to the way the relatively robust Apatosaurus weighs far more than the longer but much slimmer Diplodocus. In addition, it is possible that sauropods may have had an air sac system, like those in birds, which could reduce all sauropod mass estimates by 20% or more.
+Palaeoecology[edit]
+
+
+
+
+The feeding range of Brachiosaurus and Sauroposeidon
+
+
+
+Sauroposeidon was an unexpected discovery, because it was a huge, gas-guzzling barge of an animal in an age of subcompact sauropods.
+—Matt Wedel, Sauroposeidon team leader[10]
+
+Sauropods, which include the largest terrestrial animals of all time, were a very wide ranging and successful group. They first appeared in the Early Jurassic and soon spread across the world. By the time of the late Jurassic, North America and Africa were dominated by the diplodocids and brachiosaurids and, by the end of the Late Cretaceous, titanosaurids were widespread (though only in the southern hemisphere). Between these periods, in the Early Cretaceous, the fossil record is sparse. Few specimens have been found in North America from that time and those specimens that do exist are often fragmentary or represent juvenile members of their species. Most of the surviving sauropods at the time were also shrinking in size to a mere 15 m (49 ft) in length, and maybe 10–15 t (11–17 short tons), which makes the discovery of an extremely specialized super-giant like Sauroposeidon very unusual.
+Sauroposeidon lived on the shores of the Gulf of Mexico, which ran through Oklahoma at that time, in a vast river delta, similar to the Mississippi delta today. There were few predators which could attempt to attack a full-grown Sauroposeidon, but juveniles were likely to be preyed on by the contemporary Acrocanthosaurus atokensis[11] (a carnosaur slightly smaller than a Tyrannosaurus) and the small coelurosaur Deinonychus antirrhopus.
+References[edit]
+
+
+^ a b Wedel, Mathew J.; Cifelli, Richard L. (Summer 2005). "Sauroposeidon: Oklahoma's Native Giant" (PDF). Oklahoma Geology Notes 65 (2): 40–57. 
+^ According to Wedel et al. (2005), the etymology of the name is based on Poseidon's association with earthquakes, not the sea.
+^ a b c d e f g Wedel, Mathew J.; Cifelli, R.L. and Sanders, R..K. (2000). "Osteology, paleobiology, and relationships of the sauropod dinosaur Sauroposeidon" (PDF). Acta Palaeontologica Polonica 45: 343–3888. 
+^ a b c D'Emic, M.D. and B.Z. Foreman, B.Z. (2012). "The beginning of the sauropod dinosaur hiatus in North America: insights from the Lower Cretaceous Cloverly Formation of Wyoming." Journal of Vertebrate Paleontology, 32(4): 883-902. doi:10.1080/02724634.2012.671204
+^ a b Rose, Peter J. (2007). "A new titanosauriform sauropod (Dinosauria: Saurischia) from the Early Cretaceous of central Texas and its phylogenetic relationships" (web pages). Palaeontologia Electronica 10 (2). 
+^ http://en.wikipedia.org/wiki/Astrophocaudia.  Missing or empty |title= (help)
+^ "Biggest dinosaur identified". Sci/Tech. BBC News. 1999-11-03. Retrieved 2008-08-14. 
+^ a b Wedel, Mathew J.; Cifelli, R.L. and Sanders, R.K. (March 2000). "Sauroposeidon proteles, a new sauropod from the Early Cretaceous of Oklahoma" (PDF). Journal of Vertebrate Paleontology 20 (1): 109–114. doi:10.1671/0272-4634(2000)020[0109:SPANSF]2.0.CO;2. 
+^ Carpenter, Kenneth (2006). "Biggest of the big: a critical re-evaluation of the mega-sauropod Amphicoelias fragillimus". In Foster, John R.; and Lucas, Spencer G. (eds.). Paleontology and Geology of the Upper Jurassic Morrison Formation. New Mexico Museum of Natural History and Science Bulletin 36. Albuquerque: New Mexico Museum of Natural History and Science. pp. 131–138. 
+^ Brusatte, Steve (2000). "Matt Wedel". Paleontology Interviews. Dino Land. Archived from the original on 2009-10-26. Retrieved 2008-08-14. 
+^ http://www.sciencedirect.com/science/article/pii/S0031018212001435.  Missing or empty |title= (help)
+
+
+External links[edit]
+
+
+
+
+Dinosaurs portal
+
+
+
+
+A non-technical article on Dino Land, with links to various news reports.Category;Brachiosaurs
+
+
+
+
+ 
+NewPP limit report
+CPU time usage: 5.496 seconds
+Real time usage: 5.800 seconds
+Preprocessor visited node count: 36563/1000000
+Preprocessor generated node count: 56114/1500000
+Post‐expand include size: 151036/2048000 bytes
+Template argument size: 123503/2048000 bytes
+Highest expansion depth: 39/40
+Expensive parser function count: 0/500
+Lua time usage: 0.148s
+Lua memory usage: 2.41 MB
+
+
+ Saved in parser cache with key enwiki:pcache:idhash:1096641-0!*!0!!en!4!* and timestamp 20131002130338 
+								
+				Retrieved from "http://en.wikipedia.org/w/index.php?title=Sauroposeidon&oldid=568052920"				
+												Categories: Dinosaurs of North AmericaSauropodsCretaceous dinosaursHidden categories: Pages with citations lacking titlesPages with citations having bare URLsArticles with 'species' microformats												
+							
+		
+		
+			Navigation menu
+			
+				
+	Personal tools
+	
+Create accountLog in	
+
+				
+					
+	Namespaces
+	
+					Article
+					Talk
+			
+
+
+	
+		
+	Variants
+	
+		
+					
+	
+
+				
+				
+					
+	Views
+	
+					Read
+					Edit
+					View history
+			
+
+
+	Actions
+	
+		
+					
+	
+
+
+	Search
+	
+				
+																				
+		
+	
+
+				
+			
+			
+					
+				
+	Navigation
+	
+		
+			Main page
+			Contents
+			Featured content
+			Current events
+			Random article
+			Donate to Wikipedia
+		
+	
+
+
+	Interaction
+	
+		
+			Help
+			About Wikipedia
+			Community portal
+			Recent changes
+			Contact page
+		
+	
+
+
+	Toolbox
+	
+		
+			What links here
+			Related changes
+			Upload file
+			Special pages
+			Permanent link
+			Page information
+			Data item
+Cite this page		
+	
+
+
+	Print/export
+	
+		
+			Create a book
+			Download as PDF
+			Printable version
+		
+	
+
+
+	Languages
+	
+		
+			Català
+			Česky
+			Dansk
+			Deutsch
+			Ελληνικά
+			Español
+			Euskara
+			Français
+			Italiano
+			עברית
+			Magyar
+			Nederlands
+			日本語
+			Polski
+			Português
+			Русский
+			Simple English
+			Slovenčina
+			Svenska
+			ไทย
+			Українська
+			中文
+			
+			Edit links
+		
+	
+
+			
+		
+		
+							
+											 This page was last modified on 11 August 2013 at 09:32.
+											Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. 
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+									
+							
+											Privacy policy
+											About Wikipedia
+											Disclaimers
+											Contact Wikipedia
+											Developers
+											Mobile view
+									
+										
+					
+						
+					
+					
+						
+					
+				
+						
+		
+		
+
+
+ Served by mw1174 in 0.160 secs. 
+	
+if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Sauroposeidon","wgTitle":"Sauroposeidon","wgCurRevisionId":568052920,"wgArticleId":1096641,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Pages with citations lacking titles","Pages with citations having bare URLs","Articles with 'species' microformats","Dinosaurs of North America","Sauropods","Cretaceous dinosaurs"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Sauroposeidon","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgVectorEnabledModules":{"collapsiblenav":true,"experiments":true},"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"templateEditor":false,"templates":false,"preview":false,"previewDialog":false,"publish":false,"toc":false},"wgArticleFeedbackv5Permissions":{"aft-reader":true,"aft-member":false,"aft-editor":false,"aft-monitor":false,"aft-administrator":false,"aft-oversighter":false,"aft-noone":false},"wgVisualEditor":{"isPageWatched":false,"magnifyClipIconURL":"//bits.wikimedia.org/static-1.22wmf18/skins/common/images/magnify-clip.png","pageLanguageCode":"en","pageLanguageDir":"ltr"},"wikilove-recipient":"","wikilove-anon":0,"wgGuidedTourHelpGuiderUrl":"Help:Guided tours/guider","wgULSAcceptLanguageList":["en-us","en"],"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia","aftv5Article":{"id":1096641,"title":"Sauroposeidon","namespace":0,"categories":["Articles with 'species' microformats","Cretaceous dinosaurs","Dinosaurs of North America","Pages with citations having bare URLs","Pages with citations lacking titles","Sauropods"],"permissionLevel":false},"wgWikibaseItemId":"Q131693"});
+}if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":false,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,
+"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"useeditwarning":1,"prefershttps":1,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"vector-simplesearch":1,"vector-collapsiblenav":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"aftv5-last-filter":null,"visualeditor-enable":0,"visualeditor-enable-experimental":0,"visualeditor-betatempdisable":0,"wikilove-enabled":1,"echo-subscriptions-web-page-review":true,"echo-subscriptions-email-page-review":false,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"echo-notify-show-link":true,"echo-show-alert":true,"echo-email-frequency":0,"echo-email-format":"html","echo-subscriptions-email-system":true,"echo-subscriptions-web-system":true,"echo-subscriptions-email-other":false,"echo-subscriptions-web-other":true,"echo-subscriptions-email-edit-user-talk":false,"echo-subscriptions-web-edit-user-talk":true,
+"echo-subscriptions-email-reverted":false,"echo-subscriptions-web-reverted":true,"echo-subscriptions-email-article-linked":false,"echo-subscriptions-web-article-linked":false,"echo-subscriptions-email-mention":false,"echo-subscriptions-web-mention":true,"echo-subscriptions-web-edit-thank":true,"echo-subscriptions-email-edit-thank":false,"gettingstarted-task-toolbar-show-intro":true,"uls-preferences":"","language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs446":false,"searchNs447":false
+,"searchNs710":false,"searchNs711":false,"searchNs828":false,"searchNs829":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-mySandbox":1,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:156d8fe0ae17f8afd74198057563e45d */
+}if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","ext.visualEditor.viewPageTarget.init","ext.wikimediaShopLink.core","ext.uls.init","ext.uls.interface","wikibase.client.init","ext.centralNotice.bannerController","skins.vector.js"]);
+}/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}if(window.mw){
+mw.loader.load(["mobile.desktop","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.cite","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","mw.MwEmbedSupport.style","ext.vector.collapsibleNav","ext.articleFeedbackv5.startup","ext.gettingstarted.logging","ext.gettingstarted.openTask","schema.HttpsSupport","ext.coreEvents.httpsSupport","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","mw.PopUpMediaTransform"],null,true);
+}

@@ -1,0 +1,799 @@
+
+
+
+Zanzibar leopard - Wikipedia, the free encyclopedia
+
+
+
+
+
+
+
+
+
+
+
+
+a:lang(ar),a:lang(ckb),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:0de201fdea5d684523607ed88007b127 */
+
+
+
+
+[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.22wmf18/skins/vector/csshover.min.htc")}</style><![endif]
+
+		
+		
+		
+			
+			
+						 CentralNotice 
+						Zanzibar leopard
+			
+								From Wikipedia, the free encyclopedia
+								  (Redirected from Zanzibar Leopard)
+												
+					Jump to:					navigation, 					search
+				
+				
+
+
+Zanzibar Leopard
+
+
+
+
+
+Mounted specimen in the Zanzibar Museum
+
+
+Conservation status
+
+
+
+
+Critically endangered, possibly extinct (IUCN 3.1)
+
+
+
+Scientific classification
+
+
+Kingdom:
+Animalia
+
+
+Phylum:
+Chordata
+
+
+Class:
+Mammalia
+
+
+Order:
+Carnivora
+
+
+Family:
+Felidae
+
+
+Genus:
+Panthera
+
+
+Species:
+P. pardus
+
+
+Subspecies:
+P. p. adersi
+
+
+Trinomial name
+
+
+Panthera pardus adersi
+(Pocock, 1932)
+
+
+
+The Zanzibar Leopard (Panthera pardus adersi) is an elusive and possibly extinct subspecies of leopard endemic to Unguja Island in the Zanzibar archipelago, part of Tanzania. Increasing conflict between people and leopards in the 20th century led to their demonization and determined attempts to exterminate them. Efforts to develop a leopard conservation program in the mid-1990s were shelved when wildlife researchers concluded that there was little prospect for the animal's long-term survival.
+
+
+Contents
+
+
+1 Evolutionary history
+2 Biology and behavior
+3 Demonization and extermination
+4 Conservation and other proposals
+5 References
+6 External links
+
+
+Evolutionary history[edit]
+The evolutionary history of the Zanzibar Leopard parallels that of other endemics on Unguja, including the Zanzibar Servaline Genet and the Zanzibar Red Colobus. It is thought to have evolved in isolation from the African Leopard since at least the end of the last ice age, when the island was separated from mainland Tanzania by rising sea levels. The founder effect and adaptation to local conditions produced a smaller leopard than its continental relatives and one that has “changed its spots”, in that its more numerous rosettes have partially disintegrated into spots.[1][2]
+Biology and behavior[edit]
+The biology and behavior of the Zanzibar Leopard are poorly understood. Only six skins have been located in museums, including the type specimen in the Natural History Museum, London, and a much-faded mounted specimen in the Zanzibar Museum.[3][4] The Zanzibar Leopard has never been studied in the wild and the last time a researcher claimed in print to have seen one was in the early 1980s.[5] Most zoologists presume the Zanzibar Leopard to be extinct or very nearly so.[6] However, Zanzibar government statistics indicate that leopards were still being killed by hunters in the mid-1990s, and islanders continue to report sightings and the predation of livestock.[7]
+Demonization and extermination[edit]
+
+
+
+
+Close up of head
+
+
+Rural Zanzibaris’ descriptions of the leopard and its habits are characterized by the widespread belief that a large number of these carnivores are kept by witches and sent by them to harm or otherwise harass villagers. This belief comes together with an elaborate package of ideas about how leopards are bred, trained, exchanged and sent to do the evil bidding of their owners. For local farmers this supplies a neat explanation for predation by leopards, and more generally for their appearance "out of place" in the vicinity of farms and villages.[8]
+The growth of human population and agriculture in the 20th century was largely responsible for this state of affairs, as people encroached on the habitat of leopards and the animals they preyed upon. Increasing conflict with leopards and the fear that this generated led to a series of campaigns to exterminate them. These were localized at first, but became island-wide after the Zanzibar Revolution of 1964, when a combined anti-witchcraft and leopard-killing campaign was launched under the leadership of Unguja’s most famous witch-finder, Kitanzi.[9] The long-term result of this campaign and the subsequent classification of leopards as “vermin” was to bring them to the brink of extinction.[3]
+Conservation and other proposals[edit]
+
+
+
+
+Full view
+
+
+Serious attention was not paid to the Zanzibar leopard's plight until the mid-1990s, by which time some authorities were already listing it as extinct.[10] A leopard conservation program was drafted by the CARE-funded Jozani-Chwaka Bay Conservation Project, but abandoned in 1997 when wildlife researchers failed to find evidence for the leopard's continuing presence in and around Jozani forest.[6]
+Local wildlife officials, however, have remained more optimistic about the leopard's survival, and some Zanzibaris have proposed approaching alleged leopard keepers in order to ask them to display their leopards to paying visitors. Villagers sometimes offer to take tourists or researchers to see "domesticated" leopards in return for cash, but so far none of these "kept leopard chases" has been known to end in a successful sighting.[5][11][12]
+These conflicting perceptions of the Zanzibar leopard's status and the possibility of its conservation have yet to be reconciled, presenting a dilemma that has been highlighted by researchers.[13][14][15]
+References[edit]
+
+
+^ Pakenham, R.H.W. (1984). The Mammals of Zanzibar and Pemba Islands. Harpenden: privately printed. 
+^ Kingdon, J. (1989). Island Africa: The Evolution of Africa's Rare Animals and Plants. Princeton: Princeton University Press. 
+^ a b Walsh, M.T. & Goldman, H.V. (2003). "The Zanzibar Leopard Between Science and Cryptozoology". Nature East Africa 33 (1/2): 14–16. 
+^ Walsh, M.T. & Goldman, H.V. (2008). "Updating the Inventory of Zanzibar Leopard Specimens". CAT News 49: 4–6. 
+^ a b Swai, I.S. (1983). Wildlife Conservation Status in Zanzibar. Unpublished M.Sc. dissertation, University of Dar es Salaam.
+^ a b Stuart, C. & Stuart, T. (1997). A Preliminary Faunal Survey of South-eastern Unguja (Zanzibar) with Special Emphasis on the Leopard Panthera pardus adersi. African-Arabian Wildlife Research Centre, Loxton, South Africa.
+^ Goldman, H.V. & Walsh, M.T. (2002). "Is the Zanzibar Leopard (Panthera pardus adersi) Extinct?". Journal of East African Natural History 91 (1/2): 15–25. doi:10.2982/0012-8317(2002)91[15:ITZLPP]2.0.CO;2. ISSN 0012-8317. 
+^ Goldman, H.V. & Walsh, M.T. (1997). "A Leopard in Jeopardy: An Anthropological Survey of Practices and Beliefs which Threaten the Survival of the Zanzibar Leopard (Panthera pardus adersi)". Zanzibar Forestry Technical Paper No. 63, Jozani-Chwaka Bay Conservation Project, Commission for Natural Resources, Zanzibar. Retrieved 2011-05-29. 
+^ Walsh, M.T.; Goldman, H.V. (2007). "Killing the King: The Demonization and Extermination of the Zanzibar Leopard / Tuer le roi: la diabolisation et l’extermination du leopard de Zanzibar". In Dounias, E.; Motte-Florac, E.; Dunham, M. Le symbolisme des animaux: L'animal, clef de voûte de la relation entre l'homme et la nature? / Animal symbolism: Animals, keystone of the relationship between man and nature?. Paris: Éditions de l’IRD. pp. 1133–1182. 
+^ Nowell, K. & Jackson, P. (1996). Wild Cats: Status Survey and Conservation Action Plan. Gland, Switzerland: IUCN. 
+^ Marshall, S. (1994). The Status of the Zanzibar Leopard. SIT Tanzania & Commission for Natural Resources, Zanzibar.
+^ Selkow, B. (1995). A Survey of Villager Perceptions of the Zanzibar Leopard. SIT Tanzania & Commission for Natural Resources, Zanzibar.
+^ Goldman, H.V. & Walsh, M.T. (2007). "Human-Wildlife Conflict, Unequal Knowledge and the Failure to Conserve the Zanzibar Leopard (Panthera pardus adersi)". Poster presented to the Felid Biology and Conservation Conference, Wildlife Conservation Research Unit (WildCRU), University of Oxford, 17-21 September 2007. Retrieved 2009-07-23. 
+^ Goldman, H.V. & Walsh, M.T. (2008). "When Culture Threatens the Conservation of Biological Diversity: The Tragic Case of the Zanzibar Leopard (Panthera pardus adersi)". Poster presented to Sustaining Cultural and Biological Diversity in a Rapidly Changing World: Lessons for Global Policy, Thirteenth Annual Symposium of the Center for Biodiversity and Conservation, American Museum of Natural History, New York, 2-5 April 2008. Retrieved 2009-07-23. 
+^ Walsh, M.T. & Goldman, H.V. (2012) "Chasing Imaginary Leopards: Science, Witchcraft and the Politics of Conservation in Zanzibar". Journal of Eastern African Studies 6 (4): 727-746. http://dx.doi.org/10.1080/17531055.2012.729778
+
+
+External links[edit]
+
+The Zanzibar Leopard: Anthropology and Conservation in Zanzibar
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Cryptozoology and cryptobotany
+
+
+
+
+
+
+
+
+
+
+ 
+Overview
+
+
+
+
+
+
+
+
+
+
+
+Core topics
+
+
+
+
+Cryptid
+List of cryptids
+Zoology
+Botany
+Megafauna discovered in modern times
+Pseudoscience
+
+
+
+
+
+
+
+
+
+Cryptozoologists
+
+
+
+
+Bernard Heuvelmans
+Karl Shuker
+Jonathan Downes
+Jon-Erik Beckjord
+John Bindernagel
+Richard Freeman
+Loren Coleman
+Alexandr Mikhailovych Kondratov
+Roy Mackal
+Ivan T. Sanderson
+Organizations
+
+
+
+
+
+
+
+
+
+Books and television
+
+
+
+
+Animal X
+Arthur C. Clarke's Mysterious World
+Beast Hunter
+Beast Legends
+Destination Truth
+Fact or Faked: Paranormal Files
+Fortean TV
+In Search of...
+Is It Real?
+Lost Tapes
+MonsterQuest
+On the Track of Unknown Animals
+Sasquatch: Legend Meets Science
+The X Creatures
+The Secret Saturdays
+Weird Travels
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Zoological cryptids
+
+
+
+
+
+
+
+
+
+
+
+Africa
+
+
+
+
+Adjule
+Agogwe
+Emela-ntouka
+Ennedi tiger
+Gambo
+Grootslang
+Gustave
+Inkanyamba
+Kongamato
+Mbielu-Mbielu-Mbielu
+Mokele-mbembe
+Malawi terror beast
+Mamlambo
+Muhuru
+Nandi Bear
+Ngoubou
+Olitiau
+Nguma-monene
+Popobawa
+Salawa
+Trunko
+Zanzibar Leopard
+
+
+
+
+
+
+
+
+
+Asia
+
+
+
+
+Ahool
+Akkorokamui
+Almas
+Amomongo
+Ayia Napa sea monster
+Barmanou
+Batutut
+Bergman's Bear
+Brosno dragon
+Bukit Timah Monkey Man
+Buru
+Cat-fox
+Devil Bird
+Hibagon
+Issie
+Kappa
+Kting Voar
+Kussie
+Lake Tianchi Monster
+Lake Van Monster
+Maltese Tiger
+Mongolian Death Worm
+Monkey-man of Delhi
+Orang Pendek
+Phaya Naga
+Qilin
+Ropen
+Sigbin
+Sarimanok
+Sumxu
+Tsuchinoko
+Veo
+Yeren
+Yeti
+
+
+
+
+
+
+
+
+
+Australasia-
+Oceania
+
+
+
+
+Amomongo
+Blue Mountains panther
+Bunyip
+Ebu Gogo
+Four Mile Globster
+Gippsland phantom cat
+Globster
+Manaul
+Megalania
+Moehau
+Zuiyo-maru carcass
+New Zealand Globster
+Queensland Tiger
+Siyokoy
+Tasmanian Globster
+Thylacoleo
+Tikbalang
+Waitoreke
+Yowie
+
+
+
+
+
+
+
+
+
+Europe
+
+
+
+
+Afanc
+Ayia Napa sea monster
+Beast of Gévaudan
+Bishop-fish
+British big cats
+Canvey Island Monster
+Dahu
+Dobhar-chú
+Each uisge
+Eachy
+Elwetritsch
+Fear liath
+Fish-man of Liérganes
+Giglioli's Whale
+Hebrides Blob
+Jenny Haniver
+Kellas Cat
+Kraken
+Lagarfljót Worm
+Lariosauro
+Lindworm
+Loch Ness Monster
+Morag
+Morgawr
+Muc-sheilch
+Owlman
+Sea monk
+Sea serpent
+Selma
+Skvader
+Storsjöodjuret
+Stronsay Beast
+Tatzelwurm
+Wolpertinger
+
+
+
+
+
+
+
+
+
+North
+America
+
+
+
+
+Altamaha-ha
+Bear Lake Monster
+Beast of Bladenboro
+Beast of Bray Road
+Beast of Busco
+Bermuda Blob
+Bermuda Blob 2
+Bessie
+Bigfoot
+Cadborosaurus willsi
+Champ
+Chessie
+Chupacabra
+Crawfordsville monster
+Dover Demon
+Flatwoods monster
+Fouke Monster
+Goatman
+Grassman
+Hodag
+Homo gardarensis
+Honey Island Swamp monster
+Hoop snake
+Huay Chivo
+Igopogo
+Iliamna Lake Monster
+Jersey Devil
+Kingstie
+Lake Worth Monster
+Lizard Man of Scape Ore Swamp
+Loveland frog
+Lusca
+MacFarlane's bear
+Manipogo
+Melon heads
+Michigan Dogman
+Minnesota Iceman
+Momo the Monster
+Montauk Monster
+Mothman
+Mussie
+Nantucket Blob
+Newfoundland Blob
+Nuk-luk
+Ogopogo
+Old Yellow Top
+Ozark Howler
+Panama Creature
+Pope Lick Monster
+Shunka Warakin
+Sidehill gouger
+Skunk Ape
+St. Augustine Monster
+Tahoe Tessie
+Thunderbird
+Trinity Alps giant salamander
+Tsul 'Kalu
+Turtle Lake Monster
+Waheela
+Wampus cat
+
+
+
+
+
+
+
+
+
+South
+America
+
+
+
+
+Ameranthropoides loysi
+Andean Wolf
+Bloop
+Cherufe
+Chilean Blob
+Chupacabra
+Giant anaconda
+Mapinguari
+Minhocão
+Mono Grande
+Mylodon
+Nahuelito
+Peuchen
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Botanical cryptids
+
+
+
+
+
+
+
+
+
+Raskovnik
+Man-eating tree
+Umdhlebi
+Vegetable Lamb of Tartary
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+NewPP limit report
+CPU time usage: 0.920 seconds
+Real time usage: 1.329 seconds
+Preprocessor visited node count: 5062/1000000
+Preprocessor generated node count: 32919/1500000
+Post‐expand include size: 133437/2048000 bytes
+Template argument size: 16050/2048000 bytes
+Highest expansion depth: 15/40
+Expensive parser function count: 2/500
+Lua time usage: 0.051s
+Lua memory usage: 1.89 MB
+
+
+ Saved in parser cache with key enwiki:pcache:idhash:8760760-0!*!0!!en!4!* and timestamp 20130917142059 
+								
+				Retrieved from "http://en.wikipedia.org/w/index.php?title=Zanzibar_leopard&oldid=567535556"				
+												Categories: IUCN Red List critically endangered speciesMammals of TanzaniaEndemic fauna of TanzaniaLeopardsZanzibarHidden categories: Articles with 'species' microformats												
+							
+		
+		
+			Navigation menu
+			
+				
+	Personal tools
+	
+Create accountLog in	
+
+				
+					
+	Namespaces
+	
+					Article
+					Talk
+			
+
+
+	
+		
+	Variants
+	
+		
+					
+	
+
+				
+				
+					
+	Views
+	
+					Read
+					Edit
+					View history
+			
+
+
+	Actions
+	
+		
+					
+	
+
+
+	Search
+	
+				
+																				
+		
+	
+
+				
+			
+			
+					
+				
+	Navigation
+	
+		
+			Main page
+			Contents
+			Featured content
+			Current events
+			Random article
+			Donate to Wikipedia
+		
+	
+
+
+	Interaction
+	
+		
+			Help
+			About Wikipedia
+			Community portal
+			Recent changes
+			Contact page
+		
+	
+
+
+	Toolbox
+	
+		
+			What links here
+			Related changes
+			Upload file
+			Special pages
+			Permanent link
+			Page information
+			Data item
+Cite this page		
+	
+
+
+	Print/export
+	
+		
+			Create a book
+			Download as PDF
+			Printable version
+		
+	
+
+
+	Languages
+	
+		
+			العربية
+			Azərbaycanca
+			Български
+			Deutsch
+			Español
+			Gagauz
+			한국어
+			Bahasa Indonesia
+			Italiano
+			Magyar
+			Македонски
+			Nederlands
+			Русский
+			Suomi
+			Türkçe
+			中文
+			
+			Edit links
+		
+	
+
+			
+		
+		
+							
+											 This page was last modified on 7 August 2013 at 13:05.
+											Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. 
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+									
+							
+											Privacy policy
+											About Wikipedia
+											Disclaimers
+											Contact Wikipedia
+											Developers
+											Mobile view
+									
+										
+					
+						
+					
+					
+						
+					
+				
+						
+		
+		
+
+
+ Served by mw1183 in 0.187 secs. 
+	
+if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Zanzibar_leopard","wgTitle":"Zanzibar leopard","wgCurRevisionId":567535556,"wgArticleId":8760760,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["IUCN Red List critically endangered species","Articles with 'species' microformats","Mammals of Tanzania","Endemic fauna of Tanzania","Leopards","Zanzibar"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Zanzibar_leopard","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Zanzibar_Leopard","wgVectorEnabledModules":{"collapsiblenav":true,"experiments":true},"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"templateEditor":false,"templates":false,"preview":false,"previewDialog":false,"publish":false,"toc":false},"wgArticleFeedbackv5Permissions":{"aft-reader":true,"aft-member":false,"aft-editor":false,"aft-monitor":false,"aft-administrator":false,"aft-oversighter":false,"aft-noone":false},"wgVisualEditor":{"isPageWatched":false,"magnifyClipIconURL":"//bits.wikimedia.org/static-1.22wmf18/skins/common/images/magnify-clip.png","pageLanguageCode":"en","pageLanguageDir":"ltr"},"wikilove-recipient":"","wikilove-anon":0,"wgGuidedTourHelpGuiderUrl":"Help:Guided tours/guider","wgULSAcceptLanguageList":["en-us"],"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia","aftv5Article":{"id":8760760,"title":"Zanzibar leopard","namespace":0,"categories":["Articles with 'species' microformats","Endemic fauna of Tanzania","IUCN Red List critically endangered species","Leopards","Mammals of Tanzania","Zanzibar"],"permissionLevel":false},"wgWikibaseItemId":"Q280189"});
+}if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":false,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,
+"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"useeditwarning":1,"prefershttps":1,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"vector-simplesearch":1,"vector-collapsiblenav":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"aftv5-last-filter":null,"visualeditor-enable":0,"visualeditor-enable-experimental":0,"visualeditor-betatempdisable":0,"wikilove-enabled":1,"echo-subscriptions-web-page-review":true,"echo-subscriptions-email-page-review":false,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"echo-notify-show-link":true,"echo-show-alert":true,"echo-email-frequency":0,"echo-email-format":"html","echo-subscriptions-email-system":true,"echo-subscriptions-web-system":true,"echo-subscriptions-email-other":false,"echo-subscriptions-web-other":true,"echo-subscriptions-email-edit-user-talk":false,"echo-subscriptions-web-edit-user-talk":true,
+"echo-subscriptions-email-reverted":false,"echo-subscriptions-web-reverted":true,"echo-subscriptions-email-article-linked":false,"echo-subscriptions-web-article-linked":false,"echo-subscriptions-email-mention":false,"echo-subscriptions-web-mention":true,"echo-subscriptions-web-edit-thank":true,"echo-subscriptions-email-edit-thank":false,"gettingstarted-task-toolbar-show-intro":true,"uls-preferences":"","language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs446":false,"searchNs447":false
+,"searchNs710":false,"searchNs711":false,"searchNs828":false,"searchNs829":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-mySandbox":1,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:156d8fe0ae17f8afd74198057563e45d */
+}if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","ext.visualEditor.viewPageTarget.init","ext.wikimediaShopLink.core","ext.uls.init","ext.uls.interface","wikibase.client.init","ext.centralNotice.bannerController","skins.vector.js"]);
+}/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}if(window.mw){
+mw.loader.load(["mobile.desktop","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.cite","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","mw.MwEmbedSupport.style","ext.vector.collapsibleNav","ext.articleFeedbackv5.startup","ext.gettingstarted.logging","ext.gettingstarted.openTask","schema.HttpsSupport","ext.coreEvents.httpsSupport","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","mw.PopUpMediaTransform"],null,true);
+}

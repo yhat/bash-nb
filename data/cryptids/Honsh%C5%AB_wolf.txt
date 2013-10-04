@@ -1,0 +1,624 @@
+
+
+
+Honshu wolf - Wikipedia, the free encyclopedia
+
+
+
+
+
+
+
+
+
+
+
+
+a:lang(ar),a:lang(ckb),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:0de201fdea5d684523607ed88007b127 */
+
+
+
+
+[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.22wmf18/skins/vector/csshover.min.htc")}</style><![endif]
+
+		
+		
+		
+			
+			
+						 CentralNotice 
+						Honshu wolf
+			
+								From Wikipedia, the free encyclopedia
+								  (Redirected from Honshū wolf)
+												
+					Jump to:					navigation, 					search
+				
+				
+
+
+Honshū wolf
+
+
+
+
+
+Taxidermied specimen, at the National Museum of Nature and Science, Tokyo, Japan
+
+
+Conservation status
+
+
+
+Extinct  (1905)
+
+
+
+Scientific classification
+
+
+Kingdom:
+Animalia
+
+
+Phylum:
+Chordata
+
+
+Class:
+Mammalia
+
+
+Order:
+Carnivora
+
+
+Family:
+Canidae
+
+
+Genus:
+Canis
+
+
+Species:
+C. lupus
+
+
+Subspecies:
+C. l. hodophilax
+
+
+Trinomial name
+
+
+Canis lupus hodophilax
+(Temminck, 1839)
+
+
+Subspecies
+
+
+
+*Canis lupus hattai
+
+
+
+Synonyms
+
+
+
+
+Canis hodopylax (Temminck, 1844)
+Canis japonicus (Nehring, 1885)[1]
+
+
+
+
+
+The Honshū wolf (Canis lupus hodophilax), known in Japan as the Japanese wolf (ニホンオオカミ（日本狼）, Nihon Ōkami?), yamainu (ヤマイヌ（豺、犲、山犬）?, "mountain dog"), or simply wolf (オオカミ（狼）, Ōkami?), is one of the two extinct subspecies of the gray wolf once endemic to the islands of Japan. The Honshū wolf occupied the islands of Honshū, Shikoku, and Kyūshū in Japan. The other subspecies was the Hokkaidō wolf, native to the island of Hokkaidō.
+
+
+Contents
+
+
+1 History
+2 Physical characteristics
+3 Extinction
+4 Diet
+5 Culture
+6 References
+
+
+History[edit]
+Honshū wolves, the smaller descendants of gray wolves, were plentiful in the country of Japan. They were the smallest known wild subspecies of Canis lupus; they measured about 35 inches (90 cm) long and 12 inches (30 cm) inches at the shoulder.[2] Their population began to decrease in 1732 when rabies, first reported in Kyūshū and Shikoku, was introduced to the area they inhabited. It affected different wolf populations all through the nineteenth century. Most argue that it was humans that brought the virus to Japan, trying to kill the wolves on purpose. It is also believed that local domestic dogs in the regions may have transported the disease. Either way, along with intense human persecution, the wolves proceeded into extinction.[2][3] The last known specimen died in 1905, in Nara Prefecture.
+
+
+
+
+Illustration from around 1881
+
+
+
+
+
+
+Specimen in Ueno Zoo
+
+
+
+
+
+
+Mounted skeleton, National Museum of Nature and Science
+
+
+Some interpretations of the Honshū wolf's extinction stress the change in local perceptions of the animal: rabies-induced aggression and deforestation of the wolf's habitat forced them into conflict with humans, and this led to them being targeted by farmers.[4]
+Other sources say the wolves were killed off as a national policy.[5]
+There are currently eight known pelts and five stuffed specimens of the Japanese wolf in existence. One stuffed specimen is in the Netherlands, three are in Japan, and the animal caught in 1905 is kept in the British Museum. Owing to its small size the Honshū wolf's classification as a subspecies of the gray wolf is disputed.
+The wolf was afforded a benign place in Japanese folklore and religious traditions: the clan leader Fujiwara no Hidehira was said to have been raised by wolves, and the wolf is often symbolically linked with mountain kami in Shinto. The most famous example is the wolf kami of Mitsumine Shrine in the town of Chichibu in Saitama Prefecture.
+Sightings of the Japanese wolf have been claimed from the time of its extinction to the present day, but none of these have been verified[6] (see cryptozoology).[7]
+Physical characteristics[edit]
+The Honshū wolf was the world’s smallest known wolf. From nose to tail, it grew to about 35 inches in length and stood about a foot tall. It was said that the Honshū wolf resembled more to dogs, coyotes and jackals much more than its Siberian wolf ancestors due to their short wiry hair and a thin dog-like tail that was rounded at the end along with their short legs. By this reasoning, the Honshu wolf is argued to be its own species instead of being a gray wolf subspecies because of these physical differences.[3]
+Extinction[edit]
+Honshu wolves were abundant in Japan until 1732 when rabies was introduced to the island. It was rabies, deforestation of the wolf's habitat, and conflict with humans that led to their extinction. The last specimen was officially killed in 1905 in Nara prefecture. Although there have been many sightings claimed since then, none of them have been verified. There are five known mounted specimens: three in Japan, one in the Netherlands, and the last officially killed specimen in the British Museum.
+Diet[edit]
+The Honshū Wolf was known to eat animals much larger than it, including deer and wild boar. Farmers appreciated their appetite for smaller animals such as rodents and hares, which reduced the number of farm pests.[8] The specialized, strictly carnivorous diet was one of the many reasons the Honshū Wolf became extinct. As wolf populations increased, they required more of their exclusive diet to maintain their numbers, which could not be sustained by the local fauna.
+Culture[edit]
+The Honshu wolf is a prominent figure in Japanese folklore and culture. The mountains of Japan, seen as a dangerous, deadly place, are highly associated with the wolf. The Honshu wolf is believed to be the protector and guardian of the mountains, where it resides in its most remote parts. Many mountain villages, such as Okami’iwa (Wolf Rock) and Okamitaira (Wolf Plateau), are named after the wolf; this could be due to a sighting at the location, or a simple homage to the species.[9] Sightings of the Honshu wolf were very rare, and the wolf was described as being more of a spirit entity protecting travelers. Some legends bring this to a whole new level, where abandoned infants are found and raised by the wolves. The wolves also protect surrounding villages from the dangerous wildlife.[2] The spirit form of the Japanese wolf, which has been worshiped since ancient times, is called makami (真神). It understands human speech, rewards good, and punishes evil. Makami shrines are found in Saitama, Shizuoka, and Tokyo.
+Some villages have wolf charms called shishiyoke, that protected their village and their crops against wild boar. In addition, other protective shrines can be found in many villages, especially on the Kii Peninsula. In some villages, such as in Gifu prefecture, the skull of the wolf was used as the charm for both protection as well as curing possessed villagers. In addition to protecting the crops, the wolf may leave prey for villagers.[10] A tradition called inu no ubumimai consists of giving a mother Honshu wolf rice when she gives birth to a cub. In return, the wolf would protect the village and assist in danger, or leave the village in times of famine.[2]
+Some legends portray the Honshu wolf as being prophetic creatures. In the Tamaki Mountains the location of a tree called “the cypress of dog-howls” is said to be the site where wolves howled before a flood in 1889, warning the villagers.[9] The Honshu wolf was not commonly killed by villagers, and attacks were rare. Some folklore states that the killer of a Honshu wolf faced punishment from the spiritual world. Legends also describes the wolf as being concealed by the environment, and that its fur changes with the seasons to further camouflage itself. In many local cultures, therefore, the Honshu wolf is believed not to be extinct; it was always difficult to find.[2]
+References[edit]
+
+
+
+Wikispecies has information related to: Canis lupus hodophilax
+
+
+
+
+
+Wikimedia Commons has media related to Canis lupus hodophilax.
+
+
+
+
+^ Wozencraft, W. C. (2005). "Order Carnivora". In Wilson, D. E.; Reeder, D. M. Mammal Species of the World (3rd ed.). Johns Hopkins University Press. ISBN 978-0-8018-8221-0. OCLC 62265494. 
+^ a b c d e "Lost Wolves of Japan". SciLogs. Retrieved 23 October 2012. 
+^ a b "The Honshu Wolf". Bib.ge. Retrieved 23 October 2012. 
+^ Knight, John (2004). "On the Extinction of the Japanese Wolf". Retrieved 2006-06-15. 
+^ Chester Dawson (December 28, 2012). "If the Japanese Diet Included Deer, It Might Keep Wolves From the Door". Wall Street Journal. 
+^ Shuker, Karl P. N. (2003). The Beasts That Hide From Man. Paraview. ISBN 1-931044-64-3. 
+^ Hall, Jamie (2005). "The Cryptid Zoo: Japanese Dwarf Wolf (or Shamanu)". Retrieved 2006-06-15. 
+^ "Honshu Wolf". Cosmosmith. Retrieved 23 October 2012. 
+^ a b Knight, John. "On the Extinction of the Japanese Wolf". Retrieved 23 October 2012. 
+^ Knight.
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Dogs originating in Japan
+
+
+
+
+
+
+Extant
+
+
+
+Akita
+Hokkaido
+Japanese Chin
+Japanese Spitz
+Japanese Terrier
+Kai Ken
+Kishu
+Shiba Inu
+Shikoku
+Tosa
+
+
+
+
+
+
+
+
+
+
+
+
+
+Extinct
+
+
+
+Hokkaidō wolf
+Honshū wolf
+Sakhalin Husky
+
+
+
+
+
+
+
+
+Related articles
+
+
+
+Japan Kennel Club
+Nihon Ken Hozonkai
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Extinct members of the family Canidae
+
+
+
+
+
+
+
+
+
+Kingdom: Animalia
+Phylum: Chordata
+Class: Mammalia
+Order: Carnivora
+Suborder: Caniformia
+
+
+
+
+
+
+
+
+† Hesperocyoninae
+
+
+
+Hesperocyon
+Mesocyon
+Cynodesmus
+Sunkahetanka
+Philotrox
+Enhydrocyon
+Paraenhydrocyon
+Osbornodon
+Caedocyon
+Ectopocynus
+
+
+
+
+
+
+
+
+Borophaginae
+
+
+
+Archaeocyon
+Borophagina
+Borophagini
+Oxetocyon
+Otarocyon
+Rhizocyon
+Cynarctoides
+Phlaocyon
+Cormocyon
+Desmocyon
+Metatomarctus
+Euoplocyon
+Psalidocyon
+Microtomarctus
+Protomarctus
+Tephrocyon
+Paracynarctus
+Cynarctus
+Tomarctus
+Aelurodon
+Paratomarctus
+Carpocyon
+Protepicyon
+Epicyon
+Borophagus
+
+
+
+
+
+
+
+
+Caninae
+(extinct genera)
+
+
+
+Chailicyon
+Cynotherium
+Dusicyon
+Eucyon
+Gobicyon
+Leptocyon
+Neocynodesmus
+Nurocyon
+Prototocyon
+Theriodictis
+Xenocyon
+
+
+
+
+
+
+
+
+Caninae
+(extinct species and subspecies)
+
+
+
+Canis apolloniensis
+Canis armbrusteri
+Canis cedazoensis
+Canis dirus
+Canis edwardii
+Canis ferox
+Canis lepophagus
+Canis lupus hattai
+Canis lupus hodophilax
+Urocyon progressus
+
+
+
+
+
+
+
+
+
+
+Category
+
+
+
+
+
+
+
+
+
+ 
+NewPP limit report
+CPU time usage: 1.152 seconds
+Real time usage: 1.302 seconds
+Preprocessor visited node count: 5256/1000000
+Preprocessor generated node count: 29073/1500000
+Post‐expand include size: 52039/2048000 bytes
+Template argument size: 5770/2048000 bytes
+Highest expansion depth: 22/40
+Expensive parser function count: 4/500
+Lua time usage: 0.057s
+Lua memory usage: 2.11 MB
+
+
+ Saved in parser cache with key enwiki:pcache:idhash:9519759-0!*!0!!en!4!* and timestamp 20130930232414 
+								
+				Retrieved from "http://en.wikipedia.org/w/index.php?title=Honshu_wolf&oldid=563847075"				
+												Categories: WolvesCarnivorous cryptidsExtinct mammals of AsiaExtinct canidsExtinct animals of JapanMammal extinctions since 1500Megafauna of EurasiaMountain dogsSpecies made extinct by human activitiesSubspecies of Canis lupusHidden categories: Articles with 'species' microformatsTaxoboxes using extinct parametersArticles containing Japanese-language textCommons category with local link same as on Wikidata												
+							
+		
+		
+			Navigation menu
+			
+				
+	Personal tools
+	
+Create accountLog in	
+
+				
+					
+	Namespaces
+	
+					Article
+					Talk
+			
+
+
+	
+		
+	Variants
+	
+		
+					
+	
+
+				
+				
+					
+	Views
+	
+					Read
+					Edit
+					View history
+			
+
+
+	Actions
+	
+		
+					
+	
+
+
+	Search
+	
+				
+																				
+		
+	
+
+				
+			
+			
+					
+				
+	Navigation
+	
+		
+			Main page
+			Contents
+			Featured content
+			Current events
+			Random article
+			Donate to Wikipedia
+		
+	
+
+
+	Interaction
+	
+		
+			Help
+			About Wikipedia
+			Community portal
+			Recent changes
+			Contact page
+		
+	
+
+
+	Toolbox
+	
+		
+			What links here
+			Related changes
+			Upload file
+			Special pages
+			Permanent link
+			Page information
+			Data item
+Cite this page		
+	
+
+
+	Print/export
+	
+		
+			Create a book
+			Download as PDF
+			Printable version
+		
+	
+
+
+	Languages
+	
+		
+			Bân-lâm-gú
+			Català
+			Deutsch
+			Español
+			Français
+			한국어
+			Bahasa Indonesia
+			Italiano
+			Magyar
+			Bahasa Melayu
+			Nederlands
+			日本語
+			Polski
+			Português
+			Русский
+			Tiếng Việt
+			中文
+			
+			Edit links
+		
+	
+
+			
+		
+		
+							
+											 This page was last modified on 11 July 2013 at 18:09.
+											Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. 
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+									
+							
+											Privacy policy
+											About Wikipedia
+											Disclaimers
+											Contact Wikipedia
+											Developers
+											Mobile view
+									
+										
+					
+						
+					
+					
+						
+					
+				
+						
+		
+		
+
+
+ Served by mw1037 in 0.213 secs. 
+	
+if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Honshu_wolf","wgTitle":"Honshu wolf","wgCurRevisionId":563847075,"wgArticleId":9519759,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with 'species' microformats","Taxoboxes using extinct parameters","Articles containing Japanese-language text","Commons category with local link same as on Wikidata","Wolves","Carnivorous cryptids","Extinct mammals of Asia","Extinct canids","Extinct animals of Japan","Mammal extinctions since 1500","Megafauna of Eurasia","Mountain dogs","Species made extinct by human activities","Subspecies of Canis lupus"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Honshu_wolf","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Honshū_wolf","wgVectorEnabledModules":{"collapsiblenav":true,"experiments":true},"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"templateEditor":false,"templates":false,"preview":false,"previewDialog":false,"publish":false,"toc":false},"wgArticleFeedbackv5Permissions":{"aft-reader":true,"aft-member":false,"aft-editor":false,"aft-monitor":false,"aft-administrator":false,"aft-oversighter":false,"aft-noone":false},"wgVisualEditor":{"isPageWatched":false,"magnifyClipIconURL":"//bits.wikimedia.org/static-1.22wmf18/skins/common/images/magnify-clip.png","pageLanguageCode":"en","pageLanguageDir":"ltr"},"wikilove-recipient":"","wikilove-anon":0,"wgGuidedTourHelpGuiderUrl":"Help:Guided tours/guider","wgULSAcceptLanguageList":["ja","en-us","en"],"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia","aftv5Article":{"id":9519759,"title":"Honshu wolf","namespace":0,"categories":["Articles containing Japanese-language text","Articles with 'species' microformats","Carnivorous cryptids","Commons category with local link same as on Wikidata","Extinct animals of Japan","Extinct canids","Extinct mammals of Asia","Mammal extinctions since 1500","Megafauna of Eurasia","Mountain dogs","Species made extinct by human activities","Subspecies of Canis lupus","Taxoboxes using extinct parameters","Wolves"],"permissionLevel":false},"wgWikibaseItemId":"Q375750"});
+}if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":false,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,
+"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"useeditwarning":1,"prefershttps":1,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"vector-simplesearch":1,"vector-collapsiblenav":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"aftv5-last-filter":null,"visualeditor-enable":0,"visualeditor-enable-experimental":0,"visualeditor-betatempdisable":0,"wikilove-enabled":1,"echo-subscriptions-web-page-review":true,"echo-subscriptions-email-page-review":false,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"echo-notify-show-link":true,"echo-show-alert":true,"echo-email-frequency":0,"echo-email-format":"html","echo-subscriptions-email-system":true,"echo-subscriptions-web-system":true,"echo-subscriptions-email-other":false,"echo-subscriptions-web-other":true,"echo-subscriptions-email-edit-user-talk":false,"echo-subscriptions-web-edit-user-talk":true,
+"echo-subscriptions-email-reverted":false,"echo-subscriptions-web-reverted":true,"echo-subscriptions-email-article-linked":false,"echo-subscriptions-web-article-linked":false,"echo-subscriptions-email-mention":false,"echo-subscriptions-web-mention":true,"echo-subscriptions-web-edit-thank":true,"echo-subscriptions-email-edit-thank":false,"gettingstarted-task-toolbar-show-intro":true,"uls-preferences":"","language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs446":false,"searchNs447":false
+,"searchNs710":false,"searchNs711":false,"searchNs828":false,"searchNs829":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-mySandbox":1,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:156d8fe0ae17f8afd74198057563e45d */
+}if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","ext.visualEditor.viewPageTarget.init","ext.wikimediaShopLink.core","ext.uls.init","ext.uls.interface","wikibase.client.init","ext.centralNotice.bannerController","skins.vector.js"]);
+}/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}if(window.mw){
+mw.loader.load(["mobile.desktop","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.cite","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","mw.MwEmbedSupport.style","ext.vector.collapsibleNav","ext.articleFeedbackv5.startup","ext.gettingstarted.logging","ext.gettingstarted.openTask","schema.HttpsSupport","ext.coreEvents.httpsSupport","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","mw.PopUpMediaTransform"],null,true);
+}

@@ -1,0 +1,530 @@
+
+
+
+Camarasaurus - Wikipedia, the free encyclopedia
+
+
+
+
+
+
+
+
+
+
+
+
+a:lang(ar),a:lang(ckb),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:0de201fdea5d684523607ed88007b127 */
+
+
+
+
+[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.22wmf18/skins/vector/csshover.min.htc")}</style><![endif]
+
+		
+		
+		
+			
+			
+						 CentralNotice 
+						Camarasaurus
+			
+								From Wikipedia, the free encyclopedia
+								
+												
+					Jump to:					navigation, 					search
+				
+				
+
+
+Camarasaurus
+Temporal range: Late Jurassic, 155–145Ma
+
+PreЄ
+Є
+O
+S
+D
+C
+P
+T
+J
+K
+Pg
+N
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mounted skeletal cast, Jurassic Museum of Asturias
+
+
+Scientific classification
+
+
+Kingdom:
+Animalia
+
+
+Phylum:
+Chordata
+
+
+Class:
+Reptilia
+
+
+Superorder:
+Dinosauria
+
+
+Order:
+Saurischia
+
+
+Suborder:
+†Sauropodomorpha
+
+
+Infraorder:
+†Sauropoda
+
+
+Family:
+†Camarasauridae
+Cope, 1877
+
+
+Subfamily:
+Camarasaurinae
+Nopcsa, 1923
+
+
+Genus:
+†Camarasaurus
+Cope, 1877
+
+
+Species
+
+
+
+
+C. supremus Cope, 1877 (type)
+C. grandis (Marsh, 1877 [originally Apatosaurus])
+C. lentus (Marsh, 1889 [originally Morosaurus])
+C. lewisi (Jensen, 1988 [originally Cathetosaurus])
+
+
+
+
+Synonyms
+
+
+
+
+Cathetosaurus Jensen, 1988
+Caulodon Cope, 1877
+Morosaurus Marsh, 1878
+Uintasaurus Holland, 1919
+
+
+
+
+
+Camarasaurus (/ˌkæmərəˈsɔrəs/ KAM-ə-rə-SAWR-əs) meaning 'chambered lizard', referring to the hollow chambers in its vertebrae (Greek καμαρα/kamara meaning 'vaulted chamber', or anything with an arched cover, and σαυρος/sauros meaning 'lizard') was a genus of quadrupedal, herbivorous dinosaurs.[1] It was the most common of the giant sauropods to be found in North America. Its fossil remains have been found in the Morrison Formation of Colorado and Utah, dating to the late Jurassic Period (late Oxfordian to Tithonian stages), between 155 and 145 million years ago.
+
+
+Contents
+
+
+1 Description
+2 History of study
+3 Paleobiology
+
+3.1 Herding
+3.2 Digestion
+3.3 Growth
+
+
+4 Paleopathology
+
+4.1 DMNH 2908
+
+
+5 Classification
+
+5.1 Species
+
+
+6 Footnotes
+7 References
+8 External links
+
+
+Description[edit]
+
+
+
+
+C. lentus skull
+
+
+Camarasaurus is among the most common and frequently well-preserved sauropod dinosaurs. The maximum size of the most common species, C. lentus, was about 15 meters (50 ft) in length. The largest species, C. supremus, reached a maximum length of 23 meters (75 ft) and maximum estimated weight of 47 tonnes (51.8 tons).[1][2]
+The arched skull of Camarasaurus was remarkably square and the blunt snout had many fenestrae, though it was sturdy and is frequently recovered in good condition by paleontologists. The 19 centimeter long (7.5 in) teeth were shaped like chisels (spatulate) and arranged evenly along the jaw. The strength of the teeth indicates that Camarasaurus probably ate coarser plant material than the slender-toothed diplodocids.
+Each front limb bore five toes, with the inner toe having a large sharpened claw. Like most sauropods, the front limbs were shorter than the hind legs, but the high position of the shoulders meant there was little slope in the back.
+
+
+
+
+Skeleton on display, Royal Tyrrell Museum of Paleontology
+
+
+Serving the purpose of weight-saving, as seen in other sauropods, many of the vertebrae were hollowed out or pneumatic, riddled with passages and cavities for an intricate system of air sacs connected to the lungs. This feature was relatively unknown at the time Camarasaurus was discovered, and was the inspiration for its name, meaning "chambered lizard". The neck and counterbalancing tail were shorter than usual for a sauropod of this size. Camarasaurus, again like certain other sauropods, had an enlargement of the spinal cord near the hips. Palaeontologists originally believed this to be a second brain, perhaps necessary to co-ordinate such a huge creature. However, while it would have been an area of large nervous, probably reflex (automatic) activity, it was not a brain, and such enlargements are actually found to some degree in all vertebrate animals.
+Camarasaurus lewisi and C. grandis both had more robust radii than fellow sauropod Venenosaurus.[3]
+History of study[edit]
+
+
+
+
+The earliest known skeletal reconstruction of a sauropod dinosaur: C. supremus by John A. Ryder, 1877
+
+
+
+
+
+
+Reconstruction of the same species based on more complete material by E.S. Christman, 1921
+
+
+The first record of Camarasaurus comes from 1877, when a few scattered vertebrae were located in Colorado, by Oramel W. Lucas. The paleontologist Edward Drinker Cope paid for the bones, as part of his long-running and acrimonious competition with Othniel Charles Marsh (known as the Bone Wars) and named them in the same year. Marsh later named some of his sauropod findings Morosaurus grandis but most paleontologists today consider this to be a species of Camarasaurus [1]. Such naming conflicts were common between the two rival dinosaur hunters, the most famous being Brontosaurus/Apatosaurus.
+It was not until 1925 that a complete skeleton of Camarasaurus was recovered, by Charles W. Gilmore. However, it was the skeleton from a young Camarasaurus, which is why so many illustrations of the dinosaur from the time show it to be much smaller than it is now known to be.
+The Morrison Formation, along the eastern flank of the Rocky Mountains, is home to a rich stretch of Late Jurassic rock. A large number of dinosaur species can be found here, including relatives of the Camarasaurus such as Diplodocus, Apatosaurus and Brachiosaurus. However, camarasaurs are the most abundant of all the dinosaurs in the Formation.[4] There have been a number of complete skeletons recovered from Colorado, New Mexico, Utah, and Wyoming. Present in stratigraphic zones 2-6.[5]
+Paleobiology[edit]
+Herding[edit]
+
+
+
+
+Artist's impression of a C. supremus herd
+
+
+There is a fossil record of two adults and a 12.2 meter (40 ft) long juvenile that died together in the Late Jurassic Period, approximately 150 million years ago (in north east Wyoming, USA, excavated by the Division of Vertebrate Paleontology of the University of Kansas Natural History Museum and Biodiversity Center, during the 1997 and 1998 'field seasons'). It is assumed that their bodies were washed to their final resting place, in alluvial mud, by a river in spate. This suggests that Camarasaurus traveled in herds or, at least, 'family' groups. Also, recovered camarasaur eggs have been found in lines, rather than in neatly arranged nests as with some other dinosaurs, which appears to suggest that, like most sauropods, Camarasaurus did not tend its young.
+Digestion[edit]
+Previously, some scientists had suggested that Camarasaurus and other sauropods may have swallowed stones (gastroliths) to help grind the food in the stomach and then regurgitated or passed them when they became too smooth. However, more recent analysis of the evidence for stomach stones has suggested that this was not the case. Furthermore, the strong, robust teeth of Camarasaurus in particular were more developed than those of most sauropods, indicating that it may have processed food in its mouth to some degree before swallowing.[6] Camarasaurus' teeth according to the findings of Michael D'Emic et all, were replaced on average every 62 days. These findings also indicate that it preferred to eat different vegetation than other sauropods like Diploducus, allowing them to share the same environment without competition. [7]
+Growth[edit]
+Long-bone histology enables researchers to estimate the age that a specific individual reached. A study by Griebeler et al. (2013) examined long bone histological data and concluded that the Camarasaurus sp. CM 36664 weighed 14,247 kilograms (15.7 short tons), reached sexual maturity at 20 years and died at age 26.[8]
+Paleopathology[edit]
+Main article: Paleopathology
+A Camarasaurus pelvis recovered from Dinosaur National Monument in Utah shows gouging attributed to Allosaurus.[9]
+DMNH 2908[edit]
+In 1992, a partial Camarasaurus grandis skeleton was discovered at the Bryan Small Stegosaurus Quarry of the Morrison Formation near Canon City, Colorado.[10] This specimen preserved a partial right humerus catalogued as DMNH 2908 as well as associated vertebrae from the back and tail.[10] In 2001, Lorie McWhinney, Kenneth Carpenter, and Bruce Rothschild published a description of a pathology observed on the humerus.[11] They noted a juxtacortical lesion 25 by 18 cm wide made of bone that resembled woven fibers.[12] Although woven bone forms in accessory dental bone, in other locations it is a sign of injury or illness.[12] The woven bone's "undulating fibrous bundles" were observed oriented in the direction of the M. brachialis.[12] The lesion's fusion[disambiguation needed] and lack of porosity at its near and far ends indicate the periostitis was inactive or healed.[12] McWhinney and the other researchers argued that this injury would have been a continuous source of hardship for the animal.[13] It would have exerted pressure on the muscles.[11] This pressure would have compressed the muscles' blood vessels and nerves, reducing the range of motion of both the limb's flexor and extensor muscles.[11] This effect would have hindered the M. brachialis, M. brachoradialis, and to a lesser degree the M. biceps brachii to the lesion's position on the humerus.[11] The researchers inferred that the inflammation of the muscles and periosteum would have caused additional complications in the lower region of the forelimb as well.[14] The lesion would also have caused long-term fasciitis and myosistis.[11] The cumulative effect of these pathological processes would have moderate to severe affects on the ability of the limb to move and "made everyday activities such as foraging for food and escaping predators harder to accomplish."[13]
+To help determine the cause of the pathology, McWhinney and the other researchers performed a CT scan in 3 mm increments.[15] The CT scan found that the mass had a consistent radiodensity and was separated from the cortex of the bone by a radioleucent line.[16] No evidence of stress fracture or infectious processes like osteomyelitis or infectious periostitis.[15] They also ruled out osteochondroma because the axis of the spur is 25 degrees relative to the vertical axis of the humerus, whereas an osteochondroma would have formed at 90 degrees to the axis of the humerus.[12] Other candidates identified by the scientists for the origin of the spur-bearing lesion included:
+
+Hypertrophic osteoarthropathy – Although this was ruled out by the presence of the spur-like process.[17]
+Osteoid osteoma – But this wouldn't explain the spur or osteoblastic reaction.[18]
+Shinsplints or tibial stress syndrome – A possible origin, as many symptoms would be held in common, but shinsplints wouldn't explain the spur.[19]
+Myositis ossificans traumatica (circumscripta) – Possible, but unlikely source.[20]
+Avulsion injury – McWhinney and the other researchers considered an avulsion injury caused by "repetitive overexertion of the muscles" to be the most likely source for the lesion on the humerus.[11] The researchers believed the lesion to have originated with the avulsion of the M. brachialis causing the formation of "a downward sloping elliptical mass".[13] The bone spur was caused by an osteoblastic response following a tear at the base of the M. brachioradialis caused by its flexor motion.[13]
+
+Classification[edit]
+The scientific classification of Camarasaurus, using the Linnaean system, is given in the box to the upper right but, among palaeontologists, this method of taxonomic classification of dinosaurs is being supplanted by the cladistics inspired phylogenetic taxonomy. A simplified version of one possible branching evolutionary tree, showing the relationship between Camarasaurus and the other major groups of sauropods, follows:
+
+Saurischia ("lizard hipped" dinosaurs)
+ `--Sauropoda ("lizard feet")
+    |--Macronaria ("large nostrils")
+    |   |--Camarasaurus
+    |   `--Titanosauriformes
+    |        |--Brachiosauridae (which includes Brachiosaurus and Sauroposeidon)
+    |        `--Titanosauria (including Argentinosaurus)
+    `--Diplodocoidea (including Apatosaurus, Diplodocus) 
+
+
+Camarasaurus is considered to be a basal macronarian, more closely related to the common ancestor of all macronarians than to more derived forms like Brachiosaurus.
+Species[edit]
+
+
+
+
+The first known complete skeleton, C. lentus
+
+
+The type species of Camarasaurus is Cope's original species, C. supremus (meaning "the biggest chambered lizard"), named in 1877. Other species since discovered include C. grandis ("grand chambered lizard") in 1877, C. lentus in 1889, and C. lewisi (originally described as a the new genus Cathetosaurus) in 1988.
+C. supremus, as its name suggests, is the largest known species of Camarasaurus and one of the most massive sauropods known from the late Jurassic Morrison Formation. Besides its huge size, it was nearly indistinguishable from C. lentus. C. supremus was not typical of the genus as a whole, and is only known from the latest, uppermost parts of the formation. C. grandis and C. lentus were both smaller and present in the earlier stages of the Morrison. Stratigraphic evidence suggests that the chronological sequence of the Camarasaurus species aligned with their physical differences and describe an evolutionary progression within the Morrison Formation.[21] C. grandis is the oldest known species, present in the lowest rock layers of the Morrison.[21] C. lentus appeared later, and co-existed with C. grandis for several million years, possibly due to different ecological niches suggested by differences in the spinal anatomy of the two species.[21] At a later stage, C. grandis disappears from the rock record, leaving only C. lentus, which then also disappeared at the same time C. supremus appears in the uppermost layers.[21] This immediate succession of species, as well as the very close similarity between the two, suggests that C. supremus may have evolved directly from C. lentus, representing simply a larger, later-surviving population of animals.[21]
+Footnotes[edit]
+
+
+^ a b Benton, Michael J. (2012). Prehistoric Life. Edinburgh, Scotland: Dorling Kindersley. pp. 270–271. ISBN 978-0-7566-9910-9. 
+^ "Camarasaurus supremus," Foster (2007). Page 201.
+^ "Forelimb," Tidwell, Carpenter, and Meyer (2001). Page 148.
+^ "Camarasaurus supremus," Foster (2007). Page 201. "Abundances and Diversities," ibid. Page 248.
+^ "Appendix," Foster (2007). Page 328.
+^ Wings and Sander (2006).
+^ http://www.sciencedaily.com/releases/2013/07/130717172835.htm
+^ Griebeler EM, Klein N, Sander PM (2013) Aging, Maturation and Growth of Sauropodomorph Dinosaurs as Deduced from Growth Curves Using Long Bone Histological Data: An Assessment of Methodological Constraints and Solutions. PLoS ONE 8(6): e67012. doi:10.1371/journal.pone.0067012
+^ "Camarasaurus," Dodson, et al. Page 56.
+^ a b "Introduction," McWhinney, Carpenter, and Rothschild (2001); page 365.
+^ a b c d e f "Abstract," McWhinney, Carpenter, and Rothschild (2001); page 364.
+^ a b c d e "Description," McWhinney, Carpenter, and Rothschild (2001); page 367.
+^ a b c d "Conclusions," McWhinney, Carpenter, and Rothschild (2001); page 376.
+^ "Description," McWhinney, Carpenter, and Rothschild (2001); page 369.
+^ a b "Description," McWhinney, Carpenter, and Rothschild (2001); page 370.
+^ "Description," McWhinney, Carpenter, and Rothschild (2001); pages 370-371.
+^ "Discussion," McWhinney, Carpenter, and Rothschild (2001); pages 373-373.
+^ "Discussion," McWhinney, Carpenter, and Rothschild (2001); pages 373-374.
+^ "Discussion," McWhinney, Carpenter, and Rothschild (2001); page. 374.
+^ "Discussion," McWhinney, Carpenter, and Rothschild (2001); pages 374-375.
+^ a b c d e "Camarasaurus grandis," Foster (2007). Page 204.
+
+
+References[edit]
+
+Cope, E. D., 1877a, On a gigantic saurian from the Dakota eopoc of Colorado: Palaeontological Bulletin, n. 25, p. 5-10.
+Cope, E. D., 1877b, On Reptilian remains from the Dakota Beds of Colorado: Paleontological bulletin, n. 26, p. 193-197.
+Cope, E. D., 1877c. On Amphicoelias, a genus of Saurians from the Dakota epoch of Colorado. Proceedings of the American Philosophical Society 17:242-246
+Cope, E. D., 1878, On the vertebrata of the Dakota Epoch of Colorado: Paleontological Bulletin, n. 28, p. 233-247.
+Cope, E. D., 1879, New Jurassic Dinosauria: American Naturalist, v. 13, p. 401-404.
+Marsh, O. C., 1877, Notice of New Dinosaurian Reptiles from the Jurassic Formation: American Journal of Science, 3rd series, v. 14, p. 514-516.
+Marsh, O. C., 1878a, Notice of New Dinosaurian Reptiles: American Journal of Science, 3rd series, v. 15, n. 87, p. 241-244.
+Marsh, O. C., 1878b, Principal Characters of American Jurassic Dinosaurs, Part I: American Journal of Science, 3rd series, v. 16, p. 411-416.
+Marsh, O. C., 1889, Comparison of the principal forms of the Dinosauria of Europe and America: American Journal of Science, 3rd series, v. 37, p. 323-331.
+Holland, W. J., 1919, Report on Section of Paleontology: Annual Report of the Carnegie Museum, For 1919, p. 38.
+Holland, W. J., 1924, Description of the Type of Uintasaurus douglassi HOLLAND: Annals of the Carnegie Museum, v. 15, n. 2-3, p. 119-138.
+H. F. Osborn and C. C. Mook. 1921. Camarasaurus, Amphicoelias, and other sauropods of Cope. Bulletin of the Geological Society of America 30:379-388
+Elinger, T. U. H., 1950, Camarosaurus annae-a new American sauropod Dinosaur: The American Naturalist, v. 84, p. 225-228.
+Jensen, J. A., 1988, A fourth new sauropod dinosaur from the Upper Jurassic of the Colorado Plateau and sauropod bipedalism: Great Basin Naturalist, v. 48, n. 2, p. 121-145.
+McIntosh, J. S., Miller, W. E., Stadtman, K. L., and Gillette, D. G., 1995, The Osteology of Camarasaurus lewisi (Jensen, 1988): Brigham Young University, v. 41, p. 73-116.
+McIntosh, J. S., Miles, C. A., Cloward, K. C., and Parker, J. R., 1996, A New Nearly Complete Skeleton of Camarasaurus: Bulletin of Gunma Museum of Natural History, n. 1, p. 1-87.
+Dodson, Peter & Britt, Brooks & Carpenter, Kenneth & Forster, Catherine A. & Gillette, David D. & Norell, Mark A. & Olshevsky, George & Parrish, J. Michael & Weishampel, David B. The Age of Dinosaurs. Publications International, LTD. ISBN 0-7853-0443-6.
+Foster, J. (2007). Jurassic West: The Dinosaurs of the Morrison Formation and Their World. Indiana University Press.
+Tidwell, V., Carpenter, K. & Meyer, S. 2001. New Titanosauriform (Sauropoda) from the Poison Strip Member of the Cedar Mountain Formation (Lower Cretaceous), Utah. In: Mesozoic Vertebrate Life. D. H. Tanke & K. Carpenter (eds.). Indiana University Press, Eds. D.H. Tanke & K. Carpenter. Indiana University Press. 139-165.
+Wings, Oliver; Sander, P. Martin (2007). "No gastric mill in sauropod dinosaurs: new evidence from analysis of gastrolith mass and function in ostriches". Proceedings of the Royal Society B 274 (1610): 635–640. doi:10.1098/rspb.2006.3763. PMC 2197205. PMID 17254987. Retrieved 2009-07-24. 
+
+External links[edit]
+
+
+
+
+Dinosaurs portal
+
+
+
+
+Camarasaurus from Palaeos.com
+Camarasauridae from DinoData.org
+
+
+
+ 
+NewPP limit report
+CPU time usage: 2.620 seconds
+Real time usage: 2.907 seconds
+Preprocessor visited node count: 16783/1000000
+Preprocessor generated node count: 38647/1500000
+Post‐expand include size: 59842/2048000 bytes
+Template argument size: 21890/2048000 bytes
+Highest expansion depth: 20/40
+Expensive parser function count: 1/500
+Lua time usage: 0.024s
+Lua memory usage: 1.28 MB
+
+
+ Saved in parser cache with key enwiki:pcache:idhash:1005316-0!*!0!!en!4!* and timestamp 20131002130246 
+								
+				Retrieved from "http://en.wikipedia.org/w/index.php?title=Camarasaurus&oldid=570583869"				
+												Categories: Jurassic dinosaursDinosaurs of North AmericaSauropodsMorrison faunaHidden categories: Articles with 'species' microformatsArticles with links needing disambiguation from April 2012												
+							
+		
+		
+			Navigation menu
+			
+				
+	Personal tools
+	
+Create accountLog in	
+
+				
+					
+	Namespaces
+	
+					Article
+					Talk
+			
+
+
+	
+		
+	Variants
+	
+		
+					
+	
+
+				
+				
+					
+	Views
+	
+					Read
+					Edit
+					View history
+			
+
+
+	Actions
+	
+		
+					
+	
+
+
+	Search
+	
+				
+																				
+		
+	
+
+				
+			
+			
+					
+				
+	Navigation
+	
+		
+			Main page
+			Contents
+			Featured content
+			Current events
+			Random article
+			Donate to Wikipedia
+		
+	
+
+
+	Interaction
+	
+		
+			Help
+			About Wikipedia
+			Community portal
+			Recent changes
+			Contact page
+		
+	
+
+
+	Toolbox
+	
+		
+			What links here
+			Related changes
+			Upload file
+			Special pages
+			Permanent link
+			Page information
+			Data item
+Cite this page		
+	
+
+
+	Print/export
+	
+		
+			Create a book
+			Download as PDF
+			Printable version
+		
+	
+
+
+	Languages
+	
+		
+			العربية
+			Català
+			Česky
+			Deutsch
+			Español
+			فارسی
+			Français
+			한국어
+			Italiano
+			Basa Jawa
+			Magyar
+			Nederlands
+			日本語
+			Occitan
+			Polski
+			Português
+			Русский
+			Simple English
+			Slovenčina
+			Suomi
+			Svenska
+			ไทย
+			Tiếng Việt
+			中文
+			
+			Edit links
+		
+	
+
+			
+		
+		
+							
+											 This page was last modified on 28 August 2013 at 21:04.
+											Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. 
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+									
+							
+											Privacy policy
+											About Wikipedia
+											Disclaimers
+											Contact Wikipedia
+											Developers
+											Mobile view
+									
+										
+					
+						
+					
+					
+						
+					
+				
+						
+		
+		
+
+
+ Served by mw1021 in 0.196 secs. 
+	
+if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Camarasaurus","wgTitle":"Camarasaurus","wgCurRevisionId":570583869,"wgArticleId":1005316,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with 'species' microformats","Articles with links needing disambiguation from April 2012","Jurassic dinosaurs","Dinosaurs of North America","Sauropods","Morrison fauna"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Camarasaurus","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgVectorEnabledModules":{"collapsiblenav":true,"experiments":true},"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"templateEditor":false,"templates":false,"preview":false,"previewDialog":false,"publish":false,"toc":false},"wgArticleFeedbackv5Permissions":{"aft-reader":true,"aft-member":false,"aft-editor":false,"aft-monitor":false,"aft-administrator":false,"aft-oversighter":false,"aft-noone":false},"wgVisualEditor":{"isPageWatched":false,"magnifyClipIconURL":"//bits.wikimedia.org/static-1.22wmf18/skins/common/images/magnify-clip.png","pageLanguageCode":"en","pageLanguageDir":"ltr"},"wikilove-recipient":"","wikilove-anon":0,"wgGuidedTourHelpGuiderUrl":"Help:Guided tours/guider","wgULSAcceptLanguageList":["ja-jp"],"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia","aftv5Article":{"id":1005316,"title":"Camarasaurus","namespace":0,"categories":["Articles with 'species' microformats","Articles with links needing disambiguation from April 2012","Dinosaurs of North America","Jurassic dinosaurs","Morrison fauna","Sauropods"],"permissionLevel":false},"wgWikibaseItemId":"Q14419"});
+}if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":false,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,
+"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"useeditwarning":1,"prefershttps":1,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"vector-simplesearch":1,"vector-collapsiblenav":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"aftv5-last-filter":null,"visualeditor-enable":0,"visualeditor-enable-experimental":0,"visualeditor-betatempdisable":0,"wikilove-enabled":1,"echo-subscriptions-web-page-review":true,"echo-subscriptions-email-page-review":false,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"echo-notify-show-link":true,"echo-show-alert":true,"echo-email-frequency":0,"echo-email-format":"html","echo-subscriptions-email-system":true,"echo-subscriptions-web-system":true,"echo-subscriptions-email-other":false,"echo-subscriptions-web-other":true,"echo-subscriptions-email-edit-user-talk":false,"echo-subscriptions-web-edit-user-talk":true,
+"echo-subscriptions-email-reverted":false,"echo-subscriptions-web-reverted":true,"echo-subscriptions-email-article-linked":false,"echo-subscriptions-web-article-linked":false,"echo-subscriptions-email-mention":false,"echo-subscriptions-web-mention":true,"echo-subscriptions-web-edit-thank":true,"echo-subscriptions-email-edit-thank":false,"gettingstarted-task-toolbar-show-intro":true,"uls-preferences":"","language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs446":false,"searchNs447":false
+,"searchNs710":false,"searchNs711":false,"searchNs828":false,"searchNs829":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-mySandbox":1,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:156d8fe0ae17f8afd74198057563e45d */
+}if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","ext.visualEditor.viewPageTarget.init","ext.wikimediaShopLink.core","ext.uls.init","ext.uls.interface","wikibase.client.init","ext.centralNotice.bannerController","skins.vector.js"]);
+}/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}if(window.mw){
+mw.loader.load(["mobile.desktop","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.cite","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","mw.MwEmbedSupport.style","ext.vector.collapsibleNav","ext.articleFeedbackv5.startup","ext.gettingstarted.logging","ext.gettingstarted.openTask","schema.HttpsSupport","ext.coreEvents.httpsSupport","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","mw.PopUpMediaTransform"],null,true);
+}

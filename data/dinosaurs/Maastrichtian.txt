@@ -1,0 +1,1390 @@
+
+
+
+Maastrichtian - Wikipedia, the free encyclopedia
+
+
+
+
+
+
+
+
+
+
+
+
+a:lang(ar),a:lang(ckb),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:0de201fdea5d684523607ed88007b127 */
+
+
+
+
+[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.22wmf17/skins/vector/csshover.min.htc")}</style><![endif]
+
+		
+		
+		
+			
+			
+						 CentralNotice 
+						Maastrichtian
+			
+								From Wikipedia, the free encyclopedia
+								
+												
+					Jump to:					navigation, 					search
+				
+				For other uses, see Maastrichtian (disambiguation).
+
+
+System
+Series
+Stage
+Age (Ma)
+
+
+Paleogene
+Paleocene
+Danian
+younger
+
+
+Cretaceous
+Late
+Maastrichtian
+66.0–72.1
+
+
+Campanian
+72.1–83.6
+
+
+Santonian
+83.6–86.3
+
+
+Coniacian
+86.3–89.8
+
+
+Turonian
+89.8–93.9
+
+
+Cenomanian
+93.9–100.5
+
+
+Early
+Albian
+100.5–~113.0
+
+
+Aptian
+~113.0–~125.0
+
+
+Barremian
+~125.0–~129.4
+
+
+Hauterivian
+~129.4–~132.9
+
+
+Valanginian
+~132.9–~139.8
+
+
+Berriasian
+~139.8–~145.0
+
+
+Jurassic
+Late
+Tithonian
+older
+
+
+Subdivision of the Cretaceous system
+according to the IUGS, as of July 2012.
+
+
+The Maastrichtian is, in the ICS' geologic timescale, the latest age or upper stage of the Late Cretaceous epoch or Upper Cretaceous series, the Cretaceous period or system, and of the Mesozoic era or erathem. It spanned the interval from 72.1 to 66 million years ago. The Maastrichtian was preceded by the Campanian and succeeded by the Danian (part of the Paleogene and Paleocene).[1]
+At the end of this period, there was a mass extinction commonly referred to as the Cretaceous–Paleogene extinction event, as well the Cretaceous–Tertiary extinction event. At this extinction event, many commonly recognized groups such as non-avian dinosaurs, plesiosaurs and mosasaurs, as well as many other lesser known groups, died out.
+
+
+Contents
+
+
+1 Stratigraphic definitions
+
+1.1 Definition
+1.2 Subdivision
+
+
+2 Lithostratigraphy and palaeogeography
+
+2.1 North America
+2.2 Africa
+2.3 India
+2.4 Asia
+
+
+3 Paleontology
+
+3.1 Birds
+3.2 Flora
+
+
+4 References
+
+4.1 Notes
+4.2 Literature
+
+
+5 External links
+
+
+Stratigraphic definitions[edit source | edit]
+Definition[edit source | edit]
+The Maastrichtian was introduced into scientific literature by Belgian geologist André Hubert Dumont in 1849, after studying rock strata of the Chalk Group close to the Dutch city of Maastricht. These strata are now classified as the Maastricht Formation - both formation and stage derive their names from the city. The Maastricht Formation is known for its fossils from this age, most notably those of the giant sea reptile Mosasaurus.
+The base of the Maastrichtian stage is at the first appearance of ammonite species Pachydiscus neubergicus. At the original type locality near Maastricht, the stratigraphic record was later found to be incomplete. A reference profile for the base was then appointed in a section along the Ardour river called Grande Carrière, close to the village of Tercis-les-Bains in southwestern France.[2] The top of the Maastrichtian stage is defined to be at the iridium anomaly at the Cretaceous–Paleogene boundary (K–T boundary), which is also characterised by the extinction of many groups of life, such as certain foraminifers and calcareous nannoplankton, all ammonites and belemnites, etc.
+Subdivision[edit source | edit]
+The Maastrichtian is commonly subdivided into two substages (Upper and Lower) and three ammonite biozones. The biozones are (from young to old):
+
+zone of Anapachydiscus terminus
+zone of Anapachydiscus fresvillensis
+zone of Pachydiscus neubergicus till Pachydiscus epiplectus
+
+The Maastrichtian is roughly coeval with the Lancian North American Land Mammal Age.
+Lithostratigraphy and palaeogeography[edit source | edit]
+The following are summaries of the characteristics of specific Maastrichtian aged formations.
+North America[edit source | edit]
+The Bearpaw Formation, also called the Bearpaw Shale, is a sedimentary rock formation found in northwestern North America. It is exposed in the U.S. state of Montana, as well as the Canadian provinces of Alberta and Saskatchewan, east of the Rocky Mountains. It overlies the older Two Medicine, Judith River and Dinosaur Park Formations, and is in turn overlain by the Horseshoe Canyon Formation in Canada and the Fox Hills Sandstone in Montana. To the east and south it blends into the Pierre Shale.
+A marine formation composed mostly of shale, it represents the last major expansion of the Western Interior Seaway before it completely receded from northwestern North America by the end of the Cretaceous Period. It is famous for its well-preserved ammonite fossils. Other fossils found in this formation include many types of shellfish, bony fish, sharks, rays, birds, and marine reptiles like mosasaurs, plesiosaurs and sea turtles. The occasional dinosaur remains have also been discovered, presumably from carcasses washed out to sea.
+
+
+
+
+Hell Creek Formation is well exposed in the badlands in the vicinity of Ft. Peck Reservoir.
+
+
+The Hell Creek Formation is an intensely studied division of Upper Cretaceous to lower Paleocene rocks in North America, named for exposures studied along Hell Creek, near Jordan, Montana. The Hell Creek Formation occurs in badlands of eastern Montana and portions of North Dakota, South Dakota, and Wyoming. In Montana, the Hell Creek Formation overlies the Fox Hills Formation and is the uppermost formation of the Cretaceous period.
+It is a series of fresh and brackish-water clays, mudstones, and sandstones deposited during the Maastrichtian, the last part of the Cretaceous period, by fluvial activity in fluctuating river channels and deltas and very occasional peaty swamp deposits along the low-lying eastern continental margin fronting the late Cretaceous Western Interior Seaway. The climate was mild.[3] The famous iridium-enriched Cretaceous–Paleogene boundary, which separates the Cretaceous from the Cenozoic, occurs as a discontinuous but distinct thin marker bedding within the Formation, near its uppermost strata.
+The Horseshoe Canyon Formation is part of the Edmonton Series and is up to 230 m in depth. It is Late Campanian to Early Maastrichtian in age (Edmontonian Land Mammal Age) and is composed of mudstone, sandstone, and carbonaceous shales. There are a variety of environments, which have yielded a diversity of fossil material. The Horseshoe Canyon Formation outcrops extensively in the area of Drumheller, Alberta, as well as further north along the Red Deer River near Trochu, and also in the city of Edmonton.
+Africa[edit source | edit]
+The Sarir Field was discovered in southern Cyrenaica during 1961 and is considered to be the largest oil field in Libya, with estimated oil reserves of 12 Gbbl (1.9 km3).[4] Sarir is operated by the Arabian Gulf Oil Company (AGOCO), a subsidiary of the state-owned National Oil Corporation (NOC).
+The Sarir stratigraphic column generally resembles succession patterns throughout the Sirte Basin, with some variations. In the early regressive phase, basal sandstones were deposited on a Precambrian basement of igneous and metamorphic rocks. Sandstones are dated on angiosperm pollen as younger than Albian, probably from the Late Cretaceous. After a lengthy hiatus, represented by unconformity and sandstone erosion, a transgressive sequence of red, green, and purple Anhydrite shales was laid. Variegated bed remnants occur in crestal sections of many northern structures, such as in wells B-1-65 and C-1-80.
+Above the transgressive sequence are Late Cretaceous shales with tight, micritic carbonate, marking the top of the Mesozoic. These shales thicken into troughs, providing the field's sole source rock. The youngest fauna are Maastrichtian, with an apparent disconformity between the Late Cretaceous and Paleocene, marked by high levels of gamma radiation on logs.
+The Berivotra Formation is an Upper Cretaceous (Maastrichtian) sedimentary rock marine formation found in Madagascar, that is contemporary to the terrestrial Maevarano Formation.
+The Maevarano Formation is an Upper Cretaceous sedimentary rock formation found in the Mahajanga Province of northwestern Madagascar. It is most likely Maastrichtian in age, and records a seasonal, semiarid environment with rivers that had greatly varying discharges. Notable animal fossils recovered include the theropod dinosaur Majungasaurus and the early birds Rahonavis and Vorona, and the titanosaurian sauropod Rapetosaurus.
+India[edit source | edit]
+The Lameta Formation is a sedimentary rock formation found in Madhya Pradesh, Gujarat, and Maharashtra, India. It is of Maastrichtian age (Upper Cretaceous), and is notable for its dinosaur fossils. Many dubious names have been created for isolated bones, but several genera of dinosaurs from these rocks are well-supported, including the titanosaur sauropod Isisaurus and the abelisaurs Indosaurus, Indosuchus, Laevisuchus, and Rajasaurus.[5]
+Asia[edit source | edit]
+The Barun Goyot Formation, dating from the Late Cretaceous Period, is located within and is widely represented in the Gobi Desert basin, in the Ömnögovi Province of Mongolia.
+It was previously known as the "Lower Nemegt Beds", occurring beneath the Nemegt Formation and above the Djadokhta Formation. It is approximately 4 inches (100 mm) in thickness and was laid down roughly 80-71 mya, making it uncertain whether it should be classed as Campanian or Maastrichtian, although the latter is less likely. The Barun Goyot Formation preserves an environment of sand dunes, created from wind-eroded rocks (aeolian dunes).
+The Nemegt Formation is a Late Cretaceous sedimentary formation in the Gobi Desert of Mongolia. It overlies, and in some places interdigitates with, the Barun Goyot Formation. It consists of river channel sediments and contains fossils of fish, turtles, crocodilians, birds and a diverse fauna of dinosaurs. The climate was wetter than when the preceding formations were deposited; there seems to have existed at least some degree of forest cover.
+The absolute age of the Nemegt Formation is unknown but it is thought to be Maastrichtian or maybe late Campanian in age, very roughly some 76-65 million years old. The presence of Saurolophus, a taxon also known from the Horseshoe Canyon Formation of Alberta, may indicate an Early Maastrichtian age, about 70 million years old.
+Paleontology[edit source | edit]
+
+
+
+
+Fossil of Hemipneustes leymeriei Muséum de Toulouse
+
+
+Main article: Flora and fauna of the Maastrichtian stage
+Birds[edit source | edit]
+Several lineages of modern birds existed, though many were of lineages that differed profoundly from their relatives of today and thus are not their ancestors, but became extinct in the Cenozoic. For example, Vegavis iaai indicates that at least four lineages of Anseriformes were distinct: Anhimidae, Anatidae, Anseranatidae and Presbyornithidae (and possibly Dromornithidae), and that there was at least one Galliformes lineage too, and apparently the Gastornithiformes were also distinct. It is also highly likely that there was at least one, and probably several, lineages of Charadriiformes, that penguins were about to split from their closest relatives or had already done so, and that if the Metaves are a valid group they would presumably have been distinct too. Also, paleognaths were of course long distinct from neognaths.
+Flora[edit source | edit]
+
+Metasequoia
+
+References[edit source | edit]
+Notes[edit source | edit]
+
+^ See the timescale by Gradstein et al. (2004)
+^ The GSSP is described by Odin (2001); Odin & Lamaurelle (2001)
+^ The presence of crocodylians suggests a sub-tropical climate, with no prolonged annual cold.
+^ OGJ 2004
+^ Weishampel et al. (2004)
+
+Literature[edit source | edit]
+
+Gradstein, F.M.; Ogg, J.G. & Smith, A.G.; 2004: A Geologic Time Scale 2004, Cambridge University Press.
+Odin G.S.; 2001: Numerical age calibration of the Campanian-Maastrichtian succession at Tercis-les-Bains (Landes, France) and in the Bottaccione Gorge (Italy), in: Odin G.S. (ed.): Characterisation and correlation from Tercis-les-Bains (Landes, SW France) to Europe and other continents, IUGS Special Publication (Monograph) Series 36; Developments in Palaeontology and Stratigraphy 19, Elsevier, p. 775-782.
+Odin, G.S. & Lamaurelle, M.A.; 2001: The global Campanian-Maastrichtian stage boundary, Episodes 24(4), pp 229–238.
+Weishampel, D.B.; Barrett, P.M.; Coria, R.A.; Le Loueff, J.; Xu, X.; Zhao, X.; Sahni, A.; Gomani, E.M.P. & Noto, C.N.; 2004: Dinosaur distribution, in: Weishampel, D.B.; Dodson, P. & Osmólska, H. (eds.): The Dinosauria, University of California Press, Berkeley (2nd ed.), ISBN 0-520-24209-2, pp 517–606.
+
+External links[edit source | edit]
+
+GeoWhen Database - Maastrichtian
+Late Cretaceous timescale, at the website of the subcommission for stratigraphic information of the ICS
+Stratigraphic chart of the Late Cretaceous, at the website of Norges Network of offshore records of geology and stratigraphy
+Maastrichtian Microfossils: 60+ images of Foraminifera
+
+
+
+Cretaceous Period
+
+
+Lower/Early Cretaceous
+Upper/Late Cretaceous
+
+
+Berriasian | Valanginian | Hauterivian
+Barremian| Aptian | Albian
+Cenomanian | Turonian | Coniacian
+Santonian |Campanian | Maastrichtian
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Geologic history of Earth
+
+
+
+
+
+
+
+
+
+
+ 
+Precambrian supereon (4.567 Gya – 541.0 Mya)
+
+
+
+
+
+
+
+
+
+
+
+In left column are eons; right column: bold are eras; not bold are periods:
+
+
+
+
+
+
+Hadean
+(4.567 – 4 Gya)
+
+
+
+
+
+
+
+Chaotian (4.567 – 4.4 Gya)
+
+
+
+
+
+
+
+
+
+
+
+Zirconian(4.4 – 4 Gya)
+
+
+
+
+
+
+
+
+
+
+
+Archean
+(4 – 2.5 Gya)
+
+
+
+
+
+
+
+Eoarchean (4 – 3.6 Gya)
+
+
+
+
+
+
+
+
+
+
+
+Paleoarchean (3.6 – 3.2 Gya)
+
+
+
+
+
+
+
+
+
+
+
+Mesoarchean (3.2 – 2.8 Gya)
+
+
+
+
+
+
+
+
+
+
+
+Neoarchean (2.8 – 2.5 Gya)
+
+
+
+
+
+
+
+
+
+
+
+Proterozoic
+(2.5 Gya – 541.0 Mya)
+
+
+
+
+
+
+
+Paleoproterozoic (2.5 – 1.6 Gya): Siderian (2.5 – 2.3 Gya)
+Rhyacian (2.3 – 2.05 Gya)
+Orosirian (2.05 – 1.8 Gya)
+Statherian (1.8 – 1.6 Gya)
+
+
+
+
+
+
+
+
+
+
+
+Mesoproterozoic (1.6 – 1 Gya): Calymmian (1.6 – 1.4 Gya)
+Ectasian (1.4 – 1.2 Gya)
+Stenian (1.2 – 1 Gya)
+
+
+
+
+
+
+
+
+
+
+
+Neoproterozoic (1 Gya – 541.0 Mya): Tonian (1 Gya – 850 Mya)
+Cryogenian (850 – 635 Mya)
+Ediacaran (635 – 541.0 Mya)
+
+
+
+
+
+
+
+
+
+
+
+
+Mya = millions years ago. Gya = billions years ago.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Phanerozoic eon (541.0 – 0 Mya)
+
+
+
+
+
+
+
+
+
+
+
+In horizontal bars are eras; in left column are periods; right column: bold are epochs; not bold not italic are ages; italic are chrons:
+
+
+
+
+
+
+
+
+
+
+ 
+Paleozoic (541.0 – 252.17 Mya)
+
+
+
+
+
+
+
+
+
+
+
+Cambrian
+(541.0 – 485.4 Mya)
+
+
+
+
+
+
+
+
+Terreneuvian (541.0 – 521 Mya): Fortunian (541.0 – 529 Mya)
+Age 2* (529 – 521 Mya)
+
+
+
+
+
+
+
+
+
+
+
+Epoch 2* (521 – 509 Mya): Age 3* (521 – 514 Mya)
+Age 4* (514 – 509 Mya)
+
+
+
+
+
+
+
+
+
+
+
+Epoch 3* (509 – 497 Mya): Age 5* (509 – 504.5 Mya)
+Drumian (504.5 – 500.5 Mya)
+Guzhangian (500.5 – 497 Mya)
+
+
+
+
+
+
+
+
+
+
+
+Furongian (497 – 485.4 Mya): Paibian (497 – 494 Mya)
+Jiangshanian (494 – 489.5 Mya)
+Age 10* (489.5 – 485.4 Mya)
+
+
+
+
+
+
+
+
+
+
+
+
+Ordovician
+(485.4 – 443.4 Mya)
+
+
+
+
+
+
+
+
+Early Ordovician (485.4 – 470.0 Mya): Tremadocian (485.4 – 477.7 Mya)
+Floian (477.7 – 470.0 Mya)
+
+
+
+
+
+
+
+
+
+
+
+Middle Ordovician (470.0 – 458.4 Mya): Dapingian (470.0 – 467.3 Mya)
+Darriwilian (467.3 – 458.4 Mya)
+
+
+
+
+
+
+
+
+
+
+
+Late Ordovician (458.4 – 443.4 Mya): Sandbian (458.4 – 453.0 Mya)
+Katian (453.0 – 445.2 Mya)
+Hirnantian (445.2 – 443.4 Mya)
+
+
+
+
+
+
+
+
+
+
+
+
+Silurian
+(443.4 – 419.2 Mya)
+
+
+
+
+
+
+
+
+Llandovery (443.4 – 433.4 Mya): Rhuddanian (443.4 – 440.8 Mya)
+Aeronian (440.8 – 438.5 Mya)
+Telychian (438.5 – 433.4 Mya)
+
+
+
+
+
+
+
+
+
+
+
+Wenlock (433.4 – 427.4 Mya): Sheinwoodian (433.4 – 430.5 Mya)
+Homerian (430.5 – 427.4 Mya)
+
+
+
+
+
+
+
+
+
+
+
+Ludlow (427.4 – 423.0 Mya): Gorstian (427.4 – 425.6 Mya)
+Ludfordian (425.6 – 423.0 Mya)
+
+
+
+
+
+
+
+
+
+
+
+Pridoli (423.0 – 419.2 Mya)
+
+
+
+
+
+
+
+
+
+
+
+
+Devonian
+(419.2 – 358.9 Mya)
+
+
+
+
+
+
+
+
+Early Devonian (419.2 – 393.3 Mya): Lochkovian (419.2 – 410.8 Mya)
+Pragian (410.8 – 407.6 Mya)
+Emsian (407.6 – 393.3 Mya)
+
+
+
+
+
+
+
+
+
+
+
+Middle Devonian (393.3 – 382.7 Mya): Eifelian (393.3 – 387.7 Mya)
+Givetian (387.7 – 382.7 Mya)
+
+
+
+
+
+
+
+
+
+
+
+Late Devonian (382.7 – 358.9 Mya): Frasnian (382.7 – 372.2 Mya)
+Famennian (372.2 – 358.9 Mya)
+
+
+
+
+
+
+
+
+
+
+
+
+Carboniferous
+(358.9 – 298.9 Mya)
+
+
+
+
+
+
+
+
+Mississippian (358.9 – 323.2 Mya): Tournaisian (358.9 – 346.7 Mya)
+Viséan (346.7 – 330.9 Mya)
+Serpukhovian (330.9 – 323.2 Mya)
+
+
+
+
+
+
+
+
+
+
+
+Pennsylvanian (323.2 – 298.9 Mya): Bashkirian (323.2 – 315.2 Mya)
+Moscovian (315.2 – 307.0 Mya)
+Kasimovian (307.0 – 303.7 Mya)
+Gzhelian (303.7 – 298.9 Mya)
+
+
+
+
+
+
+
+
+
+
+
+
+Permian
+(298.9 – 252.17 Mya)
+
+
+
+
+
+
+
+
+Cisuralian (298.9 – 272.3 Mya): Asselian (298.9 – 295.0 Mya)
+Sakmarian (295.0 – 290.1 Mya)
+Artinskian (290.1 – 283.5 Mya)
+Kungurian (283.5 – 272.3 Mya)
+
+
+
+
+
+
+
+
+
+
+
+Guadalupian (272.3 – 259.8 Mya): Roadian (272.3 – 268.8 Mya)
+Wordian (268.8 – 265.1 Mya)
+Capitanian (265.1 – 259.8 Mya)
+
+
+
+
+
+
+
+
+
+
+
+Lopingian (259.8 – 252.17 Mya): Wuchiapingian (259.8 – 254.14 Mya)
+Changhsingian (254.14 – 252.17 Mya)
+
+
+
+
+
+
+
+
+
+
+
+
+Kasimovian and Gzhelian comprise Late Pennsylvanian (307.0 – 298.9 Mya) subepoch.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Mesozoic (252.17 – 66.0 Mya)
+
+
+
+
+
+
+
+
+
+
+
+Triassic
+(252.17 – 201.3 Mya)
+
+
+
+
+
+
+
+
+Early Triassic (252.17 – 247.2 Mya): Induan (252.17 – 251.2 Mya)
+Olenekian (251.2 – 247.2 Mya)
+
+
+
+
+
+
+
+
+
+
+
+Middle Triassic (247.2 – 235 Mya): Anisian (247.2 – 242 Mya)
+Ladinian (242 – 235 Mya)
+
+
+
+
+
+
+
+
+
+
+
+Late Triassic (235 – 201.3 Mya): Carnian (235 – 228 Mya)
+Norian (228 – 208.5 Mya)
+Rhaetian (208.5 – 201.3 Mya)
+
+
+
+
+
+
+
+
+
+
+
+
+Jurassic
+(201.3 – 145.0 Mya)
+
+
+
+
+
+
+
+
+Early Jurassic (201.3 – 174.1 Mya): Hettangian (201.3 – 199.3 Mya)
+Sinemurian (199.3 – 190.8 Mya)
+Pliensbachian (190.8 – 182.7 Mya)
+Toarcian (182.7 – 174.1 Mya)
+
+
+
+
+
+
+
+
+
+
+
+Middle Jurassic (174.1 – 163.5 Mya): Aalenian (174.1 – 170.3 Mya)
+Bajocian (170.3 – 168.3 Mya)
+Bathonian (168.3 – 166.1 Mya)
+Callovian (166.1 – 163.5 Mya)
+
+
+
+
+
+
+
+
+
+
+
+Late Jurassic (163.5 – 145.0 Mya): Oxfordian (163.5 – 157.3 Mya)
+Kimmeridgian (157.3 – 152.1 Mya)
+Tithonian (152.1 – 145.0 Mya)
+
+
+
+
+
+
+
+
+
+
+
+
+Cretaceous
+(145.0 – 66.0 Mya)
+
+
+
+
+
+
+
+
+Early Cretaceous (145.0 – 100.5 Mya): Berriasian (145.0 – 139.8 Mya)
+Valanginian (139.8 – 132.9 Mya)
+Hauterivian (132.9 – 129.4 Mya)
+Barremian (129.4 – 125.0 Mya)
+Aptian (125.0 – 113.0 Mya)
+Albian (113.0 – 100.5 Mya)
+
+
+
+
+
+
+
+
+
+
+
+Late Cretaceous (100.5 – 66.0 Mya): Cenomanian (100.5 – 93.9 Mya)
+Turonian (93.9 – 89.8 Mya)
+Coniacian (89.8 – 86.3 Mya)
+Santonian (86.3 – 83.6 Mya)
+Campanian (83.6 – 72.1 Mya)
+Maastrichtian (72.1 – 66.0 Mya)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Cenozoic (66.0 – 0 Mya)
+
+
+
+
+
+
+
+
+
+
+
+Paleogene
+(66.0 – 23.03 Mya)
+
+
+
+
+
+
+
+
+Paleocene (66.0 – 56.0 Mya): Danian (66.0 – 61.6 Mya)
+Selandian (61.6 – 59.2 Mya)
+Thanetian (59.2 – 56.0 Mya)
+
+
+
+
+
+
+
+
+
+
+
+Eocene (56.0 – 33.9 Mya): Ypresian (56.0 – 47.8 Mya)
+Lutetian (47.8 – 41.3 Mya)
+Bartonian (41.3 – 38.0 Mya)
+Priabonian (38.0 – 33.9 Mya)
+
+
+
+
+
+
+
+
+
+
+
+Oligocene (33.9 – 23.03 Mya): Rupelian (33.9 – 28.1 Mya)
+Chattian (28.1 – 23.03 Mya)
+
+
+
+
+
+
+
+
+
+
+
+
+Neogene
+(23.03 – 2.588 Mya)
+
+
+
+
+
+
+
+
+Miocene (23.03 – 5.333 Mya): Aquitanian (23.03 – 20.44 Mya)
+Burdigalian (20.44 – 15.97 Mya)
+Langhian (15.97 – 13.82 Mya)
+Serravallian (13.82 – 11.62 Mya)
+Tortonian (11.62 – 7.246 Mya)
+Messinian (7.246 – 5.333 Mya)
+
+
+
+
+
+
+
+
+
+
+
+Pliocene (5.333 – 2.588 Mya): Piacenzian (5.333 – 3.600 Mya)
+Zanclean (3.600 – 2.588 Mya)
+
+
+
+
+
+
+
+
+
+
+
+
+Quaternary
+(2.588 – 0 Mya)
+
+
+
+
+
+
+
+
+Pleistocene (2.588 Mya – 11.7 kya): Gelasian (2.588 – 1.806 Mya)
+Calabrian (1.806 Mya – 781 kya)
+Middle Pleistocene (Ionian) (781 – 126 kya)
+Late Pleistocene (Tarantian) (126 – 11.7 kya): Oldest Dryas* (18 – 14.67 kya)
+Bølling* (14.67 – 14 kya)
+Older Dryas* (14 – 13.7 kya)
+Allerød* (13.7 – 12.8 kya)
+Younger Dryas* (12.8 – 11.7 kya)
+
+
+
+
+
+
+
+
+
+
+
+Holocene (11.7 – 0 kya): Preboreal* (11.7 – 9 kya)
+Boreal* (9 – 8 kya)
+Atlantic* (8 – 5 kya)
+Subboreal* (5 – 2.5 kya)
+Subatlantic* (2.5 – 0 kya)
+
+
+
+
+
+
+
+
+
+
+
+
+Paleogene, Neogene and early Pleistocene comprise former Tertiary* (66.0 – 1.8 Mya) period. Gelasian and Calabrian comprise Early Pleistocene (2.588 Mya – 781 kya) subepoch.
+
+
+
+
+
+
+
+
+
+
+
+
+
+kya = thousands years ago. Mya = millions years ago. * Not officially recognized by the I.C.S.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Source: International Chronostratigraphic Chart (January 2013). International Commission on Stratigraphy. Retrieved 27 March 2013. Divisions of Geologic Time—Major Chronostratigraphic and Geochronologic Units USGS Retrieved 10 March 2013.
+
+
+
+
+
+
+
+
+ 
+NewPP limit report
+CPU time usage: 2.636 seconds
+Real time usage: 2.852 seconds
+Preprocessor visited node count: 14825/1000000
+Preprocessor generated node count: 21168/1500000
+Post‐expand include size: 524892/2048000 bytes
+Template argument size: 86827/2048000 bytes
+Highest expansion depth: 25/40
+Expensive parser function count: 2/500
+Lua time usage: 0.098s
+Lua memory usage: 1.72 MB
+
+
+ Saved in parser cache with key enwiki:pcache:idhash:2795967-0!*!0!!en!4!* and timestamp 20130921094732 
+								
+				Retrieved from "http://en.wikipedia.org/w/index.php?title=Maastrichtian&oldid=560949233"				
+												Categories: CretaceousMaastricht												
+							
+		
+		
+			Navigation menu
+			
+				
+	Personal tools
+	
+Create accountLog in	
+
+				
+					
+	Namespaces
+	
+					Article
+					Talk
+			
+
+
+	
+		
+	Variants
+	
+		
+					
+	
+
+				
+				
+					
+	Views
+	
+					Read
+					Edit source
+					Edit
+					View history
+			
+
+
+	Actions
+	
+		
+					
+	
+
+
+	Search
+	
+				
+																				
+		
+	
+
+				
+			
+			
+					
+				
+	Navigation
+	
+		
+			Main page
+			Contents
+			Featured content
+			Current events
+			Random article
+			Donate to Wikipedia
+		
+	
+
+
+	Interaction
+	
+		
+			Help
+			About Wikipedia
+			Community portal
+			Recent changes
+			Contact page
+		
+	
+
+
+	Toolbox
+	
+		
+			What links here
+			Related changes
+			Upload file
+			Special pages
+			Permanent link
+			Page information
+			Data item
+Cite this page		
+	
+
+
+	Print/export
+	
+		
+			Create a book
+			Download as PDF
+			Printable version
+		
+	
+
+
+	Languages
+	
+		
+			Asturianu
+			Català
+			Deutsch
+			Español
+			Euskara
+			Français
+			Italiano
+			עברית
+			Latina
+			Lëtzebuergesch
+			Limburgs
+			Magyar
+			Nederlands
+			日本語
+			Norsk nynorsk
+			Plattdüütsch
+			Polski
+			Português
+			Русский
+			Srpskohrvatski / српскохрватски
+			Suomi
+			Українська
+			Tiếng Việt
+			中文
+			
+			Edit links
+		
+	
+
+			
+		
+		
+							
+											 This page was last modified on 21 June 2013 at 18:18.
+											Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. 
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+									
+							
+											Privacy policy
+											About Wikipedia
+											Disclaimers
+											Contact Wikipedia
+											Developers
+											Mobile view
+									
+										
+					
+						
+					
+					
+						
+					
+				
+						
+		
+		
+
+
+ Served by mw1080 in 0.222 secs. 
+	
+if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Maastrichtian","wgTitle":"Maastrichtian","wgCurRevisionId":560949233,"wgArticleId":2795967,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Cretaceous","Maastricht"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Maastrichtian","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgVectorEnabledModules":{"collapsiblenav":true,"expandablesearch":false,"sectioneditlinks":false,"experiments":true},"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"templateEditor":false,"templates":false,"preview":false,"previewDialog":false,"publish":false,"toc":false},"wgArticleFeedbackv5Permissions":{"aft-reader":false,"aft-member":false,"aft-editor":false,"aft-monitor":false,"aft-administrator":false,"aft-oversighter":false,"aft-noone":false},"wgVisualEditor":{"isPageWatched":false,"magnifyClipIconURL":"//bits.wikimedia.org/static-1.22wmf17/skins/common/images/magnify-clip.png","pageLanguageCode":"en","pageLanguageDir":"ltr"},"wikilove-recipient":"","wikilove-anon":0,"wgGuidedTourHelpGuiderUrl":"Help:Guided tours/guider","wgULSAcceptLanguageList":[],"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia","aftv5Article":{"id":2795967,"title":"Maastrichtian","namespace":0,"categories":["Cretaceous","Maastricht"],"permissionLevel":false},"wgWikibaseItemId":"Q278141"});
+}if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":false,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,
+"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"useeditwarning":1,"prefershttps":1,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"vector-simplesearch":1,"vector-collapsiblenav":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"aftv5-last-filter":null,"visualeditor-enable":1,"visualeditor-enable-experimental":0,"visualeditor-betatempdisable":0,"wikilove-enabled":1,"echo-subscriptions-web-page-review":true,"echo-subscriptions-email-page-review":false,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"echo-notify-show-link":true,"echo-show-alert":true,"echo-email-frequency":0,"echo-email-format":"html","echo-subscriptions-email-system":true,"echo-subscriptions-web-system":true,"echo-subscriptions-email-other":false,"echo-subscriptions-web-other":true,"echo-subscriptions-email-edit-user-talk":false,"echo-subscriptions-web-edit-user-talk":true,
+"echo-subscriptions-email-reverted":false,"echo-subscriptions-web-reverted":true,"echo-subscriptions-email-article-linked":false,"echo-subscriptions-web-article-linked":false,"echo-subscriptions-email-mention":false,"echo-subscriptions-web-mention":true,"echo-subscriptions-web-edit-thank":true,"echo-subscriptions-email-edit-thank":false,"gettingstarted-task-toolbar-show-intro":true,"uls-preferences":"","language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs446":false,"searchNs447":false
+,"searchNs710":false,"searchNs711":false,"searchNs828":false,"searchNs829":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-mySandbox":1,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:8d18647871f0de0db8b2a67911f411b0 */
+}if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","ext.visualEditor.viewPageTarget.init","ext.wikimediaShopLink.core","ext.uls.init","ext.uls.interface","wikibase.client.init","ext.centralNotice.bannerController","skins.vector.js"]);
+}/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}if(window.mw){
+mw.loader.load(["mobile.desktop","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.cite","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","mw.MwEmbedSupport.style","ext.vector.collapsibleNav","ext.articleFeedbackv5.startup","ext.gettingstarted.logging","ext.gettingstarted.openTask","schema.HttpsSupport","ext.coreEvents.httpsSupport","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","mw.PopUpMediaTransform"],null,true);
+}

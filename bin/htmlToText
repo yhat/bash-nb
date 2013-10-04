@@ -1,0 +1,37 @@
+#!/usr/bin/env coffee
+
+fs = require 'fs'
+path = require 'path'
+package_json = JSON.parse fs.readFileSync path.join(__dirname, '../package.json')
+doc = """
+
+Usage:
+    htmlToText [options] [<selector>] [<output>]
+
+Options:
+    --help
+    --version
+
+Description:
+    #{package_json.description}
+
+Example:
+    htmlToText something something
+"""
+{docopt} = require 'docopt', version: package_json.version
+options = docopt doc
+
+selector = options['<selector>'] || ''
+output = options['<output>'] || 'text'
+
+$ = require("jquery")
+html = ""
+process.stdin.on "data", (data) ->
+  html += data.toString()
+
+process.stdin.on "end", (err) ->
+  if output=='text'
+    process.stdout.write $(html).find(selector).text()
+  else
+    process.stdout.write $(html).find(selector).html()
+

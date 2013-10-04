@@ -1,0 +1,253 @@
+
+
+
+Pukwudgie - Wikipedia, the free encyclopedia
+
+
+
+
+
+
+
+
+
+
+
+
+a:lang(ar),a:lang(ckb),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:0de201fdea5d684523607ed88007b127 */
+
+
+
+
+[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.22wmf18/skins/vector/csshover.min.htc")}</style><![endif]
+
+		
+		
+		
+			
+			
+						 CentralNotice 
+						Pukwudgie
+			
+								From Wikipedia, the free encyclopedia
+								
+												
+					Jump to:					navigation, 					search
+				
+				
+
+
+
+
+This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed. (February 2012) 
+
+
+A Pukwudgie is a 2-or-3-foot-tall (0.61 or 0.91 m) being from the Wampanoag folklore. Pukwudgies' features resemble those of a human, but with enlarged noses, fingers and ears. Their skin is described as being a smooth grey, and at times has been known to glow.
+In Native American lore, Pukwudgies have the following traits and abilities;
+
+they can appear and disappear at will
+they can transform into a walking porcupine (it looks like a porcupine from the back, and the front is half-troll, half-human and walks upright)
+they can attack people and lure them to their deaths
+they are able to use magic
+they have poison arrows
+they can create fire at will
+Pukwudgies control Tei-Pai-Wankas which are believed to be the souls of Native Americans they have killed.
+
+Native Americans believed that Pukwudgies were best left alone. When you see a Pukwudgie you are not supposed to mess with them, or they will repay you by playing nasty tricks on you, or by following you and causing trouble. They were once friendly to humans, but then turned against them. They are known to kidnap people, push them off cliffs, attack their victims with short knives and spears, and to use sand to blind their victims.[1]
+Origin in legend[edit]
+"Legends of the Pukwudgie began in connection to 'Maushop', a creation giant believed by the Wampanoag to have created most of Cape Cod. He was beloved by the people, and the Pukwudgies were jealous of the affection the Natives had for him. They tried to help the Wampanoag, but their efforts always backfired, until they eventually decided to torment them instead. They became mischievous and aggravated the Natives until they asked 'Granny Squanit', Maushop’s wife, for help. Maushop collected as many as he could. He shook them until they were confused and tossed them around New England. Some died, but others landed, regained their minds and made their way back to Massachusetts.
+Satisfied he had done his job and pleased his wife, Maushop went away for a while. In his absence, the Pukwudgies had returned. They again changed their relationship with the Wampanoags. They were no longer just a nuisance, but began kidnapping children, burning villages and forcing the Wampanoag deep into the woods and killing them. Squanit again stepped in, but Maushop, being very lazy, sent his five sons to fix the problem. The Pukwudgies lured them into deep grass and shot them dead with magic arrows. Enraged, Squanit and Maushop attacked as many as they could find and crushed them, but many escaped and scattered throughout New England again. The Pukwudgies regrouped and tricked Maushop into the water and shot him with their arrows. Some legends say they killed him, while others claim he became discouraged and depressed about the death of his sons, but after these events Maushop disappears from the Wampanoags' mythology."[2]
+Recent history[edit]
+Pukwudgie encounters have been reported in the Freetown-Fall River State Forest in Massachusetts, which includes the 227-acre (0.92 km2) Watuppa Reservation, which belongs to the Wampanoag Nation. Several unexplained suicides at a ledge in the state forest have been linked by some to the Pukwudgie lore of pushing people off cliffs.
+Mounds State Park in Anderson, Indiana is a hotspot for Pukwudgie activity.
+Round Rock's Hairy Man Festival is based on a human boy who grew into a wild hermit. After his death, he vengefully haunted Hairy Man Road. Some locals claim that he summoned a troll, using old Nordic Runes to help him; it is that troll who resides on Hairy Man Road, still there after the hermit's death. He causes accidents and misfortune to those who dare travel Hairy Man Road by bicycle at night.[citation needed]
+References[edit]
+
+
+^ The Good Giants And The Bad Pukwudgies. Jean Fritz; illustrations by Tomie de Paola. Putnam, 1982
+^ Pukwudgies: Myth or Monster
+
+
+
+
+ 
+NewPP limit report
+CPU time usage: 0.468 seconds
+Real time usage: 0.567 seconds
+Preprocessor visited node count: 1708/1000000
+Preprocessor generated node count: 10390/1500000
+Post‐expand include size: 9179/2048000 bytes
+Template argument size: 4941/2048000 bytes
+Highest expansion depth: 30/40
+Expensive parser function count: 2/500
+Lua time usage: 0.022s
+Lua memory usage: 857 KB
+
+
+ Saved in parser cache with key enwiki:pcache:idhash:18344483-0!*!0!!*!4!* and timestamp 20130914221739 
+								
+				Retrieved from "http://en.wikipedia.org/w/index.php?title=Pukwudgie&oldid=547227251"				
+												Categories: Legendary creatures of the indigenous peoples of North AmericaFairiesMythic humanoidsMythological trickstersHidden categories: Articles needing additional references from February 2012All articles needing additional referencesAll articles with unsourced statementsArticles with unsourced statements from January 2012												
+							
+		
+		
+			Navigation menu
+			
+				
+	Personal tools
+	
+Create accountLog in	
+
+				
+					
+	Namespaces
+	
+					Article
+					Talk
+			
+
+
+	
+		
+	Variants
+	
+		
+					
+	
+
+				
+				
+					
+	Views
+	
+					Read
+					Edit
+					View history
+			
+
+
+	Actions
+	
+		
+					
+	
+
+
+	Search
+	
+				
+																				
+		
+	
+
+				
+			
+			
+					
+				
+	Navigation
+	
+		
+			Main page
+			Contents
+			Featured content
+			Current events
+			Random article
+			Donate to Wikipedia
+		
+	
+
+
+	Interaction
+	
+		
+			Help
+			About Wikipedia
+			Community portal
+			Recent changes
+			Contact page
+		
+	
+
+
+	Toolbox
+	
+		
+			What links here
+			Related changes
+			Upload file
+			Special pages
+			Permanent link
+			Page information
+			Data item
+Cite this page		
+	
+
+
+	Print/export
+	
+		
+			Create a book
+			Download as PDF
+			Printable version
+		
+	
+
+
+	Languages
+	
+		
+			Français
+			
+			Edit links
+		
+	
+
+			
+		
+		
+							
+											 This page was last modified on 27 March 2013 at 09:38.
+											Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. 
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+									
+							
+											Privacy policy
+											About Wikipedia
+											Disclaimers
+											Contact Wikipedia
+											Developers
+											Mobile view
+									
+										
+					
+						
+					
+					
+						
+					
+				
+						
+		
+		
+
+
+ Served by mw1044 in 0.226 secs. 
+	
+if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Pukwudgie","wgTitle":"Pukwudgie","wgCurRevisionId":547227251,"wgArticleId":18344483,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles needing additional references from February 2012","All articles needing additional references","All articles with unsourced statements","Articles with unsourced statements from January 2012","Legendary creatures of the indigenous peoples of North America","Fairies","Mythic humanoids","Mythological tricksters"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Pukwudgie","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgVectorEnabledModules":{"collapsiblenav":true,"experiments":true},"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"templateEditor":false,"templates":false,"preview":false,"previewDialog":false,"publish":false,"toc":false},"wgArticleFeedbackv5Permissions":{"aft-reader":true,"aft-member":false,"aft-editor":false,"aft-monitor":false,"aft-administrator":false,"aft-oversighter":false,"aft-noone":false},"wgVisualEditor":{"isPageWatched":false,"magnifyClipIconURL":"//bits.wikimedia.org/static-1.22wmf18/skins/common/images/magnify-clip.png","pageLanguageCode":"en","pageLanguageDir":"ltr"},"wikilove-recipient":"","wikilove-anon":0,"wgGuidedTourHelpGuiderUrl":"Help:Guided tours/guider","wgULSAcceptLanguageList":["en-us","en"],"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia","aftv5Article":{"id":18344483,"title":"Pukwudgie","namespace":0,"categories":["All articles needing additional references","All articles with unsourced statements","Articles needing additional references from February 2012","Articles with unsourced statements from January 2012","Fairies","Legendary creatures of the indigenous peoples of North America","Mythic humanoids","Mythological tricksters"],"permissionLevel":false},"wgWikibaseItemId":"Q3410527"});
+}if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":false,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,
+"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"useeditwarning":1,"prefershttps":1,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"vector-simplesearch":1,"vector-collapsiblenav":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"aftv5-last-filter":null,"visualeditor-enable":0,"visualeditor-enable-experimental":0,"visualeditor-betatempdisable":0,"wikilove-enabled":1,"echo-subscriptions-web-page-review":true,"echo-subscriptions-email-page-review":false,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"echo-notify-show-link":true,"echo-show-alert":true,"echo-email-frequency":0,"echo-email-format":"html","echo-subscriptions-email-system":true,"echo-subscriptions-web-system":true,"echo-subscriptions-email-other":false,"echo-subscriptions-web-other":true,"echo-subscriptions-email-edit-user-talk":false,"echo-subscriptions-web-edit-user-talk":true,
+"echo-subscriptions-email-reverted":false,"echo-subscriptions-web-reverted":true,"echo-subscriptions-email-article-linked":false,"echo-subscriptions-web-article-linked":false,"echo-subscriptions-email-mention":false,"echo-subscriptions-web-mention":true,"echo-subscriptions-web-edit-thank":true,"echo-subscriptions-email-edit-thank":false,"gettingstarted-task-toolbar-show-intro":true,"uls-preferences":"","language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs446":false,"searchNs447":false
+,"searchNs710":false,"searchNs711":false,"searchNs828":false,"searchNs829":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-mySandbox":1,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:156d8fe0ae17f8afd74198057563e45d */
+}if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","ext.visualEditor.viewPageTarget.init","ext.wikimediaShopLink.core","ext.uls.init","ext.uls.interface","wikibase.client.init","ext.centralNotice.bannerController","skins.vector.js"]);
+}/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}if(window.mw){
+mw.loader.load(["mobile.desktop","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.cite","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","mw.MwEmbedSupport.style","ext.vector.collapsibleNav","ext.articleFeedbackv5.startup","ext.gettingstarted.logging","ext.gettingstarted.openTask","schema.HttpsSupport","ext.coreEvents.httpsSupport","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","mw.PopUpMediaTransform"],null,true);
+}

@@ -1,0 +1,382 @@
+
+
+
+Nothronychus - Wikipedia, the free encyclopedia
+
+
+
+
+
+
+
+
+
+
+
+
+a:lang(ar),a:lang(ckb),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:0de201fdea5d684523607ed88007b127 */
+
+
+
+
+[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.22wmf18/skins/vector/csshover.min.htc")}</style><![endif]
+
+		
+		
+		
+			
+			
+						 CentralNotice 
+						Nothronychus
+			
+								From Wikipedia, the free encyclopedia
+								
+												
+					Jump to:					navigation, 					search
+				
+				
+
+
+Nothronychus
+Temporal range: Late Cretaceous, 92–91Ma
+
+PreЄ
+Є
+O
+S
+D
+C
+P
+T
+J
+K
+Pg
+N
+
+
+
+↓
+
+
+
+
+
+
+
+
+
+Reconstructed skeleton of N. mckinleyi
+
+
+Scientific classification 
+
+
+Kingdom:
+Animalia
+
+
+Phylum:
+Chordata
+
+
+Clade:
+Sauropsida
+
+
+Clade:
+Dinosauria
+
+
+Clade:
+Theropoda
+
+
+Family:
+†Therizinosauridae
+
+
+Genus:
+†Nothronychus
+Kirkland & Wolfe, 2001
+
+
+Type species
+
+
+†Nothronychus mckinleyi
+Kirkland & Wolfe, 2001
+
+
+Species
+
+
+
+
+†N. mckinleyi Kirkland & Wolfe, 2001
+†N. graffami Zanno et al., 2009
+
+
+
+
+
+Nothronychus is a genus of theropod dinosaur classified in the group Therizinosauria, from the Cretaceous of North America.
+The type species of this dinosaur, Nothronychus mckinleyi, was described by James Kirkland and Douglas G. Wolfe in 2001. It was recovered near New Mexico's border with Arizona, in an area known as the Zuni Basin, from rocks assigned to the Moreno Hill Formation, dating to the late Cretaceous period (mid-Turonian stage), around 91 million years ago. A second specimen, described in 2009 as a second species, Nothronychus graffami, was found in the Tropic Shale Formation of Utah, dating to the early Turonian, between one million and a half million years older than N. mckinleyi.
+The name Nothronychus, is derived from Greek, meaning "slothful claw."[1]
+Nothronychus was a herbivorous theropod with a beak, a bird-like hip (resembling that of the non-related ornithischians) and four-toed feet, with all four toes facing forward.
+
+
+Contents
+
+
+1 Description
+2 Discovery and species
+3 Phylogeny
+4 References
+
+
+Description[edit]
+
+
+
+
+Artist's impression of N. mckinleyi.
+
+
+
+
+
+
+Possible size compared to a human
+
+
+Nothronychus was a member of the Coelurosauria, the theropod group of carnivorous dinosaurs that includes carnivores such as Tyrannosaurus. However, more specifically, Nothronychus was a part of the sub-group Maniraptora, theropods which evolved into omnivores and, in the case of Nothronychus and its family, plant-eaters.[2] It was bipedal and walked more upright than its carnivore ancestors. N. graffami weighed about a tonne, were 4.5–6 m (15–20 ft) long and stood 3-3.6 m (10–12 ft) tall, while N. mckinleyi was only slightly smaller.[3]
+A reconstruction of 40 to 50 percent of its skeleton, from the two separate species, allowed scientists to describe these dinosaurs as having leaf-shaped teeth with circular roots, long necks, long arms with dexterous hands and, measured over the curve, up to thirty centimeter (12 in) long curved claws on their fingers, large "pot-bellied" abdomens, stout hind legs, and relatively short tails. N. mckinleyi was different from N. graffami in being less robust as well as details of the tail vertebrae, and a more bent lower arm bone (ulna).[2]
+Discovery and species[edit]
+The first fossil evidence later attributed to Nothronychus was discovered by a team of paleontologists working in the Zuni Basin of New Mexico at the Haystack Butte site. A therizinosaur ischium (a hip bone) had originally been mistaken for a squamosal, a part of the skull crest of the newly discovered ceratopsian Zuniceratops. However, closer examination revealed the true identity of the bone, and soon more parts of the skeleton were found. The New Mexico team, led by paleontologists Jim Kirkland and Doug Wolfe, published their find in the Journal of Vertebrate Paleontology on 22 August 2001, making it the type specimen of the new species Nothronychus mckinleyi.[1] The Arizona Republic newspaper, however, was first to announce the name on 19 June 2001, in a column by R.E. Molnar. The generic name is derived from Greek νωθρός, nothros, "heavy" or "slothful", en ὄνυξ, onyx, "claw". The specific name honours rancher Bobby McKinley on whose land the find was made. The holotype, specimen MSM P2106, consists of two skull fragments, a braincase, some vertebrae and parts of the shoulder girdle, forelimbs, pelvis and hindlimbs.[1]
+A second, more complete therizinosaur specimen, UMNH VP 16420, was discovered from the Tropic Shale formation (dating to the early Turonian stage) of southern Utah in 2000 by Merle Graffam, a resident of Big Water, Utah. The area around Big Water had been subject to several expeditions by teams from the Museum of Northern Arizona (MNA), and was known for its abundance of marine reptile fossils, especially plesiosaurs.[3] During part of the late Cretaceous period, the region had been submerged under a shallow sea, the Western Interior Seaway, and preserves extensive marine deposits. Graffam's initial discovery (a large, isolated toe bone) came as a surprise to scientists, as it clearly belonged to a land-dwelling dinosaur, rather than a plesiosaur. However, the location of the bone at the time would have been nearly 100 kilometers from the Cretaceous shoreline. An excavation of the area by an MNA crew revealed more of the skeleton, and the scientists found that it was a therizinosaur, and the first example of that group to be found in the Americas. All previous therizinosaur fossils had come from China and Mongolia.[1] It is the most complete therizinosaurid specimen known but lacks the skull.[2]
+
+
+
+
+Reconstructed N. graffami skeleton
+
+
+The Utah specimen studied by the MNA team was found to be closely related to N. mckinleyi, though it differed in build (being heavier) and age (about half a million years older).[3] The MNA specimen was first announced in two 2002 talks during the 54th meeting of the Rocky Mountain Geological Society of America.[4][5] It was later discussed in an issue of Arizona Geology as a distinct species from N. mckinleyi, but not named.[3] The specimen was classified and named as the new species Nothronychus graffami by Lindsay Zanno and colleagues in the journal Proceedings of the Royal Society B on 15 July 2009. N. graffami was named for Graffam, who discovered the original specimens.[2] A reconstructed skeleton of N. graffami went on display at the MNA in September 2007.[3]
+Phylogeny[edit]
+Nothronychus mckinleyi was in 2001 assigned to the Therizinosauridae.[1] A cladistic analysis in 2010 recovered N. graffami as the sister species of N. mckinleyi.[6]
+References[edit]
+
+
+^ a b c d e Kirkland, J.I., and Wolfe, D.G. (2001). "First definitive therizinosaurid (Dinosauria; Theropoda) from North America." Journal of Vertebrate Paleontology, 21(3): 410-414.
+^ a b c d Zanno, L.E., Gillette, D.D., Albright, L.B., and Titus, A.L. (2009). "A new North American therizinosaurid and the role of herbivory in 'predatory' dinosaur evolution." Proceedings of the Royal Society B, Published online before print July 15, 2009, doi:10.1098/rspb.2009.1029.
+^ a b c d e Gillette, D.D. (2007). "Therizinosaur: Mystery of the Sickle-Clawed Dinosaur." Arizona Geology, 37(2): 1-6. pdf available
+^ Albright, L.B. III, Gillette, D.D. and Titus, A.L. (2002). "New records of vertebrates from the Late Cretaceous Tropic Shale of Southern Utah." Paleontological Research in Grand-Staircase Escalante National Monument and Surrounding Area I, abstract.
+^ Gillette, D.D., Albright, L.B. III, Titus, A.L., and Graffam, M.H. (2002). "Discovery and excavation of a therizinosaurid dinosaur from the Upper Cretaceous Tropic Shale (Early Turnoian), Kane County, Utah." Paleontological Research in Grand-Staircase Escalante National Monument and Surrounding Area I, abstract.
+^ Lindsay E. Zanno (2010). "A taxonomic and phylogenetic re-evaluation of Therizinosauria (Dinosauria: Maniraptora)". Journal of Systematic Palaeontology 8 (4): 503–543. doi:10.1080/14772019.2010.488045. 
+
+
+
+
+
+
+Dinosaurs portal
+
+
+
+
+
+ 
+NewPP limit report
+CPU time usage: 4.312 seconds
+Real time usage: 4.672 seconds
+Preprocessor visited node count: 24948/1000000
+Preprocessor generated node count: 35247/1500000
+Post‐expand include size: 68657/2048000 bytes
+Template argument size: 44101/2048000 bytes
+Highest expansion depth: 39/40
+Expensive parser function count: 1/500
+Lua time usage: 0.025s
+Lua memory usage: 987 KB
+
+
+ Saved in parser cache with key enwiki:pcache:idhash:1861279-0!*!0!!en!4!* and timestamp 20131001102636 
+								
+				Retrieved from "http://en.wikipedia.org/w/index.php?title=Nothronychus&oldid=567614951"				
+												Categories: Cretaceous dinosaursDinosaurs of North AmericaFossil taxa described in 2001TherizinosaursHidden categories: Articles with 'species' microformats												
+							
+		
+		
+			Navigation menu
+			
+				
+	Personal tools
+	
+Create accountLog in	
+
+				
+					
+	Namespaces
+	
+					Article
+					Talk
+			
+
+
+	
+		
+	Variants
+	
+		
+					
+	
+
+				
+				
+					
+	Views
+	
+					Read
+					Edit
+					View history
+			
+
+
+	Actions
+	
+		
+					
+	
+
+
+	Search
+	
+				
+																				
+		
+	
+
+				
+			
+			
+					
+				
+	Navigation
+	
+		
+			Main page
+			Contents
+			Featured content
+			Current events
+			Random article
+			Donate to Wikipedia
+		
+	
+
+
+	Interaction
+	
+		
+			Help
+			About Wikipedia
+			Community portal
+			Recent changes
+			Contact page
+		
+	
+
+
+	Toolbox
+	
+		
+			What links here
+			Related changes
+			Upload file
+			Special pages
+			Permanent link
+			Page information
+			Data item
+Cite this page		
+	
+
+
+	Print/export
+	
+		
+			Create a book
+			Download as PDF
+			Printable version
+		
+	
+
+
+	Languages
+	
+		
+			Català
+			Česky
+			Deutsch
+			Español
+			Français
+			한국어
+			Italiano
+			Magyar
+			Nederlands
+			Polski
+			Português
+			Русский
+			Svenska
+			Українська
+			中文
+			
+			Edit links
+		
+	
+
+			
+		
+		
+							
+											 This page was last modified on 8 August 2013 at 00:52.
+											Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. 
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+									
+							
+											Privacy policy
+											About Wikipedia
+											Disclaimers
+											Contact Wikipedia
+											Developers
+											Mobile view
+									
+										
+					
+						
+					
+					
+						
+					
+				
+						
+		
+		
+
+
+ Served by mw1042 in 0.248 secs. 
+	
+if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Nothronychus","wgTitle":"Nothronychus","wgCurRevisionId":567614951,"wgArticleId":1861279,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with 'species' microformats","Cretaceous dinosaurs","Dinosaurs of North America","Fossil taxa described in 2001","Therizinosaurs"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Nothronychus","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgVectorEnabledModules":{"collapsiblenav":true,"experiments":true},"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"templateEditor":false,"templates":false,"preview":false,"previewDialog":false,"publish":false,"toc":false},"wgArticleFeedbackv5Permissions":{"aft-reader":true,"aft-member":false,"aft-editor":false,"aft-monitor":false,"aft-administrator":false,"aft-oversighter":false,"aft-noone":false},"wgVisualEditor":{"isPageWatched":false,"magnifyClipIconURL":"//bits.wikimedia.org/static-1.22wmf18/skins/common/images/magnify-clip.png","pageLanguageCode":"en","pageLanguageDir":"ltr"},"wikilove-recipient":"","wikilove-anon":0,"wgGuidedTourHelpGuiderUrl":"Help:Guided tours/guider","wgULSAcceptLanguageList":[],"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia","aftv5Article":{"id":1861279,"title":"Nothronychus","namespace":0,"categories":["Articles with 'species' microformats","Cretaceous dinosaurs","Dinosaurs of North America","Fossil taxa described in 2001","Therizinosaurs"],"permissionLevel":false},"wgWikibaseItemId":"Q131490"});
+}if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":false,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,
+"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"useeditwarning":1,"prefershttps":1,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"vector-simplesearch":1,"vector-collapsiblenav":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"aftv5-last-filter":null,"visualeditor-enable":0,"visualeditor-enable-experimental":0,"visualeditor-betatempdisable":0,"wikilove-enabled":1,"echo-subscriptions-web-page-review":true,"echo-subscriptions-email-page-review":false,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"echo-notify-show-link":true,"echo-show-alert":true,"echo-email-frequency":0,"echo-email-format":"html","echo-subscriptions-email-system":true,"echo-subscriptions-web-system":true,"echo-subscriptions-email-other":false,"echo-subscriptions-web-other":true,"echo-subscriptions-email-edit-user-talk":false,"echo-subscriptions-web-edit-user-talk":true,
+"echo-subscriptions-email-reverted":false,"echo-subscriptions-web-reverted":true,"echo-subscriptions-email-article-linked":false,"echo-subscriptions-web-article-linked":false,"echo-subscriptions-email-mention":false,"echo-subscriptions-web-mention":true,"echo-subscriptions-web-edit-thank":true,"echo-subscriptions-email-edit-thank":false,"gettingstarted-task-toolbar-show-intro":true,"uls-preferences":"","language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs446":false,"searchNs447":false
+,"searchNs710":false,"searchNs711":false,"searchNs828":false,"searchNs829":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-mySandbox":1,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:156d8fe0ae17f8afd74198057563e45d */
+}if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","ext.visualEditor.viewPageTarget.init","ext.wikimediaShopLink.core","ext.uls.init","ext.uls.interface","wikibase.client.init","ext.centralNotice.bannerController","skins.vector.js"]);
+}/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}if(window.mw){
+mw.loader.load(["mobile.desktop","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.cite","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","mw.MwEmbedSupport.style","ext.vector.collapsibleNav","ext.articleFeedbackv5.startup","ext.gettingstarted.logging","ext.gettingstarted.openTask","schema.HttpsSupport","ext.coreEvents.httpsSupport","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","mw.PopUpMediaTransform"],null,true);
+}

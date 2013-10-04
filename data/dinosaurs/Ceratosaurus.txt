@@ -1,0 +1,496 @@
+
+
+
+Ceratosaurus - Wikipedia, the free encyclopedia
+
+
+
+
+
+
+
+
+
+
+
+
+a:lang(ar),a:lang(ckb),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:0de201fdea5d684523607ed88007b127 */
+
+
+
+
+[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.22wmf18/skins/vector/csshover.min.htc")}</style><![endif]
+
+		
+		
+		
+			
+			
+						 CentralNotice 
+						Ceratosaurus
+			
+								From Wikipedia, the free encyclopedia
+								
+												
+					Jump to:					navigation, 					search
+				
+				
+
+
+Ceratosaurus
+Temporal range: Late Jurassic, 153–148Ma
+
+PreЄ
+Є
+O
+S
+D
+C
+P
+T
+J
+K
+Pg
+N
+
+
+
+↓
+
+
+
+
+
+
+
+
+
+Mounted cast of a juvenile skeleton, Dinosaur Discovery Museum
+
+
+Scientific classification 
+
+
+Kingdom:
+Animalia
+
+
+Phylum:
+Chordata
+
+
+Clade:
+Sauropsida
+
+
+Clade:
+Dinosauria
+
+
+Clade:
+Theropoda
+
+
+Family:
+†Ceratosauridae
+
+
+Genus:
+†Ceratosaurus
+Marsh, 1884
+
+
+Species
+
+
+
+
+†C. nasicornis Marsh, 1884 (type)
+†?C. dentisulcatus Madsen & Welles, 2000
+†?C. magnicornis Madsen & Welles, 2000
+
+
+
+
+Synonyms
+
+
+
+
+Megalosaurus nasicornis (Marsh, 1884 [originally Ceratosaurus])
+
+
+
+
+
+Ceratosaurus /ˌsɛrətɵˈsɔrəs/ meaning "horned lizard", in reference to the horn on its nose (Greek κερας/κερατος, keras/keratos meaning "horn" and σαυρος/sauros meaning "lizard"), was a large predatory theropod dinosaur from the Late Jurassic Period (Kimmeridgian to Tithonian), found in the Morrison Formation of North America, and the Lourinhã Formation of Portugal. It was characterized by large jaws with blade-like teeth, a large, blade-like horn on the snout and a pair of hornlets over the eyes. The forelimbs were powerfully built but very short. The bones of the sacrum were fused (synsacrum) and the pelvic bones were fused together and to this structure (Sereno 1997) (i.e. similar to modern birds). A row of small osteoderms was present down the middle of the back.
+
+
+Contents
+
+
+1 Description
+2 Discovery and species
+3 Classification
+4 Paleobiology
+
+4.1 Nasal horn
+4.2 Paleopathology
+
+
+5 In popular culture
+6 References
+7 Footnotes
+
+
+Description[edit]
+
+
+
+
+Artist's impression of C. nasicornis
+
+
+
+
+
+
+Cast of the hand of C. nasicornis (AMNH 27631)
+
+
+Ceratosaurus, at first glance, looked like a fairly typical theropod,[1] however its skull was quite large in proportion to the rest of its body[2] and possessed a prominent nose horn formed from protuberances of the nasal bones.[3] In addition to the large nasal horn, Ceratosaurus possessed smaller hornlike ridges in front of each eye, similar to those of Allosaurus, these ridges were formed by enlargement of the lacrimal bones.[4] Uniquely among theropods, Ceratosaurus possessed dermal armor, in the form of small osteoderms running down the middle of its back.[5] Its tail comprised about half of the body's total length and was thin and flexible, with high vertebral spines.[2]
+The type specimen was an individual about 18 feet (5.5 m) long; it is not clear whether this animal was fully grown.[5][6] David B. Norman (1985) estimated that the maximum length of Ceratosaurus was 20 ft (6.1 m),[7] an assessment supported by a particularly large Ceratosaurus specimen from the Cleveland-Lloyd Quarry (UMNH 5728), discovered in the mid-1960s, which may have been 22 ft (6.7 m) long assuming similar proportions to the holotype.[8]
+
+
+
+
+Comparison of two specimens of C. nasicornis (red, pink) and other theropods from the Morisson Formation
+
+
+Marsh (1884) suggested that Ceratosaurus weighed about half as much as Allosaurus.[2] In Predatory Dinosaurs of the World, published in 1988, Gregory S. Paul estimated that the C. nasicornis holotype skeleton came from an animal weighing about 524 kilograms (1,155 lb) while the large material from the Cleveland-Lloyd Quarry represents a much bigger and heavier individual, whose bulk he estimated at about 980 kilograms (2,160 lb).[9]
+The bigger specimen was later assigned by James H. Madsen and Samuel P. Welles to the new species C. dentisulcatus.[10] A considerably lower figure was proposed by John Foster, a specialist on the Morrison Formation, in 2007. Foster used an equation provided by J.F. Anderson and colleagues to estimate mass from femur length, which yielded an approximate weight of 275 kilograms (606 lb) for C. magnicornis and 452 kilograms (996 lb) for C. dentisulcatus.[4]
+According to Rauhut (2000), Ceratosaurus can be distinguished based on the following features:[11]
+
+a narrow rounded horn core centrally placed on the fused nasals
+a median oval groove on nasals behind horn core
+a premaxilla with three teeth
+premaxillary teeth with reduced extent of mesial serrations
+chevrons that are extremely long
+a pubis with a large, rounded notch underneath the obturator foramen
+small epaxial osteoderms
+
+Discovery and species[edit]
+
+
+
+
+Ceratosaurus nasicornis skeleton restoration by O.C. Marsh from 1896, depicted in an erroneous upright position
+
+
+Ceratosaurus is known from the Cleveland Lloyd Dinosaur Quarry in central Utah and the Dry Mesa Quarry in Colorado. The type species, described by O. C. Marsh in 1884 and redescribed by Gilmore in 1920, is Ceratosaurus nasicornis.
+Two further species were described in 2000: C. magnicornis (from the Fruita Paleontontological Area, outside Fruita, Colorado) and C. dentisulcatus.[12] C. magnicornis has a slightly rounder horn but is otherwise highly similar to C. nasicornis; C. dentisulcatus is larger (over 7 meters), slightly more derived, and has an unknown horn shape (assuming it had them). The Portuguese remains have been ascribed to C. dentisulcatus (Mateus et al. 2000; 2006). However, the validity of C. magnicornis and C. dentisuclatus has been disputed by various palaeontologists,[13][14][15] arguing that the differences from C. nasicornis are due to individual or ontogenetic (age related) variation; thus, they would be junior synonyms of C. nasicornis. C. meriani is a nomen dubium.[16]
+More additional species, including C. ingens and C. stechowi, have been described from less complete material. The former is now believed to be a dubious carcharodontosaurid instead, and the latter is a dubious ceratosaur and/or spinosaurid.[17] Ceratosaurus is present in stratigraphic zones 2 and 4-6 of the Morrison Formation.[18]
+Classification[edit]
+Relatives of Ceratosaurus include Genyodectes, Elaphrosaurus, and the abelisaurs, such as Carnotaurus. The classification of Ceratosaurus and its immediate relatives has been under intense debate recently. Ceratosaurs are unique in their characters; they share some primitive traits with coelophysoids, but also share some derived traits with tetanuran theropods not found in coelophysians. Its closest relatives appear to be the abelisaurs.
+
+
+
+
+Close up of the head of a juvenile Ceratosaurus
+
+
+In the past, Ceratosaurus, the abelisaurs, and the primitive coelophysoids were all grouped together and called Ceratosauria, defined as "theropods closer to Ceratosaurus than to Aves". Recent evidence, however, has shown large distinctions between the later, larger and more advanced ceratosaurs and earlier forms like Coelophysis. While considered distant from birds among the theropods, Ceratosaurus and its kin were still very bird-like, and even had a more avian tarsus (ankle joint) than Allosaurus. As with all dinosaurs, the more fossils found of these animals, the better their evolution and relationships can be understood.
+Paleobiology[edit]
+Ceratosaurus lived alongside dinosaurs such as Allosaurus, Torvosaurus, Apatosaurus, Diplodocus, and Stegosaurus. Ceratosaurus reached lengths of 6 m (20 ft), was around 2.5 m (8 ft 2 in) tall, and possibly weighed up to 1 tonne (2,200 lb). It was smaller than the other large carnivores of its time (allosaurs and Torvosaurus) and likely occupied a distinctly separate niche from them. Ceratosaurus fossils are noticeably less common than those of Allosaurus, but whether this implies Ceratosaurus being rarer is uncertain (animals with certain lifestyles are more biased toward fossilization than others). Ceratosaurus had a longer, more flexible body, with a deep tail shaped like that of a crocodilian.[5] This suggests that it was a better swimmer than the stiffer Allosaurus. A recent study by Robert Bakker suggested that Ceratosaurus generally hunted aquatic prey, such as fish and crocodiles, although it had potential for feeding on large dinosaurs. The study also suggests that sometimes adults and juveniles ate together.[19] This evidence is debatable, and Ceratosaurus tooth marks are very common on large, terrestrial dinosaur prey fossils. Scavenging from corpses, smaller predators, and after larger ones also likely accounted for some of its diet.
+Nasal horn[edit]
+
+
+
+
+Skull cast showing large nasal horn
+
+
+Marsh (1884) considered the nasal horn of Ceratosaurus to be a "most powerful weapon" for both offensive and defensive purposes, and Gilmore (1920) concurred with this analysis.[2][5] However, this interpretation is now generally considered unlikely.[20] Norman (1985) believed that the horn was "probably not for protection against other predators," but might instead have been used for intraspecific combat among male ceratosaurs contending for breeding rights.[7] Paul (1988) suggested a similar function, and illustrated two Ceratosaurus engaged in a non-lethal butting contest.[9] Rowe and Gauthier (1990) went further, suggesting that the nasal horn of Ceratosaurus was "probably used for display purposes alone" and played no role in physical confrontations.[3] If used for display, it is likely that the horn would have been brightly colored.[4]
+Paleopathology[edit]
+
+
+
+
+C. nasicornis holotype, Smithsonian Museum
+
+
+In 2001, Bruce Rothschild and others published a study examining evidence for stress fractures in theropod dinosaurs. They examined a single foot bone referred to Ceratosaurus and found that it had a stress fracture.[21]
+The holotype specimen of Ceratosaurus nasicornis, USMN 4735 was found with its left metatarsals II to IV fused together. Whether or not this fusion was pathological or natural to the species became controversial when Baur in 1890 speculated that the fusion was the result of a healed fracture. An analysis by Tanke and Rothschild suggests that the fusion was indeed pathological.[22]
+An unidentified species of Ceratosaurus preserved a broken tooth that showed signs of further wear received after the break.[22]
+In popular culture[edit]
+See also: Cultural depictions of dinosaurs
+
+
+
+
+Restoration by J. M. Gleeson from 1901, made under supervision of Charles R. Knight
+
+
+Ceratosaurus has appeared in several films, including the first live action film to feature dinosaurs, D. W. Griffith's Brute Force (1914).[23] In the Rite of Spring segment of Fantasia (1940), Ceratosaurus are shown as opportunistic predators attacking Stegosaurus and sauropods trapped in mud. In The Animal World (1956) a Ceratosaurus kills a Stegosaurus in battle, but is soon attacked by another Ceratosaurus trying to steal a meal. This scene ends with both Ceratosaurus falling to their deaths off the edge of a very high cliff.
+A Ceratosaurus battles a Triceratops in the 1966 remake of One Million Years B.C.. Ceratosaurus is also featured in The Land That Time Forgot (1975) where it battles a Triceratops, and its sequel The People That Time Forgot (1977) in which Patrick Wayne's character rescues a cavegirl from two pursuing Ceratosaurus by driving the dinosaurs off with smoke bombs (after having failed to frighten them off by firing shots in the air once the Ceratosaurus' attention had been shifted to Patrick Wayne's party of explorers). More recently, a Ceratosaurus made a brief appearance in the film Jurassic Park III in which it is repelled from attacking the main characters by a large mound of Spinosaurus dung. This dinosaur also appears in the television documentary When Dinosaurs Roamed America, a Ceratosaurus makes a few appearances as a predator, killing Dryosaurus and eating it, a different one is shown chasing the same Dryosaurus but is later killed and eaten by an Allosaurus. Ceratosaurus is also featured in episodes of Jurassic Fight Club where it is seen as a rival to Allosaurus and preying on Stegosaurus.
+References[edit]
+
+Mateus, O. & M. T Antunes. 2000. Ceratosaurus sp.(Dinosauria: Theropoda) in the late jurassic of Portugal. In 31st International Geological Congress. CD-Rom with abstracts. Rio de Janeiro, Brazil.
+Mateus, O., Walen, A. & Antunes, M.T. (2006). The large theropod fauna of the Lourinhã Formation (Portugal) and its similarity to the Morrison Formation, with a description of a new species of Allosaurus. in Foster, J.R. and Lucas, S. G. R.M., eds., 2006, Paleontology and Geology of the Upper Jurassic Morrison Formation. New Mexico Museum of Natural History and Science Bulletin 36
+
+Footnotes[edit]
+
+
+^ Marsh, O.C. (1892). "Restorations of Claosaurus and Ceratosaurus". American Journal of Science 44 (262): 343–349. 
+^ a b c d Marsh, O.C. (1884). "Principal characters of American Jurassic dinosaurs, part VIII: The order Theropoda". American Journal of Science 27 (160): 329–340. 
+^ a b Rowe, T.; Gauthier, J. (1990). "Ceratosauria". In Weishampel, D.B.; Dodson, P.; Osmólska, H. The Dinosauria. University of California Press. pp. 151–168. ISBN 0-520-06726-6. 
+^ a b c Foster, John (2007). "Gargantuan to Minuscule: The Morrison Menagerie, Part II". Jurassic West: The Dinosaurs of the Morrison Formation and Their World. Indiana University Press. pp. 162–242. ISBN 0-253-34870-6. 
+^ a b c d Gilmore, C.W. (1920). "Osteology of the carnivorous Dinosauria in the United States National Museum, with special reference to the genera Antrodemus (Allosaurus) and Ceratosaurus". Bulletin of the United States National Museum 110: 1–154. 
+^ Tykoski, R.S.; Rowe, T. (2004). "Ceratosauria". In Weishampel, D.B.; Dodson, P.; Osmólska, H. The Dinosauria: Second Edition. University of California Press. pp. 47–70. ISBN 0-520-24209-2. 
+^ a b Norman, D.B. (1985). "Carnosaurs". The Illustrated Encyclopedia of Dinosaurs. Salamander Books Ltd. pp. 62–67. ISBN 0-517-46890-5. 
+^ Mortimer, Michael. "C.dentisulcatus". Retrieved 2 March 2013. 
+^ a b Paul, Gregory S. (1988). "Ceratosaurs". Predatory Dinosaurs of the World. Simon & Schuster. pp. 274–279. ISBN 0-671-61946-2. 
+^ Madsen, J.H.; Welles, S.P. (2000). Ceratosaurus (Dinosauria, Theropoda): A Revised Osteology. Utah Geological Survey. pp. 1–80. ISBN 1-55791-380-3. 
+^ Rauhut, 2000. The interrelationships and evolution of basal theropods (Dinosauria, Saurischia). Ph.D. dissertation, Univ. Bristol [U.K.]. 440 pp.
+^ Madsen JH, Welles SP. Ceratosaurus (Dinosauria, Therapoda), a Revised Osteology. Miscellaneous Publication. Utah Geological Survey. ISBN 1-55791-380-3
+^ Britt, B. B.; Chure, D. J., Holtz, T. R., Jr., Miles, C. A., and Stadtman, K. L. (2000). "A reanalysis of the phylogenetic affinties of Ceratosaurus (Theropoda, Dinosauria) based on new specimens from Utah, Colorado, and Wyoming". Journal of Vertebrate Paleontology. 20 (suppl.) 32A. 
+^ Rauhut, O. W. M. (2003). "The Interrelationships and Evolution of Basal Theropod Dinosaurs". Special Papers in Palaeontology (Wiley). p. 25. 
+^ Carrano, Matthew T.; Scott D. Sampson (2008-01). "The Phylogeny of Ceratosauria (Dinosauria: Theropoda)". Journal of Systematic Palaeontology 6: 192. doi:10.1017/S1477201907002246. ISSN 1478-0941 1477-2019, 1478-0941. 
+^ http://dml.cmnh.org/2000May/msg00490.html
+^ Rauhut, Oliver W. M. (2011). "Theropod dinosaurs from the Late Jurassic of Tendaguru (Tanzania)". Special Papers in Palaeontology 86: 195–239. doi:10.1111/j.1475-4983.2011.01084.x. 
+^ Foster, J. (2007). "Appendix." Jurassic West: The Dinosaurs of the Morrison Formation and Their World. Indiana University Press. pp. 327-329.
+^ Bakker RT, Bir G (2004). "Dinosaur Crime Scene Investigations". In Currie PJ, Koppelhus EB, Shugar MA, Wright JL. Feathered Dragons. Indiana University Press. pp. 301–342. ISBN 0-253-34373-9. 
+^ Glut, D.F. (1997). "Ceratosaurus". Dinosaurs: The Encyclopedia. McFarland & Company. pp. 266–270. ISBN 0-89950-917-7. 
+^ Rothschild, B., Tanke, D. H., and Ford, T. L., 2001, Theropod stress fractures and tendon avulsions as a clue to activity: In: Mesozoic Vertebrate Life, edited by Tanke, D. H., and Carpenter, K., Indiana University Press, p. 331-336.
+^ a b Molnar, R. E., 2001, Theropod paleopathology: a literature survey: In: Mesozoic Vertebrate Life, edited by Tanke, D. H., and Carpenter, K., Indiana University Press, p. 337-363.
+^ Glut, Donald F.; Brett-Surman, Michael K. (1997). "Dinosaurs and the media". The Complete Dinosaur. Bloomington and Indianapolis: Indiana University Press. pp. 675–706. ISBN 0-253-33349-0. 
+
+
+
+
+
+
+Dinosaurs portal
+
+
+
+
+
+
+ 
+NewPP limit report
+CPU time usage: 4.464 seconds
+Real time usage: 4.699 seconds
+Preprocessor visited node count: 29317/1000000
+Preprocessor generated node count: 49439/1500000
+Post‐expand include size: 102968/2048000 bytes
+Template argument size: 45472/2048000 bytes
+Highest expansion depth: 39/40
+Expensive parser function count: 1/500
+Lua time usage: 0.093s
+Lua memory usage: 2.14 MB
+
+
+ Saved in parser cache with key enwiki:pcache:idhash:1104822-0!*!0!!en!4!* and timestamp 20131001104830 
+								
+				Retrieved from "http://en.wikipedia.org/w/index.php?title=Ceratosaurus&oldid=572007850"				
+												Categories: CeratosaursJurassic dinosaursDinosaurs of AfricaDinosaurs of EuropeDinosaurs of North AmericaDinosaurs of the Morrison FormationHidden categories: Articles with 'species' microformats												
+							
+		
+		
+			Navigation menu
+			
+				
+	Personal tools
+	
+Create accountLog in	
+
+				
+					
+	Namespaces
+	
+					Article
+					Talk
+			
+
+
+	
+		
+	Variants
+	
+		
+					
+	
+
+				
+				
+					
+	Views
+	
+					Read
+					Edit
+					View history
+			
+
+
+	Actions
+	
+		
+					
+	
+
+
+	Search
+	
+				
+																				
+		
+	
+
+				
+			
+			
+					
+				
+	Navigation
+	
+		
+			Main page
+			Contents
+			Featured content
+			Current events
+			Random article
+			Donate to Wikipedia
+		
+	
+
+
+	Interaction
+	
+		
+			Help
+			About Wikipedia
+			Community portal
+			Recent changes
+			Contact page
+		
+	
+
+
+	Toolbox
+	
+		
+			What links here
+			Related changes
+			Upload file
+			Special pages
+			Permanent link
+			Page information
+			Data item
+Cite this page		
+	
+
+
+	Print/export
+	
+		
+			Create a book
+			Download as PDF
+			Printable version
+		
+	
+
+
+	Languages
+	
+		
+			العربية
+			Català
+			Česky
+			Dansk
+			Deutsch
+			Español
+			فارسی
+			Français
+			Galego
+			한국어
+			Hrvatski
+			Bahasa Indonesia
+			Italiano
+			עברית
+			Latina
+			Lietuvių
+			Magyar
+			Bahasa Melayu
+			Nederlands
+			日本語
+			Norsk bokmål
+			Occitan
+			Polski
+			Português
+			Română
+			Русский
+			Sicilianu
+			Simple English
+			Slovenčina
+			Slovenščina
+			Srpskohrvatski / српскохрватски
+			Suomi
+			Svenska
+			ไทย
+			Türkçe
+			Volapük
+			中文
+			
+			Edit links
+		
+	
+
+			
+		
+		
+							
+											 This page was last modified on 8 September 2013 at 04:11.
+											Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. 
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+									
+							
+											Privacy policy
+											About Wikipedia
+											Disclaimers
+											Contact Wikipedia
+											Developers
+											Mobile view
+									
+										
+					
+						
+					
+					
+						
+					
+				
+						
+		
+		
+
+
+ Served by mw1078 in 0.222 secs. 
+	
+if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Ceratosaurus","wgTitle":"Ceratosaurus","wgCurRevisionId":572007850,"wgArticleId":1104822,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with 'species' microformats","Ceratosaurs","Jurassic dinosaurs","Dinosaurs of Africa","Dinosaurs of Europe","Dinosaurs of North America","Dinosaurs of the Morrison Formation"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Ceratosaurus","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgVectorEnabledModules":{"collapsiblenav":true,"experiments":true},"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"templateEditor":false,"templates":false,"preview":false,"previewDialog":false,"publish":false,"toc":false},"wgArticleFeedbackv5Permissions":{"aft-reader":false,"aft-member":false,"aft-editor":false,"aft-monitor":false,"aft-administrator":false,"aft-oversighter":false,"aft-noone":false},"wgVisualEditor":{"isPageWatched":false,"magnifyClipIconURL":"//bits.wikimedia.org/static-1.22wmf18/skins/common/images/magnify-clip.png","pageLanguageCode":"en","pageLanguageDir":"ltr"},"wikilove-recipient":"","wikilove-anon":0,"wgGuidedTourHelpGuiderUrl":"Help:Guided tours/guider","wgULSAcceptLanguageList":[],"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia","aftv5Article":{"id":1104822,"title":"Ceratosaurus","namespace":0,"categories":["Articles with 'species' microformats","Ceratosaurs","Dinosaurs of Africa","Dinosaurs of Europe","Dinosaurs of North America","Dinosaurs of the Morrison Formation","Jurassic dinosaurs"],"permissionLevel":false},"wgWikibaseItemId":"Q130902"});
+}if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":false,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,
+"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"useeditwarning":1,"prefershttps":1,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"vector-simplesearch":1,"vector-collapsiblenav":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"aftv5-last-filter":null,"visualeditor-enable":0,"visualeditor-enable-experimental":0,"visualeditor-betatempdisable":0,"wikilove-enabled":1,"echo-subscriptions-web-page-review":true,"echo-subscriptions-email-page-review":false,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"echo-notify-show-link":true,"echo-show-alert":true,"echo-email-frequency":0,"echo-email-format":"html","echo-subscriptions-email-system":true,"echo-subscriptions-web-system":true,"echo-subscriptions-email-other":false,"echo-subscriptions-web-other":true,"echo-subscriptions-email-edit-user-talk":false,"echo-subscriptions-web-edit-user-talk":true,
+"echo-subscriptions-email-reverted":false,"echo-subscriptions-web-reverted":true,"echo-subscriptions-email-article-linked":false,"echo-subscriptions-web-article-linked":false,"echo-subscriptions-email-mention":false,"echo-subscriptions-web-mention":true,"echo-subscriptions-web-edit-thank":true,"echo-subscriptions-email-edit-thank":false,"gettingstarted-task-toolbar-show-intro":true,"uls-preferences":"","language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs446":false,"searchNs447":false
+,"searchNs710":false,"searchNs711":false,"searchNs828":false,"searchNs829":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-mySandbox":1,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:156d8fe0ae17f8afd74198057563e45d */
+}if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","ext.visualEditor.viewPageTarget.init","ext.wikimediaShopLink.core","ext.uls.init","ext.uls.interface","wikibase.client.init","ext.centralNotice.bannerController","skins.vector.js"]);
+}/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}if(window.mw){
+mw.loader.load(["mobile.desktop","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.cite","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","mw.MwEmbedSupport.style","ext.vector.collapsibleNav","ext.articleFeedbackv5.startup","ext.gettingstarted.logging","ext.gettingstarted.openTask","schema.HttpsSupport","ext.coreEvents.httpsSupport","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","mw.PopUpMediaTransform"],null,true);
+}

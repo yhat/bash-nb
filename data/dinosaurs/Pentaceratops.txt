@@ -1,0 +1,736 @@
+
+
+
+Pentaceratops - Wikipedia, the free encyclopedia
+
+
+
+
+
+
+
+
+
+
+
+
+a:lang(ar),a:lang(ckb),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:0de201fdea5d684523607ed88007b127 */
+
+
+
+
+[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.22wmf19/skins/vector/csshover.min.htc")}</style><![endif]
+
+		
+		
+		
+			
+			
+						 CentralNotice 
+						Pentaceratops
+			
+								From Wikipedia, the free encyclopedia
+								
+												
+					Jump to:					navigation, 					search
+				
+				
+
+
+Pentaceratops
+Temporal range: Late Cretaceous, 76–73Ma
+
+PreЄ
+Є
+O
+S
+D
+C
+P
+T
+J
+K
+Pg
+N
+
+
+
+↓
+
+
+
+
+
+
+
+
+
+Type skull of Pentaceratops sternbergii, AMNH 6325
+
+
+Scientific classification 
+
+
+Kingdom:
+Animalia
+
+
+Phylum:
+Chordata
+
+
+Clade:
+Sauropsida
+
+
+Clade:
+Dinosauria
+
+
+Order:
+†Ornithischia
+
+
+Family:
+†Ceratopsidae
+
+
+Subfamily:
+†Chasmosaurinae
+
+
+Genus:
+†Pentaceratops
+Osborn, 1923
+
+
+Species:
+† P. sternbergii
+
+
+Binomial name
+
+
+Pentaceratops sternbergii
+Osborn, 1923
+
+
+Synonyms
+
+
+
+
+Titanoceratops ouranos? Longrich, 2011
+
+
+
+
+
+Pentaceratops ("five-horned face") is a genus of herbivorous ceratopsid dinosaur from the late Cretaceous Period of what is now North America.
+Pentaceratops fossils were first discovered in 1921. The genus was named in 1923 when its type species Pentaceratops sternbergii was described. Pentaceratops lived around 75-73 million years ago, its remains having been mostly found in the Kirtland Formation[1] in the San Juan Basin in New Mexico. Other dinosaurs which shared its habitat include Parasaurolophus cyrtocristatus, the pachycephalosaur Sphaerotholus, the armored dinosaur Nodocephalosaurus and the tyrannosauroid Bistahieversor. About a dozen skulls and skeletons have been uncovered, so that most bones are known. Of one very large specimen it is contested whether it belongs to Pentaceratops or represents a genus of its own: Titanoceratops. However, some subsequent researchers have considered Titanoceratops merely a large individual of P. sternbergii.[2]
+Pentaceratops was about six metres (twenty feet) long, and has been estimated to have weighed around five tonnes. It had a short nose horn, two long brow horns, and long horns on the jugal bones. Its skull had a very long frill with triangular hornlets on the edge.
+
+
+Contents
+
+
+1 Discoveries and species
+2 Description
+3 Classification
+4 Diet
+5 Paleobiogeography
+6 See also
+7 Footnotes
+8 References
+9 External links
+
+
+Discoveries and species[edit]
+
+
+
+
+Skeletal restoration of a large specimen sometimes classified as Titanoceratops
+
+
+The first exemplars were collected by Charles Hazelius Sternberg in the San Juan Basin in New Mexico. In 1921, Sternberg worked in commission of the Swedish Uppsala University and recovered at the Meyers Creek near the Kimbetoh Wash, in a layer of the Kirtland Formation, a skull and a rump, specimens PMU R.200 and PMU R.286 that he sent to paleontologist Carl Wiman. In 1922 Sternberg decided to work on his own account and discovered north of Tsaya Trading Post, in the Fossil Forest of San Juan County, a complete skeleton that he sold to the American Museum of Natural History. The museum then sent out a team headed by Charles Mook and Peter Kaisen to assist Sternberg in securing this specimen; subsequent digging by Sternberg in 1923 brought the total of AMNH specimens at four. The rump of the main specimen was discarded because it had insufficient value as a display.
+The species was named and described by Henry Fairfield Osborn in 1923, as Pentaceratops sternbergii. The generic name means "five-horned face", derived from the Greek penta (πέντα, meaning 'five'), keras (κέρας, 'horn') and -ops (ὤψ, 'face'),[3] in reference to its two long epijugal bones, spikes which protrude out sidewards from under its eyes, in addition to the three more obvious horns as with Triceratops. Osborn obligingly gave it the specific name sternbergii honouring its discoverer as a veteran fossil hunter.[4] The name had been suggested to Osborn by William Diller Matthew; the specific epithet served as a consolation to the almost bankrupt Sternberg whose 1923 fossils were initially not acquired by the museum that had to use its 1923/1924 budget to process the finds of the great Asian expeditions by Roy Chapman Andrews.[5]
+The holotype was the skull discovered by Sternberg in 1922, specimen AMNH 6325. It was found in a layer of the Fruitland Formation, dating from the Campanian, about seventy-five million years old. The other three AMNH specimens were AMNH 1624, a smaller skull; AMNH 1622, a pair of brow horns; and AMNH 1625, a piece of skull frill.[4]
+
+
+
+
+Skull in New Mexico Museum of Natural History and Science
+
+
+In 1930, Wiman named a second species of Pentaceratops: Pentaceratops fenestratus. It was based on Sternberg's 1921 specimens and the specific name referred to a hole in the left squamosal.[6] This was later considered to be the same species as, and thus a junior synonym of, Pentaceratops sternbergii, the hole being the likely effect of an injury.
+In 1929 George Fryer Sternberg discovered specimen USNM V12002, a right squamosal. Pentaceratops proved to be a quite common fossil in the Fruitland and Kirtland formations. It has even been used as guide fossil: the appearance of Pentaceratops sternbergii in the fossil record marks the end of the Judithian land vertebrate age and the start of the Kirtlandian.[1] Subsequent finds include specimens MNA Pl. 1668, MNA Pl. 1747, NMMNH P-27468 and USNM 2416, partial skeletons with skull; YPM 1229, a skeleton lacking the skull; UALP 13342 and UKVP 16100, skulls; UNM B-1701, USNM 12741, USNM 12743, USNM 8604, SMP VP-1596, SMP VP-1488, SMP VP-1500 and SMP VP-1712, fragmentary skulls. Apart from the San Juan Basin finds a juvenile specimen of Pentaceratops, SDMNH 43470, has been reported from the Williams Fork Formation of Colorado in 2006.[7]
+Sometimes the identification of a specimen as Pentaceratops has proven to be highly contentious. In 1998 Thomas Lehman described OMNH 10165, a very large skull and its associated skeleton found in New Mexico in 1941, and presently on display at the Sam Noble Oklahoma Museum of Natural History, as being the largest Pentaceratops exemplar known with the distinction of having produced the largest known skull of any land vertebrate.[8][9] However, the skeleton has in 2011 been renamed as a separate genus: Titanoceratops.[10]
+Description[edit]
+
+
+
+
+Life restoration of a large specimen sometimes classified as Titanoceratops
+
+
+Pentaceratops is a large ceratopid. Its known maximum size is dependent on the identity of specimen OMNH 10165. This specimen has a reconstructed length of 6.8 meters, a reconstructed skull length of 3.22 metres and a weight estimated by Lehman at 9877 kilogrammes.[8] The other specimens are smaller. Gregory S. Paul in 2010 estimated the body length at 6.4 metres, the weight at 4.7 tonnes.[11] Lehman calculated a composite maximal skull length for the smaller specimens of about 2.7 metres. Dodson estimated the body length at six metres, the skull length of AMNH 1624 at 2.3 metres. PMU R.200 has a length of 216 centimetres.[6]
+The nose horn of Pentaceratops is small and pointing upwards and backwards. The brow horns are very long and curving strongly forwards. The somewhat upward tilted frill of Pentaceratops is considerably longer than that of Triceratops, with two large holes (parietal fenestrae) in it. It is rectangular, adorned by large triangular osteoderms: up to twelve episquamosals at the squamosal and three epiparietals at the parietal bone. These are largest at the rear corners of the frill, that are separated by a large U-shaped notch at the midline, a feature not recognised until 1981 when specimen UKVP 16100 was described.[12] Within the notch the first epiparietals point forwards. The very thick jugal and the squamosal do not touch each other, a possible autapomorphy.[10]
+The torso of Pentaceratops is tall and wide. The rear dorsal vertebrae bear long spines from which perhaps ligaments ran to the front, to balance the high frill. The prepubis is long. The ischium is long and strongly curves forward. With the smaller specimens the thigh bone bows outwards.[11]
+Classification[edit]
+Osborn originally assigned Pentaceratops to the Ceratopsia. Within this group Pentaceratops belonged to the Ceratopsinae or Chasmosaurinae. It appears to be most closely related to Utahceratops. Their clade was perhaps more derived than the earlier genus Chasmosaurus but more basal than Anchiceratops, the latter representing a line of which Triceratops was a member, which lived a few million years later, right at the end of the Cretaceous period, when all ceratopsians died out.
+The following cladogram shows the phylogeny of Pentaceratops according to a study by Scott Sampson e.a. in 2010.[13]
+
+
+
+Ceratopidae 
+
+
+
+
+
+Centrosaurinae
+
+
+
+
+
+
+ Chasmosaurinae 
+
+
+
+
+
+Chasmosaurus
+
+
+
+
+
+
+
+
+
+
+
+
+Mojoceratops
+
+
+
+
+
+
+
+
+
+
+
+
+Agujaceratops
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Utahceratops
+
+
+
+
+
+
+
+
+Pentaceratops
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Coahuilaceratops
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Kosmoceratops
+
+
+
+
+
+
+
+
+Vagaceratops
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Anchiceratops
+
+
+
+
+
+
+
+
+
+
+
+
+Arrhinoceratops
+
+
+
+
+
+
+
+
+
+
+
+
+Ojoceratops
+
+
+
+
+
+
+
+
+Eotriceratops
+
+
+
+
+
+
+
+
+
+
+
+
+Torosaurus
+
+
+
+
+
+
+
+
+
+
+
+
+Nedoceratops
+
+
+
+
+
+
+
+
+Triceratops
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Diet[edit]
+
+
+
+
+Restoration
+
+
+Pentaceratops, like all ceratopsians, was an herbivore. During the Cretaceous, flowering plants were "geographically limited on the landscape", and so it is likely that this dinosaur fed on the predominant plants of the era: ferns, cycads and conifers. It would have used its sharp ceratopsian beak to bite off the branches which then were shredded, leaves, needles and all, by the tooth batteries, providing a self-sharpening continuous cutting edge in both upper an lower jaws. Ultimately the plant material was digested by the large gut.
+Paleobiogeography[edit]
+Thomas M. Lehman has observed (before Titanoceratops was named) that Pentaceratops is the only known Judithian (in the wide sense, including the Kirtlandian) ceratopsian from New Mexico.[14] Large herbivores like the ceratopsians living in North America during the Late Cretaceous had "remarkably small geographic ranges" despite their large body size and high mobility.[14] This restricted distribution strongly contrasts with modern mammalian faunas whose large herbivores' ranges "typical[ly] ... span much of a continent."[14] Pentaceratops along with Kritosaurus and Parasaurolophus formed the dominant fauna of southern North America.[15] This region was characterized by lower taxonomic diversity in communities where lambeosaurine were less common and centrosaurs were completely lacking.[15]
+See also[edit]
+
+
+
+
+Dinosaurs portal
+
+
+
+
+Ah-Shi-Sle-Pah Wilderness Study Area, the type locality for Pentaceratops fenestratus
+
+Footnotes[edit]
+
+
+^ a b Sullivan and Lucas (2006).
+^ Wick, Steven L.; Lehman, Thomas M. (2013). "A new ceratopsian dinosaur from the Javelina Formation (Maastrichtian) of West Texas and implications for chasmosaurine phylogeny". Naturwissenschaften. in press. doi:10.1007/s00114-013-1063-0.  edit
+^ Liddell, et al. (1980). pp. 373, 542-43, 804.
+^ a b H.F. Osborn, 1923, "A new genus and species of Ceratopsia from New Mexico, Pentaceratops sternbergii, American Museum Novitates 93: 1-3
+^ Sullivan, R.M. and S.G. Lucas, 201l, "Charles Hazelius Sternberg and his San Juan Basin Cretaceous dinosaur collections: Correspondence and photographs (1920-1925)", New Mexico Museum of Natural History and Science Bulletin 53: 429-471
+^ a b C. Wiman, 1930, "Über Ceratopsia aus der Oberen Kreide in New Mexico", Nova Acta Regiae Societatis Scientiarum Upsaliensis, Series 4 7(2): 1-19
+^ Lucas, et al. (2006).
+^ a b Lehman, T.M., 1998, "A gigantic skull and skeleton of the horned dinosaur Pentaceratops sternbergi from New Mexico: Journal of Paleontology, 72(5): 894-906
+^ Delayed Debut for Jumbo Dino Skull
+^ a b Longrich (2011).
+^ a b Paul, G.S., 2010, The Princeton Field Guide to Dinosaurs, Princeton University Press p. 272
+^ Rowe, T., Colbert, E.H. and Nations, J.D., 1981, "The occurrence of Pentaceratops with a description of its frill", In: Lucas, S.G., Rigby, J.K. and Kues, B.S. (eds.) Advances in San Juan Basin Paleontology, University of New Mexico Press, Alburquerque p. 29-48
+^ Scott D. Sampson, Mark A. Loewen, Andrew A. Farke, Eric M. Roberts, Catherine A. Forster, Joshua A. Smith, and Alan L. Titus (2010). "New Horned Dinosaurs from Utah Provide Evidence for Intracontinental Dinosaur Endemism". In Stepanova, Anna. PLoS ONE 5 (9): e12292. doi:10.1371/journal.pone.0012292. PMC 2929175. PMID 20877459. 
+^ a b c "Endemism Among Herbivorous Dinosaurs," Lehman (2001); page 311.
+^ a b "Judithian Climax," Lehman (2001); page 315.
+
+
+References[edit]
+
+Delayed Debut for Jumbo Dino Skull
+Dodson, P. (1996). The Horned Dinosaurs. Princeton University Press, Princeton, New Jersey. ISBN 0-691-05900-4. 
+Lehman, T. M., 2001, Late Cretaceous dinosaur provinciality: In: Mesozoic Vertebrate Life, edited by Tanke, D. H., and Carpenter, K., Indiana University Press, pp. 310–328.
+Liddell, Henry George and Robert Scott (1980). A Greek-English Lexicon (Abridged Edition). United Kingdom: Oxford University Press. ISBN 0-19-910207-4. 
+Sullivan, R.M., and Lucas, S.G. 2006. "The Kirtlandian land-vertebrate "age" – faunal composition, temporal position and biostratigraphic correlation in the nonmarine Upper Cretaceous of western North America." New Mexico Museum of Natural History and Science, Bulletin 35:7-29.
+Nicholas R. Longrich (2011). "Titanoceratops ouranous, a giant horned dinosaur from the Late Campanian of New Mexico". Cretaceous Research 32. doi:10.1016/j.cretres.2010.12.007. 
+Lucas, S.G., Sullivan, R.M., Hunt, A.P., 2006, Re-evaluation of Pentaceratops and Chasmosaurus (Ornithischia, Ceratopsidae) in the Upper Cretaceous of the Western Interior: New Mexico Museum of Natural History and Science, Bulletin 35
+
+
+
+
+Wikimedia Commons has media related to Pentaceratops.
+
+
+External links[edit]
+
+Pentaceratops at DinoData
+Pentaceratops, from the Dinosaur Encyclopaedia at Dino Russ' Lair
+Kids Zone page on dinosaur types
+
+
+
+ 
+NewPP limit report
+CPU time usage: 4.220 seconds
+Real time usage: 4.489 seconds
+Preprocessor visited node count: 28338/1000000
+Preprocessor generated node count: 42079/1500000
+Post‐expand include size: 272019/2048000 bytes
+Template argument size: 235608/2048000 bytes
+Highest expansion depth: 39/40
+Expensive parser function count: 1/500
+Lua time usage: 0.038s
+Lua memory usage: 1.63 MB
+
+
+ Saved in parser cache with key enwiki:pcache:idhash:1791383-0!*!0!!en!4!* and timestamp 20131002085930 
+								
+				Retrieved from "http://en.wikipedia.org/w/index.php?title=Pentaceratops&oldid=567306031"				
+												Categories: CeratopsidsCretaceous dinosaursDinosaurs of North AmericaFossil taxa described in 1923Hidden categories: Articles with 'species' microformats												
+							
+		
+		
+			Navigation menu
+			
+				
+	Personal tools
+	
+Create accountLog in	
+
+				
+					
+	Namespaces
+	
+					Article
+					Talk
+			
+
+
+	
+		
+	Variants
+	
+		
+					
+	
+
+				
+				
+					
+	Views
+	
+					Read
+					Edit
+					View history
+			
+
+
+	Actions
+	
+		
+					
+	
+
+
+	Search
+	
+				
+																				
+		
+	
+
+				
+			
+			
+					
+				
+	Navigation
+	
+		
+			Main page
+			Contents
+			Featured content
+			Current events
+			Random article
+			Donate to Wikipedia
+		
+	
+
+
+	Interaction
+	
+		
+			Help
+			About Wikipedia
+			Community portal
+			Recent changes
+			Contact page
+		
+	
+
+
+	Toolbox
+	
+		
+			What links here
+			Related changes
+			Upload file
+			Special pages
+			Permanent link
+			Page information
+			Data item
+Cite this page		
+	
+
+
+	Print/export
+	
+		
+			Create a book
+			Download as PDF
+			Printable version
+		
+	
+
+
+	Languages
+	
+		
+			Català
+			Česky
+			Deutsch
+			Español
+			Français
+			한국어
+			Italiano
+			עברית
+			Lietuvių
+			Magyar
+			Nederlands
+			日本語
+			Polski
+			Português
+			Simple English
+			Slovenčina
+			Svenska
+			Türkçe
+			中文
+			
+			Edit links
+		
+	
+
+			
+		
+		
+							
+											 This page was last modified on 5 August 2013 at 20:10.
+											Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. 
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+									
+							
+											Privacy policy
+											About Wikipedia
+											Disclaimers
+											Contact Wikipedia
+											Developers
+											Mobile view
+									
+										
+					
+						
+					
+					
+						
+					
+				
+						
+		
+		
+
+
+ Served by mw1183 in 0.158 secs. 
+	
+if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Pentaceratops","wgTitle":"Pentaceratops","wgCurRevisionId":567306031,"wgRevisionId":567306031,"wgArticleId":1791383,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with 'species' microformats","Ceratopsids","Cretaceous dinosaurs","Dinosaurs of North America","Fossil taxa described in 1923"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Pentaceratops","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgVectorEnabledModules":{"collapsiblenav":true,"experiments":true},"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"templateEditor":false,"templates":false,"preview":false,"previewDialog":false,"publish":false,"toc":false},"wgArticleFeedbackv5Permissions":{"aft-reader":true,"aft-member":false,"aft-editor":false,"aft-monitor":false,"aft-administrator":false,"aft-oversighter":false,"aft-noone":false},"wgVisualEditor":{"isPageWatched":false,"magnifyClipIconURL":"//bits.wikimedia.org/static-1.22wmf19/skins/common/images/magnify-clip.png","pageLanguageCode":"en","pageLanguageDir":"ltr"},"wikilove-recipient":"","wikilove-anon":0,"wgGuidedTourHelpGuiderUrl":"Help:Guided tours/guider","wgULSAcceptLanguageList":[],"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia","aftv5Article":{"id":1791383,"title":"Pentaceratops","namespace":0,"categories":["Articles with 'species' microformats","Ceratopsids","Cretaceous dinosaurs","Dinosaurs of North America","Fossil taxa described in 1923"],"permissionLevel":false},"wgWikibaseItemId":"Q131253"});
+}if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":false,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,
+"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"useeditwarning":1,"prefershttps":1,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"vector-simplesearch":1,"vector-collapsiblenav":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"aftv5-last-filter":null,"visualeditor-enable":0,"visualeditor-enable-experimental":0,"visualeditor-betatempdisable":0,"wikilove-enabled":1,"echo-subscriptions-web-page-review":true,"echo-subscriptions-email-page-review":false,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"echo-notify-show-link":true,"echo-show-alert":true,"echo-email-frequency":0,"echo-email-format":"html","echo-subscriptions-email-system":true,"echo-subscriptions-web-system":true,"echo-subscriptions-email-other":false,"echo-subscriptions-web-other":true,"echo-subscriptions-email-edit-user-talk":false,"echo-subscriptions-web-edit-user-talk":true,
+"echo-subscriptions-email-reverted":false,"echo-subscriptions-web-reverted":true,"echo-subscriptions-email-article-linked":false,"echo-subscriptions-web-article-linked":false,"echo-subscriptions-email-mention":false,"echo-subscriptions-web-mention":true,"echo-subscriptions-web-edit-thank":true,"echo-subscriptions-email-edit-thank":false,"gettingstarted-task-toolbar-show-intro":true,"uls-preferences":"","language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs446":false,"searchNs447":false
+,"searchNs710":false,"searchNs711":false,"searchNs828":false,"searchNs829":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-mySandbox":1,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:156d8fe0ae17f8afd74198057563e45d */
+}if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","ext.visualEditor.viewPageTarget.init","ext.wikimediaShopLink.core","ext.uls.init","ext.uls.interface","wikibase.client.init","ext.centralNotice.bannerController","skins.vector.js"]);
+}/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}if(window.mw){
+mw.loader.load(["mobile.desktop","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.cite","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","mw.MwEmbedSupport.style","ext.vector.collapsibleNav","ext.articleFeedbackv5.startup","schema.HttpsSupport","ext.coreEvents.httpsSupport","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","mw.PopUpMediaTransform"],null,true);
+}

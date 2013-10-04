@@ -1,0 +1,421 @@
+
+
+
+Centrosaurus - Wikipedia, the free encyclopedia
+
+
+
+
+
+
+
+
+
+
+
+
+a:lang(ar),a:lang(ckb),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:0de201fdea5d684523607ed88007b127 */
+
+
+
+
+[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.22wmf19/skins/vector/csshover.min.htc")}</style><![endif]
+
+		
+		
+		
+			
+			
+						 CentralNotice 
+						Centrosaurus
+			
+								From Wikipedia, the free encyclopedia
+								
+												
+					Jump to:					navigation, 					search
+				
+				
+
+
+Centrosaurus
+Temporal range: Late Cretaceous, 76.5–75.5Ma
+
+PreЄ
+Є
+O
+S
+D
+C
+P
+T
+J
+K
+Pg
+N
+
+
+
+↓
+
+
+
+
+
+
+
+
+
+Skull, Museum of Victoria
+
+
+Scientific classification 
+
+
+Kingdom:
+Animalia
+
+
+Phylum:
+Chordata
+
+
+Clade:
+Sauropsida
+
+
+Clade:
+Dinosauria
+
+
+Order:
+†Ornithischia
+
+
+Family:
+†Ceratopsidae
+
+
+Subfamily:
+†Centrosaurinae
+
+
+Genus:
+†Centrosaurus
+
+
+Type species
+
+
+†Centrosaurus apertus
+Lambe, 1904
+
+
+Species
+
+
+
+
+C. apertus Lambe, 1904
+
+
+
+
+
+Centrosaurus (/ˌsɛntrɵˈsɔrəs/ SEN-tro-SAWR-əs) is a genus of herbivorous ceratopsian dinosaurs from the late Cretaceous of Canada. Their remains have been found in the Dinosaur Park Formation, dating from 76.5 to 75.5 million years ago.[1]
+The name Centrosaurus means "pointed lizard" (from Greek kentron, κέντρον, "point or prickle" and sauros, σαῦρος, "lizard"), and refers to the series of small hornlets placed along the margin of their frills, not to the nasal horns (which were unknown when the dinosaur was named). The genus is not to be confused with the stegosaur Kentrosaurus, the name of which is derived from the same Greek word.
+
+
+Contents
+
+
+1 Description
+2 Discovery
+3 Classification
+4 Palaeobiology
+5 Paleobiogeography
+6 References
+7 External links
+
+
+Description[edit]
+
+
+
+
+Life restoration
+
+
+
+
+
+
+Skin impression
+
+
+The massive bodies of Centrosaurus were borne by stocky limbs, although at up to 18–20 ft (6m) they were not particularly large dinosaurs. Like other centrosaurines, Centrosaurus bore single large horns over their noses.[2] These horns curved forwards or backwards depending on the specimen.
+Centrosaurus is distinguished by having two large hornlets which hook forwards over the frill. A pair of small upwards directed horns is also found over the eyes. The frills of Centrosaurus were moderately long, with fairly large fenestrae and small hornlets along the outer edges.[2]
+Discovery[edit]
+The first Centrosaurus remains were discovered by paleontologist Lawrence Lambe in strata along the Red Deer River in Alberta, Canada. Later, vast bonebeds of Centrosaurus were found in Dinosaur Provincial Park, also in Alberta. Some of these beds extend for hundreds of meters and contain thousands of individuals of all ages and all levels of completion. Scientists have speculated that the high density and number of individuals would be explained if they had perished while trying to cross a flooded river.[2] A discovery of thousands of Centrosaurus fossils near the town of Hilda, Alberta, is believed to be the largest bed of dinosaur bones ever discovered.[3]
+The species C. brinkmani, which was described in 2005, was moved to the new genus Coronosaurus in 2012.[4]
+Classification[edit]
+The genus Centrosaurus gives its name to the Centrosaurinae subfamily. These were large North American horned dinosaurs characterized by their "prominent nasal horns, subordinate brow horns, short squamosals in a short frill, a tall, deep face relative to the chasmosaurines, and a projection into the rear of the nasal fenestra."[5] Its closest relatives appear to be Styracosaurus and Monoclonius. It so closely resembles the latter of these that some paleontologists have considered them to represent the same animal.[2]
+
+
+
+
+Skull, Royal Ontario Museum
+
+
+Other members of the Centrosaurinae clade include Pachyrhinosaurus,[6][7] Avaceratops,[6] Einiosaurus,[7][8] Albertaceratops,[8] Achelousaurus,[7] and possibly Brachyceratops,[9] although Brachyceratops is dubious. Because of the variation between species and even individual specimens of centrosaurines, there has been much debate over which genera and species are valid, particularly whether Centrosaurus and/or Monoclonius are valid genera, undiagnosable, or possibly members of the opposite sex. In 1996, Peter Dodson found enough variation between Centrosaurus, Styracosaurus, and Monoclonius to warrant separate genera, and that Styracosaurus resembled Centrosaurus more closely than either resembled Monoclonius. Dodson also believed one species of Monoclonius, M. nasicornis, may actually have been a female Styracosaurus.[10] His assessments have been partially followed, with other researchers not accepting Monoclonius nasicornis as a female Styracosaurus, or Monoclonius as a valid genus.[11] While sexual dimorphism has been proposed for an earlier ceratopsian, Protoceratops,[12] there is no firm evidence for sexual dimorphism in any ceratopsid.[13][14][15]
+Palaeobiology[edit]
+
+
+
+
+Life restoration of two fighting specimens
+
+
+Like other ceratopsids, the jaws of Centrosaurus were adapted to shear through tough plant material. The discovery of gigantic bone beds of Centrosaurus in Canada suggest that they were gregarious animals and could have traveled in large herds.[2] A bone bed composed of Centrosaurus and Styracosaurus remains is known from the Dinosaur Park Formation in what is now Alberta.[16] The mass deaths may have been caused by otherwise non-herding animals gathering around a waterhole during a drought.[17] Centrosaurus is found lower in the formation than Styracosaurus, indicating that Centrosaurus was displaced by Styracosaurus as the environment changed over time.[11]
+The large frills and nasal horns of the ceratopsians are among the most distinctive facial adornments of all dinosaurs. Their function has been the subject of debate since the first horned dinosaurs were discovered. Common theories concerning the function of ceratopsian frills and horns include defense from predators, combat within the species, and visual display. A 2009 study of Triceratops and Centrosaurus skull lesions found that bone injuries on the skulls were more likely caused by intraspecific combat (horn-to-horn combat) rather than predatory attacks. The frills of Centrosaurus were too thin to be used for defense against predators, although the thicker, solid frills of Triceratops might have evolved to protect their necks. The frills of Centrosaurus were most likely used "for species recognition and/or other forms of visual display".[18]
+Paleobiogeography[edit]
+Thomas M. Lehman has observed that Centrosaurus fossils haven't been found outside of southern Alberta even though they are among the most abundant Judithian dinosaurs in the region.[19] Large herbivores like the ceratopsians living in North America during the Late Cretaceous had "remarkably small geographic ranges" despite their large body size and high mobility.[19] This restricted distribution strongly contrasts with modern mammalian faunas whose large herbivores' ranges "typical[ly] ... span much of a continent."[19]
+References[edit]
+
+
+^ Arbour, V. M.; Burns, M. E.; and Sissons, R. L. (2009). "A redescription of the ankylosaurid dinosaur Dyoplosaurus acutosquameus Parks, 1924 (Ornithischia: Ankylosauria) and a revision of the genus". Journal of Vertebrate Paleontology 29 (4): 1117–1135. doi:10.1671/039.029.0405. 
+^ a b c d e "Centrosaurus." In: Dodson, Peter & Britt, Brooks & Carpenter, Kenneth & Forster, Catherine A. & Gillette, David D. & Norell, Mark A. & Olshevsky, George & Parrish, J. Michael & Weishampel, David B. The Age of Dinosaurs. Publications International, LTD. p. 135. ISBN 0-7853-0443-6.
+^ Scientists find dino deathbed, signs of carnage. Edmonton Sun. http://www.edmontonsun.com/news/canada/2010/06/18/14439211.html retrieved 18 06 2010
+^ Ryan, M. J.; Evans, D. C.; Shepherd, K. M.; Sues, H. (2012). "A new ceratopsid from the Foremost Formation (middle Campanian) of Alberta". Canadian Journal of Earth Sciences 49 (10): 1251. doi:10.1139/e2012-056.  edit
+^ Tweet, J. (2007). "Centrosaurinae". Thescelosaurus. Qwest.net. Retrieved 2009-05-25. 
+^ a b Dodson, P. (1990). "On the status of the ceratopsids Monoclonius and Centrosaurus". In Carpenter, K.; and Currie, P.J. (eds.). Dinosaur Systematics: Perspectives and Approaches. Cambridge: Cambridge University Press. pp. 231–243. ISBN 0-521-36672-0. 
+^ a b c Ryan, M.J.; A.P. Russell (2005). "A new centrosaurine ceratopsid from the Oldman Formation of Alberta and its implications for centrosaurine taxonomy and systematics". Canadian Journal of Earth Sciences 42 (7): 1369–1387. doi:10.1139/e05-029. 
+^ a b Ryan, M.J. (2007). "A new basal centrosaurine ceratopsid from the Oldman Formation, southeastern Alberta". Journal of Paleontology 81 (2): 376–396. doi:10.1666/0022-3360(2007)81[376:ANBCCF]2.0.CO;2. 
+^ Dodson, P., Forster, C. A, and Sampson, S. D. (2004) Ceratopsidae. In: Weishampel, D. B., Dodson, P., and Osmólska, H. (eds.), The Dinosauria (second edition). University of California Press:Berkeley, pp. 494–513. ISBN 0-520-24209-2.
+^ Dodson, P. (1996). The Horned Dinosaurs: A Natural History. Princeton University Press: Princeton, New Jersey, pp. 197–199. ISBN 0-691-02882-6.
+^ a b Ryan, Michael J.; and Evans, David C. (2005). "Ornithischian Dinosaurs". In Currie, Phillip J., and Koppelhus, Eva. Dinosaur Provincial Park: A Spectacular Ancient Ecosystem Revealed. Bloomington: Indiana University Press. pp. 312–348. ISBN 0-253-34595-2. 
+^ Dodson, P. "Quantitative aspects of relative growth and sexual dimorphism in Protoceratops". Journal of Paleontology 50: 929–940. 
+^ Forster, C. A. (1990). The cranial morphology and systematics of Triceratops, with a preliminary analysis of ceratopsian phylogeny. Ph.D. Dissertation. University of Pennsylvania, Philadelphia. 227 pp.
+^ Lehman, T. M. (1998). "A gigantic skull and skeleton of the horned dinosaur Pentaceratops sternbergi from New Mexico". Journal of Paleontology 72 (5): 894–906. 
+^ Sampson, S. D.; Ryan, M.J.; and Tanke, D.H. (1997). "Craniofacial ontogeny in centrosaurine dinosaurs (Ornithischia: Ceratopsidae): taphonomic and behavioral phylogenetic implications". Zoological Journal of the Linnean Society 121 (3): 293–337. doi:10.1111/j.1096-3642.1997.tb00340.x. 
+^ Eberth, David A.; and Getty, Michael A. (2005). "Ceratopsian bonebeds: occurrence, origins, and significance". In Currie, Phillip J., and Koppelhus, Eva. Dinosaur Provincial Park: A Spectacular Ancient Ecosystem Revealed. Bloomington: Indiana University Press. pp. 501–536. ISBN 0-253-34595-2. 
+^ Rogers, R. R. (1990). "Taphonomy of three dinosaur bone beds in the Upper Cretaceous Two Medicine Formation, northwestern Montana: Evidence for drought-related mortality". PALAIOS (SEPM Society for Sedimentary Geology) 5 (5): 394–41. doi:10.2307/3514834. JSTOR 3514834. 
+^ Farke, A.A., Wolff, E.D.S., and Tanke, D.H. (2009) "Evidence of Combat in Triceratops". PLoS ONE 4(1): e4252. doi:10.1371/journal.pone.0004252
+^ a b c Lehman, T. M., 2001, Late Cretaceous dinosaur provinciality: In: Mesozoic Vertebrate Life, edited by Tanke, D. H., and Carpenter, K., Indiana University Press, pp. 310-328.
+
+
+External links[edit]
+
+
+
+
+Dinosaurs portal
+
+
+
+
+Centrosaurus, from the Dinosaur Encyclopaedia at Univ. of Illinois at Urbana-Champagne
+
+
+
+ 
+NewPP limit report
+CPU time usage: 5.664 seconds
+Real time usage: 5.896 seconds
+Preprocessor visited node count: 28068/1000000
+Preprocessor generated node count: 45098/1500000
+Post‐expand include size: 108041/2048000 bytes
+Template argument size: 44947/2048000 bytes
+Highest expansion depth: 39/40
+Expensive parser function count: 2/500
+Lua time usage: 0.065s
+Lua memory usage: 2.08 MB
+
+
+ Saved in parser cache with key enwiki:pcache:idhash:1792713-0!*!0!!en!4!* and timestamp 20131002131134 
+								
+				Retrieved from "http://en.wikipedia.org/w/index.php?title=Centrosaurus&oldid=557765776"				
+												Categories: CeratopsidsCretaceous dinosaursDinosaurs of North AmericaHidden categories: Articles with 'species' microformats												
+							
+		
+		
+			Navigation menu
+			
+				
+	Personal tools
+	
+Create accountLog in	
+
+				
+					
+	Namespaces
+	
+					Article
+					Talk
+			
+
+
+	
+		
+	Variants
+	
+		
+					
+	
+
+				
+				
+					
+	Views
+	
+					Read
+					Edit
+					View history
+			
+
+
+	Actions
+	
+		
+					
+	
+
+
+	Search
+	
+				
+																				
+		
+	
+
+				
+			
+			
+					
+				
+	Navigation
+	
+		
+			Main page
+			Contents
+			Featured content
+			Current events
+			Random article
+			Donate to Wikipedia
+		
+	
+
+
+	Interaction
+	
+		
+			Help
+			About Wikipedia
+			Community portal
+			Recent changes
+			Contact page
+		
+	
+
+
+	Toolbox
+	
+		
+			What links here
+			Related changes
+			Upload file
+			Special pages
+			Permanent link
+			Page information
+			Data item
+Cite this page		
+	
+
+
+	Print/export
+	
+		
+			Create a book
+			Download as PDF
+			Printable version
+		
+	
+
+
+	Languages
+	
+		
+			Català
+			Česky
+			Deutsch
+			Español
+			Esperanto
+			Français
+			한국어
+			Italiano
+			עברית
+			Magyar
+			Nederlands
+			日本語
+			Norsk bokmål
+			Polski
+			Português
+			Русский
+			Simple English
+			Slovenčina
+			Suomi
+			Svenska
+			தமிழ்
+			中文
+			
+			Edit links
+		
+	
+
+			
+		
+		
+							
+											 This page was last modified on 1 June 2013 at 01:18.
+											Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. 
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+									
+							
+											Privacy policy
+											About Wikipedia
+											Disclaimers
+											Contact Wikipedia
+											Developers
+											Mobile view
+									
+										
+					
+						
+					
+					
+						
+					
+				
+						
+		
+		
+
+
+ Served by mw1214 in 0.166 secs. 
+	
+if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Centrosaurus","wgTitle":"Centrosaurus","wgCurRevisionId":557765776,"wgRevisionId":557765776,"wgArticleId":1792713,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with 'species' microformats","Ceratopsids","Cretaceous dinosaurs","Dinosaurs of North America"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Centrosaurus","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgVectorEnabledModules":{"collapsiblenav":true,"experiments":true},"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"templateEditor":false,"templates":false,"preview":false,"previewDialog":false,"publish":false,"toc":false},"wgArticleFeedbackv5Permissions":{"aft-reader":true,"aft-member":false,"aft-editor":false,"aft-monitor":false,"aft-administrator":false,"aft-oversighter":false,"aft-noone":false},"wgVisualEditor":{"isPageWatched":false,"magnifyClipIconURL":"//bits.wikimedia.org/static-1.22wmf19/skins/common/images/magnify-clip.png","pageLanguageCode":"en","pageLanguageDir":"ltr"},"wikilove-recipient":"","wikilove-anon":0,"wgGuidedTourHelpGuiderUrl":"Help:Guided tours/guider","wgULSAcceptLanguageList":[],"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia","aftv5Article":{"id":1792713,"title":"Centrosaurus","namespace":0,"categories":["Articles with 'species' microformats","Ceratopsids","Cretaceous dinosaurs","Dinosaurs of North America"],"permissionLevel":false},"wgWikibaseItemId":"Q131589"});
+}if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":false,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,
+"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"useeditwarning":1,"prefershttps":1,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"vector-simplesearch":1,"vector-collapsiblenav":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"aftv5-last-filter":null,"visualeditor-enable":0,"visualeditor-enable-experimental":0,"visualeditor-betatempdisable":0,"wikilove-enabled":1,"echo-subscriptions-web-page-review":true,"echo-subscriptions-email-page-review":false,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"echo-notify-show-link":true,"echo-show-alert":true,"echo-email-frequency":0,"echo-email-format":"html","echo-subscriptions-email-system":true,"echo-subscriptions-web-system":true,"echo-subscriptions-email-other":false,"echo-subscriptions-web-other":true,"echo-subscriptions-email-edit-user-talk":false,"echo-subscriptions-web-edit-user-talk":true,
+"echo-subscriptions-email-reverted":false,"echo-subscriptions-web-reverted":true,"echo-subscriptions-email-article-linked":false,"echo-subscriptions-web-article-linked":false,"echo-subscriptions-email-mention":false,"echo-subscriptions-web-mention":true,"echo-subscriptions-web-edit-thank":true,"echo-subscriptions-email-edit-thank":false,"gettingstarted-task-toolbar-show-intro":true,"uls-preferences":"","language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs446":false,"searchNs447":false
+,"searchNs710":false,"searchNs711":false,"searchNs828":false,"searchNs829":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-mySandbox":1,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:156d8fe0ae17f8afd74198057563e45d */
+}if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","ext.visualEditor.viewPageTarget.init","ext.wikimediaShopLink.core","ext.uls.init","ext.uls.interface","wikibase.client.init","ext.centralNotice.bannerController","skins.vector.js"]);
+}/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}if(window.mw){
+mw.loader.load(["mobile.desktop","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.cite","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","mw.MwEmbedSupport.style","ext.vector.collapsibleNav","ext.articleFeedbackv5.startup","schema.HttpsSupport","ext.coreEvents.httpsSupport","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","mw.PopUpMediaTransform"],null,true);
+}

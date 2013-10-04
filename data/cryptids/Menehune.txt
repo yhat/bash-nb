@@ -1,0 +1,311 @@
+
+
+
+Menehune - Wikipedia, the free encyclopedia
+
+
+
+
+
+
+
+
+
+
+
+
+a:lang(ar),a:lang(ckb),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:0de201fdea5d684523607ed88007b127 */
+
+
+
+
+[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.22wmf18/skins/vector/csshover.min.htc")}</style><![endif]
+
+		
+		
+		
+			
+			
+						 CentralNotice 
+						Menehune
+			
+								From Wikipedia, the free encyclopedia
+								
+												
+					Jump to:					navigation, 					search
+				
+				"Island of the Menehune" redirects here. For the "Rocket Power" telefilm, see Island of the Menehune (Rocket Power).
+
+
+
+
+Alekoko "Menehune" fishpond
+
+
+In Hawaiian mythology, the Menehune [pronounced meh-neh-HOO-neh] are said to be a people, sometimes described as dwarfs in size, who live in the deep forests and hidden valleys of the Hawaiian Islands, far from the eyes of normal humans. Their favorite food is the maiʻa (banana), but they also like fish.
+The Menehune were said to be superb craftspeople. Legends say that the Menehune built temples (heiau), fishponds, roads, canoes, and houses. They are said to have lived in Hawaiʻi before settlers arrived from Polynesia many centuries ago.
+
+
+
+
+Menehune Bank
+
+
+In Beckwith's Hawaiian Mythology, there are references to several other forest dwelling races: the Nawao, who were large-sized wild hunters descended from Lua-nuʻu, the mu people, and the wa people.[1]
+Some early scholars theorized that there was a first settlement of Hawaiʻi, by settlers from the Marquesas Islands, and a second, from Tahiti. The Tahitian settlers oppressed the "commoners", the manahune in the Tahitian language, who fled to the mountains and were called Menahune. Proponents of this theory point to an 1820 census of Kauaʻi by Kaumualiʻi, the ruling Aliʻi Aimoku of the island, which listed 65 people as menehune.[2]
+Folklorist Katharine Luomala believes that the legends of the Menehune are a post-European contact mythology created by adaptation of the term manahune (which by the time of the settling of the Hawaiian Islands had acquired a meaning of "lowly people" or "low social status" and not diminutive in stature) to European legends of brownies.[3] Menehune are not mentioned in pre-contact mythology; the legendary "overnight" creation of the Alekoko fishpond, for example, finds its equivalent in the legend[4] about the creation of a corresponding structure on Oʻahu, which was supposedly indeed completed in a single day - not by menehune, but, as a show of power, by a local aliʻi who demanded every one of his subjects to appear at the construction site and assist in building.
+
+
+Contents
+
+
+1 Structures attributed to the Menehune
+2 Other uses
+3 See also
+4 Notes
+5 References
+6 External links
+
+
+Structures attributed to the Menehune[edit]
+
+Alekoko fishpond wall at Niumalu, Kauaʻi
+Kīkīaola ditch at Waimea, Kauaʻi
+Necker Island structures
+Pa o ka menehune, breakwater at Kahaluʻu Bay.[5]
+
+Other uses[edit]
+
+In the experimental 1970s Aloha network developed at the University of Hawaii, the packet controllers were called Menehune, a pun on the equivalent IMP (Interface Message Processor) in the early ARPAnet.
+
+
+It is also the name of a popular brand of water bottled locally in Hawaii.
+
+
+The Menehune is the school mascot of Waimea High School on Kaua'i and Makakilo Elementary School, Maunawili Elementary School, Moanalua High School and Mililani Waena Elementary School on O'ahu.
+
+
+United Airlines used the Menehune in brand advertising for their service to Hawaii in the 1970s through the 1980s, the figurines and travel agency displays are now retro collectors items.[6]
+
+
+Disney has a Menehune Adventure Trail at Aulani, a Disney Resort and Spa.[7]
+
+
+Menehune was also the name given to the 'aggressors' in the Vietnam training POW camp used by the ASA (Army Security Agency) at Fort Devens, Massachusetts.[citation needed]
+
+See also[edit]
+
+Little people (mythology)
+Nawao, another legendary Hawaiian people
+Paupueo, whose owls chase away the Menehune
+The Moriori in New Zealand, a supposed pre-Maori population.
+
+Notes[edit]
+
+
+^ Beckwith 1970, pp. 321-323
+^ Joesting 1987, pp. 20-22
+^ Luomala 1951
+^ Nordhoff 1874
+^ "Hoʻihoʻi Kulana Wahi pana - Restoring Sacred Places". brochure published by Kamehameha Investment Corporation. 2008. Retrieved 2009-10-20. 
+^ "United Airlines Menehune". Advertisingiconmuseum.org. Retrieved 2013-09-27. 
+^ Glover, Erin. "Hunting for Menehune at Aulani, a Disney Resort & Spa". Retrieved 20 August 2012. 
+
+
+References[edit]
+
+Beckwith, Martha (1970). Hawaiian Mythology. University of Hawaii Press.  www.sacredtexts.com
+Joesting, Edward (1987) [1984]. Kauaʻi, The Separate Kingdom. Honolulu, Hawaii: University of Hawaiʻi Press and Kauaʻi Museum Association. ISBN 0-8248-1162-3. 
+Luomala, Katharine (1951): "The Menehune of Polynesia and Other Mythical Little People of Oceania". Bernice P. Bishop Museum Bulletin Vol. 203; Kraus Reprint, Millwood, N.Y., 1986
+Nordhoff, Charles (1874): Northern California, Oregon and the Sandwich Islands, Chapter V, p. 80: "The Hawaiian at Home: Manners and Customs". Sampson Low, Marston, Low & Searle, London; available free online at [1]
+Nordyke, Eleanor C. (1989). The Peopling of Hawaiʻi. University of Hawaii Press. ISBN 0-8248-1191-7. 
+Schmitt, Robert C., "Early Hawaiian Statistics," The American Statistician, Vol. 35, No. 1, pages 1–3, February, 1981; [2] (Retrieved on 2008-02-16)
+
+External links[edit]
+
+The Three Menehune of Ainahou
+
+
+
+ 
+NewPP limit report
+CPU time usage: 0.360 seconds
+Real time usage: 0.389 seconds
+Preprocessor visited node count: 934/1000000
+Preprocessor generated node count: 5518/1500000
+Post‐expand include size: 13253/2048000 bytes
+Template argument size: 1830/2048000 bytes
+Highest expansion depth: 20/40
+Expensive parser function count: 0/500
+Lua time usage: 0.040s
+Lua memory usage: 1.51 MB
+
+
+ Saved in parser cache with key enwiki:pcache:idhash:95752-0!*!0!!en!4!* and timestamp 20130927063352 
+								
+				Retrieved from "http://en.wikipedia.org/w/index.php?title=Menehune&oldid=574703963"				
+												Categories: Oceanian legendary creaturesHawaiian mythologyHawaii cultureDeities, spirits, and mythic beingsDwarf-like creaturesHidden categories: All articles with unsourced statementsArticles with unsourced statements from December 2012												
+							
+		
+		
+			Navigation menu
+			
+				
+	Personal tools
+	
+Create accountLog in	
+
+				
+					
+	Namespaces
+	
+					Article
+					Talk
+			
+
+
+	
+		
+	Variants
+	
+		
+					
+	
+
+				
+				
+					
+	Views
+	
+					Read
+					Edit
+					View history
+			
+
+
+	Actions
+	
+		
+					
+	
+
+
+	Search
+	
+				
+																				
+		
+	
+
+				
+			
+			
+					
+				
+	Navigation
+	
+		
+			Main page
+			Contents
+			Featured content
+			Current events
+			Random article
+			Donate to Wikipedia
+		
+	
+
+
+	Interaction
+	
+		
+			Help
+			About Wikipedia
+			Community portal
+			Recent changes
+			Contact page
+		
+	
+
+
+	Toolbox
+	
+		
+			What links here
+			Related changes
+			Upload file
+			Special pages
+			Permanent link
+			Page information
+			Data item
+Cite this page		
+	
+
+
+	Print/export
+	
+		
+			Create a book
+			Download as PDF
+			Printable version
+		
+	
+
+
+	Languages
+	
+		
+			Deutsch
+			Français
+			
+			Edit links
+		
+	
+
+			
+		
+		
+							
+											 This page was last modified on 27 September 2013 at 06:33.
+											Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. 
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+									
+							
+											Privacy policy
+											About Wikipedia
+											Disclaimers
+											Contact Wikipedia
+											Developers
+											Mobile view
+									
+										
+					
+						
+					
+					
+						
+					
+				
+						
+		
+		
+
+
+ Served by mw1056 in 0.217 secs. 
+	
+if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Menehune","wgTitle":"Menehune","wgCurRevisionId":574703963,"wgArticleId":95752,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["All articles with unsourced statements","Articles with unsourced statements from December 2012","Oceanian legendary creatures","Hawaiian mythology","Hawaii culture","Deities, spirits, and mythic beings","Dwarf-like creatures"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Menehune","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgVectorEnabledModules":{"collapsiblenav":true,"experiments":true},"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"templateEditor":false,"templates":false,"preview":false,"previewDialog":false,"publish":false,"toc":false},"wgArticleFeedbackv5Permissions":{"aft-reader":false,"aft-member":false,"aft-editor":false,"aft-monitor":false,"aft-administrator":false,"aft-oversighter":false,"aft-noone":false},"wgVisualEditor":{"isPageWatched":false,"magnifyClipIconURL":"//bits.wikimedia.org/static-1.22wmf18/skins/common/images/magnify-clip.png","pageLanguageCode":"en","pageLanguageDir":"ltr"},"wikilove-recipient":"","wikilove-anon":0,"wgGuidedTourHelpGuiderUrl":"Help:Guided tours/guider","wgULSAcceptLanguageList":[],"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia","aftv5Article":{"id":95752,"title":"Menehune","namespace":0,"categories":["All articles with unsourced statements","Articles with unsourced statements from December 2012","Deities, spirits, and mythic beings","Dwarf-like creatures","Hawaii culture","Hawaiian mythology","Oceanian legendary creatures"],"permissionLevel":false},"wgWikibaseItemId":"Q1920404"});
+}if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":false,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,
+"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"useeditwarning":1,"prefershttps":1,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"vector-simplesearch":1,"vector-collapsiblenav":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"aftv5-last-filter":null,"visualeditor-enable":0,"visualeditor-enable-experimental":0,"visualeditor-betatempdisable":0,"wikilove-enabled":1,"echo-subscriptions-web-page-review":true,"echo-subscriptions-email-page-review":false,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"echo-notify-show-link":true,"echo-show-alert":true,"echo-email-frequency":0,"echo-email-format":"html","echo-subscriptions-email-system":true,"echo-subscriptions-web-system":true,"echo-subscriptions-email-other":false,"echo-subscriptions-web-other":true,"echo-subscriptions-email-edit-user-talk":false,"echo-subscriptions-web-edit-user-talk":true,
+"echo-subscriptions-email-reverted":false,"echo-subscriptions-web-reverted":true,"echo-subscriptions-email-article-linked":false,"echo-subscriptions-web-article-linked":false,"echo-subscriptions-email-mention":false,"echo-subscriptions-web-mention":true,"echo-subscriptions-web-edit-thank":true,"echo-subscriptions-email-edit-thank":false,"gettingstarted-task-toolbar-show-intro":true,"uls-preferences":"","language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs446":false,"searchNs447":false
+,"searchNs710":false,"searchNs711":false,"searchNs828":false,"searchNs829":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-mySandbox":1,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:156d8fe0ae17f8afd74198057563e45d */
+}if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","ext.visualEditor.viewPageTarget.init","ext.wikimediaShopLink.core","ext.uls.init","ext.uls.interface","wikibase.client.init","ext.centralNotice.bannerController","skins.vector.js"]);
+}/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}if(window.mw){
+mw.loader.load(["mobile.desktop","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.cite","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","mw.MwEmbedSupport.style","ext.vector.collapsibleNav","ext.articleFeedbackv5.startup","ext.gettingstarted.logging","ext.gettingstarted.openTask","schema.HttpsSupport","ext.coreEvents.httpsSupport","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","mw.PopUpMediaTransform"],null,true);
+}

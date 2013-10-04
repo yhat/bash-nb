@@ -1,0 +1,541 @@
+
+
+
+Parasaurolophus - Wikipedia, the free encyclopedia
+
+
+
+
+
+
+
+
+
+
+
+
+a:lang(ar),a:lang(ckb),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:0de201fdea5d684523607ed88007b127 */
+
+
+
+
+[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.22wmf18/skins/vector/csshover.min.htc")}</style><![endif]
+
+		
+		
+		
+			
+			
+						 CentralNotice 
+						Parasaurolophus
+			
+								From Wikipedia, the free encyclopedia
+								
+												
+					Jump to:					navigation, 					search
+				
+				
+
+
+Parasaurolophus
+Temporal range: Late Cretaceous, 76.5–73Ma
+
+PreЄ
+Є
+O
+S
+D
+C
+P
+T
+J
+K
+Pg
+N
+
+
+
+↓
+
+
+
+
+
+
+
+
+
+P. cyrtocristatus, Field Museum of Natural History
+
+
+Scientific classification
+
+
+Kingdom:
+Animalia
+
+
+Phylum:
+Chordata
+
+
+Class:
+Reptilia
+
+
+Superorder:
+Dinosauria
+
+
+Order:
+†Ornithischia
+
+
+Family:
+†Hadrosauridae
+
+
+Subfamily:
+†Lambeosaurinae
+
+
+Genus:
+†Parasaurolophus
+Parks, 1922
+
+
+Species
+
+
+
+
+P. walkeri (type) Parks, 1922
+P. tubicen Wiman, 1931
+P. cyrtocristatus Ostrom, 1961
+
+
+
+
+
+Parasaurolophus (/ˌpærəsɔːˈrɒləfəs/ PARR-ə-saw-ROL-ə-fəs or /ˌpærəˌsɔrəˈloʊfəs/ PARR-ə- SAWR-ə-LOH-fəs; meaning "near crested lizard" in reference to Saurolophus) is a genus of ornithopod dinosaur that lived in what is now North America during the Late Cretaceous Period, about 76.5–73 million years ago.[1] It was a herbivore that walked both as a biped and a quadruped. Three species are recognized: P. walkeri (the type species), P. tubicen, and the short-crested P. cyrtocristatus. Remains are known from Alberta (Canada), and New Mexico, Montana, Utah (USA). The genus was first described in 1922 by William Parks from a skull and partial skeleton found in Alberta.
+Parasaurolophus was a hadrosaurid, part of a diverse family of Cretaceous dinosaurs known for their range of bizarre head adornments. This genus is known for its large, elaborate cranial crest, which at its largest forms a long curved tube projecting upwards and back from the skull. Charonosaurus from China, which may have been its closest relative, had a similar skull and potentially a similar crest. The crest has been much discussed by scientists; the consensus is that major functions included visual recognition of both species and sex, acoustic resonance, and thermoregulation. It is one of the rarer hadrosaurids, known from only a handful of good specimens.
+
+
+Contents
+
+
+1 Description
+2 Classification
+3 Discovery and naming
+
+3.1 Species
+
+
+4 Paleoecology
+5 Paleobiology
+
+5.1 Feeding
+5.2 Cranial crest
+
+5.2.1 Differences between species and growth stages
+5.2.2 Rejected hypotheses about function
+5.2.3 Social functions
+5.2.4 Sounding function
+5.2.5 Cooling function
+
+
+
+
+6 References
+7 External links
+
+
+Description[edit]
+
+
+
+
+Size of a P. walkeri (10 metres long) compared to a human (1.8 metres tall)
+
+
+Like most dinosaurs, the skeleton of Parasaurolophus is incompletely known. The length of the type specimen of P. walkeri is estimated at 9.5 m (31 ft), and its weight is estimated at 2.5 tonnes (2.8 short tons).[2] Its skull is about 1.6 m (5 ft 3 in) long, including the crest, whereas the type skull of P. tubicen is over 2 m (6 ft 7 in) long, indicating a larger animal.[3] Its single known forelimb was relatively short for a hadrosaurid, with a short but wide shoulder blade. The thighbone measures 103 cm (41 in) long in P. walkeri and is robust for its length when compared to other hadrosaurids.[4] The upper arm and pelvic bones were also heavily built.[5]
+Like other hadrosaurids, it was able to walk on either two legs or four. It probably preferred to forage for food on four legs, but ran on two.[6] The neural spines of the vertebrae were tall, as was common in lambeosaurines;[4] tallest over the hips, they increased the height of the back. Skin impressions are known for P. walkeri, showing uniform tubercle-like scales but no larger structures.[7]
+
+
+
+
+P. walkeri with scalation detail.
+
+
+The most noticeable feature was the cranial crest, which protruded from the rear of the head and was made up of the premaxilla and nasal bones. The P. walkeri type specimen has a notch in the neural spines near where the crest would hit the back, but this may be a pathology peculiar to this individual.[4] William Parks, who named the genus, hypothesized that a ligament ran from the crest to the notch to support the head.[7] Although this idea seems unlikely,[2] Parasaurolophus is sometimes restored with a skin flap from the crest to the neck. The crest was hollow, with distinct tubes leading from each nostril to the end of the crest before reversing direction and heading back down the crest and into the skull. The tubes were simplest in P. walkeri, and more complex in P. tubicen, where some tubes were blind and others met and separated.[8] While P. walkeri and P. tubicen had long crests with only slight curvature, P. cyrtocristatus had a short crest with a more circular profile.[9]
+Classification[edit]
+As its name implies, Parasaurolophus was initially thought to be closely related to Saurolophus because of its superficially similar crest.[7] However, it was soon reassessed as a member of the lambeosaurine subfamily of hadrosaurids—Saurolophus is an hadrosaurine.[10] It is usually interpreted as a separate offshoot of the lambeosaurines, distinct from the helmet-crested Corythosaurus, Hypacrosaurus, and Lambeosaurus.[6][11][12] Its closest known relative appears to be Charonosaurus, a lambeosaurine with a similar skull (but no complete crest yet) from the Amur region of northeastern China,[13] and the two may form a clade Parasaurolophini.[12] P. cyrtocristatus, with its short, rounder crest, may be the most basal of the three known Parasaurolophus species,[12] or it may represent subadult or female specimens of P. tubicen.[14]
+Discovery and naming[edit]
+
+
+
+
+Incomplete P. walkeri type specimen in the Royal Ontario Museum
+
+
+Meaning "near crested lizard", the name Parasaurolophus is derived from the Greek para/παρα "beside" or "near", saurus/σαυρος "lizard" and lophos/λοφος "crest".[15] It is based on ROM 768, a skull and partial skeleton missing most of the tail and the hind legs below the knees, which was found by a field party from the University of Toronto in 1920 near Sand Creek along the Red Deer River in Alberta, Canada.[7] These rocks are now known as the Campanian-age Upper Cretaceous Dinosaur Park Formation. William Parks named the specimen P. walkeri in honor of Sir Byron Edmund Walker, Chairman of the Board of Trustees of the Royal Ontario Museum.[7] Parasaurolophus remains are rare in Alberta,[16] with only one other partial skull from (probably) the Dinosaur Park Formation,[17] and three Dinosaur Park specimens lacking skulls, possibly belonging to the genus.[18] In some faunal lists, there is a mention of possible P. walkeri material in the Hell Creek Formation of Montana, a rock unit of late Maastrichtian age.[19][20] This occurrence is not noted by Sullivan and Williamson in their 1999 review of the genus,[8] and has not been further elaborated upon elsewhere.
+In 1921, Charles H. Sternberg recovered a partial skull (PMU.R1250) from what is now known as the slightly younger Kirtland Formation in San Juan County, New Mexico. This specimen was sent to Uppsala, Sweden, where Carl Wiman described it as a second species, P. tubicen, in 1931.[21] The specific epithet is derived from the Latin tǔbǐcěn "trumpeter".[22] A second, nearly complete P. tubicen skull (NMMNH P-25100) was found in New Mexico in 1995. Using computed tomography of this skull, Robert Sullivan and Thomas Williamson gave the genus a monographic treatment in 1999, covering aspects of its anatomy and taxonomy, and the functions of its crest.[8] Williamson later published an independent review of the remains, disagreeing with the taxonomic conclusions.[14]
+John Ostrom described another good specimen (FMNH P27393) from New Mexico as P. cyrtocristatus in 1961. It includes a partial skull with a short, rounded crest, and much of the postcranial skeleton except for the feet, neck, and parts of the tail.[9] Its specific name is derived from the Latin curtus "shortened" and cristatus "crested".[22] The specimen was found in either the top of the Fruitland Formation or, more likely, the base of the overlying Kirtland Formation.[8] The range of this species was expanded in 1979, when David B. Weishampel and James A. Jensen described a partial skull with a similar crest (BYU 2467) from the Campanian-age Kaiparowits Formation of Garfield County, Utah.[23] Since then, another skull has been found in Utah with the short/round P. cyrtocristatus crest morphology.[8]
+Species[edit]
+
+
+
+
+P. tubicen crest among other hadrosaur remains, Carnegie Museum of Natural History
+
+
+The type species P. walkeri, from Alberta, is known from a single definitive specimen from the Dinosaur Park Formation,[6] though others from the Dinosaur Park probably belong to it.[1] It differs from P. tubicen by having simpler tubes in its crest,[8] and from P. cyrtocristatus by having a long, unrounded crest and a longer upper arm than forearm.[9] It lived between 76.5 and 75.3 million years ago.[1]
+P. tubicen, from New Mexico, is known from the remains of at least three individuals.[6] It is the largest species, with more complex air passages in its crest than P. walkeri, and a longer, straighter crest than P. cyrtocristatus.[8] P. tubicen is known only from the De-na-zin Member of the Kirtland Formation,[24] and lived about 73.4–73 million years ago, making it the most recent species.[1]
+P. cyrtocristatus, from the Kaiparowits and Fruitland Formations of New Mexico and Utah, is known from three possible specimens. It lived 75.5–74.5 million years ago,[1] and is the smallest species, with a short rounded crest.[8] Its small size and the form of its crest have led several scientists to suggest that it represents juveniles or females of P. tubicen, though P. tubicen lived at least one million years later.[1] As noted by Thomas Williamson, the type material of P. cyrtocristatus is about 72% the size of P. tubicen, close to the size at which other lambeosaurines are interpreted to begin showing definitive sexual dimorphism in their crests (~70% of adult size).[14] However, this position has been rejected in recent reviews of lambeosaurines.[6][12]
+Paleoecology[edit]
+
+
+
+
+A tyrannosaurid attacking a P. cyrtocristatus. Remains of a tyrannosaur similar to Gorgosaurus are known from the Fruitland Formation.
+
+
+Parasaurolophus walkeri, from the Dinosaur Park Formation, was a member of a diverse and well-documented fauna of prehistoric animals, including well-known dinosaurs such as the horned Centrosaurus and Chasmosaurus; fellow duckbills Gryposaurus and Corythosaurus; tyrannosaurid Gorgosaurus; and armored Edmontonia, Euoplocephalus and Dyoplosaurus.[20] It was a rare constituent of this fauna.[16] The Dinosaur Park Formation is interpreted as a low-relief setting of rivers and floodplains that became more swampy and influenced by marine conditions over time as the Western Interior Seaway transgressed westward.[25] The climate was warmer than present-day Alberta, without frost, but with wetter and drier seasons. Conifers were apparently the dominant canopy plants, with an understory of ferns, tree ferns, and angiosperms.[26]
+Some of the less common hadrosaurs in the Dinosaur Park Formation of Dinosaur Provincial Park, such as Parasaurolophus, may represent the remains of individuals who died while migrating through the region.[27] They might also have had a more upland habitat where they may have nested or fed.[27] The presence of Parasaurolophus and Kritosaurus in northern latitude fossil sites may represent faunal exchange between otherwise distinct northern and southern biomes in Late Cretaceous North America.[28] Both taxa are uncommon outside of the southern biome, where, along with Pentaceratops, they are predominate members of the fauna.[28]
+In New Mexico and Utah, the species P. cyrtocristatus shared its environment with the horned ceratopsians Utahceratops, Kosmoceratops, and Pentaceratops,[29] and the coelurosaur Ornithomimus, and the tyrannosaur Teratophoneus.[30]
+The last and largest of the Parasaurolophus species, P. tubicen, lived in New Mexico alongside the large sauropod Alamosaurus, duckbill Kritosaurus, horned Pentaceratops, armored Nodocephalosaurus, Saurornitholestes, and the tyrannosaurid Bistahieversor.[20] The Kirtland Formation is interpreted as river floodplains appearing after a retreat of the Western Interior Seaway. Conifers were the dominant plants, and chasmosaurine horned dinosaurs were apparently more common than hadrosaurids.[31]
+Paleobiology[edit]
+Feeding[edit]
+As a hadrosaurid, Parasaurolophus was a large bipedal/quadrupedal herbivore, eating plants with a sophisticated skull that permitted a grinding motion analogous to chewing. Its teeth were continually being replaced; they were packed into dental batteries containing hundreds of teeth, only a relative handful of which were in use at any time. It used its beak to crop plant material, which was held in the jaws by a cheek-like organ. Vegetation could have been taken from the ground up to a height of around 4 meters (13 ft).[6] As noted by Bob Bakker, lambeosaurines have narrower beaks than hadrosaurines, implying that Parasaurolophus and its relatives could feed more selectively than their broad-beaked, crestless counterparts.[32]
+Cranial crest[edit]
+
+
+
+
+P. walkeri skull cast
+
+
+Many hypotheses have been advanced as to what functions the cranial crest of Parasaurolophus performed, but most have been discredited.[2][33] It is now believed that it may have had several functions: visual display for identifying species and sex, sound amplification for communication, and thermoregulation. It is not clear which was most significant at what times in the evolution of the crest and its internal nasal passages.[34]
+Differences between species and growth stages[edit]
+
+
+
+
+Diagram comparing the narial crests of P. cyrtocristatus (A, top) and P. walkeri (B)
+
+
+As for other lambeosaurines, it is believed that the cranial crest of Parasaurolophus changed with age and was a sexually dimorphic characteristic in adults. James Hopson, one of the first researchers to describe lambeosaurine crests in terms of such distinctions, suggested that P. cyrtocristatus, with its small crest, was the female form of P. tubicen.[35] Thomas Williamson suggested it was the juvenile form.[14] Neither hypothesis became widely accepted. As only six good skulls and one juvenile braincase are known, additional material will help clear up these potential relationships. Williamson noted that in any case, juvenile Parasaurolophus probably had small, rounded crests like P. cyrtocristatus, that probably grew faster as individuals approached sexual maturity.[14] Recent restudy of a juvenile braincase previously assigned to Lambeosaurus, now assigned to Parasaurolophus, provides evidence that a small tubular crest was present in juveniles. This specimen preserves a small upward flaring of the frontal bones that was similar to but smaller than what is seen in adult specimens; in adults, the frontals formed a platform that supported the base of the crest. This specimen also indicates that the growth of the crest in Parasaurolophus and the facial profile of juvenile individuals differed from the Corythosaurus-Hypacrosaurus-Lambeosaurus model, in part because the crest of Parasaurolophus lacks the thin bony 'coxcomb' that makes up the upper portion of the crest of the other three lambeosaurines.[17]
+Rejected hypotheses about function[edit]
+Many early suggestions focused on adaptations for an aquatic lifestyle, following the hypothesis that hadrosaurids were amphibious, a common line of thought until the 1960s. Thus, Alfred Sherwood Romer proposed it served as a snorkel,[36] Martin Wilfarth that it was an attachment for a mobile proboscis used as a breathing tube or for food gathering,[37] Charles M. Sternberg that it served as an airtrap to keep water out of the lungs,[38] and Ned Colbert that it served as an air reservoir for prolonged stays underwater.[39]
+Other proposals were more physical in nature. As mentioned above, William Parks suggested that it was joined to the vertebrae with ligaments or muscles, and helped with moving and supporting the head.[7] Othenio Abel proposed it was used as a weapon in combat among members of the same species,[40] and Andrew Milner suggested that it could be used as a foliage deflector, like the helmet crest (called a 'casque') of the cassowary.[33] Still other proposals made housing specialized organs the major function. Halszka Osmólska suggested that it housed salt glands,[41] and John Ostrom suggested that it housed expanded areas for olfactory tissue and much improved sense of smell of the lambeosaurines, which had no obvious defensive capabilities.[42] One unusual suggestion, made by creationist Duane Gish, is that the crest housed chemical glands that allowed it to throw jets of chemical "fire" at enemies, similar to the modern-day bombardier beetle.[43]
+Most of these hypotheses have been discredited or rejected.[2] For example, there is no hole at the end of the crest for a snorkeling function. There are no muscle scars for a proboscis and it is dubious that an animal with a beak would need one. As a proposed airlock, it would not have kept out water. The proposed air reservoir would have been insufficient for an animal the size of Parasaurolophus. Other hadrosaurids had large heads without needing large hollow crests to serve as attachment points for supporting ligaments.[42] Also, none of the proposals explain why the crest has such a shape, why other lambeosaurines should have crests that look much different but perform a similar function, how crestless or solid-crested hadrosaurids got along without such capabilities, or why some hadrosaurids had solid crests. These considerations particularly impact hypotheses based on increasing the capabilities of systems already present in the animal, such as the salt gland and olfaction hypotheses,[33] and indicate that these were not primary functions of the crest. Additionally, work on the nasal cavity of lambeosaurines shows that olfactory nerves and corresponding sensory tissue were largely outside the portion of the nasal passages in the crest, so the expansion of the crest had little to do with the sense of smell.[34]
+Social functions[edit]
+
+
+
+
+Life restoration of P. walkeri with hypothetical skin frill and stripes on its crest
+
+
+Instead, social and physiological functions have become more supported as function(s) of the crest, focusing on visual and auditory identification and communication. As a large object, the crest has clear value as a visual signal, and sets this animal apart from its contemporaries. The large size of hadrosaurid eye sockets and the presence of sclerotic rings in the eyes imply acute vision and diurnal habits, evidence that sight was important to these animals. If, as is commonly illustrated, a skin frill extended from the crest to the neck or back, the proposed visual display would have been even showier.[35] As is suggested by other lambeosaurine skulls, the crest of Parasaurolophus likely permitted both species identification (such as separating it from Corythosaurus or Lambeosaurus) and sexual identification by shape and size.[34]
+Sounding function[edit]
+However, the external appearance of the crest does not correspond to the complex internal anatomy of the nasal passages, which suggests another function accounted for usage of the internal space.[34] Carl Wiman was the first to propose, in 1931, that the passages served an auditory signaling function, like a crumhorn;[21] Hopson and David B. Weishampel revisited this idea in the 1970s and 1980s.[35][44][45] Hopson found that there is anatomical evidence that hadrosaurids had strong hearing. There is at least one example, in the related Corythosaurus, of a slender stapes (reptilian ear bone) in place, which combined with a large space for an eardrum implies a sensitive middle ear. Furthermore, the hadrosaurid lagena is elongate like a crocodilian's, indicating that the auditory portion of the inner ear was well-developed.[35] Weishampel suggested that P. walkeri was able to produce frequencies of 48 to 240 Hz, and P. cyrtocristatus (interpreted as a juvenile crest form) 75 to 375 Hz. Based on similarity of hadrosaurid inner ears to those of crocodiles, he also proposed that adult hadrosaurids were sensitive to high frequencies, such as their offspring might produce. According to Weishampel, this is consistent with parents and offspring communicating.[44]
+Computer modeling of a well-preserved specimen of P. tubicen, with more complex air passages than those of P. walkeri, has allowed the reconstruction of the possible sound its crest produced.[46] The main path resonates at around 30 Hz, but the complicated sinus anatomy causes peaks and valleys in the sound.[47]
+Cooling function[edit]
+The large surface area and vascularization of the crest also suggests a thermoregulatory function.[48] P.E. Wheeler first suggested this use in 1978 as a way to keep the brain cool.[49] Teresa Maryańska and Osmólska also proposed thermoregulation at about the same time,[50] and Sullivan and Williamson took further interest. David Evans' 2006 discussion of lambeosaurine crest functions was favorable to the idea, at least as an initial factor for the evolution of crest expansion.[34]
+References[edit]
+
+
+^ a b c d e f Evans, D.C., Bavington, R. and Campione, N.E. (2009). "An unusual hadrosaurid braincase from the Dinosaur Park Formation and the biostratigraphy of Parasaurolophus (Ornithischia: Lambeosaurinae) from southern Alberta." Canadian Journal of Earth Sciences, 46(11): 791–800. doi:10.1139/E09-050
+^ a b c d Glut, Donald F. (1997). "Parasaurolophus". Dinosaurs: The Encyclopedia. Jefferson, North Carolina: McFarland & Co. pp. 678–684. ISBN 0-89950-917-7. 
+^ Lull, Richard Swann; and Wright, Nelda E. (1942). Hadrosaurian Dinosaurs of North America. Geological Society of America Special Paper 40. Geological Society of America. p. 229. 
+^ a b c Lull and Wright, Hadrosaurian Dinosaurs of North America, pp. 209–213.
+^ Brett-Surman, Michael K.; and Wagner, Jonathan R. (2006). "Appendicular anatomy in Campanian and Maastrichtian North American hadrosaurids". In Carpenter, Kenneth (ed.). Horns and Beaks: Ceratopsian and Ornithopod Dinosaurs. Bloomington and Indianapolis: Indiana University Press. pp. 135–169. ISBN 0-253-34817-X. 
+^ a b c d e f Horner, John R.; Weishampel, David B.; and Forster, Catherine A (2004). "Hadrosauridae". In Weishampel, David B.; Osmólska, Halszka; and Dodson, Peter (eds.). The Dinosauria (2nd ed.). Berkeley: University of California Press. pp. 438–463. ISBN 0-520-24209-2. 
+^ a b c d e f Parks, William A. (1922). "Parasaurolophus walkeri, a new genus and species of crested trachodont dinosaur". University of Toronto Studies, Geology Series 13: 1–32. 
+^ a b c d e f g h Sullivan, Robert M.; and Williamson, Thomas E. (1999). A new skull of Parasaurolophus (Dinosauria: Hadrosauridae) from the Kirtland Formation of New Mexico and a revision of the genus. New Mexico Museum of Natural History and Science Bulletin, 15. Albuquerque, New Mexico: New Mexico Museum of Natural History and Science. pp. 1–52. 
+^ a b c Ostrom, John H. (1961). "A new species of hadrosaurian dinosaur from the Cretaceous of New Mexico". Journal of Paleontology 35 (3): 575–577. 
+^ Gilmore, Charles W. (1924). "On the genus Stephanosaurus, with a description of the type specimen of Lambeosaurus lambei, Parks". Canada Department of Mines Geological Survey Bulletin (Geological Series) 38 (43): 29–48. 
+^ Weishampel, David B.; and Horner, Jack R. (1990). "Hadrosauridae". In Weishampel, David B.; Osmólska, Halszka; and Dodson, Peter (eds.). The Dinosauria (1st ed.). Berkeley: University of California Press. pp. 534–561. ISBN 0-520-06727-4. 
+^ a b c d Evans, David C.; and Reisz, Robert R. (2007). "Anatomy and relationships of Lambeosaurus magnicristatus, a crested hadrosaurid dinosaur (Ornithischia) from the Dinosaur Park Formation, Alberta". Journal of Vertebrate Paleontology 27 (2): 373–393. doi:10.1671/0272-4634(2007)27[373:AAROLM]2.0.CO;2. Retrieved 2007-07-28. 
+^ Godefroit, Pascal; Shuqin Zan; and Liyong Jin (2000). "Charonosaurus jiayinensis n. g., n. sp., a lambeosaurine dinosaur from the Late Maastrichtian of northeastern China". Compte Rendus de l'Academie des Sciences, Paris, Sciences de la Terre et des planètes 330 (12): 875–882. doi:10.1016/S1251-8050(00)00214-7. 
+^ a b c d e Williamson, Thomas E. (2000). "Review of Hadrosauridae (Dinosauria, Ornithischia) from the San Juan Basin, New Mexico". In Lucas, S.G.; and Heckert, A.B. (eds.). Dinosaurs of New Mexico. New Mexico Museum of Natural History and Science Bulletin. 17. Albuquerque, New Mexico: New Mexico Museum of Natural History and Science. pp. 191–213. 
+^ Liddell, Henry George and Robert Scott (1980). A Greek-English Lexicon (Abridged Edition). United Kingdom: Oxford University Press. ISBN 0-19-910207-4. 
+^ a b Ryan, Michael J.; and Evans, David C. (2005). "Ornithischian Dinosaurs". In Currie, Phillip J.; and Koppelhus, Eva (eds.). Dinosaur Provincial Park: A Spectacular Ancient Ecosystem Revealed. Bloomington: Indiana University Press. pp. 312–348. ISBN 0-253-34595-2. 
+^ a b Evans, David C.; Reisz, Robert R.; and Dupuis, Kevin (2007). "A juvenile Parasaurolophus braincase from Dinosaur Provincial Park, Alberta, with comments on crest ontogeny in the genus". Journal of Vertebrate Paleontology 27 (3): 642–650. doi:10.1671/0272-4634(2007)27[642:AJPOHB]2.0.CO;2. 
+^ Currie, Phillip J; and Russell, Dale A. "Geographic and stratigraphic distribution of dinosaur remains" in Dinosaur Provincial Park, p. 553.
+^ Weishampel, David B. (1990). "Dinosaur Distribution", in The Dinosauria (1st), pp. 63–139.
+^ a b c Weishampel, David B.; Barrett, Paul M.; Coria, Rodolfo A.; Le Loeuff, Jean; Xu Xing; Zhao Xijin; Sahni, Ashok; Gomani, Elizabeth, M.P.; and Noto, Christopher R. (2004). "Dinosaur Distribution", in The Dinosauria (2nd), pp. 517–606.
+^ a b Wiman, Carl (1931). "Parasaurolophus tubicen, n. sp. aus der Kreide in New Mexico". Nova Acta Regia Societas Scientarum Upsaliensis, series 4 (in German) 7 (5): 1–11. 
+^ a b Simpson, D.P. (1979). Cassell's Latin Dictionary (5 ed.). London: Cassell Ltd. p. 883. ISBN 0-304-52257-0. 
+^ Weishampel, David B.; and Jensen, James A. (1979). "Parasaurolophus (Reptilia: Hadrosauridae) from Utah". Journal of Paleontology 53 (6): 1422–1427. 
+^ Sullivan, R., Jasinsky, S., Lucas, S. and Spielmann, J. (2009). "The first 'lambeosaurin' (Dinosauria, Hadrosauridae, Lambeosaurinae) from the Upper Cretaceous Ojo Alamo Formation (Naashoibito Member), San Juan Basin, New Mexico: Further implications for the age of the Alamo Wash local fauna." Journal of Vertebrate Paleontology, 29(3): 188A.
+^ Eberth, David A. 2005. "The geology", in Dinosaur Provincial Park, pp. 54–82.
+^ Braman, Dennis R., and Koppelhus, Eva B. 2005. "Campanian palynomorphs", in Dinosaur Provincial Park, pp. 101–130.
+^ a b Tanke, Darren H.; and Brett-Surman, Michael K. (2001). "Evidence of hatchling and nestling-size hadrosaurs (Reptilia: Ornithischia) from Dinosaur Provincial Park (Dinosaur Park Formation: Campanian), Alberta, Canada". In Tanke, Darren H.; and Carpenter, Kenneth. Mesozoic Vertebrate Life. Bloomington and Indianapolis, Indiana: Indiana University Press. pp. 206–218. ISBN 0-253-33907-3. 
+^ a b Lehman, T. M., 2001, Late Cretaceous dinosaur provinciality: In: Mesozoic Vertebrate Life, edited by Tanke, D. H., and Carpenter, K., Indiana University Press, pp. 310–328.
+^ "New Horned Dinosaurs of Utah Provide Evidence for Intracontinental Dinosaur Endemism" in Sampson et al. (2010)
+^ Thomas D. Carr, Thomas E. Williamson, Brooks B. Britt and Ken Stadtman (2011). "Evidence for high taxonomic and morphologic tyrannosauroid diversity in the Late Cretaceous (Late Campanian) of the American Southwest and a new short-skulled tyrannosaurid from the Kaiparowits formation of Utah". Naturwissenschaften 98 (3): 241–246. doi:10.1007/s00114-011-0762-7. PMID 21253683. 
+^ Russell, Dale A. (1989). An Odyssey in Time: Dinosaurs of North America. Minocqua, Wisconsin: NorthWord Press. pp. 160–164. ISBN 1-55971-038-1. 
+^ Bakker, Robert T. (1986). The Dinosaur Heresies: New Theories Unlocking the Mystery of the Dinosaurs and their Extinction. New York: William Morrow. p. 194. ISBN 0-8217-2859-8. 
+^ a b c Norman, David B. (1985). "Hadrosaurids II". The Illustrated Encyclopedia of Dinosaurs: An Original and Compelling Insight into Life in the Dinosaur Kingdom. New York: Crescent Books. pp. 122–127. ISBN 0-517-46890-5. 
+^ a b c d e Evans, David C. (2006). "Nasal cavity homologies and cranial crest function in lambeosaurine dinosaurs". Paleobiology 32 (1): 109–125. doi:10.1666/04027.1. Retrieved 2007-07-28. 
+^ a b c d Hopson, James A. (1975). "The evolution of cranial display structures in hadrosaurian dinosaurs". Paleobiology 1 (1): 21–43. 
+^ Romer, Alfred Sherwood (1933). Vertebrate Paleontology. University of Chicago Press. p. 491. OCLC 1186563. 
+^ Wilfarth, Martin (1947). "Russeltragende Dinosaurier". Orion (Munich) (in German) 2: 525–532. 
+^ Sternberg, Charles M. (1935). "Hooded hadrosaurs of the Belly River Series of the Upper Cretaceous". Canada Department of Mines Bulletin (Geological Series) 77 (52): 1–37. 
+^ Colbert, Edwin H. (1945). The Dinosaur Book: The Ruling Reptiles and their Relatives. New York: American Museum of Natural History, Man and Nature Publications, 14. p. 156. OCLC 691246. 
+^ Abel, Othenio (1924). "Die neuen Dinosaurierfunde in der Oberkreide Canadas". Jarbuch Naturwissenschaften (in German) 12 (36): 709–716. doi:10.1007/BF01504818. 
+^ Osmólska, Halszka (1979). "Nasal salt glands in dinosaurs". Acta Palaeontologica Polonica 24: 205–215. 
+^ a b Ostrom, John H. (1962). "The cranial crests of hadrosaurian dinosaurs". Postilla 62: 1–29. 
+^ Gish, Duane T. (1992). Dinosaurs by Design. Green Forest: Master Books. p. 82. ISBN 0-89051-165-9. 
+^ a b Weishampel, David B. (1981). "Acoustic analyses of potential vocalization in lambeosaurine dinosaurs (Reptilia:Ornithischia)". Paleobiology 7 (2): 252–261. 
+^ Weishampel, David B. (1981). "The nasal cavity of lambeosaurine hadrosaurids (Reptilia:Ornithischia): comparative anatomy and homologies". Journal of Paleontology 55 (5): 1046–1057. 
+^ Sandia National Laboratories (1997-12-05). "Scientists Use Digital Paleontology to Produce Voice of Parasaurolophus Dinosaur". Retrieved 2007-06-30. 
+^ Diegert, Carl F.; and Williamson, Thomas E. (1998). "A digital acoustic model of the lambeosaurine hadrosaur Parasaurolophus tubicen". Journal of Vertebrate Paleontology 18 (3, Suppl.): 38A. 
+^ Sullivan, Robert M.; and Williamson, Thomas E. (1996). "A new skull of Parasaurolophus (long-crested form) from New Mexico: external and internal (CT scans) features and their functional implications". Journal of Vertebrate Paleontology 16 (3, Suppl.): 68A. 
+^ Wheeler, P.E. (1978). "Elaborate CNS cooling structure in large dinosaurs". Nature 275 (5679): 441–443. doi:10.1038/275441a0. PMID 692723. 
+^ Maryańska, Teresa; and Osmólska, Halszka (1979). "Aspects of hadrosaurian cranial anatomy". Lethaia 12 (3): 265–273. doi:10.1111/j.1502-3931.1979.tb01006.x. 
+
+
+External links[edit]
+
+
+
+Wikimedia Commons has media related to Parasaurolophus.
+
+
+
+
+
+
+Dinosaurs portal
+
+
+
+
+Scientists Use Digital Paleontology to Produce Voice of Parasaurolophus Dinosaur; from Sandia National Laboratories.
+Restorations of P. walkeri and P. cyrtocristatus, to the same scale, by Scott Hartman; at Skeletal Drawing.com.
+
+
+
+    
+
+
+ 
+NewPP limit report
+CPU time usage: 3.888 seconds
+Real time usage: 4.127 seconds
+Preprocessor visited node count: 22850/1000000
+Preprocessor generated node count: 47236/1500000
+Post‐expand include size: 138022/2048000 bytes
+Template argument size: 23045/2048000 bytes
+Highest expansion depth: 26/40
+Expensive parser function count: 0/500
+Lua time usage: 0.132s
+Lua memory usage: 2.26 MB
+
+
+ Saved in parser cache with key enwiki:pcache:idhash:1973155-0!*!0!!en!4!* and timestamp 20131002130432 
+								
+				Retrieved from "http://en.wikipedia.org/w/index.php?title=Parasaurolophus&oldid=574647594"				
+												Categories: Cretaceous dinosaursDinosaurs of North AmericaHadrosaursHidden categories: Wikipedia indefinitely move-protected pagesArticles with 'species' microformatsFeatured articles												
+							
+		
+		
+			Navigation menu
+			
+				
+	Personal tools
+	
+Create accountLog in	
+
+				
+					
+	Namespaces
+	
+					Article
+					Talk
+			
+
+
+	
+		
+	Variants
+	
+		
+					
+	
+
+				
+				
+					
+	Views
+	
+					Read
+					Edit
+					View history
+			
+
+
+	Actions
+	
+		
+					
+	
+
+
+	Search
+	
+				
+																				
+		
+	
+
+				
+			
+			
+					
+				
+	Navigation
+	
+		
+			Main page
+			Contents
+			Featured content
+			Current events
+			Random article
+			Donate to Wikipedia
+		
+	
+
+
+	Interaction
+	
+		
+			Help
+			About Wikipedia
+			Community portal
+			Recent changes
+			Contact page
+		
+	
+
+
+	Toolbox
+	
+		
+			What links here
+			Related changes
+			Upload file
+			Special pages
+			Permanent link
+			Page information
+			Data item
+Cite this page		
+	
+
+
+	Print/export
+	
+		
+			Create a book
+			Download as PDF
+			Printable version
+		
+	
+
+
+	Languages
+	
+		
+			العربية
+			Български
+			Brezhoneg
+			Català
+			Česky
+			Dansk
+			Deutsch
+			Español
+			Esperanto
+			Euskara
+			Français
+			Galego
+			한국어
+			Italiano
+			עברית
+			Latviešu
+			Lëtzebuergesch
+			Lietuvių
+			Magyar
+			Nederlands
+			日本語
+			Norsk bokmål
+			Polski
+			Português
+			Română
+			Русский
+			Simple English
+			Slovenčina
+			Slovenščina
+			Српски / srpski
+			Suomi
+			Svenska
+			ไทย
+			Türkçe
+			Tiếng Việt
+			Žemaitėška
+			中文
+			
+			Edit links
+		
+	
+
+			
+		
+		
+							
+											 This page was last modified on 26 September 2013 at 19:46.
+											Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. 
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+									
+							
+											Privacy policy
+											About Wikipedia
+											Disclaimers
+											Contact Wikipedia
+											Developers
+											Mobile view
+									
+										
+					
+						
+					
+					
+						
+					
+				
+						
+		
+		
+
+
+ Served by mw1163 in 0.171 secs. 
+	
+if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Parasaurolophus","wgTitle":"Parasaurolophus","wgCurRevisionId":574647594,"wgArticleId":1973155,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Wikipedia indefinitely move-protected pages","Articles with 'species' microformats","Featured articles","Cretaceous dinosaurs","Dinosaurs of North America","Hadrosaurs"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Parasaurolophus","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":["sysop"],"wgVectorEnabledModules":{"collapsiblenav":true,"experiments":true},"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"templateEditor":false,"templates":false,"preview":false,"previewDialog":false,"publish":false,"toc":false},"wgArticleFeedbackv5Permissions":{"aft-reader":false,"aft-member":false,"aft-editor":false,"aft-monitor":false,"aft-administrator":false,"aft-oversighter":false,"aft-noone":false},"wgVisualEditor":{"isPageWatched":false,"magnifyClipIconURL":"//bits.wikimedia.org/static-1.22wmf18/skins/common/images/magnify-clip.png","pageLanguageCode":"en","pageLanguageDir":"ltr"},"wikilove-recipient":"","wikilove-anon":0,"wgGuidedTourHelpGuiderUrl":"Help:Guided tours/guider","wgULSAcceptLanguageList":["en-us","en"],"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia","aftv5Article":{"id":1973155,"title":"Parasaurolophus","namespace":0,"categories":["Articles with 'species' microformats","Cretaceous dinosaurs","Dinosaurs of North America","Featured articles","Hadrosaurs","Wikipedia indefinitely move-protected pages"],"permissionLevel":false},"wgWikibaseItemId":"Q203583"});
+}if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":false,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,
+"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"useeditwarning":1,"prefershttps":1,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"vector-simplesearch":1,"vector-collapsiblenav":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"aftv5-last-filter":null,"visualeditor-enable":0,"visualeditor-enable-experimental":0,"visualeditor-betatempdisable":0,"wikilove-enabled":1,"echo-subscriptions-web-page-review":true,"echo-subscriptions-email-page-review":false,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"echo-notify-show-link":true,"echo-show-alert":true,"echo-email-frequency":0,"echo-email-format":"html","echo-subscriptions-email-system":true,"echo-subscriptions-web-system":true,"echo-subscriptions-email-other":false,"echo-subscriptions-web-other":true,"echo-subscriptions-email-edit-user-talk":false,"echo-subscriptions-web-edit-user-talk":true,
+"echo-subscriptions-email-reverted":false,"echo-subscriptions-web-reverted":true,"echo-subscriptions-email-article-linked":false,"echo-subscriptions-web-article-linked":false,"echo-subscriptions-email-mention":false,"echo-subscriptions-web-mention":true,"echo-subscriptions-web-edit-thank":true,"echo-subscriptions-email-edit-thank":false,"gettingstarted-task-toolbar-show-intro":true,"uls-preferences":"","language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs446":false,"searchNs447":false
+,"searchNs710":false,"searchNs711":false,"searchNs828":false,"searchNs829":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-mySandbox":1,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:156d8fe0ae17f8afd74198057563e45d */
+}if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","ext.visualEditor.viewPageTarget.init","ext.wikimediaShopLink.core","ext.uls.init","ext.uls.interface","wikibase.client.init","ext.centralNotice.bannerController","skins.vector.js"]);
+}/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}if(window.mw){
+mw.loader.load(["mobile.desktop","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.cite","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","mw.MwEmbedSupport.style","ext.vector.collapsibleNav","ext.articleFeedbackv5.startup","ext.gettingstarted.logging","ext.gettingstarted.openTask","schema.HttpsSupport","ext.coreEvents.httpsSupport","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","mw.PopUpMediaTransform"],null,true);
+}

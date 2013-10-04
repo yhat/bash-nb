@@ -1,0 +1,365 @@
+
+
+
+Appalachiosaurus - Wikipedia, the free encyclopedia
+
+
+
+
+
+
+
+
+
+
+
+
+a:lang(ar),a:lang(ckb),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:0de201fdea5d684523607ed88007b127 */
+
+
+
+
+[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.22wmf18/skins/vector/csshover.min.htc")}</style><![endif]
+
+		
+		
+		
+			
+			
+						 CentralNotice 
+						Appalachiosaurus
+			
+								From Wikipedia, the free encyclopedia
+								
+												
+					Jump to:					navigation, 					search
+				
+				
+
+
+Appalachiosaurus
+Temporal range: Late Cretaceous, 77Ma
+
+PreЄ
+Є
+O
+S
+D
+C
+P
+T
+J
+K
+Pg
+N
+
+
+
+↓
+
+
+
+
+
+
+
+
+
+Reconstructed skeleton
+
+
+Scientific classification 
+
+
+Kingdom:
+Animalia
+
+
+Phylum:
+Chordata
+
+
+Clade:
+Sauropsida
+
+
+Clade:
+Dinosauria
+
+
+Clade:
+Theropoda
+
+
+Superfamily:
+†Tyrannosauroidea
+
+
+Genus:
+†Appalachiosaurus
+Carr et al., 2005
+
+
+Species:
+† A. montgomeriensis
+
+
+Binomial name
+
+
+Appalachiosaurus montgomeriensis
+Carr et al., 2005
+
+
+
+Appalachiosaurus (/ˌæpəˌleɪtʃi.ɵˈsɔrəs/ ap-ə-LAY-chee-o-SAWR-əs; "Appalachian lizard") is a genus of tyrannosauroid theropod dinosaur from the Late Cretaceous Period of eastern North America. Like almost all theropods, it was a bipedal predator. Only a juvenile skeleton has been found, representing an animal over 7 meters (23 ft) long and weighing over 600 kilograms (1300 lb), which indicates an adult would have been even larger. This species is notable as the most completely known theropod from the eastern part of North America.
+Fossils of Appalachiosaurus were found in central Alabama, from the Demopolis Chalk Formation. This formation dates to the middle of the Campanian stage of the Late Cretaceous, or around 77 million years ago.[1]
+
+
+Contents
+
+
+1 Name
+2 Description
+3 Classification
+4 Possible pathology
+5 In culture
+6 References
+
+
+Name[edit]
+This dinosaur was named after the region of the central United States known as Appalachia, which also gave its name to the ancient island continent on which Appalachiosaurus lived. Both are named after the Appalachian Mountains. The generic name also includes the Greek word sauros ("lizard"), the most common suffix used in dinosaur names. There is one known species, A. montgomeriensis, which is named after Montgomery County in the U.S. state of Alabama. Both genus and species were named in 2005 by paleontologists Thomas Carr, Thomas Williamson, and David Schwimmer (who is not to be confused with the actor of the same name).
+Description[edit]
+
+
+
+
+Restoration
+
+
+Appalachiosaurus is so far known from only partial remains, including parts of the skull and mandible (lower jaw), as well as several vertebrae, parts of the pelvis, and most of both hindlimbs. These remains are housed at the McWane Science Center in Birmingham, Alabama. There are several open sutures between bones of the skull, indicating that the animal was not an adult. Several elements are crushed, but the specimen is still informative and shows many unique characteristics, or apomorphies. Several of these apomorphies have been identified in the skull, and the claws of the feet show an unusual protrusion on the end closest to the body. A row of six low crests lines the top of the snout, similar to the Asian Alioramus, although most tyrannosaur species exhibit ornamentation to varying degrees on top of the snout. Appalachiosaurus is significantly different and more derived than another early tyrannosaur from eastern North America, Dryptosaurus.
+
+
+
+
+Outdated mount with large, three fingered forelimbs
+
+
+The forelimbs of Appalachiosaurus are poorly known. Large tyrannosaurids are characterized by proportionally small forelimbs and hands with two functional digits each; except some reports of a humerus ascribed to Appalachiosaurus, no forelimb material are known.[2] Early reconstructions gave it long arms with three fingers, but they are now thought to have been much shorter, with only two fingers. Museum mounts have been corrected accordingly.[3]
+Classification[edit]
+The only known specimen Appalachiosaurus was complete enough to be included in phylogenetic analyses using cladistics. The first was performed before the animal had had even been named, and found Appalachiosaurus to be a member of the albertosaurine subfamily of Tyrannosauridae, which also includes Albertosaurus and Gorgosaurus.[4] The original description also included a cladistic analysis, finding A. montgomeriensis to be a basal tyrannosauroid outside of Tyrannosauridae.[1] However, Asian tyrannosaurs like Alioramus, and Alectrosaurus were excluded, as was Eotyrannus from England. Earlier tyrannosaurs such as Dilong and Guanlong had not been described at the time this analysis was performed. These exclusions may have a significant effect on the phylogeny. To date, no analysis has been published which includes all known tyrannosauroid taxa.
+Possible pathology[edit]
+Two vertebrae of the tail were found to be fused together, possibly a result of new bone growth following some sort of injury.
+In culture[edit]
+The McWane Science Center (Birmingham, Alabama) exhibits a reconstructed skeleton of Appalachiosaurus.
+References[edit]
+
+
+
+
+Dinosaurs portal
+
+
+
+
+
+^ a b Carr, T.D.; Williamson, T.E.; Schwimmer, D.R. (2005). "A new genus and species of tyrannosauroid from the Late Cretaceous (middle Campanian) Demopolis Formation of Alabama". Journal of Vertebrate Paleontology 25 (1): 119–143. doi:10.1671/0272-4634(2005)025[0119:ANGASO]2.0.CO;2. 
+^ Jovanelly T.J. & Lane L. (2012), "Comparison of the Functional Morphology of Appalachiosaurus and Albertosaurus", The Open Geology Journal 6: p. 65-71.
+^ http://www.daily-tribune.com/view/full_story/21185340/article-Tellus--Appalachiosaurus-to-receive-shorter-arms-Friday
+^ Holtz, T.R. (2004). "Tyrannosauroidea." In: Weishampel, D.A., Dodson, P., & Osmolska, H. (Eds.). The Dinosauria (2nd Edition). Berkeley: University of California Press. Pp. 111–136.
+
+
+
+
+ 
+NewPP limit report
+CPU time usage: 5.544 seconds
+Real time usage: 5.915 seconds
+Preprocessor visited node count: 30637/1000000
+Preprocessor generated node count: 43131/1500000
+Post‐expand include size: 127305/2048000 bytes
+Template argument size: 111576/2048000 bytes
+Highest expansion depth: 39/40
+Expensive parser function count: 0/500
+Lua time usage: 0.034s
+Lua memory usage: 1.12 MB
+
+
+ Saved in parser cache with key enwiki:pcache:idhash:3417958-0!*!0!!en!4!* and timestamp 20131002141009 
+								
+				Retrieved from "http://en.wikipedia.org/w/index.php?title=Appalachiosaurus&oldid=557849573"				
+												Categories: Cretaceous dinosaursDinosaurs of North AmericaFossil taxa described in 2005TyrannosaursHidden categories: Articles with 'species' microformats												
+							
+		
+		
+			Navigation menu
+			
+				
+	Personal tools
+	
+Create accountLog in	
+
+				
+					
+	Namespaces
+	
+					Article
+					Talk
+			
+
+
+	
+		
+	Variants
+	
+		
+					
+	
+
+				
+				
+					
+	Views
+	
+					Read
+					Edit
+					View history
+			
+
+
+	Actions
+	
+		
+					
+	
+
+
+	Search
+	
+				
+																				
+		
+	
+
+				
+			
+			
+					
+				
+	Navigation
+	
+		
+			Main page
+			Contents
+			Featured content
+			Current events
+			Random article
+			Donate to Wikipedia
+		
+	
+
+
+	Interaction
+	
+		
+			Help
+			About Wikipedia
+			Community portal
+			Recent changes
+			Contact page
+		
+	
+
+
+	Toolbox
+	
+		
+			What links here
+			Related changes
+			Upload file
+			Special pages
+			Permanent link
+			Page information
+			Data item
+Cite this page		
+	
+
+
+	Print/export
+	
+		
+			Create a book
+			Download as PDF
+			Printable version
+		
+	
+
+
+	Languages
+	
+		
+			Català
+			Česky
+			Español
+			Français
+			Italiano
+			Magyar
+			Nederlands
+			Polski
+			Português
+			Slovenčina
+			Svenska
+			中文
+			
+			Edit links
+		
+	
+
+			
+		
+		
+							
+											 This page was last modified on 1 June 2013 at 16:18.
+											Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. 
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+									
+							
+											Privacy policy
+											About Wikipedia
+											Disclaimers
+											Contact Wikipedia
+											Developers
+											Mobile view
+									
+										
+					
+						
+					
+					
+						
+					
+				
+						
+		
+		
+
+
+ Served by mw1038 in 0.179 secs. 
+	
+if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Appalachiosaurus","wgTitle":"Appalachiosaurus","wgCurRevisionId":557849573,"wgArticleId":3417958,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with 'species' microformats","Cretaceous dinosaurs","Dinosaurs of North America","Fossil taxa described in 2005","Tyrannosaurs"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Appalachiosaurus","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgVectorEnabledModules":{"collapsiblenav":true,"experiments":true},"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"templateEditor":false,"templates":false,"preview":false,"previewDialog":false,"publish":false,"toc":false},"wgArticleFeedbackv5Permissions":{"aft-reader":true,"aft-member":false,"aft-editor":false,"aft-monitor":false,"aft-administrator":false,"aft-oversighter":false,"aft-noone":false},"wgVisualEditor":{"isPageWatched":false,"magnifyClipIconURL":"//bits.wikimedia.org/static-1.22wmf18/skins/common/images/magnify-clip.png","pageLanguageCode":"en","pageLanguageDir":"ltr"},"wikilove-recipient":"","wikilove-anon":0,"wgGuidedTourHelpGuiderUrl":"Help:Guided tours/guider","wgULSAcceptLanguageList":[],"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia","aftv5Article":{"id":3417958,"title":"Appalachiosaurus","namespace":0,"categories":["Articles with 'species' microformats","Cretaceous dinosaurs","Dinosaurs of North America","Fossil taxa described in 2005","Tyrannosaurs"],"permissionLevel":false},"wgWikibaseItemId":"Q773996"});
+}if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":false,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,
+"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"useeditwarning":1,"prefershttps":1,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"vector-simplesearch":1,"vector-collapsiblenav":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"aftv5-last-filter":null,"visualeditor-enable":0,"visualeditor-enable-experimental":0,"visualeditor-betatempdisable":0,"wikilove-enabled":1,"echo-subscriptions-web-page-review":true,"echo-subscriptions-email-page-review":false,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"echo-notify-show-link":true,"echo-show-alert":true,"echo-email-frequency":0,"echo-email-format":"html","echo-subscriptions-email-system":true,"echo-subscriptions-web-system":true,"echo-subscriptions-email-other":false,"echo-subscriptions-web-other":true,"echo-subscriptions-email-edit-user-talk":false,"echo-subscriptions-web-edit-user-talk":true,
+"echo-subscriptions-email-reverted":false,"echo-subscriptions-web-reverted":true,"echo-subscriptions-email-article-linked":false,"echo-subscriptions-web-article-linked":false,"echo-subscriptions-email-mention":false,"echo-subscriptions-web-mention":true,"echo-subscriptions-web-edit-thank":true,"echo-subscriptions-email-edit-thank":false,"gettingstarted-task-toolbar-show-intro":true,"uls-preferences":"","language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs446":false,"searchNs447":false
+,"searchNs710":false,"searchNs711":false,"searchNs828":false,"searchNs829":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-mySandbox":1,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:156d8fe0ae17f8afd74198057563e45d */
+}if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","ext.visualEditor.viewPageTarget.init","ext.wikimediaShopLink.core","ext.uls.init","ext.uls.interface","wikibase.client.init","ext.centralNotice.bannerController","skins.vector.js"]);
+}/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}if(window.mw){
+mw.loader.load(["mobile.desktop","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.cite","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","mw.MwEmbedSupport.style","ext.vector.collapsibleNav","ext.articleFeedbackv5.startup","ext.gettingstarted.logging","ext.gettingstarted.openTask","schema.HttpsSupport","ext.coreEvents.httpsSupport","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","mw.PopUpMediaTransform"],null,true);
+}

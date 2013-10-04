@@ -1,0 +1,825 @@
+
+
+
+Mothman - Wikipedia, the free encyclopedia
+
+
+
+
+
+
+
+
+
+
+
+
+a:lang(ar),a:lang(ckb),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:0de201fdea5d684523607ed88007b127 */
+
+
+
+
+[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.22wmf18/skins/vector/csshover.min.htc")}</style><![endif]
+
+		
+		
+		
+			
+			
+						 CentralNotice 
+						Mothman
+			
+								From Wikipedia, the free encyclopedia
+								
+												
+					Jump to:					navigation, 					search
+				
+				For other uses, see Mothman (disambiguation).
+
+Mothman
+
+
+A stainless steel statue of the Mothman.
+
+
+
+First reported
+16 November 1966
+
+
+Country
+United States
+
+
+Region
+Point Pleasant, West Virginia
+
+
+
+Mothman is a legendary creature reportedly seen in the Point Pleasant area of West Virginia from 15 November 1966 to 15 December 1967. The first newspaper report was published in the Point Pleasant Register dated 16 November 1966, titled "Couples See Man-Sized Bird...Creature...Something".[1]
+Mothman was introduced to a wider audience by Gray Barker in 1970,[2][3] later popularized by John Keel in his 1975 book The Mothman Prophecies, claiming that Mothman was related to a wide array of supernatural events in the area and the collapse of the Silver Bridge. The 2002 film The Mothman Prophecies, starring Richard Gere, was based on Keel's book.[4]
+
+
+Contents
+
+
+1 History
+
+1.1 Claims of later sightings
+
+
+2 Explanations
+
+2.1 Paranormal
+2.2 Skepticism
+
+
+3 Festivals and statue
+4 Popular culture
+
+4.1 Music
+4.2 Film
+4.3 Books
+
+
+5 See also
+6 References
+7 External links
+
+
+History[edit]
+On November 12, 1966, five men who were digging a grave at a cemetery near Clendenin, WV claimed to see a man-like figure fly low from the trees over their heads.[5] This is often attributed as the first known sighting of what would become known as the Mothman.
+Shortly thereafter, on November 15, 1966, two young couples from Point Pleasant, Roger and Linda Scarberry, and Steve and Mary Mallette told police they saw a large white creature whose eyes "glowed red" when the car headlights picked it up. They described it as a " large flying man with ten-foot wings following their car while they were driving in an area outside of town known as 'the TNT area', the site of a former World War II munitions plant.[6][7]
+During the next few days, other people reported similar sightings. Two volunteer firemen who sighted it said it was a "large bird with red eyes". Mason County Sheriff George Johnson commented that he believed the sightings were due to an unusually large heron he termed a "shitepoke". Contractor Newell Partridge told Johnson that when he aimed a flashlight at a creature in a nearby field its eyes glowed "like bicycle reflectors", and blamed buzzing noises from his television set and the disappearance of his German Shepherd dog on the creature.[8] Wildlife biologist Dr. Robert L. Smith at West Virginia University told reporters that descriptions and sightings all fit the Sandhill Crane, a large American crane almost as high as a man with a seven foot wingspan featuring circles of reddish coloring around the eyes, and that the bird may have wandered out of its migration route.
+There were no Mothman reports in the immediate aftermath of the December 15, 1967 collapse of the Silver Bridge and the death of 46 people,[9] giving rise to legends that the Mothman sightings and the bridge collapse were connected.[8][10][11]
+Claims of later sightings[edit]
+Ufologist Jerome Clark writes that many years after the initial events, members of the Ohio UFO Investigators League re-interviewed several people who claimed to have seen Mothman, all of whom insisted their stories were accurate. Linda Scarberry claimed that she and her husband had seen Mothman "hundreds of times, " sometimes at close range, commenting, "It seems like it doesn’t want to hurt you. It just wants to communicate with you. "[12]
+Cryptozoologist Loren Coleman claims that sightings of Mothman continue, and told USA Today he re-interviewed witnesses described in Keel's book who said Mothman was "a huge creature about 7 feet tall with huge wings and red eyes" and that "they could see the creature flapping right behind them" as they fled from it.[13]
+Explanations[edit]
+Paranormal[edit]
+Some ufologists, paranormal authors, and cryptozoologists believe that Mothman was an alien, a supernatural manifestation, or an unknown cryptid. In his 1975 book The Mothman Prophecies, author John Keel claimed that the Point Pleasant residents experienced precognitions including premonitions of the collapse of the Silver Bridge, unidentified flying object sightings, visits from mysterious or threatening men in black, and other bizarre phenomena. However, Keel has been criticized for distorting established data, and for gullibility.[12]
+Skepticism[edit]
+Skeptic Joe Nickell says that a number of hoaxes followed the publicity generated by the original reports, such as a group of construction workers who tied red flashlights to helium balloons. Nickell attributes the Mothman reports to pranks, misidentified planes, and sightings of a barred owl, an albino owl, suggesting that the Mothman's "glowing eyes" were actually red-eye effect caused from the reflection of light from flashlights or other bright light sources. The area lies outside the snowy owl's usual range and locals, unfamiliar with such a large owl, could have misidentified the bird.[6]
+Folklorist Jan Harold Brunvand notes that Mothman has been widely covered in the popular press, some claiming sightings connected with UFOs, and others claiming that a military storage site was Mothman's "home". Brunvand notes that recountings of the 1966-67 Mothman reports usually state that at least 100 people saw Mothman with many more "afraid to report their sightings", but observed that written sources for such stories consisted of children's books or sensationalized or undocumented accounts that fail to quote identifiable persons. Brunvand found elements in common among many Mothman reports and much older folk tales, suggesting that something real may have triggered the scares and became woven with existing folklore. He also records anecdotal tales of Mothman supposedly attacking the roofs of parked cars inhabited by teenagers.[14]
+Festivals and statue[edit]
+Point Pleasant held its first Annual Mothman Festival in 2002 and a 12-foot-tall metallic statue of the creature, created by artist and sculptor Bob Roach, was unveiled in 2003. The Mothman Museum and Research Center opened in 2005 and is run by Jeff Wamsley.[15][16][17] The Festival is a weekend-long event held on the 3rd weekend of every September. There are a variety of events that go on during the festival such as guest speakers, vendor exhibits, a mothman pancake eating contest, and hayride tours focusing on the notable areas of Point Pleasant.[10]
+Popular culture[edit]
+
+In Season 5, Episode 4 of The X-Files, Detour, Agent Mulder hypothesizes that the supernatural events occurring may be related to the creature. However, Mulder refers to a group of creatures called the Mothmen as opposed to a singular Mothman.
+In Episode 2 of the short-lived TV series X-Testers, the researchers attempted to duplicate alleged photographs of Mothman.[18]
+In the Ben 10 Franchise, one of Ben's aliens Big Chill, is based off the Mothman's physical appearance, although he's blue in colour.
+The Luminoth, a tribe of mothlike humanoid creatures appearing in Metroid Prime 2: Echoes for the Nintendo Gamecube may also considered to be some kind of mothmen.
+In the video game Castlevania: Dawn of Sorrow, Mothman is one of three Cryptozoology-based monsters along with the Yeti and the Flying Humanoid. It also appears again as an enemy in Castlevania: Portrait of Ruin.
+In the Shin Megami Tensei series of video games, Mothman often appears as a demon that the main characters can use as an ally.
+Mothman appears in an episode of Lost Tapes.
+Mothman is the alias of Byron Lewis in Alan Moore's graphic novel Watchmen.
+On the television show Invader Zim the character Dib is a member of a clandestine organization called The Swollen Eye where his code name is "Mothman".
+In the Anime "Occult Academy",one of the characters is said to be attacked by mothmen.
+In the game GTA: San Andreas, the Mothman is said to be located in the desert.
+
+Music[edit]
+
+The Mothman is the subject of the Blitzkid song "Genus Unknown. "
+The Italian hardcore punk band Ekidna Orgy dedicated to Mothman a song of the same name.
+
+Film[edit]
+
+The Mothman Prophecies (2002)
+Mothman (2010), a Syfy original movie
+Eyes of the Mothman (2011), a documentary about the Mothman sightings
+"Mothman Country" (2011), a documentary about Pt. Pleasant's contemporary relationship with the Mothman
+
+Books[edit]
+
+Barker, Gray The Silver Bridge (Saucerian Books, 1970). Reprinted in 2008 entitled The Silver Bridge: The Classic Mothman Tale (BookSurge Publishing). ISBN 1-4392-0427-6
+Coleman, L. Mothman and Other Curious Encounters. (2002). ISBN 978-1-931044-34-9 (or ISBN 1-931044-34-1)
+Colvin, Andrew The Mothman's Photographer: The Work of an Artist Touched by the Prophecies of the Infamous Mothman (2007). ISBN 978-1-4196-5265-3
+Colvin, Andrew The Mothman's Photographer II: Meetings With Remarkable Witnesses Touched by Paranormal Phenomena, UFOs, and the Prophecies of West Virginia's Infamous Mothman (2007). ISBN 978-1-4196-5266-0
+Sergent, Jr., Donnie Mothman: The Facts Behind the Legend (2001) ISBN 978-0-9667246-7-7
+Fear, Brad A Macabre Myth of a Moth-Man (2008) ISBN 978-1-4389-0263-0
+Keel, John A. The Mothman Prophecies (2007). ISBN 0-7653-4197-2 (Originally published in 1975 by Saturday Review Press)
+Keel, John A. The Eighth Tower (1977). ISBN 978-0-451-07460-7
+Myers, Bill. Angel of Wrath: A Novel (2009). ISBN 978-0-446-69800-9
+Ressel, Steve. Perverted Communion (2010). ISBN 978-0-9787483-5-7
+Rust, John J. Dark Wings (2011) ISBN 978-1-4658-4541-2
+Wood, Jen A. Point Pleasant (2013) ISBN 978-1492121602
+
+See also[edit]
+
+Apparitional experience
+Flatwoods monster
+Owlman
+
+References[edit]
+
+
+^ "Couples See Man-Sized Bird...Creature...Something". Point Pleasant Register Point Pleasant, WV Wednesday, November 16, 1966. WestVA.Net, Mark Turner. Retrieved 27 January 2012. 
+^ Skeptical Inquirer, Volume 33 (Pennsylvania State University, Committee for the Scientific Investigation of Claims of the Paranormal., 2009).
+^ Gray Barker, The Silver Bridge (Saucerian Books, 1970). Reprinted in 2008 entitled The Silver Bridge: The Classic Mothman Tale (BookSurge Publishing). ISBN 1-4392-0427-6
+^ Paul Meehan, Cinema of the Psychic Realm: A Critical Survey, page 130 (McFarland & Company, Inc., 2009). ISBN 978-0-7864-3966-9
+^ http://www.wvcommerce.org/news/story/First-sighting-of-the-Mothman/1215/default.aspx
+^ a b Joe Nickell (April 2004). The Mystery Chronicles: More Real-Life X-Files. University Press of Kentucky. pp. 93–. ISBN 978-0-8131-2318-9. Retrieved 21 August 2011. 
+^ UPDATE: Munitions Risk Closes Part of Wildlife Area Again (retrieved 8 February 2012)]
+^ a b Associated Press (Dec 1, 1966). "Monster Bird With Red Eyes May Be Crane". Gettysburg Times. Retrieved 21 August 2011. 
+^ Herald Dispatch
+^ a b Associated Press (Jan 19 2008). "Mothman' still a frighteningly big draw for tourists". Toronto Star. Retrieved 21 August 2011. 
+^ UPI (Nov 18, 1966). "Eight People Say They Saw 'Creature'". Williamson (WV) Daily News. Retrieved 22 August 2011. 
+^ a b Clark, Jerome (2000). Extraordinary Encounters: An Encyclopedia of Extraterrestrials and Otherworldly Beings Santa Barbara, California: ABC-Clio, ISBN 1-57607-249-5, pp. 178-179.
+^ Schaefer, Stephen (2002-01-23). "Mothman' sightings will continue". USA Today. Retrieved 21 August 2011. 
+^ Jan Harold Brunvand (1 October 1994). The baby train and other lusty urban legends. W. W. Norton & Company. pp. 98–. ISBN 978-0-393-31208-9. Retrieved 21 August 2011. 
+^ Mothman Statue
+^ Mark Moran, Mark Sceurman, Matt Lake, Weird U. S. The ODDyssey Continues - Your Travel Guide to America's Local Legends and Best Kept Secrets, page 260 (New York: Sterling Publishing Co., Inc., 2008). ISBN 978-1-4027-4544-7
+^ "Legend of the Mothman" plaque on base of statue
+^ "Episode List". X-Testers. Retrieved 21 August 2011. 
+
+
+http://www.herald-dispatch.com/specialsections/100years/x2054232791/Gallery-The-collapse-of-the-Silver-Bridge
+External links[edit]
+
+Skeptoid Podcast
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Cryptozoology and cryptobotany
+
+
+
+
+
+
+
+
+
+
+ 
+Overview
+
+
+
+
+
+
+
+
+
+
+
+Core topics
+
+
+
+
+Cryptid
+List of cryptids
+Zoology
+Botany
+Megafauna discovered in modern times
+Pseudoscience
+
+
+
+
+
+
+
+
+
+Cryptozoologists
+
+
+
+
+Bernard Heuvelmans
+Karl Shuker
+Jonathan Downes
+Jon-Erik Beckjord
+John Bindernagel
+Richard Freeman
+Loren Coleman
+Alexandr Mikhailovych Kondratov
+Roy Mackal
+Ivan T. Sanderson
+Organizations
+
+
+
+
+
+
+
+
+
+Books and television
+
+
+
+
+Animal X
+Arthur C. Clarke's Mysterious World
+Beast Hunter
+Beast Legends
+Destination Truth
+Fact or Faked: Paranormal Files
+Fortean TV
+In Search of...
+Is It Real?
+Lost Tapes
+MonsterQuest
+On the Track of Unknown Animals
+Sasquatch: Legend Meets Science
+The X Creatures
+The Secret Saturdays
+Weird Travels
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Zoological cryptids
+
+
+
+
+
+
+
+
+
+
+
+Africa
+
+
+
+
+Adjule
+Agogwe
+Emela-ntouka
+Ennedi tiger
+Gambo
+Grootslang
+Gustave
+Inkanyamba
+Kongamato
+Mbielu-Mbielu-Mbielu
+Mokele-mbembe
+Malawi terror beast
+Mamlambo
+Muhuru
+Nandi Bear
+Ngoubou
+Olitiau
+Nguma-monene
+Popobawa
+Salawa
+Trunko
+Zanzibar Leopard
+
+
+
+
+
+
+
+
+
+Asia
+
+
+
+
+Ahool
+Akkorokamui
+Almas
+Amomongo
+Ayia Napa sea monster
+Barmanou
+Batutut
+Bergman's Bear
+Brosno dragon
+Bukit Timah Monkey Man
+Buru
+Cat-fox
+Devil Bird
+Hibagon
+Issie
+Kappa
+Kting Voar
+Kussie
+Lake Tianchi Monster
+Lake Van Monster
+Maltese Tiger
+Mongolian Death Worm
+Monkey-man of Delhi
+Orang Pendek
+Phaya Naga
+Qilin
+Ropen
+Sigbin
+Sarimanok
+Sumxu
+Tsuchinoko
+Veo
+Yeren
+Yeti
+
+
+
+
+
+
+
+
+
+Australasia-
+Oceania
+
+
+
+
+Amomongo
+Blue Mountains panther
+Bunyip
+Ebu Gogo
+Four Mile Globster
+Gippsland phantom cat
+Globster
+Manaul
+Megalania
+Moehau
+Zuiyo-maru carcass
+New Zealand Globster
+Queensland Tiger
+Siyokoy
+Tasmanian Globster
+Thylacoleo
+Tikbalang
+Waitoreke
+Yowie
+
+
+
+
+
+
+
+
+
+Europe
+
+
+
+
+Afanc
+Ayia Napa sea monster
+Beast of Gévaudan
+Bishop-fish
+British big cats
+Canvey Island Monster
+Dahu
+Dobhar-chú
+Each uisge
+Eachy
+Elwetritsch
+Fear liath
+Fish-man of Liérganes
+Giglioli's Whale
+Hebrides Blob
+Jenny Haniver
+Kellas Cat
+Kraken
+Lagarfljót Worm
+Lariosauro
+Lindworm
+Loch Ness Monster
+Morag
+Morgawr
+Muc-sheilch
+Owlman
+Sea monk
+Sea serpent
+Selma
+Skvader
+Storsjöodjuret
+Stronsay Beast
+Tatzelwurm
+Wolpertinger
+
+
+
+
+
+
+
+
+
+North
+America
+
+
+
+
+Altamaha-ha
+Bear Lake Monster
+Beast of Bladenboro
+Beast of Bray Road
+Beast of Busco
+Bermuda Blob
+Bermuda Blob 2
+Bessie
+Bigfoot
+Cadborosaurus willsi
+Champ
+Chessie
+Chupacabra
+Crawfordsville monster
+Dover Demon
+Flatwoods monster
+Fouke Monster
+Goatman
+Grassman
+Hodag
+Homo gardarensis
+Honey Island Swamp monster
+Hoop snake
+Huay Chivo
+Igopogo
+Iliamna Lake Monster
+Jersey Devil
+Kingstie
+Lake Worth Monster
+Lizard Man of Scape Ore Swamp
+Loveland frog
+Lusca
+MacFarlane's bear
+Manipogo
+Melon heads
+Michigan Dogman
+Minnesota Iceman
+Momo the Monster
+Montauk Monster
+Mothman
+Mussie
+Nantucket Blob
+Newfoundland Blob
+Nuk-luk
+Ogopogo
+Old Yellow Top
+Ozark Howler
+Panama Creature
+Pope Lick Monster
+Shunka Warakin
+Sidehill gouger
+Skunk Ape
+St. Augustine Monster
+Tahoe Tessie
+Thunderbird
+Trinity Alps giant salamander
+Tsul 'Kalu
+Turtle Lake Monster
+Waheela
+Wampus cat
+
+
+
+
+
+
+
+
+
+South
+America
+
+
+
+
+Ameranthropoides loysi
+Andean Wolf
+Bloop
+Cherufe
+Chilean Blob
+Chupacabra
+Giant anaconda
+Mapinguari
+Minhocão
+Mono Grande
+Mylodon
+Nahuelito
+Peuchen
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Botanical cryptids
+
+
+
+
+
+
+
+
+
+Raskovnik
+Man-eating tree
+Umdhlebi
+Vegetable Lamb of Tartary
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+NewPP limit report
+CPU time usage: 1.152 seconds
+Real time usage: 1.212 seconds
+Preprocessor visited node count: 2310/1000000
+Preprocessor generated node count: 16728/1500000
+Post‐expand include size: 117485/2048000 bytes
+Template argument size: 14401/2048000 bytes
+Highest expansion depth: 13/40
+Expensive parser function count: 2/500
+Lua time usage: 0.126s
+Lua memory usage: 2.12 MB
+
+
+ Saved in parser cache with key enwiki:pcache:idhash:18600363-0!*!0!!en!4!* and timestamp 20131003171121 
+								
+				Retrieved from "http://en.wikipedia.org/w/index.php?title=Mothman&oldid=575605467"				
+												Categories: Alleged UFO-related entitiesAmerican folklore legendary creaturesFlying cryptidsHumanoid cryptidsMason County, West VirginiaMysteriesAmerican folkloreCryptozoologyHidden categories: Wikipedia pages move-protected due to vandalism												
+							
+		
+		
+			Navigation menu
+			
+				
+	Personal tools
+	
+Create accountLog in	
+
+				
+					
+	Namespaces
+	
+					Article
+					Talk
+			
+
+
+	
+		
+	Variants
+	
+		
+					
+	
+
+				
+				
+					
+	Views
+	
+					Read
+					Edit
+					View history
+			
+
+
+	Actions
+	
+		
+					
+	
+
+
+	Search
+	
+				
+																				
+		
+	
+
+				
+			
+			
+					
+				
+	Navigation
+	
+		
+			Main page
+			Contents
+			Featured content
+			Current events
+			Random article
+			Donate to Wikipedia
+		
+	
+
+
+	Interaction
+	
+		
+			Help
+			About Wikipedia
+			Community portal
+			Recent changes
+			Contact page
+		
+	
+
+
+	Toolbox
+	
+		
+			What links here
+			Related changes
+			Upload file
+			Special pages
+			Permanent link
+			Page information
+			Data item
+Cite this page		
+	
+
+
+	Print/export
+	
+		
+			Create a book
+			Download as PDF
+			Printable version
+		
+	
+
+
+	Languages
+	
+		
+			العربية
+			Български
+			Dansk
+			Deutsch
+			Español
+			Français
+			한국어
+			Bahasa Indonesia
+			Íslenska
+			Italiano
+			עברית
+			Lietuvių
+			Nederlands
+			日本語
+			Norsk bokmål
+			Polski
+			Português
+			Русский
+			Slovenščina
+			Suomi
+			Svenska
+			ไทย
+			Tiếng Việt
+			中文
+			
+			Edit links
+		
+	
+
+			
+		
+		
+							
+											 This page was last modified on 3 October 2013 at 17:11.
+											Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. 
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+									
+							
+											Privacy policy
+											About Wikipedia
+											Disclaimers
+											Contact Wikipedia
+											Developers
+											Mobile view
+									
+										
+					
+						
+					
+					
+						
+					
+				
+						
+		
+		
+
+
+ Served by mw1031 in 0.219 secs. 
+	
+if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Mothman","wgTitle":"Mothman","wgCurRevisionId":575605467,"wgArticleId":18600363,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Wikipedia pages move-protected due to vandalism","Alleged UFO-related entities","American folklore legendary creatures","Flying cryptids","Humanoid cryptids","Mason County, West Virginia","Mysteries","American folklore","Cryptozoology"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Mothman","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":["sysop"],"wgVectorEnabledModules":{"collapsiblenav":true,"experiments":true},"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"templateEditor":false,"templates":false,"preview":false,"previewDialog":false,"publish":false,"toc":false},"wgArticleFeedbackv5Permissions":{"aft-reader":false,"aft-member":false,"aft-editor":false,"aft-monitor":false,"aft-administrator":false,"aft-oversighter":false,"aft-noone":false},"wgVisualEditor":{"isPageWatched":false,"magnifyClipIconURL":"//bits.wikimedia.org/static-1.22wmf18/skins/common/images/magnify-clip.png","pageLanguageCode":"en","pageLanguageDir":"ltr"},"wikilove-recipient":"","wikilove-anon":0,"wgGuidedTourHelpGuiderUrl":"Help:Guided tours/guider","wgULSAcceptLanguageList":[],"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia","aftv5Article":{"id":18600363,"title":"Mothman","namespace":0,"categories":["Alleged UFO-related entities","American folklore","American folklore legendary creatures","Cryptozoology","Flying cryptids","Humanoid cryptids","Mason County, West Virginia","Mysteries","Wikipedia pages move-protected due to vandalism"],"permissionLevel":false},"wgWikibaseItemId":"Q746248"});
+}if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":false,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,
+"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"useeditwarning":1,"prefershttps":1,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"vector-simplesearch":1,"vector-collapsiblenav":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"aftv5-last-filter":null,"visualeditor-enable":0,"visualeditor-enable-experimental":0,"visualeditor-betatempdisable":0,"wikilove-enabled":1,"echo-subscriptions-web-page-review":true,"echo-subscriptions-email-page-review":false,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"echo-notify-show-link":true,"echo-show-alert":true,"echo-email-frequency":0,"echo-email-format":"html","echo-subscriptions-email-system":true,"echo-subscriptions-web-system":true,"echo-subscriptions-email-other":false,"echo-subscriptions-web-other":true,"echo-subscriptions-email-edit-user-talk":false,"echo-subscriptions-web-edit-user-talk":true,
+"echo-subscriptions-email-reverted":false,"echo-subscriptions-web-reverted":true,"echo-subscriptions-email-article-linked":false,"echo-subscriptions-web-article-linked":false,"echo-subscriptions-email-mention":false,"echo-subscriptions-web-mention":true,"echo-subscriptions-web-edit-thank":true,"echo-subscriptions-email-edit-thank":false,"gettingstarted-task-toolbar-show-intro":true,"uls-preferences":"","language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs446":false,"searchNs447":false
+,"searchNs710":false,"searchNs711":false,"searchNs828":false,"searchNs829":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-mySandbox":1,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:156d8fe0ae17f8afd74198057563e45d */
+}if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","ext.visualEditor.viewPageTarget.init","ext.wikimediaShopLink.core","ext.uls.init","ext.uls.interface","wikibase.client.init","ext.centralNotice.bannerController","skins.vector.js"]);
+}/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}if(window.mw){
+mw.loader.load(["mobile.desktop","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.cite","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","mw.MwEmbedSupport.style","ext.vector.collapsibleNav","ext.articleFeedbackv5.startup","ext.gettingstarted.logging","ext.gettingstarted.openTask","schema.HttpsSupport","ext.coreEvents.httpsSupport","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","mw.PopUpMediaTransform"],null,true);
+}

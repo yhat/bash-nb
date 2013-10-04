@@ -1,0 +1,1887 @@
+
+
+
+Triassic - Wikipedia, the free encyclopedia
+
+
+
+
+
+
+
+
+
+
+
+
+a:lang(ar),a:lang(ckb),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:0de201fdea5d684523607ed88007b127 */
+
+
+
+
+[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.22wmf18/skins/vector/csshover.min.htc")}</style><![endif]
+
+		
+		
+		
+			
+			
+						 CentralNotice 
+						Triassic
+			
+								From Wikipedia, the free encyclopedia
+								
+												
+					Jump to:					navigation, 					search
+				
+				
+
+Triassic Period
+252.2–201.3 million years ago
+
+PreЄ
+Є
+O
+S
+D
+C
+P
+T
+J
+K
+Pg
+N
+
+
+
+
+
+
+
+
+Mean atmospheric O
+2 content over period duration
+ca. 16 Vol %[1]
+(80 % of modern level)
+
+
+Mean atmospheric CO
+2 content over period duration
+ca. 1750 ppm[2]
+(6 times pre-industrial level)
+
+
+Mean surface temperature over period duration
+ca. 17 °C[3]
+(3 °C above modern level)
+
+
+
+
+The Triassic is a geologic period and system that extends from about 250 to 200 Ma (252.2 ± 0.5 to 201.3 ± 0.2 million years ago). It is the first period of the Mesozoic Era, and lies between the Permian and Jurassic periods. Both the start and end of the period are marked by major extinction events. The Triassic was named in 1834 by Friedrich von Alberti, after the three distinct rock layers (tri meaning "three") that are found throughout Germany and northwestern Europe—red beds, capped by chalk, followed by black shales—called the "Trias."[4]
+The Triassic began in the wake of the Permian–Triassic extinction event, which left the Earth's biosphere impoverished; it would take well into the middle of the period for life to recover its former diversity. Therapsids and archosaurs were the chief terrestrial vertebrates during this time. A specialized subgroup of archosaurs, dinosaurs, first appeared in the Late Triassic but did not become dominant until the succeeding Jurassic.[5] The first true mammals, themselves a specialized subgroup of Therapsids also evolved during this period, as well as the first flying vertebrates, the pterosaurs, who like the dinosaurs were a specialized subgroup of archosaurs. The vast supercontinent of Pangaea existed until the mid-Triassic, after which it began to gradually rift into two separate landmasses, Laurasia to the north and Gondwana to the south. The global climate during the Triassic was mostly hot and dry,[6] with deserts spanning much of Pangaea's interior. However, the climate shifted and became more humid as Pangaea began to drift apart. The end of the period was marked by yet another major mass extinction, wiping out many groups and allowing dinosaurs to assume dominance in the Jurassic.
+
+
+Contents
+
+
+1 Dating and subdivisions
+2 Paleogeography
+
+2.1 Africa
+2.2 South America
+
+
+3 Climate
+4 Life
+
+4.1 Flora
+4.2 Marine fauna
+4.3 Terrestrial fauna
+
+
+5 Coal
+6 Lagerstätten
+7 Triassic-Jurassic extinction event
+8 See also
+9 Notes
+10 References
+11 External links
+
+
+Dating and subdivisions[edit]
+
+Key events in the Triassic
+
+view • discuss • edit
+
+-255 —
+–
+-250 —
+–
+-245 —
+–
+-240 —
+–
+-235 —
+–
+-230 —
+–
+-225 —
+–
+-220 —
+–
+-215 —
+–
+-210 —
+–
+-205 —
+–
+-200 —
+
+
+
+
+P
+a
+l
+e
+o
+z
+o
+i
+c
+
+
+M
+e
+s
+o
+z
+o
+i
+c
+
+
+Permian
+
+
+T
+r
+i
+a
+s
+s
+i
+c
+
+
+Jurassic
+
+
+E
+a
+r
+l
+y
+
+
+
+M
+i
+d
+d
+l
+e
+
+
+L
+a
+t
+e
+
+
+Induan
+
+
+Olenekian
+
+
+Anisian
+
+
+Ladinian
+
+
+Carnian
+
+
+Norian
+
+
+Rhaetian
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+←
+Mass extinction
+
+
+
+
+
+
+
+
+←
+Full recovery of woody trees[7]
+
+
+←
+Coals return[8]
+
+
+←
+Scleractinian
+corals & calcified sponges[9]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+An approximate timescale of key Triassic events.
+Axis scale: millions of years ago.
+
+The Triassic is usually separated into Early, Middle, and Late Triassic Epochs, and the corresponding rocks are referred to as Lower, Middle, or Upper Triassic. The faunal stages from the youngest to oldest are:
+
+
+Upper/Late Triassic (Tr3)
+
+
+  Rhaetian
+(~208.5 – 201.3 ± 0.2 Mya)
+
+
+  Norian
+(~228 – ~208.5 Mya)
+
+
+  Carnian
+(~235 – ~228 Mya)
+
+
+Middle Triassic (Tr2)
+
+
+  Ladinian
+(~242 – ~235 Mya)
+
+
+  Anisian
+(247.2 – ~242 Mya)
+
+
+Lower/Early Triassic (Scythian)
+
+
+  Olenekian
+(251.2 – 247.2 Mya)
+
+
+  Induan
+(252.2 ± 0.5 – 251.2 Mya)
+
+
+Paleogeography[edit]
+
+
+
+
+230 Ma plate tectonic reconstruction
+
+
+During the Triassic, almost all the Earth's land mass was concentrated into a single supercontinent centered more or less on the equator, called Pangaea ("all the land"). From the east a vast gulf entered Pangaea, the Tethys sea. It opened farther westward in the mid-Triassic, at the expense of the shrinking Paleo-Tethys Ocean, an ocean that existed during the Paleozoic. The remaining shores were surrounded by the world-ocean known as Panthalassa ("all the sea"). All the deep-ocean sediments laid down during the Triassic have disappeared through subduction of oceanic plates; thus, very little is known of the Triassic open ocean. The supercontinent Pangaea was rifting during the Triassic—especially late in the period—but had not yet separated. The first nonmarine sediments in the rift that marks the initial break-up of Pangaea—which separated New Jersey from Morocco—are of Late Triassic age; in the U.S., these thick sediments comprise the Newark Group.[10] Because of the limited shoreline of one super-continental mass, Triassic marine deposits are globally relatively rare, despite their prominence in Western Europe, where the Triassic was first studied. In North America, for example, marine deposits are limited to a few exposures in the west. Thus Triassic stratigraphy is mostly based on organisms living in lagoons and hypersaline environments, such as Estheria crustaceans.
+Africa[edit]
+At the beginning of the Mesozoic Era, Africa was joined with Earth's other continents in Pangaea.[11] Africa shared the supercontinent's relatively uniform fauna which was dominated by theropods, prosauropods and primitive ornithischians by the close of the Triassic period.[11] Late Triassic fossils are found throughout Africa, but are more common in the south than north.[11] The boundary separating the Triassic and Jurassic marks the advent of an extinction event with global impact, although African strata from this time period have not been thoroughly studied.[11]
+South America[edit]
+At Paleorrota geopark, located in Rio Grande do Sul, Brazil, the Santa Maria Formation and Caturrita Formations are exposed. In these formations, one of the earliest dinosaurs, Staurikosaurus, as well as the mammal ancestors Brasilitherium and Brasilodon have been discovered.
+Climate[edit]
+The Triassic climate was generally hot and dry, so that typical deposits are red bed sandstones and evaporites. There is no evidence of glaciation at or near either pole; in fact, the polar regions were apparently moist and temperate, a climate suitable for forests and vertebrates, including reptiles. Pangaea's large size limited the moderating effect of the global ocean; its continental climate was highly seasonal, with very hot summers and cold winters.[12] The strong contrast between the Pangea supercontinent and the global ocean triggered intense cross-equatorial monsoons.[12]
+Although the Triassic may have mostly been a dry period, at least at tropical and subtropical latitudes in the Tethys and surrounding lands, evidence exists that it was punctuated by several episodes of increased rainfall.[13] Sediments and fossils suggestive of a more humid climate are known from the Anisian to Ladinian of the Tethysian domain, and from the Carnian and Rhaetian of a larger area that includes also the Boreal domain (e.g., Svalbard Islands), the North American continent, the South China block and Argentina.
+The best studied of such episodes of humid climate, and probably the most intense and widespread, was the Carnian Pluvial Event. This episode is identified, in the Tethysian domain, by a sudden input of sediment from continents, the increase of fossil plants and resin (amber) in sediments, and by a prominent crisis of carbonate platforms. Similar effects are recognized in other localities worldwide.[13]
+Life[edit]
+
+
+
+
+Triassic flora as depicted in Meyers Konversations-Lexikon (1885–90)
+
+
+Three categories of organisms can be distinguished in the Triassic record: holdovers from the Permian-Triassic extinction, new groups which flourished briefly, and other new groups which went on to dominate the Mesozoic world.
+Flora[edit]
+On land, the holdover plants included the lycophytes, the dominant cycads, ginkgophyta (represented in modern times by Ginkgo biloba) and glossopterids. The spermatophytes, or seed plants came to dominate the terrestrial flora: in the northern hemisphere, conifers flourished. Glossopteris (a seed fern) was the dominant southern hemisphere tree during the Early Triassic period.
+Marine fauna[edit]
+
+
+
+
+Middle Triassic marginal marine sequence, southwestern Utah
+
+
+In marine environments, new modern types of corals appeared in the Early Triassic, forming small patches of reefs of modest extent compared to the great reef systems of Devonian times or modern reefs. Serpulids appeared in the Middle Triassic.[14] Microconchids were abundant. The shelled cephalopods called ammonites recovered, diversifying from a single line that survived the Permian extinction. The fish fauna was remarkably uniform, reflecting the fact that very few families survived the Permian extinction. There were also many types of marine reptiles. These included the Sauropterygia, which featured pachypleurosaurs and nothosaurs (both common during the Middle Triassic, especially in the Tethys region), placodonts, and the first plesiosaurs; the first of the lizardlike Thalattosauria (askeptosaurs); and the highly successful ichthyosaurs, which appeared in Early Triassic seas and soon diversified, some eventually developing to huge size during the late Triassic.
+Terrestrial fauna[edit]
+The Permian-Triassic extinction devastated terrestrial life. Biodiversity rebounded with the influx of pioneer organisms, but these were short lived. Diverse communities with complex trophic structures took 30 million years to reestablish.[15]
+Temnospondyl amphibians were among those groups that survived the Permian-Triassic extinction, some lineages (e.g. trematosaurs) flourishing briefly in the Early Triassic, while others (e.g. capitosaurs) remained successful throughout the whole period, or only came to prominence in the Late Triassic (e.g. plagiosaurs, metoposaurs). As for other amphibians, the first Lissamphibia, characterized by the first frogs, are known from the Early Triassic, but the group as a whole did not become common until the Jurassic, when the temnospondyls had become very rare.
+Archosauromorph reptiles—especially archosaurs—progressively replaced the synapsids that had dominated the Permian, although Cynognathus was a characteristic top predator in earlier Triassic (Olenekian and Anisian) Gondwana, and both kannemeyeriid dicynodonts and gomphodont cynodonts remained important herbivores during much of the period. By the end of the Triassic, synapsids played only bit parts. During the Carnian (early part of the Late Triassic), some advanced cynodont gave rise to the first mammals (Brasilitherium and Brasilodon). At the same time the Ornithodira, which until then had been small and insignificant, evolved into pterosaurs and a variety of dinosaurs. The Crurotarsi were the other important archosaur clade, and during the Late Triassic these also reached the height of their diversity, with various groups including the phytosaurs, aetosaurs, several distinct lineages of Rauisuchia, and the first crocodylians (the Sphenosuchia). Meanwhile the stocky herbivorous rhynchosaurs and the small to medium-sized insectivorous or piscivorous Prolacertiformes were important basal archosauromorph groups throughout most of the Triassic.
+Among other reptiles, the earliest turtles, like Proganochelys and Proterochersis, appeared during the Norian (middle of the Late Triassic). The Lepidosauromorpha—specifically the Sphenodontia—are first known in the fossil record a little earlier (during the Carnian). The Procolophonidae were an important group of small lizard-like herbivores.
+Archosaurs were initially rarer than the therapsids which had dominated Permian terrestrial ecosystems, but they began to displace therapsids in the mid-Triassic.[16] This "Triassic Takeover" may have contributed to the evolution of mammals by forcing the surviving therapsids and their mammaliform successors to live as small, mainly nocturnal insectivores; nocturnal life probably forced at least the mammaliforms to develop fur and higher metabolic rates.[17]
+
+
+
+
+
+
+
+
+Lystrosaurus was the most common land vertebrate during the Early Triassic, when animal life had been greatly diminished.
+
+
+
+
+
+
+
+
+
+Reconstruction of Proterosuchus, a genus of crocodile-like carnivorous reptile that existed in the Early Triassic.
+
+
+
+
+
+
+
+
+
+Cynognathus was a mammal-like cynodont from the early Triassic. The first true mammals evolved during this period.
+
+
+
+
+
+
+
+
+
+Coelophysis, one of the first dinosaurs, appeared in the Late Triassic.
+
+
+
+
+
+
+
+
+
+Plateosaurus was an early sauropodomorph, or "prosauropod", of the late Triassic.
+
+
+
+
+
+Coal[edit]
+At the start of the Triassic period coal is noticeable by geologists today as being absent throughout the world. This is known as the "coal gap" and can be seen as part of the Permian–Triassic extinction event.[8] Sharp drops in sea level across the Permo Triassic boundary may be the proper explanation for the coal gap. However, theories are still speculative as to why it is missing.[18] During the preceding Permian period the arid desert conditions contributed to the evaporation of many inland seas and the inundation of these seas, perhaps by a number of tsunami events that may have been responsible for the drop in sea level.[19] This due to the finding of large salt basins in the southwest United States and a very large basin in central Canada.[20]
+Immediately above the boundary the glossopteris flora was suddenly[21] largely displaced by an Australia wide coniferous flora containing few species and containing a lycopod herbaceous under story. Conifers also became common in Eurasia. These groups of conifers arose from endemic species because of the ocean barriers that prevented seed crossing for over one hundred million years. For instance, Podocarpis was located south and Pines, Junipers, and Sequoias were located north. The dividing line ran through the Amazon Valley, across the Sahara, and north of Arabia, India, Thailand, and Australia.[22][23] It has been suggested that there was a climate barrier for the conifers.[24] although water barriers are more plausible. If so, something that can cross at least short water barriers must have been involved in producing the coal hiatus. Hot climate could have been an important auxiliary factor across Antarctica or the Bering Strait, however. There was a spike of fern and lycopod spores immediately after the close of the Permian.[25] In addition there was also a spike of fungal spores immediately after the Permian-Triassic boundary.[26] This spike may have lasted 50,000 years in Italy and 200,000 years in China and must have contributed to the climate warmth.
+An event excluding a catastrophe must have been involved to cause the coal hiatus due to the fact that fungi would have removed all dead vegetation and coal forming detritus in a few decades in most tropical places. In addition, fungal spores rose gradually and declined similarly along with a prevalence of woody debris. Each phenomenon would hint at widespread vegetative death. Whatever the cause of the coal hiatus must have started in North America approximately 25 million years sooner.[27]
+Lagerstätten[edit]
+
+
+
+
+Triassic sandstone near Stadtroda, Germany
+
+
+The Monte San Giorgio lagerstätte, now in the Lake Lugano region of northern Italy and Switzerland, was in Triassic times a lagoon behind reefs with an anoxic bottom layer, so there were no scavengers and little turbulence to disturb fossilization, a situation that can be compared to the better-known Jurassic Solnhofen limestone lagerstätte. The remains of fish and various marine reptiles (including the common pachypleurosaur Neusticosaurus, and the bizarre long-necked archosauromorph Tanystropheus), along with some terrestrial forms like Ticinosuchus and Macrocnemus, have been recovered from this locality. All these fossils date from the Anisian/Ladinian transition (about 237 million years ago).
+Triassic-Jurassic extinction event[edit]
+Main article: Triassic-Jurassic extinction event
+The Triassic period ended with a mass extinction, which was particularly severe in the oceans; the conodonts disappeared, as did all the marine reptiles except ichthyosaurs and plesiosaurs. Invertebrates like brachiopods, gastropods, and molluscs were severely affected. In the oceans, 22% of marine families and possibly about half of marine genera went missing according to University of Chicago paleontologist Jack Sepkoski.
+Though the end-Triassic extinction event was not equally devastating everywhere in terrestrial ecosystems, several important clades of crurotarsans (large archosaurian reptiles previously grouped together as the thecodonts) disappeared, as did most of the large labyrinthodont amphibians, groups of small reptiles, and some synapsids (except for the proto-mammals). Some of the early, primitive dinosaurs also went extinct, but other more adaptive dinosaurs survived to evolve in the Jurassic. Surviving plants that went on to dominate the Mesozoic world included modern conifers and cycadeoids.
+What caused this Late Triassic extinction is not known with certainty. It was accompanied by huge volcanic eruptions that occurred as the supercontinent Pangaea began to break apart about 202 to 191 million years ago [(40Ar/39Ar dates[28])], forming the Central Atlantic Magmatic Province [(CAMP)],[29] one of the largest known inland volcanic events since the planet cooled and stabilized. Other possible but less likely causes for the extinction events include global cooling or even a bolide impact, for which an impact crater containing Manicouagan Reservoir in Quebec, Canada, has been singled out. At the Manicouagan impact crater, however, recent research has shown that the impact melt within the crater has an age of 214±1 Mya. The date of the Triassic-Jurassic boundary has also been more accurately fixed recently, at 201.3 ± 0.2 Mya. Both dates are gaining accuracy by using more accurate forms of radiometric dating, in particular the decay of uranium to lead in zircons formed at the impact. So the evidence suggests the Manicouagan impact preceded the end of the Triassic by approximately 10±2 Ma. Therefore it could not be the immediate cause of the observed mass extinction.[30]
+The number of Late Triassic extinctions is disputed. Some studies suggest that there are at least two periods of extinction towards the end of the Triassic, between 12 and 17 million years apart. But arguing against this is a recent study of North American faunas. In the Petrified Forest of northeast Arizona there is a unique sequence of latest Carnian-early Norian terrestrial sediments. An analysis in 2002 found no significant change in the paleoenvironment.[31] Phytosaurs, the most common fossils there, experienced a change-over only at the genus level, and the number of species remained the same. Some aetosaurs, the next most common tetrapods, and early dinosaurs, passed through unchanged. However, both phytosaurs and aetosaurs were among the groups of archosaur reptiles completely wiped out by the end-Triassic extinction event.
+It seems likely then that there was some sort of end-Carnian extinction, when several herbivorous archosauromorph groups died out, while the large herbivorous therapsids— the kannemeyeriid dicynodonts and the traversodont cynodonts—were much reduced in the northern half of Pangaea (Laurasia).
+These extinctions within the Triassic and at its end allowed the dinosaurs to expand into many niches that had become unoccupied. Dinosaurs became increasingly dominant, abundant and diverse, and remained that way for the next 150 million years. The true "Age of Dinosaurs" is the Jurassic and Cretaceous, rather than the Triassic.
+See also[edit]
+
+
+
+
+Geology portal
+
+
+
+Paleontology portal
+
+
+
+Time portal
+
+
+
+
+Geologic time scale
+List of fossil sites (with link directory)
+Paleorrota (Triassic place in Brazil)
+Phylloceratina
+
+Notes[edit]
+
+
+^ Image:Sauerstoffgehalt-1000mj.svg
+^ Image:Phanerozoic Carbon Dioxide.png
+^ Image:All palaeotemps.png
+^ Friedrich von Alberti, Beitrag zu einer Monographie des bunten Sandsteins, Muschelkalks und Keupers, und die Verbindung dieser Gebilde zu einer Formation [Contribution to a monograph on the colored sandstone, shell limestone and mudstone, and the joining of these structures into one formation] (Stuttgart and Tübingen, (Germany): J. G. Cotta, 1834). Alberti coined the term "Trias" on page 324 :
+"… bunter Sandstein, Muschelkalk und Keuper das Resultat einer Periode, ihre Versteinerungen, um mich der Worte E. de Beaumont’s zu bedeinen, die Thermometer einer geologischen Epoche seyen, … also die bis jezt beobachtete Trennung dieser Gebilde in 3 Formationen nicht angemessen, und es mehr dem Begriffe Formation entsprechend sey, sie zu einer Formation, welche ich vorläufig Trias nennen will, zu verbinden."
+( … colored sandstone, shell limestone, and mudstone are the result of a period ; their fossils are, to avail myself of the words of E. de Beaumont, the thermometer of a geologic epoch ; … thus the separation of these structures into 3 formations, which has been maintained until now, isn't appropriate, and it is more consistent with the concept of "formation" to join them into one formation, which for now I will name "trias".)
+^ Brusatte, S. L.; Benton, M. J.; Ruta, M.; Lloyd, G. T. (2008-09-12). "Superiority, Competition, and Opportunism in the Evolutionary Radiation of Dinosaurs". Science 321 (5895): 1485–1488. Bibcode:2008Sci...321.1485B. doi:10.1126/science.1161833. Retrieved 2012-01-14. 
+^ "Lethally Hot" Earth Was Devoid of Life—Could It Happen Again?
+^ McElwain, J.C.; Punyasena, S.W. (2007). "Mass extinction events and the plant fossil record". Trends in Ecology & Evolution 22 (10): 548–557. doi:10.1016/j.tree.2007.09.003. PMID 17919771. 
+^ a b Retallack GJ, John Veevers & Morante R (1996). "Global coal gap between Permian–Triassic extinctions and middle Triassic recovery of peat forming plants". GSA Bulletin 108 (2): 195–207. doi:10.1130/0016-7606(1996)108<0195:GCGBPT>2.3.CO;2. Retrieved 2007-09-29. 
+^ Payne, J.L.; Lehrmann, D.J.; Wei, J.; Orchard, M.J.; Schrag, D.P.; Knoll, A.H. (2004). "Large Perturbations of the Carbon Cycle During Recovery from the End-Permian Extinction". Science 305 (5683): 506–9. doi:10.1126/science.1097023. PMID 15273391. 
+^ Lecture 10 - Triassic: Newark, Chinle
+^ a b c d Jacobs, Louis, L. (1997). "African Dinosaurs." Encyclopedia of Dinosaurs. Edited by Phillip J. Currie and Kevin Padian. Academic Press. p. 2-4.
+^ a b Stanley, 452-3.
+^ a b Preto, N.; Kustatscher, E.; Wignall, P.B. (2010). "Triassic climates — State of the art and perspectives". Palaeogeography, Palaeoclimatology, Palaeoecology 290: 1–10. doi:10.1016/j.palaeo.2010.03.015. 
+^ Vinn, O.; Mutvei, H. (2009). "Calcareous tubeworms of the Phanerozoic". Estonian Journal of Earth Sciences 58 (4): 286–296. Retrieved 2012-09-16. 
+^ Sahney, S. and Benton, M.J. (2008). "Recovery from the most profound mass extinction of all time" (PDF). Proceedings of the Royal Society: Biological 275 (1636): 759–65. doi:10.1098/rspb.2007.1370. PMC 2596898. PMID 18198148. 
+^ Tanner LH, Lucas SG & Chapman MG (2004). "Assessing the record and causes of Late Triassic extinctions" (PDF). Earth-Science Reviews 65 (1–2): 103–139. Bibcode:2004ESRv...65..103T. doi:10.1016/S0012-8252(03)00082-5. Retrieved 2007-10-22. 
+^ Ruben, J.A., and Jones, T.D. (2000). "Selective Factors Associated with the Origin of Fur and Feathers". American Zoologist 40 (4): 585–596. doi:10.1093/icb/40.4.585. 
+^ Holser, WT Schonlaub H_P, Moses AJr, Boekelmann K Klein P Magaritz MOrth CJ Fenninger A Jenny C Kralik M Mauritsch EP Schramm J_M Sattagger K Schmoller R, Attrep, Moses, Boeckelmann, Klaus, Klein, Peter, Magaritz, Mordeckai, Orth, Charles J., Fenninger, Alois et al. (1989). "A unique geochemical record at the Permian/Triassic boundary". Nature 337 (6202): 39 [42]. Bibcode:1989Natur.337...39H. doi:10.1038/337039a0.  |displayauthors= suggested (help)
+^ Knauth, L. Paul (1998). "Salinity history of the Earth's early ocean". Nature 395 (6702): 554–5. Bibcode:1998Natur.395..554K. doi:10.1038/26879. PMID 11542867. 
+^ Dott, R.H. and Batten, R.L. (1971) Evolution of the Earth, 4th ed. McGraw Hill, NY.
+^ Hosher, WT Magaritz M Clark D (1987). "Events near the Permian-Triassic boundary". Mod. Geol. 11: 155–180 [173–174]. 
+^ Florin, R (1963). "The distribution of Conifer and Taxad genera in time and space". Acta Horti Bergiani 20: 121–312. 
+^ Melville, R (1966). "Continental drift, Mesozoic continents, and the migrations of the angiosperms". Nature 211 (5045): 116. Bibcode:1966Natur.211..116M. doi:10.1038/211116a0. 
+^ Darlington PJ, (1965) Biogeography of the southern end of the world. Harvard University Press, Cambridge Mass., on p 168.
+^ Retallack, GJ (1995). "Permian -Triassic life crises on land". Science 267 (5194): 77–79. Bibcode:1995Sci...267...77R. doi:10.1126/science.267.5194.77. PMID 17840061. 
+^ Eshet, Y Rampino MR, Rampino, Michael R., Visscher, Henk (1995). "Fungal event and palynological record of ecological crises and recovery across Permian-Triassic boundary". Geology 23 (11): 967–970 [969]. Bibcode:1995Geo....23..967E. doi:10.1130/0091-7613(1995)023<0967:FEAPRO>2.3.CO;2. 
+^ Retallack, GJ Veevers JJ Morante R, Veevers, John J., Morante, Ric (1996). "Global coal gap between Permian-Triassic extinctions and middle Triassic recovery of peat forming plants (review)". Geological Society Am. Bull. 108 (2): 195–207. Bibcode:1996GSAB..108..195R. doi:10.1130/0016-7606(1996)108<0195:GCGBPT>2.3.CO;2. 
+^ Nomade et al.,2007 Palaeogeography, Palaeoclimatology, Palaeoecology 244, 326-344.
+^ Marzoli et al., 1999, Science 284. Extensive 200-million-year-old continental flood basalts of the Central Atlantic Magmatic Province, pp. 618-620.
+^ Hodych & Dunning, 1992.
+^ No Significant Nonmarine Carnian-Norian (Late Triassic) Extinction Event: Evidence From Petrified Forest National Park
+
+
+References[edit]
+
+Emiliani, Cesare. (1992). Planet Earth: Cosmology, Geology, & the Evolution of Life & the Environment. Cambridge University Press. (Paperback Edition ISBN 0-521-40949-7)
+Ogg, Jim; June, 2004, Overview of Global Boundary Stratotype Sections and Points (GSSP's) Stratigraphy.org, Accessed April 30, 2006
+Stanley, Steven M. Earth System History. New York: W.H. Freeman and Company, 1999. ISBN 0-7167-2882-6
+Sues, Hans-Dieter & Fraser, Nicholas C. Triassic Life on Land: The Great Transition New York: Columbia University Press, 2010. Series: Critical Moments and Perspectives in Earth History and Paleobiology. ISBN 978-0-231-13522-1
+van Andel, Tjeerd, (1985) 1994, New Views on an Old Planet: A History of Global Change, Cambridge University Press
+
+External links[edit]
+
+
+
+Wikimedia Commons has media related to Triassic.
+
+
+
+
+
+Look up triassic in Wiktionary, the free dictionary.
+
+
+
+A Visit To Ammonite Canyon, Nevada Virtual field trip to one of the most famous places on Earth to study the Late Triassic extinction in a marine geologic section.
+Middle Triassic Ammonoids From Nevada
+Ammonoids At Union Wash, California Virtual field trip to a classic early Triassic ammonoid locality in Inyo County, California.
+Late Triassic Ichthyosaur And Invertebrate Fossils In Nevada
+Early Triassic Ammonoid Fossils In Nevada
+Overall introduction[dead link]
+'The Triassic world'
+Douglas Henderson's illustrations of Triassic animals
+Paleofiles page on the Triassic extinctions
+Examples of Triassic Fossils
+
+
+
+Triassic Period
+
+
+Lower/Early Triassic
+Middle Triassic
+Upper/Late Triassic
+
+
+Induan |Olenekian
+Anisian | Ladinian
+Carnian | Norian
+Rhaetian
+
+
+
+
+Preceded by Proterozoic Eon
+542 Ma - Phanerozoic Eon- Present
+
+
+542 Ma - Paleozoic Era -251 Ma
+251 Ma - Mesozoic Era - 66 Ma
+66 Ma - Cenozoic Era - Present
+
+
+Cambrian
+Ordovician
+Silurian
+Devonian
+Carboniferous
+Permian
+Triassic
+Jurassic
+Cretaceous
+Paleogene
+Neogene
+Quaternary
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Geologic history of Earth
+
+
+
+
+
+
+
+
+
+
+ 
+Precambrian supereon (4.567 Gya – 541.0 Mya)
+
+
+
+
+
+
+
+
+
+
+
+In left column are eons; right column: bold are eras; not bold are periods:
+
+
+
+
+
+
+Hadean
+(4.567 – 4 Gya)
+
+
+
+
+
+
+
+Chaotian (4.567 – 4.4 Gya)
+
+
+
+
+
+
+
+
+
+
+
+Zirconian(4.4 – 4 Gya)
+
+
+
+
+
+
+
+
+
+
+
+Archean
+(4 – 2.5 Gya)
+
+
+
+
+
+
+
+Eoarchean (4 – 3.6 Gya)
+
+
+
+
+
+
+
+
+
+
+
+Paleoarchean (3.6 – 3.2 Gya)
+
+
+
+
+
+
+
+
+
+
+
+Mesoarchean (3.2 – 2.8 Gya)
+
+
+
+
+
+
+
+
+
+
+
+Neoarchean (2.8 – 2.5 Gya)
+
+
+
+
+
+
+
+
+
+
+
+Proterozoic
+(2.5 Gya – 541.0 Mya)
+
+
+
+
+
+
+
+Paleoproterozoic (2.5 – 1.6 Gya): Siderian (2.5 – 2.3 Gya)
+Rhyacian (2.3 – 2.05 Gya)
+Orosirian (2.05 – 1.8 Gya)
+Statherian (1.8 – 1.6 Gya)
+
+
+
+
+
+
+
+
+
+
+
+Mesoproterozoic (1.6 – 1 Gya): Calymmian (1.6 – 1.4 Gya)
+Ectasian (1.4 – 1.2 Gya)
+Stenian (1.2 – 1 Gya)
+
+
+
+
+
+
+
+
+
+
+
+Neoproterozoic (1 Gya – 541.0 Mya): Tonian (1 Gya – 850 Mya)
+Cryogenian (850 – 635 Mya)
+Ediacaran (635 – 541.0 Mya)
+
+
+
+
+
+
+
+
+
+
+
+
+Mya = millions years ago. Gya = billions years ago.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Phanerozoic eon (541.0 – 0 Mya)
+
+
+
+
+
+
+
+
+
+
+
+In horizontal bars are eras; in left column are periods; right column: bold are epochs; not bold not italic are ages; italic are chrons:
+
+
+
+
+
+
+
+
+
+
+ 
+Paleozoic (541.0 – 252.17 Mya)
+
+
+
+
+
+
+
+
+
+
+
+Cambrian
+(541.0 – 485.4 Mya)
+
+
+
+
+
+
+
+
+Terreneuvian (541.0 – 521 Mya): Fortunian (541.0 – 529 Mya)
+Age 2* (529 – 521 Mya)
+
+
+
+
+
+
+
+
+
+
+
+Epoch 2* (521 – 509 Mya): Age 3* (521 – 514 Mya)
+Age 4* (514 – 509 Mya)
+
+
+
+
+
+
+
+
+
+
+
+Epoch 3* (509 – 497 Mya): Age 5* (509 – 504.5 Mya)
+Drumian (504.5 – 500.5 Mya)
+Guzhangian (500.5 – 497 Mya)
+
+
+
+
+
+
+
+
+
+
+
+Furongian (497 – 485.4 Mya): Paibian (497 – 494 Mya)
+Jiangshanian (494 – 489.5 Mya)
+Age 10* (489.5 – 485.4 Mya)
+
+
+
+
+
+
+
+
+
+
+
+
+Ordovician
+(485.4 – 443.4 Mya)
+
+
+
+
+
+
+
+
+Early Ordovician (485.4 – 470.0 Mya): Tremadocian (485.4 – 477.7 Mya)
+Floian (477.7 – 470.0 Mya)
+
+
+
+
+
+
+
+
+
+
+
+Middle Ordovician (470.0 – 458.4 Mya): Dapingian (470.0 – 467.3 Mya)
+Darriwilian (467.3 – 458.4 Mya)
+
+
+
+
+
+
+
+
+
+
+
+Late Ordovician (458.4 – 443.4 Mya): Sandbian (458.4 – 453.0 Mya)
+Katian (453.0 – 445.2 Mya)
+Hirnantian (445.2 – 443.4 Mya)
+
+
+
+
+
+
+
+
+
+
+
+
+Silurian
+(443.4 – 419.2 Mya)
+
+
+
+
+
+
+
+
+Llandovery (443.4 – 433.4 Mya): Rhuddanian (443.4 – 440.8 Mya)
+Aeronian (440.8 – 438.5 Mya)
+Telychian (438.5 – 433.4 Mya)
+
+
+
+
+
+
+
+
+
+
+
+Wenlock (433.4 – 427.4 Mya): Sheinwoodian (433.4 – 430.5 Mya)
+Homerian (430.5 – 427.4 Mya)
+
+
+
+
+
+
+
+
+
+
+
+Ludlow (427.4 – 423.0 Mya): Gorstian (427.4 – 425.6 Mya)
+Ludfordian (425.6 – 423.0 Mya)
+
+
+
+
+
+
+
+
+
+
+
+Pridoli (423.0 – 419.2 Mya)
+
+
+
+
+
+
+
+
+
+
+
+
+Devonian
+(419.2 – 358.9 Mya)
+
+
+
+
+
+
+
+
+Early Devonian (419.2 – 393.3 Mya): Lochkovian (419.2 – 410.8 Mya)
+Pragian (410.8 – 407.6 Mya)
+Emsian (407.6 – 393.3 Mya)
+
+
+
+
+
+
+
+
+
+
+
+Middle Devonian (393.3 – 382.7 Mya): Eifelian (393.3 – 387.7 Mya)
+Givetian (387.7 – 382.7 Mya)
+
+
+
+
+
+
+
+
+
+
+
+Late Devonian (382.7 – 358.9 Mya): Frasnian (382.7 – 372.2 Mya)
+Famennian (372.2 – 358.9 Mya)
+
+
+
+
+
+
+
+
+
+
+
+
+Carboniferous
+(358.9 – 298.9 Mya)
+
+
+
+
+
+
+
+
+Mississippian (358.9 – 323.2 Mya): Tournaisian (358.9 – 346.7 Mya)
+Viséan (346.7 – 330.9 Mya)
+Serpukhovian (330.9 – 323.2 Mya)
+
+
+
+
+
+
+
+
+
+
+
+Pennsylvanian (323.2 – 298.9 Mya): Bashkirian (323.2 – 315.2 Mya)
+Moscovian (315.2 – 307.0 Mya)
+Kasimovian (307.0 – 303.7 Mya)
+Gzhelian (303.7 – 298.9 Mya)
+
+
+
+
+
+
+
+
+
+
+
+
+Permian
+(298.9 – 252.17 Mya)
+
+
+
+
+
+
+
+
+Cisuralian (298.9 – 272.3 Mya): Asselian (298.9 – 295.0 Mya)
+Sakmarian (295.0 – 290.1 Mya)
+Artinskian (290.1 – 283.5 Mya)
+Kungurian (283.5 – 272.3 Mya)
+
+
+
+
+
+
+
+
+
+
+
+Guadalupian (272.3 – 259.8 Mya): Roadian (272.3 – 268.8 Mya)
+Wordian (268.8 – 265.1 Mya)
+Capitanian (265.1 – 259.8 Mya)
+
+
+
+
+
+
+
+
+
+
+
+Lopingian (259.8 – 252.17 Mya): Wuchiapingian (259.8 – 254.14 Mya)
+Changhsingian (254.14 – 252.17 Mya)
+
+
+
+
+
+
+
+
+
+
+
+
+Kasimovian and Gzhelian comprise Late Pennsylvanian (307.0 – 298.9 Mya) subepoch.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Mesozoic (252.17 – 66.0 Mya)
+
+
+
+
+
+
+
+
+
+
+
+Triassic
+(252.17 – 201.3 Mya)
+
+
+
+
+
+
+
+
+Early Triassic (252.17 – 247.2 Mya): Induan (252.17 – 251.2 Mya)
+Olenekian (251.2 – 247.2 Mya)
+
+
+
+
+
+
+
+
+
+
+
+Middle Triassic (247.2 – 235 Mya): Anisian (247.2 – 242 Mya)
+Ladinian (242 – 235 Mya)
+
+
+
+
+
+
+
+
+
+
+
+Late Triassic (235 – 201.3 Mya): Carnian (235 – 228 Mya)
+Norian (228 – 208.5 Mya)
+Rhaetian (208.5 – 201.3 Mya)
+
+
+
+
+
+
+
+
+
+
+
+
+Jurassic
+(201.3 – 145.0 Mya)
+
+
+
+
+
+
+
+
+Early Jurassic (201.3 – 174.1 Mya): Hettangian (201.3 – 199.3 Mya)
+Sinemurian (199.3 – 190.8 Mya)
+Pliensbachian (190.8 – 182.7 Mya)
+Toarcian (182.7 – 174.1 Mya)
+
+
+
+
+
+
+
+
+
+
+
+Middle Jurassic (174.1 – 163.5 Mya): Aalenian (174.1 – 170.3 Mya)
+Bajocian (170.3 – 168.3 Mya)
+Bathonian (168.3 – 166.1 Mya)
+Callovian (166.1 – 163.5 Mya)
+
+
+
+
+
+
+
+
+
+
+
+Late Jurassic (163.5 – 145.0 Mya): Oxfordian (163.5 – 157.3 Mya)
+Kimmeridgian (157.3 – 152.1 Mya)
+Tithonian (152.1 – 145.0 Mya)
+
+
+
+
+
+
+
+
+
+
+
+
+Cretaceous
+(145.0 – 66.0 Mya)
+
+
+
+
+
+
+
+
+Early Cretaceous (145.0 – 100.5 Mya): Berriasian (145.0 – 139.8 Mya)
+Valanginian (139.8 – 132.9 Mya)
+Hauterivian (132.9 – 129.4 Mya)
+Barremian (129.4 – 125.0 Mya)
+Aptian (125.0 – 113.0 Mya)
+Albian (113.0 – 100.5 Mya)
+
+
+
+
+
+
+
+
+
+
+
+Late Cretaceous (100.5 – 66.0 Mya): Cenomanian (100.5 – 93.9 Mya)
+Turonian (93.9 – 89.8 Mya)
+Coniacian (89.8 – 86.3 Mya)
+Santonian (86.3 – 83.6 Mya)
+Campanian (83.6 – 72.1 Mya)
+Maastrichtian (72.1 – 66.0 Mya)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Cenozoic (66.0 – 0 Mya)
+
+
+
+
+
+
+
+
+
+
+
+Paleogene
+(66.0 – 23.03 Mya)
+
+
+
+
+
+
+
+
+Paleocene (66.0 – 56.0 Mya): Danian (66.0 – 61.6 Mya)
+Selandian (61.6 – 59.2 Mya)
+Thanetian (59.2 – 56.0 Mya)
+
+
+
+
+
+
+
+
+
+
+
+Eocene (56.0 – 33.9 Mya): Ypresian (56.0 – 47.8 Mya)
+Lutetian (47.8 – 41.3 Mya)
+Bartonian (41.3 – 38.0 Mya)
+Priabonian (38.0 – 33.9 Mya)
+
+
+
+
+
+
+
+
+
+
+
+Oligocene (33.9 – 23.03 Mya): Rupelian (33.9 – 28.1 Mya)
+Chattian (28.1 – 23.03 Mya)
+
+
+
+
+
+
+
+
+
+
+
+
+Neogene
+(23.03 – 2.588 Mya)
+
+
+
+
+
+
+
+
+Miocene (23.03 – 5.333 Mya): Aquitanian (23.03 – 20.44 Mya)
+Burdigalian (20.44 – 15.97 Mya)
+Langhian (15.97 – 13.82 Mya)
+Serravallian (13.82 – 11.62 Mya)
+Tortonian (11.62 – 7.246 Mya)
+Messinian (7.246 – 5.333 Mya)
+
+
+
+
+
+
+
+
+
+
+
+Pliocene (5.333 – 2.588 Mya): Piacenzian (5.333 – 3.600 Mya)
+Zanclean (3.600 – 2.588 Mya)
+
+
+
+
+
+
+
+
+
+
+
+
+Quaternary
+(2.588 – 0 Mya)
+
+
+
+
+
+
+
+
+Pleistocene (2.588 Mya – 11.7 kya): Gelasian (2.588 – 1.806 Mya)
+Calabrian (1.806 Mya – 781 kya)
+Middle Pleistocene (Ionian) (781 – 126 kya)
+Late Pleistocene (Tarantian) (126 – 11.7 kya): Oldest Dryas* (18 – 14.67 kya)
+Bølling* (14.67 – 14 kya)
+Older Dryas* (14 – 13.7 kya)
+Allerød* (13.7 – 12.8 kya)
+Younger Dryas* (12.8 – 11.7 kya)
+
+
+
+
+
+
+
+
+
+
+
+Holocene (11.7 – 0 kya): Preboreal* (11.7 – 9 kya)
+Boreal* (9 – 8 kya)
+Atlantic* (8 – 5 kya)
+Subboreal* (5 – 2.5 kya)
+Subatlantic* (2.5 – 0 kya)
+
+
+
+
+
+
+
+
+
+
+
+
+Paleogene, Neogene and early Pleistocene comprise former Tertiary* (66.0 – 1.8 Mya) period. Gelasian and Calabrian comprise Early Pleistocene (2.588 Mya – 781 kya) subepoch.
+
+
+
+
+
+
+
+
+
+
+
+
+
+kya = thousands years ago. Mya = millions years ago. * Not officially recognized by the I.C.S.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Source: International Chronostratigraphic Chart (January 2013). International Commission on Stratigraphy. Retrieved 27 March 2013. Divisions of Geologic Time—Major Chronostratigraphic and Geochronologic Units USGS Retrieved 10 March 2013.
+
+
+
+
+
+
+
+
+
+ 
+NewPP limit report
+CPU time usage: 6.156 seconds
+Real time usage: 6.264 seconds
+Preprocessor visited node count: 35382/1000000
+Preprocessor generated node count: 89134/1500000
+Post‐expand include size: 822017/2048000 bytes
+Template argument size: 101161/2048000 bytes
+Highest expansion depth: 24/40
+Expensive parser function count: 2/500
+Lua time usage: 0.454s
+Lua memory usage: 3.31 MB
+
+
+ Saved in parser cache with key enwiki:pcache:idhash:29989-0!*!0!!en!4!* and timestamp 20130928222105 
+								
+				Retrieved from "http://en.wikipedia.org/w/index.php?title=Triassic&oldid=574926067"				
+												Categories: TriassicHidden categories: Pages using citations with old-style implicit et al.Commons category with local link same as on WikidataAll articles with dead external linksArticles with dead external links from July 2012												
+							
+		
+		
+			Navigation menu
+			
+				
+	Personal tools
+	
+Create accountLog in	
+
+				
+					
+	Namespaces
+	
+					Article
+					Talk
+			
+
+
+	
+		
+	Variants
+	
+		
+					
+	
+
+				
+				
+					
+	Views
+	
+					Read
+					Edit
+					View history
+			
+
+
+	Actions
+	
+		
+					
+	
+
+
+	Search
+	
+				
+																				
+		
+	
+
+				
+			
+			
+					
+				
+	Navigation
+	
+		
+			Main page
+			Contents
+			Featured content
+			Current events
+			Random article
+			Donate to Wikipedia
+		
+	
+
+
+	Interaction
+	
+		
+			Help
+			About Wikipedia
+			Community portal
+			Recent changes
+			Contact page
+		
+	
+
+
+	Toolbox
+	
+		
+			What links here
+			Related changes
+			Upload file
+			Special pages
+			Permanent link
+			Page information
+			Data item
+Cite this page		
+	
+
+
+	Print/export
+	
+		
+			Create a book
+			Download as PDF
+			Printable version
+		
+	
+
+
+	Languages
+	
+		
+			Alemannisch
+			العربية
+			Asturianu
+			Bân-lâm-gú
+			Беларуская
+			Български
+			Bosanski
+			Brezhoneg
+			Català
+			Česky
+			Dansk
+			Deutsch
+			Eesti
+			Ελληνικά
+			Español
+			Esperanto
+			Euskara
+			فارسی
+			Français
+			Gaeilge
+			Galego
+			한국어
+			हिन्दी
+			Hrvatski
+			Ido
+			Bahasa Indonesia
+			Íslenska
+			Italiano
+			עברית
+			ქართული
+			Қазақша
+			Latina
+			Latviešu
+			Lëtzebuergesch
+			Lietuvių
+			Magyar
+			മലയാളം
+			مازِرونی
+			Bahasa Melayu
+			Nederlands
+			日本語
+			Norsk bokmål
+			Norsk nynorsk
+			Occitan
+			پنجابی
+			Piemontèis
+			Plattdüütsch
+			Polski
+			Português
+			Română
+			Русский
+			Саха тыла
+			Simple English
+			Slovenčina
+			Slovenščina
+			Српски / srpski
+			Srpskohrvatski / српскохрватски
+			Suomi
+			Svenska
+			Tagalog
+			தமிழ்
+			Татарча/tatarça
+			ไทย
+			Türkçe
+			Українська
+			Tiếng Việt
+			Yorùbá
+			中文
+			
+			Edit links
+		
+	
+
+			
+		
+		
+							
+											 This page was last modified on 28 September 2013 at 22:21.
+											Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. 
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+									
+							
+											Privacy policy
+											About Wikipedia
+											Disclaimers
+											Contact Wikipedia
+											Developers
+											Mobile view
+									
+										
+					
+						
+					
+					
+						
+					
+				
+						
+		
+		
+
+
+ Served by mw1181 in 0.184 secs. 
+	
+if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Triassic","wgTitle":"Triassic","wgCurRevisionId":574926067,"wgArticleId":29989,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Pages using citations with old-style implicit et al.","Commons category with local link same as on Wikidata","All articles with dead external links","Articles with dead external links from July 2012","Triassic"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Triassic","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgVectorEnabledModules":{"collapsiblenav":true,"experiments":true},"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"templateEditor":false,"templates":false,"preview":false,"previewDialog":false,"publish":false,"toc":false},"wgArticleFeedbackv5Permissions":{"aft-reader":false,"aft-member":false,"aft-editor":false,"aft-monitor":false,"aft-administrator":false,"aft-oversighter":false,"aft-noone":false},"wgVisualEditor":{"isPageWatched":false,"magnifyClipIconURL":"//bits.wikimedia.org/static-1.22wmf18/skins/common/images/magnify-clip.png","pageLanguageCode":"en","pageLanguageDir":"ltr"},"wikilove-recipient":"","wikilove-anon":0,"wgGuidedTourHelpGuiderUrl":"Help:Guided tours/guider","wgULSAcceptLanguageList":[],"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia","aftv5Article":{"id":29989,"title":"Triassic","namespace":0,"categories":["All articles with dead external links","Articles with dead external links from July 2012","Commons category with local link same as on Wikidata","Pages using citations with old-style implicit et al.","Triassic"],"permissionLevel":false},"wgWikibaseItemId":"Q47158"});
+}if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":false,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,
+"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"useeditwarning":1,"prefershttps":1,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"vector-simplesearch":1,"vector-collapsiblenav":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"aftv5-last-filter":null,"visualeditor-enable":0,"visualeditor-enable-experimental":0,"visualeditor-betatempdisable":0,"wikilove-enabled":1,"echo-subscriptions-web-page-review":true,"echo-subscriptions-email-page-review":false,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"echo-notify-show-link":true,"echo-show-alert":true,"echo-email-frequency":0,"echo-email-format":"html","echo-subscriptions-email-system":true,"echo-subscriptions-web-system":true,"echo-subscriptions-email-other":false,"echo-subscriptions-web-other":true,"echo-subscriptions-email-edit-user-talk":false,"echo-subscriptions-web-edit-user-talk":true,
+"echo-subscriptions-email-reverted":false,"echo-subscriptions-web-reverted":true,"echo-subscriptions-email-article-linked":false,"echo-subscriptions-web-article-linked":false,"echo-subscriptions-email-mention":false,"echo-subscriptions-web-mention":true,"echo-subscriptions-web-edit-thank":true,"echo-subscriptions-email-edit-thank":false,"gettingstarted-task-toolbar-show-intro":true,"uls-preferences":"","language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs446":false,"searchNs447":false
+,"searchNs710":false,"searchNs711":false,"searchNs828":false,"searchNs829":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-mySandbox":1,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:156d8fe0ae17f8afd74198057563e45d */
+}if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","ext.visualEditor.viewPageTarget.init","ext.wikimediaShopLink.core","ext.uls.init","ext.uls.interface","wikibase.client.init","ext.centralNotice.bannerController","skins.vector.js"]);
+}/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}if(window.mw){
+mw.loader.load(["mobile.desktop","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.cite","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","mw.MwEmbedSupport.style","ext.vector.collapsibleNav","ext.articleFeedbackv5.startup","ext.gettingstarted.logging","ext.gettingstarted.openTask","schema.HttpsSupport","ext.coreEvents.httpsSupport","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","mw.PopUpMediaTransform"],null,true);
+}

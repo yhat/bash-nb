@@ -1,0 +1,2804 @@
+
+
+
+Wyoming - Wikipedia, the free encyclopedia
+
+
+
+
+
+
+
+
+
+
+
+
+a:lang(ar),a:lang(ckb),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:0de201fdea5d684523607ed88007b127 */
+
+
+
+
+[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.22wmf18/skins/vector/csshover.min.htc")}</style><![endif]
+
+		
+		
+		
+			
+			
+						 CentralNotice 
+						Wyoming
+			
+								From Wikipedia, the free encyclopedia
+								
+												
+					Jump to:					navigation, 					search
+				
+				"Wy" redirects here. For the Australian micronation, see Principality of Wy.
+This article is about the U.S. state of Wyoming.  For other uses, see Wyoming (disambiguation).
+
+
+State of Wyoming
+
+
+
+
+
+
+
+
+
+Flag
+Seal
+
+
+
+
+
+Nickname(s): Equality State (official);
+Cowboy State; Big Wyoming
+
+
+Motto(s): Equal Rights
+
+
+
+
+
+
+
+
+
+Official language
+English
+
+
+Demonym
+Wyomingite
+
+
+Capital
+(and largest city)
+Cheyenne
+
+
+Largest metro
+Cheyenne Metro Area
+
+
+Area
+Ranked 10th
+
+
+ - Total
+97,814 sq mi
+(253,348 km2)
+
+
+ - Width
+360 miles (581 km)
+
+
+ - Length
+280 miles (450 km)
+
+
+ - % water
+0.7
+
+
+ - Latitude
+41°N to 45°N
+
+
+ - Longitude
+104°3'W to 111°3'W
+
+
+Population
+Ranked 50th
+
+
+ - Total
+576,412 (2012 estimate)[1]
+
+
+ - Density
+5.85/sq mi  (2.26/km2)
+Ranked 49th
+
+
+Elevation
+
+
+
+ - Highest point
+Gannett Peak[2][3][4]
+13,809 ft (4209.1 m)
+
+
+ - Mean
+6,700 ft  (2040 m)
+
+
+ - Lowest point
+Belle Fourche River at South Dakota border[3][4]
+3,101 ft (945 m)
+
+
+Before statehood
+Wyoming Territory
+
+
+Admission to Union
+July 10, 1890 (44th)
+
+
+Governor
+Matt Mead (R)
+
+
+Secretary of State
+Max Maxfield (R)
+
+
+Legislature
+Wyoming Legislature
+
+
+ - Upper house
+Senate
+
+
+ - Lower house
+House of Representatives
+
+
+U.S. Senators
+Mike Enzi (R)
+John Barrasso (R)
+
+
+U.S. House delegation
+Cynthia Lummis (R) (list)
+
+
+Time zone
+Mountain: UTC -7/-6
+
+
+Abbreviations
+WY,  US-WY
+
+
+Website
+wyoming.gov
+
+
+Wyoming i/waɪˈoʊmɪŋ/ is a state in the mountain region of the Western United States. Wyoming is the 10th most extensive, but the least populous and the second least densely populated of the 50 United States. The western two thirds of the state is covered mostly with the mountain ranges and rangelands in the foothills of the Eastern Rocky Mountains, while the eastern third of the state is high elevation prairie known as the High Plains. Cheyenne is the capital and the most populous city in Wyoming, with a population of 91,738 in the metropolitan area (as of the 2012 census).
+
+
+Contents
+
+
+1 Geography
+
+1.1 Location and size
+1.2 Mountain ranges
+1.3 Islands
+1.4 Public lands
+
+1.4.1 Parks
+1.4.2 Recreation areas
+1.4.3 National monuments
+1.4.4 National historic trails and sites
+1.4.5 National parkways
+1.4.6 Wildlife refuges and hatcheries
+
+
+
+
+2 Climate
+3 History
+4 Demographics
+
+4.1 Population
+4.2 Religion
+
+
+5 Economy
+
+5.1 Mineral production
+5.2 Taxes
+
+
+6 Transportation
+7 Wind River Indian Reservation
+8 State law and government
+
+8.1 Judicial system
+8.2 Politics
+
+
+9 Counties
+10 Cities and towns
+11 Metropolitan areas
+12 Education
+
+12.1 Higher education
+
+
+13 Sports
+14 State symbols
+15 Wyomingites
+16 See also
+17 References
+18 External links
+
+
+Geography[edit]
+Location and size[edit]
+
+
+
+
+Wind River Canyon
+
+
+
+
+
+
+Thunder Basin National Grassland close to Douglas, Wyoming
+
+
+As specified in the designating legislation for the Territory of Wyoming, Wyoming's borders are lines of latitude, 41°N and 45°N, and longitude, 104°3'W and 111°3'W (27° W and 34° W of the Washington Meridian), making the shape of the state a latitude-longitude quadrangle.[5] Wyoming is one of only three states (along with Colorado and Utah) to have borders along only straight latitudinal and longitudinal lines, rather than being defined by natural landmarks. Due to surveying inaccuracies during the 19th century, Wyoming's legal border deviates from the true latitude and longitude lines by up to half of a mile (0.8 km) in some spots, especially in the mountainous region along the 45th parallel.[6] Wyoming is bordered on the north by Montana, on the east by South Dakota and Nebraska, on the south by Colorado, on the southwest by Utah, and on the west by Idaho. It is the tenth largest state in the United States in total area, containing 97,814 square miles (253,340 km2) and is made up of 23 counties. From the north border to the south border it is 276 miles (444 km);[7] and from the east to the west border is 365 miles (587 km) at its south end and 342 miles (550 km) at the north end.
+Mountain ranges[edit]
+The Great Plains meet the Rocky Mountains in Wyoming. The state is a great plateau broken by many mountain ranges. Surface elevations range from the summit of Gannett Peak in the Wind River Mountain Range, at 13,804 feet (4,207 m), to the Belle Fourche River valley in the state’s northeast corner, at 3,125 feet (953 m). In the northwest are the Absaroka, Owl Creek, Gros Ventre, Wind River and the Teton ranges. In the north central are the Big Horn Mountains; in the northeast, the Black Hills; and in the southern region the Laramie, Snowy and Sierra Madre ranges.
+The Snowy Range in the south central part of the state is an extension of the Colorado Rockies in both geology and appearance. The Wind River Range in the west central part of the state is remote and includes more than 40 mountain peaks in excess of 13,000 ft (4,000 m) tall in addition to Gannett Peak, the highest peak in the state. The Big Horn Mountains in the north central portion are somewhat isolated from the bulk of the Rocky Mountains.
+
+
+
+
+Wyoming terrain
+
+
+The Teton Range in the northwest extends for 50 miles (80 km), part of which is included in Grand Teton National Park. The park includes the Grand Teton, the second highest peak in Wyoming.
+The Continental Divide spans north-south across the central portion of the state. Rivers east of the divide drain into the Missouri River Basin and eventually the Gulf of Mexico. They are the North Platte, Wind, Big Horn and the Yellowstone rivers. The Snake River in northwest Wyoming eventually drains into the Columbia River and the Pacific Ocean, as does the Green River through the Colorado River Basin.
+The continental divide forks in the south central part of the state in an area known as the Great Divide Basin where the waters that flow or precipitate into this area remain there and cannot flow to any ocean. Instead, because of the overall aridity of Wyoming, water in the Great Divide Basin simply sinks into the soil or evaporates.
+Several rivers begin or flow through the state, including the Yellowstone River, Bighorn River, Green River, and the Snake River.
+Islands[edit]
+Main article: List of islands of Wyoming
+Wyoming has 32 named islands, of which the majority are located in Jackson Lake and Yellowstone Lake within Yellowstone National Park in the northwest portion of the state. Green River in the southwest also contains a number of islands.
+Public lands[edit]
+
+
+
+
+Map of Wyoming: National Parks and NPS sites
+
+
+More than 48% of the land in Wyoming is owned by the U.S. Government, leading Wyoming to rank sixth in the U.S. in total acres and fifth in percentage of a state's land owned by the federal government.[8] This amounts to about 30,099,430 acres (121,808.1 km2) owned and managed by the U.S. Government. The state government owns an additional 6% of all Wyoming lands, or another 3,864,800 acres (15,640 km2).[8]
+The vast majority of this government land is managed by the Bureau of Land Management and U.S. Forest Service in numerous National Forests, a National Grassland, and a number of vast swaths of public land, in addition to the F.E. Warren Air Force Base in Cheyenne.
+In addition, Wyoming contains areas that are under the management of the National Park Service and other agencies. They include:
+
+
+
+
+An eruption of Castle Geyser in Yellowstone National Park
+
+
+Parks[edit]
+
+Yellowstone National Park
+Grand Teton National Park
+
+Recreation areas[edit]
+
+Bighorn Canyon National Recreation Area
+Flaming Gorge National Recreation Area (Forest Service-Ashley National Forest)
+
+National monuments[edit]
+
+Devils Tower National Monument
+Fossil Butte National Monument
+
+National historic trails and sites[edit]
+
+California National Historic Trail
+Independence Rock (Wyoming)
+Fort Laramie National Historic Site
+Medicine Wheel National Historic Site
+Mormon Pioneer National Historic Trail
+National Register of Historic Places listings in Wyoming
+Oregon National Historic Trail
+Pony Express National Historic Trail
+
+National parkways[edit]
+
+John D. Rockefeller, Jr. Memorial Parkway between Yellowstone National Park and Grand Teton National Park
+
+Wildlife refuges and hatcheries[edit]
+
+Seedskadee National Wildlife Refuge
+National Elk Refuge
+Jackson National Fish Hatchery
+Saratoga National Fish Hatchery
+
+
+
+
+
+
+
+Panoramic view of the Teton Range looking west from Jackson Hole, Grand Teton National Park.
+
+
+
+Climate[edit]
+Further information: Climate change in Wyoming
+
+
+
+
+Wyoming state welcome sign on Interstate 80 in Uinta County (at the Utah border).
+
+
+
+
+
+
+Autumn in the Bighorn Mountains
+
+
+Wyoming's climate is generally semi-arid and continental (Köppen climate classification BSk), and is drier and windier in comparison to most of the United States with greater temperature extremes. Much of this is due to the topography of the state. Summers in Wyoming are warm with July high temperatures averaging between 85 °F (29 °C) and 95 °F (35 °C) in most of the state. With increasing elevation, however, this average drops rapidly with locations above 9,000 feet (2,700 m) averaging around 70 °F (21 °C). Summer nights throughout the state are characterized by a rapid cooldown with even the hottest locations averaging in the 50–60 °F (10–16 °C) range at night. In most of the state, most of the precipitation tends to fall in the late spring and early summer. Winters are cold, but are variable with periods of sometimes extreme cold interspersed between generally mild periods, with Chinook winds providing unusually warm temperatures in some locations. Wyoming is a dry state with much of the land receiving less than 10 inches (250 mm) of rainfall per year. Precipitation depends on elevation with lower areas in the Big Horn Basin averaging 5–8 inches (130–200 mm) (making the area nearly a true desert). The lower areas in the North and on the eastern plains typically average around 10–12 inches (250–300 mm), making the climate there semi-arid. Some mountain areas do receive a good amount of precipitation, 20 inches (510 mm) or more, much of it as snow, sometimes 200 inches (510 cm) or more annually. The state's highest recorded temperature is 114 °F (46 °C) at Basin on July 12, 1900 and the lowest recorded temperature is −66 °F (−54 °C) at Riverside on February 9, 1933.
+The number of thunderstorm days vary across the state with the southeastern plains of the state having the most days of thunderstorm activity. Thunderstorm activity in the state is highest during the late spring and early summer. The southeastern corner of the state is the most vulnerable part of the state to tornado activity. Moving away from that point and westwards, the incidence of tornadoes drops dramatically with the west part of the state showing little vulnerability. Tornadoes, where they occur, tend to be small and brief, unlike some of those that occur a little further east.
+
+
+Casper climate: Average maximum and minimum temperatures, and average rainfall.
+
+
+Month
+Jan
+Feb
+Mar
+Apr
+May
+Jun
+Jul
+Aug
+Sep
+Oct
+Nov
+Dec
+Year
+
+
+Average max. temperature °F (°C)
+32
+(0)
+37
+(3)
+45
+(7)
+56
+(13)
+66
+(19)
+78
+(26)
+87
+(31)
+85
+(29)
+74
+(23)
+60
+(16)
+44
+(7)
+34
+(1)
+58
+(14)
+
+
+Average min. temperature
+°F (°C)
+12
+(−11)
+16
+(−9)
+21
+(−6)
+28
+(−2)
+37
+(3)
+46
+(8)
+54
+(12)
+51
+(11)
+41
+(5)
+32
+(0)
+21
+(−6)
+14
+(−10)
+31
+(-1)
+
+
+Average rainfall
+inches (mm)
+0.6
+(15.2)
+0.6
+(15.2)
+1.0
+(25.4)
+1.6
+(40.6)
+2.1
+(53.3)
+1.5
+(38.1)
+1.3
+(33.0)
+0.7
+(17.8)
+0.9
+(22.9)
+1.0
+(25.4)
+0.8
+(20.3)
+0.7
+(17.8)
+12.8
+(325.1)
+
+
+Source:[9]
+
+
+
+
+Jackson climate: Average maximum and minimum temperatures, and average rainfall.
+
+
+Month
+Jan
+Feb
+Mar
+Apr
+May
+Jun
+Jul
+Aug
+Sep
+Oct
+Nov
+Dec
+Year
+
+
+Average max. temperature °F (°C)
+24
+(−4)
+28
+(−2)
+37
+(3)
+47
+(8)
+58
+(14)
+68
+(20)
+78
+(26)
+77
+(25)
+67
+(19)
+54
+(12)
+37
+(3)
+24
+(−4)
+49
+(9)
+
+
+Average min. temperature
+°F (°C)
+-1
+(−18)
+2
+(−17)
+10
+(−12)
+21
+(−6)
+30
+(−1)
+36
+(2)
+41
+(5)
+38
+(3)
+31
+(−1)
+22
+(−6)
+14
+(−10)
+0
+(−18)
+20
+(-7)
+
+
+Average rainfall
+inches (mm)
+2.6
+(66.0)
+1.9
+(48.3)
+1.6
+(40.6)
+1.4
+(35.6)
+1.9
+(48.3)
+1.8
+(45.7)
+1.3
+(33.0)
+1.3
+(33.0)
+1.5
+(38.1)
+1.3
+(33.0)
+2.3
+(58.4)
+2.5
+(63.5)
+21.4
+(543.6)
+
+
+Source:[10]
+
+
+History[edit]
+Main article: History of Wyoming
+
+
+
+
+The first Fort Laramie as it looked prior to 1840. Painting from memory by Alfred Jacob Miller
+
+
+Several American Indian groups originally inhabited the region now known as Wyoming. The Crow, Arapaho, Lakota, and Shoshone were but a few of the original inhabitants encountered when white explorers first entered the region. What is now southwestern Wyoming became a part of the Spanish Empire and later Mexican territory of Alta California, until it was ceded to the United States in 1848 at the end of the Mexican-American War. French-Canadian trappers from Québec and Montréal ventured into the state in the late 18th century, leaving French toponyms such as Téton, La Ramie, etc. John Colter, a member of the Lewis and Clark Expedition, itself guided by French Canadian Toussaint Charbonneau and his young Shoshone wife, Sacagawea, first described the region in 1807. At the time, his reports of the Yellowstone area were considered to be fictional.[11] Robert Stuart and a party of five men returning from Astoria discovered South Pass in 1812. The Oregon Trail later followed that route. In 1850, Jim Bridger located what is now known as Bridger Pass, which the Union Pacific Railroad used in 1868—as did Interstate 80, in ninety years' time. Bridger also explored Yellowstone and filed reports on the region that, like those of Colter, were largely regarded as tall tales at the time.
+The region had acquired the name Wyoming by 1865, when Representative J. M. Ashley of Ohio introduced a bill to Congress to provide a "temporary government for the territory of Wyoming". The territory was named after the Wyoming Valley in Pennsylvania, made famous by the 1809 poem Gertrude of Wyoming by Thomas Campbell. The name ultimately derives from the Munsee word xwé:wamənk, meaning "at the big river flat"[12][13]
+After the Union Pacific Railroad had reached the town of Cheyenne in 1867, the region's population began to grow steadily, and the federal government established the Wyoming Territory on July 25, 1868.[14] Unlike mineral-rich Colorado, Wyoming lacked significant deposits of gold and silver, as well as Colorado's subsequent population boom. However, South Pass City did experience a short-lived boom after the Carissa Mine began producing gold in 1867.[15] Furthermore, copper was mined in some areas between the Sierra Madre Mountains and the Snowy Range near Grand Encampment.[16]
+Once government-sponsored expeditions to the Yellowstone country began, reports by Colter and Bridger, previously believed to be apocryphal, were found to be true. This led to the creation of Yellowstone National Park, which became the world's first national park in 1872. Nearly all of Yellowstone National Park lies within the far northwestern borders of Wyoming.
+On December 10, 1869, territorial Governor John Allen Campbell extended the right to vote to women, making Wyoming the first territory and then U.S. state to grant suffrage to women. In addition, Wyoming was also a pioneer in welcoming women into politics. Women first served on juries in Wyoming (Laramie in 1870); Wyoming had the first female court bailiff (Mary Atkinson, Laramie, in 1870); and the first female justice of the peace in the country (Esther Hobart Morris, South Pass City, in 1870). Also, in 1924, Wyoming became the first state to elect a female governor, Nellie Tayloe Ross, who took office in January 1925. (In fact, Wyoming and Texas both elected female governors at the same time, but Wyoming's took office sixteen days before Texas's.)[17] Due to its civil-rights history, Wyoming's state nickname is "The Equality State", and the official state motto is "Equal Rights".[18]
+Wyoming's constitution included women's suffrage and a pioneering article on water rights.[19] The United States admitted Wyoming into the Union as the 44th state on July 10, 1890.[18]
+Wyoming was the location of the Johnson County War of 1892, on which the controversial 1980 film Heaven's Gate was based, which erupted between competing groups of cattle ranchers. The passage of the federal Homestead Act led to an influx of small ranchers. A range war broke out when either or both of the groups chose violent conflict over commercial competition in the use of the public land.
+See: List of counties in Wyoming
+Demographics[edit]
+
+
+Historical populations
+
+
+Census
+Pop.
+
+%±
+
+
+1870
+9,118
+
+
+—
+
+
+
+1880
+20,789
+
+128.0%
+
+
+1890
+62,555
+
+200.9%
+
+
+1900
+92,531
+
+47.9%
+
+
+1910
+145,965
+
+57.7%
+
+
+1920
+194,402
+
+33.2%
+
+
+1930
+225,565
+
+16.0%
+
+
+1940
+250,742
+
+11.2%
+
+
+1950
+290,529
+
+15.9%
+
+
+1960
+330,066
+
+13.6%
+
+
+1970
+332,416
+
+0.7%
+
+
+1980
+469,557
+
+41.3%
+
+
+1990
+453,588
+
+−3.4%
+
+
+2000
+493,782
+
+8.9%
+
+
+2010
+563,626
+
+14.1%
+
+
+Est. 2012
+576,412
+
+2.3%
+
+
+Sources: 1910–2010[20][21][22]
+
+
+
+
+
+
+Wyoming Population Density Map
+
+
+Population[edit]
+The United States Census Bureau estimates that the population of Wyoming was 576,412 on July 1, 2012, a 2.3% increase since the 2010 United States Census.[1] The center of population of Wyoming is located in Natrona County.[23][24]
+According to the 2010 Census, the racial composition of the population was:
+
+90.7% White American
+0.8% Black or African American
+2.4% American Indian and Alaska Native
+0.8% Asian American
+0.1% Native Hawaiian and other Pacific Islander,
+2.2% from two or more races.
+3.0% some other race
+
+Ethnically, 8.9% of the total population was of Hispanic or Latino origin (they may be of any race) and 91.1% Non-Hispanic, with non-Hispanic whites constituting the largest non-Hispanic group at 85.9%.[25]
+As of 2012, Wyoming had an estimated population of 576,412, which was an increase of 9,056, or 1.6%, from the prior year and an increase of 12,786, or 2.3%, since the 2010 census. This includes a natural increase since the last census of 12,165 people (that is 33,704 births minus 21,539 deaths) and an increase from net migration of 4,035 people into the state. Immigration from outside the United States resulted in a net increase of 2,264 people, and migration within the country produced a net increase of 1,771 people. In 2004, the foreign-born population was 11,000 (2.2%). In 2005, total births in Wyoming numbered 7,231 (Birth Rate of 14.04).[26] Sparsely populated, Wyoming is the least populous (total number of people) state of the United States, and has the second lowest population density, behind Alaska. It is one of only two states with a smaller population than the nation's capital, Washington, D.C. (the other state is Vermont).
+The largest ancestry groups in Wyoming are: German (26.0%), English (16.0%), Irish (13.3%), American (6.5%), Norwegian (4.3%), and Swedish (3.5%).
+As of 2011, 24.9% of Wyoming's population younger than age 1 were minorities(note: children born to white hispanics are counted as minority group).[27]
+Religion[edit]
+The religious affiliations of the people of Wyoming are shown in the table below:
+
+Christian – 78%
+
+Protestant – 51%
+
+Lutheran – 8%
+Baptist – 8%
+Methodist – 6%
+Presbyterian – 4%
+Episcopal – 4%
+Other Protestant or general Protestant – 21%
+
+
+Catholic – 16%
+LDS (Mormon) – 11%
+
+
+Other Religions – 1%
+
+
+Non-Religious – 21%
+
+The largest denominations by number of adherents in 2000 were the Catholic Church with 80,421; the Church of Jesus Christ of Latter-day Saints with 47,129 (in 2010 was 63,069); and the Wyoming Southern Baptist Convention with 17,101.[28]
+Economy[edit]
+See also: Wyoming locations by per capita income
+
+
+
+
+Electricity generating wind farm in Uinta County.
+
+
+According to the 2012 U.S. Bureau of Economic Analysis report, Wyoming’s gross state product was $38.4 billion.[29]
+As of January 2010, the state's unemployment rate is 7.6%.[30] Components of Wyoming's economy differ significantly from those of other states.
+The mineral extraction industry and travel and tourism sector are the main drivers behind Wyoming’s economy. The federal government owns about 50% of its landmass, while 6% is controlled by the state. Total taxable values of mining production in Wyoming for 2001 was over $6.7 billion. The tourism industry accounts for over $2 billion in revenue for the state.
+In 2002, more than six million people visited Wyoming’s national parks and monuments. The key tourist attractions in Wyoming include Grand Teton National Park, Yellowstone National Park, Devils Tower National Monument, Independence Rock and Fossil Butte National Monument. Each year Yellowstone National Park, the world's first national park, receives three million visitors.
+Historically, agriculture has been an important component of Wyoming’s economy. Its overall importance to the performance of Wyoming’s economy has waned. However, agriculture is still an essential part of Wyoming’s culture and lifestyle. The main agricultural commodities produced in Wyoming include livestock (beef), hay, sugar beets, grain (wheat and barley), and wool. More than 91% of land in Wyoming is classified as rural.
+Mineral production[edit]
+
+
+
+
+A Wyoming coal mine
+
+
+Wyoming’s mineral commodities include coal, natural gas, coalbed methane, crude oil, uranium, and trona.
+
+Coal: Wyoming produced 395.5 million short tons (358.8 million metric tons) of coal in 2004. The state is the number one producer of coal in the U.S.[31] Wyoming possesses a reserve of 68.7 billion tons (62.3 billion metric tons) of coal. Major coal areas include the Powder River Basin and the Green River Basin
+Natural gas: Wyoming produced 2,254 trillion cubic feet of natural gas in 2007. The state ranked 2nd nationwide for natural gas production in 2007.[32] The major markets for natural gas include industrial, commercial, and domestic heating.
+
+
+
+
+
+A Drilling rig drills for natural gas just west of the Wind River Range in the Wyoming Rockies
+
+
+
+Coal Bed Methane (CBM): The boom for CBM began in the mid-1990s. CBM is characterized as methane gas that is extracted from Wyoming’s coal bed seams. It is another means of natural gas production. There has been substantial CBM production in the Powder River Basin. In 2002, the CBM production yield was 327.5 billion cubic feet (9.3 km³).
+Crude oil: Wyoming produced 53,400,000 barrels (8,490,000 m3) of crude oil in 2007. The state ranked 5th nationwide in oil production in 2007.[32] Petroleum is most often used as a motor fuel, but it is also utilized in the manufacture of plastics, paints, and synthetic rubber.
+Trona: Wyoming possesses the largest known reserve of trona in the world[33] Trona is used for manufacturing glass, paper, soaps, baking soda, water softeners, and pharmaceuticals. In 2008 Wyoming produced 46 million short tons (41.7 million metric tons) of trona, 25% of the world's production.[33]
+Diamonds: The Kelsey Lake Diamond Mine, located in Colorado less than 1,000 feet (300 m) from the Wyoming border, produced gem quality diamonds for several years. The Wyoming craton, which hosts the kimberlite volcanic pipes that were mined, underlies most of Wyoming.
+Uranium: Although uranium mining in Wyoming is much less active than it was in previous decades, recent increases in the price of uranium have generated new interest in uranium prospecting and mining.
+
+Taxes[edit]
+Wyoming receives more federal tax dollars per capita in aid than any other state except Alaska. The federal aid per capita in Wyoming is more than double the U.S. average.[34] Unlike most other states, Wyoming does not levy an individual or corporate income tax. In addition, Wyoming does not assess any tax on retirement income earned and received from another state. Wyoming has a state sales tax of 4%. Counties have the option of collecting an additional 1% tax for general revenue and a 1% tax for specific purposes, if approved by voters. Food for human consumption is not subject to sales tax.[35] There also is a county lodging tax that varies from 2% to 5%. The state collects a use tax of 5% on items purchased elsewhere and brought into Wyoming. All property tax is based on the assessed value of the property and Wyoming's Department of Revenue's Ad Valorem Tax Division supports, trains, and guides local government agencies in the uniform assessment, valuation and taxation of locally assessed property. "Assessed value" means taxable value; "taxable value" means a percent of the fair market value of property in a particular class. Statutes limit property tax increases. For county revenue, the property tax rate cannot exceed 12 mills (or 1.2%) of assessed value. For cities and towns, the rate is limited to 8 mills (0.8%). With very few exceptions, state law limits the property tax rate for all governmental purposes.
+Personal property held for personal use is tax-exempt. Inventory if held for resale, pollution control equipment, cash, accounts receivable, stocks and bonds are also exempt. Other exemptions include property used for religious, educational, charitable, fraternal, benevolent and government purposes and improvements for handicapped access. Mine lands, underground mining equipment, and oil and gas extraction equipment are exempt from property tax but companies must pay a gross products tax on minerals and a severance tax on mineral production.[36][37]
+Wyoming does not collect inheritance taxes. Because of the phase-out of the federal estate tax credit, Wyoming's estate tax is not imposed on estates of persons who died in 2005. There is limited estate tax related to federal estate tax collection.
+In 2008, the Tax Foundation ranked Wyoming as having the single most "business friendly" tax climate of all 50 states.[38] Wyoming state and local governments in fiscal year 2007 collected $2.242 billion in taxes, levies, and royalties from the oil and gas industry. The state's mineral industry, including oil, gas, trona, and coal provided $1.3 billion in property taxes from 2006 mineral production.[32]
+Transportation[edit]
+
+
+
+
+Map of Wyoming - PDF
+
+
+The largest airport in Wyoming is Jackson Hole Airport, with over 500 employees.[39] Three interstate highways and thirteen U.S. highways pass through Wyoming. In addition, the state is served by the Wyoming state highway system.
+Interstate 25 enters the state south of Cheyenne and runs north, intersecting Interstate 80 in Cheyenne. It passes through Casper and ends at Interstate 90 near Buffalo. Interstate 80 crosses the Utah border west of Evanston and runs east through the southern half of the state, passing through Cheyenne before entering Nebraska near Pine Bluffs. Interstate 90 comes into Wyoming near Parkman and cuts through the northern part of the state. It serves Gillette and enters South Dakota east of Sundance.
+The U.S. highways that pass through the state are U.S. Highways 14, 16, 18, 20, 26, 30, 85, 87, 89, 189, 191, 212, and 287.
+See also: List of Wyoming railroads, List of airports in Wyoming, State highways in Wyoming.
+Wyoming is one of only two states (the other being South Dakota) in the 48 contiguous states not served by Amtrak.
+
+Wind River Indian Reservation[edit]
+Main article: Wind River Indian Reservation
+The Wind River Indian Reservation is shared by the Eastern Shoshone and Northern Arapaho tribes of Native Americans in the central western portion of the state near Lander. The reservation is home to 2,500 Eastern Shoshone and 5,000 Northern Arapaho.[40]
+Chief Washakie established the reservation in 1868[41] as the result of negotiations with the federal government in the Fort Bridger Treaty.[42] However, the Northern Arapaho were forced onto the Shoshone reservation in 1876 by the federal government after the government failed to provide a promised separate reservation.[42]
+Today the Wind River Indian Reservation is jointly owned, with each tribe having a 50% interest in the land, water, and other natural resources.[43] The reservation is a sovereign, self-governed land with two independent governing bodies: the Eastern Shoshone Tribal Government and the Northern Arapaho Tribal Government. The Eastern Shoshone Business Council meets jointly with the Northern Arapaho Business Council as the Joint Business Council to decide matters that affect both tribes.[41] Six elected council members from each tribe serve on the joint council.
+State law and government[edit]
+Wyoming's Constitution established three branches of government: the executive, legislative, and judicial branches.
+The Wyoming state legislature comprises a House of Representatives with 60 members and a Senate with 30 members.
+The executive branch is headed by the governor and includes a secretary of state, auditor, treasurer and superintendent of public instruction. Wyoming does not have a lieutenant governor. Instead the secretary of state stands first in the line of succession.
+Wyoming's sparse population warrants it only a single at-large seat in the U.S. House of Representatives, and hence only three votes in the Electoral College. Its low population renders Wyoming voters effectively more powerful in presidential elections than those in more populous states. For example, while Montana had a 2010 census population of 989,415 to Wyoming's 563,626, they both have the same number of electoral votes.
+Wyoming is an alcoholic beverage control state.
+Judicial system[edit]
+Wyoming's highest court is the Supreme Court of Wyoming, with five justices presiding over appeals from the state's lower courts. Wyoming is unusual in that it does not have an intermediate appellate court, like most states. This is largely attributable to the state's size and correspondingly lower caseload. Appeals from the state district courts go directly to the Wyoming Supreme Court. Wyoming also has state circuit courts (formerly county courts), of limited jurisdiction, which handle certain types of cases, such as civil claims with lower dollar amounts, misdemeanor criminal offenses, and felony arraignments. Circuit court judges also commonly hear small claims cases as well. All state court judges in Wyoming are nominated by the Judicial Nominating Commission and appointed by the Governor. They are then subject to a retention vote by the electorate.
+Politics[edit]
+
+Presidential elections results[44]
+
+Year
+Republicans
+Democrats
+
+
+2012
+68.64% 170,962
+27.82% 69,286
+
+
+2008
+64.78% 164,958
+32.54% 82,868
+
+
+2004
+68.86% 167,629
+29.07% 70,776
+
+
+2000
+67.76% 147,947
+27.70% 60,481
+
+
+1996
+49.81% 105,388
+36.84% 77,934
+
+
+1992
+39.70% 79,347
+34.10% 68,160
+
+
+1988
+60.53% 106,867
+38.01% 67,113
+
+
+1984
+70.51% 133,241
+28.24% 53,370
+
+
+1980
+62.64% 110,700
+27.97% 49,427
+
+
+1976
+59.30% 92,717
+39.81% 62,239
+
+
+1972
+69.01% 100,464
+30.47% 44,358
+
+
+1968
+55.76% 70,927
+35.51% 45,173
+
+
+1964
+43.44% 61,998
+56.56% 80,718
+
+
+1960
+55.01% 77,451
+44.99% 63,331
+
+
+Wyoming's political history defies easy classification. The state was the first to grant women the right to vote and to elect a woman governor.[45] On December 10, 1869, John Allen Campbell, the first Governor of the Wyoming Territory, approved the first law in United States history explicitly granting women the right to vote. This day was later commemorated as Wyoming Day.[45] On November 5, 1889, voters approved the first constitution in the world granting full voting rights to women.[46]
+While the state elected notable Democrats to federal office in the 1960s and 1970s, politics have become decidedly more conservative since the 1980s as the Republican Party came to dominate the state's congressional delegation. Today, Wyoming is represented in Washington by its two Senators, Mike Enzi and John Barrasso, and its one member of the House of Representatives, Congresswoman Cynthia Lummis. All three are Republicans. The state has not voted for a Democrat for president since 1964, one of only eight times since statehood. At present, there are only two relatively reliably Democratic counties: affluent Teton and college county Albany. In the 2004 presidential election, George W. Bush won his second-largest victory, with 69% of the vote. Former Vice President Dick Cheney is a Wyoming resident and represented the state in Congress from 1979 to 1989.
+Republicans are no less dominant at the state level. They have held a majority in the state senate continuously since 1936 and in the state house since 1964. However, Democrats held the governorship for all but eight years between 1975 and 2011. Uniquely, Wyoming elected Democrat Nellie Tayloe Ross as the first woman in U.S. history to serve as state governor. She served from 1925 to 1927 after winning a special election after her husband, William Bradford Ross, unexpectedly died a little more than a year into his term.[47]
+Further information: Political party strength in Wyoming
+
+Counties[edit]
+The state of Wyoming has 23 counties.
+
+
+
+
+An enlargeable map of the 23 counties of Wyoming.
+
+
+
+The 23 counties of the state of Wyoming[48]
+
+
+Rank
+County
+Population
+Rank
+County
+Population
+
+
+1
+Laramie
+94,483
+13
+Converse
+14,008
+
+
+2
+Natrona
+78,621
+14
+Goshen
+13,636
+
+
+3
+Campbell
+47,874
+15
+Big Horn
+11,794
+
+
+4
+Sweetwater
+45,267
+16
+Sublette
+10,368
+
+
+5
+Fremont
+41,110
+17
+Platte
+8,756
+
+
+6
+Albany
+37,276
+18
+Johnson
+8,615
+
+
+7
+Sheridan
+29,596
+19
+Washakie
+8,464
+
+
+8
+Park
+28,702
+20
+Crook
+7,155
+
+
+9
+Teton
+21,675
+21
+Weston
+7,082
+
+
+10
+Uinta
+21,025
+22
+Hot Springs
+4,822
+
+
+11
+Lincoln
+17,961
+23
+Niobrara
+2,456
+
+
+12
+Carbon
+15,666
+Wyoming Total
+576,412
+
+
+Wyoming license plates contain a number on the left that indicates the county where the vehicle is registered, ranked by an earlier census.[22] The county license plate numbers are as follows:
+
+
+License
+Plate
+Prefix
+County
+License
+Plate
+Prefix
+County
+License
+Plate
+Prefix
+County
+
+
+1
+Natrona
+9
+Big Horn
+17
+Campbell
+
+
+2
+Laramie
+10
+Fremont
+18
+Crook
+
+
+3
+Sheridan
+11
+Park
+19
+Uinta
+
+
+4
+Sweetwater
+12
+Lincoln
+20
+Washakie
+
+
+5
+Albany
+13
+Converse
+21
+Weston
+
+
+6
+Carbon
+14
+Niobrara
+22
+Teton
+
+
+7
+Goshen
+15
+Hot Springs
+23
+Sublette
+
+
+8
+Platte
+16
+Johnson
+ 
+ 
+
+
+Cities and towns[edit]
+
+
+
+
+City of Casper, Wyoming
+
+
+The State of Wyoming has 98 incorporated municipalities.
+
+The 20 Most Populous Wyoming Cities and Towns[49]
+
+Rank
+City
+County
+Population
+
+
+1
+City of Cheyenne
+Laramie
+60,096
+
+
+2
+City of Casper
+Natrona
+55,988
+
+
+3
+City of Laramie
+Albany
+31,312
+
+
+4
+City of Gillette
+Campbell
+29,389
+
+
+5
+City of Rock Springs
+Sweetwater
+23,229
+
+
+6
+City of Sheridan
+Sheridan
+17,517
+
+
+7
+City of Green River
+Sweetwater
+12,622
+
+
+8
+City of Evanston
+Uinta
+12,282
+
+
+9
+City of Riverton
+Fremont
+10,867
+
+
+10
+Town of Jackson
+Teton
+9,710
+
+
+11
+City of Cody
+Park
+9,653
+
+
+12
+City of Rawlins
+Carbon
+9,203
+
+
+13
+City of Lander
+Fremont
+7,571
+
+
+16
+City of Douglas
+Converse
+6,084
+
+
+15
+City of Powell
+Park
+6,393
+
+
+14
+City of Torrington
+Goshen
+6,690
+
+
+17
+City of Worland
+Washakie
+5,458
+
+
+18
+City of Buffalo
+Johnson
+4,624
+
+
+19
+Town of Newcastle
+Weston
+3,485
+
+
+20
+Town of Wheatland
+Platte
+3,680
+
+
+In 2005, 50.6% of Wyomingites lived in one of the 13 most populous Wyoming municipalities.
+Metropolitan areas[edit]
+The United States Census Bureau has defined two Metropolitan Statistical Areas and seven Micropolitan Statistical Areas for the State of Wyoming.
+
+U.S. Census Bureau Metropolitan and Micropolitan Statistical Areas of Wyoming[50]
+
+Census Area
+County
+Population
+
+
+Cheyenne, WY, Metropolitan Statistical Area
+Laramie County, Wyoming
+91,738
+
+
+Casper, WY, Metropolitan Statistical Area
+Natrona County, Wyoming
+75,450
+
+
+Gillette, WY, Micropolitan Statistical Area
+Campbell County, Wyoming
+46,133
+
+
+Rock Springs, WY, Micropolitan Statistical Area
+Sweetwater County, Wyoming
+43,806
+
+
+Riverton, WY, Micropolitan Statistical Area
+Fremont County, Wyoming
+40,123
+
+
+Laramie, WY, Micropolitan Statistical Area
+Albany County, Wyoming
+36,299
+
+
+Jackson, WY-ID, Micropolitan Statistical Area
+Teton County, Wyoming
+21,294
+
+
+Teton County, Idaho
+8,833
+
+
+Total
+30,127
+
+
+Sheridan, WY, Micropolitan Statistical Area
+Sheridan County, Wyoming
+29,116
+
+
+Evanston, WY, Micropolitan Statistical Area
+Uinta County, Wyoming
+21,118
+
+
+In 2008, 30.4% of Wyomingites lived in either of the Metropolitan Statistical Areas, and 73% lived in either a Metropolitan Statistical Area or a Micropolitan Statistical Area.
+Education[edit]
+Main article: List of high schools in Wyoming
+Public education is directed by the state superintendent of public instruction, an elected state official. Educational policies are set by the State Board of Education, a nine-member board appointed by the governor. The constitution prohibits the state from establishing curriculum and text book selections; these are the prerogatives of local school boards. The Wyoming School for the Deaf was the only in-state school dedicated to supporting deaf students in Wyoming, but it closed in summer of 2000.
+Higher education[edit]
+Main article: List of colleges and universities in Wyoming
+Wyoming has one public four-year institution, the University of Wyoming in Laramie. In addition, there are seven two-year community colleges spread through the state.
+Before the passing of a new law in 2006, Wyoming had hosted unaccredited institutions, many of them suspected diploma mills.[51] The 2006 law is forcing unaccredited institutions to make one of three choices: move out of Wyoming, close down, or apply for accreditation. The Oregon State Office of Degree Authorization predicts that in a few years the problem of diploma mills in Wyoming might be resolved.[52]
+Sports[edit]
+
+Wyoming Cavalry, American Indoor Football Association
+University of Wyoming, football, basketball, hockey, Swimming, racquetball, diving, soccer, golf, wrestling, tennis, volleyball, track and field, and rodeo.
+
+State symbols[edit]
+
+
+
+
+State flower of Wyoming: Indian Paintbrush
+
+
+
+
+
+
+The Bear River flowing through the southwest part of the state.
+
+
+
+
+
+
+Though the horned lizard is the Wyoming state reptile, a sign northwest of Thermopolis acknowledges the presence of prairie rattlesnakes, "feared by many and respected by most".
+
+
+
+State bird: Western Meadowlark (Sturnella neglecta)
+State coin: Sacagawea dollar
+State dinosaur: Triceratops
+State emblem: Bucking Horse and Rider
+State fish: Cutthroat Trout (Oncorhynchus clarki)
+State flag: Flag of the State of Wyoming
+State flower: Wyoming Indian paintbrush (Castilleja linariifolia)
+State fossil: Knightia
+State gemstone: Wyoming nephrite jade
+State grass: Western Wheatgrass (Pascopyrum smithii)
+State mammal: American Bison (Bison bison)
+State motto: Equal Rights
+State nicknames: Equality State; Cowboy State; Big Wonderful Wyoming
+State reptile: Horned lizard (Phrynosoma douglassi brevirostre)
+State seal: Great Seal of the State of Wyoming
+State soil: Forkwood (unofficial)
+State song: Wyoming (song) by Charles E. Winter & George E. Knapp
+State sport: Rodeo
+State tree: Plains Cottonwood (Populus sargentii)
+
+Wyomingites[edit]
+Notable Wyomingites are listed in the List of people from Wyoming.
+See also[edit]
+
+
+
+
+Wyoming portal
+
+
+
+
+Outline of Wyoming – organized list of topics about Wyoming
+Index of Wyoming-related articles
+
+
+References[edit]
+
+
+^ a b "Annual Estimates of the Population for the United States, Regions, States, and Puerto Rico: April 1, 2010 to July 1, 2012" (CSV). 2012 Population Estimates. United States Census Bureau, Population Division. December 2012. Retrieved December 24, 2012. 
+^ "Gannett Peak Cairn". NGS data sheet. U.S. National Geodetic Survey. Retrieved October 24, 2011. 
+^ a b "Elevations and Distances in the United States". United States Geological Survey. 2001. Retrieved October 24, 2011. 
+^ a b Elevation adjusted to North American Vertical Datum of 1988.
+^ Willam J. Gribb; Lawrence M. Ostrech. Databases and Algorithms to Determine the Boundary of Wyoming. University of Wyoming, Department of Geography. Retrieved December 14, 2008. 
+^ Ivars Peterson. "Rectangular States and Kinky Borders". Retrieved December 14, 2008. 
+^ Distance Calculator. Javascripter.net. Retrieved on 2013-07-12.
+^ a b MainEnvironment.org Public Land Ownership by State, 1995 Main Environment.org
+^ "CountryStudies.us". CountryStudies.us. Retrieved July 31, 2010. 
+^ "Countrystudies.us". Countrystudies.us. Retrieved July 31, 2010. 
+^
+
+The Yellowstone National Park at Project Gutenberg
+
+
+^ Bright, William (2004). Native American Place Names of the United States. Norman: University of Oklahoma Press, pg. 576
+^ State of Wyoming – Narrative[dead link]
+^ State of Wyoming – General Facts About Wyoming[dead link]
+^ "South Pass City Historic Site.".  Wyoming State Parks, Historic Sites & Trails
+^ Stevens, Horace Jared; Weed, Walter Harvey; Neale, Walter Garfield; Rand, Lenox Hawes; Sturgis, Edward Barney; Zimmerman, Joseph (1911). Mines Register: Successor to the Mines Handbook and the Copper Handbook, Describing the Non-ferrous Metal Mining Companies in the Western Hemisphere.  Mines Publication, 1911. Original from the University of Michigan.
+^ Larson, T. A. (1990). History of Wyoming. University of Nebraska Press. 
+^ a b "General Facts about Wyoming", wyoming.gov, Retrieved on July 2, 2008.
+^ Sodaro, Craig; Adams, Randy (1996). Frontier Spirit: The Story of Wyoming. Johnson Books. pp. 136–139. ISBN 1-55566-163-7. 
+^ Resident Population Data. "Resident Population Data – 2010 Census". 2010.census.gov. Retrieved December 24, 2012. 
+^ [1][dead link]
+^ a b "Historical decennial census population for Wyoming counties, cities, and towns". U.S. Census, State of Wyoming. Retrieved September 24, 2012. 
+^ "State & County QuickFacts". U.S. Census Bureau. 2013. Retrieved May 6, 2013. 
+^ "Centers of Population by State". U.S. Census Bureau. 2013. Retrieved May 9, 2013. 
+^ Wyoming QuickFacts from the US Census Bureau. Quickfacts.census.gov. Retrieved on 2013-07-12.
+^ "Hispanics fastest growing ethnic group in Wyoming". Billings Gazette via AP. May 21, 2007. Retrieved May 7, 2008. 
+^ Exner, Rich (June 3, 2012). "Americans under age 1 now mostly minorities, but not in Ohio: Statistical Snapshot". The Plain Dealer. 
+^ "TheArda.com". TheArda.com. Retrieved November 5, 2010. 
+^ "GDP by State". Bureau of Economic Analysis. Retrieved 2013-07-14. 
+^ Bls.gov; Local Area Unemployment Statistics
+^ "EIA State Energy Profiles: Wyoming". June 12, 2008. Retrieved June 24, 2008. 
+^ a b c "Petroleum Association of Wyoming". 
+^ a b Gearino, Jeff (February 16, 2009). "Soda ash companies enjoy record year". Casper Star Tribune. [dead link]
+^ https://www.census.gov/prod/2011pubs/fas-10.pdf
+^ Votes back repeal of food tax, Billings Gazette, March 3, 2006
+^ "Getting the Story Right; Mineral Taxation in Wyoming and West Virginia". West Virginia Center on Budget and Policy Blog. Retrieved November 10, 2012. 
+^ Wyoming Statutes Section 39-13-103
+^ "The Tax Foundation – Tax Research Areas – Wyoming". Taxfoundation.org. Retrieved July 31, 2010. 
+^ "Terminal Expansion". 
+^ "Wind River Country: Wind River Indian Reservation.". 
+^ a b Background of Wind River Reservation[dead link]
+^ a b "Chiefe: The Rez".  PBS. Independent Lens
+^ "Background: Northern Arapaho Tribe.". 
+^ Leip, David. "Presidential General Election Results Comparison – New York". US Election Atlas. Retrieved January 10, 2010. 
+^ a b "Today in History". The Library of Congress. Retrieved July 20, 2012. 
+^ "Today in History". The Library of Congress. Retrieved July 27, 2012. 
+^ Teva J. Scheer (2005). Governor lady: the life and times of Nellie Tayloe Ross. Columbia: University of Missouri Press. p. 73. ISBN 0-8262-1626-9.  |accessdate= requires |url= (help)
+^ "Annual Estimates of the Resident Population for Counties of Wyoming: April 1, 2010 to July 1, 2011" (CSV). 2011 Population Estimates. United States Census Bureau, Population Division. April 2012. Retrieved April 18, 2012. 
+^ "Table 4: Annual Estimates of the Population for Incorporated Places in Wyoming, Listed Alphabetically: April 1, 2000 to July 1, 2008" (CSV). 2008 Population Estimates. U.S. Census Bureau, Population Division. June 20, 2006. Retrieved January 9, 2007. 
+^ "Census.gov: Population Estimates and Estimated Components of Change for Metropolitan and Micropolitan Statistical Areas and Their Geographic Components: April 1, 2000 to July 1, 2008" (CSV). 2008 Population Estimates. U.S. Census Bureau, Population Division. August 18, 2006. Retrieved January 9, 2007. [dead link]
+^ Alleged "diploma mills" flocking to Wyoming, by Mead Gruver, Seattle Times, February 9, 2005
+^ Unaccredited Colleges, Potential problems with degree suppliers located in these states – Wyoming, Oregon State Office of Degree Authorization
+
+
+External links[edit]
+
+
+Find more about Wyoming at Wikipedia's sister projects
+
+
+
+Definitions and translations from Wiktionary
+
+
+
+Media from Commons
+
+
+
+Learning resources from Wikiversity
+
+
+
+Quotations from Wikiquote
+
+
+
+Source texts from Wikisource
+
+
+
+Textbooks from Wikibooks
+
+
+
+Travel information from Wikivoyage
+
+
+
+State of Wyoming government official website
+Official Wyoming State Travel Website – Forever West
+Wyoming at the Open Directory Project
+ Geographic data related to Wyoming at OpenStreetMap
+
+
+
+
+
+
+
+
+ Topics related to Wyoming
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+ State of Wyoming
+
+
+
+
+
+
+
+
+Cheyenne (capital)
+
+
+
+
+
+
+
+Topics
+
+
+
+Bibliography
+Fauna
+Governors
+Delegations
+Geography
+Government
+History
+People
+Visitor attractions
+State symbols
+Radio stations
+
+
+
+
+
+
+
+
+Society
+
+
+
+Culture
+Crime
+Demographics
+Economy
+Education
+Politics
+
+
+
+
+
+
+
+
+Regions
+
+
+
+Black Hills
+Grand Teton
+Great Basin
+Powder River Country
+Red Desert
+Yellowstone
+
+
+
+
+
+
+
+
+Cities
+
+
+
+Buffalo
+Casper
+Cheyenne
+Cody
+Douglas
+Evanston
+Gillette
+Green River
+Jackson
+Lander
+Laramie
+Powell
+Rawlins
+Riverton
+Rock Springs
+Sheridan
+Torrington
+Worland
+
+
+
+
+
+
+
+
+Counties
+
+
+
+Albany
+Big Horn
+Campbell
+Carbon
+Converse
+Crook
+Fremont
+Goshen
+Hot Springs
+Johnson
+Laramie
+Lincoln
+Natrona
+Niobrara
+Park
+Platte
+Sheridan
+Sublette
+Sweetwater
+Teton
+Uinta
+Washakie
+Weston
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Political divisions of the United States
+
+
+
+
+
+
+States
+
+
+
+Alabama
+Alaska
+Arizona
+Arkansas
+California
+Colorado
+Connecticut
+Delaware
+Florida
+Georgia
+Hawaii
+Idaho
+Illinois
+Indiana
+Iowa
+Kansas
+Kentucky
+Louisiana
+Maine
+Maryland
+Massachusetts
+Michigan
+Minnesota
+Mississippi
+Missouri
+Montana
+Nebraska
+Nevada
+New Hampshire
+New Jersey
+New Mexico
+New York
+North Carolina
+North Dakota
+Ohio
+Oklahoma
+Oregon
+Pennsylvania
+Rhode Island
+South Carolina
+South Dakota
+Tennessee
+Texas
+Utah
+Vermont
+Virginia
+Washington
+West Virginia
+Wisconsin
+Wyoming
+
+
+
+
+
+
+
+
+Federal district
+
+
+Washington, D.C.
+
+
+
+
+
+
+
+Insular areas
+
+
+
+American Samoa
+Guam
+Northern Mariana Islands
+Puerto Rico
+U.S. Virgin Islands
+
+
+
+
+
+
+
+
+Outlying islands
+
+
+
+Baker Island
+Howland Island
+Jarvis Island
+Johnston Atoll
+Kingman Reef
+Midway Atoll
+Navassa Island
+Palmyra Atoll
+Wake Island
+
+
+
+
+
+
+
+
+Indian reservations
+
+
+
+List of Indian reservations in the United States
+
+Largest
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+United States topics
+
+
+
+
+
+
+History
+
+
+
+
+Timeline
+
+
+
+Pre-Columbian era
+Colonial era
+
+Thirteen Colonies
+Colonial American military history
+
+
+American Revolution
+
+War
+
+
+American frontier
+Federalist Era
+War of 1812
+Territorial acquisitions
+Territorial evolution
+Mexican–American War
+Civil War
+Reconstruction Era
+Indian Wars
+Gilded Age
+Progressive Era
+African-American Civil Rights Movement (1896–1954)
+Spanish–American War
+Imperialism
+World War I
+Roaring Twenties
+Great Depression
+World War II
+
+Home front
+
+
+Cold War
+Korean War
+Space Race
+African-American Civil Rights Movement (1955–68)
+Feminist Movement
+Vietnam War
+Post-Cold War (1991–present)
+War on Terror
+
+War in Afghanistan
+Iraq War
+War in North-West Pakistan
+
+
+Timeline of modern American conservatism
+
+
+
+
+
+
+
+
+By topic
+
+
+
+Demographic
+Discoveries
+Economic
+
+Debt Ceiling
+
+
+Inventions
+
+before 1890
+1890–1945
+1946–1991
+after 1991
+
+
+Military
+Postal
+Technological and industrial
+
+
+
+
+
+
+
+
+
+
+
+Geography
+
+
+
+
+
+
+
+Cities, towns, and villages
+Counties
+Extreme points
+Islands
+Mountains
+
+Peaks
+Appalachian
+Rocky
+
+
+National Park System
+Regions
+
+West Coast
+East Coast
+Great Plains
+Mid-Atlantic
+Midwestern
+New England
+Northwestern
+Northeastern
+Southwestern
+Southeastern
+Western
+Eastern
+Northern
+Southern
+Pacific
+
+
+Rivers
+
+Colorado
+Columbia
+Mississippi
+Missouri
+Ohio
+Rio Grande
+
+
+States
+Territory
+Water supply and sanitation
+
+
+
+
+
+
+
+
+
+
+
+Governance
+
+
+
+
+
+
+
+
+Federal
+
+
+
+
+Executive
+
+
+
+President
+
+Executive Office
+
+
+Cabinet / Executive departments
+Civil service
+Independent agencies
+Law enforcement
+Public policy
+
+
+
+
+
+
+
+
+Legislature
+
+
+
+Congress
+
+Senate
+
+Vice President
+President pro tem
+
+
+House of Representatives
+
+Speaker
+
+
+
+
+
+
+
+
+
+
+
+
+Judiciary
+
+
+
+Supreme Court
+Federal courts
+Courts of appeals
+District courts
+
+
+
+
+
+
+
+
+Law
+
+
+
+Constitution
+
+Federalism
+Preemption
+Separation of powers
+
+
+Bill of Rights
+
+Civil liberties
+
+
+Code of Federal Regulations
+Federal Reporter
+United States Code
+United States Reports
+
+
+
+
+
+
+
+
+Intelligence
+
+
+
+Central Intelligence Agency
+Defense Intelligence Agency
+National Security Agency
+Federal Bureau of Investigation
+
+
+
+
+
+
+
+
+Uniformed
+
+
+
+Armed Forces
+
+Air Force
+Army
+Marine Corps
+Navy
+National Guard
+
+
+Coast Guard
+NOAA Corps
+Public Health Service Corps
+
+
+
+
+
+
+
+
+
+
+
+Politics
+
+
+
+Administrative divisions
+Elections
+
+Electoral College
+
+
+Foreign policy
+Foreign relations
+Ideologies
+Local governments
+Parties
+
+Democratic Party
+Republican Party
+Third parties
+
+
+51st state
+
+Political status of Puerto Rico
+
+
+Red states and blue states
+Scandals
+State governments
+Uncle Sam
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Economy
+
+
+
+
+
+
+
+Economic issues
+Agriculture
+Banking
+Communications
+Companies
+
+by state
+
+
+Dollar (currency)
+Energy
+Federal Budget
+Federal Reserve System
+Financial position
+Insurance
+Labor unions
+Mining
+Public debt
+Social welfare programs
+Taxation
+Tourism
+Trade
+Transportation
+Unemployment
+Wall Street
+
+
+
+
+
+
+
+
+
+
+
+Society
+
+
+
+
+
+
+
+
+By topic
+
+
+
+Crime
+Demographics
+Education
+Family structure
+Health care
+Health insurance
+Incarceration
+Languages
+
+American English
+Spanish
+French
+German
+
+
+Media
+People
+Public holidays
+Religion
+Sports
+
+
+
+
+
+
+
+
+Social class
+
+
+
+Affluence
+American Dream
+Educational attainment
+Homelessness
+Homeownership
+Household income
+Income inequality
+Middle class
+Personal income
+Poverty
+Professional and working class conflict
+Standard of living
+Smoking
+Wealth
+
+
+
+
+
+
+
+
+Issues
+
+
+
+Abortion
+Affirmative action
+Anti-Americanism
+Capital punishment
+Discrimination
+Drug policy
+Energy policy
+Environmental movement
+Exceptionalism
+Gun politics
+Health care reform
+Human rights
+Immigration
+Illegal Immigration
+International rankings
+LGBT rights
+
+Same-sex marriage
+
+
+Nationalism
+Obesity
+Racism
+Separation of church and state
+Terrorism
+
+
+
+
+
+
+
+
+Culture
+
+
+
+Architecture
+Art
+Cinema
+Cuisine
+Dance
+Fashion
+Flag
+Folklore
+Literature
+Music
+Philosophy
+Radio
+Television
+Theater
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Outline
+Index
+
+
+
+
+
+
+
+
+
+
+
+Book
+Category
+Portal
+WikiProject
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Montana
+ North Dakota
+
+
+
+ Idaho
+
+ South Dakota
+ Nebraska
+
+
+
+
+
+
+
+
+  Wyoming: Outline • Index  
+
+
+
+
+
+
+
+
+
+
+
+ Utah
+ Colorado
+ Kansas
+
+
+
+
+
+Preceded by
+Idaho
+List of U.S. states by date of statehood
+Admitted on July 10, 1890 (44th)
+Succeeded by
+Utah
+
+
+Coordinates: 43°00′N 107°30′W﻿ / ﻿43°N 107.5°W﻿ / 43; -107.5
+
+
+ 
+NewPP limit report
+CPU time usage: 7.600 seconds
+Real time usage: 9.061 seconds
+Preprocessor visited node count: 19748/1000000
+Preprocessor generated node count: 59468/1500000
+Post‐expand include size: 439030/2048000 bytes
+Template argument size: 184483/2048000 bytes
+Highest expansion depth: 28/40
+Expensive parser function count: 44/500
+Lua time usage: 0.463s
+Lua memory usage: 2.9 MB
+
+
+ Saved in parser cache with key enwiki:pcache:idhash:33611-0!*!0!!en!4!* and timestamp 20131001180238 
+								
+				Retrieved from "http://en.wikipedia.org/w/index.php?title=Wyoming&oldid=574671591"				
+												Categories: WyomingStates and territories established in 1890States of the United StatesWestern United StatesHidden categories: All articles with dead external linksArticles with dead external links from July 2010Articles with dead external links from July 2013Articles with dead external links from August 2012Pages using citations with accessdate and no URLArticles with dead external links from September 2010Use mdy dates from February 2012Wikipedia indefinitely move-protected pagesArticles including recorded pronunciations												
+							
+		
+		
+			Navigation menu
+			
+				
+	Personal tools
+	
+Create accountLog in	
+
+				
+					
+	Namespaces
+	
+					Article
+					Talk
+			
+
+
+	
+		
+	Variants
+	
+		
+					
+	
+
+				
+				
+					
+	Views
+	
+					Read
+					Edit
+					View history
+			
+
+
+	Actions
+	
+		
+					
+	
+
+
+	Search
+	
+				
+																				
+		
+	
+
+				
+			
+			
+					
+				
+	Navigation
+	
+		
+			Main page
+			Contents
+			Featured content
+			Current events
+			Random article
+			Donate to Wikipedia
+		
+	
+
+
+	Interaction
+	
+		
+			Help
+			About Wikipedia
+			Community portal
+			Recent changes
+			Contact page
+		
+	
+
+
+	Toolbox
+	
+		
+			What links here
+			Related changes
+			Upload file
+			Special pages
+			Permanent link
+			Page information
+			Data item
+Cite this page		
+	
+
+
+	Print/export
+	
+		
+			Create a book
+			Download as PDF
+			Printable version
+		
+	
+
+
+	Languages
+	
+		
+			Afrikaans
+			አማርኛ
+			Ænglisc
+			العربية
+			Aragonés
+			ܐܪܡܝܐ
+			অসমীয়া
+			Asturianu
+			Avañe'ẽ
+			Aymar aru
+			Azərbaycanca
+			বাংলা
+			Bân-lâm-gú
+			Беларуская
+			Беларуская (тарашкевіца)‎
+			Bikol Central
+			Bislama
+			Български
+			Boarisch
+			བོད་ཡིག
+			Bosanski
+			Brezhoneg
+			Català
+			Чӑвашла
+			Česky
+			Corsu
+			Cymraeg
+			Dansk
+			Deutsch
+			Diné bizaad
+			Eesti
+			Ελληνικά
+			Español
+			Esperanto
+			Euskara
+			فارسی
+			Fiji Hindi
+			Føroyskt
+			Français
+			Frysk
+			Gaeilge
+			Gaelg
+			Gagauz
+			Gàidhlig
+			Galego
+			客家語/Hak-kâ-ngî
+			Хальмг
+			한국어
+			Hawai`i
+			Հայերեն
+			हिन्दी
+			Hrvatski
+			Ido
+			Igbo
+			Ilokano
+			বিষ্ণুপ্রিয়া মণিপুরী
+			Bahasa Indonesia
+			Interlingua
+			Iñupiak
+			Ирон
+			Íslenska
+			Italiano
+			עברית
+			Basa Jawa
+			ಕನ್ನಡ
+			Kapampangan
+			ქართული
+			Kernowek
+			Kiswahili
+			Kreyòl ayisyen
+			Kurdî
+			Кырык мары
+			Ladino
+			Latina
+			Latviešu
+			Lëtzebuergesch
+			Lietuvių
+			Ligure
+			Limburgs
+			Lumbaart
+			Magyar
+			Македонски
+			Malagasy
+			മലയാളം
+			Māori
+			मराठी
+			مصرى
+			مازِرونی
+			Bahasa Melayu
+			Монгол
+			မြန်မာဘာသာ
+			Nāhuatl
+			Nederlands
+			नेपाल भाषा
+			日本語
+			Nordfriisk
+			Norsk bokmål
+			Norsk nynorsk
+			Occitan
+			Олык марий
+			Oʻzbekcha
+			ਪੰਜਾਬੀ
+			پنجابی
+			Papiamentu
+			Piemontèis
+			Plattdüütsch
+			Polski
+			Português
+			Română
+			Rumantsch
+			Runa Simi
+			Русский
+			Саха тыла
+			Sámegiella
+			संस्कृतम्
+			Scots
+			Shqip
+			Sicilianu
+			Simple English
+			Slovenčina
+			Slovenščina
+			Ślůnski
+			کوردی
+			Српски / srpski
+			Srpskohrvatski / српскохрватски
+			Suomi
+			Svenska
+			Tagalog
+			தமிழ்
+			Татарча/tatarça
+			ไทย
+			Tsetsêhestâhese
+			Türkçe
+			Українська
+			اردو
+			ئۇيغۇرچە / Uyghurche
+			Tiếng Việt
+			Volapük
+			Winaray
+			ייִדיש
+			Yorùbá
+			粵語
+			Zazaki
+			Žemaitėška
+			中文
+			
+			Edit links
+		
+	
+
+			
+		
+		
+							
+											 This page was last modified on 26 September 2013 at 23:26.
+											Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. 
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+									
+							
+											Privacy policy
+											About Wikipedia
+											Disclaimers
+											Contact Wikipedia
+											Developers
+											Mobile view
+									
+										
+					
+						
+					
+					
+						
+					
+				
+						
+		
+		
+
+
+ Served by mw1091 in 0.317 secs. 
+	
+if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Wyoming","wgTitle":"Wyoming","wgCurRevisionId":574671591,"wgArticleId":33611,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["All articles with dead external links","Articles with dead external links from July 2010","Articles with dead external links from July 2013","Articles with dead external links from August 2012","Pages using citations with accessdate and no URL","Articles with dead external links from September 2010","Use mdy dates from February 2012","Wikipedia indefinitely move-protected pages","Articles including recorded pronunciations","Wyoming","States and territories established in 1890","States of the United States","Western United States"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Wyoming","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":["sysop"],"wgVectorEnabledModules":{"collapsiblenav":true,"experiments":true},"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"templateEditor":false,"templates":false,"preview":false,"previewDialog":false,"publish":false,"toc":false},"wgArticleFeedbackv5Permissions":{"aft-reader":true,"aft-member":false,"aft-editor":false,"aft-monitor":false,"aft-administrator":false,"aft-oversighter":false,"aft-noone":false},"wgVisualEditor":{"isPageWatched":false,"magnifyClipIconURL":"//bits.wikimedia.org/static-1.22wmf18/skins/common/images/magnify-clip.png","pageLanguageCode":"en","pageLanguageDir":"ltr"},"wikilove-recipient":"","wikilove-anon":0,"wgGuidedTourHelpGuiderUrl":"Help:Guided tours/guider","wgULSAcceptLanguageList":[],"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia","aftv5Article":{"id":33611,"title":"Wyoming","namespace":0,"categories":["All articles with dead external links","Articles including recorded pronunciations","Articles with dead external links from August 2012","Articles with dead external links from July 2010","Articles with dead external links from July 2013","Articles with dead external links from September 2010","Pages using citations with accessdate and no URL","States and territories established in 1890","States of the United States","Use mdy dates from February 2012","Western United States","Wikipedia indefinitely move-protected pages","Wyoming"],"permissionLevel":false},"wgWikibaseItemId":"Q1214"});
+}if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":false,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,
+"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"useeditwarning":1,"prefershttps":1,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"vector-simplesearch":1,"vector-collapsiblenav":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"aftv5-last-filter":null,"visualeditor-enable":0,"visualeditor-enable-experimental":0,"visualeditor-betatempdisable":0,"wikilove-enabled":1,"echo-subscriptions-web-page-review":true,"echo-subscriptions-email-page-review":false,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"echo-notify-show-link":true,"echo-show-alert":true,"echo-email-frequency":0,"echo-email-format":"html","echo-subscriptions-email-system":true,"echo-subscriptions-web-system":true,"echo-subscriptions-email-other":false,"echo-subscriptions-web-other":true,"echo-subscriptions-email-edit-user-talk":false,"echo-subscriptions-web-edit-user-talk":true,
+"echo-subscriptions-email-reverted":false,"echo-subscriptions-web-reverted":true,"echo-subscriptions-email-article-linked":false,"echo-subscriptions-web-article-linked":false,"echo-subscriptions-email-mention":false,"echo-subscriptions-web-mention":true,"echo-subscriptions-web-edit-thank":true,"echo-subscriptions-email-edit-thank":false,"gettingstarted-task-toolbar-show-intro":true,"uls-preferences":"","language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs446":false,"searchNs447":false
+,"searchNs710":false,"searchNs711":false,"searchNs828":false,"searchNs829":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-mySandbox":1,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:156d8fe0ae17f8afd74198057563e45d */
+}if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","ext.visualEditor.viewPageTarget.init","ext.wikimediaShopLink.core","ext.uls.init","ext.uls.interface","wikibase.client.init","ext.centralNotice.bannerController","skins.vector.js"]);
+}/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}if(window.mw){
+mw.loader.load(["mobile.desktop","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.cite","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","mw.MwEmbedSupport.style","ext.vector.collapsibleNav","ext.articleFeedbackv5.startup","ext.gettingstarted.logging","ext.gettingstarted.openTask","schema.HttpsSupport","ext.coreEvents.httpsSupport","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","mw.PopUpMediaTransform"],null,true);
+}

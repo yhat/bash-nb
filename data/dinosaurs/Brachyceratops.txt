@@ -1,0 +1,368 @@
+
+
+
+Brachyceratops - Wikipedia, the free encyclopedia
+
+
+
+
+
+
+
+
+
+
+
+
+a:lang(ar),a:lang(ckb),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:0de201fdea5d684523607ed88007b127 */
+
+
+
+
+[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.22wmf18/skins/vector/csshover.min.htc")}</style><![endif]
+
+		
+		
+		
+			
+			
+						 CentralNotice 
+						Brachyceratops
+			
+								From Wikipedia, the free encyclopedia
+								
+												
+					Jump to:					navigation, 					search
+				
+				
+
+
+Brachyceratops
+Temporal range: Late Cretaceous, 74.5Ma
+
+PreЄ
+Є
+O
+S
+D
+C
+P
+T
+J
+K
+Pg
+N
+
+
+
+↓
+
+
+
+
+
+
+
+
+
+Scientific classification 
+
+
+Kingdom:
+Animalia
+
+
+Phylum:
+Chordata
+
+
+Clade:
+Sauropsida
+
+
+Clade:
+Dinosauria
+
+
+Order:
+†Ornithischia
+
+
+Family:
+†Ceratopsidae
+
+
+Subfamily:
+†Centrosaurinae
+
+
+Genus:
+†Brachyceratops
+Gilmore, 1914
+
+
+Species:
+† B. montanensis
+
+
+Binomial name
+
+
+Brachyceratops montanensis
+Gilmore, 1914
+
+
+
+Brachyceratops ('short horned face') is a dubious genus of ceratopsian dinosaur known only from partial juvenile specimens dating to the late Cretaceous Period of Montana, United States.
+Brachyceratops has historically been known entirely from juvenile remains, with one specimen having since been re-classified as Rubeosaurus ovatus.[1][2]
+
+
+Contents
+
+
+1 Discoveries and species
+2 Skull
+3 Classification
+4 References
+
+
+Discoveries and species[edit]
+Brachyceratops montanensis, the type species, was first discovered in the Two Medicine Formation (Campanian, about 74 million years old) on a Blackfoot Indian Reservation in Teton County in north-central Montana.[3] The original find was made in August 1913 by C. W. Gilmore[3] and his assistant J.F. Strayrer and was named and shortly described by Gilmore one year later. The generic name is derived from Greek βραχύς, brachys, "short", κέρας, keras, "horn" and ὤψ, ops, "face", in reference to the short snout. The specific name refers to the provenance from Montana.[4]
+
+
+
+
+Norman Ross completing the Smithsonian mount
+
+
+All that was found were incomplete and jumbled remains of five juvenile individuals of about 1.5 m (5 feet) in length.[3] It has been speculated that these juveniles may have been nest mates that stayed together after hatching.[3] The holotype specimen is USNM 7951, a partial skull. The paratypes are USNM 7952, a snout, USNM 7953, a partial skeleton with skull and USNM 7957, a foot. The material is disarticulated but the preservation is excellent.[5] In 1917 Gilmore published a monography on Brachyceratops in which a reconstruction of the skeleton as a whole was given.[6]
+In 1939 Gilmore referred a larger subadult specimen, USNM 14765, to Brachyceratops.[7] All specimens are currently part of the collection of the Smithsonian Institution in Washington D.C.,[3] where a skeletal restoration is mounted.
+As Brachyceratops is known only from the remains of five juveniles — plus the subadult that Gilmore found about a mile from the original specimens —, it was long considered likely that these represented the immature forms of known centrosaurine ceratopsians,[3] [2] with Monoclonius often suggested as the likeliest candidate. By 2011 however, several studies had shown that the single specimen which was adult enough to be compared with related species, USNM 14765, represented the juvenile form of the later-named Rubeosaurus.
+Skull[edit]
+
+
+
+
+The skeleton mounted in the Smithsonian
+
+
+Among the five original specimens parts of three skulls were discovered, detached from their owner's body and fragmented.[3] Despite this, the skull showed that the animal had only small bumps over the eyes rather than full-grown horns like in the more famous ceratopsians such as Triceratops.[3] The nasal horn was thick and low, while its neck frill was moderately large.[3] Unfortunately the specimens were incomplete so it cannot be determined if there were parietal openings in the frill like some other ceratopsians possessed.[3]
+Classification[edit]
+
+
+
+
+Restoration of Rubeosaurus ovatus, the possible adult form
+
+
+Brachyceratops belonged to the Centrosaurinae, but its exact placement has been difficult to discover because it is known only from juvenile specimens. In 1997, Scott Sampson and colleagues re-examined Brachyceratops and noted that it is almost certainly the juvenile form of an already known centrosaurine dinosaur. However, because many features that distinguish ceratopsians from each other do not appear until adulthood, exactly which centrosaurine remained unknown, and Sampson et al. classified Brachyceratops as a nomen dubium, or dubious name.[8] In 2007, Michael J. Ryan and colleagues suggested that Brachyceratops was possibly the juvenile form of Styracosaurus ovatus, which has since been reclassified as Rubeosaurus.[1] A 2011 study supported this idea for the most mature specimen of Brachyceratops, USNM 14765, which shows one unique newly evolved feature (apomorphy) in common with Rubeosaurus to the exclusion of other centrosaurines. However, the same study suggested that because the holotype specimen of Brachyceratops is too incomplete and juvenile to preserve any determinable apomorphies, Brachyceratops must be considered a nomen dubium, and cannot be a senior synonym of Rubeosaurus.[9]
+References[edit]
+
+
+^ a b Ryan, Michael J.; Holmes, Robert; and Russell, A.P. (2007). "A revision of the late Campanian centrosaurine ceratopsid genus Styracosaurus from the Western Interior of North America". Journal of Vertebrate Paleontology 27 (4): 944–962. doi:10.1671/0272-4634(2007)27[944:AROTLC]2.0.CO;2. Retrieved 2010-08-19. 
+^ a b Andrew T. McDonald & John R. Horner, (2010). "New Material of "Styracosaurus" ovatus from the Two Medicine Formation of Montana", In: Michael J. Ryan, Brenda J. Chinnery-Allgeier, and David A. Eberth (eds), New Perspectives on Horned Dinosaurs: The Royal Tyrrell Museum Ceratopsian Symposium, Indiana University Press, 656 pp.
+^ a b c d e f g h i j "Brachyceratops." In: Dodson, Peter & Britt, Brooks & Carpenter, Kenneth & Forster, Catherine A. & Gillette, David D. & Norell, Mark A. & Olshevsky, George & Parrish, J. Michael & Weishampel, David B. The Age of Dinosaurs. Publications International, LTD. p. 133. ISBN 0-7853-0443-6.
+^ C.W. Gilmore, 1914, "A new ceratopsian dinosaur from the Upper Cretaceous of Montana, with note on Hypacrosaurus", Smithsonian Miscellaneous Collections 63(3): 1-10
+^ Dodson, P., 1996, The Horned Dinosaurs — A natural history, Princeton University Press, p. 154
+^ C.W. Gilmore, 1917, "Brachyceratops, a ceratopsian dinosaur from the Two Medicine Formation of Montana, with notes on associated fossil reptiles", United States Geological Survey Professional Paper 103: 1-45
+^ Gilmore C.W. 1939, "Ceratopsian dinosaurs from the Two Medicine Formation, Upper Cretaceous of Montana", Proceedings of the United States National Museum 87: 1–18
+^ Sampson, S.D., M. J. Ryan, and D. H. Tanke. (1997). "Craniofacial ontogeny in centrosaurine dinosaurs (Ornithischia: Ceratopsidae): taphonomic and behavioral implications." Zoological Journal of the Linnean Society, 121: 293–337.
+^ http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0022710
+
+
+
+
+ 
+NewPP limit report
+CPU time usage: 4.468 seconds
+Real time usage: 4.668 seconds
+Preprocessor visited node count: 26880/1000000
+Preprocessor generated node count: 36945/1500000
+Post‐expand include size: 111758/2048000 bytes
+Template argument size: 108033/2048000 bytes
+Highest expansion depth: 39/40
+Expensive parser function count: 0/500
+Lua time usage: 0.026s
+Lua memory usage: 1,007 KB
+
+
+ Saved in parser cache with key enwiki:pcache:idhash:4290303-0!*!0!!en!4!* and timestamp 20131002085454 
+								
+				Retrieved from "http://en.wikipedia.org/w/index.php?title=Brachyceratops&oldid=540310622"				
+												Categories: Dinosaurs of North AmericaCeratopsidsCretaceous dinosaursNomina dubiaHidden categories: Articles with 'species' microformats												
+							
+		
+		
+			Navigation menu
+			
+				
+	Personal tools
+	
+Create accountLog in	
+
+				
+					
+	Namespaces
+	
+					Article
+					Talk
+			
+
+
+	
+		
+	Variants
+	
+		
+					
+	
+
+				
+				
+					
+	Views
+	
+					Read
+					Edit
+					View history
+			
+
+
+	Actions
+	
+		
+					
+	
+
+
+	Search
+	
+				
+																				
+		
+	
+
+				
+			
+			
+					
+				
+	Navigation
+	
+		
+			Main page
+			Contents
+			Featured content
+			Current events
+			Random article
+			Donate to Wikipedia
+		
+	
+
+
+	Interaction
+	
+		
+			Help
+			About Wikipedia
+			Community portal
+			Recent changes
+			Contact page
+		
+	
+
+
+	Toolbox
+	
+		
+			What links here
+			Related changes
+			Upload file
+			Special pages
+			Permanent link
+			Page information
+			Data item
+Cite this page		
+	
+
+
+	Print/export
+	
+		
+			Create a book
+			Download as PDF
+			Printable version
+		
+	
+
+
+	Languages
+	
+		
+			Català
+			Deutsch
+			Español
+			Français
+			한국어
+			Italiano
+			Magyar
+			Nederlands
+			日本語
+			Polski
+			Português
+			Svenska
+			தமிழ்
+			中文
+			
+			Edit links
+		
+	
+
+			
+		
+		
+							
+											 This page was last modified on 25 February 2013 at 17:52.
+											Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. 
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+									
+							
+											Privacy policy
+											About Wikipedia
+											Disclaimers
+											Contact Wikipedia
+											Developers
+											Mobile view
+									
+										
+					
+						
+					
+					
+						
+					
+				
+						
+		
+		
+
+
+ Served by mw1186 in 0.156 secs. 
+	
+if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Brachyceratops","wgTitle":"Brachyceratops","wgCurRevisionId":540310622,"wgArticleId":4290303,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with 'species' microformats","Dinosaurs of North America","Ceratopsids","Cretaceous dinosaurs","Nomina dubia"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Brachyceratops","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgVectorEnabledModules":{"collapsiblenav":true,"experiments":true},"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"templateEditor":false,"templates":false,"preview":false,"previewDialog":false,"publish":false,"toc":false},"wgArticleFeedbackv5Permissions":{"aft-reader":false,"aft-member":false,"aft-editor":false,"aft-monitor":false,"aft-administrator":false,"aft-oversighter":false,"aft-noone":false},"wgVisualEditor":{"isPageWatched":false,"magnifyClipIconURL":"//bits.wikimedia.org/static-1.22wmf18/skins/common/images/magnify-clip.png","pageLanguageCode":"en","pageLanguageDir":"ltr"},"wikilove-recipient":"","wikilove-anon":0,"wgGuidedTourHelpGuiderUrl":"Help:Guided tours/guider","wgULSAcceptLanguageList":[],"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia","aftv5Article":{"id":4290303,"title":"Brachyceratops","namespace":0,"categories":["Articles with 'species' microformats","Ceratopsids","Cretaceous dinosaurs","Dinosaurs of North America","Nomina dubia"],"permissionLevel":false},"wgWikibaseItemId":"Q131602"});
+}if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":false,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,
+"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"useeditwarning":1,"prefershttps":1,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"vector-simplesearch":1,"vector-collapsiblenav":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"aftv5-last-filter":null,"visualeditor-enable":0,"visualeditor-enable-experimental":0,"visualeditor-betatempdisable":0,"wikilove-enabled":1,"echo-subscriptions-web-page-review":true,"echo-subscriptions-email-page-review":false,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"echo-notify-show-link":true,"echo-show-alert":true,"echo-email-frequency":0,"echo-email-format":"html","echo-subscriptions-email-system":true,"echo-subscriptions-web-system":true,"echo-subscriptions-email-other":false,"echo-subscriptions-web-other":true,"echo-subscriptions-email-edit-user-talk":false,"echo-subscriptions-web-edit-user-talk":true,
+"echo-subscriptions-email-reverted":false,"echo-subscriptions-web-reverted":true,"echo-subscriptions-email-article-linked":false,"echo-subscriptions-web-article-linked":false,"echo-subscriptions-email-mention":false,"echo-subscriptions-web-mention":true,"echo-subscriptions-web-edit-thank":true,"echo-subscriptions-email-edit-thank":false,"gettingstarted-task-toolbar-show-intro":true,"uls-preferences":"","language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs446":false,"searchNs447":false
+,"searchNs710":false,"searchNs711":false,"searchNs828":false,"searchNs829":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-mySandbox":1,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:156d8fe0ae17f8afd74198057563e45d */
+}if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","ext.visualEditor.viewPageTarget.init","ext.wikimediaShopLink.core","ext.uls.init","ext.uls.interface","wikibase.client.init","ext.centralNotice.bannerController","skins.vector.js"]);
+}/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}if(window.mw){
+mw.loader.load(["mobile.desktop","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.cite","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","mw.MwEmbedSupport.style","ext.vector.collapsibleNav","ext.articleFeedbackv5.startup","ext.gettingstarted.logging","ext.gettingstarted.openTask","schema.HttpsSupport","ext.coreEvents.httpsSupport","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","mw.PopUpMediaTransform"],null,true);
+}

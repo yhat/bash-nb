@@ -1,0 +1,417 @@
+
+
+
+Othnielosaurus - Wikipedia, the free encyclopedia
+
+
+
+
+
+
+
+
+
+
+
+
+a:lang(ar),a:lang(ckb),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:0de201fdea5d684523607ed88007b127 */
+
+
+
+
+[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.22wmf18/skins/vector/csshover.min.htc")}</style><![endif]
+
+		
+		
+		
+			
+			
+						 CentralNotice 
+						Othnielosaurus
+			
+								From Wikipedia, the free encyclopedia
+								
+												
+					Jump to:					navigation, 					search
+				
+				
+
+
+
+Othnielosaurus
+Temporal range: Late Jurassic, 155–148Ma
+
+PreЄ
+Є
+O
+S
+D
+C
+P
+T
+J
+K
+Pg
+N
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fossil, Paleontology Museum of Zurich
+
+
+Scientific classification 
+
+
+Kingdom:
+Animalia
+
+
+Phylum:
+Chordata
+
+
+Clade:
+Sauropsida
+
+
+Clade:
+Dinosauria
+
+
+Order:
+†Ornithischia
+
+
+Clade:
+†Genasauria
+
+
+Clade:
+†Neornithischia
+
+
+Genus:
+†Othnielosaurus
+Galton, 2007
+
+
+Species:
+† O. consors
+
+
+Binomial name
+
+
+Othnielosaurus consors
+(Marsh, 1878 [originally Laosaurus consors])
+
+
+
+Othnielosaurus is a genus of ornithischian dinosaur that lived about 155 to 148 million years ago, during the Late Jurassic-age Morrison Formation of the western United States. It is named in honor of famed paleontologist Othniel Charles Marsh, and was formerly assigned to the genus Laosaurus. This genus was coined to hold fossils formerly included in Othnielia, which is based on remains that may be too sparse to hold a name; as such, it is part of decades of research to untangle the taxonomy left behind by Marsh and his rival Edward Drinker Cope from the Bone Wars. Othnielosaurus has usually been classified as a hypsilophodont, a type of generalized small bipedal herbivore or omnivore, although recent research has called this and the existence of a distinct group of hypsilophodonts into question.
+
+
+Contents
+
+
+1 Description
+2 Classification
+3 History and taxonomy
+4 Paleobiology and paleoecology
+5 References
+6 External links
+
+
+Description[edit]
+
+
+
+
+Life restoration of Othnielosaurus consors
+
+
+Othnielosaurus is known from material from all parts of the body, including two good skeletons, although the skull is still poorly known (note that earlier references use a multitude of names for this material, with most of them since 1977 using Othnielia rex).[1] Othnielosaurus was a small animal, 2 meters (6.6 ft) or less in length and 10 kilograms (22 lb) or less in weight.[2] It was a bipedal dinosaur with short forelimbs and long hindlimbs with large processes for muscle attachments.[3] The hands were short and broad with short fingers. From the partial type skull and the skull on the possible specimen "Barbara", the head was small. It had small leaf-shaped cheek teeth (triangular and with small ridges and denticles lining the front and back edges), and premaxillary teeth with less ornamentation.[4] Like several hypsilophodont or iguanodont-grade ornithopods such as Hypsilophodon, Thescelosaurus, and Talenkauen, Othnielosaurus had thin plates lying along the ribs. Called intercostal plates, these structures were cartilaginous in origin.[5]
+Classification[edit]
+Othnielosaurus (previously under the names Laosaurus, Nanosaurus, and Othnielia) has typically been regarded as a hypsilophodont ornithopod, a member of a nebulous and poorly defined group of small, running herbivorous dinosaurs.[1][4][6] This was challenged by Robert Bakker et al. in 1990. In their description of the new taxon Drinker nisti, they split Othnielia into two species (O. rex and O. consors) and placed "othnieliids" as more basal than hypsilophodontids.[7] With recent analyses suggesting a paraphyletic Hypsilophodontidae,[1][8][9] the general idea of "othnielids" as basal to other hypsilophodonts has been supported, although Drinker has been controversial because virtually nothing new has been published on it since its description. Other basal ornithopods have sometimes been linked to Othnielosaurus, particularly Hexinlusaurus,[9][10] considered by at least one author to be a species of "Othnielia", O. multidens.[11] New studies concur with the hypothesis that Othnielosaurus is more basal than other traditional hypsilophodonts, but go even farther and remove the genus from Ornithopoda and the larger group Cerapoda, which also includes horned dinosaurs and domeheaded dinosaurs.[12][13]
+History and taxonomy[edit]
+
+
+
+
+Othniel Charles Marsh's 1896 skeletal restoration of "Laosaurus" consors (now Othnielosaurus).
+
+
+O.C. Marsh named several species and genera in the late 19th century that have come to be recognized as hypsilophodonts or hypsilophodont-like animals, including Nanosaurus agilis (possibly), "N." rex, Laosaurus celer, L. consors, and L. gracilis. This taxonomy has become very complicated, with numerous attempts at revision in the years since.
+In 1877, Marsh named two species of Nanosaurus in separate publications, based on partial remains from the Morrison Formation of Garden Park, Colorado. One paper described N. agilis, based on YPM 1913, with remains including impressions of a dentary, and postcranial bits including an ilium, thigh bones, shin bones, and a fibula.[14] The other paper named N. rex, a second species which Marsh based on YPM 1915 (also called 1925 in Galton, 2007), a complete thigh bone.[4][15] He regarded both species as small ("fox-sized") animals.[15] He assigned this genus to the now-abandoned family Nanosauridae.
+The next year, he named the new genus Laosaurus on material collected by Samuel Wendell Williston from Como Bluff, Wyoming. Two species were named: the type species L. celer, based on parts of eleven vertebrae (YPM 1875);[16] and the "smaller" L. gracilis, originally based on a back vertebra's centrum, a caudal centrum, and part of an ulna (review by Peter Galton in 1983 finds the specimen to now consist of thirteen back and eight caudal centra, and portions of both hindlimbs).[16][17]
+A third species, L. consors, was established by Marsh in 1894 for YPM 1882, which consists of most of one articulated skeleton and part of at least one other individual.[18] The skull was only partially preserved, and the fact that the vertebrae were represented only by centra suggests a partially grown individual. Galton (1983) notes that much of the current mounted skeleton was restored in plaster, or had paint applied.[17]
+
+
+
+
+A herd scampering at the Denver Museum of Nature and Science.
+
+
+These animals attracted little professional attention until the 1970s and 1980s, when Peter Galton reviewed many the "hypsilophodonts" in a series of papers. In 1973, he and Jim Jensen described a partial skeleton (BYU ESM 163 as of Galton, 2007) missing the head, hands, and tail as Nanosaurus (?) rex, which had been damaged by other collectors prior to description.[19] By 1977, he had determined that Nanosaurus agilis was quite different from N. rex and the new skeleton, and coined Othnielia for N. rex.[20] The 1977 reference, somewhat buried in a paper concerning the transcontinental species of Dryosaurus, did not elaborate, but did assign Laosaurus consors and L. gracilis to the new genus, and considered L. celer a nomen nudum.[20] The publication of Drinker[7] further complicated matters.
+Most recently, in 2007 Galton reevaluated Morrison Formation ornithischians and concluded that the femur on which "Nanosaurus" rex (and by extension Othnielia) is based is not diagnostic, and reassigned the BYU skeleton to Laosaurus consors, which is based on more diagnostic material. As the genus Laosaurus is also based on nondiagnostic material, he gave the species L. consors its own genus, Othnielosaurus. As a result, in practical terms what had been thought of as Othnielia is now known as Othnielosaurus consors. Othnielia is not a synonym of Othnielosaurus, because they are based upon different specimens; however, the skeletons that had been used to describe and depict Othnielia were reassigned to Othnielosaurus, leaving the older name with only the original femur. The current status for the various species is as follows: Nanosaurus agilis is a possible basal ornithopod, "N." rex (Othnielia) is a dubious basal ornithopod, Drinker nisti is its own tentatively valid taxon, L. consors is the type species for Othnielosaurus,[4] and L. celer and L. gracilis are still considered dubious.[1]
+Paleobiology and paleoecology[edit]
+
+
+
+
+Casts mounted as if fighting, Wyoming Dinosaur Center
+
+
+Othnielosaurus was one of the smaller members of the diverse Morrison Formation dinosaur fauna, diminutive in comparison to the giant sauropods.[2] The Morrison Formation is interpreted as a semiarid environment with distinct wet and dry seasons, and flat floodplains.[21] Vegetation varied from river-lining gallery forests of conifers, tree ferns, and ferns, to fern savannas with rare trees.[22] It has been a rich fossil hunting ground, holding fossils of green algae, fungi, mosses, horsetails, ferns, cycads, ginkgoes, and several families of conifers. Other fossils discovered include bivalves, snails, ray-finned fishes, frogs, salamanders, turtles, sphenodonts, lizards, terrestrial and aquatic crocodylomorphans, several species of pterosaur, numerous dinosaur species, and early mammals such as docodonts, multituberculates, symmetrodonts, and triconodonts. Such dinosaurs as the theropods Ceratosaurus, Allosaurus, Ornitholestes, and Torvosaurus, the sauropods Apatosaurus, Brachiosaurus, Camarasaurus, and Diplodocus, and the ornithischians Camptosaurus, Dryosaurus, and Stegosaurus are known from the Morrison.[23] Othnielosaurus is present in stratigraphic zones 2-5.[24][24]
+Typically, Othnielosaurus has been interpreted like other hypsilophodonts as a small, swift herbivore,[1] although Bakker (1986) interpreted the possibly related Nanosaurus as an omnivore.[25] This idea has had some unofficial support,[26] but little in the formal literature; description of more complete skull remains will be needed to test this hypothesis.
+References[edit]
+
+
+^ a b c d e Norman, David B.; Sues, Hans-Dieter; Witmer, Larry M.; and Coria, Rodolfo A. (2004). "Basal Ornithopoda". In Weishampel, David B.; Dodson, Peter; and Osmólska, Halszka (eds.). The Dinosauria (2nd ed.). Berkeley: University of California Press. pp. 393–412. ISBN 0-520-24209-2. 
+^ a b Foster, John R. (2003). "Paleoecological Analysis of the Vertebrate Fauna of the Morrison Formation (Upper Jurassic), Rocky Mountain Region, U.S.A.". New Mexico Museum of Natural History and Science Bulletin 23: 29. 
+^ Scott Hartman. "othnielia". Retrieved 2007-01-25. 
+^ a b c d Galton, Peter M. (2007). "Teeth of ornithischian dinosaurs (mostly Ornithopoda) from the Morrison Formation (Upper Jurassic) of the western United States". In Carpenter, Kenneth (ed.). Horns and Beaks: Ceratopsian and Ornithopod Dinosaurs. Bloomington and Indianapolis: Indiana University Press. pp. 17–47. ISBN 0-253-34817-X. 
+^ Butler, Richard J.; and Galton, Peter M. (2008). "The 'dermal armour' of the ornithopod dinosaur Hypsilophodon from the Wealden (Early Cretaceous: Barremian) of the Isle of Wight: a reappraisal". Cretaceous Research 29 (4): 636–642. doi:10.1016/j.cretres.2008.02.002. 
+^ Sues, Hans-Dieter; and Norman, David B. (1990). "Hypsilophodontidae, Tenontosaurus, Dryosauridae". In Weishampel, David B.; Dodson, Peter; and Osmólska, Halszka (eds.). The Dinosauria (1st ed.). Berkeley: University of California Press. pp. 498–509. ISBN 0-520-06727-4. 
+^ a b Bakker, R.T.; Galton, P.M.; Siegwarth, J.; Filla, J. (1990). "A new latest Jurassic vertebrate fauna, from the highest levels of the Morrison Formation at Como Bluff, Wyoming. Part IV. The dinosaurs: A new Othnielia-like hypsilophodontoid". Hunteria 2 (6): 8–14. 
+^ Weishampel, David B.; Jianu, Coralia-Maria; Csiki, Z.; and Norman, David B. (2003). "Osteology and phylogeny of Zalmoxes (n.g.), an unusual euornithopod dinosaur from the latest Cretaceous of Romania". Journal of Systematic Palaeontology 1 (2): 1–56. doi:10.1017/S1477201903001032. 
+^ a b Varricchio, David J.; Martin, Anthony J.; and Katsura, Yoshihiro (2007). "First trace and body fossil evidence of a burrowing, denning dinosaur". Proceedings of the Royal Society B: Biological Sciences 274 (1616): 1361–1368. doi:10.1098/rspb.2006.0443. PMC 2176205. PMID 17374596. Retrieved 2007-03-22. 
+^ Buchholz, Peter W. (2002). "Phylogeny and biogeography of basal Ornithischia". The Mesozoic in Wyoming, Tate 2002. Casper, Wyoming: The Geological Museum, Casper College. pp. 18–34. 
+^ Paul, Gregory S. (1996). The Complete Illustrated Guide to Dinosaur Skeletons. Tokyo: Gakken Mook. p. 98 p. ISBN ISBN 4-05-400656-6. 
+^ Butler, Richard J.; Smith, Roger M.H.; and Norman, David B. (2007). "A primitive ornithischian dinosaur from the Late Triassic of South Africa, and the early evolution and diversification of Ornithischia". Proceedings of the Royal Society B: Biological Sciences 274 (1621): 2041–6. doi:10.1098/rspb.2007.0367. PMC 2275175. PMID 17567562. 
+^ Butler, Richard J.; Upchurch, Paul; and Norman, David B. (2008). "The phylogeny of the ornithischian dinosaurs". Journal of Systematic Palaeontology 6 (1): 1–40. doi:10.1017/S1477201907002271. 
+^ Marsh, Othniel Charles (1877). "Notice of some new vertebrate fossils". American Journal of Science and Arts 14: 249–256. 
+^ a b Marsh, Othniel Charles (1877). "Notice of new dinosaurian reptiles from the Jurassic formations". American Journal of Science and Arts 14: 514–516. 
+^ a b Marsh, Othniel Charles (1878). "Notice of new dinosaurian reptiles". American Journal of Science and Arts 15: 241–244. 
+^ a b Galton, Peter M. (1983). "The cranial anatomy of Dryosaurus, a hypsilophodontid dinosaur from the Upper Jurassic of North America and East Africa, with a review of hypsilophodontids from the Upper Jurassic of North America". Geologica et Palaeontologica 17: 207–243. 
+^ Marsh, Othniel Charles (1894). "The typical Ornithopoda of the American Jurassic". American Journal of Science. Series 3 48: 85–90. 
+^ Galton, Peter M.; and Jensen, James A. (1973). "Skeleton of a hypsilophodontid dinosaur (Nanosaurus (?) rex) from the Upper Jurassic of Utah". Brigham Young University Geology Series 20: 137–157. 
+^ a b Galton, Peter M. (1977). "The ornithopod dinosaur Dryosaurus and a Laurasia-Gondwanaland connection in the Upper Jurassic". Nature 268 (5617): 230–232. Bibcode:1977Natur.268..230G. doi:10.1038/268230a0. 
+^ Russell, Dale A. (1989). An Odyssey in Time: Dinosaurs of North America. Minocqua, Wisconsin: NorthWord Press. pp. 64–70. ISBN 1-55971-038-1. 
+^ Carpenter, Kenneth (2006). "Biggest of the big: a critical re-evaluation of the mega-sauropod Amphicoelias fragillimus". In Foster, John R.; and Lucas, Spencer G. (eds.). Paleontology and Geology of the Upper Jurassic Morrison Formation. New Mexico Museum of Natural History and Science Bulletin, 36. Albuquerque, New Mexico: New Mexico Museum of Natural History and Science. pp. 131–138. 
+^ Chure, Daniel J.; Litwin, Ron; Hasiotis, Stephen T.; Evanoff, Emmett; and Carpenter, Kenneth (2006). "The fauna and flora of the Morrison Formation: 2006". In Foster, John R.; and Lucas, Spencer G. (eds.). Paleontology and Geology of the Upper Jurassic Morrison Formation. New Mexico Museum of Natural History and Science Bulletin, 36. Albuquerque, New Mexico: New Mexico Museum of Natural History and Science. pp. 233–248. 
+^ a b Foster, J. (2007). "Appendix." Jurassic West: The Dinosaurs of the Morrison Formation and Their World. Indiana University Press. pp. 327-329.
+^ Bakker, Robert T. (1986). The Dinosaur Heresies. New York: William Morrow. p. 180. ISBN 0-14-010055-5. 
+^ Jaime A. Headden. "Re: EVIL FANGED CERAPODANS". Retrieved 2007-01-26. 
+
+
+External links[edit]
+
+
+
+
+Dinosaurs portal
+
+
+
+
+More on the taxonomy of Nanosaurus, Othnielia, and Laosaurus
+Dinosaur Mailing List entry which announces the new genus
+A reconstruction of Othnielosaurus (as Othnielia rex) by Scott Hartman (based on the undescribed "Barbara" skeleton and the BYU skeleton)
+Dinosaurier-Web with timescale (German and English)
+
+
+
+
+ 
+NewPP limit report
+CPU time usage: 6.572 seconds
+Real time usage: 6.803 seconds
+Preprocessor visited node count: 25774/1000000
+Preprocessor generated node count: 41043/1500000
+Post‐expand include size: 157553/2048000 bytes
+Template argument size: 112459/2048000 bytes
+Highest expansion depth: 39/40
+Expensive parser function count: 0/500
+Lua time usage: 0.106s
+Lua memory usage: 2.24 MB
+
+
+ Saved in parser cache with key enwiki:pcache:idhash:7895775-0!*!0!!en!4!* and timestamp 20131002085016 
+								
+				Retrieved from "http://en.wikipedia.org/w/index.php?title=Othnielosaurus&oldid=573021068"				
+												Categories: Dinosaurs of North AmericaFossil taxa described in 2007Jurassic dinosaursOrnithischiansMorrison faunaHidden categories: Good articlesArticles with 'species' microformats												
+							
+		
+		
+			Navigation menu
+			
+				
+	Personal tools
+	
+Create accountLog in	
+
+				
+					
+	Namespaces
+	
+					Article
+					Talk
+			
+
+
+	
+		
+	Variants
+	
+		
+					
+	
+
+				
+				
+					
+	Views
+	
+					Read
+					Edit
+					View history
+			
+
+
+	Actions
+	
+		
+					
+	
+
+
+	Search
+	
+				
+																				
+		
+	
+
+				
+			
+			
+					
+				
+	Navigation
+	
+		
+			Main page
+			Contents
+			Featured content
+			Current events
+			Random article
+			Donate to Wikipedia
+		
+	
+
+
+	Interaction
+	
+		
+			Help
+			About Wikipedia
+			Community portal
+			Recent changes
+			Contact page
+		
+	
+
+
+	Toolbox
+	
+		
+			What links here
+			Related changes
+			Upload file
+			Special pages
+			Permanent link
+			Page information
+			Data item
+Cite this page		
+	
+
+
+	Print/export
+	
+		
+			Create a book
+			Download as PDF
+			Printable version
+		
+	
+
+
+	Languages
+	
+		
+			Català
+			Deutsch
+			Español
+			Hrvatski
+			Magyar
+			Nederlands
+			日本語
+			Polski
+			Русский
+			Slovenčina
+			Srpskohrvatski / српскохрватски
+			Svenska
+			中文
+			
+			Edit links
+		
+	
+
+			
+		
+		
+							
+											 This page was last modified on 15 September 2013 at 14:14.
+											Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. 
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+									
+							
+											Privacy policy
+											About Wikipedia
+											Disclaimers
+											Contact Wikipedia
+											Developers
+											Mobile view
+									
+										
+					
+						
+					
+					
+						
+					
+				
+						
+		
+		
+
+
+ Served by mw1028 in 0.226 secs. 
+	
+if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Othnielosaurus","wgTitle":"Othnielosaurus","wgCurRevisionId":573021068,"wgArticleId":7895775,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Good articles","Articles with 'species' microformats","Dinosaurs of North America","Fossil taxa described in 2007","Jurassic dinosaurs","Ornithischians","Morrison fauna"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Othnielosaurus","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgVectorEnabledModules":{"collapsiblenav":true,"experiments":true},"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"templateEditor":false,"templates":false,"preview":false,"previewDialog":false,"publish":false,"toc":false},"wgArticleFeedbackv5Permissions":{"aft-reader":false,"aft-member":false,"aft-editor":false,"aft-monitor":false,"aft-administrator":false,"aft-oversighter":false,"aft-noone":false},"wgVisualEditor":{"isPageWatched":false,"magnifyClipIconURL":"//bits.wikimedia.org/static-1.22wmf18/skins/common/images/magnify-clip.png","pageLanguageCode":"en","pageLanguageDir":"ltr"},"wikilove-recipient":"","wikilove-anon":0,"wgGuidedTourHelpGuiderUrl":"Help:Guided tours/guider","wgULSAcceptLanguageList":[],"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia","aftv5Article":{"id":7895775,"title":"Othnielosaurus","namespace":0,"categories":["Articles with 'species' microformats","Dinosaurs of North America","Fossil taxa described in 2007","Good articles","Jurassic dinosaurs","Morrison fauna","Ornithischians"],"permissionLevel":false},"wgWikibaseItemId":"Q1081247"});
+}if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":false,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,
+"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"useeditwarning":1,"prefershttps":1,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"vector-simplesearch":1,"vector-collapsiblenav":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"aftv5-last-filter":null,"visualeditor-enable":0,"visualeditor-enable-experimental":0,"visualeditor-betatempdisable":0,"wikilove-enabled":1,"echo-subscriptions-web-page-review":true,"echo-subscriptions-email-page-review":false,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"echo-notify-show-link":true,"echo-show-alert":true,"echo-email-frequency":0,"echo-email-format":"html","echo-subscriptions-email-system":true,"echo-subscriptions-web-system":true,"echo-subscriptions-email-other":false,"echo-subscriptions-web-other":true,"echo-subscriptions-email-edit-user-talk":false,"echo-subscriptions-web-edit-user-talk":true,
+"echo-subscriptions-email-reverted":false,"echo-subscriptions-web-reverted":true,"echo-subscriptions-email-article-linked":false,"echo-subscriptions-web-article-linked":false,"echo-subscriptions-email-mention":false,"echo-subscriptions-web-mention":true,"echo-subscriptions-web-edit-thank":true,"echo-subscriptions-email-edit-thank":false,"gettingstarted-task-toolbar-show-intro":true,"uls-preferences":"","language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs446":false,"searchNs447":false
+,"searchNs710":false,"searchNs711":false,"searchNs828":false,"searchNs829":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-mySandbox":1,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:156d8fe0ae17f8afd74198057563e45d */
+}if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","ext.visualEditor.viewPageTarget.init","ext.wikimediaShopLink.core","ext.uls.init","ext.uls.interface","wikibase.client.init","ext.centralNotice.bannerController","skins.vector.js"]);
+}/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}if(window.mw){
+mw.loader.load(["mobile.desktop","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.cite","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","mw.MwEmbedSupport.style","ext.vector.collapsibleNav","ext.articleFeedbackv5.startup","ext.gettingstarted.logging","ext.gettingstarted.openTask","schema.HttpsSupport","ext.coreEvents.httpsSupport","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","mw.PopUpMediaTransform"],null,true);
+}

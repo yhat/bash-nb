@@ -1,0 +1,486 @@
+
+
+
+Hypacrosaurus - Wikipedia, the free encyclopedia
+
+
+
+
+
+
+
+
+
+
+
+
+a:lang(ar),a:lang(ckb),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:0de201fdea5d684523607ed88007b127 */
+
+
+
+
+[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.22wmf18/skins/vector/csshover.min.htc")}</style><![endif]
+
+		
+		
+		
+			
+			
+						 CentralNotice 
+						Hypacrosaurus
+			
+								From Wikipedia, the free encyclopedia
+								
+												
+					Jump to:					navigation, 					search
+				
+				
+
+
+
+Hypacrosaurus
+Temporal range: Late Cretaceous, 75–67Ma
+
+PreЄ
+Є
+O
+S
+D
+C
+P
+T
+J
+K
+Pg
+N
+
+
+
+
+
+
+
+
+
+
+
+
+
+Hypacrosaurus sp. skeleton exhibited in the National Museum of Nature and Science, Tokyo, Japan.
+
+
+Scientific classification 
+
+
+Kingdom:
+Animalia
+
+
+Phylum:
+Chordata
+
+
+Clade:
+Sauropsida
+
+
+Clade:
+Dinosauria
+
+
+Order:
+†Ornithischia
+
+
+Clade:
+†Ornithopoda
+
+
+Family:
+†Hadrosauridae
+
+
+Tribe:
+†Lambeosaurini
+
+
+Genus:
+†Hypacrosaurus
+Brown, 1913
+
+
+Type species
+
+
+†Hypacrosaurus altispinus
+Brown, 1913
+
+
+Species
+
+
+
+
+†H. altispinus
+Brown, 1913
+†H. stebingeri
+Horner & Currie, 1994
+
+
+
+
+Synonyms
+
+
+
+
+Cheneosaurus
+Lambe, 1917
+
+
+
+
+
+Hypacrosaurus (meaning "near the highest lizard" [Greek υπο-, hypo- = less + ακρος, akros, high], because it was almost but not quite as large as Tyrannosaurus)[1][2] was a genus of duckbill dinosaur similar in appearance to Corythosaurus. Like Corythosaurus, it had a tall, hollow rounded crest, although not as large and straight. It is known from the remains of two species that spanned 75 to 67 million years ago,[3] in the Late Cretaceous of Alberta, Canada, and Montana, USA, and is the latest hollow-crested duckbill known from good remains in North America. It was an obscure genus until the description of nests, eggs, and hatchlings belonging to H. stebingeri in the 1990s.
+
+
+Contents
+
+
+1 Description
+2 Classification
+3 Discovery and history
+
+3.1 Species
+
+
+4 Paleoecology
+5 Paleobiology
+
+5.1 Nests and growth
+5.2 Crest functions
+5.3 Paleopathology
+5.4 Thermoregulation
+
+
+6 Taphonomy
+7 References
+8 External links
+
+
+Description[edit]
+
+
+
+
+Life restoration of Hypacrosaurus
+
+
+Hypacrosaurus is most easily distinguished from other hollow-crested duckbills (lambeosaurines) by its tall neural spines and the form of its crest. The neural spines, which project from the top of the vertebrae, are 5 to 7 times the height of the body of their respective vertebrae in the back,[4] which would have given it a tall back in profile. The skull's hollow crest is like that of Corythosaurus, but is more pointed along its top, not as tall, wider side to side, and has a small bony point at the rear.[4] Unlike other lambeosaurines, the passages for the airways do not form an S-curve in the crest (at least not in H. altispinus).[5] The animal is estimated to have been around 9.1 meters long (30 feet),[4] and to have weighed up to 4.0 tonnes (4.4 tons).[6] As with most duckbills, its skeleton is otherwise not particularly remarkable, although some pelvic details are distinctive.[7] Like other duckbills, it was a bipedal/quadrupedal herbivore. The two known species, H. altispinus and H. stebingeri, are not differentiated in the typical method, of unique characteristics, as H. stebingeri was described as transitional between the earlier Lambeosaurus and later Hypacrosaurus.[8] Photographs of an adult H. stebingeri skull show an animal that looks very similar to H. altispinus.
+Classification[edit]
+Hypacrosaurus was a lambeosaurinae hadrosaurid, and has been recognized as such since the description of its skull.[9] Within the Lambeosaurinae, it is closest to Lambeosaurus and Corythosaurus,[6] with Jack Horner and Phil Currie (1994) suggesting that H. stebingeri is transitional between Lambeosaurus and H. altispinus,[8] and Michael K. Brett-Surman (1989) suggesting that Hypacrosaurus and Corythosaurus are the same genus.[10] These genera, particularly Corythosaurus and Hypacrosaurus, are regarded as the "helmeted" or "hooded" branch of the lambeosaurines, and the clade they form is sometimes informally designated Lambeosaurini. Although Suzuki et al.'s 2004 redescription of Nipponosaurus found a close relationship between Nipponosaurus and Hypacrosaurus stebingeri, indicating that Hypacrosaurus may be paraphyletic,[11] this was rejected in a later, more comprehensive reanalysis of lambeosaurines, which found the two species of Hypacrosaurus to form a clade without Nipponosaurus, with Corythosaurus and Olorotitan being the closest relatives.[12]
+Discovery and history[edit]
+
+
+
+
+Hypacrosaurus fossil at the Royal Tyrrell Museum
+
+
+The type remains of Hypacrosaurus remains were collected in 1910 by Barnum Brown for the American Museum of Natural History.[7] The remains, a partial postcranial skeleton consisting of several vertebrae and a partial pelvis (AMNH 5204), came from along the Red Deer River near Tolman Ferry, Alberta, Canada, from rocks of what is now known as the Horseshoe Canyon Formation (early Maastrichtian, Upper Cretaceous). Brown described these remains, in combination with other postcranial bones, in 1913 as a new genus that he considered to be like Saurolophus.[1] No skull was known at this time, but two skulls were soon discovered and described.[9]
+During this period, the remains of small hollow-crested duckbills were described as their own genera and species. The first of these that figure into the history of Hypacrosaurus was Cheneosaurus tolmanensis, based on a skull and assorted limb bones, vertebrae, and pelvic bones from the Horseshoe Canyon Formation.[13] Not long after, Richard Swann Lull and Nelda Wright identified an American Museum of Natural History skeleton (AMNH 5461) from the Two Medicine Formation of Montana as a specimen of Procheneosaurus.[14] These and other taxa were accepted as valid genera until the 1970s, when Peter Dodson showed that it was more likely that the "cheneosaurs" were the juveniles of other established lambeosaurines. Although he was mostly concerned with the earlier, Dinosaur Park Formation genera Corythosaurus and Lambeosaurus, he suggested that Cheneosaurus would turn out to be composed of juvenile individuals of the contemporaneous Hypacrosaurus altispinus.[15] This idea has become accepted,[6] although not formally tested. The Two Medicine Procheneosaurus, meanwhile, was not quite like the other Procheneosaurus specimens studied by Dodson, and for good reason: it was much more like a species that would not be named until 1994, H. stebingeri.[8]
+Species[edit]
+
+
+
+
+H. stebingeri holotype
+
+
+H. altispinus, the type species, is known from 5 to 10 articulated skulls with some associated skeletal remains, from juvenile to adult individuals found in the Horseshoe Canyon Formation. H. stebingeri is known from an unknown but substantial number of individuals, with an age range of embryos to adults.[6] The hypothesis that H. altispinus and H. stebingeri form a natural group excluding other known hadrosaur species may be incorrect, as noted in Suzuki et al.'s 2004 redescription of Nipponosaurus; their phylogenetic analysis found that Nipposaurus was more closely related to H. altispinus than H. stebingeri was to H. altispinus.[11] This was rejected by Evans and Reisz (2007), though.[12]
+The new species Hypacrosaurus stebingeri was named for a variety of remains, including hatchlings with associated eggs and nests, found near the top of the late Campanian (Upper Cretaceous) Two Medicine Formation in Glacier Creek, Montana, and across the border in Alberta. These represent "the largest collection of baby skeletal material of any single species of hadrosaur known".[8]
+Paleoecology[edit]
+H. altispinus shared the Horseshoe Canyon Formation with fellow hadrosaurids Edmontosaurus and Saurolophus, hypsilophodont Parksosaurus, ankylosaurid Anodontosaurus, nodosaurid Edmontonia, horned dinosaurs Montanoceratops, Anchiceratops, Arrhinoceratops, and Pachyrhinosaurus, pachycephalosaurid Stegoceras, ostrich-mimics Ornithomimus and Struthiomimus, a variety of poorly-known small theropods including troodontids and dromaeosaurids, and the tyrannosaurs Albertosaurus and Daspletosaurus.[16] The dinosaurs from this formation are sometimes known as Edmontonian, after a land mammal age, and are distinct from those in the formations above and below.[17] The Horseshoe Canyon Formation is interpreted as having a significant marine influence, due to an encroaching Western Interior Seaway, the shallow sea that covered the midsection of North America through much of the Cretaceous.[17] H. altispinus may have preferred to stay more landward.[6]
+The slightly older Two Medicine Formation, home to H. stebingeri, was also populated by another well-known nesting hadrosaur, Maiasaura, as well as the troodontid Troodon, which is also known from nesting traces. The tyrannosaurid Daspletosaurus, caenagnathid Chirostenotes, dromaeosaurids Bambiraptor and Saurornitholestes, armored dinosaurs Edmontonia, Oohkotokia, and Scolosaurus, hypsilophodont Orodromeus, hadrosaur Prosaurolophus, and horned dinosaurs Achelousaurus, Brachyceratops, Einiosaurus, and Rubeosaurus were also present.[16] This formation was more distant from the Western Interior Seaway, higher and drier, with a more terrestrial influence.[18]
+Paleobiology[edit]
+
+
+
+
+H. stebingeri nest
+
+
+As a hadrosaurid, Hypacrosaurus would have been a bipedal/quadrupedal herbivore, eating a variety of plants. Its skull permitted a grinding motion analogous to chewing, and its teeth were continually replacing and packed into dental batteries that contained hundreds of teeth, only a relative handful of which were in use at any time. Plant material would have been cropped by its broad beak, and held in the jaws by a cheek-like organ. Its feeding range would have extended from the ground to ~4 m (13 ft) above.[6]
+Nests and growth[edit]
+
+
+
+
+Juvenile H. altispinus, American Museum of Natural History.
+
+
+H. stebingeri laid roughly spherical eggs of 20 by 18.5 cm (7.9 by 7.3 inches), with embryos 60 cm long (23.6 in). Hatchlings were around 1.7 m long (5.6 ft). Young and embryonic individuals had deep skulls with only slight expansion in the bones that would one day form the crest.[8] Growth was faster than that of an alligator and comparable to ratite growth, for several years, based on the amount of bone growth seen between lines of arrested growth (analogous to growth rings in trees).[19] Research by Lisa Cooper and colleagues on H. stebingeri indicates that this animal may have reached reproductive maturity at the age of 2 to 3 years, and reached full size at about 10 to 12 years old. The circumference of the thigh bone at postulated reproductive maturity was about 40% that of its circumference at full size. The postulated growth rate of H. stebingeri outpaces those of tyrannosaurids (predators of hypacrosaurs) such as Albertosaurus and Tyrannosaurus; rapidly-growing hypacrosaurs would have had a better chance to reach a size large enough to be of defensive value, and beginning reproduction at an early age would also have been advantageous to a prey animal.[20] Secondary cartilage has been found in the skull of a hatchling specimen of H. stebingeri.[21]
+Crest functions[edit]
+
+
+
+
+H. altispinus skull, AMNH
+
+
+The hollow crest of Hypacrosaurus most likely had social functions, such as a visual signal allowing individuals to identify sex or species, and providing a resonating chamber for making noises.[6] The crest and its associated nasal passages have also figured in the debate about dinosaur endothermy, specifically in discussions about nasal turbinates.
+Turbinates are thin bones or cartilages that come in two types, with two functions. Nasal olfactory turbinates are found in all living tetrapods and function in smell. Respiratory turbinates function to prevent water loss through evaporation and are found only in birds and mammals, modern endotherms (warm-blooded animals) who could lose a great deal of water while breathing because they breathe more often than comparably-sized ectotherms (cold-blooded animals) to support their higher metabolism.[22] Ruben and others in 1996 concluded that respiratory turbinates were probably not present in Nanotyrannus, Ornithomimus or Hypacrosaurus based on CT scanning, thus there was no evidence that those animals were warm-blooded.[23]
+Paleopathology[edit]
+The discovery of tooth marks in the fibula of a Hypacrosaurus specimen inflicted by a bite from the teeth of Tyrannosaurus indicated that this, and other hadrosaurids were either preyed upon or scavenged by large theropod dinosaurs during the Late Cretaceous period.
+Thermoregulation[edit]
+Examining the oxygen-isotope ratio from the bones from different parts of an extinct animal's body should indicate which thermoregulation mode an animal used during its lifetime. An endothermic (warm-blooded) animal should maintain a very similar body temperature throughout its entire body (which is called homeothermy) and therefore there should be little variation in the oxygen-isotope ratio when measured in different bones. Alternatively, the oxygen-isotope ratio differs considerably when measured throughout the body of an organism with an ectothermic (cold-blooded) physiology.[24] Oxygen-isotope ratios calculated for Hypacrosaurus suggesting that the ratios varied little, indicating that Hypacrosaurus was a homeotherm, and likely was endothermic.[25] This is in contrast to the Ruben et al. (1996) finding that Hypacrosaurus was not warm-blooded, which was based on the absence of nasal turbinates (see Crest functions subsection, above).
+Taphonomy[edit]
+Taphonomy is the study of the processes an organism’s body undergoes after it dies, which includes a study of preservation, the cause of death, and the circumstances of burial. The large, monospecific assemblage of Hypacrosaurus stebingeri in Montana was interpreted as a group of dinosaurs that was killed by a volcanic ashfall.[26] This assemblage is considered autochthonous, meaning that the remains are thought to have been buried on or near the same spot where the individuals died. The variety of ages in this group supports that this was a biocoenosis- an actual life assemblage of animals.[27] The cause of death in a volcanic ashfall is suffocation by the ash and by the gases released from volcanic eruptions. The preservation of this diverse group of dinosaurs provides researchers with a growth series, which is a sequence of growth stages from juvenile to adult.
+References[edit]
+
+
+^ a b Brown, Barnum (1913). "A new trachodont dinosaur, Hypacrosaurus, from the Edmonton Cretaceous of Alberta". Bulletin of the American Museum of Natural History 32 (20): 395–406. Retrieved 2007-05-02. 
+^ Creisler, Benjamin S. (2007). "Deciphering duckbills". In Carpenter, Kenneth (ed.). Horns and Beaks: Ceratopsian and Ornithopod Dinosaurs. Bloomington and Indianapolis: Indiana University Press. pp. 185–210. ISBN 0-253-34817-X. 
+^ Arbour, V. M.; Burns, M. E.; and Sissons, R. L. (2009). "A redescription of the ankylosaurid dinosaur Dyoplosaurus acutosquameus Parks, 1924 (Ornithischia: Ankylosauria) and a revision of the genus". Journal of Vertebrate Paleontology 29 (4): 1117–1135. doi:10.1671/039.029.0405. 
+^ a b c Lull, Richard Swann; and Wright, Nelda E. (1942). Hadrosaurian Dinosaurs of North America. Geological Society of America Special Paper 40. Geological Society of America. pp. 206–208. 
+^ Weishampel, David B. (1981). "The nasal cavity of lambeosaurine hadrosaurids (Reptilia:Ornithischia): comparative anatomy and homologies". Journal of Paleontology 55 (5): 1046–1057. 
+^ a b c d e f g Horner, John R.; Weishampel, David B.; and Forster, Catherine A (2004). "Hadrosauridae". In Weishampel, David B.; Dodson, Peter; and Osmólska, Halszka (eds.). The Dinosauria (2nd ed.). Berkeley: University of California Press. pp. 438–463. ISBN 0-520-24209-2. 
+^ a b Glut, Donald F. (1997). "Hypacrosaurus". Dinosaurs: The Encyclopedia. Jefferson, North Carolina: McFarland & Co. pp. 478–482. ISBN 0-89950-917-7. 
+^ a b c d e Horner, John R.; and Currie, Phillip J. (1994). "Embryonic and neonatal morphology and ontogeny of a new species of Hypacrosaurus (Ornithischia, Lambeosauridae) from Montana and Alberta". In Carpenter, Kenneth; Hirsch, Karl F.; and Horner, John R. (eds.). Dinosaur Eggs and Babies. Cambridge: Cambridge University Press. pp. 312–336. ISBN 0-521-56723-8. 
+^ a b Gilmore, Charles Whitney (1924). "On the genus Stephanosaurus, with a description of the type specimen of Lambeosaurus lambei, Parks". Canada Department of Mines Geological Survey Bulletin (Geological Series) 38 (43): 29–48. 
+^ Brett-Surman, Michael K. (1989). A revision of the Hadrosauridae (Reptilia:Ornithischia) and their evolution during the Campanian and Maastrichtian. Ph.D. dissertation. Washington, D.C.: Graduate School of Arts and Sciences of The George Washington University. pp. 1–272. 
+^ a b Suzuki, Daisuke; Weishampel, David B.; and Minoura, Nachio (2004). "Nipponosaurus sachaliensis (Dinosauria; Ornithopoda): anatomy and systematic position within Hadrosauridae". Journal of Vertebrate Paleontology 24 (1): 145–164. doi:10.1671/A1034-11. 
+^ a b Evans, David C.; and Reisz, Robert R. (2007). "Anatomy and relationships of Lambeosaurus magnicristatus, a crested hadrosaurid dinosaur (Ornithischia) from the Dinosaur Park Formation, Alberta". Journal of Vertebrate Paleontology 27 (2): 373–393. doi:10.1671/0272-4634(2007)27[373:AAROLM]2.0.CO;2. 
+^ Lambe, Lawrence M. (1917). "On Cheneosaurus tolmanensis, a new genus and species of trachodont dinosaur from the Edmonton Cretaceous of Alberta". The Ottawa Naturalist 30 (10): 117–123. 
+^ Matthew, William Diller (1920). "Canadian dinosaurs". Natural History 20 (5): 1–162. 
+^ Dodson, Peter (1975). "Taxonomic implications of relative growth in lambeosaurine dinosaurs". Systematic Zoology 24 (1): 37–54. doi:10.2307/2412696. JSTOR 2412696. 
+^ a b Weishampel, David B.; Barrett, Paul M.; Coria, Rodolfo A.; Le Loueff, Jean; Xu Xing; Zhao Xijin; Sahni, Ashok; Gomani, Elizabeth M.P.; and Noto, Christopher N. (2004). "Dinosaur distribution". In Weishampel, David B.; Dodson, Peter; and Osmólska, Halszka (eds.). The Dinosauria (2nd ed.). Berkeley: University of California Press. pp. 517–606. ISBN 0-520-24209-2. 
+^ a b Dodson, Peter (1996). The Horned Dinosaurs: A Natural History. Princeton: Princeton University Press. pp. 14–15. ISBN 0-691-05900-4. 
+^ Rogers, Raymond R. (1990). "Taphonomy of three dinosaur bone beds in the Upper Cretaceous Two Medicine Formation of northwestern Montana: evidence for drought-related mortality". PALAIOS 5 (5): 394–413. doi:10.2307/3514834. JSTOR 3514834. 
+^ Cooper, Lisa N.; and Horner, John R. (1999). "Growth rate of Hypacrosaurus stebingeri as hypothesized from lines of arrested growth and whole femur circumference". Journal of Vertebrate Paleontology 19 (3, Suppl.): 35A. 
+^ Cooper, Lisa N.; Lee, Andrew H.; Taper, Mark L.; and Horner, John R. (2008). "Relative growth rates of predator and prey dinosaurs reflect effects of predation". Proceedings of the Royal Society B 275 (1651): 2609–2615. doi:10.1098/rspb.2008.0912. PMC 2605812. PMID 18682367. 
+^ Bailleul, A. M.; Hall, B. K.; Horner, J. R. (2012). "First Evidence of Dinosaurian Secondary Cartilage in the Post-Hatching Skull of Hypacrosaurus stebingeri (Dinosauria, Ornithischia)". In Dodson, Peter. PLoS ONE 7 (4): e36112. doi:10.1371/journal.pone.0036112. PMC 3340333. PMID 22558351.  edit
+^ Chinsamy, Anusuya; and Hillenius, Willem J. (2004). "Physiology of nonavian dinosaurs". The Dinosauria, 2nd. 643-659.
+^ Ruben, J. A.; Hillenius, W.J.; Geist, N.R.; Leitch, A.; Jones, T.D.; Currie, P.J.; Horner, J.R.; and Espe, G., III (August 1996). "The metabolic status of some Late Cretaceous dinosaurs". Science 273 (5279): 1204–1207. doi:10.1126/science.273.5279.1204. 
+^ Martin, A.J. (2006). Introduction to the Study of Dinosaurs. Second Edition. Oxford, Blackwell Publishing. 560 pp. ISBN 1–4051–3413–5.
+^ Barrick, R. E., Showers, W. J. and Fischer, A. G. 1996. Comparison of thermoregulation of four ornithischian dinosaurs and a varanid lizard from the Cretaceous Two Medicine Formation: Evidence from oxygen isotopes. Palaios 11: 295–305.
+^ Martin, A.J. (2006). Introduction to the Study of Dinosaurs. Second Edition. Oxford, Blackwell Publishing. 560 pp. ISBN 1–4051–3413–5.
+^ Behrensmeyer, A. K. 1991. Terrestrial vertebrate accumulations. In Allison P. A. and Briggs D. E. G. (Eds), Taphonomy: Releasing the Data Locked in the Fossil Record. New York: Plenum Press.
+
+
+External links[edit]
+
+
+
+
+Dinosaurs portal
+
+
+
+
+Hypacrosaurus, from the Canadian Museum of Nature
+Hypacrosaurus in The Natural History Museum's Dino Directory
+
+ 
+
+
+ 
+NewPP limit report
+CPU time usage: 4.108 seconds
+Real time usage: 4.390 seconds
+Preprocessor visited node count: 26828/1000000
+Preprocessor generated node count: 40650/1500000
+Post‐expand include size: 121373/2048000 bytes
+Template argument size: 46321/2048000 bytes
+Highest expansion depth: 39/40
+Expensive parser function count: 2/500
+Lua time usage: 0.075s
+Lua memory usage: 2.11 MB
+
+
+ Saved in parser cache with key enwiki:pcache:idhash:2820332-0!*!0!!en!4!* and timestamp 20131001102648 
+								
+				Retrieved from "http://en.wikipedia.org/w/index.php?title=Hypacrosaurus&oldid=571917111"				
+												Categories: Dinosaurs of North AmericaCretaceous dinosaursHadrosaursHidden categories: Good articlesArticles with 'species' microformats												
+							
+		
+		
+			Navigation menu
+			
+				
+	Personal tools
+	
+Create accountLog in	
+
+				
+					
+	Namespaces
+	
+					Article
+					Talk
+			
+
+
+	
+		
+	Variants
+	
+		
+					
+	
+
+				
+				
+					
+	Views
+	
+					Read
+					Edit
+					View history
+			
+
+
+	Actions
+	
+		
+					
+	
+
+
+	Search
+	
+				
+																				
+		
+	
+
+				
+			
+			
+					
+				
+	Navigation
+	
+		
+			Main page
+			Contents
+			Featured content
+			Current events
+			Random article
+			Donate to Wikipedia
+		
+	
+
+
+	Interaction
+	
+		
+			Help
+			About Wikipedia
+			Community portal
+			Recent changes
+			Contact page
+		
+	
+
+
+	Toolbox
+	
+		
+			What links here
+			Related changes
+			Upload file
+			Special pages
+			Permanent link
+			Page information
+			Data item
+Cite this page		
+	
+
+
+	Print/export
+	
+		
+			Create a book
+			Download as PDF
+			Printable version
+		
+	
+
+
+	Languages
+	
+		
+			Català
+			Česky
+			Deutsch
+			Español
+			فارسی
+			Français
+			한국어
+			Italiano
+			Lietuvių
+			Magyar
+			Nederlands
+			日本語
+			Norsk bokmål
+			Polski
+			Português
+			Русский
+			Simple English
+			Srpskohrvatski / српскохрватски
+			Svenska
+			中文
+			
+			Edit links
+		
+	
+
+			
+		
+		
+							
+											 This page was last modified on 7 September 2013 at 14:03.
+											Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. 
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+									
+							
+											Privacy policy
+											About Wikipedia
+											Disclaimers
+											Contact Wikipedia
+											Developers
+											Mobile view
+									
+										
+					
+						
+					
+					
+						
+					
+				
+						
+		
+		
+
+
+ Served by mw1173 in 0.172 secs. 
+	
+if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Hypacrosaurus","wgTitle":"Hypacrosaurus","wgCurRevisionId":571917111,"wgArticleId":2820332,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Good articles","Articles with 'species' microformats","Dinosaurs of North America","Cretaceous dinosaurs","Hadrosaurs"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Hypacrosaurus","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgVectorEnabledModules":{"collapsiblenav":true,"experiments":true},"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"templateEditor":false,"templates":false,"preview":false,"previewDialog":false,"publish":false,"toc":false},"wgArticleFeedbackv5Permissions":{"aft-reader":true,"aft-member":false,"aft-editor":false,"aft-monitor":false,"aft-administrator":false,"aft-oversighter":false,"aft-noone":false},"wgVisualEditor":{"isPageWatched":false,"magnifyClipIconURL":"//bits.wikimedia.org/static-1.22wmf18/skins/common/images/magnify-clip.png","pageLanguageCode":"en","pageLanguageDir":"ltr"},"wikilove-recipient":"","wikilove-anon":0,"wgGuidedTourHelpGuiderUrl":"Help:Guided tours/guider","wgULSAcceptLanguageList":["en-gb","en-us","en"],"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia","aftv5Article":{"id":2820332,"title":"Hypacrosaurus","namespace":0,"categories":["Articles with 'species' microformats","Cretaceous dinosaurs","Dinosaurs of North America","Good articles","Hadrosaurs"],"permissionLevel":false},"wgWikibaseItemId":"Q311563"});
+}if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":false,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,
+"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"useeditwarning":1,"prefershttps":1,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"vector-simplesearch":1,"vector-collapsiblenav":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"aftv5-last-filter":null,"visualeditor-enable":0,"visualeditor-enable-experimental":0,"visualeditor-betatempdisable":0,"wikilove-enabled":1,"echo-subscriptions-web-page-review":true,"echo-subscriptions-email-page-review":false,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"echo-notify-show-link":true,"echo-show-alert":true,"echo-email-frequency":0,"echo-email-format":"html","echo-subscriptions-email-system":true,"echo-subscriptions-web-system":true,"echo-subscriptions-email-other":false,"echo-subscriptions-web-other":true,"echo-subscriptions-email-edit-user-talk":false,"echo-subscriptions-web-edit-user-talk":true,
+"echo-subscriptions-email-reverted":false,"echo-subscriptions-web-reverted":true,"echo-subscriptions-email-article-linked":false,"echo-subscriptions-web-article-linked":false,"echo-subscriptions-email-mention":false,"echo-subscriptions-web-mention":true,"echo-subscriptions-web-edit-thank":true,"echo-subscriptions-email-edit-thank":false,"gettingstarted-task-toolbar-show-intro":true,"uls-preferences":"","language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs446":false,"searchNs447":false
+,"searchNs710":false,"searchNs711":false,"searchNs828":false,"searchNs829":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-mySandbox":1,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:156d8fe0ae17f8afd74198057563e45d */
+}if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","ext.visualEditor.viewPageTarget.init","ext.wikimediaShopLink.core","ext.uls.init","ext.uls.interface","wikibase.client.init","ext.centralNotice.bannerController","skins.vector.js"]);
+}/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}if(window.mw){
+mw.loader.load(["mobile.desktop","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.cite","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","mw.MwEmbedSupport.style","ext.vector.collapsibleNav","ext.articleFeedbackv5.startup","ext.gettingstarted.logging","ext.gettingstarted.openTask","schema.HttpsSupport","ext.coreEvents.httpsSupport","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","mw.PopUpMediaTransform"],null,true);
+}

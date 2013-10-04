@@ -1,0 +1,562 @@
+
+
+
+Chindesaurus - Wikipedia, the free encyclopedia
+
+
+
+
+
+
+
+
+
+
+
+
+a:lang(ar),a:lang(ckb),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:0de201fdea5d684523607ed88007b127 */
+
+
+
+
+[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.22wmf18/skins/vector/csshover.min.htc")}</style><![endif]
+
+		
+		
+		
+			
+			
+						 CentralNotice 
+						Chindesaurus
+			
+								From Wikipedia, the free encyclopedia
+								
+												
+					Jump to:					navigation, 					search
+				
+				
+
+
+Chindesaurus
+Temporal range: Late Triassic, 216Ma
+
+PreЄ
+Є
+O
+S
+D
+C
+P
+T
+J
+K
+Pg
+N
+
+
+
+↓
+
+
+
+
+
+
+
+
+
+Restoration from Petrified Forest National Park
+
+
+Scientific classification
+
+
+Kingdom:
+Animalia
+
+
+Phylum:
+Chordata
+
+
+Class:
+Reptilia
+
+
+Superorder:
+Dinosauria
+
+
+Order:
+Saurischia
+
+
+Family:
+Herrerasauridae?
+
+
+Genus:
+Chindesaurus
+Long & Murry, 1995
+
+
+Species
+
+
+
+
+C. bryansmalli Long & Murry, 1995 (type)
+
+
+
+
+Synonyms
+
+
+
+
+ ?Caseosaurus Hunt et al., 1998
+
+
+
+
+
+Chindesaurus (/ˌtʃɪndɨˈsɔrəs/ CHIN-di-SAWR-əs) is a genus of herrerasaurid theropod dinosaur that lived approximately 216 million years ago during the latter part of the Triassic Period in what is now the Southwestern United States. Chindesaurus was a small, bipedal, carnivore, that could grow up to 2.4 m (7.9 ft) long.
+
+
+Contents
+
+
+1 Etymology
+2 Description
+3 Classification
+
+3.1 Distinguishing anatomical features
+
+
+4 Paleoecology
+
+4.1 Provenance and occurrence
+4.2 Fauna and habitat
+
+
+5 References
+6 External links
+
+
+Etymology[edit]
+The genus name Chindesaurus is derived from the Navajo word chindi meaning "ghost" or "evil spirit" and the Greek word "sauros" (σαυρος) meaning "lizard";[1] thus, "ghost lizard" or "Lizard from Chinde Point". The species name, bryansmalli honors the discoverer, Bryan Small. Chindesaurus was described and named by R.A. Long and P.A. Murry, in 2011 and the type species is Chindesaurus bryansmalli. When this specimen was first discovered it was nicknamed "Gertie" and received much publicity.
+Description[edit]
+Chindesaurus is known from five incomplete specimens (six if Caseosaurus is included). Of these, the type specimen PEFO 10395 is the most complete, consisting of a single tooth, a fragmentary neck vertebra, fragmentary back vertebrae, several rib fragments, two complete vertebrae from the hips, fragmentary tail vertebrae, a chevron, several fragmentary hip bones, a complete left femur and a fragmentary right femur, a fragmentary right tibia, and a right ankle bone.[2] The other specimens are more incomplete, consisting of isolated hip bones, upper leg bones (femora), and more vertebrae. The type and paratype specimens were approximately 2.4 metres (7.9 ft) in length. Some estimates suggest that Chindesaurus weighed 50 kilograms (110.2 pounds) at most.[3]
+Classification[edit]
+Chindesaurus has been difficult to classify, and has been recovered in several different positions at the base of the saurischian family tree. When it was first discovered in 1985, the fossil specimen which would eventually be named Chindesaurus was thought to be a prosauropod.[4] When it was finally described and named a decade after its discovery by Long and Murry, they regarded it as a herrerasaurid, an opinion that has been followed by most paleontologists since.[2] Most phylogenetic analyses published through 2007 continued to find it to fall among the herrerasaurids,[5][6] though a few studies cast doubt on this, including one in 2007 by Irmis, Nesbitt and colleagues which found Chindesaurus to be a probable basal saurischian dinosaur, and noted that it shares a wide range of characteristics with several lineages of basal saurischians, making any classification problematic.[7] Rauhut (2003) noted that the medially expanded brevis shelf of Chindesaurus resembles that of crurotarsans, and not that of most dinosaurs which is usually laterally expanded.[8]
+One specimen originally assigned to Chindesaurus, from the Tecovas Formation of Texas, was later placed in its own genus and species, Caseosaurus crosbyensis.[9] Subsequent research has shown that this separation was probably in error, and that the two forms represent the same species.[10] Nesbitt, Irmis and Parker agreed in a 2007 paper that there is little reason to separate Caseosaurus from Chindesaurus, and the two even share some unique characteristics not found in similar species. Nesbitt and colleagues suggested that any differences between the two were probably related to differences in size. However, since both species are so fragmentary, they decided not to formally make them synonyms.[11]
+The following is a cladogram based on the phylogenetic analysis by Hans-Dieter Sues, Sterling J. Nesbitt, David S Berman and Amy C. Henrici, in 2011/12, which indicated that Chindesaurus is a herrerasaurid theropod.[12]
+
+
+  Dinosauria  
+
+
+
+
+
+Ornithischia
+
+
+
+
+
+
+ Saurischia 
+
+
+
+
+
+Sauropodomorpha
+
+
+
+
+
+
+ Theropoda 
+
+
+
+ Herrerasauridae 
+
+
+
+
+
+Staurikosaurus
+
+
+
+
+
+
+
+
+
+
+
+
+Herrerasaurus
+
+
+
+
+
+
+
+
+Chindesaurus
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Eoraptor
+
+
+
+
+
+
+
+
+
+
+
+
+Daemonosaurus
+
+
+
+
+
+
+
+
+
+
+
+
+Tawa
+
+
+
+
+
+
+
+
+Neotheropoda
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Distinguishing anatomical features[edit]
+A diagnosis is a statement of the anatomical features of an organism (or group) that collectively distinguish it from all other organisms. Some, but not all, of the features in a diagnosis are also autapomorphies. An autapomorphy is a distinctive anatomical feature that is unique to a given organism or group.
+According to Nesbitt et al. (2007), Chindesaurus can be distinguished based on the following characteristics:
+
+a triangular rugosity is present on the postacetabular process
+the proximal tibial intercondylar groove is strongly situated medially
+the posterior edge of the fibular condyle of the proximal tibia is straight when examined in proximal view
+the presence of a ventral cleft on the astragalus
+
+Paleoecology[edit]
+Provenance and occurrence[edit]
+The holotype specimen of Chindesaurus PEFO 10395 is a partial skeleton, discovered in the Petrified Forest National Park member of the Chinle Formation in Apache County, Arizona. Its remains were discovered by Bryan Small in 1985, in blue mudstone which was deposited during the Norian stage of the Triassic, approximately 228-208 million years ago.[13][14] Specimen PEFO 4849, which consists only of a dorsal vertebra was referred to the genus. It was collected in Norian-aged sediments in a different part of the Upper Petrified Forest member. Specimen PEFO 33982, which consists of nine vertebrae, an ilium fragment, a proximal femur, and other bone fragments was also collected in Norian-aged sediments of Upper Petrified Forest member. These two specimens are housed in the collection of the University of California Museum of Paleontology in Berkeley, California.
+In the Bull Canyon Formation, in New Mexico, specimens NMMNH P16656, and NMMNH P17325 were discovered in sediments deposited during the Norian and Lancian stages of the Late Triassic, respectively. The assignment of these two specimens to Chindesaurus has now come under question.[15] These specimens are housed in the collection of the New Mexico Museum of Natural History and Science in Albuquerque, New Mexico.
+Additional material referable to Chindesaurus was discovered in 2006, in gray/green siltstone at the Hayden Quarry of the Petrified Forest Member of the Chinle Formation in New Mexico. Another specimen, TMM 31100-523 which consists of a proximal femur, was discovered in the Colorado City Formation in Texas, in mudstone considered to be from the Carnian stage of the Triassic, approximately 235-228 million years ago. It is currently housed in the collection of the Texas Memorial Museum in Austin, Texas.
+Fauna and habitat[edit]
+The Upper Petrified Forest National Park member of the Chinle Formation was an ancient floodplain where phytosaurs, rauisuchids, archosaurs, pseudosuchians, and other tetrapods lived and competed with the dinosaur Chindesaurus and its relative Coelophysis for resources. This paleoenvironment also had abundant lungfish and clams. The rauisuchian Saurosuchus may have been the main threat to Chindesaurus."Chindesaurus". Dinochecker.com. Retrieved 31 May 2013. </ref>.
+References[edit]
+
+
+^ Liddell, Henry George and Robert Scott (1980). A Greek-English Lexicon (Abridged Edition). United Kingdom: Oxford University Press. ISBN 0-19-910207-4. 
+^ a b Long and Murry, (1995). "Late Triassic (Carnian and Norian) tetrapods from the Southwestern United States." New Mexico Museum Natural History Science Bulletin, 4: 1-254.
+^ "Chindesaurus". Hostgator.com. Retrieved 31 May 2013. 
+^ Meyer, (1986). "D-Day on the Painted Desert." Arizona Highways, 62(7): 3-13.
+^ Bittencourt and Kellner, (2004). "The phylogenetic position of Staurikosaurus pricei Colbert, 1970 from the Triassic of Brazil." Journal of Vertebrate Paleontology, 24(3):.
+^ Irmis, Nesbitt, Padian, Smith, Turner, Woody and Downs, (2007). "A Late Triassic dinosauromorph assemblage from New Mexico and the rise of dinosaurs." Science, 317: 358-361.
+^ Irmis, R.B., Nesbitt, S.J., Padian, K., Smith, N.D., Turner, A.H., Woody, D.T., and Downs, A. (2007). "A Late Triassic dinosauromorph assemblage from New Mexico and the rise of dinosaurs". Science 317: 358-361
+^ Rauhut, 2003. The interrelationship and evolution of basal theropod dinosaurs. Special Papers in Palaeontology. 69, 1-215.
+^ Hunt, Lucas, Heckert, Sullivan and Lockley, (1998). "Late Triassic Dinosaurs from the Western United States." Geobios, 31(4): 511-531.
+^ Langer, (2004). "Basal Saurischia." In Weishampel, Dodson and Osmolska (eds.). The Dinosauria Second Edition. University of California Press. 861 pp.
+^ Nesbitt, Irmis and Parker, (2007). "A critical re-evaluation of the Late Triassic dinosaur taxa of North America." Journal of Systematic Palaeontology, 5(2): 209–243.
+^ Hans-Dieter Sues, Sterling J. Nesbitt, David S Berman and Amy C. Henrici (2011). "A late-surviving basal theropod dinosaur from the latest Triassic of North America". Proceedings of the Royal Society B 278 (1723): 3459. doi:10.1098/rspb.2011.0410. 
+^ Parker, W. G., R. B. Irmis, and S. J. Nesbitt. 2006. Review of the Late Triassic dinosaur record from Petrified Forest National Park . Pages 160-161 in Parker, W. G., S. R. Ash, and R. B. Irmis, editors. A century of research at Petrified Forest National Park: geology and paleontology. Museum of Northern Arizona, Flagstaff, Arizona. Bulletin 62.
+^ Litwin, R.J., Traverse, A., and Ash, S.R., 1991. Preliminary palynological zonation of the Chinle Formation, southwestern U.S.A., and its correlation to the Newark Supergroup (eastern U.S.A.). Review of Paleobotany and Palynology, v. 77, p. 269-287.
+^ Nesbitt, Irmis and Parker, 2007. A critical re-evaluation of the Late Triassic dinosaur taxa of North America. Journal of Systematic Palaeontology. 5(2), 209–243.
+
+
+External links[edit]
+
+Image of Chindesaurus by Rob Gay
+
+
+
+
+
+Dinosaurs portal
+
+
+
+
+
+ 
+NewPP limit report
+CPU time usage: 3.348 seconds
+Real time usage: 3.613 seconds
+Preprocessor visited node count: 15646/1000000
+Preprocessor generated node count: 36303/1500000
+Post‐expand include size: 97290/2048000 bytes
+Template argument size: 53407/2048000 bytes
+Highest expansion depth: 25/40
+Expensive parser function count: 0/500
+Lua time usage: 0.036s
+Lua memory usage: 1.33 MB
+
+
+ Saved in parser cache with key enwiki:pcache:idhash:4353939-0!*!0!!en!4!* and timestamp 20131002130117 
+								
+				Retrieved from "http://en.wikipedia.org/w/index.php?title=Chindesaurus&oldid=572401238"				
+												Categories: Triassic dinosaursDinosaurs of North AmericaSaurischiansHidden categories: Articles with 'species' microformats												
+							
+		
+		
+			Navigation menu
+			
+				
+	Personal tools
+	
+Create accountLog in	
+
+				
+					
+	Namespaces
+	
+					Article
+					Talk
+			
+
+
+	
+		
+	Variants
+	
+		
+					
+	
+
+				
+				
+					
+	Views
+	
+					Read
+					Edit
+					View history
+			
+
+
+	Actions
+	
+		
+					
+	
+
+
+	Search
+	
+				
+																				
+		
+	
+
+				
+			
+			
+					
+				
+	Navigation
+	
+		
+			Main page
+			Contents
+			Featured content
+			Current events
+			Random article
+			Donate to Wikipedia
+		
+	
+
+
+	Interaction
+	
+		
+			Help
+			About Wikipedia
+			Community portal
+			Recent changes
+			Contact page
+		
+	
+
+
+	Toolbox
+	
+		
+			What links here
+			Related changes
+			Upload file
+			Special pages
+			Permanent link
+			Page information
+			Data item
+Cite this page		
+	
+
+
+	Print/export
+	
+		
+			Create a book
+			Download as PDF
+			Printable version
+		
+	
+
+
+	Languages
+	
+		
+			Català
+			Deutsch
+			Español
+			Français
+			Italiano
+			Latina
+			Magyar
+			日本語
+			Polski
+			Português
+			Русский
+			Svenska
+			Українська
+			Volapük
+			中文
+			
+			Edit links
+		
+	
+
+			
+		
+		
+							
+											 This page was last modified on 10 September 2013 at 21:14.
+											Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. 
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+									
+							
+											Privacy policy
+											About Wikipedia
+											Disclaimers
+											Contact Wikipedia
+											Developers
+											Mobile view
+									
+										
+					
+						
+					
+					
+						
+					
+				
+						
+		
+		
+
+
+ Served by mw1096 in 0.254 secs. 
+	
+if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Chindesaurus","wgTitle":"Chindesaurus","wgCurRevisionId":572401238,"wgArticleId":4353939,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with 'species' microformats","Triassic dinosaurs","Dinosaurs of North America","Saurischians"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Chindesaurus","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgVectorEnabledModules":{"collapsiblenav":true,"experiments":true},"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"templateEditor":false,"templates":false,"preview":false,"previewDialog":false,"publish":false,"toc":false},"wgArticleFeedbackv5Permissions":{"aft-reader":false,"aft-member":false,"aft-editor":false,"aft-monitor":false,"aft-administrator":false,"aft-oversighter":false,"aft-noone":false},"wgVisualEditor":{"isPageWatched":false,"magnifyClipIconURL":"//bits.wikimedia.org/static-1.22wmf18/skins/common/images/magnify-clip.png","pageLanguageCode":"en","pageLanguageDir":"ltr"},"wikilove-recipient":"","wikilove-anon":0,"wgGuidedTourHelpGuiderUrl":"Help:Guided tours/guider","wgULSAcceptLanguageList":[],"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia","aftv5Article":{"id":4353939,"title":"Chindesaurus","namespace":0,"categories":["Articles with 'species' microformats","Dinosaurs of North America","Saurischians","Triassic dinosaurs"],"permissionLevel":false},"wgWikibaseItemId":"Q132579"});
+}if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":false,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,
+"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"useeditwarning":1,"prefershttps":1,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"vector-simplesearch":1,"vector-collapsiblenav":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"aftv5-last-filter":null,"visualeditor-enable":0,"visualeditor-enable-experimental":0,"visualeditor-betatempdisable":0,"wikilove-enabled":1,"echo-subscriptions-web-page-review":true,"echo-subscriptions-email-page-review":false,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"echo-notify-show-link":true,"echo-show-alert":true,"echo-email-frequency":0,"echo-email-format":"html","echo-subscriptions-email-system":true,"echo-subscriptions-web-system":true,"echo-subscriptions-email-other":false,"echo-subscriptions-web-other":true,"echo-subscriptions-email-edit-user-talk":false,"echo-subscriptions-web-edit-user-talk":true,
+"echo-subscriptions-email-reverted":false,"echo-subscriptions-web-reverted":true,"echo-subscriptions-email-article-linked":false,"echo-subscriptions-web-article-linked":false,"echo-subscriptions-email-mention":false,"echo-subscriptions-web-mention":true,"echo-subscriptions-web-edit-thank":true,"echo-subscriptions-email-edit-thank":false,"gettingstarted-task-toolbar-show-intro":true,"uls-preferences":"","language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs446":false,"searchNs447":false
+,"searchNs710":false,"searchNs711":false,"searchNs828":false,"searchNs829":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-mySandbox":1,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:156d8fe0ae17f8afd74198057563e45d */
+}if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","ext.visualEditor.viewPageTarget.init","ext.wikimediaShopLink.core","ext.uls.init","ext.uls.interface","wikibase.client.init","ext.centralNotice.bannerController","skins.vector.js"]);
+}/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}if(window.mw){
+mw.loader.load(["mobile.desktop","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.cite","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","mw.MwEmbedSupport.style","ext.vector.collapsibleNav","ext.articleFeedbackv5.startup","ext.gettingstarted.logging","ext.gettingstarted.openTask","schema.HttpsSupport","ext.coreEvents.httpsSupport","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","mw.PopUpMediaTransform"],null,true);
+}

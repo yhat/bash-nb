@@ -1,0 +1,756 @@
+
+
+
+Dryptosaurus - Wikipedia, the free encyclopedia
+
+
+
+
+
+
+
+
+
+
+
+
+a:lang(ar),a:lang(ckb),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:0de201fdea5d684523607ed88007b127 */
+
+
+
+
+[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.22wmf19/skins/vector/csshover.min.htc")}</style><![endif]
+
+		
+		
+		
+			
+			
+						 CentralNotice 
+						Dryptosaurus
+			
+								From Wikipedia, the free encyclopedia
+								
+												
+					Jump to:					navigation, 					search
+				
+				
+
+
+Dryptosaurus
+Temporal range: Late Cretaceous, 67Ma
+
+PreЄ
+Є
+O
+S
+D
+C
+P
+T
+J
+K
+Pg
+N
+
+
+
+↓
+
+
+
+
+
+
+
+
+
+Elements of the type specimen
+
+
+Scientific classification 
+
+
+Kingdom:
+Animalia
+
+
+Phylum:
+Chordata
+
+
+Clade:
+Sauropsida
+
+
+Clade:
+Dinosauria
+
+
+Clade:
+Theropoda
+
+
+Superfamily:
+†Tyrannosauroidea
+
+
+Family:
+†Dryptosauridae
+Marsh, 1890
+
+
+Genus:
+†Dryptosaurus
+Marsh, 1877
+
+
+Species:
+† D. aquilunguis
+
+
+Binomial name
+
+
+Dryptosaurus aquilunguis
+(Cope, 1866 [originally Laelaps])
+
+
+Synonyms
+
+
+
+Laelaps aquilunguis Cope, 1866 (preoccupied)
+Megalosaurus aquilunguis (Cope, 1866)
+
+
+
+
+Dryptosaurus (pron.:"DRIP-toe-SORE-us") is a genus of primitive tyrannosauroid that lived approximately 67 million years ago during the latter part of the Cretaceous period in what is now Eastern North America. Dryptosaurus was a large, bipedal, ground-dwelling carnivore, that could grow up to 7.5 m (24.6 ft) long. Although largely unknown now outside of academic circles, a famous painting of the genus by Charles R. Knight made it one of the more widely known dinosaurs of its time, in spite of its poor fossil record. First described by E.D. Cope in 1866 and later renamed by Othniel C. Marsh in 1877, Dryptosaurus is among the first theropod dinosaurs known to science.
+
+
+Contents
+
+
+1 Etymology
+2 Description
+3 Discovery and species
+4 Classification
+
+4.1 Dubious species
+4.2 Distinguishing anatomical features
+
+
+5 Paleoecology
+
+5.1 Provenance and occurrence
+5.2 Fauna and habitat
+
+
+6 Impact on Popular Culture
+7 References
+8 External links
+
+
+Etymology[edit]
+The genus name Dryptosaurus, means "tearing lizard", and is derived from the Greek words "drypto" (δρύπτω), meaning "to tear" and "sauros" (σαυρος) meaning "lizard".[1] The specific name aquilunguis, is derived from the Latin for "having claws like an eagle's", a reference to the claws on its three-fingered hand. E.D. Cope (1866) published a paper on the specimen within a week of its discovery, and christened it Laelaps aquilunguis at a meeting of the Academy of Natural Sciences in Philadelphia.[2] "Laelaps", which is derived from the Greek for “hurricane” or “storm wind”, was also the name of a dog in Greek mythology that never failed to catch what it was hunting.[3] Laelaps gained popularity as both a poetic and evocative name and became one of the first dinosaurs described from North America, following Hadrosaurus, Aublysodon and Trachodon. Subsequently, it was discovered that the name Laelaps had already been given to a genus of mite, and Cope's lifelong rival O.C. Marsh changed the name in 1877 to Dryptosaurus. The type species is Dryptosaurus aquilunguis.
+Description[edit]
+
+
+
+
+Estimated size, compared to human
+
+
+Dryptosaurus is estimated to have been 7.5 metres (25 ft) long and to have weighed 1.5 metric tons (1.7 short tons), although this is based on partial remains of one individual.[4] Like its relative Eotyrannus, Dryptosaurus seems to have had relatively long arms compared to, for example, Tyrannosaurus. Its hands, which are also relatively large were believed to have had three fingers. Brusatte et al. (2011), however, observed an overall similarity in the shape of the available phalanges of Dryptosaurus with those of derived tyrannosaurids and noted that Dryptosaurus may have had only two functional digits.[2] Each of its fingers were tipped by a talonlike 8 inch claw.[5] Its forelimb morphology suggests that forelimb reduction in tyrannosauroids may not have proceeded in a uniform fashion.[2] Dryptosaurus may have used both its arms and its jaws and as weapons when hunting, capturing and processing prey.[2]
+
+
+
+
+Restoration
+
+
+The type specimen is fragmentary skeleton belonging to a single adult individual. ANSP 9995 consists of a fragmentary right maxilla, a fragmentary right dentary, a fragmentary right surangular, lateral teeth, 11 middle-distal caudal vertebrae, both the left and right humeri, three manual phalanges from the left hand (I-1, II-2, and an ungual), the shafts of the left and right pubis bones, a fragmentary right ischium, the left femur, the left tibia, the left fibula, the left astragalus, and a midshaft fragment of metatarsal III. The ontological maturity of the holotype individual is supported by the fact that the neurocentral sutures are closed in all of its caudal vertebrae.[2] AMNH FARB 2438 consists of left metatarsal IV, which likely from the same individual as the holotype.[6]
+The fragmentary right maxilla preserves the three alveoli in full and the fourth only partially. The authors were able to ascertain that Dryptosaurus had ziphodont dentition. The shape of the alveolus situated on the anterior portion of the fragment suggests that it housed a tooth that was smaller and more circular than the others; an incisiform tooth which is common in tyrannosauroids. The disarticulated teeth recovered are transversely narrow, serrated (17-18 denticles/cm) and recurved. The femur is only 3% longer than the tibia. The longest manual ungual phalanx recovered measured 176 mm (6.9 in) in length. The morphology of the proximal portion of metatarsal IV suggests that Dryptosaurus possessed an arctometatarsalian pes, an advanced feature shared by derived tyrannosauroids such as Albertosaurus and Tyrannosaurus, in which in which the third metatarsal is “pinched” between the second and fourth metatarsals.
+Discovery and species[edit]
+
+
+
+
+An outdated historical depiction of Dryptosaurus confronting Elasmosaurus, with two Hadrosaurus in the background. By Edward Drinker Cope, 1869
+
+
+Prior to the discovery of Dryptosaurus in 1866, New World theropods were known only from some isolated theropod teeth discovered in Montana by Joseph Leidy in 1856.[7] The discovery of this genus gave North American paleontologists the opportunity to observe an articulated, albeit incomplete, theropod skeleton. During the 19th century, this genus unfortunately became a wastebasket taxon for the referral of isolated theropod elements from across North America, and numerous theropod species were assigned to it (often as Lælaps or Laelaps) only to be later reclassified.
+Only one potential second species is sometimes recognized today, D. macropus, known from a partial hind limb found in the Navesink Formation (probably roughly equivalent to the New Eagle Formation in time). Joseph Leidy originally referred this specimen to Coelosaurus. Cope later recognized it as a distinct species, referring to it as Lælaps macropus, differing from the specimen now known as Dryptosaurus by its longer toes. Subsequently, most scientists had concluded that it probably belonged to Coelosaurus after all, but in 2004 paleontologist Thomas R. Holtz listed it as an indeterminate tyrannosauroid, possibly referable to the genus Dryptosaurus.[8]
+Classification[edit]
+
+
+
+
+
+Tyrannosauroidea 
+
+
+
+Proceratosauridae 
+
+
+
+void
+
+Kileskus
+
+
+
+
+
+
+
+
+
+
+void
+
+
+
+
+
+Guanlong
+
+
+
+
+
+
+
+
+
+
+void
+
+Proceratosaurus
+
+
+
+
+
+
+
+
+Sinotyrannus
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+void
+
+Dilong
+
+
+
+
+
+
+
+
+
+
+void
+
+
+
+void
+
+Stokesosaurus
+
+
+
+
+
+
+
+
+
+
+
+
+Eotyrannus
+
+
+
+
+
+
+
+
+Juratyrant
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+void
+
+Xiongguanlong
+
+
+
+
+
+
+
+
+
+
+void
+
+Dryptosaurus
+
+
+
+
+
+
+
+
+
+
+void
+
+Raptorex
+
+
+
+
+
+
+
+
+
+
+void
+
+Appalachiosaurus
+
+
+
+
+
+
+
+
+
+
+void
+
+Bistahieversor
+
+
+
+
+
+
+
+
+Tyrannosauridae
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tyrannosauroid phylogeny, based on Brusatte and Benson, 2012.
+
+
+
+Since the time of its discovery, Dryptosaurus has been classified in a number of theropod families. Cope (1866), Leidy (1868) and Lydekker (1888) noted obvious similarities with the genus Megalosaurus which was known at the time from remains discovered in southeastern England. Based on this line of reasoning, Cope classified it as a megalosaurid. Marsh, however, examined the remains and later assigned to its own monotypic family, Dryptosauridae. The fossil material assigned to Dryptosaurus was reviewed by Ken Carpenter in 1997 in light of the many different theropods discovered since Cope's day. He felt that due to some unusual features it couldn't be placed in any existing family, and like Marsh, felt that it warranted placement in Dryptosauridae.[6] This phylogenetic assignment was also supported by the work of Russell (1970) and Molnar (1990).[9][10] Other phylogenetic studies during the 1990s suggested that Dryptosaurus was a coelurosaur, though its exact placement within that group remained uncertain.
+In 1946, Charles W. Gilmore was the first to observed that certain anatomical features may link Dryptosaurus with coeval Late Cretaceous tyrannosaurids, Albertosaurus and Tyrannosaurus.[11] This observation was also supported by the work of Baird and Horner (1979), but did not have wide acceptance until a new discovery was made in 2005.[12] Dryptosaurus was the only large carnivore known in eastern North America until the discovery of the basal tyrannosauroid Appalachiosaurus in 2005.[13] Appalachiosaurus which is known from more complete remains, is similar to Dryptosaurus in both body size, as well as morphologically.[14] This discovery made it clear that Dryptosaurus was a primitive tyrannosauroid. Detailed phylogenetic analysis by Brusatte et al. (2011) confirmed the tyrannosauroid affinities of Dryptosaurus and assigned it as an “intermediate” tyrannosauroid that is more derived than basal taxa such as Guanlong and Dilong, but more primitive than members of the more derived Tyrannosauridae.
+The following cladogram is based on the phylogenetic analysis conducted by, showing the relationships of Dryptosaurus among the other genera assigned to the taxon Tyrannosauroidea:[15]
+Dubious species[edit]
+Numerous species have been assigned to Dryptosaurus based on very fragmentary material, and probably belong to various other types of theropod. These include:
+
+D. macropus (Cope, 1868)
+[originally Laelaps]
+D. falculus (Cope, 1876)
+[originally Laelaps]
+D. hazenianus (Cope, 1876)
+[originally Laelaps]
+
+Another dubious species was Laelaps trihedrodon by Cope in 1877. Although the type specimen included a partial dentary, all material—except for a collection of five damaged partial tooth crowns (AMNH 5780)—has been lost. AMNH 5780 has many features in common with Allosaurus and is probably referable to that genus. However some of the Allosaurus-like characters of the tooth are primitive to theropods as a whole and may have been present in the less-studied or poorly preserved Morrison Formation theropod species. Consequently the synonymization of L. trihedrodon with Allosaurus is tentative, despite its high likelihood.[16]
+Distinguishing anatomical features[edit]
+
+
+
+
+Limb and other bones
+
+
+A diagnosis is a statement of the anatomical features of an organism (or group) that collectively distinguish it from all other organisms. Some, but not all, of the features in a diagnosis are also autapomorphies. An autapomorphy is a distinctive anatomical feature that is unique to a given organism or group.
+According to Brusatte et al. (2011), Dryptosaurus can be distinguished based on the following characteristics:
+
+the combination of a reduced humerus (humerus: femur ratio = 0.375) and a large hand (phalanx I-1:femur ratio = 0.200)
+the strong mediolateral expansion of the ischial tubercle, which is approximately 1.7 times as wide as the shaft immediately distally
+the presence of an ovoid fossa on the medial surface of the femoral shaft immediately proximal to the medial condyle, which is demarcated anteriorly by the mesiodistal crest and demarcated medially by a novel crest
+the presence of a proximomedially trending ridge on the anterior surface of the fibula immediately proximal to the iliofibularis tubercle
+the lip on the lateral surface of the lateral condyle of the astragalus is prominent and is overlapping the proximal surface of the calcaneum
+metatarsal IV is observed with a flat shaft proximally, resulting in a semiovoid cross section that is much wider mediolaterally than it is long anteroposteriorly
+
+Paleoecology[edit]
+Provenance and occurrence[edit]
+
+
+
+
+Diagram showing the remains after Dryptosaurus
+
+
+The type specimen of Dryptosaurus ANSP 9995 was recovered in the West Jersey Marl Company Pit, in what came to be known as the New Egypt Formation in Barnsboro, in Gloucester County, New Jersey. The specimen was collected by quarry workers in marl and sandstone that were deposited during the Maastrichtian stage of the Cretaceous period, approximately 67 million years ago.[5][17] Brustatte et al. (2011) noted that well-preserved, historic casts of most of the type material ANSP 9995/AMNH FARB 2438 are housed in the collections of the Natural History Museum in London (NHM OR50100). The casts show some detail that is no longer preserved on the original specimens which have significantly degraded due to pyrite disease.[18]
+Fauna and habitat[edit]
+Studies suggest that New Egypt Formation is a marine unit, and is considered to be the deeper-water equivalent of the Tinton and Red Bank formations.[19] This formation overlies the Navesink Formation, from which potential Dryptosaurus referred material has been reported.
+During the Maastrichtian stage the Western Interior Seaway, which stretched in a north-south direction from the present-day Arctic Ocean down to the Gulf of Mexico, separated Dryptosaurus and its coeval fauna from western North America which was dominated by tyrannosaurids. Although certainly a carnivore, the paucity of known Cretaceous East Coast dinosaurs make ascertaining the specific diet of Dryptosaurus difficult.[5] Hadrosaurids are known from the same time and place as Dryptosaurus, the island continent of Appalachia, and they may have been a prominent part of its diet. Nodosaurs were also present, although less likely to be hunted due to their armor plating.[5] When hunting, both the skull and hands were important for the capture and processing of prey.
+Impact on Popular Culture[edit]
+
+
+
+
+Leaping Laelaps by Charles R. Knight, 1896
+
+
+The 1896 watercolor painting (right) by Charles R. Knight titled “Leaping Laelaps” may represent the earliest depiction of theropods as highly active and dynamic. Knight's hand was guided by E.D. Cope, and reflects their progressive opinion about theropod agility despite their large size, as well as the opinion of Henry Fairfield Osborn, the curator of vertebrate paleontology at the American Museum of Natural History at the time of the painting's commission. The original painting is now preserved in the AMNH collections. By contrast, the typical illustrations of large carnivorous dinosaurs like Megalosaurus, in the late 1800s, depicted the animals as large, tail-dragging behemoths.
+Currently efforts are underway by Gary Vecchiarelli of Project: Dryptosaurus to get a mount of the skeleton established in a more permanent location hosted in New Jersey State Museum in Trenton. Project Dryptosaurus was established as a non-profit organization dedicated to educating the public and scientific community about the world’s forgotten second dinosaur skeleton from New Jersey, and thus resurrecting this specimen to its rightful position in the chronology of dinosaur discoveries. The Project’s backers and supporters include respected professionals in the paleo-community. The Project has been featured in Prehistoric Times magazine in Issue #94 and Weird New Jersey in Issue #34. Project Dryptosaurus overall is dedicated to advancing the science of dinosaur paleontology as well and is currently working on non-profit status as indicated on the website.[20]
+References[edit]
+
+
+^ Liddell, Henry George and Robert Scott (1980). A Greek-English Lexicon (Abridged Edition). United Kingdom: Oxford University Press. ISBN 0-19-910207-4. 
+^ a b c d e Brusatte, S. L. and Benson, R. B. J. and Norell, M. A. (2011) The Anatomy of Dryptosaurus aquilunguis (Dinosauria: Theropoda) and a Review of its Tyrannosauroid Affinities. American Museum Novitates, 3717 . pp. 1-53. ISSN 0003-0082
+^ Cope, E.D. (1866). "Discovery of a gigantic dinosaur in the Cretaceous of New Jersey." Proceedings of the Academy of Natural Sciences of Philadelphia, 18: 275-279.
+^ Paul, G.S. (2010). The Princeton Field Guide to Dinosaurs, Princeton University Press, p. 100.
+^ a b c d Dryptosaurus." In: Dodson, Peter & Britt, Brooks & Carpenter, Kenneth & Forster, Catherine A. & Gillette, David D. & Norell, Mark A. & Olshevsky, George & Parrish, J. Michael & Weishampel, David B. The Age of Dinosaurs. Publications International, LTD. p. 112-113
+^ a b Carpenter, Ken & Russell, Dale A, Donald Baird, and R. Denton (1997). "Redescription of the holotype of Dryptosaurus aquilunguis (Dinosauria: Theropoda) from the Upper Cretaceous of New Jersey". Journal of Vertebrate Paleontology 17 (3): 561–573. doi:10.1080/02724634.1997.10011003. Archived from the original on 2007-03-10. 
+^ Leidy, J. 1856. Notice of remains of extinct reptiles and fishes discovered by Dr. F. V. Hayden in the badlands of the Judith River, Nebraska Territory. Proceedings of the Academy of Natural Sciences of Philadelphia 8: 72–73.
+^ Holtz, T.R. (2004). "Tyrannosauroidea." Pp. 111-136 in Weishampel, Dodson and Osmolska (eds). The Dinosauria (second edition). University of California Press, Berkeley.
+^ Russell, D.A. 1970. Tyrannosauroids from the Late Cretaceous of western Canada. National Museum of Natural Science (Ottawa) Publications in Paleontology 1: 1–34.
+^ Molnar, R.E. 1990. Problematic Theropoda. In D. B. Weishampel, P. Dodson, and H. Osmólska (editors), The Dinosauria: 306–317. Berkeley: University of California Press.
+^ Gilmore, C.W. 1946. A new carnivorous dinosaur from the Lance Formation of Montana. Smithsonian Miscellaneous Collections 106: 1–19.
+^ Baird, D., and J. Horner. 1979. Cretaceous dinosaurs (Reptilia) of North Carolina. Brimleyana 2: 1–18.
+^ Carr, T.D., Williamson, T.E., and Schwimmer, D.R. (2005). "A new genus and species of tyrannosauroid from the Late Cretaceous (middle Campanian) Demopolis Formation of Alabama". Journal of Vertebrate Paleontology 25 (1): 119–143. doi:10.1671/0272-4634(2005)025[0119:ANGASO]2.0.CO;2. 
+^ Holtz, T.R. 2004. Tyrannosauroidea. In D. B. Weishampel, P. Dodson, and H. Osmólska (editors), The Dinosauria, 2nd ed.: 111–136. Berkeley: University of California Press.
+^ Brusatte, S.L. and Benson, R.B.J. (In press). "The systematics of Late Jurassic tyrannosauroids (Dinosauria: Theropoda) from Europe and North America." Acta Palaeontologica Polonica. 58, 47-54
+^ Chure, Daniel J. (2001). "On the type and referred material of Laelaps trihedrodon Cope 1877 (Dinosauria: Theropoda)". In Tanke, Darren; and Carpenter, Kenneth (eds.). Mesozoic Vertebrate Life. Bloomington and Indianapolis: Indiana University Press. pp. 10–18. ISBN 978-0-253-33907-2. 
+^ Olsson, R.K. 1960. Foraminifera of latest Cretaceous and earliest Tertiary age in the New Jersey coastal plain. Journal of Paleontology 34: 1–58.
+^ Spamer, E.E., E. Daeschler, and L.G. Vostreys-Shapiro. 1995. A study of fossil vertebrate types in the Academy of Natural Sciences of Philadelphia. Special Publication 16, Academy of Natural Sciences of Philadelphia.
+^ Olsson, R.K. 1987. Cretaceous stratigraphy of the Atlantic coastal plain, Atlantic highlands of New Jersey. Geological Society of America Centennial Field Guide–Northeastern Section: 87–90.
+^ ERVOLINO, BILL (APRIL 13, 2010). "This dinosaur had a Jersey attitude". THE RECORD. Retrieved 23 June 2011. 
+
+
+
+Carr and Williamson (2002). "Evolution of basal Tyrannosauroidea from North America". Journal of Vertebrate Paleontology 22 (3): 41A. 
+[1] - Cretaceous Dinosaurs of the Southeastern United States by David T. King Jr.
+
+External links[edit]
+
+Dryptosaurus aquilunguis
+dryptosaurus.com
+
+
+
+
+
+Dinosaurs portal
+
+
+
+
+
+ 
+NewPP limit report
+CPU time usage: 4.492 seconds
+Real time usage: 4.756 seconds
+Preprocessor visited node count: 29256/1000000
+Preprocessor generated node count: 46221/1500000
+Post‐expand include size: 214040/2048000 bytes
+Template argument size: 182464/2048000 bytes
+Highest expansion depth: 39/40
+Expensive parser function count: 0/500
+Lua time usage: 0.047s
+Lua memory usage: 1.93 MB
+
+
+ Saved in parser cache with key enwiki:pcache:idhash:3715581-0!*!0!!en!4!* and timestamp 20131002140326 
+								
+				Retrieved from "http://en.wikipedia.org/w/index.php?title=Dryptosaurus&oldid=570220655"				
+												Categories: TyrannosaursDinosaurs of North AmericaCretaceous dinosaursHidden categories: Articles with 'species' microformats												
+							
+		
+		
+			Navigation menu
+			
+				
+	Personal tools
+	
+Create accountLog in	
+
+				
+					
+	Namespaces
+	
+					Article
+					Talk
+			
+
+
+	
+		
+	Variants
+	
+		
+					
+	
+
+				
+				
+					
+	Views
+	
+					Read
+					Edit
+					View history
+			
+
+
+	Actions
+	
+		
+					
+	
+
+
+	Search
+	
+				
+																				
+		
+	
+
+				
+			
+			
+					
+				
+	Navigation
+	
+		
+			Main page
+			Contents
+			Featured content
+			Current events
+			Random article
+			Donate to Wikipedia
+		
+	
+
+
+	Interaction
+	
+		
+			Help
+			About Wikipedia
+			Community portal
+			Recent changes
+			Contact page
+		
+	
+
+
+	Toolbox
+	
+		
+			What links here
+			Related changes
+			Upload file
+			Special pages
+			Permanent link
+			Page information
+			Data item
+Cite this page		
+	
+
+
+	Print/export
+	
+		
+			Create a book
+			Download as PDF
+			Printable version
+		
+	
+
+
+	Languages
+	
+		
+			العربية
+			Català
+			Česky
+			Deutsch
+			Español
+			Français
+			Italiano
+			Magyar
+			Nederlands
+			Polski
+			Português
+			Русский
+			Simple English
+			Slovenčina
+			Suomi
+			Svenska
+			中文
+			
+			Edit links
+		
+	
+
+			
+		
+		
+							
+											 This page was last modified on 26 August 2013 at 05:04.
+											Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. 
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+									
+							
+											Privacy policy
+											About Wikipedia
+											Disclaimers
+											Contact Wikipedia
+											Developers
+											Mobile view
+									
+										
+					
+						
+					
+					
+						
+					
+				
+						
+		
+		
+
+
+ Served by mw1105 in 0.214 secs. 
+	
+if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Dryptosaurus","wgTitle":"Dryptosaurus","wgCurRevisionId":570220655,"wgRevisionId":570220655,"wgArticleId":3715581,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with 'species' microformats","Tyrannosaurs","Dinosaurs of North America","Cretaceous dinosaurs"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Dryptosaurus","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgVectorEnabledModules":{"collapsiblenav":true,"experiments":true},"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"templateEditor":false,"templates":false,"preview":false,"previewDialog":false,"publish":false,"toc":false},"wgArticleFeedbackv5Permissions":{"aft-reader":true,"aft-member":false,"aft-editor":false,"aft-monitor":false,"aft-administrator":false,"aft-oversighter":false,"aft-noone":false},"wgVisualEditor":{"isPageWatched":false,"magnifyClipIconURL":"//bits.wikimedia.org/static-1.22wmf19/skins/common/images/magnify-clip.png","pageLanguageCode":"en","pageLanguageDir":"ltr"},"wikilove-recipient":"","wikilove-anon":0,"wgGuidedTourHelpGuiderUrl":"Help:Guided tours/guider","wgULSAcceptLanguageList":[],"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia","aftv5Article":{"id":3715581,"title":"Dryptosaurus","namespace":0,"categories":["Articles with 'species' microformats","Cretaceous dinosaurs","Dinosaurs of North America","Tyrannosaurs"],"permissionLevel":false},"wgWikibaseItemId":"Q131634"});
+}if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":false,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,
+"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"useeditwarning":1,"prefershttps":1,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"vector-simplesearch":1,"vector-collapsiblenav":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"aftv5-last-filter":null,"visualeditor-enable":0,"visualeditor-enable-experimental":0,"visualeditor-betatempdisable":0,"wikilove-enabled":1,"echo-subscriptions-web-page-review":true,"echo-subscriptions-email-page-review":false,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"echo-notify-show-link":true,"echo-show-alert":true,"echo-email-frequency":0,"echo-email-format":"html","echo-subscriptions-email-system":true,"echo-subscriptions-web-system":true,"echo-subscriptions-email-other":false,"echo-subscriptions-web-other":true,"echo-subscriptions-email-edit-user-talk":false,"echo-subscriptions-web-edit-user-talk":true,
+"echo-subscriptions-email-reverted":false,"echo-subscriptions-web-reverted":true,"echo-subscriptions-email-article-linked":false,"echo-subscriptions-web-article-linked":false,"echo-subscriptions-email-mention":false,"echo-subscriptions-web-mention":true,"echo-subscriptions-web-edit-thank":true,"echo-subscriptions-email-edit-thank":false,"gettingstarted-task-toolbar-show-intro":true,"uls-preferences":"","language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs446":false,"searchNs447":false
+,"searchNs710":false,"searchNs711":false,"searchNs828":false,"searchNs829":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-mySandbox":1,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:156d8fe0ae17f8afd74198057563e45d */
+}if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","ext.visualEditor.viewPageTarget.init","ext.wikimediaShopLink.core","ext.uls.init","ext.uls.interface","wikibase.client.init","ext.centralNotice.bannerController","skins.vector.js"]);
+}/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}if(window.mw){
+mw.loader.load(["mobile.desktop","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.cite","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","mw.MwEmbedSupport.style","ext.vector.collapsibleNav","ext.articleFeedbackv5.startup","schema.HttpsSupport","ext.coreEvents.httpsSupport","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","mw.PopUpMediaTransform"],null,true);
+}

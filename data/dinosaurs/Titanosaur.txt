@@ -1,0 +1,784 @@
+
+
+
+Titanosaur - Wikipedia, the free encyclopedia
+
+
+
+
+
+
+
+
+
+
+
+
+a:lang(ar),a:lang(ckb),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:0de201fdea5d684523607ed88007b127 */
+
+
+
+
+[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.22wmf18/skins/vector/csshover.min.htc")}</style><![endif]
+
+		
+		
+		
+			
+			
+						 CentralNotice 
+						Titanosaur
+			
+								From Wikipedia, the free encyclopedia
+								
+												
+					Jump to:					navigation, 					search
+				
+				
+
+
+
+
+This article needs additional citations for verification. Relevant discussion may be found on the talk page. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed. (February 2009) 
+
+
+
+
+
+Titanosaurs
+Temporal range: Late Jurassic–Late Cretaceous, 156–65.5Ma
+
+PreЄ
+Є
+O
+S
+D
+C
+P
+T
+J
+K
+Pg
+N
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reconstructed skeleton of Argentinosaurus huinculensis at the Naturmuseum Senckenberg in Frankfurt, Germany
+
+
+Scientific classification 
+
+
+Kingdom:
+Animalia
+
+
+Phylum:
+Chordata
+
+
+Clade:
+Sauropsida
+
+
+Clade:
+Dinosauria
+
+
+Suborder:
+†Sauropodomorpha
+
+
+Clade:
+†Somphospondyli
+
+
+Clade:
+†Titanosauria
+Bonaparte & Coria, 1993
+
+
+Superfamily:
+†Titanosauroidea
+Lydekker, 1895
+
+
+Type species
+
+
+Titanosaurus indicus
+Lydekker, 1877
+
+
+Subgroups
+
+
+
+See text
+
+
+
+
+Titanosaurs (members of the groups Titanosauria or Titanosauroidea) were a diverse group of sauropod dinosaurs, which included Saltasaurus and Isisaurus. It includes some of the heaviest creatures ever to walk the earth, such as Argentinosaurus and Puertasaurus — which are believed to have weighed up to 90 tonnes (100 short tons). Consequently, they were named titanosaurs in honor of the mythological Titans, the early deities of Ancient Greece. Together with the brachiosaurids and relatives, they make up the larger clade Titanosauriformes.
+
+
+Contents
+
+
+1 Description
+
+1.1 Range
+
+
+2 Paleobiology
+
+2.1 Diet
+2.2 Nesting
+
+
+3 Systematics
+
+3.1 Taxonomy
+3.2 Phylogeny
+
+
+4 References
+5 External links
+
+
+Description[edit]
+Titanosaurs had small heads, even when compared with other sauropods. The head was also wide, similar to the heads of Camarasaurus and Brachiosaurus but more elongated. Their nostrils were large ('macronarian') and they all had crests formed by these nasal bones. Their teeth were either somewhat spatulate (spoon-like) or like pegs or pencils, but were always very small.
+Their necks were of average length, for sauropods, and their tails were whip-like, but not as long as in the diplodocids. While the pelvis (hip area) was slimmer than some sauropods, the pectoral (chest area) was much wider, giving them a uniquely 'wide-gauged' stance. As a result, the fossilised trackways of titanosaurs are distinctly broader than other sauropods. Their forelimbs were also stocky, and often longer than their hind limbs. Their vertebrae (back bones) were solid (not hollowed-out), which may be a throwback to more primitive saurischians. Their spinal column was more flexible, so they were probably more agile than their cousins and better at rearing up.
+From skin impressions found with the fossils, it has been determined that the skin of many titanosaur species was armored with a small mosaic of small, bead-like scales around a larger scale.[1] One species, Saltasaurus, has even been discovered with bony plates, like the ankylosaurs. Studies published in 2011 also indicate that titanosaurs such as Rapetosaurus (on which the examinations were preformed), may have used the osteoderms common in the various genera for storing minerals during harsh changes in climate, such as drought.[2][3] While they were all huge, many were fairly average in size compared with the other giant dinosaurs. There were even some island-dwelling dwarf species such as Magyarosaurus, probably the result of allopatric speciation and insular dwarfism.
+Derived titanosaurs had biconvex vertebrae.[4] The primitive condition is either amphiplaty or amphicoely.[4] Venenosaurus may have had a condition intermediate between the two.[4]
+Range[edit]
+
+
+
+
+Unnamed titanosaur from China labelled "Xinghesaurus"
+
+
+The titanosaurs were the last great group of sauropods before the Cretaceous–Paleogene extinction event, about 90–65 million years ago and were the dominant herbivores of their time. The fossil evidence suggests they replaced the other sauropods, like the diplodocids and the brachiosaurids, which died out between the late Jurassic and the mid-Cretaceous Periods.
+Titanosaurs were widespread. In December 2011, Argentine scientists announced titanosaur fossils have been found on Antarctica—meaning that titanosaur fossils have been found on all continents. Four well preserved skeletons of a titanosaur species were found in Italy, a discovery first reported on May 2, 2006.[5] They are especially numerous in the southern continents (then part of the supercontinent of Gondwana). Australia had titanosaurs around 96 million years ago: fossils have been discovered in Queensland of a creature around 25 meters long (82 feet).[6][7] Remains have also been discovered in New Zealand.[8]
+Paleobiology[edit]
+Diet[edit]
+Fossilized dung associated with late Cretaceous titanosaurids has revealed phytoliths, silicified plant fragments, that offer clues to a broad, unselective plant diet. Besides the plant remains that might have been expected, such as cycads and conifers, discoveries published in 2005 [9] revealed an unexpectedly wide range of monocotyledons, including palms and grasses (Poaceae), including ancestors of rice and bamboo, which has given rise to speculation that herbivorous dinosaurs and grasses co-evolved.
+Nesting[edit]
+
+
+
+
+Diagram showing titanosaur nest excavation and egg laying
+
+
+A large titanosaurid nesting ground was discovered in Auca Mahuevo, in Patagonia, Argentina and another colony has reportedly been discovered in Spain. Several hundred female saltasaurs dug holes with their back feet, laid eggs in clutches averaging around 25 eggs each, and buried the nests under dirt and vegetation. The small eggs, about 11–12 cm (4–5 in) in diameter, contained fossilised embryos, complete with skin impressions. The impressions showed that titanosaurs were covered in a mosaic armour of small bead-like scales.[1] The huge number of individuals gives evidence of herd behavior, which, along with their armour, could have helped provide protection against large contemporary predators such as Abelisaurus.[10]
+Systematics[edit]
+The fossil record of titanosaurs, as plains-dwelling herbivores, has been disappointingly fragmentary for such a widespread and successful group (they represent roughly a third of the total sauropod diversity known to date). Only recently have skulls or relatively complete skeletons (see Rapetosaurus) of any of the roughly 50 species of titanosaur been discovered. Many species are poorly known. Much material may be reclassified and some genera renamed as understanding of the clade grows.
+The family Titanosauridae was named after and anchored on the poorly known genus Titanosaurus, which was coined by Richard Lydekker in 1877, on the basis of a partial femur and two incomplete caudal vertebrae. Fourteen species have since been referred to Titanosaurus, which distribute the genus across Argentina, Europe, Madagascar, India and Laos and throughout 60 million years of the Cretaceous Period. Despite its centrality to titanosaur systematics and biogeography, a re-evaluation of all Titanosaurus species recognises only five as diagnostic. The type species T. indicus is invalid, because it is based on 'obsolescent' characters - once diagnostic features that have gained a broader taxonomic distribution over time. Consequently, use of the genus Titanosaurus has largely been abandoned. The most well known Titanosaurus specimens have since been re-assigned to other genera, including Isisaurus and Neuquensaurus.
+Some paleontologists (such as Sereno, 2005 [11][12]) have contended that Titanosaurus is too poorly known to use as a basis for classification, family names for which it is the type genus (e.g. Titanosaurinae, Titanosauridae, Titanosauroidea) should not have other genera referred to them. Weishampel et al., in the second edition of The Dinosauria, also did not use the family Titanosauridae, and instead used several smaller titanosaur families such as Saltosauridae and Nemegtosauridae.[13]
+Taxonomy[edit]
+Family-level taxonomy follows Holtz (2012) unless otherwise noted.[14]
+
+Titanosauria
+
+Amargatitanis
+Andesaurus
+Atacamatitan
+Atsinganosaurus [15]
+Austrosaurus
+Balochisaurus
+Barrosasaurus
+Baurutitan
+Brohisaurus
+Campylodoniscus
+Chubutisaurus
+Gobititan
+Hypselosaurus
+Iuticosaurus
+Jiangshanosaurus
+Jiutaisaurus
+Karongasaurus
+Khetranisaurus
+Laplatasaurus
+Ligabuesaurus
+Macrurosaurus
+Magyarosaurus
+Malarguesaurus
+Marisaurus
+Microcoelus[16]
+Pakisaurus
+Paludititan
+Puertasaurus
+Qingxiusaurus
+Ruyangosaurus
+Sulaimanisaurus
+Tangvayosaurus
+Titanosaurus
+Uberabatitan
+Wintonotitan
+Eutitanosauria
+
+Family Argyrosauridae
+Lognkosauria
+Lithostrotia
+
+Elaltitan[17]
+Narambuenatitan[18]
+Family Antarctosauridae
+Family Aeolosauridae[19]
+Family Nemegtosauridae
+Family Saltasauridae
+
+
+
+
+
+
+
+Phylogeny[edit]
+In the second edition of The Dinosauria, the clade Titanosauria was defined as all sauropods closer to Saltasaurus than to Brachiosaurus.[13] A few scientists, such as Paul Sereno, use definitions which exclude Euhelopus as well as Brachiosaurus.[11]
+Relationships within the Titanosauria have historically been extremely variable from study to study, complicated by the fact that clade and rank names have been applied inconsistently by various scientists. One possible cladogram is presented here, and follows a 2007 analysis by Calvo and colleagues. The authors notably used the family Titanosauridae in a broader fashion than other recent studies, and coined the new clade name Lognkosauria.[20]
+
+
+Titanosauria
+
+
+
+
+
+Andesaurus
+
+
+
+
+
+
+Titanosauridae
+
+
+
+unnamed
+
+
+
+
+
+Malawisaurus
+
+
+
+
+
+
+Lognkosauria
+
+
+
+
+
+Mendozasaurus
+
+
+
+
+
+
+
+
+Futalognkosaurus
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+unnamed
+
+
+
+
+
+Epachthosaurus
+
+
+
+
+
+
+Eutitanosauria
+
+
+
+
+
+
+
+
+
+Rapetosaurus
+
+
+
+
+
+
+unnamed
+
+
+
+Aeolosaurini
+
+
+
+
+
+Gondwanatitan
+
+
+
+
+
+
+
+
+Aeolosaurus
+
+
+
+
+
+
+
+
+
+
+
+
+unnamed
+
+
+
+
+
+Rinconsaurus
+
+
+
+
+
+
+
+
+Loma Lindero sp.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+unnamed
+
+
+
+
+
+Lirainosaurus
+
+
+
+
+
+
+unnamed
+
+
+
+Opisthocoelicaudiinae
+
+
+
+
+
+Opisthocoelicaudia
+
+
+
+
+
+
+
+
+Alamosaurus
+
+
+
+
+
+
+
+
+
+
+
+
+Saltasaurinae
+
+
+
+
+
+Neuquensaurus
+
+
+
+
+
+
+unnamed
+
+
+
+
+
+Saltasaurus
+
+
+
+
+
+
+
+
+Rocasaurus
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+References[edit]
+
+
+^ a b Coria, R.A. and Chiappe, L.M. 2007.Embryonic Skin From Late Cretaceous Sauropods (Dinosauria) of Auca Mahuevo, Patgonia, Argentina. Journal of Paleontology v81(6):1528-1532 doi:10.1666/05-150.1
+^ http://phenomena.nationalgeographic.com/2011/12/02/titan-dinosaur-may-have-stored-minerals-in-skin-bones/
+^ http://www.earthtimes.org/nature/osteoderms-storing-minerals-helped-huge-dinosaurs-survive/1671/
+^ a b c Tidwell, V., Carpenter, K. & Meyer, S. 2001. New Titanosauriform (Sauropoda) from the Poison Strip Member of the Cedar Mountain Formation (Lower Cretaceous), Utah. In: Mesozoic Vertebrate Life. D. H. Tanke & K. Carpenter (eds.). Indiana University Press, Eds. D.H. Tanke & K. Carpenter. Indiana University Press. 139-165.
+^ "Italians Report Major Dinosaur Discovery". PhysOrg.com. United Press International. 2006-05-02. Retrieved 2009-01-18. 
+^ Roberts, Greg (2007-05-03). "Bones reveal Queensland's prehistoric titans". The Australian. Retrieved 2007-05-04. 
+^ Molnar R.E. and Salisbury S.W. (2005). "Observations on Cretaceous Sauropods from Australia". In Carpenter, Kenneth and Tidswell, Virginia (ed.). Thunder Lizards: The Sauropodomorph Dinosaurs. Indiana University Press. pp. 454–465. ISBN 0-253-34542-1. 
+^ "Bone discovery confirms big dinosaur roamed NZ". The New Zealand Herald. 2008-06-24. Retrieved 2009-01-18. 
+^ Dinosaur Coprolites and the Early Evolution of Grasses and Grazers - Prasad et al. 310 (5751): 1177 - Science
+^ http://www.plosone.org/article/info:doi/10.1371/journal.pone.0010362
+^ a b Sereno, P. C. (2005). "Subclade: Archosauria: Avemetatarsalia to Neornithes; Taxon: Titanosauridae". TaxonSearch. Retrieved 2009-01-18. 
+^ Sereno, P. C. (2005). "Stem Archosauria". TaxonSearch [version 1.0, 2005 November 7]. Retrieved 2009-01-18. 
+^ a b Weishampel, David B.; Dodson, Peter; Osmólska, Halszka, ed. (2004). The Dinosauria, Second Edition. Berkeley: University of California Press. ISBN 0-520-24209-2. 
+^ Holtz, Thomas R. Jr. (2012) Dinosaurs: The Most Complete, Up-to-Date Encyclopedia for Dinosaur Lovers of All Ages, Winter 2011 Appendix.
+^ Géraldine Garcia, Sauveur Amico, Francois Fournier, Eudes Thouand and Xavier Valentin (2010). "A new Titanosaur genus (Dinosauria, Sauropoda) from the Late Cretaceous of southern France and its paleobiogeographic implications". Bulletin de la Societe Geologique de France 181 (3): 269–277. doi:10.2113/gssgfbull.181.3.269. 
+^ A. Otero and M. Reguero. (2013). "Dinosaurs (Reptilia, Archosauria) at Museo de La Plata, Argentina: annotated catalogue of the type material and Antarctic specimens." Palaeontologia Electronica, 16(1): 1-24.
+^ Mannion, P.D. and Otero, A. (2012). "A reappraisal of the Late Cretaceous Argentinean sauropod dinosaur Argyrosaurus superbus, with a description of a new titanosaur genus." Journal of Vertebrate Paleontology, 32(3): 614-638.
+^ Leonardo S. Filippi, Rodolfo A. García and Alberto C. Garrido (2011). "A new titanosaur sauropod dinosaur from the Upper Cretaceous of North Patagonia, Argentina". Acta Palaeontologica Polonica 56 (3): 505–520. doi:10.4202/app.2010.0019. 
+^ Coria, R. A.; Filippi, L. S.; Chiappe, L. M.; García, R.; Arcucci, A. B. (2013). "Overosaurus paradasorum gen. et sp. nov. , a new sauropod dinosaur (Titanosauria: Lithostrotia) from the Late Cretaceous of Neuquén, Patagonia, Argentina". Zootaxa 3683 (4): 357. doi:10.11646/zootaxa.3683.4.2.  edit
+^ Calvo, J.O., Porfiri, J.D., González-Riga, B.J., and Kellner, A.W. (2007). "A new Cretaceous terrestrial ecosystem from Gondwana with the description of a new sauropod dinosaur". Anais Academia Brasileira Ciencia 79 (3): 529–541. doi:10.1590/S0001-37652007000300013. PMID 17768539. 
+
+
+External links[edit]
+
+
+
+
+Dinosaurs portal
+
+
+
+
+Titanosauria on DinoData
+The Geological Society article Best ever titanosaur skeleton discovered in Madagascar.
+National Geographic article, Eggs Hold Skulls of Titanosaur Embryos.
+Channel 4 article, Titanosaur eggs in France.
+
+
+
+
+ 
+NewPP limit report
+CPU time usage: 4.172 seconds
+Real time usage: 4.333 seconds
+Preprocessor visited node count: 27072/1000000
+Preprocessor generated node count: 43868/1500000
+Post‐expand include size: 220019/2048000 bytes
+Template argument size: 147409/2048000 bytes
+Highest expansion depth: 39/40
+Expensive parser function count: 0/500
+Lua time usage: 0.050s
+Lua memory usage: 1.97 MB
+
+
+ Saved in parser cache with key enwiki:pcache:idhash:1139347-0!*!0!!en!4!* and timestamp 20131002163807 
+								
+				Retrieved from "http://en.wikipedia.org/w/index.php?title=Titanosaur&oldid=575458691"				
+												Categories: TitanosaursHidden categories: Articles needing additional references from February 2009All articles needing additional referencesArticles with 'species' microformats												
+							
+		
+		
+			Navigation menu
+			
+				
+	Personal tools
+	
+Create accountLog in	
+
+				
+					
+	Namespaces
+	
+					Article
+					Talk
+			
+
+
+	
+		
+	Variants
+	
+		
+					
+	
+
+				
+				
+					
+	Views
+	
+					Read
+					Edit
+					View history
+			
+
+
+	Actions
+	
+		
+					
+	
+
+
+	Search
+	
+				
+																				
+		
+	
+
+				
+			
+			
+					
+				
+	Navigation
+	
+		
+			Main page
+			Contents
+			Featured content
+			Current events
+			Random article
+			Donate to Wikipedia
+		
+	
+
+
+	Interaction
+	
+		
+			Help
+			About Wikipedia
+			Community portal
+			Recent changes
+			Contact page
+		
+	
+
+
+	Toolbox
+	
+		
+			What links here
+			Related changes
+			Upload file
+			Special pages
+			Permanent link
+			Page information
+			Data item
+Cite this page		
+	
+
+
+	Print/export
+	
+		
+			Create a book
+			Download as PDF
+			Printable version
+		
+	
+
+
+	Languages
+	
+		
+			Česky
+			Deutsch
+			Español
+			Français
+			Italiano
+			Magyar
+			Nederlands
+			Polski
+			Português
+			Русский
+			Simple English
+			Slovenčina
+			Suomi
+			中文
+			
+			Edit links
+		
+	
+
+			
+		
+		
+							
+											 This page was last modified on 2 October 2013 at 16:38.
+											Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. 
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+									
+							
+											Privacy policy
+											About Wikipedia
+											Disclaimers
+											Contact Wikipedia
+											Developers
+											Mobile view
+									
+										
+					
+						
+					
+					
+						
+					
+				
+						
+		
+		
+
+
+ Served by mw1072 in 0.194 secs. 
+	
+if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Titanosaur","wgTitle":"Titanosaur","wgCurRevisionId":575458691,"wgArticleId":1139347,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles needing additional references from February 2009","All articles needing additional references","Articles with 'species' microformats","Titanosaurs"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Titanosaur","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgVectorEnabledModules":{"collapsiblenav":true,"experiments":true},"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"templateEditor":false,"templates":false,"preview":false,"previewDialog":false,"publish":false,"toc":false},"wgArticleFeedbackv5Permissions":{"aft-reader":false,"aft-member":false,"aft-editor":false,"aft-monitor":false,"aft-administrator":false,"aft-oversighter":false,"aft-noone":false},"wgVisualEditor":{"isPageWatched":false,"magnifyClipIconURL":"//bits.wikimedia.org/static-1.22wmf18/skins/common/images/magnify-clip.png","pageLanguageCode":"en","pageLanguageDir":"ltr"},"wikilove-recipient":"","wikilove-anon":0,"wgGuidedTourHelpGuiderUrl":"Help:Guided tours/guider","wgULSAcceptLanguageList":[],"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia","aftv5Article":{"id":1139347,"title":"Titanosaur","namespace":0,"categories":["All articles needing additional references","Articles needing additional references from February 2009","Articles with 'species' microformats","Titanosaurs"],"permissionLevel":false},"wgWikibaseItemId":"Q133051"});
+}if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":false,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,
+"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"useeditwarning":1,"prefershttps":1,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"vector-simplesearch":1,"vector-collapsiblenav":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"aftv5-last-filter":null,"visualeditor-enable":0,"visualeditor-enable-experimental":0,"visualeditor-betatempdisable":0,"wikilove-enabled":1,"echo-subscriptions-web-page-review":true,"echo-subscriptions-email-page-review":false,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"echo-notify-show-link":true,"echo-show-alert":true,"echo-email-frequency":0,"echo-email-format":"html","echo-subscriptions-email-system":true,"echo-subscriptions-web-system":true,"echo-subscriptions-email-other":false,"echo-subscriptions-web-other":true,"echo-subscriptions-email-edit-user-talk":false,"echo-subscriptions-web-edit-user-talk":true,
+"echo-subscriptions-email-reverted":false,"echo-subscriptions-web-reverted":true,"echo-subscriptions-email-article-linked":false,"echo-subscriptions-web-article-linked":false,"echo-subscriptions-email-mention":false,"echo-subscriptions-web-mention":true,"echo-subscriptions-web-edit-thank":true,"echo-subscriptions-email-edit-thank":false,"gettingstarted-task-toolbar-show-intro":true,"uls-preferences":"","language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs446":false,"searchNs447":false
+,"searchNs710":false,"searchNs711":false,"searchNs828":false,"searchNs829":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-mySandbox":1,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:156d8fe0ae17f8afd74198057563e45d */
+}if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","ext.visualEditor.viewPageTarget.init","ext.wikimediaShopLink.core","ext.uls.init","ext.uls.interface","wikibase.client.init","ext.centralNotice.bannerController","skins.vector.js"]);
+}/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}if(window.mw){
+mw.loader.load(["mobile.desktop","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.cite","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","mw.MwEmbedSupport.style","ext.vector.collapsibleNav","ext.articleFeedbackv5.startup","ext.gettingstarted.logging","ext.gettingstarted.openTask","schema.HttpsSupport","ext.coreEvents.httpsSupport","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","mw.PopUpMediaTransform"],null,true);
+}

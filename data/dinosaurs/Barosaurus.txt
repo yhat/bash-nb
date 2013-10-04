@@ -1,0 +1,515 @@
+
+
+
+Barosaurus - Wikipedia, the free encyclopedia
+
+
+
+
+
+
+
+
+
+
+
+
+a:lang(ar),a:lang(ckb),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:0de201fdea5d684523607ed88007b127 */
+
+
+
+
+[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.22wmf18/skins/vector/csshover.min.htc")}</style><![endif]
+
+		
+		
+		
+			
+			
+						 CentralNotice 
+						Barosaurus
+			
+								From Wikipedia, the free encyclopedia
+								
+												
+					Jump to:					navigation, 					search
+				
+				
+
+
+Barosaurus lentus
+Temporal range: Late Jurassic, 150Ma
+
+PreЄ
+Є
+O
+S
+D
+C
+P
+T
+J
+K
+Pg
+N
+
+
+
+↓
+
+
+
+
+
+
+
+
+
+Mounted skeleton in rearing posture, American Museum of Natural History
+
+
+Scientific classification 
+
+
+Kingdom:
+Animalia
+
+
+Phylum:
+Chordata
+
+
+Clade:
+Sauropsida
+
+
+Clade:
+Dinosauria
+
+
+Suborder:
+†Sauropodomorpha
+
+
+Family:
+†Diplodocidae
+
+
+Subfamily:
+†Diplodocinae
+
+
+Genus:
+†Barosaurus
+Marsh, 1890
+
+
+Species:
+† B. lentus
+
+
+Binomial name
+
+
+Barosaurus lentus
+Marsh, 1890
+
+
+
+Barosaurus /ˌbærɵˈsɔrəs/ BARR-o-SAWR-əs; was a giant, long-tailed, long-necked, plant-eating dinosaur closely related to the more familiar Diplodocus. Remains have been found in the Morrison Formation from the Upper Jurassic Period, along with five other sauropods: Diplodocus, Apatosaurus, Camarasaurus, Brachiosaurus and Haplocanthosaurus, as well as the predator Allosaurus and armored dinosaur Stegosaurus. It is present in stratigraphic zones 2-5.[1]
+
+
+Contents
+
+
+1 Etymology
+2 Description
+3 Classification and systematics
+4 Discovery and naming
+
+4.1 Discoveries in Africa
+
+
+5 Paleobiology
+
+5.1 Feeding
+
+
+6 Paleoecology
+7 References
+
+
+Etymology[edit]
+The composite term Barosaurus comes from the Greek words barys (βαρυς) meaning "heavy" and sauros (σαυρος) meaning "lizard"; thus "heavy lizard".
+Description[edit]
+
+
+
+
+Reconstructed head and neck, Royal Ontario Museum
+
+
+Barosaurus was an enormous animal, with some adults measuring more than 26 meters (85 feet) in length and weighing more than 20 metric tons (22 short tons).[2] Barosaurus was differently proportioned than its close relative Diplodocus, with a longer neck and shorter tail, but was about the same length overall. It was longer than Apatosaurus, but its skeleton was less robust.[3]
+Sauropod skulls are rarely preserved, and scientists have yet to discover a Barosaurus skull. Related diplodocids like Apatosaurus and Diplodocus had long, low skulls with peg-like teeth confined to the front of the jaws.[4]
+
+
+
+
+A juvenile Barosaurus skeleton, Royal Ontario Museum
+
+
+Most of the distinguishing skeletal features of Barosaurus were in the vertebrae, although a complete vertebral column has never been found. Diplodocus and Apatosaurus both had 15 cervical (neck) and 10 dorsal (trunk) vertebrae, while Barosaurus had only 9 dorsals. A dorsal may have been converted into a cervical vertebra, for a total of 16 vertebrae in the neck. Barosaurus cervicals were similar to those of Diplodocus, but some were up to 50% longer. The neural spines protruding from the top of the vertebrae were neither as tall or as complex in Barosaurus as they were in Diplodocus. In contrast to its neck vertebrae, Barosaurus had shorter caudal (tail) vertebrae than Diplodocus, resulting in a shorter tail. The chevron bones lining the underside of the tail were forked and had a prominent forward spike, much like the closely related Diplodocus. The tail probably ended in a long whiplash, much like Apatosaurus, Diplodocus and other diplodocids, some of which had up to 80 tail vertebrae.[3]
+The limb bones of Barosaurus were virtually indistinguishable from those of Diplodocus.[3] Both were quadrupedal, with columnar limbs adapted to support the enormous bulk of the animals. Barosaurus had proportionately longer forelimbs than other diplodocids, although they were still shorter than most other groups of sauropods.[3] There was a single carpal bone in the wrist, and the metacarpals were more slender than those of Diplodocus.[5] Barosaurus feet have never been discovered, but like other sauropods, it would have been digitigrade, with all four feet each bearing five small toes. A large claw adorned the inside digit on the manus (forefoot) while smaller claws tipped the inside three digits of the pes (hindfoot).[3][4]
+Classification and systematics[edit]
+
+
+Cladogram of Diplodocidae highlighting the position of Barosaurus
+
+
+
+
+
+Diplodocidae 
+
+
+
+
+
+Apatosaurinae
+
+
+
+
+
+
+ Diplodocinae 
+
+
+
+
+
+Barosaurus
+
+
+
+
+
+
+
+
+Diplodocus
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Barosaurus is a member of the sauropod family Diplodocidae, and sometimes placed with Diplodocus in the subfamily Diplodocinae.[6] Diplodocids are characterized by long tails with over 70 vertebrae, shorter forelimbs than other sauropods, and numerous features of the skull. Diplodocines like Barosaurus and Diplodocus have more slender builds and longer necks and tails than apatosaurines, the other subfamily of diplodocids.[3][4][6]
+The systematics (evolutionary relationships) of Diplodocidae are becoming better established. Diplodocus has long been regarded as the closest relative of Barosaurus.[3][4][7] Barosaurus is monospecific, containing only the type species, B. lentus, while at least three species belong to the species Diplodocus.[4] Another diplodocid genus, Seismosaurus, is considered by many paleontologists to be a junior synonym of Diplodocus as a possible fourth species.[8] Tornieria (formerly "Barosaurus" africanus) and Australodocus from the famous Tendaguru Beds of Tanzania in eastern Africa have also been classified as diplodocines.[9][10] With its elongated neck vertebrae, Tornieria may have been particularly closely related to Barosaurus.[9] The other subfamily of diplodocids is Apatosaurinae, which includes Apatosaurus and Supersaurus.[6] The early genus Suuwassea is considered by some to be an apatosaurine,[6] while others regard it as a basal member of the superfamily Diplodocoidea.[11] Diplodocid fossils are found in North America, Europe, and Africa. More distantly related within Diplodocoidea are the families Dicraeosauridae and Rebbachisauridae, found only on the southern continents.[4]
+Discovery and naming[edit]
+
+
+
+
+One of the original tail vertebrae in multiple views
+
+
+The first Barosaurus remains were discovered in the Morrison Formation of South Dakota by Ms. E. R. Ellerman and excavated by Othniel Charles Marsh and John Bell Hatcher of Yale University in 1889. Only six tail vertebrae were recovered at that time, forming the type specimen (YPM 429) of a new species, which Marsh named Barosaurus lentus, from the Classical Greek words βαρυς/barus ("heavy") and σαυρος/sauros ("lizard"), and the Latin word lentus ("slow").[12] The rest of the type specimen was left in the ground under the protection of the landowners until it was collected nine years later, in 1898, by Marsh's assistant, George Wieland. Marsh described these new remains, consisting of vertebrae, ribs and limb bones, and classified Barosaurus as a diplodocid for the first time.[13] In his last published paper before his death, Marsh named two smaller metatarsals found by Wieland as a second species, B. affinis,[14] but this has long been considered a junior synonym of B. lentus.[3][4][15]
+After the turn of the 20th century, Pittsburgh's Carnegie Museum of Natural History sent fossil hunter Earl Douglass to Utah to excavate the Carnegie Quarry in the area now known as Dinosaur National Monument. Four neck vertebrae, each one meter (3 feet) long, were collected in 1912 near a specimen of Diplodocus, but a few years later, William Jacob Holland realized they belonged to a different species.[3] Meanwhile, the type specimen of Barosaurus had finally been prepared at Yale and was fully described by Richard Swann Lull in 1919.[15] Based on Lull's description, Holland referred the vertebrae (CM 1198), along with a second partial skeleton found by Douglass in 1918 (CM 11984), to Barosaurus. This second Carnegie specimen remains in the rock wall at Dinosaur National Monument and was not fully prepared until the 1980s.[3]
+
+
+
+
+Mounted skeletons posed depicting a specimen rearing up to protect its young from Allosaurus fragilis, American Museum of Natural History
+
+
+The most complete specimen of Barosaurus was excavated from the Carnegie Quarry in 1923 by Douglass, now working for the University of Utah after the death of U.S. Steel founder Andrew Carnegie, who had been financing Douglass' earlier work in Pittsburgh. Material from this specimen was originally spread across three institutions. Most of the back vertebrae, ribs, pelvis, hindlimb and most of the tail stayed at the University of Utah, while the neck vertebrae, some back vertebrae, the shoulder girdle and forelimb were shipped to the National Museum of Natural History in Washington D.C., and a small section of tail vertebrae ended up in the Carnegie Museum in Pittsburgh. However, in 1929 Barnum Brown arranged for all of the material to be shipped to the American Museum of Natural History in New York City, where it remains today. A cast of this specimen (AMNH 6341) was controversially mounted in the lobby of the American Museum, rearing up to defend its young from a marauding Allosaurus.[3]
+More recently, more vertebrae and a pelvis were recovered in South Dakota. This material (SDSM 25210 and 25331) is stored in the collection of the South Dakota School of Mines and Technology in Rapid City.[5]
+In 2007, paleontologist David Evans was flying to the U.S. Badlands when he discovered reference to a Barosaurus skeleton (ROM 3670) in the collection of the Royal Ontario Museum in Toronto, where he had recently become a curator. Earl Douglass had excavated this specimen at the Carnegie Quarry in the early 20th century; the ROM acquired it in a 1962 trade with the Carnegie Museum. The specimen was never exhibited and remained in storage until its rediscovery by David Evans 45 years later. He returned to Toronto and searched the storage areas and found many fragments, large and small, of the skeleton. It is now a centrepiece of the ROM's dinosaur exhibit, in the James and Louise Temerty Galleries of the Age of Dinosaurs.[16] At almost 27.5 metres (90 feet) long, the specimen is the largest dinosaur ever to be mounted in Canada.[17] The specimen is about 40% complete. As a skull of Barosaurus has never been found, the ROM specimen wears the head of a Diplodocus.[18] Each bone is mounted on a separate armature so that it can be removed from the skeleton for study and then replaced without disturbing the rest of the skeleton. (See video "Dino Workshop" at reference.)[19] In the rush to put the dinosaur on exhibit within ten weeks of its delivery to Research Casting International in 2500 pieces, not all of the skeletal fragments were mounted. In addition, more bones labeled ROM 3670 are still being found in storage. In future, more may be added to the specimen and it may turn out to be the most complete known.' (See video "Dino Assembly" at reference.)[19] The ROM specimen is nicknamed "Gordo."[17] John McIntosh believes that the ROM's skeleton is the same individual represented by four neck vertebrae labelled "CM 1198" in the collection of the Carnegie Museum.[3]
+Discoveries in Africa[edit]
+In 1907, German paleontologist Eberhard Fraas discovered the skeletons of two sauropods on an expedition to the Tendaguru Beds in German East Africa (now Tanzania). He classified both specimens in the new genus Gigantosaurus, with each skeleton representing a new species (G. africanus and G. robustus).[20] However, this genus name had already been given to the fragmentary remains of a sauropod from England.[21] Both species were moved to a new genus, Tornieria, in 1911.[22] Upon further study of these remains and many other sauropod fossils from the hugely productive Tendaguru Beds, Werner Janensch moved the species once again, this time to the North American genus Barosaurus.[23] In 1991, "Gigantosaurus" robustus was recognized as a titanosaur and placed in a new genus, Janenschia, as J. robusta.[24] Meanwhile, many paleontologists suspected "Barosaurus" africanus was also distinct from the North American genus,[3][4] which was confirmed when the material was redescribed in 2006. The African species, although closely related to Barosaurus lentus and Diplodocus from North America, is now once again known as Tornieria africana.[9]
+Paleobiology[edit]
+Feeding[edit]
+The structure of the cervical vertebrae of Barosaurus allowed for a significant degree of lateral ﬂexibility in the neck, but restricted vertical ﬂexibility. This suggests a different feeding style for this genus when compared to other diplodocids.[25] Barosaurus swept its neck in long arcs at ground level when feeding, which resembled the strategy that was first proposed by John Martin in 1987.[26] The restriction in vertical flexibility suggests that Barosaurus could not feed on vegetation that was high off the ground.
+Paleoecology[edit]
+Barosaurus remains are limited to the Morrison Formation, which is widespread in the western United States between the Great Plains and Rocky Mountains.[3][4] Radiometric dating agrees with biostratigraphic and paleomagnetic studies, indicating that the Morrison was deposited during the Kimmeridgian and early Tithonian stages of the Late Jurassic Period,[27] or approximately 155 to 148 million years ago.[28] Barosaurus fossils are found in late Kimmeridgian sediments, around 150 million years old.[27]
+The Morrison Formation was deposited in floodplains along the edge of the ancient Sundance Sea, an arm of the Arctic Ocean which extended southward to cover the middle of North America as far south as the modern state of Colorado. Due to tectonic uplift to the west, the sea was receding to the north, and had retreated into what is now Canada by the time Barosaurus evolved. The sediments of the Morrison were washed down out of the western highlands, which had been uplifted during the earlier Nevadan orogeny and were now eroding.[27] Very high atmospheric concentrations of carbon dioxide in the Late Jurassic led to high temperatures around the globe, due to the greenhouse effect. One study, estimating CO2 concentrations of 1120 parts per million, predicted average winter temperatures in western North America of 20 °C (68 °F) and summer temperatures averaging 40–45 °C (104–113 °F).[29] A more recent study suggested even higher CO2 concentrations of up to 3180 parts per million.[30] Warm temperatures that led to significant evaporation year-round, along with possible rain shadow effect from the mountains to the west,[31] led to a semi-arid climate with only seasonal rainfall.[27][32]
+Assistant Curator David Evans mounted the ROM specimen conservatively, with a relatively low head to give the dinosaur moderate blood pressure.[18] The extremely long neck, 10 metres (30 feet) may have developed to enable Barosaurus to feed over a wide area without moving around; it may also have enabled the dinosaurs to radiate excess body heat. Evans suggests that sexual selection might have favoured those with longer necks. (See video "Neck Impossible" at reference.)[19]
+References[edit]
+
+
+^ Foster, J. (2007). "Appendix." Jurassic West: The Dinosaurs of the Morrison Formation and Their World. Indiana University Press. pp. 327-329.
+^ Seebacher, Frank. (2001). "A new method to calculate allometric length-mass relationships of dinosaurs". Journal of Vertebrate Paleontology 21 (1): 51–60. doi:10.1671/0272-4634(2001)021[0051:ANMTCA]2.0.CO;2. 
+^ a b c d e f g h i j k l m n McIntosh, John S. (2005). "The genus Barosaurus Marsh (Sauropoda, Diplodocidae)". In Tidwell, Virginia & Carpenter, Ken (eds.). Thunder-lizards: The Sauropod Dinosaurs. Bloomington: Indiana University Press. pp. 38–77. ISBN 0-253-34542-1. 
+^ a b c d e f g h i Upchurch, Paul; Barrett, Paul M.; & Dodson, Peter (2004). "Sauropoda". In Weishampel, David B.; Dodson, Peter; & Osmólska, Halszka (eds.). The Dinosauria (2nd ed.). Berkeley: University of California Press. pp. 259–322. ISBN 0-520-24209-2. 
+^ a b Foster, John R. (1996). "Sauropod dinosaurs of the Morrison Formation (Upper Jurassic), Black Hills, South Dakota and Wyoming". Contributions to Geology, University of Wyoming 31 (1): 1–25. 
+^ a b c d Lovelace, David M.; Hartman, Scott A.; & Wahl, William R. (2007). "Morphology of a specimen of Supersaurus (Dinosauria, Sauropoda) from the Morrison Formation of Wyoming, and a re-evaluation of diplodocid phylogeny" (PDF). Arquivos do Museu Nacional, Rio de Janeiro 65 (4): 527–544. 
+^ Wilson, Jeffrey A. (2002). "Sauropod dinosaur phylogeny: critique and cladistic analysis". Zoological Journal of the Linnean Society 136 (2): 215–275. doi:10.1046/j.1096-3642.2002.00029.x. 
+^ Lucas, Spencer G.; Spielmann, Justin A.; Rinehart, Larry A.; Heckert, Andrew B; Herne, Matthew C.; Hunt, Adrian P.; Foster, John R. & Sullivan, Robert M. (2006). "Taxonomic status of Seismosaurus hallorum, a Late Jurassic sauropod dinosaur from New Mexico". In Foster, John R.; & Lucas, Spencer G. (eds.). Paleontology and Geology of the Upper Jurassic Morrison Formation. New Mexico Museum of Natural History and Science Bulletin 36: 149-161. 
+^ a b c Remes, Kristian (2006). "Revision of the sauropod genus Tornieria africana (Fraas) and its relevance for sauropod paleobiogeography". Journal of Vertebrate Paleontology 26 (3): 651–669. doi:10.1671/0272-4634(2006)26[651:ROTTSD]2.0.CO;2. 
+^ Remes, Kristian (2007). "A second Gondwanan diplodocid dinosaur from the Upper Jurassic Tendaguru Beds of Tanzania, East Africa". Palaeontology 50 (3): 653–667. doi:10.1111/j.1475-4983.2007.00652.x. 
+^ Harris, Jerald D. (2006). "The significance of Suuwassea emilieae (Dinosauria: Sauropoda) for flagellicaudatan intrarelationships and evolution". Journal of Systematic Palaeontology 4 (2): 185–198. doi:10.1017/S1477201906001805. 
+^ Marsh, Othniel C. (1890). "Description of new dinosaurian reptiles". American Journal of Science 3 (39): 81–86. 
+^ Marsh, Othniel C. (1898). "On the families of sauropodous Dinosauria". American Journal of Science 4 (6): 487–488. 
+^ Marsh, Othniel C. (1899). "Footprints of Jurassic dinosaurs". American Journal of Science 4 (7): 227–232. 
+^ a b Lull, Richard S. (1919). "The sauropod dinosaur Barosaurus Marsh: redescription of the type specimens in the Peabody Museum, Yale University". Memoirs of the Connecticut Academy of Arts and Sciences 6: 1–42. 
+^ "Massive Barosaurus skeleton discovered at the ROM" (Press release). Royal Ontario Museum. 13 November 2007. Retrieved 25 February 2009. 
+^ a b Royal Ontario Museum. ROM Channel: Constructing the Barosaurus. Added 2012-08-28. Accessed 2012-12-11.
+^ a b National Geographic, Museum Secrets, Episode 3: Royal Ontario Museum, Segment "Lost Dinosaur". Broadcast 2012-12-10.
+^ a b c National Geographic, Museum Secrets, Episode 3: Royal Ontario Museum, Segment "Lost Dinosaur". Video clips.. Broadcast 2012-12-10.
+^ Fraas, Eberhard (1908). "Ostafrikanische Dinosaurier". Palaeontographica 55: 105–144. 
+^ Seeley, Harry G. (1869). Index to the fossil remains of Aves, Ornithosauria and Reptilia, from the Secondary system of strata arranged in the Woodwardian Museum of the University of Cambridge. Cambridge: Deighton, Bell and Co. 143pp. 
+^ Sternfeld, Richard (1911). "Zur Nomenklatur der Gattung Gigantosaurus Fraas". Sitzungsberichte der Gesellschaft naturforschender Freunde zu Berlin 1911: 398. 
+^ Janensch, Werner (1922). "Das Handskelett von Gigantosaurus robustus und Brachiosaurus brancai aus den Tendaguru-Schichten Deutsch-Ostafrikas". Centralblatt für Mineralogie, Geologie und Paläontologie 1922: 464–480. 
+^ Wild, Rupert (1991). "Janenschia n. g. robusta (E. Fraas 1908) pro Tornieria robusta (E. Fraas 1908) (Reptilia, Saurischia, Sauropodomorpha)". Stuttgarter Beiträge zur Naturkunde, Serie B: Geologie und Paläontologie 173: 1–4.  }
+^ Michael P Taylor & Mathew J Wedel (2013) The neck of Barosaurus was not only longer but also wider than those of Diplodocus and other diplodocines. PeerJ PrePrints 1:e67v1 doi: http://dx.doi.org/10.7287/peerj.preprints.67v1
+^ Martin, John. 1987. Mobility and feeding of Cetiosaurus (Saurischia, Sauropoda) – why the long neck? pp. 154–159 in P. J. Currie and E. H. Koster (eds), Fourth Symposium on Mesozoic Terrestrial Ecosystems, Short Papers. Boxtree Books, Drumheller (Alberta). 239 pages.
+^ a b c d Turner, Christine E.; & Peterson, Fred. (2004). "Reconstruction of the Upper Jurassic Morrison Formation extinct ecosystem—a synthesis". In Turner, Christine E.; Peterson, Fred; & Dunagan, Stan P. (eds.). Reconstruction of the Extinct Ecosystem of the Upper Jurassic Morrison Formation. Sedimentary Geology 167 (3-4): 309-355. doi:10.1016/j.sedgeo.2004.01.009. 
+^ Kowallis, Bart J.; Christiansen, Eric H.; Deino, Alan L.; Peterson, Fred; Turner, Christine E.; Kunk, Michael J.; & Obradovich, John D. (1998). "The age of the Morrison Formation". In Carpenter, Ken; Chure, Daniel J.; & Kirkland, James I. (eds.). The Upper Jurassic Morrison Formation: An Interdisciplinary Study. Modern Geology 22 (1-4): 235-260. 
+^ Moore, George T.; Hayashida, Darryl N.; Ross, Charles A., Jacobson, Stephen R. (1992). "Paleoclimate of the Kimmeridgian/Tithonian (Late Jurassic) world: I. Results using a general circulation model". Palaeogeography, Palaeoclimatology, Palaeoecology 93 (3-4): 113–150. doi:10.1016/0031-0182(92)90186-9. 
+^ Ekart, Douglas D.; Cerling, Thure E.; Montanez, Isabel P.; & Tabor, Neil J. (1999). "A 400 million year carbon isotope record of pedogenic carbonate; implications for paleoatmospheric carbon dioxide". American Journal of Science 299 (10): 805–827. doi:10.2475/ajs.299.10.805. 
+^ Demko, Timothy M.; Parrish, Judith T. (1998). "Paleoclimatic setting of the Upper Jurassic Morrison Formation". In Carpenter, Ken; Chure, Daniel J.; & Kirkland, James I. (eds.). The Upper Jurassic Morrison Formation: An Interdisciplinary Study. Modern Geology 22 (1-4): 283-296. 
+^ Engelmann, George F.; Chure, Daniel J.; & Fiorillo, Anthony R. (2004). "The implications of a dry climate for the paleoecology of the fauna of the Upper Jurassic Morrison Formation". In Turner, Christine E.; Peterson, Fred; & Dunagan, Stan P. (eds.). Reconstruction of the Extinct Ecosystem of the Upper Jurassic Morrison Formation. Sedimentary Geology 167 (3-4): 297-308. doi:10.1016/j.sedgeo.2004.01.008. 
+
+
+Books:
+
+McIntosh (2005). "The Genus Barosaurus (Marsh)". In Carpenter, Kenneth and Tidswell, Virginia (ed.). Thunder Lizards: The Sauropodomorph Dinosaurs. Indiana University Press. pp. 38–77. ISBN 0-253-34542-1. 
+
+
+
+
+
+Dinosaurs portal
+
+
+
+
+
+ 
+NewPP limit report
+CPU time usage: 5.080 seconds
+Real time usage: 5.446 seconds
+Preprocessor visited node count: 32489/1000000
+Preprocessor generated node count: 64675/1500000
+Post‐expand include size: 181342/2048000 bytes
+Template argument size: 116990/2048000 bytes
+Highest expansion depth: 39/40
+Expensive parser function count: 0/500
+Lua time usage: 0.100s
+Lua memory usage: 2.6 MB
+
+
+ Saved in parser cache with key enwiki:pcache:idhash:1323632-0!*!0!!en!4!* and timestamp 20131002131230 
+								
+				Retrieved from "http://en.wikipedia.org/w/index.php?title=Barosaurus&oldid=574407345"				
+												Categories: DiplodocoidsJurassic dinosaursDinosaurs of North AmericaDinosaurs of the Morrison FormationHidden categories: Articles with 'species' microformats												
+							
+		
+		
+			Navigation menu
+			
+				
+	Personal tools
+	
+Create accountLog in	
+
+				
+					
+	Namespaces
+	
+					Article
+					Talk
+			
+
+
+	
+		
+	Variants
+	
+		
+					
+	
+
+				
+				
+					
+	Views
+	
+					Read
+					Edit
+					View history
+			
+
+
+	Actions
+	
+		
+					
+	
+
+
+	Search
+	
+				
+																				
+		
+	
+
+				
+			
+			
+					
+				
+	Navigation
+	
+		
+			Main page
+			Contents
+			Featured content
+			Current events
+			Random article
+			Donate to Wikipedia
+		
+	
+
+
+	Interaction
+	
+		
+			Help
+			About Wikipedia
+			Community portal
+			Recent changes
+			Contact page
+		
+	
+
+
+	Toolbox
+	
+		
+			What links here
+			Related changes
+			Upload file
+			Special pages
+			Permanent link
+			Page information
+			Data item
+Cite this page		
+	
+
+
+	Print/export
+	
+		
+			Create a book
+			Download as PDF
+			Printable version
+		
+	
+
+
+	Languages
+	
+		
+			العربية
+			Беларуская
+			Català
+			Česky
+			Dansk
+			Deutsch
+			Español
+			فارسی
+			Føroyskt
+			Français
+			한국어
+			Italiano
+			עברית
+			Magyar
+			Nederlands
+			日本語
+			Norsk bokmål
+			Plattdüütsch
+			Polski
+			Português
+			Русский
+			Simple English
+			Slovenčina
+			Suomi
+			Svenska
+			தமிழ்
+			Українська
+			Tiếng Việt
+			中文
+			
+			Edit links
+		
+	
+
+			
+		
+		
+							
+											 This page was last modified on 25 September 2013 at 02:31.
+											Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. 
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+									
+							
+											Privacy policy
+											About Wikipedia
+											Disclaimers
+											Contact Wikipedia
+											Developers
+											Mobile view
+									
+										
+					
+						
+					
+					
+						
+					
+				
+						
+		
+		
+
+
+ Served by mw1028 in 0.201 secs. 
+	
+if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Barosaurus","wgTitle":"Barosaurus","wgCurRevisionId":574407345,"wgArticleId":1323632,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with 'species' microformats","Diplodocoids","Jurassic dinosaurs","Dinosaurs of North America","Dinosaurs of the Morrison Formation"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Barosaurus","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgVectorEnabledModules":{"collapsiblenav":true,"experiments":true},"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"templateEditor":false,"templates":false,"preview":false,"previewDialog":false,"publish":false,"toc":false},"wgArticleFeedbackv5Permissions":{"aft-reader":false,"aft-member":false,"aft-editor":false,"aft-monitor":false,"aft-administrator":false,"aft-oversighter":false,"aft-noone":false},"wgVisualEditor":{"isPageWatched":false,"magnifyClipIconURL":"//bits.wikimedia.org/static-1.22wmf18/skins/common/images/magnify-clip.png","pageLanguageCode":"en","pageLanguageDir":"ltr"},"wikilove-recipient":"","wikilove-anon":0,"wgGuidedTourHelpGuiderUrl":"Help:Guided tours/guider","wgULSAcceptLanguageList":["en-us"],"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia","aftv5Article":{"id":1323632,"title":"Barosaurus","namespace":0,"categories":["Articles with 'species' microformats","Dinosaurs of North America","Dinosaurs of the Morrison Formation","Diplodocoids","Jurassic dinosaurs"],"permissionLevel":false},"wgWikibaseItemId":"Q309390"});
+}if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":false,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,
+"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"useeditwarning":1,"prefershttps":1,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"vector-simplesearch":1,"vector-collapsiblenav":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"aftv5-last-filter":null,"visualeditor-enable":0,"visualeditor-enable-experimental":0,"visualeditor-betatempdisable":0,"wikilove-enabled":1,"echo-subscriptions-web-page-review":true,"echo-subscriptions-email-page-review":false,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"echo-notify-show-link":true,"echo-show-alert":true,"echo-email-frequency":0,"echo-email-format":"html","echo-subscriptions-email-system":true,"echo-subscriptions-web-system":true,"echo-subscriptions-email-other":false,"echo-subscriptions-web-other":true,"echo-subscriptions-email-edit-user-talk":false,"echo-subscriptions-web-edit-user-talk":true,
+"echo-subscriptions-email-reverted":false,"echo-subscriptions-web-reverted":true,"echo-subscriptions-email-article-linked":false,"echo-subscriptions-web-article-linked":false,"echo-subscriptions-email-mention":false,"echo-subscriptions-web-mention":true,"echo-subscriptions-web-edit-thank":true,"echo-subscriptions-email-edit-thank":false,"gettingstarted-task-toolbar-show-intro":true,"uls-preferences":"","language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs446":false,"searchNs447":false
+,"searchNs710":false,"searchNs711":false,"searchNs828":false,"searchNs829":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-mySandbox":1,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:156d8fe0ae17f8afd74198057563e45d */
+}if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","ext.visualEditor.viewPageTarget.init","ext.wikimediaShopLink.core","ext.uls.init","ext.uls.interface","wikibase.client.init","ext.centralNotice.bannerController","skins.vector.js"]);
+}/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}if(window.mw){
+mw.loader.load(["mobile.desktop","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.cite","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","mw.MwEmbedSupport.style","ext.vector.collapsibleNav","ext.articleFeedbackv5.startup","ext.gettingstarted.logging","ext.gettingstarted.openTask","schema.HttpsSupport","ext.coreEvents.httpsSupport","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","mw.PopUpMediaTransform"],null,true);
+}

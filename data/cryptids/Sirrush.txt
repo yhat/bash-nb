@@ -1,0 +1,331 @@
+
+
+
+Mušḫuššu - Wikipedia, the free encyclopedia
+
+
+
+
+
+
+
+
+
+
+
+
+a:lang(ar),a:lang(ckb),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:0de201fdea5d684523607ed88007b127 */
+
+
+
+
+[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.22wmf18/skins/vector/csshover.min.htc")}</style><![endif]
+
+		
+		
+		
+			
+			
+						 CentralNotice 
+						Mušḫuššu
+			
+								From Wikipedia, the free encyclopedia
+								  (Redirected from Sirrush)
+												
+					Jump to:					navigation, 					search
+				
+				
+Mušḫuššu
+
+(Sirrush)
+
+
+
+Sirrush bas-relief in the Pergamon Museum.
+
+
+
+Grouping
+mythological hybrid
+
+
+Sub grouping
+Dragon
+
+
+Similar creatures
+Hydra
+
+
+Mythology
+Babylonian mythology
+
+
+Region
+Mesopotamia
+
+
+The mušḫuššu (𒈲𒄭𒄊; formerly also read as sirrušu, sirrush) is a creature depicted on the reconstructed Ishtar Gate of the city of Babylon, originally dating to the 6th century B.C. It is a mythological hybrid, a scaly dragon with hind legs like an eagle's talons and feline forelegs. It also has a long neck and tail, a horned head, a snakelike tongue and a crest.
+The form mušḫuššu is the Akkadian nominative of the Sumerian 𒈲𒄭𒄊 MUŠ.ḪUS, lit. "reddish snake" sometimes also translated as "fierce snake";[1] or loosely[by whom?] as "splendor serpent" (𒈲 MUŠ is the Sumerian term for "serpent". The reading sir-ruššu is due to a mistransliteration in early Assyriology.[2]).
+
+
+Contents
+
+
+1 History
+2 Cryptozoology
+3 See also
+4 References
+5 Bibliography
+6 External links
+
+
+History[edit]
+
+
+
+
+The Ishtar Gate.
+
+
+Mušḫuššu is associated with Marduk. It gave rise to the Lernaean Hydra of Greek mythology and ultimately to the modern Hydra constellation.
+Bel and the Dragon, a deuterocanonical Biblical text, relates a story that Koldewey thought involved a sirrush. In a temple dedicated to Bel (Nebuchadnezzar's god), priests had a "great dragon or serpent, which they of Babylon worshiped."
+Daniel, the protagonist of the Book of Daniel, was confronted with this creature by the priests in the apocryphal text. (see Additions to Daniel) They challenged him to match his invisible God against their living god. Eventually, Daniel poisoned the creature.
+Cryptozoology[edit]
+Further information: living dinosaurs and Mokele-mbembe
+German archeologist Robert Koldewey, who discovered the Ishtar Gate in 1902, seriously considered the notion that the sirrush was a portrayal of a real animal. He argued that its depiction in Babylonian art was consistent over many centuries, while those of mythological creatures changed, sometimes drastically, over the years. He also noted that the sirrush is shown on the Ishtar Gate alongside real animals, the lion and the rimi (aurochs), leading him to speculate the sirrush was a creature the Babylonians were familiar with. The creature's distinctly feline front paws seemed incongruous, and gave Koldewey some doubt. However, in 1918, he proposed that Iguanodon (a dinosaur with birdlike hindfeet) was the closest match to the sirrush (Sjögren, 1980).
+Cryptozoological speculation regarding sirrush was also presented by Adrienne Mayor[citation needed] and Bernard Heuvelmans.[3]
+Willy Ley, in Exotic Zoology, speculated that it might depict a Sivatherium.
+See also[edit]
+
+
+
+
+Mythology portal
+
+
+
+Ancient Near East portal
+
+
+
+
+Ningishzida
+Hydra (constellation)
+The Beast (Bible)
+
+References[edit]
+
+
+^ The Electronic Text Corpus of Sumerian Literature
+^ The Assyrian Dictionary, vol. 10 part II, p. 270.
+^ Mysterious creatures: a guide to cryptozoology, Volume 1, George M. Eberhart, ABC-CLIO, 2002, p. 2003
+
+
+Bibliography[edit]
+
+Jerome Clark (1993). Unexplained! 347 Strange Sightings, Incredible Occurrences, and Puzzling Physical Phenomena. Detroit: Visible Ink Press.
+Bernard Heuvelmans (1958). On The Track Of Unknown Animals. New York: Hill and Wang.
+Willy Ley (1959). Exotic Zoology. New York: Viking Press.
+Karl Shuker (1995). In Search of Prehistoric Survivors. London: Blandford. ISBN 0-7137-2469-2
+Bengt Sjögren (1980). Berömda vidunder, Settern ISBN 91-7586-023-6 (Swedish)
+
+External links[edit]
+
+Mushrushu (or Sirrush) artwork from Ishtar Gate & lore
+The Ishtar Gate
+The Cryptid Zoo: Sirrush in Cryptozoology
+
+
+
+ 
+NewPP limit report
+CPU time usage: 0.468 seconds
+Real time usage: 0.506 seconds
+Preprocessor visited node count: 2107/1000000
+Preprocessor generated node count: 5529/1500000
+Post‐expand include size: 15558/2048000 bytes
+Template argument size: 4343/2048000 bytes
+Highest expansion depth: 20/40
+Expensive parser function count: 0/500
+Lua time usage: 0.050s
+Lua memory usage: 966 KB
+
+
+ Saved in parser cache with key enwiki:pcache:idhash:1631358-0!*!0!!en!4!* and timestamp 20130930053114 
+								
+				Retrieved from "http://en.wikipedia.org/w/index.php?title=Mušḫuššu&oldid=575099746"				
+												Categories: Babylonian art and architectureMesopotamian legendary creaturesDragonsArchaeological artifactsMythological hybridsHidden categories: Articles containing non-English-language textArticles with specifically marked weasel-worded phrases from January 2012All articles with unsourced statementsArticles with unsourced statements from January 2011Articles with Swedish-language external links												
+							
+		
+		
+			Navigation menu
+			
+				
+	Personal tools
+	
+Create accountLog in	
+
+				
+					
+	Namespaces
+	
+					Article
+					Talk
+			
+
+
+	
+		
+	Variants
+	
+		
+					
+	
+
+				
+				
+					
+	Views
+	
+					Read
+					Edit
+					View history
+			
+
+
+	Actions
+	
+		
+					
+	
+
+
+	Search
+	
+				
+																				
+		
+	
+
+				
+			
+			
+					
+				
+	Navigation
+	
+		
+			Main page
+			Contents
+			Featured content
+			Current events
+			Random article
+			Donate to Wikipedia
+		
+	
+
+
+	Interaction
+	
+		
+			Help
+			About Wikipedia
+			Community portal
+			Recent changes
+			Contact page
+		
+	
+
+
+	Toolbox
+	
+		
+			What links here
+			Related changes
+			Upload file
+			Special pages
+			Permanent link
+			Page information
+			Data item
+Cite this page		
+	
+
+
+	Print/export
+	
+		
+			Create a book
+			Download as PDF
+			Printable version
+		
+	
+
+
+	Languages
+	
+		
+			Deutsch
+			Español
+			Français
+			Italiano
+			Magyar
+			Nederlands
+			日本語
+			Polski
+			Русский
+			Svenska
+			中文
+			
+			Edit links
+		
+	
+
+			
+		
+		
+							
+											 This page was last modified on 30 September 2013 at 05:31.
+											Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. 
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+									
+							
+											Privacy policy
+											About Wikipedia
+											Disclaimers
+											Contact Wikipedia
+											Developers
+											Mobile view
+									
+										
+					
+						
+					
+					
+						
+					
+				
+						
+		
+		
+
+
+ Served by mw1035 in 0.241 secs. 
+	
+if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Mušḫuššu","wgTitle":"Mušḫuššu","wgCurRevisionId":575099746,"wgArticleId":1631358,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles containing non-English-language text","Articles with specifically marked weasel-worded phrases from January 2012","All articles with unsourced statements","Articles with unsourced statements from January 2011","Articles with Swedish-language external links","Babylonian art and architecture","Mesopotamian legendary creatures","Dragons","Archaeological artifacts","Mythological hybrids"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Mušḫuššu","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Sirrush","wgVectorEnabledModules":{"collapsiblenav":true,"experiments":true},"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"templateEditor":false,"templates":false,"preview":false,"previewDialog":false,"publish":false,"toc":false},"wgArticleFeedbackv5Permissions":{"aft-reader":true,"aft-member":false,"aft-editor":false,"aft-monitor":false,"aft-administrator":false,"aft-oversighter":false,"aft-noone":false},"wgVisualEditor":{"isPageWatched":false,"magnifyClipIconURL":"//bits.wikimedia.org/static-1.22wmf18/skins/common/images/magnify-clip.png","pageLanguageCode":"en","pageLanguageDir":"ltr"},"wikilove-recipient":"","wikilove-anon":0,"wgGuidedTourHelpGuiderUrl":"Help:Guided tours/guider","wgULSAcceptLanguageList":["en-us","en"],"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia","aftv5Article":{"id":1631358,"title":"Mušḫuššu","namespace":0,"categories":["All articles with unsourced statements","Archaeological artifacts","Articles containing non-English-language text","Articles with Swedish-language external links","Articles with specifically marked weasel-worded phrases from January 2012","Articles with unsourced statements from January 2011","Babylonian art and architecture","Dragons","Mesopotamian legendary creatures","Mythological hybrids"],"permissionLevel":false},"wgWikibaseItemId":"Q595421"});
+}if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":false,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,
+"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"useeditwarning":1,"prefershttps":1,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"vector-simplesearch":1,"vector-collapsiblenav":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"aftv5-last-filter":null,"visualeditor-enable":0,"visualeditor-enable-experimental":0,"visualeditor-betatempdisable":0,"wikilove-enabled":1,"echo-subscriptions-web-page-review":true,"echo-subscriptions-email-page-review":false,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"echo-notify-show-link":true,"echo-show-alert":true,"echo-email-frequency":0,"echo-email-format":"html","echo-subscriptions-email-system":true,"echo-subscriptions-web-system":true,"echo-subscriptions-email-other":false,"echo-subscriptions-web-other":true,"echo-subscriptions-email-edit-user-talk":false,"echo-subscriptions-web-edit-user-talk":true,
+"echo-subscriptions-email-reverted":false,"echo-subscriptions-web-reverted":true,"echo-subscriptions-email-article-linked":false,"echo-subscriptions-web-article-linked":false,"echo-subscriptions-email-mention":false,"echo-subscriptions-web-mention":true,"echo-subscriptions-web-edit-thank":true,"echo-subscriptions-email-edit-thank":false,"gettingstarted-task-toolbar-show-intro":true,"uls-preferences":"","language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs446":false,"searchNs447":false
+,"searchNs710":false,"searchNs711":false,"searchNs828":false,"searchNs829":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-mySandbox":1,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:156d8fe0ae17f8afd74198057563e45d */
+}if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","ext.visualEditor.viewPageTarget.init","ext.wikimediaShopLink.core","ext.uls.init","ext.uls.interface","wikibase.client.init","ext.centralNotice.bannerController","skins.vector.js"]);
+}/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}if(window.mw){
+mw.loader.load(["mobile.desktop","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.cite","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","mw.MwEmbedSupport.style","ext.vector.collapsibleNav","ext.articleFeedbackv5.startup","ext.gettingstarted.logging","ext.gettingstarted.openTask","schema.HttpsSupport","ext.coreEvents.httpsSupport","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","mw.PopUpMediaTransform"],null,true);
+}

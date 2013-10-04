@@ -1,0 +1,1169 @@
+
+
+
+Megalania - Wikipedia, the free encyclopedia
+
+
+
+
+
+
+
+
+
+
+
+
+a:lang(ar),a:lang(ckb),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:0de201fdea5d684523607ed88007b127 */
+
+
+
+
+[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.22wmf18/skins/vector/csshover.min.htc")}</style><![endif]
+
+		
+		
+		
+			
+			
+						 CentralNotice 
+						Megalania
+			
+								From Wikipedia, the free encyclopedia
+								  (Redirected from Megalania prisca)
+												
+					Jump to:					navigation, 					search
+				
+				
+
+
+Megalania
+Temporal range: 0.04Ma
+
+PreЄ
+Є
+O
+S
+D
+C
+P
+T
+J
+K
+Pg
+N
+
+
+
+↓
+
+
+
+Late Pleistocene
+
+
+
+
+
+Megalania skeletal reconstruction on Melbourne Museum steps
+
+
+Scientific classification
+
+
+Kingdom:
+Animalia
+
+
+Phylum:
+Chordata
+
+
+Class:
+Reptilia
+
+
+Order:
+Squamata
+
+
+Suborder:
+Scleroglossa
+
+
+Infraorder:
+Anguimorpha
+
+
+Parvorder:
+Platynota
+
+
+Superfamily:
+Varanoidea
+
+
+Family:
+Varanidae
+
+
+Genus:
+?Megalania (see text)
+
+
+Species:
+?M. prisca (see text)
+
+
+Proposed binomials
+
+
+
+Designation is controversial: EitherorMegalania prisca Owen, 1859[1] orEitherVaranus priscus Lydekker, 1888[2]
+
+
+
+
+Megalania (Megalania prisca or Varanus priscus) was a very large goanna or monitor lizard, now extinct. It was part of a megafaunal assemblage that inhabited southern Australia during the Pleistocene. It seems to have disappeared between 30,000[3] and 40,000 years ago.[4] The first aboriginal settlers of Australia might have encountered living megalanias.[5] Some Aboriginal Dreaming stories may even be about them.[6]
+
+
+Contents
+
+
+1 Taxonomy
+
+1.1 Phylogeny
+
+
+2 Size
+3 Palaeobiology
+
+3.1 Venom
+
+
+4 Claims of survival
+5 References
+
+
+Taxonomy[edit]
+
+
+
+
+Original dorsal and cervical vertebrae, 1859
+
+
+The name Megalania prisca was coined in 1859 by Sir Richard Owen to mean "Ancient Great Roamer"; the name was chosen "in reference to the terrestrial nature of the great Saurian".[1] Owen used a modification of the Greek word ἠλαίνω ēlainō ("I roam"). The close similarity to the Latin word: lania (feminine form of "butcher") has resulted in numerous taxonomic and popular descriptions of megalania mistranslating the name as: Ancient Giant Butcher.
+Owen introduced the genus Megalania to accommodate the species Megalania prisca. Its status as a valid genus remains controversial, with many authors preferring to consider it a junior synonym of Varanus,[7] which encompasses all living monitor lizards. As the gender of the genera Megalania and Varanus are respectively feminine and masculine, the specific name prisca (fem.)/priscus (masc.) follows suit.[4]
+Phylogeny[edit]
+Several studies have attempted to establish the phylogenetic position of megalania within the Varanidae. An affinity with the perentie, Australia's largest living lizard, has been suggested based on skull-roof morphology.[8] The most recent comprehensive study[9] proposes a sister-taxon relationship with the Komodo dragon based on neurocranial similarities, with the lace monitor as the closest living Australian relative. Conversely, the perentie is considered more closely related to the Gould's and argus monitors.
+Size[edit]
+
+
+
+
+2 size estimations of megalania compared to extant monitor lizards and a human.
+
+
+The lack of complete or nearly complete fossil skeletons has made it difficult to determine the exact dimensions of megalania.[7] Early estimates placed the length of the largest individuals at 7 m (23 ft), with a maximum weight of approximately 600–620 kg (1,300–1,370 lb).[10] However, more recent and more rigorous studies give very different results from one another.
+In 2002, Stephen Wroe determined that the species had a maximum length of 4.5 m (15 ft) and a weight of 331 kg (730 lb),[11] while its average length would have been around 3.5 m (11 ft), and mean body weight would have been between 97–158 kg (214–348 lb).[11][12] He concluded[11] that the earlier estimates reaching lengths of 6 m (20 ft) or more and a weight of several tons[13][14] were exaggerations based on flawed methods. A study published in 2009 utilizing Wroe's size estimates and an analysis of 18 closely related lizard species estimated a sprinting speed of 2.6–3 m/s (5.8–6.7 mph). This speed is comparable to that of the extant freshwater crocodile (Crocodylus johnstoni).[15]
+
+
+
+
+Megalania skull, about 74 cm (29 in) long, at Museum of Science, Boston
+
+
+However, Ralph Molnar[7] in 2004 determined a range of potential sizes for megalania, made by scaling up from dorsal vertebrae, after he determined a relationship between dorsal vertebrae length and total body length. If it had a long thin tail like the lace monitor (Varanus varius), then it would have reached a length of 7.9 metres (26 ft), while if its tail-to-body proportions were more similar to that of the Komodo dragon (Varanus komodoensis), then a length of around 7 m (23 ft) is more likely. Taking the maximal 7 m (23 ft) length, he estimated a weight of 1,940 kg (4,280 lb), with a leaner 320 kg (710 lb) being average.[7]
+Palaeobiology[edit]
+
+
+
+
+Restoration
+
+
+Megalania is the largest terrestrial lizard known to have existed. Judging from its size, it would have fed mostly upon medium to large sized animals, including any of the giant marsupials like Diprotodon along with other reptiles and small mammals, as well as birds and their eggs and chicks[citation needed]. It had heavily built limbs and body and a large skull complete with a small crest in between the eyes, and a jaw full of serrated blade-like teeth.[4]
+Some scientists regard with skepticism the contention that megalanias were the only, or even principal, predators of the Australian Pleistocene megafauna.[16] They note that the "marsupial lion" (Thylacoleo carnifex) has been implicated with the butchery of very large Pleistocene mammals, while megalania has not. In addition, they note that megalania fossils are extremely uncommon, in contrast to Thylacoleo carnifex with its wide distribution across Australian Pleistocene deposits.
+It has been suggested that, if one were to reconstruct the ecosystems that existed before the arrival of the humans on Australia, it would be desirable to introduce Komodo dragons to represent megalania.[17]
+Venom[edit]
+Along with other varanid lizards, such as the Komodo dragon and the lace monitor, megalania belongs to the proposed clade Toxicofera, which contains all known reptile clades possessing toxin-secreting oral glands, as well as their close, non-venomous relatives, including Iguania, Anguimorpha, and Serpentes.[18][19][20] Thus, being a member of Anguimorpha, this makes megalania the largest venomous vertebrate known to have existed.[21]
+Claims of survival[edit]
+While there are occasional reports from Australia and New Guinea of giant lizards similar to megalania,[22] these reports only began after the species was first described and became publicly known.[7] There is no credible scientific evidence of the existence of a surviving population.[7]
+References[edit]
+
+
+^ a b Owen R. (1859). Philosophical Transactions of the Royal Society of London 149. pp. 43–48. Retrieved 2012-05-27. 
+^ Lydekker R. (1888), Catalog of the fossil Reptilia in the British Museum (Natural History) Cromwell Road S.W. Pt. 1: The Orders Ornithosauria, Crocodilia, Squamata, Rhynchocephalia, and Proterosauria, London: The Trustees.  Cited in Molnar RE (2004), "The long and honorable history of monitors and their kin", in King, Ruth Allen; Pianka, Eric R.; King, Dennis, Varanoid lizards of the world, Bloomington: Indiana University Press, p. 45, ISBN 0-253-34366-6. )
+^ Green, Brian; Dennis King (1993). Goannas: The Biology of Varanid Lizards. New South Wales University Press. p. 6. ISBN 978-0868400938. 
+^ a b c Molnar RE (2004). "History of monitors and their kin". In King, Ruth Allen; Pianka, Eric R.; King, Dennis. Varanoid lizards of the world. Bloomington: Indiana University Press. p. 588. ISBN 0-253-34366-6. 
+^ "Wildfacts - Megalania, giant ripper lizard". BBC. 2008. Retrieved 2012-03-22. 
+^ Hancock, Peter (2012). "The Crocodile That Wasn't - An eye-witness account of extinct megafauna". Amazon. Retrieved 2013-02-20. 
+^ a b c d e f Molnar, Ralph E. (2004). Dragons in the dust: the paleobiology of the giant monitor lizard Megalania. Bloomington: Indiana University Press. ISBN 0-253-34374-7. 
+^ Lee MSY (1996). "Possible affinities between Varanus giganteus and Megalania prisca". Memoirs of the Queensland Museum 39: 232. 
+^ Head, JJ.; Barrett, PM.; Rayfield, EJ. (2009). "Neurocranial osteology and systematic relationships of Varanus (Megalania) prisca Owen, 1859 (Squamata: Varanidae)". Zoological Journal of the Linnean Society 155: 445–457. 
+^ Hecht, M. (1975). "The morphology and relationships of the largest known terrestrial lizard, Megalania prisca Owen, from the Pleistocene of Australia". Proceedings of the Royal Society of Victoria 87: 239–250. 
+^ a b c Wroe, S. (2002). "A review of terrestrial mammalian and reptilian carnivore ecology in Australian fossil faunas, and factors influencing their diversity: the myth of reptilian domination and its broader ramifications". Australian Journal of Zoology 50: 1–24. Retrieved 2012-03-22. 
+^ Megafaunal extinction in the late Quaternary and the global overkill hypothesis (2004). Alcheringa 28: 291–331. 
+^ Rich T, Hall B (1984). "Rebuilding a giant lizard". In Clayton, Georgina; Archer, Michael. Vertebrate zoogeography & evolution in Australasia: (animals in space and time). Carlisle, W.A.: Hesperian Press. ISBN 0-85905-036-X. 
+^ Klein, Richard; Martin, Paul (1984). Quaternary extinctions: a prehistoric revolution. Tucson: University of Arizona Press. ISBN 0-8165-1100-4. 
+^ Clemente CJ, Thompson GG, Withers PC (2009). Journal of Zoology 278. pp. 270–280. doi:10.1111/j.1469-7998.2009.00559.x. Retrieved 2012-03-22. 
+^ Wroe S, Myers TJ, Wells RT & Gillespie, A (1999). "Estimating the weight of the Pleistocene marsupial lion, Thylacoleo carnifex (Thylacoleonidae : Marsupialia): implications for the ecomorphology of a marsupial super-predator and hypotheses of impoverishment of Australian marsupial carnivore faunas". Australian Journal of Zoology 47: 489–498. doi:10.1071/ZO99006. 
+^ Flannery, Tim (2002). The future eaters: an ecological history of the Australasian lands and people. New York: Grove Press. ISBN 0-8021-3943-4. 
+^ Vidal, Nicholas; Hedges, S. Blair (2009). "The molecular evolutionary tree of lizards, snakes, and amphisbaenians". Comptes rendus biologies 332: 129–139. doi:10.1016/j.crvi.2008.07.010. PMID 19281946. 
+^ Fry, B. et al (February 2006). "Early evolution of the venom system in lizards and snakes" (PDF). Nature 439 (7076): 584–588. doi:10.1038/nature04328. PMID 16292255. 
+^ Barry C (2009). "Komodo Dragons Kill With Venom, Researchers Find". National Geographic News. Retrieved 2012-03-22. 
+^ Fry, B. et al (2009). "A central role for venom in predation by Varanus komodoensis (Komodo Dragon) and the extinct giant Varanus (Megalania) priscus". PNAS 106 (22): 8969–74. doi:10.1073/pnas.0810883106. PMC 2690028. PMID 19451641. 
+^ "Australian Giant Reptilian Monsters - Queensland Reports". Retrieved 2012-03-22. 
+
+
+
+
+
+
+Paleontology portal
+
+
+
+Amphibians and Reptiles portal
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Varanoidea
+
+
+
+
+
+
+
+
+
+Kingdom: Animalia
+Phylum: Chordata
+Class: Reptilia
+Order: Squamata
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Extant species
+
+
+
+
+
+
+
+
+
+
+
+Helodermatidae
+
+
+
+
+Beaded lizard
+Gila monster
+
+
+
+
+
+
+
+
+
+Lanthanotus
+
+
+
+
+Earless monitor lizard
+
+
+
+
+
+
+
+
+
+Varanus
+
+
+
+
+Argus monitor
+Black tree monitor
+Black-headed monitor
+Bengal monitor
+Black-spotted Ridge-tailed Monitor
+Crocodile monitor
+Desert Monitor
+Dumeril's monitor
+Emerald tree monitor
+Gray's monitor
+Kalabeck's monitor
+Kimberley Rock Monitor
+Komodo dragon
+Lace monitor
+Mangrove monitor
+Mertens' Water Monitor
+Nile monitor
+Peacock monitor
+Peach Throat Monitor
+Perentie
+Rock monitor
+Pilbara monitor
+Rennell Island Monitor
+Rosenberg's Monitor
+Short-tailed monitor
+Spiny-tailed monitor
+Timor tree monitor
+Turquoise monitor
+Sand goanna
+Savannah monitor
+Water monitor
+Yellow Monitor
+
+
+
+
+
+
+
+
+
+Related categories
+
+
+
+
+Monitor lizards
+Cretaceous lizards
+Helodermas
+Mosasaurs
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Fossil taxa
+
+
+
+
+
+
+
+
+
+
+
+†Aigialosauridae
+
+
+
+
+Aigialosaurus
+Carsosaurus
+Judeasaurus
+Kaganaias
+
+
+
+
+
+
+
+
+
+†Dolichosauridae
+
+
+
+
+Adriosaurus
+Dolichosaurus
+Acteosaurus
+
+
+
+
+
+
+
+
+
+Helodermatidae
+
+
+
+
+Estesia
+
+
+
+
+
+
+
+
+
+†Mosasauridae
+
+
+
+
+Halisaurinae
+Mosasaurinae
+Plioplatecarpinae
+Tylosaurinae
+
+
+
+
+
+
+
+
+
+†Necrosauridae
+
+
+
+
+Necrosaurus
+
+
+
+
+
+
+
+
+
+Varanidae
+
+
+
+
+Aiolosaurus
+Cherminotus
+Megalania
+Ovoo
+Saniwa
+Saniwides
+Varanus amnhophilis
+
+
+
+
+
+
+
+
+
+Others
+
+
+
+
+Telmasaurus
+Palaeosaniwa
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Cryptozoology and cryptobotany
+
+
+
+
+
+
+
+
+
+
+ 
+Overview
+
+
+
+
+
+
+
+
+
+
+
+Core topics
+
+
+
+
+Cryptid
+List of cryptids
+Zoology
+Botany
+Megafauna discovered in modern times
+Pseudoscience
+
+
+
+
+
+
+
+
+
+Cryptozoologists
+
+
+
+
+Bernard Heuvelmans
+Karl Shuker
+Jonathan Downes
+Jon-Erik Beckjord
+John Bindernagel
+Richard Freeman
+Loren Coleman
+Alexandr Mikhailovych Kondratov
+Roy Mackal
+Ivan T. Sanderson
+Organizations
+
+
+
+
+
+
+
+
+
+Books and television
+
+
+
+
+Animal X
+Arthur C. Clarke's Mysterious World
+Beast Hunter
+Beast Legends
+Destination Truth
+Fact or Faked: Paranormal Files
+Fortean TV
+In Search of...
+Is It Real?
+Lost Tapes
+MonsterQuest
+On the Track of Unknown Animals
+Sasquatch: Legend Meets Science
+The X Creatures
+The Secret Saturdays
+Weird Travels
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Zoological cryptids
+
+
+
+
+
+
+
+
+
+
+
+Africa
+
+
+
+
+Adjule
+Agogwe
+Emela-ntouka
+Ennedi tiger
+Gambo
+Grootslang
+Gustave
+Inkanyamba
+Kongamato
+Mbielu-Mbielu-Mbielu
+Mokele-mbembe
+Malawi terror beast
+Mamlambo
+Muhuru
+Nandi Bear
+Ngoubou
+Olitiau
+Nguma-monene
+Popobawa
+Salawa
+Trunko
+Zanzibar Leopard
+
+
+
+
+
+
+
+
+
+Asia
+
+
+
+
+Ahool
+Akkorokamui
+Almas
+Amomongo
+Ayia Napa sea monster
+Barmanou
+Batutut
+Bergman's Bear
+Brosno dragon
+Bukit Timah Monkey Man
+Buru
+Cat-fox
+Devil Bird
+Hibagon
+Issie
+Kappa
+Kting Voar
+Kussie
+Lake Tianchi Monster
+Lake Van Monster
+Maltese Tiger
+Mongolian Death Worm
+Monkey-man of Delhi
+Orang Pendek
+Phaya Naga
+Qilin
+Ropen
+Sigbin
+Sarimanok
+Sumxu
+Tsuchinoko
+Veo
+Yeren
+Yeti
+
+
+
+
+
+
+
+
+
+Australasia-
+Oceania
+
+
+
+
+Amomongo
+Blue Mountains panther
+Bunyip
+Ebu Gogo
+Four Mile Globster
+Gippsland phantom cat
+Globster
+Manaul
+Megalania
+Moehau
+Zuiyo-maru carcass
+New Zealand Globster
+Queensland Tiger
+Siyokoy
+Tasmanian Globster
+Thylacoleo
+Tikbalang
+Waitoreke
+Yowie
+
+
+
+
+
+
+
+
+
+Europe
+
+
+
+
+Afanc
+Ayia Napa sea monster
+Beast of Gévaudan
+Bishop-fish
+British big cats
+Canvey Island Monster
+Dahu
+Dobhar-chú
+Each uisge
+Eachy
+Elwetritsch
+Fear liath
+Fish-man of Liérganes
+Giglioli's Whale
+Hebrides Blob
+Jenny Haniver
+Kellas Cat
+Kraken
+Lagarfljót Worm
+Lariosauro
+Lindworm
+Loch Ness Monster
+Morag
+Morgawr
+Muc-sheilch
+Owlman
+Sea monk
+Sea serpent
+Selma
+Skvader
+Storsjöodjuret
+Stronsay Beast
+Tatzelwurm
+Wolpertinger
+
+
+
+
+
+
+
+
+
+North
+America
+
+
+
+
+Altamaha-ha
+Bear Lake Monster
+Beast of Bladenboro
+Beast of Bray Road
+Beast of Busco
+Bermuda Blob
+Bermuda Blob 2
+Bessie
+Bigfoot
+Cadborosaurus willsi
+Champ
+Chessie
+Chupacabra
+Crawfordsville monster
+Dover Demon
+Flatwoods monster
+Fouke Monster
+Goatman
+Grassman
+Hodag
+Homo gardarensis
+Honey Island Swamp monster
+Hoop snake
+Huay Chivo
+Igopogo
+Iliamna Lake Monster
+Jersey Devil
+Kingstie
+Lake Worth Monster
+Lizard Man of Scape Ore Swamp
+Loveland frog
+Lusca
+MacFarlane's bear
+Manipogo
+Melon heads
+Michigan Dogman
+Minnesota Iceman
+Momo the Monster
+Montauk Monster
+Mothman
+Mussie
+Nantucket Blob
+Newfoundland Blob
+Nuk-luk
+Ogopogo
+Old Yellow Top
+Ozark Howler
+Panama Creature
+Pope Lick Monster
+Shunka Warakin
+Sidehill gouger
+Skunk Ape
+St. Augustine Monster
+Tahoe Tessie
+Thunderbird
+Trinity Alps giant salamander
+Tsul 'Kalu
+Turtle Lake Monster
+Waheela
+Wampus cat
+
+
+
+
+
+
+
+
+
+South
+America
+
+
+
+
+Ameranthropoides loysi
+Andean Wolf
+Bloop
+Cherufe
+Chilean Blob
+Chupacabra
+Giant anaconda
+Mapinguari
+Minhocão
+Mono Grande
+Mylodon
+Nahuelito
+Peuchen
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Botanical cryptids
+
+
+
+
+
+
+
+
+
+Raskovnik
+Man-eating tree
+Umdhlebi
+Vegetable Lamb of Tartary
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+NewPP limit report
+CPU time usage: 4.772 seconds
+Real time usage: 5.332 seconds
+Preprocessor visited node count: 21100/1000000
+Preprocessor generated node count: 54278/1500000
+Post‐expand include size: 267185/2048000 bytes
+Template argument size: 47728/2048000 bytes
+Highest expansion depth: 28/40
+Expensive parser function count: 5/500
+Lua time usage: 0.274s
+Lua memory usage: 2.48 MB
+
+
+ Saved in parser cache with key enwiki:pcache:idhash:437461-0!*!0!!en!4!* and timestamp 20130929200755 
+								
+				Retrieved from "http://en.wikipedia.org/w/index.php?title=Megalania&oldid=574718232"				
+												Categories: Pleistocene reptilesPleistocene extinctionsPrehistoric reptiles of AustraliaMonitor lizardsPrehistoric lizardsHidden categories: Articles with 'species' microformatsAll articles with unsourced statementsArticles with unsourced statements from May 2008												
+							
+		
+		
+			Navigation menu
+			
+				
+	Personal tools
+	
+Create accountLog in	
+
+				
+					
+	Namespaces
+	
+					Article
+					Talk
+			
+
+
+	
+		
+	Variants
+	
+		
+					
+	
+
+				
+				
+					
+	Views
+	
+					Read
+					Edit
+					View history
+			
+
+
+	Actions
+	
+		
+					
+	
+
+
+	Search
+	
+				
+																				
+		
+	
+
+				
+			
+			
+					
+				
+	Navigation
+	
+		
+			Main page
+			Contents
+			Featured content
+			Current events
+			Random article
+			Donate to Wikipedia
+		
+	
+
+
+	Interaction
+	
+		
+			Help
+			About Wikipedia
+			Community portal
+			Recent changes
+			Contact page
+		
+	
+
+
+	Toolbox
+	
+		
+			What links here
+			Related changes
+			Upload file
+			Special pages
+			Permanent link
+			Page information
+			Data item
+Cite this page		
+	
+
+
+	Print/export
+	
+		
+			Create a book
+			Download as PDF
+			Printable version
+		
+	
+
+
+	Languages
+	
+		
+			Български
+			Català
+			Česky
+			Deutsch
+			Español
+			Français
+			Hrvatski
+			Bahasa Indonesia
+			Italiano
+			עברית
+			Magyar
+			മലയാളം
+			Nederlands
+			日本語
+			Norsk bokmål
+			Polski
+			Português
+			Русский
+			Simple English
+			Suomi
+			Svenska
+			ไทย
+			粵語
+			中文
+			
+			Edit links
+		
+	
+
+			
+		
+		
+							
+											 This page was last modified on 27 September 2013 at 09:54.
+											Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. 
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+									
+							
+											Privacy policy
+											About Wikipedia
+											Disclaimers
+											Contact Wikipedia
+											Developers
+											Mobile view
+									
+										
+					
+						
+					
+					
+						
+					
+				
+						
+		
+		
+
+
+ Served by mw1076 in 0.230 secs. 
+	
+if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Megalania","wgTitle":"Megalania","wgCurRevisionId":574718232,"wgArticleId":437461,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with 'species' microformats","All articles with unsourced statements","Articles with unsourced statements from May 2008","Pleistocene reptiles","Pleistocene extinctions","Prehistoric reptiles of Australia","Monitor lizards","Prehistoric lizards"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Megalania","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Megalania_prisca","wgVectorEnabledModules":{"collapsiblenav":true,"experiments":true},"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"templateEditor":false,"templates":false,"preview":false,"previewDialog":false,"publish":false,"toc":false},"wgArticleFeedbackv5Permissions":{"aft-reader":true,"aft-member":false,"aft-editor":false,"aft-monitor":false,"aft-administrator":false,"aft-oversighter":false,"aft-noone":false},"wgVisualEditor":{"isPageWatched":false,"magnifyClipIconURL":"//bits.wikimedia.org/static-1.22wmf18/skins/common/images/magnify-clip.png","pageLanguageCode":"en","pageLanguageDir":"ltr"},"wikilove-recipient":"","wikilove-anon":0,"wgGuidedTourHelpGuiderUrl":"Help:Guided tours/guider","wgULSAcceptLanguageList":[],"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia","aftv5Article":{"id":437461,"title":"Megalania","namespace":0,"categories":["All articles with unsourced statements","Articles with 'species' microformats","Articles with unsourced statements from May 2008","Monitor lizards","Pleistocene extinctions","Pleistocene reptiles","Prehistoric lizards","Prehistoric reptiles of Australia"],"permissionLevel":false},"wgWikibaseItemId":"Q733150"});
+}if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":false,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,
+"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"useeditwarning":1,"prefershttps":1,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"vector-simplesearch":1,"vector-collapsiblenav":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"aftv5-last-filter":null,"visualeditor-enable":0,"visualeditor-enable-experimental":0,"visualeditor-betatempdisable":0,"wikilove-enabled":1,"echo-subscriptions-web-page-review":true,"echo-subscriptions-email-page-review":false,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"echo-notify-show-link":true,"echo-show-alert":true,"echo-email-frequency":0,"echo-email-format":"html","echo-subscriptions-email-system":true,"echo-subscriptions-web-system":true,"echo-subscriptions-email-other":false,"echo-subscriptions-web-other":true,"echo-subscriptions-email-edit-user-talk":false,"echo-subscriptions-web-edit-user-talk":true,
+"echo-subscriptions-email-reverted":false,"echo-subscriptions-web-reverted":true,"echo-subscriptions-email-article-linked":false,"echo-subscriptions-web-article-linked":false,"echo-subscriptions-email-mention":false,"echo-subscriptions-web-mention":true,"echo-subscriptions-web-edit-thank":true,"echo-subscriptions-email-edit-thank":false,"gettingstarted-task-toolbar-show-intro":true,"uls-preferences":"","language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs446":false,"searchNs447":false
+,"searchNs710":false,"searchNs711":false,"searchNs828":false,"searchNs829":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-mySandbox":1,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:156d8fe0ae17f8afd74198057563e45d */
+}if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","ext.visualEditor.viewPageTarget.init","ext.wikimediaShopLink.core","ext.uls.init","ext.uls.interface","wikibase.client.init","ext.centralNotice.bannerController","skins.vector.js"]);
+}/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}if(window.mw){
+mw.loader.load(["mobile.desktop","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.cite","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","mw.MwEmbedSupport.style","ext.vector.collapsibleNav","ext.articleFeedbackv5.startup","ext.gettingstarted.logging","ext.gettingstarted.openTask","schema.HttpsSupport","ext.coreEvents.httpsSupport","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","mw.PopUpMediaTransform"],null,true);
+}

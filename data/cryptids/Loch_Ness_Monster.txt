@@ -1,0 +1,1322 @@
+
+
+
+Loch Ness Monster - Wikipedia, the free encyclopedia
+
+
+
+
+
+
+
+
+
+
+a:lang(ar),a:lang(ckb),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:0de201fdea5d684523607ed88007b127 */
+
+
+
+
+[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.22wmf19/skins/vector/csshover.min.htc")}</style><![endif]
+
+		
+		
+		
+			
+			
+						 CentralNotice 
+						Loch Ness Monster
+			
+								From Wikipedia, the free encyclopedia
+								
+												
+					Jump to:					navigation, 					search
+				
+				"Nessie" redirects here. For other uses, see Loch Ness Monster (disambiguation) and Nessie (disambiguation).
+
+
+the Loch Ness Monster
+
+(Nessie, Niseag, "Nessiteras rhombopteryx")
+
+
+Grouping
+Cryptid
+
+
+Sub grouping
+Lake monster
+
+
+First reported
+565 (retrospectively),[a]
+1802 (chronologically)[2]
+
+
+Last reported
+2012
+
+
+Country
+Scotland
+
+
+Region
+Loch Ness
+
+
+Habitat
+Water
+
+
+The Loch Ness Monster is a cryptid, reputedly a large unknown animal that inhabits Loch Ness in the Scottish Highlands. It is similar to other supposed lake monsters in Scotland and elsewhere, though its description varies from one account to the next. Popular interest and belief in the animal's existence has varied since it was first brought to the world's attention in 1933. Evidence of its existence is anecdotal, with minimal and much-disputed photographic material and sonar readings.
+The most common speculation among believers is that the creature represents a line of long-surviving plesiosaurs.[3] The scientific community regards the Loch Ness Monster as a modern-day myth, and explains sightings as including misidentifications of more mundane objects, outright hoaxes, and wishful thinking.[4] Despite this, it remains one of the most famous examples of cryptozoology. The legendary monster has been affectionately referred to by the nickname Nessie[b] (Scottish Gaelic: Niseag)[5] since the 1940s.[6]
+
+
+
+Contents
+
+
+1 Origins
+2 History
+
+2.1 Saint Columba (6th century)
+2.2 Spicers (1933)
+2.3 Chief Constable William Fraser (1938)
+2.4 C. B. Farrel (1943)
+2.5 Sonar contact (1954)
+
+
+3 Photographs and films
+
+3.1 Hugh Gray's Photograph (1933)
+3.2 "Surgeon's Photograph" (1934)
+3.3 Taylor film (1938)
+3.4 Dinsdale film (1960)
+3.5 Holmes video (2007)
+3.6 Sonar image (2011)
+3.7 George Edwards' photograph (2011)
+3.8 David Elder's video (2013)
+
+
+4 Searches for the monster
+
+4.1 Sir Edward Mountain Expedition (1934)
+4.2 Loch Ness Phenomena Investigation Bureau (1962–1972)
+4.3 LNPIB sonar study (1967–1968)
+4.4 Andrew Carroll's sonar study (1969)
+4.5 Submersible investigations
+4.6 "Big Expedition" of 1970
+4.7 Robert Rines's studies (1972, 1975, 2001 and 2008)
+4.8 Operation Deepscan (1987)
+4.9 Discovery Loch Ness (1993)
+4.10 Searching for the Loch Ness Monster BBC (2003)
+
+
+5 Explanations
+
+5.1 Misidentification of common animals
+
+5.1.1 Bird wakes
+5.1.2 Eels
+5.1.3 Elephant
+5.1.4 Resident animals
+5.1.5 Seals
+
+
+5.2 Misidentifications of inanimate objects or effects
+
+5.2.1 Trees
+5.2.2 Seiches and wakes
+5.2.3 Optical effects
+5.2.4 Seismic gas
+
+
+5.3 Folklore
+5.4 Hoaxes
+5.5 Exotic species of large animals
+
+5.5.1 Plesiosaur
+5.5.2 Amphibian
+5.5.3 Invertebrate
+5.5.4 Pinniped
+
+
+
+
+6 Popular culture
+7 See also
+8 Footnotes
+9 Bibliography
+10 Documentary
+11 External links
+
+
+
+Origins
+
+
+
+
+Loch Ness
+
+
+The term "monster" was reportedly applied for the first time to the creature on 2 May 1933 by Alex Campbell, the water bailiff for Loch Ness and a part-time journalist, in a report in the Inverness Courier.[7][8][9] On 4 August 1933, the Courier published as a full news item the assertion of a London man, George Spicer, that a few weeks earlier while motoring around the Loch, he and his wife had seen "the nearest approach to a dragon or pre-historic animal that I have ever seen in my life", trundling across the road toward the Loch carrying "an animal" in its mouth.[10] Other letters began appearing in the Courier, often anonymously, with claims of land or water sightings, either on the writer's part or on the parts of family, acquaintances or stories they remembered being told.[11] These stories soon reached the national (and later the international) press, which described a "monster fish", "sea serpent", or "dragon",[12] eventually settling on "Loch Ness Monster".[13] On 6 December 1933 the first purported photograph of the monster, taken by Hugh Gray, was published in the Daily Express,[14] and shortly after the creature received official notice when the Secretary of State for Scotland ordered the police to prevent any attacks on it.[15] In 1934, interest was further sparked by what is known as The Surgeon's Photograph. In the same year R. T. Gould published a book,[16] the first of many that describe the author's personal investigation and collected record of additional reports pre-dating 1933. Other authors have claimed that sightings of the monster go as far back as the 6th century (see below).
+History
+Saint Columba (6th century)
+The earliest report of a monster associated with the vicinity of Loch Ness appears in the Life of St. Columba by Adomnán, written in the 7th century.[17] According to Adomnán, writing about a century after the events he described, the Irish monk Saint Columba was staying in the land of the Picts with his companions when he came across the locals burying a man by the River Ness. They explained that the man had been swimming the river when he was attacked by a "water beast" that had mauled him and dragged him under. They tried to rescue him in a boat, but were able only to drag up his corpse. Hearing this, Columba stunned the Picts by sending his follower Luigne moccu Min to swim across the river. The beast came after him, but Columba made the sign of the Cross and commanded: "Go no further. Do not touch the man. Go back at once."[18] The beast immediately halted as if it had been "pulled back with ropes" and fled in terror, and both Columba's men and the pagan Picts praised God for the miracle.[18]
+The oldest manuscript relating to this story was put online in 2012.[19] Believers in the Loch Ness Monster often point to this story, which takes place on the River Ness rather than the loch itself, as evidence for the creature's existence as early as the 6th century.[20] However, sceptics question the narrative's reliability, noting that water-beast stories were extremely common in medieval saints' Lives; as such, Adomnán's tale is likely to be a recycling of a common motif attached to a local landmark.[21] According to the sceptics, Adomnán's story may be independent of the modern Loch Ness Monster legend entirely, only becoming attached to it in retrospect by believers seeking to bolster their claims.[20] In an article for Cryptozoology, A. C. Thomas notes that even if there were some truth to the story, it could be explained rationally as an encounter with a walrus or similar creature that had swum up the river.[20] R. Binns acknowledges that this account is the most serious of various alleged early sightings of the monster, but argues that all other claims of monster sightings prior to 1933 are highly dubious and do not prove that there was a tradition of the monster before this date.[8]
+Spicers (1933)
+Modern interest in the monster was sparked by a sighting on 22 July 1933, when George Spicer and his wife saw 'a most extraordinary form of animal' cross the road in front of their car.[10] They described the creature as having a large body (about 4 feet (1.2 m) high and 25 feet (7.6 m) long), and long, narrow neck, slightly thicker than an elephant's trunk and as long as the 10–12-foot (3–4 m) width of the road; the neck had undulations in it. They saw no limbs, possibly because of a dip in the road obscuring the animal's lower portion.[22] It lurched across the road towards the loch 20 yards (20 m) away, leaving only a trail of broken undergrowth in its wake.[22]
+In August 1933 a motorcyclist named Arthur Grant claimed to have nearly hit the creature while approaching Abriachan on the north-eastern shore, at about 1 a.m. on a moonlit night. Grant claimed that he saw a small head attached to a long neck, and that the creature saw him and crossed the road back into the loch. A veterinary student, he described it as a hybrid between a seal and a plesiosaur. Grant said he dismounted and followed it to the loch, but only saw ripples.[16][23] Some believe this story was intended as a humorous explanation of a motorcycle accident.[24]
+Sightings of the monster increased following the building of a road along the loch in early 1933, bringing both workmen and tourists to the formerly isolated area [25] Sporadic land sightings continued until 1963, when film of the creature was shot in the loch from a distance of 4 kilometres. Because of the distance at which it was shot, it has been described as poor quality.[26]
+Chief Constable William Fraser (1938)
+In 1938, Inverness-shire Chief Constable William Fraser wrote a letter stating that it was beyond doubt the monster existed. His letter expressed concern regarding a hunting party that had arrived armed with a specially-made harpoon gun and were determined to catch the monster "dead or alive". He believed his power to protect the monster from the hunters was "very doubtful". The letter was released by the National Archives of Scotland on 27 April 2010.[27][28]
+C. B. Farrel (1943)
+In May 1943, C. B. Farrel of the Royal Observer Corps was supposedly distracted from his duties by a Nessie sighting. He claimed to have been about 250 yards (230 m) away from a large-eyed, 'finned' creature, which had a 20-to-30-foot (6 to 9 m) long body, and a neck that protruded about 4–5 feet (1.2–1.5 m) out of the water.[29]
+Sonar contact (1954)
+In December 1954 a strange sonar contact was made by the fishing boat Rival III. The vessel's crew observed sonar readings of a large object keeping pace with the boat at a depth of 480 feet (146 m). It was detected travelling for half a mile (800 m) in this manner, before contact was lost, but then found again later.[29] Many sonar attempts had been made previously, but most were either inconclusive or negative.
+Photographs and films
+Hugh Gray's Photograph (1933)
+On 12 November 1933, Hugh Gray was walking along the loch after church when he spotted a substantial commotion in the water. A large creature rose up from the lake. Gray took several pictures of it, but only one of them showed up after they were developed. This image appeared to show a creature with a long tail and thick body at the surface of the loch. The image is blurred suggesting the animal was splashing. Four stumpy-looking objects on the bottom of the creature's body might possibly be a pair of appendages, such as flippers.[30] Although critics have claimed that the photograph is of a dog swimming towards the camera (possibly carrying a stick), researcher Roland Watson rejects this interpretation and suggests there is an eel-like head on the right side of the image.[31]
+This picture is the first known image allegedly taken of the Loch Ness Monster.
+"Surgeon's Photograph" (1934)
+
+
+
+
+Surgeon's Photograph
+
+
+The "Surgeon's Photograph" purported to be the first photo of a "head and neck".[c][32] Dr. Wilson claimed he was looking at the loch when he saw the monster, so grabbed his camera and snapped five photos. After the film was developed, only two exposures were clear. The first photo (the more publicised one) shows what was claimed to be a small head and back. The second one, a blurry image, attracted little publicity because it was difficult to interpret what was depicted. The image was revealed as a fake in The Sunday Telegraph dated 7 December 1975.[33] Supposedly taken by Robert Kenneth Wilson, a London gynaecologist, it was published in the Daily Mail on 21 April 1934.[34] Wilson's refusal to have his name associated with the photograph led to it being called "Surgeon's Photograph".[35] The strangely small ripples on the photo fit the size and circular pattern of small ripples as opposed to large waves when photographed up close. Analysis of the original uncropped image fostered further doubt. In 1993, the makers of Discovery Communications's documentary Loch Ness Discovered analysed the uncropped image and found a white object was visible in every version of the photo, implying it was on the negative. It was believed to be the cause of the ripples, as if the object was being towed, though it could not be ruled out as a blemish in the negative. Additionally, one analysis of the full photograph revealed the object was quite small, only about 60 to 90 cm (2 to 3 ft) long.[35] However, analyses of the size of the photograph have been inconsistent.
+In 1979 it was claimed to be a picture of an elephant (see below). Other sceptics in the 1980s argued the photo was that of an otter or a diving bird, but after Christian Spurling's confession most agree it was what Spurling claimed – a toy submarine with a sculpted head attached.[35] Details of how the photo was accomplished were published in the 1999 book, Nessie – the Surgeon's Photograph Exposed, that contains a facsimile of the 1975 article in The Sunday Telegraph.[36] Essentially, it was a toy submarine bought from F.W. Woolworths with a head and neck made of plastic wood, built by Christian Spurling, the son-in-law of Marmaduke Wetherell, a big game hunter who had been publicly ridiculed in the Daily Mail, the newspaper that employed him. Spurling claimed that to get revenge, Marmaduke Wetherell committed the hoax, with the help of Chris Spurling (a sculpture specialist), his son Ian Marmaduke, who bought the material for the fake, and Maurice Chambers (an insurance agent), who asked surgeon Robert Kenneth Wilson to offer the pictures to the Daily Mail.[37] The hoax story is disputed by Henry Bauer, who claims this debunking is evidence of bias, and asks why the perpetrators did not reveal their plot earlier to embarrass the newspaper.[38]
+Tim Dinsdale also disputes the claim of this photograph as a hoax in his book Loch Ness Monster. He claims that he studied the photograph so often and from many different angles that he was able to discern objects that prove the photograph is not a hoax. He states "upon really close examination, there are certain rather obscure features in the picture which have a profound significance."[39] Two of the obscure features are: a solid object breaking the surface to the right of the neck, and to the left and behind the neck there is another mark of some sort, Dinsdale states.[40] After making this claim Dinsdale discusses that these objects are too hard to identify, but that just proves that they could be part of the monster. According to Dinsdale either the objects are part of a very subtle fake or genuinely part of the monster.[41] Another object that he points out to prove the photograph is not a fake is the vague smaller ripples that are behind the neck, which seem to have been caused after the neck broke the surface.[41] Dinsdale emphatically states that this is a part of the animal underwater behind the neck.
+Alastair Boyd, one of the researchers who uncovered the hoax, argues that the Loch Ness Monster is real, and that although the famous photo was hoaxed, that does not mean that all the photos, eyewitness reports, and footage of the monster were as well. He asserts that he too had a sighting and also argues that the hoaxed photo is not a good reason to dismiss eyewitness reports and other evidence.[42]
+Taylor film (1938)
+In 1938, G. E. Taylor, a South African tourist, filmed something in the loch for three minutes on 16 mm colour film, which was in the possession of Maurice Burton. Burton refused to show the film to Loch Ness investigators (such as Peter Costello or the Loch Ness Investigation Bureau). A single frame was published in his book The Elusive Monster; before he retired. Roy P. Mackal, a biologist and cryptozoologist, declared the frame was "positive evidence".[43] Later, it was shown also to the National Institute of Oceanography, now known as the National Oceanography Centre, Southampton.
+Dinsdale film (1960)
+In 1960, aeronautical engineer Tim Dinsdale filmed a hump crossing the water leaving a powerful wake.[44] Dinsdale allegedly spotted the animal on his last day hunting for it, and described the object as reddish with a blotch on its side. When he mounted his camera the object started to move and said that he shot 40 feet of film. JARIC declared that the object was "probably animate".[45] Others were sceptical, saying that the "hump" cannot be ruled out as being a boat,[46] and claimed that when the contrast is increased a man can be seen in a boat.[45]
+In 1993 Discovery Communications made a documentary called Loch Ness Discovered that featured a digital enhancement of the Dinsdale film. A computer expert who enhanced the film noticed a shadow in the negative that was not very obvious in the positive. By enhancing and overlaying frames, he found what appeared to be the rear body of a creature underwater. He commented that "Before I saw the film, I thought the Loch Ness Monster was a load of rubbish. Having done the enhancement, I'm not so sure".[42] Some have countered this finding by saying that the angle of the film from the horizontal along with sun's angle on that day made shadows underwater unlikely.[47] Others pointed out that the darker water is undisturbed water that was only coincidentally shaped like body.[48] The same source also says that there might be a smaller object (hump or head) in front of the hump causing this.[48]
+Holmes video (2007)
+On 26 May 2007, Gordon Holmes, a 55-year-old lab technician, captured video of what he said was "this jet black thing, about 45 feet (14 m) long, moving fairly fast in the water." Adrian Shine, a marine biologist at the Loch Ness 2000 centre in Drumnadrochit, described the footage as among "the best footage [he has] ever seen."[49] BBC Scotland broadcast the video on 29 May 2007.[50] STV News' North Tonight aired the footage on 28 May 2007 and interviewed Holmes. In this feature, Adrian Shine of the Loch Ness Centre was also interviewed and suggested that the footage showed an otter, seal or water bird.[51]
+Holmes's credibility has been doubted by an article on the Cryptomundo website,[52] which states that he has a history of reporting sightings of cryptozoological creatures, and sells a self-published book and DVD claiming evidence for fairies. His video also has no other objects for size comparison.[53] The MonsterQuest team investigated this video as well in their TV episode "Death of Loch Ness", where they examine evidence that Nessie has died, as well as other photos. In this documentary, Holmes asserts he spotted two creatures. A CNN news report showed the footage and an interview with Gordon Holmes.
+Joe Nickell has suggested that this footage shows a beaver or an otter, swimming in the loch.[54]
+Sonar image (2011)
+On 24 August 2011, Marcus Atkinson, a local Loch Ness boat skipper, photographed a sonar image of a long 5 ft wide unidentified object which was apparently following his boat for two minutes at a depth of 75 ft. Atkinson ruled out the possibility of any small fish or seal being what he believed to be the Loch Ness Monster. In April 2012, a scientist from the National Oceanography Centre said that this image is a bloom of algae and zooplankton.[55] However, Roland Watson, a cryptozoologist and Loch Ness Monster researcher, has criticized this analysis, stating that the object in the image is very unlikely to be a bloom of algae and zooplankton, since algae needs sunlight to grow, and the waters of Loch Ness are very dark, and nearly devoid of sunlight, 75 feet down. [56]
+George Edwards' photograph (2011)
+On 3 August 2012, skipper George Edwards published a photograph he claims to be "The most convincing Nessie photograph ever", which he claimed to have taken on 2 November 2011. Edwards' photograph consists in a hump out of the water which, according to him, remained so for five to ten minutes. The Daily Mail reports that Edward had the photograph independently verified by specialists such as a Loch Ness Monster sighting devotee and a group of US military monster experts. Edwards spends 60 hours per week on the loch aboard his boat, Nessie Hunter IV, in which he takes tourists for a ride on the lake, and claims to have searched for the Loch Ness monster for 26 years.[57][58] Said Edwards, "In my opinion, it probably looks kind of like a manatee, but not a mammal. When people see three humps, they’re probably just seeing three separate monsters."[59]
+However, other researchers of the Loch Ness phenomena have questioned the authenticity of the photograph. A subsequent investigation by Loch Ness researcher, Steve Feltham, suggests that the object in the water is in fact a fibreglass hump used previously in a National Geographic documentary which Edwards had participated in.[60] Researcher Dick Raynor has also questioned Edward's claims about finding a deeper bottom to Loch Ness, which he refers to as "Edwards Deep". He also found inconsistencies between Edwards' claims of the location and conditions of the photograph and the actual location and weather conditions of that day. Additionally, Raynor also stated that Edwards had previously told him he had faked a photograph in 1986, which he had promoted as genuine in the National Geographic documentary.[61]
+David Elder's video (2013)
+On August 27, 2013, tourist David Elder presented a five minute video of a "mysterious wave" in the loch. He believed that the wave was being produced by a 15 foot "solid black object" just under the surface of the water.[62] Elder, aged 50, of East Kilbride, South Lanarkshire, was taking a picture of a swan at the pierhead of Fort Augustus, at the south-west end of the loch,[63] when he captured the movement.[64] He added that "The water was very still at the time and there were no ripples coming off the wave and no other activity on the water."[64] Sceptics suggested that the wave may have been the result of a freak gust of wind.[65]
+Searches for the monster
+Sir Edward Mountain Expedition (1934)
+Having read the book by Gould,[16] Edward Mountain decided to finance a proper watch. Twenty men with binoculars and cameras positioned themselves around the Loch from 9 am to 6 pm, for five weeks starting 13 July 1934. They took 21 photographs, though none was considered conclusive. Captain James Fraser was employed as a supervisor, and remained by the Loch afterwards, taking cine film (which is now lost) on 15 September 1934.[66] When viewed by zoologists and professors of natural history it was concluded that it showed a seal, possibly a grey seal.[67]
+Loch Ness Phenomena Investigation Bureau (1962–1972)
+The Loch Ness Phenomena Investigation Bureau (LNPIB) was a UK-based society formed in 1962 by Norman Collins, R. S. R. Fitter, David James, MP, Peter Scott and Constance Whyte[68] "to study Loch Ness to identify the creature known as the Loch Ness Monster or determine the causes of reports of it."[69] It later shortened the name to Loch Ness Investigation Bureau (LNIB). It closed in 1972. The society had an annual subscription charge, which covered administration. Its main activity was for groups of self-funded volunteers to watch the loch from various vantage points, equipped with cine cameras with telescopic lenses. From 1965 to 1972 it had a caravan camp and main watching platform at Achnahannet, and sent observers to other locations up and down the loch.[70] According to the 1969 Annual Report of the Bureau,[71] it had 1,030 members, of whom 588 were from the UK.
+LNPIB sonar study (1967–1968)
+Professor D. Gordon Tucker, chairman of the Department of Electronic and Electrical Engineering at the University of Birmingham, England, volunteered his services as a sonar developer and expert at Loch Ness in 1968. The gesture was part of a larger effort helmed by the LNPIB from 1967 to 1968 and involved collaboration between volunteers and professionals in various fields. Tucker had chosen Loch Ness as the test site for a prototype sonar transducer with a maximum range of 800 m (2,600 ft). The device was fixed underwater at Temple Pier in Urquhart Bay and directed towards the opposite shore, effectively drawing an acoustic 'net' across the width of Ness through which no moving object could pass undetected. During the two-week trial in August, multiple animate targets 6 m (20 ft) in length were identified ascending from and diving to the loch bottom. Analysis of diving profiles ruled out air-breathers because the targets never surfaced or moved shallower than midwater. A brief press release by LNPIB and associates touched on the sonar data and drew to a close the 1968 effort:[citation needed]
+
+The answer to the question of whether or not unusual phenomena exist in Loch Ness, Scotland, and if so, what their nature might be, was advanced a step forward during 1968, as a result of sonar experiments conducted by a team of scientists under the direction of D. Gordon Tucker... Professor Tucker reported that his fixed beam sonar made contact with large moving objects sometimes reaching speeds of at least 10 knots (19 km/h; 12 mph). He concluded that the objects are clearly animals and ruled out the possibility that they could be ordinary fish. He stated: "The high rate of ascent and descent makes it seem very unlikely that they could be fish, and fishery biologists we have consulted cannot suggest what fish they might be. It is a temptation to suppose they might be the fabulous Loch Ness monsters, now observed for the first time in their underwater activities!"
+
+Andrew Carroll's sonar study (1969)
+In 1969 Andrew Carroll, field researcher for the New York Aquarium in New York City, proposed a mobile sonar scan operation at Loch Ness. The project was funded by the Griffis foundation (named for Nixon Griffis, then a director of the aquarium). This was the tail-end (and most successful portion) of the LNPIB's 1969 effort involving submersibles with biopsy harpoons. The trawling scan, in Carroll's research launch Rangitea, took place in October. One sweep of the loch made contact with a strong, animate echo for nearly three minutes just north of Foyers. The identity of the contact remains a mystery. Later analysis determined that the intensity of the returning echo was twice as great as that expected from a 10-foot (3 m) pilot whale. On returning to the University of Chicago, biologist Roy Mackal and colleagues subjected the sonar data to greater scrutiny and confirmed dimensions of 20 feet (6 m).[citation needed]
+Submersible investigations
+Earlier submersible work had yielded dismal results. Under the sponsorship of World Book Encyclopedia, pilot Dan Taylor deployed the Viperfish at Loch Ness on 1 June 1969. His dives were plagued by technical problems and produced no new data. The Deep Star III built by General Dynamics and an unnamed two-man submersible built by Westinghouse were scheduled to sail but never did. It was only when the Pisces arrived at Ness that the LNPIB obtained new data. Owned by Vickers, Ltd., the submersible had been rented out to produce The Private Life of Sherlock Holmes, a film featuring a dummy Loch Ness Monster. When the dummy monster broke loose from the Pisces during filming and sank to the bottom of the loch, Vickers executives capitalised on the loss and 'monster fever' by allowing the sub to do a bit of exploring. During one of these excursions, the Pisces picked up a large moving object on sonar 200 feet (60 m) ahead and 50 feet (15 m) above the bottom of the loch. Slowly the pilot closed to half that distance but the echo moved rapidly out of sonar range and disappeared.[citation needed]
+"Big Expedition" of 1970
+During the so-called "Big Expedition" of 1970, Roy Mackal, a biologist who taught for 20 years at the University of Chicago, devised a system of hydrophones (underwater microphones) and deployed them at intervals throughout the loch. In early August a hydrophone assembly was lowered into Urquhart Bay and anchored in 700 feet (210 m) of water. Two hydrophones were secured at depths of 300 and 600 feet (180 m). After two nights of recording, the tape (sealed inside a 44 gallon drum along with the system's other sensitive components) was retrieved and played before an excited LNPIB. "Bird-like chirps" had been recorded, and the intensity of the chirps on the deep hydrophone suggested they had been produced at greater depth. In October "knocks" and "clicks" were recorded by another hydrophone in Urquhart Bay, indicative of echolocation. These sounds were followed by a "turbulent swishing" suggestive of the tail locomotion of a large aquatic animal. The knocks, clicks and resultant swishing were believed were the sounds of an animal echo-locating prey before moving in for the kill. The noises stopped whenever craft passed along the surface of the loch near the hydrophone, and resumed once the craft reached a safe distance. In previous experiments, it was observed that call intensities were greatest at depths less than 100 feet (30 m). Members of the LNPIB decided to attempt communication with the animals producing the calls by playing back previously recorded calls into the water and listening via hydrophone for results, which varied greatly. At times the calling patterns or intensities changed, but sometimes there was no change at all. Mackal noted that there was no similarity between the recordings and the hundreds of known sounds produced by aquatic animals.[citation needed]
+Robert Rines's studies (1972, 1975, 2001 and 2008)
+In the early 1970s, a group of people led by Robert H. Rines obtained some underwater photographs. Two were rather vague images, perhaps of a rhomboid flipper (though others have dismissed the image as air bubbles or a fish fin). The alleged flipper was photographed in different positions, indicating movement.[72] On the basis of these photographs, British naturalist Peter Scott announced in 1975 that the scientific name of the monster would henceforth be Nessiteras rhombopteryx (Greek for "The Ness monster with diamond-shaped fin").[73] Scott intended that this would enable Nessie to be added to a British register of officially protected wildlife. Scottish politician Nicholas Fairbairn pointed out that the name was an anagram for "Monster hoax by Sir Peter S".[74][75]
+The underwater photos were reportedly obtained by painstakingly examining the loch depths with sonar for unusual underwater activity. Rines knew the water was murky and filled with floating wood and peat, so he took precautions to avoid it. A submersible camera with an affixed, high-powered flood light was deployed to record images below the surface. If he detected anything on the sonar, he would turn the lights on and take some pictures. Several of the photographs, despite their obviously murky quality, did indeed seem to show an animal resembling a plesiosaur in various positions and lightings. One photograph appeared to show the head, neck and upper torso of a plesiosaur-like animal.[76] After two distinct sonar contacts were made, the strobe light camera photographed two large lumps in the water, suggesting there to be two large animals living in the loch. Another photo seemed to depict a horned "gargoyle head", consistent to that of several sightings of the monster.[77] Sceptics point out that several years later, a log was filmed underwater which bore a striking resemblance to the gargoyle head.[who?]
+A few close-ups of what might be the creature's diamond-shaped fin were taken, with the "fin" in different positions, as though the creature was moving, but after some time it came to be known that the "flipper photograph" was highly enhanced and retouched compared with the original image. The Museum of Hoaxes shows the original unenhanced photo. Team member Charles Wyckoff claimed that someone retouched the photo to superimpose the flipper, and that the original enhancement showed a much smaller flipper. No one is sure how the original came to be altered.[78]
+On 8 August 1972, Rines' Raytheon DE-725C sonar unit, operating at a frequency of 200 kHz and anchored at a depth of 35 feet (11 m), identified a moving target (or targets) estimated by echo strength to be 20 to 30 feet (6 to 9 m) in length. Specialists from Raytheon, Simrad (now Kongsberg Maritime), and Hydroacoustics, Inc.; Marty Klein of MIT and Klein Associates (a producer of side scan sonar); and Dr. Ira Dyer of MIT's Department of Ocean Engineering were all on hand to examine the data. Further, P. Skitzki of Raytheon suggested that the data showed a protuberance, 10 feet (3 m) in length, projecting from one of the echoes. Mackal proposed that the shape was a "highly flexible laterally flattened tail" or the misinterpreted return from two animals swimming together.[79]
+In 2001, the Robert Rines' Academy of Applied Science videoed a powerful V-shaped wake traversing the still water on a calm day. The AAS also videotaped an object on the floor of the loch resembling a carcass, found marine clam-shells and a fungus-like organism not normally found in fresh water lochs, which they suggest gives some connection to the sea and a possible entry for Nessie.[80]
+In 2008, Rines theorised that the monster may have become extinct, citing the lack of significant sonar readings and a decline in eyewitness accounts. Rines undertook one last expedition to look for remains of the monster, using sonar and underwater camera in an attempt to find a carcass. Rines believed that the animals may have failed to adapt to temperature changes as a result of global warming.[81]
+Operation Deepscan (1987)
+In 1987, Operation Deepscan took place. Twenty-four boats equipped with echosounder equipment were deployed across the whole width of the loch and they simultaneously sent out acoustic waves. BBC News reported that the scientists had made sonar contact with a large unidentified object of unusual size and strength. The researchers decided to return to the same spot and re-scan the area. After analysing the echosounder images, it seemed to point to debris at the bottom of the loch, although three of the pictures were of moving debris. Shine speculates that they could be seals that got into the loch, since they would be of about the same magnitude as the objects detected.[82]
+Darrell Lowrance, sonar expert and founder of Lowrance Electronics, donated a number of echosounder units used during Operation Deepscan. After examining the echogram data, specifically a sonar return revealing a large moving object near Urquhart Bay at a depth of 600 feet (180 m), Lowrance said: "There's something here that we don't understand, and there's something here that's larger than a fish, maybe some species that hasn't been detected before. I don't know."[83]
+Discovery Loch Ness (1993)
+In 1993 Discovery Communications began to research the ecology of the loch. The study did not focus entirely on the monster, but on the loch's nematodes (of which a new species was discovered) and fish. Expecting to find a small fish population, the researchers caught twenty fish in one catch, increasing previous estimates of the loch's fish population about ninefold.
+Using sonar, the team encountered a kind of underwater disturbance (called a seiche) due to stored energy (such as from a wind) causing an imbalance between the loch's warmer and colder layers (known as the thermocline). While reviewing printouts of the event the next day, they found what appeared to be three sonar contacts, each followed by a powerful wake. These events were later shown on a program called Loch Ness Discovered, in conjunction with analyses and enhancements of the 1960 Dinsdale Film, the Surgeon's Photo, and the Rines Flipper Photo.[citation needed]
+Searching for the Loch Ness Monster BBC (2003)
+In 2003, the BBC sponsored a full search of the Loch using 600 separate sonar beams and satellite tracking. The search had enough resolution to pick up a small buoy. No animal of any substantial size was found whatsoever and despite high hopes, the scientists involved in the expedition admitted that this essentially proved the Loch Ness monster was only a myth.[84]
+Explanations
+A variety of explanations have been postulated over the years to account for sightings of the Loch Ness Monster. These may be categorised as: misidentifications of common animals; misidentifications of inanimate objects or effects; reinterpretations of traditional Scottish folklore; hoaxes; and exotic species of large animals.
+Misidentification of common animals
+Bird wakes
+There are wake sightings that occur when the loch is dead calm with no boat nearby. A bartender named David Munro claims to have witnessed a wake he believed was a creature zigzagging, diving, and reappearing. (There were 26 other witnesses from a nearby car park.)[78] Some sightings describe the onset of a V-shaped wake, as if there were something underwater.[80] Moreover, many wake sightings describe something not conforming to the shape of a boat.[42] Under dead calm conditions, a creature too small to be visible to the naked eye can leave a clear v-shaped wake. In particular, a group of swimming birds can give a wake and the appearance of an object. A group of birds can leave the water and then land again, giving a sequence of wakes like an object breaking the surface, which Dick Raynor says is a possible explanation for his film.[85]
+Eels
+A giant eel was one of the first suggestions made.[15] Eels are found in Loch Ness, and an unusually large eel would fit many sightings. This has been described as a conservative explanation.[86] Eels are not known to protrude swanlike from the water and thus would not account for the head and neck sightings.[87][88] Dinsdale dismissed the proposal because eels move in a side-to-side undulation.[89]
+Sightings, in 1856, of a 'sea-serpent' or Kelpie in a freshwater lake near Leurbost in the Outer Hebrides were also explained as being of an oversized eel, which were also believed to be common in 'Highland lakes': "All, however, agree, in describing its form as that of an eel; and we have heard one, whose evidence we can rely upon, state that in length he supposed it to be about forty feet. It is probable that it is no more than a conger eel after all, animals of this description having been caught in the Highland lakes which have attained a huge size."[90]
+On 2 May 2001, two conger eels were found on the shore of the loch; as conger eels are saltwater animals and Loch Ness is freshwater, it is believed that they were put there to be seen as "Mini-Nessies".[91]
+Elephant
+In a 1979 article, California biologist Dennis Power and geographer Donald Johnson claimed that the Surgeon's Photograph was in fact the top of the head, extended trunk and flared nostrils of a swimming elephant, probably photographed elsewhere and claimed to be from Loch Ness.[92] In 2006, palaeontologist and artist Neil Clark similarly suggested that travelling circuses might have allowed elephants to refresh themselves in the loch and that the trunk could therefore be the head and neck, with the elephant's head and back providing the humps. In support of this he provided a painting.[93]
+Resident animals
+When viewed through a telescope or binoculars with no outside reference, it is difficult to judge the size of an object in the water. Loch Ness has resident otters and pictures of them are given by Binns,[94] which could be misinterpreted. Likewise he gives pictures of deer swimming in Loch Ness, and birds that could be taken as a "head and neck" sighting.[95]
+Seals
+A number of photographs and a video have confirmed the presence of seals in the loch, for up to months at a time.[96][97] In 1934 the Sir Edward Mountain expedition analysed film taken the same year and concluded that the monster was a species of seal, which was reported in a national newspaper as "Loch Ness Riddle Solved – Official".[98] A long-necked seal was advocated by Peter Costello for Nessie and for other reputed lake-monsters.[99] R.T. Gould wrote "A grey seal has a long and surprisingly extensible neck; it swims with a paddling action; its colour fits the bill; and there is nothing surprising in its being seen on the shore of the loch, or crossing a road."[16] This explanation would cover sightings of lake-monsters on land, during which the creature supposedly waddled into the loch upon being startled, in the manner of seals.[99] Seals could also account for sonar traces that act as animate objects. Against this, it has been argued that all known species of pinnipeds are usually visible on land during daylight hours to sunbathe,[100] something that Nessie is not known to do. However seals have been observed and photographed in Loch Ness and the sightings are sufficiently infrequent to allow for occasional visiting animals rather than a permanent colony.
+Misidentifications of inanimate objects or effects
+Trees
+In 1933 the Daily Mirror showed a picture with the following caption 'This queerly-shaped tree-trunk, washed ashore at Foyers may, it is thought, be responsible for the reported appearance of a "Monster"'.[101] (Foyers is on Loch Ness.)
+In a 1982 series of articles for New Scientist, Dr Maurice Burton proposed that sightings of Nessie and similar creatures could actually be fermenting logs of Scots Pine rising to the surface of the loch's cold waters. Initially, a rotting log could not release gases caused by decay, because of high levels of resin sealing in the gas. Eventually, the gas pressure would rupture a resin seal at one end of the log, propelling it through the water—and sometimes to the surface. Burton claimed that the shape of tree logs with their attendant branch stumps closely resemble various descriptions of the monster.[102][103][104]
+Four Scottish lochs are very deep, including Morar, Ness and Lomond. Only the lochs with pinewoods on their shores have monster legends; Loch Lomond—with no pinewoods—does not. Gaseous emissions and surfactants resulting from the decay of the logs can cause the foamy wake reported in some sightings. Indeed, beached pine logs showing evidence of deep-water fermentation have been found. On the other hand, there are believers who assert that some lakes do have reports of monsters, despite an absence of pinewoods; a notable example would be the Irish lough monsters.[105]
+Seiches and wakes
+Loch Ness, because of its long, straight shape, is subject to some unusual ripples affecting its surface. A seiche is a large, regular oscillation of a lake, caused by a water reverting to its natural level after being blown to one end of the lake. The impetus from this reversion continues to the lake's windward end and then reverts. In Loch Ness, the process occurs every 31.5 minutes.[106]
+Boat wakes can also produce strange effects in the loch. As a wake spreads and divides from a boat passing the centre of the loch, it hits both sides almost simultaneously and deflects back to meet again in the middle. The movements interact to produce standing waves that are much larger than the original wake, and can have a humped appearance. By the time this occurs, the boat has passed and the unusual waves are all that can be seen.[107][108]
+Optical effects
+Wind conditions can give a slightly choppy and thus matte appearance to the water, with occasional calm patches appearing as dark ovals (reflecting the mountains) from the shore, which can appear as humps to visitors unfamiliar with the loch. In 1979, Lehn showed that atmospheric refraction could distort the shape and size of objects and animals,[109] and later showed a photograph of a rock mirage on Lake Winnipeg that looked like a head and neck.[110]
+Seismic gas
+The Italian geologist Luigi Piccardi has proposed geological explanations for some ancient legends and myths. He pointed out that in the earliest recorded sighting of a creature, the Life of St. Columba, the creature's emergence was accompanied "cum ingenti fremitu" (with very loud roaring). The Loch Ness is located along the Great Glen Fault, and this could be a description of an earthquake. Furthermore, in many sightings, the report consists of nothing more than a large disturbance on the surface of the water. This could be caused by a release of gas from through the fault, although it could easily be mistaken for a large animal swimming just below the surface.[111]
+Binns concludes that it would be unwise to put forward a single explanation of the monster, and probably a wide range of natural phenomena have been mistaken for the monster at times: otters, swimming deer, unusual waves. However, he adds that this also touches on some issues of human psychology, and the ability of the eye to see what it wants to see.[8]
+Folklore
+According to the Swedish naturalist and author Bengt Sjögren (1980), present day beliefs in lake monsters such as the Loch Ness Monster are associated with the old legends of kelpies. He claims that the accounts of loch monsters have changed over the ages, originally describing creatures with a horse-like appearance; they claimed that the "kelpie" would come out of the lake and turn into a horse. When a tired traveller would get on the back of the kelpie, it would gallop into the loch and devour its prey. This myth successfully kept children away from the loch, as was its purpose. Sjögren concludes that the kelpie legends have developed into current descriptions of lake-monsters, reflecting modern awareness of plesiosaurs. In other words, the kelpie of folklore has been transformed into a more realistic and contemporary notion of the creature. Believers counter that long-dead witnesses could only compare the creature to that with which they were familiar, and they were not familiar with plesiosaurs.[112]
+Specific mention of the kelpie as a water horse in Loch Ness was given in a Scottish newspaper in 1879,[113] and was commemorated in the title of a book Project Water Horse by Tim Dinsdale.[114]
+A study of the Highland folklore literature prior to 1933 with specific references to Kelpies, Water Horses and Water Bulls suggested that Loch Ness was the most mentioned loch by a large margin.[115]
+Hoaxes
+The Loch Ness monster phenomenon has seen several attempts to hoax the public, some of which were very successful. Other hoaxes were revealed rather quickly by the perpetrators or exposed after diligent research. A few examples are mentioned below.
+In August 1933, Italian journalist Francesco Gasparini submitted what he claimed was the first news article on the Loch Ness monster. In 1959, he confessed to taking a sighting of a "strange fish" and expanding on it by fabricating eye witness accounts. "I had the inspiration to get hold of the item about the strange fish. The idea of the monster had never dawned on me, but then I noted that the strange fish would not yield a long article, and I decided to promote the imaginary being to the rank of monster without further ado."[116]
+In the 1930s, a big-game hunter named Marmaduke Wetherell went to Loch Ness to look for the Loch Ness Monster. He claimed to have found footprints, but when casts of the footprints were sent to scientists for analysis, they turned out to be from a hippopotamus. A prankster had used a hippopotamus-foot umbrella stand to make the footprints.[117]
+In 1972 a team of zoologists from Yorkshire's Flamingo Park Zoo had gone in search of the legendary monster and discovered a large body floating in the water. The corpse was 16–18 feet long and weighed up to 1.5 tonnes, described by the Press Association as having "a bear's head and a brown scaly body with clawlike fins." The creature was put in a van to be taken away for testing, whereupon police chased them down and took the cadaver under an act of parliament that prohibits the removal of "unidentified creatures" from Loch Ness. But it was later revealed that Flamingo Park's education officer John Shields had shaved the whiskers and otherwise disfigured a bull elephant seal that had died the week before and dumped it in Loch Ness to dupe his colleagues.[118]
+On 2 July 2003, Gerald McSorely found a fossil supposedly belonging to Nessie when he tripped and fell into the loch. After examination, it became clear that the fossil was not from Loch Ness and had been planted there.[91]
+
+
+
+
+Cryptoclidus model used in the Five TV programme "Loch Ness Monster: The Ultimate Experiment"
+
+
+In 2004, a documentary team for television channel Five, using special effects experts from movies, tried to make people believe there was something in the loch. They constructed an animatronic model of a plesiosaur, and dubbed it "Lucy". Despite setbacks, such as Lucy falling to the bottom of the loch, about 600 sightings were reported in the places they conducted the hoaxes.[119][120]
+In 2005, two students claimed to have found a huge tooth embedded in the body of a deer on the loch shore. They publicised the find widely, even setting up a website, but expert analysis soon revealed that the "tooth" was the antler of a muntjac.[121] The Loch Ness tooth was a publicity stunt to promote a horror novel by Steve Alten titled The Loch.[91]
+In 2007, a video purported to show Nessie jumping high into the air showed up on YouTube. This was revealed by the online amateur sceptic's community eSkeptic to be a viral ad promoting the then-upcoming Sony Pictures film The Water Horse.[122] The release of the film confirmed the eSkeptic analysis: the viral video comprises footage from The Water Horse.
+Exotic species of large animals
+Plesiosaur
+
+
+
+
+Reconstruction of Nessie as a plesiosaur outside Museum of Nessie
+
+
+In 1933 the suggestion was made that the monster "bears a striking resemblance to the supposedly extinct plesiosaur",[123] a long-necked aquatic reptile that went extinct during the Cretaceous–Paleogene extinction event. At the time this was a popular explanation. The following arguments have been put against it:
+
+Plesiosaurs were probably cold-blooded reptiles requiring warm tropical waters, while the average temperature of Loch Ness is only about 5.5 °C (42 °F).[124] Even if the plesiosaurs were warm-blooded, they would require a food supply beyond that of Loch Ness to maintain the level of activity necessary for warm-blooded animals.[125]
+In October 2006, the New Scientist headlined an article "Why the Loch Ness Monster is no plesiosaur" because Leslie Noè of the Sedgwick Museum in Cambridge reported, "The osteology of the neck makes it absolutely certain that the plesiosaur could not lift its head up swan-like out of the water".[126]
+The loch is only about 10,000 years old, dating to the end of the last ice age. Prior to that date, the loch was frozen solid for about 20,000 years.[127]
+If creatures similar to plesiosaurs lived in the waters of the Loch Ness, they would be seen very frequently as they would have to surface several times a day to breathe.[82]
+
+In response to these criticisms, proponents such as Tim Dinsdale, Peter Scott and Roy Mackal postulate a trapped marine creature that evolved either from a plesiosaur or to the shape of a plesiosaur by convergent evolution.[128] Robert Rines also explained that the "horns" described in some sightings may be breathing tubes or nostrils that allow the animal to breathe without breaking the surface.
+Amphibian
+R. T. Gould suggested something like a long-necked newt[16][129] and Roy Mackal discussed this possibility, giving it the highest score (88%) in his list of possible candidates.[130]
+Invertebrate
+In 1968 Frank Holiday proposed that Nessie and other lake-monsters such as Morag could be explained by a giant invertebrate such as a bristleworm, and cited the extinct Tullimonstrum as an example of the shape.[131] He says this provides an explanation for land sightings and for the variable back shape, and relates it to the medieval description of dragons as "worms". Mackal considered this, but found it less convincing than eel, amphibian or plesiosaur types of animal.[132]
+Pinniped
+In the 1930s, the Dutch zoologist Antoon Cornelis Oudemans first proposed that the Loch Ness Monster could possibly be an unknown form of long-necked Pinniped (semi-aquatic mammals including seals). In 1892, Oudemans had come to the conclusion that several sightings of Sea serpents were probably huge, plesiosaur-like pinnipeds. He came up with a hypothetical new species of long-necked pinniped, to which he gave the scientific name of Megophias megophias. He theorized that the Loch Ness cryptid was simply a freshwater version of his own Megophias megophias. In 2003, cryptozoologists Loren Coleman and Patrick Huyghe discussed the pinniped hypothesis, and found it to be the most likely candidate for the Loch Ness Monster.[133]
+Popular culture
+Main article: Loch Ness Monster in popular culture
+See also
+
+
+Bear Lake monster
+Bunyip
+Champ (cryptozoology)
+Chessie (sea monster)
+Gaasyendietha
+Jiaolong
+Lake monster
+Lake Tianchi Monster
+Lake Van Monster
+List of reported lake monsters
+Leviathan
+Manipogo
+Memphre
+Mokele-mbembe
+Morag
+Nahuel Huapi Lake Monster
+Ogopogo
+Prince Nathan
+Sea monster
+Stronsay Beast
+Wani (dragon)
+Water Horse
+
+
+Footnotes
+
+Notes
+
+
+
+^ The date is inferred from the oldest written source reporting a monster near Loch Ness.[1]
+^ Derived from "Loch Ness". Also a familiar form of the girl's name Agnes, relatively common in Scotland, e.g. the Daily Mirror 4 August 1932 reports the wedding of "Miss Nessie Clark, a Banffshire schoolteacher"
+^ The photo is often cropped to make the monster seem proportionally large, while the original uncropped shot shows the other end of the loch and the monster in the centre.
+
+
+
+References
+
+
+
+^ Life of St. Columba (chapter 28).
+^ Delrio, Martin (2002). The Loch Ness Monster. New York City: Rosen Publishing Group. p. 48. ISBN 0-8239-3564-7. 
+^ A. G. Harmsworth (2009). Loch-ness.org says the Plesiosaur theory is "Without doubt (the) most popular candidate among monster believers and the press".. 
+^ Robert Todd Carroll, The Skeptic's Dictionary: A Collection of Strange Beliefs, Amusing Deceptions, and Dangerous Delusions pages 200–201 (John Wiley & Sons, Inc., 2003). ISBN 0-471-27242-6
+^ Campbell, Elizabeth Montgomery & David Solomon, The Search for Morag (Tom Stacey 1972) ISBN 0-85468-093-4, page 28 gives an-t-Seileag, an-Niseag, a-Mhorag for the monsters of Lochs Shiel, Ness and Morag, adding that they are feminine diminutives
+^ "Up Again". Edinburgh Scotsman. May 14, 1945. p. 1. "So "Nessie" is at her tricks again. After a long, she has by all accounts bobbed up in home waters..." 
+^ The Sun 27 November 1975: I'm the man who first coined the word "monster" for the creature.
+^ a b c R. Binns The Loch Ness Mystery Solved pp 11–12
+^ Inverness Courier 2 May 1933 "Loch Ness has for generations been credited with being the home of a fearsome-looking monster"
+^ a b "Is this the Loch Ness monster?". Inverness Courier. 4 August 1933. 
+^ R. Binns The Loch Ness Mystery Solved pp 19–27
+^ Daily Mirror, 11 August 1933 "Loch Ness, which is becoming famous as the supposed abode of a dragon..."
+^ The Oxford English Dictionary gives 9 June 1933 as the first usage of the exact phrase Loch Ness monster
+^ R. P. Mackal (1983) "The Monsters of Loch Ness" p.94
+^ a b Daily Mirror 8 December 1933 "The Monster of Loch Ness – Official! Orders That Nobody is to Attack it" ... A Huge Eel?"
+^ a b c d e Gould, Rupert T. (1934). The Loch Ness Monster and Others. London: Geoffrey Bles. 
+^ J. A Carruth Loch Ness and its Monster, (1950) Abbey Press, Fort Augustus, cited by Tim Dinsdale (1961) Loch Ness Monster ppp 33–35
+^ a b Adomnán, p. 176 (II:27).
+^ Watson, Roland. "The World's Oldest Loch Ness Monster Document". Retrieved 16 August 2012. 
+^ a b c Adomnán p. 330.
+^ R. Binns The Loch Ness Mystery Solved, pp. 52–57
+^ a b T. Dinsdale (1961) Loch Ness Monster page 42.
+^ Tim Dinsdale Loch Ness Monster pp 44–5
+^ "He had apparently fallen off his motor bike and told his mother that the damage to the bike was caused by the monster making him crash! Will all authors please stop treating this sighting as if it were genuine." "Land Sightings". loch-ness.com. Archived from the original on 11 October 2007. 
+^ R. Mackal (1976) "The Monsters of Loch Ness" page 85.
+^ mikko takala. "Sightings on Land". Lochness.co.uk. Retrieved 28 May 2009. 
+^ Casciato, Paul (28 April 2010). "Loch Ness Monster is real, says policeman". reuters. Retrieved 28 April 2010. 
+^ "Police chief William Fraser demanded protection for Loch Ness Monster". Perth Now. Retrieved 7 February 2012. 
+^ a b "Searching for Nessie". Sansilke.freeserve.co.uk. Retrieved 28 May 2009. 
+^ Mackal, Roy P. (1976). The Monsters Of Loch Ness
+^ Watson, Roland. "The Hugh Gray Photograph Revisited". Retrieved 27 April 2012. 
+^ R. P. Mackal (1976) The Monsters of Loch Ness page 208
+^ Book review of Nessie -- The Surgeon's Photograph -- Exposed Douglas Chapman.
+^ Daily Mail 21 April 1934
+^ a b c "The Loch Ness Monster and the Surgeon's Photo". Museumofhoaxes.com. Retrieved 28 May 2009. 
+^ David S. Martin & Alastair Boyd (1999) Nessie – the Surgeon's Photograph Exposed (East Barnet: Martin and Boyd). ISBN 0-9535708-0-0
+^ "Loch Ness Hoax Photo". The UnMuseum. Retrieved 28 May 2009. 
+^ H. H. Bauer (2001) Fatal Attractions: The Troubles with Science ISBN 1-931044-28-7
+^ Dinsdale, Tim (1976). Loch Ness Monster. London: Routledge & Kegan Paul. p. 56. ISBN 0-7100-8395-5. 
+^ Dinsdale, Tim (1976). Loch Ness Monster. London: Routledge & Kegan Paul. pp. 56–57. ISBN 0-7100-8395-5. 
+^ a b Dinsdale, Tim (1976). Loch Ness Monster. London: Routledge & Kegan Paul. p. 57. ISBN 0-7100-8395-5. 
+^ a b c Discovery Communications, Loch Ness Discovered, 1993
+^ Janet and Colin Bord, 'Alien Animals' (Granada 1986) p18
+^ "The Loch Ness Monster". YouTube. 19 January 2007. Retrieved 8 July 2009. 
+^ a b "Loch Ness movie film & Loch Ness video evidence". Loch-ness.org. Retrieved 28 April 2010. 
+^ Legend of Nessie. "Analysis of the Tim Dinsdale film". Nessie.co.uk. Retrieved 28 April 2010. 
+^ D Raynor. "cyberspace – a nessie faq". Lochnessinvestigation.org. Retrieved 28 April 2010. 
+^ a b Bauer, Henry H (2002). "Common Knowledge about the Loch Ness Monster". Journal of Scientific Exploration 16 (3): 455–477. Retrieved 28 April 2010. 
+^ "Tourist Says He's Shot Video of Loch Ness Monster". Fox News. 1 June 2007. Retrieved 28 April 2010. 
+^ "Fabled monster caught on video". Web.archive.org. 1 June 2007. Archived from the original on 18 June 2007. Retrieved 28 April 2010. 
+^ "stv News North Tonight – Loch Ness Monster sighting report and interview with Gordon Holmes – tx 28 May 2007". Scotlandontv.tv. Archived from the original on 28 May 2009. Retrieved 28 May 2009. 
+^ Coleman, Loren (4 June 2007). "Nessie Footage Questions Focus On Filmmaker". Cryptomundo.com. Retrieved 28 April 2010. 
+^ Benjamin Radford (5 June 2007). "New Video Likely Not Loch Ness Monster". LiveScience. Retrieved 28 April 2010. 
+^ "The Legend of Nessie". CNN. 2007. Retrieved Aug. 23, 2013. 
+^ Conway, Lawrence. "Is this the Loch Ness Monster? Sonar picture shows 'serpent-like creature' at bottom of mysterious loch". Daily Mail (London). 
+^ Watson, Roland. "Nessie Sonar Controversy Goes Commercial". Retrieved 21 May 2012. 
+^ Blake, Matt. "'The most convincing Nessie photograph ever': Skipper claims to have finally found proof that Loch Ness Monster exists". Daily Mail (London). Retrieved 3 August 2012. 
+^ McLaughlin, Erin (15 August 2012). "Scottish Sailor Claims To Have Best Picture Yet Of Loch Ness Monster | ABC News Blogs - Yahoo!". Gma.yahoo.com. Retrieved 11 April 2013. 
+^ McLaughlin, Erin, "Scottish Sailor Claims To Have Best Picture Yet Of Loch Ness Monster", ABC News/Yahoo! News, 16 August 2012
+^ Watson, Roland. "Follow up to the George Edwards Photo". Retrieved 20 August 2012. 
+^ Raynor, Dick. "An examination of the claims and pictures taken by George Edwards". Retrieved 1 September 2012. 
+^ McCloskey, Jimmy (2013-08-27). "Tourist captures evidence of Loch Ness Monster". DailyStar.co.uk. Retrieved 2013-08-29. 
+^ "Do new pictures from amateur photographer prove Loch Ness Monster exists?". Metro. 2013-08-26. Retrieved 2013-09-25. 
+^ a b Baillie, Claire (2013-08-27). "New photo of Loch Ness Monster sparks debate". The Scotsman. Retrieved 2013-09-25. 
+^ "Finally, is this proof the Loch Ness monster exists? Read more: http://www.news.com.au/travel/news/finally-is-this-proof-the-loch-ness-monster-exists/story-e6frfq80-1226705466799#ixzz2fu9D25Hv". news.com.au. 28 August 2013. Retrieved 25 September 2013. 
+^ R. Binns (1983) The Loch Ness Mystery Solved ISBN 0-7291-0139-8, pages 36–39
+^ The Times 5 October 1934, page 12 Loch Ness "Monster" Film
+^ Henry H. Bauer, The Enigma of Loch Ness: Making Sense of a Mystery, page 163 (University of Illinois Press, 1986). ISBN 0-252-01284-4
+^ Rick Emmer, Loch Ness Monster: Fact or Fiction?, page 35 (Infobase Publishing, 2010). ISBN 978-0-7910-9779-3
+^ Tim Dinsdale (1973) The Story of the Loch Ness Monster Target Books ISBN 0-426-11340-3
+^ "1969 Annual Report: Loch Ness Investigation" (PDF). Retrieved 8 July 2009. 
+^ http://web.archive.org/web/20110829140111/http://scienceblogs.com/tetrapodzoology/Nessie_Rines%20flipper.gif
+^ "Naming the Loch Ness monster". Nature 258 (5535): 466. 1975. doi:10.1038/258466a0. 
+^ Dinsdale, T. "Loch Ness Monster" (Routledge and Kegan paul 1976), p.171. Dinsdale, in the same paragraph, also says that Robert Rines, co-author of the Nature article, "soon came up with the antidote – 'Yes, both pix are monsters – R.'"
+^ "London, 18 December (Reuters) – A Scottish member of Parliament has discovered an anagram for Nessiteras rhombopteryx... Nicholas Fairbairn, the MP, announced the anagram in a letter to The Times: 'Monster hoax by Sir Peter S.' ("Loch Ness Monster Shown a Hoax by Another Name." New York Times 19 December 1975. p. 78.)
+^ The Boston Globe http://www.boston.com/news/local/breaking_news/monster2.jpg |url= missing title (help). 
+^ http://www.cryptomundo.com/wp-content/uploads/rines1975a.jpg
+^ a b Loch Ness Monster: Search for the Truth, 2001
+^ Roy Mackal (1976) The Monsters of Loch Ness page 307, see also appendix E
+^ a b Dr. Robert H. Rines. Loch Ness Findings. Academy of Applied Science.
+^ "Veteran Loch Ness Monster Hunter Gives Up – The Daily Record". Dailyrecord.co.uk. Retrieved 28 April 2010. 
+^ a b "What is the Loch Ness Monster?". Firstscience.com. Retrieved 28 May 2009. 
+^ Mysterious Creatures (1988) By the Editors of Time-Life Books, page 90
+^ "BBC 'proves' Nessie does not exist". BBC News. 27 July 2003. Retrieved 4 April 2010. 
+^ Dick Raynor. "Dick Raynor website". Lochnessinvestigation.org. Retrieved 28 May 2009. 
+^ R. P. Mackal (1976) The Monsters of Loch Ness page 216, see also chapter 9 and appendix G
+^ Justice, Aaron (2007). "The Monster of Loch Ness". CryptoZoology.com. Retrieved 8 April 2007. 
+^ "Operation Cleansweep 2001". The Loch Ness Project. 2001. Retrieved 8 April 2007. 
+^ Tim Dinsdale (1961) Loch Ness Monster page 229
+^ "VARIETIES.". Colonial Times (Hobart, Tas. : 1828 - 1857) (Hobart, Tas.: National Library of Australia). 10 June 1856. p. 3. Retrieved 16 September 2013. 
+^ a b c "Loch Ness Monster Hoaxes". Museumofhoaxes.com. Retrieved 28 April 2010. 
+^ A Fresh Look At Nessie, New Scientist, v. 83, pp. 358–359
+^ "National Geographic News". News.nationalgeographic.com. Retrieved 28 May 2009. 
+^ R. Binns (1983) The Loch Ness Mystery Solved plates 15(a)-(f)
+^ R. Binns (1983) The Loch Ness Mystery Solved plates 16–18
+^ Dick Raynor. "G. R. Williamson Sci. Rep. Whales Res. Inst., No. 39,1988". Lochnessinvestigation.org. Retrieved 28 May 2009. 
+^ Dick Raynor. "Video by Dick Raynor". Lochnessinvestigation.org. Retrieved 28 May 2009. 
+^ Daily Mirror 5 October 1934
+^ a b Costello, Peter (1975). In Search of Lake Monsters. Berkley Publishing Group. ISBN 978-0-425-02935-0. 
+^ Yancey, Paul H (October 2009). "Marine". pp. Epipelagic Animals. Retrieved 7 April 2007. 
+^ Daily Mirror 17 August 1933 page 12
+^ Burton, Maurice (1982). "The Loch Ness Saga". New Scientist. 06-24: 872. 
+^ Burton, Maurice (1982). "The Loch Ness Saga". New Scientist. 07-01: 41–42. 
+^ Burton, Maurice (1982). "The Loch Ness Saga". New Scientist. 07-08: 112–113. 
+^ "Mystery Animals of Ireland". Retrieved 8 April 2007. 
+^ "Movement of Water in Lakes: Long standing waves (Seiches)". Biology.qmul.ac.uk. Retrieved 28 May 2009. 
+^ "Standing Wave Formation". Glenbrook.k12.il.us. Archived from the original on 27 May 2008. Retrieved 28 May 2009. 
+^ Dick Raynor. "Boat Wakes Mistaken For Monsters". Lochnessinvestigation.org. Retrieved 28 May 2009. 
+^ W. H. Lehn (1979) Science vol 205. No. 4402 pages 183–185 "Atmospheric Refraction and Lake Monsters"
+^ Lehn, W. H.; Schroeder, I. (1981). "The Norse merman as an optical phenomenon". Nature 289 (5796): 362. doi:10.1038/289362a0. 
+^ "Seismotectonic Origins Of The Monster Of Loch Ness". Gsa.confex.com. Retrieved 28 May 2009. 
+^ Sjögren, Bengt (1980). Berömda vidunder (in Swedish). Settern. ISBN 91-7586-023-6. 
+^ Aberdeen Weekly Journal, Wednesday, 11 June 1879 "This kelpie had been in the habit of appearing as a beautiful black horse… No sooner had the weary unsuspecting victim seated himself in the saddle than away darted the horse with more than the speed of the hurricane and plunged into the deepest part of Loch Ness, and the rider was never seen again."
+^ Tim Dinsdale (1975) Project Water Horse. The true story of the monster quest at Loch Ness (Routledge & Kegan Paul) ISBN 0-7100-8030-1
+^ Watson, Roland,The Water Horses of Loch Ness (2011) ISBN 1-4611-7819-3
+^ "Invention of Loch Ness monster". The Irish Times. 1 January 2009. Archived from the original on Jan. 1, 2009. 
+^ "Birth of a legend: Famous Photo Falsified?". Pbs.org. Retrieved 28 May 2009. 
+^ The Independent. Tales of Nessie. Some of the best April Fools' hoaxes. Retrieved 6 April 2011.
+^ "Loch Ness monster: The Ultimate Experiment". Crawley-creatures.com. Archived from the original on 3 May 2008. Retrieved 28 May 2009. 
+^ "Nessie swims in Loch for TV Show". BBC News. 16 August 2005. Retrieved 12 August 2012. 
+^ "Loch Ness Monster's tooth found?". Worldnetdaily.com. 10 June 2005. Retrieved 28 May 2009. 
+^ "Creature of Loch Ness Caught on tape! video on YouTube". YouTube. 26 May 2007. Retrieved 28 April 2010. 
+^ R. J. Binns (1983) The Loch Ness Mystery Solved, page 22
+^ Rick Emmer, Loch Ness Monster: Fact or Fiction?, page 62 (Infobase Publishing, 2010). ISBN 978-0-7910-9779-3
+^ "Were Dinosaurs Endotherms or Ectotherms?". BBC. 2001. Retrieved 8 April 2007. 
+^ "Why the Loch Ness Monster is no plesiosaur". New Scientist 2576: 17. 2006. Retrieved 8 April 2007. 
+^ "A Geological View of Loch Ness and Area". 
+^ Roy P. Mackal (1976) The Monsters of Loch Ness, page 138
+^ The Times 9 December 1933, page 14
+^ R. P. Mackal (1976) The Monsters of Loch Ness, pages 138–9, 211–213
+^ Holiday, F.T. The Great Orm of Loch Ness (Faber and Faber 1968)
+^ R. P. Mackal (1976) The Monsters of Loch Ness pages 141–142, chapter XIV
+^ Coleman, Loren & Huyghe, Patrick. (2003). The Field Guide To Lake Monsters, Sea Serpents, And Other Mystery Denizens Of The Deep. Retrieved 16 May 2012.
+
+
+Bibliography
+
+Bauer, Henry H. The Enigma of Loch Ness: Making Sense of a Mystery, Chicago, University of Illinois Press, 1986
+Binns, Ronald, The Loch Ness Mystery Solved, Great Britain, Open Books, 1983, ISBN 0-7291-0139-8 and Star Books, 1984, ISBN 0-352-31487-7
+Burton, Maurice, The Elusive Monster: An Analysis of the Evidence from Loch Ness, London, Rupert Hart-Davis, 1961
+Campbell, Steuart. The Loch Ness Monster – The Evidence, Buffalo, New York, Prometheus Books, 1985.
+Dinsdale, Tim, Loch Ness Monster, London, Routledge & Kegan Paul, 1961, SBN 7100 1279 9
+Harrison, Paul The encyclopaedia of the Loch Ness Monster, London, Robert Hale, 1999
+Gould, R. T., The Loch Ness Monster and Others, London, Geoffrey Bles, 1934 and paperback, Lyle Stuart, 1976, ISBN 0-8065-0555-9
+Holiday, F. W., The Great Orm of Loch Ness, London, Faber & Faber, 1968, SBN 571 08473 7
+Mackal, Roy P., The Monsters of Loch Ness, London, Futura, 1976, ISBN 0-86007-381-5
+Whyte, Constance, More Than a Legend: The Story of the Loch Ness Monster, London, Hamish Hamilton, 1957
+
+Documentary
+
+Secrets of Loch Ness. Produced & Directed by Christopher Jeans (ITN/Channel 4/A&E Network, 1995).
+
+External links
+
+
+
+Wikimedia Commons has media related to Loch Ness Monster.
+
+
+
+Nova Documentary On Nessie
+Smithsonian Institution
+Skeptic's Dictionary: Loch Ness "monster"
+Darnton, John (20 March 1994). "Loch Ness: Fiction Is Stranger Than Truth". The New York Times. Retrieved 29 May 2009. 
+Photos of Nessie and other cryptids
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Cryptozoology and cryptobotany
+
+
+
+
+
+
+
+
+
+
+ 
+Overview
+
+
+
+
+
+
+
+
+
+
+
+Core topics
+
+
+
+
+Cryptid
+List of cryptids
+Zoology
+Botany
+Megafauna discovered in modern times
+Pseudoscience
+
+
+
+
+
+
+
+
+
+Cryptozoologists
+
+
+
+
+Bernard Heuvelmans
+Karl Shuker
+Jonathan Downes
+Jon-Erik Beckjord
+John Bindernagel
+Richard Freeman
+Loren Coleman
+Alexandr Mikhailovych Kondratov
+Roy Mackal
+Ivan T. Sanderson
+Organizations
+
+
+
+
+
+
+
+
+
+Books and television
+
+
+
+
+Animal X
+Arthur C. Clarke's Mysterious World
+Beast Hunter
+Beast Legends
+Destination Truth
+Fact or Faked: Paranormal Files
+Fortean TV
+In Search of...
+Is It Real?
+Lost Tapes
+MonsterQuest
+On the Track of Unknown Animals
+Sasquatch: Legend Meets Science
+The X Creatures
+The Secret Saturdays
+Weird Travels
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Zoological cryptids
+
+
+
+
+
+
+
+
+
+
+
+Africa
+
+
+
+
+Adjule
+Agogwe
+Emela-ntouka
+Ennedi tiger
+Gambo
+Grootslang
+Gustave
+Inkanyamba
+Kongamato
+Mbielu-Mbielu-Mbielu
+Mokele-mbembe
+Malawi terror beast
+Mamlambo
+Muhuru
+Nandi Bear
+Ngoubou
+Olitiau
+Nguma-monene
+Popobawa
+Salawa
+Trunko
+Zanzibar Leopard
+
+
+
+
+
+
+
+
+
+Asia
+
+
+
+
+Ahool
+Akkorokamui
+Almas
+Amomongo
+Ayia Napa sea monster
+Barmanou
+Batutut
+Bergman's Bear
+Brosno dragon
+Bukit Timah Monkey Man
+Buru
+Cat-fox
+Devil Bird
+Hibagon
+Issie
+Kappa
+Kting Voar
+Kussie
+Lake Tianchi Monster
+Lake Van Monster
+Maltese Tiger
+Mongolian Death Worm
+Monkey-man of Delhi
+Orang Pendek
+Phaya Naga
+Qilin
+Ropen
+Sigbin
+Sarimanok
+Sumxu
+Tsuchinoko
+Veo
+Yeren
+Yeti
+
+
+
+
+
+
+
+
+
+Australasia-
+Oceania
+
+
+
+
+Amomongo
+Blue Mountains panther
+Bunyip
+Ebu Gogo
+Four Mile Globster
+Gippsland phantom cat
+Globster
+Manaul
+Megalania
+Moehau
+Zuiyo-maru carcass
+New Zealand Globster
+Queensland Tiger
+Siyokoy
+Tasmanian Globster
+Thylacoleo
+Tikbalang
+Waitoreke
+Yowie
+
+
+
+
+
+
+
+
+
+Europe
+
+
+
+
+Afanc
+Ayia Napa sea monster
+Beast of Gévaudan
+Bishop-fish
+British big cats
+Canvey Island Monster
+Dahu
+Dobhar-chú
+Each uisge
+Eachy
+Elwetritsch
+Fear liath
+Fish-man of Liérganes
+Giglioli's Whale
+Hebrides Blob
+Jenny Haniver
+Kellas Cat
+Kraken
+Lagarfljót Worm
+Lariosauro
+Lindworm
+Loch Ness Monster
+Morag
+Morgawr
+Muc-sheilch
+Owlman
+Sea monk
+Sea serpent
+Selma
+Skvader
+Storsjöodjuret
+Stronsay Beast
+Tatzelwurm
+Wolpertinger
+
+
+
+
+
+
+
+
+
+North
+America
+
+
+
+
+Altamaha-ha
+Bear Lake Monster
+Beast of Bladenboro
+Beast of Bray Road
+Beast of Busco
+Bermuda Blob
+Bermuda Blob 2
+Bessie
+Bigfoot
+Cadborosaurus willsi
+Champ
+Chessie
+Chupacabra
+Crawfordsville monster
+Dover Demon
+Flatwoods monster
+Fouke Monster
+Goatman
+Grassman
+Hodag
+Homo gardarensis
+Honey Island Swamp monster
+Hoop snake
+Huay Chivo
+Igopogo
+Iliamna Lake Monster
+Jersey Devil
+Kingstie
+Lake Worth Monster
+Lizard Man of Scape Ore Swamp
+Loveland frog
+Lusca
+MacFarlane's bear
+Manipogo
+Melon heads
+Michigan Dogman
+Minnesota Iceman
+Momo the Monster
+Montauk Monster
+Mothman
+Mussie
+Nantucket Blob
+Newfoundland Blob
+Nuk-luk
+Ogopogo
+Old Yellow Top
+Ozark Howler
+Panama Creature
+Pope Lick Monster
+Shunka Warakin
+Sidehill gouger
+Skunk Ape
+St. Augustine Monster
+Tahoe Tessie
+Thunderbird
+Trinity Alps giant salamander
+Tsul 'Kalu
+Turtle Lake Monster
+Waheela
+Wampus cat
+
+
+
+
+
+
+
+
+
+South
+America
+
+
+
+
+Ameranthropoides loysi
+Andean Wolf
+Bloop
+Cherufe
+Chilean Blob
+Chupacabra
+Giant anaconda
+Mapinguari
+Minhocão
+Mono Grande
+Mylodon
+Nahuelito
+Peuchen
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Botanical cryptids
+
+
+
+
+
+
+
+
+
+Raskovnik
+Man-eating tree
+Umdhlebi
+Vegetable Lamb of Tartary
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Celtic mythology series
+
+
+
+
+
+
+
+
+Creatures in Scottish mythology and folklore
+
+
+
+
+
+
+
+Beasts
+
+
+
+Gigelorum
+Loch Ness Monster
+Monster of Glamis
+Wulver
+
+
+
+
+
+
+
+
+Birds
+
+
+
+Boobrie
+
+
+
+
+
+
+
+
+Fairies/Spirits
+
+
+
+Aos Sí
+Bean nighe
+Bodach
+Brownie
+Caoineag
+Cat sìth
+Changeling
+Cù Sìth
+Dunnie
+Each-uisge
+Ghillie Dhu
+Glaistig
+Nuckelavee
+Selkie
+Seonaidh
+Shellycoat
+Wirry-cow
+
+
+
+
+
+
+
+
+Fish
+
+
+
+Ceasg
+
+
+
+
+
+
+
+
+Gnomes
+
+
+
+Peck
+
+
+
+
+
+
+
+
+Goblins
+
+
+
+Bauchan
+
+
+
+
+
+
+
+
+ 
+
+
+ 
+NewPP limit report
+CPU time usage: 3.944 seconds
+Real time usage: 4.121 seconds
+Preprocessor visited node count: 16419/1000000
+Preprocessor generated node count: 48289/1500000
+Post‐expand include size: 249201/2048000 bytes
+Template argument size: 31998/2048000 bytes
+Highest expansion depth: 28/40
+Expensive parser function count: 4/500
+Lua time usage: 0.370s
+Lua memory usage: 2.78 MB
+
+
+ Saved in parser cache with key enwiki:pcache:idhash:17877-0!*!0!!en!4!* and timestamp 20130930051744 
+								
+				Retrieved from "http://en.wikipedia.org/w/index.php?title=Loch_Ness_Monster&oldid=575098844"				
+												Categories: Culture in InvernessScottish loch cryptidsVisitor attractions in Highland (council area)Legendary reptilesScottish legendary creaturesLoch Ness MonsterHidden categories: Pages with citations having bare URLsWikipedia indefinitely semi-protected pagesArticles containing Scottish Gaelic-language textAll articles with unsourced statementsArticles with unsourced statements from May 2012All articles with specifically marked weasel-worded phrasesArticles with specifically marked weasel-worded phrases from May 2012Use dmy dates from October 2012Use British English from April 2012												
+							
+		
+		
+			Navigation menu
+			
+				
+	Personal tools
+	
+Create accountLog in	
+
+				
+					
+	Namespaces
+	
+					Article
+					Talk
+			
+
+
+	
+		
+	Variants
+	
+		
+					
+	
+
+				
+				
+					
+	Views
+	
+					Read
+					View source
+					View history
+			
+
+
+	Actions
+	
+		
+					
+	
+
+
+	Search
+	
+				
+																				
+		
+	
+
+				
+			
+			
+					
+				
+	Navigation
+	
+		
+			Main page
+			Contents
+			Featured content
+			Current events
+			Random article
+			Donate to Wikipedia
+		
+	
+
+
+	Interaction
+	
+		
+			Help
+			About Wikipedia
+			Community portal
+			Recent changes
+			Contact page
+		
+	
+
+
+	Toolbox
+	
+		
+			What links here
+			Related changes
+			Upload file
+			Special pages
+			Permanent link
+			Page information
+			Data item
+Cite this page		
+	
+
+
+	Print/export
+	
+		
+			Create a book
+			Download as PDF
+			Printable version
+		
+	
+
+
+	Languages
+	
+		
+			العربية
+			Български
+			Català
+			Česky
+			Dansk
+			Deutsch
+			Eesti
+			Ελληνικά
+			Español
+			Esperanto
+			Euskara
+			فارسی
+			Français
+			Galego
+			한국어
+			हिन्दी
+			Hrvatski
+			Bahasa Indonesia
+			Italiano
+			עברית
+			ქართული
+			Latviešu
+			Lietuvių
+			Magyar
+			Македонски
+			مصرى
+			Bahasa Melayu
+			Nederlands
+			日本語
+			Norsk bokmål
+			Occitan
+			Polski
+			Português
+			Română
+			Русский
+			Scots
+			Simple English
+			Slovenčina
+			Slovenščina
+			Српски / srpski
+			Srpskohrvatski / српскохрватски
+			Suomi
+			Svenska
+			Tagalog
+			ไทย
+			Türkçe
+			Українська
+			Vèneto
+			Tiếng Việt
+			粵語
+			中文
+			
+			Edit links
+		
+	
+
+			
+		
+		
+							
+											 This page was last modified on 30 September 2013 at 05:17.
+											Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. 
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+									
+							
+											Privacy policy
+											About Wikipedia
+											Disclaimers
+											Contact Wikipedia
+											Developers
+											Mobile view
+									
+										
+					
+						
+					
+					
+						
+					
+				
+						
+		
+		
+
+
+ Served by mw1065 in 0.235 secs. 
+	
+if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Loch_Ness_Monster","wgTitle":"Loch Ness Monster","wgCurRevisionId":575098844,"wgRevisionId":575098844,"wgArticleId":17877,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Pages with citations having bare URLs","Wikipedia indefinitely semi-protected pages","Articles containing Scottish Gaelic-language text","All articles with unsourced statements","Articles with unsourced statements from May 2012","All articles with specifically marked weasel-worded phrases","Articles with specifically marked weasel-worded phrases from May 2012","Use dmy dates from October 2012","Use British English from April 2012","Culture in Inverness","Scottish loch cryptids","Visitor attractions in Highland (council area)","Legendary reptiles","Scottish legendary creatures","Loch Ness Monster"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Loch_Ness_Monster","wgIsProbablyEditable":false,"wgRestrictionEdit":["autoconfirmed"],"wgRestrictionMove":["autoconfirmed"],"wgVectorEnabledModules":{"collapsiblenav":true,"experiments":true},"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"templateEditor":false,"templates":false,"preview":false,"previewDialog":false,"publish":false,"toc":false},"wgArticleFeedbackv5Permissions":{"aft-reader":true,"aft-member":false,"aft-editor":false,"aft-monitor":false,"aft-administrator":false,"aft-oversighter":false,"aft-noone":false},"wgVisualEditor":{"isPageWatched":false,"magnifyClipIconURL":"//bits.wikimedia.org/static-1.22wmf19/skins/common/images/magnify-clip.png","pageLanguageCode":"en","pageLanguageDir":"ltr"},"wikilove-recipient":"","wikilove-anon":0,"wgGuidedTourHelpGuiderUrl":"Help:Guided tours/guider","wgULSAcceptLanguageList":["pt-br","pt","en-us","en"],"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia","aftv5Article":{"id":17877,"title":"Loch Ness Monster","namespace":0,"categories":["All articles with specifically marked weasel-worded phrases","All articles with unsourced statements","Articles containing Scottish Gaelic-language text","Articles with specifically marked weasel-worded phrases from May 2012","Articles with unsourced statements from May 2012","Culture in Inverness","Legendary reptiles","Loch Ness Monster","Pages with citations having bare URLs","Scottish legendary creatures","Scottish loch cryptids","Use British English from April 2012","Use dmy dates from October 2012","Visitor attractions in Highland (council area)","Wikipedia indefinitely semi-protected pages"],"permissionLevel":"aft-noone"},"wgWikibaseItemId":"Q49658"});
+}if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":false,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,
+"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"useeditwarning":1,"prefershttps":1,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"vector-simplesearch":1,"vector-collapsiblenav":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"aftv5-last-filter":null,"visualeditor-enable":0,"visualeditor-enable-experimental":0,"visualeditor-betatempdisable":0,"wikilove-enabled":1,"echo-subscriptions-web-page-review":true,"echo-subscriptions-email-page-review":false,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"echo-notify-show-link":true,"echo-show-alert":true,"echo-email-frequency":0,"echo-email-format":"html","echo-subscriptions-email-system":true,"echo-subscriptions-web-system":true,"echo-subscriptions-email-other":false,"echo-subscriptions-web-other":true,"echo-subscriptions-email-edit-user-talk":false,"echo-subscriptions-web-edit-user-talk":true,
+"echo-subscriptions-email-reverted":false,"echo-subscriptions-web-reverted":true,"echo-subscriptions-email-article-linked":false,"echo-subscriptions-web-article-linked":false,"echo-subscriptions-email-mention":false,"echo-subscriptions-web-mention":true,"echo-subscriptions-web-edit-thank":true,"echo-subscriptions-email-edit-thank":false,"gettingstarted-task-toolbar-show-intro":true,"uls-preferences":"","language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs446":false,"searchNs447":false
+,"searchNs710":false,"searchNs711":false,"searchNs828":false,"searchNs829":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-mySandbox":1,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:156d8fe0ae17f8afd74198057563e45d */
+}if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","ext.visualEditor.viewPageTarget.init","ext.wikimediaShopLink.core","ext.uls.init","ext.uls.interface","wikibase.client.init","ext.centralNotice.bannerController","skins.vector.js"]);
+}/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}if(window.mw){
+mw.loader.load(["mediawiki.action.view.postEdit","mobile.desktop","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.cite","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","mw.MwEmbedSupport.style","ext.vector.collapsibleNav","ext.articleFeedbackv5.startup","ext.gettingstarted.logging","ext.gettingstarted.openTask","schema.HttpsSupport","ext.coreEvents.httpsSupport","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","mw.PopUpMediaTransform"],null,true);
+}

@@ -1,0 +1,397 @@
+
+
+
+Cardiff Giant - Wikipedia, the free encyclopedia
+
+
+
+
+
+
+
+
+
+
+
+
+a:lang(ar),a:lang(ckb),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:0de201fdea5d684523607ed88007b127 */
+
+
+
+
+[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.22wmf18/skins/vector/csshover.min.htc")}</style><![endif]
+
+		
+		
+		
+			
+			
+						 CentralNotice 
+						Cardiff Giant
+			
+								From Wikipedia, the free encyclopedia
+								
+												
+					Jump to:					navigation, 					search
+				
+				
+
+
+
+The Cardiff Giant being exhumed in October 1869
+
+
+
+
+
+
+The Cardiff Giant on display at the Bastable in Syracuse, NY circa 1869.
+
+
+The Cardiff Giant was one of the most famous hoaxes in United States history. It was a 10-foot (3.0 m) tall purported "petrified man" uncovered on October 16, 1869, by workers digging a well behind the barn of William C. "Stub" Newell in Cardiff, New York. Both it and an unauthorized copy made by P.T. Barnum are still on display.
+
+
+Contents
+
+
+1 History
+
+1.1 Creation and discovery
+1.2 Exhibition and exposure as fraud
+
+
+2 Current resting place
+3 Imitators
+4 Popular culture
+5 References
+6 Further reading
+7 External links
+
+
+History[edit]
+Creation and discovery[edit]
+The giant was the creation of a New York tobacconist named George Hull. Hull, an atheist, decided to create the giant after an argument at a Methodist revival meeting about the passage in Genesis 6:4 stating that there were giants who once lived on Earth.[1]
+The idea of a petrified man did not originate with Hull, however. In 1858 the newspaper Alta California had published a bogus letter claiming that a prospector had been petrified when he had drunk a liquid within a geode. Some other newspapers also had published stories of supposedly petrified people.[2]
+Hull hired men to carve out a 10-foot-4.5-inch-long (3.2 m) block of gypsum in Fort Dodge, Iowa, telling them it was intended for a monument to Abraham Lincoln in New York. He shipped the block to Chicago, where he hired Edward Burghardt, a German stonecutter, to carve it into the likeness of a man and swore him to secrecy.
+Various stains and acids were used to make the giant appear to be old and weathered, and the giant's surface was beaten with steel knitting needles embedded in a board to simulate pores. In November 1868, Hull transported the giant by rail to the farm of William Newell, his cousin. By then, he had spent US$2,600 on the hoax.
+Nearly a year later, Newell hired Gideon Emmons and Henry Nichols, ostensibly to dig a well, and on October 16, 1869 they found the giant. One of the men reportedly exclaimed, "I declare, some old Indian has been buried here!"[2]
+Exhibition and exposure as fraud[edit]
+Newell set up a tent over the giant and charged 25 cents for people who wanted to see it. Two days later he increased the price to 50 cents.[2] People came by the wagon load.
+Archaeological scholars pronounced the giant a fake, and some geologists even noticed that there was no good reason to try to dig a well in the exact spot the giant had been found. Yale palaeontologist Othniel C. Marsh called it "a most decided humbug". Some Christian fundamentalists and preachers, however, defended its authenticity.[3]
+Eventually, Hull sold his part-interest for $23,000 (equivalent to $418,000 in 2013) to a syndicate of five men headed by David Hannum. They moved it to Syracuse, New York, for exhibition. The giant drew such crowds that showman P. T. Barnum offered $50,000 for the giant. When the syndicate turned him down, he hired a man to model the giant's shape covertly in wax and create a plaster replica. He put his giant on display in New York, claiming that his was the real giant, and the Cardiff Giant was a fake.[2]
+As the newspapers reported Barnum's version of the story, David Hannum was quoted as saying, "There's a sucker born every minute" in reference to spectators paying to see Barnum's giant. Over time, the quotation has been misattributed to Barnum himself.
+Hannum sued Barnum for calling his giant a fake, but the judge told him to get his giant to swear on his own genuineness in court if he wanted a favorable injunction.[2]
+On December 10, Hull confessed to the press. On February 2, 1870 both giants were revealed as fakes in court. The judge ruled that Barnum could not be sued for calling a fake giant a fake.
+Current resting place[edit]
+The Cardiff Giant appeared in the 1901 Pan-American Exposition, but did not attract much attention.[2]
+An Iowa publisher bought it later to adorn his basement rumpus room as a coffee table and conversation piece. In 1947 he sold it to the Farmers' Museum in Cooperstown, New York, where it is still on display.
+The owner of Marvin's Marvelous Mechanical Museum, a coin-operated game arcade and museum of oddities in Farmington Hills, Michigan, claims that the replica on display there is Barnum's replica.[4][5]
+Imitators[edit]
+The Cardiff Giant has inspired a number of similar hoaxes.
+
+In 1876 The Solid Muldoon emerged in Beulah, Colorado, and was exhibited at 50 cents a ticket. There was also a rumor that Barnum had offered to buy it for $20,000. One employer later revealed that this was also a creation of George Hull, aided by Willian Conant. The Solid Muldoon was made of clay, ground bones, meat, rock dust, and plaster.
+In 1877, the owner of Taughannock House hotel on Cayuga Lake, New York, hired men to create a fake petrified man and place it where the workers who were expanding the hotel would dig it up. One of the men who had buried the giant later revealed the truth when drunk.
+In 1892 Jefferson "Soapy" Smith, de facto ruler of the town of Creede, Colorado, purchased a petrified man for $3,000 and exhibited it for 10 cents a peek. Soapy's profits did not come from displaying "McGinty," as he named it, but rather from distractions, such as the shell game set up to entertain the crowds as they waited in line. He also profited by selling interests in the exhibition. This was a real human body, intentionally injected with chemicals for preservation and petrification. Soapy displayed McGinty from 1892 to 1895 throughout Colorado and the northwest United States.
+In 1897, a petrified man found downriver from Fort Benton, Montana, was claimed by promoters to be the remains of former territorial governor and U.S. Civil War General Thomas Francis Meagher. Meagher had drowned in the Missouri River in 1867. The petrified man was displayed across Montana as a novelty and even exhibited in New York and Chicago.[6]
+
+Popular culture[edit]
+
+In 1870, Mark Twain wrote "A Ghost Story" in which the ghost of the Cardiff Giant appears in the hotel room in Manhattan to demand that he be reburied. The giant is so confused that he haunts Barnum's plaster copy of himself.[7]
+In 1871, L. Frank Baum published a poem titled "The True Origin of the Cardiff Giant" in his private newspaper, The Rose Lawn Home Journal, vol. 1, #3.[8]
+George Auger, a Ringling Brothers circus giant, used the stage name "Cardiff Giant". He was to act in Harold Lloyd's 1923 comedy film Why Worry?, but died shortly after filming started, sparking a nationwide search for a replacement.
+H.P. Lovecraft's short story "Out of the Aeons" mentions the Cardiff Giant, contrasting it with the real mummies on display in the fictional Cabot Museum of Archaeology, Boston, Massachusetts.[9]
+The 2001 film Made, was produced by the production company, "Cardiff Giant," the same name that Vince Vaughn and Jon Favreau's characters are told to check in under when arriving in New York.
+In 2011, artist Ty Marshal created a full-sized Cardiff Giant replica made of hypertufa for a celebration in Syracuse, New York on the 142nd anniversary of the discovery of the giant (October 16, 2011).[10]
+
+References[edit]
+
+Notes
+
+
+
+^ Magnusson 2006, p. 188
+^ a b c d e f Rose, Mark (November/December 2005), "When Giants Roamed the Earth", Archaeology (Archaeological Institute of America) 58 (6), retrieved April 26, 2005 
+^ Cardiff Giant, Geological Hall, Albany
+^ Nicklell, Joe (May/June 2009), "Cardiff's Giant Hoax", Skeptical Inquirer 33 (3) 
+^ "Marvin's Marvelous Mechanical Museum". RoadsideAmerica.com. Retrieved January 16, 2013. 
+^ Kemmick, Ed. "'Petrified' man was big attraction in turn-of-the-last-century Montana" Billings Gazette, March 13, 2009
+^ Rizer, Fran (2013-04-01). "A Hoax of a Ghost Hoax". Hoaxes. Columbia, SC: SleuthSayers. 
+^ The True Origin Of The Cardiff Giant
+^ Lovecraft, H.P. and Heald, Hazel Out of the Aeons
+^ Syracuse.com: "This is no hoax, it's an artistic copy"
+
+
+
+Bibliography
+
+
+
+Magnusson, Magnus (2006), Fakers, Forgers & Phoneys, Edinburgh: Mainstream Publishing, ISBN 1-84596-190-0 
+
+
+Further reading[edit]
+
+Tribble, Scott (2009), A Colossal Hoax: The Giant From Cardiff that Fooled America, Rowman & Littlefield, ISBN 978-0-7425-6050-5 
+
+
+Jacobs, Harvey (1997), American Goliath, St. Martin's Press, ISBN 978-0312194383 
+
+External links[edit]
+
+P.T. Barnum Never Did Say...
+Photo of "discovery" site
+US Library of Congress photo of the giant
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+P. T. Barnum
+
+
+
+
+
+
+Acts and exhibits
+
+
+
+Admiral Dot
+Chang and Eng Bunker
+Cardiff Giant
+Fiji mermaid
+General Tom Thumb
+Joice Heth
+Fedor Jeftichew
+Jumbo
+Jenny Lind
+Middlebush Giant
+Isaac W. Sprague
+
+
+
+
+
+
+
+
+Associated articles
+
+
+
+Barnum (musical)
+Barnum's American Museum
+Barnum Museum
+Iranistan
+Moses Kimball
+Ringling Bros. and Barnum & Bailey Circus
+"There's a sucker born every minute"
+The Greatest Show on Earth
+
+
+
+
+
+
+
+
+
+
+ 
+NewPP limit report
+CPU time usage: 0.820 seconds
+Real time usage: 0.939 seconds
+Preprocessor visited node count: 1612/1000000
+Preprocessor generated node count: 9022/1500000
+Post‐expand include size: 19751/2048000 bytes
+Template argument size: 479/2048000 bytes
+Highest expansion depth: 25/40
+Expensive parser function count: 2/500
+Lua time usage: 0.055s
+Lua memory usage: 1.64 MB
+
+
+ Saved in parser cache with key enwiki:pcache:idhash:284880-0!*!0!!en!4!* and timestamp 20131001201049 
+								
+				Retrieved from "http://en.wikipedia.org/w/index.php?title=Cardiff_Giant&oldid=572075987"				
+												Categories: Hoaxes in scienceSideshow attractionsHoaxes in the United StatesArchaeological forgeries19th-century hoaxes												
+							
+		
+		
+			Navigation menu
+			
+				
+	Personal tools
+	
+Create accountLog in	
+
+				
+					
+	Namespaces
+	
+					Article
+					Talk
+			
+
+
+	
+		
+	Variants
+	
+		
+					
+	
+
+				
+				
+					
+	Views
+	
+					Read
+					Edit
+					View history
+			
+
+
+	Actions
+	
+		
+					
+	
+
+
+	Search
+	
+				
+																				
+		
+	
+
+				
+			
+			
+					
+				
+	Navigation
+	
+		
+			Main page
+			Contents
+			Featured content
+			Current events
+			Random article
+			Donate to Wikipedia
+		
+	
+
+
+	Interaction
+	
+		
+			Help
+			About Wikipedia
+			Community portal
+			Recent changes
+			Contact page
+		
+	
+
+
+	Toolbox
+	
+		
+			What links here
+			Related changes
+			Upload file
+			Special pages
+			Permanent link
+			Page information
+			Data item
+Cite this page		
+	
+
+
+	Print/export
+	
+		
+			Create a book
+			Download as PDF
+			Printable version
+		
+	
+
+
+	Languages
+	
+		
+			Deutsch
+			Español
+			Bahasa Indonesia
+			Italiano
+			Lietuvių
+			Polski
+			Русский
+			Suomi
+			
+			Edit links
+		
+	
+
+			
+		
+		
+							
+											 This page was last modified on 8 September 2013 at 16:54.
+											Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. 
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+									
+							
+											Privacy policy
+											About Wikipedia
+											Disclaimers
+											Contact Wikipedia
+											Developers
+											Mobile view
+									
+										
+					
+						
+					
+					
+						
+					
+				
+						
+		
+		
+
+
+ Served by mw1177 in 0.152 secs. 
+	
+if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Cardiff_Giant","wgTitle":"Cardiff Giant","wgCurRevisionId":572075987,"wgArticleId":284880,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Hoaxes in science","Sideshow attractions","Hoaxes in the United States","Archaeological forgeries","19th-century hoaxes"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Cardiff_Giant","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgVectorEnabledModules":{"collapsiblenav":true,"experiments":true},"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"templateEditor":false,"templates":false,"preview":false,"previewDialog":false,"publish":false,"toc":false},"wgArticleFeedbackv5Permissions":{"aft-reader":true,"aft-member":false,"aft-editor":false,"aft-monitor":false,"aft-administrator":false,"aft-oversighter":false,"aft-noone":false},"wgVisualEditor":{"isPageWatched":false,"magnifyClipIconURL":"//bits.wikimedia.org/static-1.22wmf18/skins/common/images/magnify-clip.png","pageLanguageCode":"en","pageLanguageDir":"ltr"},"wikilove-recipient":"","wikilove-anon":0,"wgGuidedTourHelpGuiderUrl":"Help:Guided tours/guider","wgULSAcceptLanguageList":["es-es","es","en-us","en"],"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia","aftv5Article":{"id":284880,"title":"Cardiff Giant","namespace":0,"categories":["19th-century hoaxes","Archaeological forgeries","Hoaxes in science","Hoaxes in the United States","Sideshow attractions"],"permissionLevel":false},"wgWikibaseItemId":"Q1035725"});
+}if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":false,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,
+"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"useeditwarning":1,"prefershttps":1,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"vector-simplesearch":1,"vector-collapsiblenav":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"aftv5-last-filter":null,"visualeditor-enable":0,"visualeditor-enable-experimental":0,"visualeditor-betatempdisable":0,"wikilove-enabled":1,"echo-subscriptions-web-page-review":true,"echo-subscriptions-email-page-review":false,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"echo-notify-show-link":true,"echo-show-alert":true,"echo-email-frequency":0,"echo-email-format":"html","echo-subscriptions-email-system":true,"echo-subscriptions-web-system":true,"echo-subscriptions-email-other":false,"echo-subscriptions-web-other":true,"echo-subscriptions-email-edit-user-talk":false,"echo-subscriptions-web-edit-user-talk":true,
+"echo-subscriptions-email-reverted":false,"echo-subscriptions-web-reverted":true,"echo-subscriptions-email-article-linked":false,"echo-subscriptions-web-article-linked":false,"echo-subscriptions-email-mention":false,"echo-subscriptions-web-mention":true,"echo-subscriptions-web-edit-thank":true,"echo-subscriptions-email-edit-thank":false,"gettingstarted-task-toolbar-show-intro":true,"uls-preferences":"","language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs446":false,"searchNs447":false
+,"searchNs710":false,"searchNs711":false,"searchNs828":false,"searchNs829":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-mySandbox":1,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:156d8fe0ae17f8afd74198057563e45d */
+}if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","ext.visualEditor.viewPageTarget.init","ext.wikimediaShopLink.core","ext.uls.init","ext.uls.interface","wikibase.client.init","ext.centralNotice.bannerController","skins.vector.js"]);
+}/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}if(window.mw){
+mw.loader.load(["mobile.desktop","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.cite","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","mw.MwEmbedSupport.style","ext.vector.collapsibleNav","ext.articleFeedbackv5.startup","ext.gettingstarted.logging","ext.gettingstarted.openTask","schema.HttpsSupport","ext.coreEvents.httpsSupport","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","mw.PopUpMediaTransform"],null,true);
+}

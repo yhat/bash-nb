@@ -1,0 +1,352 @@
+
+
+
+Ammosaurus - Wikipedia, the free encyclopedia
+
+
+
+
+
+
+
+
+
+
+
+
+a:lang(ar),a:lang(ckb),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:0de201fdea5d684523607ed88007b127 */
+
+
+
+
+[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.22wmf19/skins/vector/csshover.min.htc")}</style><![endif]
+
+		
+		
+		
+			
+			
+						 CentralNotice 
+						Ammosaurus
+			
+								From Wikipedia, the free encyclopedia
+								
+												
+					Jump to:					navigation, 					search
+				
+				
+
+
+Ammosaurus
+Temporal range: Early-Middle Jurassic
+
+
+
+
+
+Illustration of the foot bones
+
+
+Scientific classification 
+
+
+Kingdom:
+Animalia
+
+
+Phylum:
+Chordata
+
+
+Clade:
+Sauropsida
+
+
+Clade:
+Dinosauria
+
+
+Suborder:
+†Sauropodomorpha
+
+
+Clade:
+†Anchisauria
+
+
+Genus:
+†Ammosaurus
+Marsh, 1891
+
+
+Species:
+† A. major
+
+
+Binomial name
+
+
+Ammosaurus major
+(Marsh, 1889)
+
+
+Synonyms
+
+
+
+
+Anchisaurus major Marsh, 1889
+
+
+
+
+
+Ammosaurus (/ˌæmɵˈsɔrəs/; "sand lizard") is a genus of sauropodomorph dinosaur from the Early and Middle Jurassic Period of North America. At 4 meters (13 feet) in length, it was small compared to some other members of its suborder, which included the largest animals ever to walk the Earth. It was a versatile animal, able to move both bipedally and quadrupedally, and may have been omnivorous.
+
+
+Contents
+
+
+1 Naming
+
+1.1 Synonym with Anchisaurus?
+
+
+2 Fossil discoveries
+
+2.1 Ammosaurus outside Connecticut
+
+
+3 References
+
+
+Naming[edit]
+The generic name Ammosaurus is derived from the Greek words "ἄμμος" ("ammos" as "sandy ground") and "sauros" ("lizard"), referring to the sandstone in which it was found and its reptilian nature. There is one currently valid species (Ammosaurus major), which is so named because it is larger than Anchisaurus, of which it was originally considered a second species, Anchisaurus major. Famous American paleontologist Othniel Charles Marsh created this specific name in 1889. In 1891, Marsh created the new genus Ammosaurus for this species. He subsequently named another species of Anchisaurus in 1892: Anchisaurus solus, based on a juvenile specimen, YPM 209, from the same quarry Ammosaurus major was found in. In 1932 Friedrich von Huene renamed this to Ammosaurus solus. Scientists now consider it synonymous with Ammosaurus major.
+Synonym with Anchisaurus?[edit]
+The relationships of Ammosaurus with other dinosaurs are highly uncertain at this time. It is an early member of the suborder Sauropodomorpha and is most closely related to Anchisaurus, with which it may actually be synonymous. Different paleontologists consider Anchisaurus to be either a basal prosauropod (Galton & Upchurch, 2004), a basal sauropod (Yates & Kitching, 2003; Yates, 2004), or a sauropodomorph more derived than prosauropods but outside of Sauropoda.[1]
+Marsh originally described Ammosaurus major as Anchisaurus major, although he removed it to its own new genus only two years later. However, some recent studies have suggested that Ammosaurus and Anchisaurus are the same animal after all (Sereno, 1999; Yates, 2004). Other scientists prefer to keep the two genera separate due to anatomical differences in the pelvis and hind foot, although the two animals are still considered sister taxa (Galton & Upchurch, 2004).
+Fossil discoveries[edit]
+Fossils of Ammosaurus were originally discovered in the Portland Formation of the Newark Supergroup in the U.S. state of Connecticut. This formation preserves an arid environment with strong wet and dry seasons, from the Pliensbachian through to Toarcian stages of the Early Jurassic Period, roughly 190 to 176 million years ago. The original specimens were recovered from a sandstone quarry, which was used in the construction of the South Manchester Bridge in Connecticut. In fact, the holotype specimen, YPM 208, was on 20 October 1884 discovered by quarry workers. Unfortunately, it consists of only the rear half of the skeleton, as the block containing the front half had already been installed in the bridge when Marsh procured the fossil. In August 1969, the bridge was demolished, and some Ammosaurus remains, later catalogued as YPM 6282, were recovered by a team organised by John Ostrom. Three other incomplete skeletons of different ages are also known from Connecticut, but there is no known skull (Weishampel & Young, 1996). Ammosaurus is still found in Bajocian stage deposits of North America, making it one of the few "prosauropod" genera to survive into the Middle Jurassic (Weishampel et al., 2004).
+Ammosaurus outside Connecticut[edit]
+Ammosaurus remains have been reported from other parts of North America, but may not represent the species A. major, if they even represent the genus at all.
+The Navajo Sandstone of Arizona is the same age as the Portland Formation, and has produced prosauropod remains that have been referred to as Ammosaurus (Galton, 1971). However, it is possible that these actually belong to the genus Massospondylus, otherwise known only from South Africa (Galton & Upchurch, 2004).
+In the eastern Canadian province of Nova Scotia, scientists have unearthed prosauropods from the McCoy Brook Formation, which is about 200 to 197 million years old, from the Early Jurassic Hettangian stage. The Nova Scotia material provides clues about the diet of these animals. A large number of gastroliths, stones swallowed to grind up plant material in the gut, were found in the abdomen, as well as bone from the skull of a small sphenodont, Clevosaurus. This indicates that these dinosaurs were omnivorous, with a diet mainly consisting of plants but with an occasional supplement of meat (Shubin et al., 1994). However, these remains have never been fully described or illustrated and are only tentatively referred to Ammosaurus. Further study may either confirm or falsify this hypothesis.
+References[edit]
+
+
+
+
+Dinosaurs portal
+
+
+
+
+
+^ Yates, Adam M. (in press). "A revision of the problematic sauropodomorph dinosaurs from Manchester, Connecticut and the status of Anchisaurus Marsh". Palaeontology 53 (4): 739–752. doi:10.1111/j.1475-4983.2010.00952.x. 
+
+
+
+Fedak, T. J. (2007). Description and evolutionary significance of the sauropodomorph dinosaurs from the early Jurassic (Hettangian) McCoy Brook Formation. Ph.D. dissertation. Halifax, Nova Scotia: Dalhousie University.
+Galton, P.M. (1971). "The prosauropod dinosaur Ammosaurus, the crocodile Postosuchus, and their bearing on the age of the Navajo Sandstone of Northeastern Arizona". Journal of Palaeontology 45: pp. 781–795.
+Galton, P.M.; P. Upchurch (2004). "Prosauropoda". In Weishampel, D.B., Dodson, P, & Osmolska, H. The Dinosauria (2nd ed.). Berkeley: University of California Press. pp. 232–258. 
+Marsh, O.C. (1889). "Notice of new American dinosaurs". American Journal of Science 3 (37): 331–336. 
+Marsh, O.C. (1891). "Notice of new vertebrate fossils". American Journal of Science 3 (42): 265–269. 
+Shubin, N.H.; P.E. Olson and H.-D. Sues (1994). "Early Jurassic small tetrapods from the McCoy Brook Formation of Nova Scotia, Canada". In Fraser, N.C. & Sues, H.-D. In the Shadow of Dinosaurs: Early Mesozoic Tetrapods. Cambridge: Cambridge University Press. pp. 244–250. 
+Weishampel, D.B. & Young, L.O. (1996). Dinosaurs of the East Coast. Baltimore: Johns Hopkins University Press. 275 pp.
+Weishampel, D.B., Dodson, P., Osmólska, H. (eds.) (2004). The Dinosauria, Second Edition. University of California Press., 861 pp.
+Yates, A. M.; Kitching, J. W. (2003). "The Earliest Known Sauropod Dinosaur and the First Steps towards Sauropod Locomotion". Proceedings: Biological Sciences 270 (1525): 1753–1758. doi:10.1098/rspb.2003.2417. JSTOR 3592241. PMC 1691423. PMID 12965005. 
+Yates, A. M. (2004). Anchisaurus polyzelus (Hitchcock): the smallest known sauropod dinosaur and the evolution of gigantism among sauropodomorph dinosaurs. Postilla 230: 1-58. OCLC 492650896
+
+
+
+ 
+NewPP limit report
+CPU time usage: 4.888 seconds
+Real time usage: 5.100 seconds
+Preprocessor visited node count: 27229/1000000
+Preprocessor generated node count: 40906/1500000
+Post‐expand include size: 63198/2048000 bytes
+Template argument size: 22281/2048000 bytes
+Highest expansion depth: 39/40
+Expensive parser function count: 0/500
+Lua time usage: 0.050s
+Lua memory usage: 1.74 MB
+
+
+ Saved in parser cache with key enwiki:pcache:idhash:3042393-0!*!0!!en!4!* and timestamp 20131002102343 
+								
+				Retrieved from "http://en.wikipedia.org/w/index.php?title=Ammosaurus&oldid=557846577"				
+												Categories: Jurassic dinosaursDinosaurs of North AmericaSauropodomorphaHidden categories: Articles with 'species' microformats												
+							
+		
+		
+			Navigation menu
+			
+				
+	Personal tools
+	
+Create accountLog in	
+
+				
+					
+	Namespaces
+	
+					Article
+					Talk
+			
+
+
+	
+		
+	Variants
+	
+		
+					
+	
+
+				
+				
+					
+	Views
+	
+					Read
+					Edit
+					View history
+			
+
+
+	Actions
+	
+		
+					
+	
+
+
+	Search
+	
+				
+																				
+		
+	
+
+				
+			
+			
+					
+				
+	Navigation
+	
+		
+			Main page
+			Contents
+			Featured content
+			Current events
+			Random article
+			Donate to Wikipedia
+		
+	
+
+
+	Interaction
+	
+		
+			Help
+			About Wikipedia
+			Community portal
+			Recent changes
+			Contact page
+		
+	
+
+
+	Toolbox
+	
+		
+			What links here
+			Related changes
+			Upload file
+			Special pages
+			Permanent link
+			Page information
+			Data item
+Cite this page		
+	
+
+
+	Print/export
+	
+		
+			Create a book
+			Download as PDF
+			Printable version
+		
+	
+
+
+	Languages
+	
+		
+			Català
+			Deutsch
+			Español
+			Français
+			Nederlands
+			ଓଡ଼ିଆ
+			Polski
+			Português
+			Slovenčina
+			Svenska
+			中文
+			
+			Edit links
+		
+	
+
+			
+		
+		
+							
+											 This page was last modified on 1 June 2013 at 15:55.
+											Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. 
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+									
+							
+											Privacy policy
+											About Wikipedia
+											Disclaimers
+											Contact Wikipedia
+											Developers
+											Mobile view
+									
+										
+					
+						
+					
+					
+						
+					
+				
+						
+		
+		
+
+
+ Served by mw1097 in 0.187 secs. 
+	
+if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Ammosaurus","wgTitle":"Ammosaurus","wgCurRevisionId":557846577,"wgRevisionId":557846577,"wgArticleId":3042393,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with 'species' microformats","Jurassic dinosaurs","Dinosaurs of North America","Sauropodomorpha"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Ammosaurus","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgVectorEnabledModules":{"collapsiblenav":true,"experiments":true},"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"templateEditor":false,"templates":false,"preview":false,"previewDialog":false,"publish":false,"toc":false},"wgArticleFeedbackv5Permissions":{"aft-reader":false,"aft-member":false,"aft-editor":false,"aft-monitor":false,"aft-administrator":false,"aft-oversighter":false,"aft-noone":false},"wgVisualEditor":{"isPageWatched":false,"magnifyClipIconURL":"//bits.wikimedia.org/static-1.22wmf19/skins/common/images/magnify-clip.png","pageLanguageCode":"en","pageLanguageDir":"ltr"},"wikilove-recipient":"","wikilove-anon":0,"wgGuidedTourHelpGuiderUrl":"Help:Guided tours/guider","wgULSAcceptLanguageList":[],"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia","aftv5Article":{"id":3042393,"title":"Ammosaurus","namespace":0,"categories":["Articles with 'species' microformats","Dinosaurs of North America","Jurassic dinosaurs","Sauropodomorpha"],"permissionLevel":false},"wgWikibaseItemId":"Q133181"});
+}if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":false,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,
+"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"useeditwarning":1,"prefershttps":1,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"vector-simplesearch":1,"vector-collapsiblenav":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"aftv5-last-filter":null,"visualeditor-enable":0,"visualeditor-enable-experimental":0,"visualeditor-betatempdisable":0,"wikilove-enabled":1,"echo-subscriptions-web-page-review":true,"echo-subscriptions-email-page-review":false,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"echo-notify-show-link":true,"echo-show-alert":true,"echo-email-frequency":0,"echo-email-format":"html","echo-subscriptions-email-system":true,"echo-subscriptions-web-system":true,"echo-subscriptions-email-other":false,"echo-subscriptions-web-other":true,"echo-subscriptions-email-edit-user-talk":false,"echo-subscriptions-web-edit-user-talk":true,
+"echo-subscriptions-email-reverted":false,"echo-subscriptions-web-reverted":true,"echo-subscriptions-email-article-linked":false,"echo-subscriptions-web-article-linked":false,"echo-subscriptions-email-mention":false,"echo-subscriptions-web-mention":true,"echo-subscriptions-web-edit-thank":true,"echo-subscriptions-email-edit-thank":false,"gettingstarted-task-toolbar-show-intro":true,"uls-preferences":"","language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs446":false,"searchNs447":false
+,"searchNs710":false,"searchNs711":false,"searchNs828":false,"searchNs829":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-mySandbox":1,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:156d8fe0ae17f8afd74198057563e45d */
+}if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","ext.visualEditor.viewPageTarget.init","ext.wikimediaShopLink.core","ext.uls.init","ext.uls.interface","wikibase.client.init","ext.centralNotice.bannerController","skins.vector.js"]);
+}/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}if(window.mw){
+mw.loader.load(["mobile.desktop","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.cite","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","mw.MwEmbedSupport.style","ext.vector.collapsibleNav","ext.articleFeedbackv5.startup","ext.gettingstarted.logging","ext.gettingstarted.openTask","schema.HttpsSupport","ext.coreEvents.httpsSupport","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","mw.PopUpMediaTransform"],null,true);
+}

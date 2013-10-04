@@ -1,0 +1,400 @@
+
+
+
+Eastern cougar - Wikipedia, the free encyclopedia
+
+
+
+
+
+
+
+
+
+
+
+
+a:lang(ar),a:lang(ckb),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:0de201fdea5d684523607ed88007b127 */
+
+
+
+
+[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.22wmf18/skins/vector/csshover.min.htc")}</style><![endif]
+
+		
+		
+		
+			
+			
+						 CentralNotice 
+						Eastern cougar
+			
+								From Wikipedia, the free encyclopedia
+								  (Redirected from Eastern Cougar)
+												
+					Jump to:					navigation, 					search
+				
+				
+
+
+Eastern cougar
+
+
+
+
+
+Conservation status
+
+
+
+
+Extinct  (2011) (IUCN 3.1)[1]
+
+
+
+Scientific classification
+
+
+Kingdom:
+Animalia
+
+
+Phylum:
+Chordata
+
+
+Class:
+Mammalia
+
+
+Order:
+Carnivora
+
+
+Family:
+Felidae
+
+
+Genus:
+Puma
+
+
+Species:
+Puma concolor
+
+
+Subspecies:
+P. concolor couguar
+
+
+Trinomial name
+
+
+Puma concolor couguar
+
+
+
+Eastern cougar (Puma concolor couguar) is considered by many puma biologists to be a subspecies of the North American cougar, while others believe recent genetic research suggests all North American cougars are a single subspecies.[2][3] The eastern subspecies was deemed extinct by a U.S. Fish and Wildlife Service (USF&WS) evaluation in 2011, while a parallel Canadian organization has taken no position on the question.
+USF&WS officials believe that cougars found in eastern North America during recent years have genetic origins in South America (as escaped captives) or are from western North America (as wandering individuals). Others say these cats are surviving members of the eastern subspecies.
+
+
+Contents
+
+
+1 History of taxonomy
+2 Uncertainty of survival
+3 Views from Canada
+4 U.S. Fish and Wildlife Review
+5 Possible colonization of east by western cougars
+6 References
+
+6.1 Further reading
+
+
+7 External links
+
+
+History of taxonomy[edit]
+In 1792, Robert Kerr of the Royal Physical Society and Royal Society of Surgeons assigned the name Felis couguar to eastern North America cougars north of Florida.[4] John Audubon in 1851 believed that cougars in both North and South America were indistinguishable. The eastern cougar was first assigned to the subspecies Felis concolor couguar and the Florida panther (F. c. coryi).[5] Young and Goldman based their description of the eastern subspecies on their examination of eight of the existing 26 historic specimens.[6]
+In 1955, Jackson described a new subspecies, the Wisconsin puma (F. c. schorgeri), from a small sample of skulls.[7]
+A 1981 taxonomy (Hall) accepted F. c. schorgeri, the Wisconsin puma, and also extended the range of the eastern puma into Nova Scotia and mapped the Florida panther’s (F. c. coryi) range as far north as South Carolina and southwestern Tennessee.[8]
+In 2000, Culver et al., recommended that based on recent genetic research, all North American cougars be classified as a single subspecies, Puma concolor couguar following the oldest named subspecies (Kerr[5] in 1792).[3]
+The 2005 edition of Mammal Species of the World[9] followed Culver’s recommendations. This revision was made by Dr. W. Chris Wozencraft of Bethel University, Indiana, as the sole reviewer. However, the publication's Web site as of 2011, as well as that of its affiliate, the Smithsonian National Museum of Natural History, continued to mention the Puma concolor couguar (or eastern cougar) as a subspecies of Puma concolor.[9][10]
+Dr. Judith Eger, Royal Ontario Museum, Toronto, Ontario, chair of the American Society of Mammalogists checklist committee, believes that the Culver work was improper, as it offered no evaluation of the existing subspecies of the puma and failed to include morphological, ecological, and behavioral considerations. According to Eger, the Culver revision is only accepted by some puma biologists.[1]
+The U.S. Fish and Wildlife Service continues to accept the Young and Goldman taxonomy. "While more recent genetic information introduces significant ambiguities, a full taxonomic analysis is necessary to conclude that a revision to the Young and Goldman (1946) taxonomy is warranted," the agency said in 2011.
+Uncertainty of survival[edit]
+A consensus exists among wildlife officials in 21 eastern states that the eastern cougar subspecies has been extirpated from eastern United States. The federal government of Canada has taken no position on the subspecies' existence, continued or otherwise, and terms the evidence "inconclusive."[11]
+The U.S. Fish and Wildlife Service reviewed all available research and other information, and concluded in 2011 that the eastern cougar subspecies has been extinct since the 1930s, and recommended that it be removed from its list of endangered species.[1] The agency used the 1946 taxonomy of S.P. Young and E.A. Goldman in defining the eastern cougar subspecies. While noting that some taxonomists in recent years have classified all North American cougars within a single subspecies, the agency's 2011 report said "a full taxonomic analysis is necessary to conclude that a revision to the Young and Goldman (1946) taxonomy is warranted."[5]
+The agency acknowledged the occasional presence of cougars in eastern North America, but believes these are of wanderers from western breeding ranges or escaped captives. Its review expressed skepticism that breeding populations exist north of Florida, noting, among other things, the lack of consistent road kill evidence comparable to known cougar ranges. However, the presence of cougars in the wild — whatever their taxonomy or origin — in eastern North America, continues to be controversial.[12]
+Various residents of eastern North America, especially in rural regions, have reported as many as 10,000 cougar sightings since the 1960s[2] and many continue to believe the subspecies has survived.[12]
+Bruce Wright, a wildlife biologist and former student of Aldo Leopold popularized the idea that a breeding population of cougars persisted in northern New England and the Maritime provinces through a series of articles and books published between 1960 and 1973. Wright based his idea mostly on unconfirmed sightings, track photos and plaster casts, and photographs of pumas killed in New Brunswick in 1932 and in Maine in 1938.[13]
+Since the 1970s, privately run groups have formed in nearly every state to compile and investigate records of cougar sightings. Many of these groups are convinced that breeding populations of cougars exist throughout the region. Some believe that a conspiracy to hide information or secretly reintroduce cougars is actively underway by state and federal governments. Some endeavor to promote the recovery of cougars in eastern North America.[2] Large numbers of cougar sightings have been reliably reported throughout the Midwest.[14]
+At least several dozen or more reported sightings have been confirmed by biologists, many of whom believe they are accounted for by escaped captives or individual members of the western subspecies who have wandered hundreds of miles from their established breeding ranges in the Dakotas or elsewhere in the west.[15]
+Eastern U.S. reported sightings, many of which reviewed in the recent federal report,[16] in various locations, including Michigan[17][18][19][20] (See Upper Peninsula), Wisconsin,[21][22] Southern Indiana, Illinois,[23] Missouri,[23][24] Kentucky,[23] Connecticut,[15][25] New York[26] Maine,[27] Massachusetts,[23] New Hampshire,[28] North Carolina,[23] Virginia,[23] Arkansas,[29] Vermont,[23] Alabama[29] Louisiana.[29][30]
+Views from Canada[edit]
+A 1998 study for Canada's national Committee on the Status of Endangered Wildlife in Canada concluded "that there is no objective evidence (actual cougar specimens or other unequivocal confirmation) for the continuous presence of cougars since the last century anywhere in eastern Canada or the eastern United States outside of Florida.".[31] Based on this, in 1999, the magazine Canadian Geographic reported that for the previous half century, a debate over whether or not Canada's eastern woods host a cougar species all its own has raged. "Now the answer appears to be 'no.' Experts say past sightings were cases of mistaken identification."[32]
+However, the Canadian committee's Web site as of 2011 says that data is "insufficient" to draw conclusions regarding the subspecies’continued existence, or even whether it ever existed at all.[11][12][33]
+In March 2011, an official with the Ontario Ministry of Natural Resources stated that cougars are present in the province.[34] This official said individual cougars in Ontario may be escaped zoo animals or pets or may have migrated from the western parts of North America.[35]
+As in the eastern U.S., there have been numerous cougar sightings reported by Canadians in Ontario,[23][35] Quebec,[35] New Brunswick[23] and Nova Scotia[35][36][37][38][39]
+The privately run Ontario Puma Foundation estimates that there are 550 Pumas in the province and their numbers are increasing steadily to a sustainable population.[40]
+U.S. Fish and Wildlife Review[edit]
+The U.S. Fish and Wildlife Service in 2007 began a review of scientific and commercial information to determine the status of the endangered eastern cougar, the first review the service has done since publishing a recovery plan in 1982, according to a news release published by the Pennsylvania Game Commission. As part of the review, the USFWS sought information on the status of the eastern cougar in 21 states—from Maine to South Carolina and westward from Michigan to Tennessee—where the Endangered Species Act protects it.[41]
+Possible colonization of east by western cougars[edit]
+Until around 1990, reports of mountain lions in the Midwest and East were highly influenced by the "Bigfoot factor," according to Mark Dowling, co-founder of the Eastern Cougar Network. "None of it was really real," he said in an interview.[42] But the situation has changed dramatically since that time according to Dowling, whose group collects and disseminates data on the shifting mountain lion population.[42]
+Dowling said in 2003 that sightings in the eastern half of the nation, including Michigan, etc., were "almost certainly" escaped captives, but he added that the notion that (Western) cougars "will eventually reach New Jersey" is a reasonable prediction, in part due to increased populations of whitetail deer.[42]
+However, some of these cougars found far in the east were established to be of western origin. As noted in an opinion piece by David Baron in the New York Times, concerning a cougar killed by a car in Connecticut in 2011:
+"Wildlife officials, who at first assumed the cat was a captive animal that had escaped its owners, examined its DNA and concluded that it was a wild cougar from the Black Hills of South Dakota. It had wandered at least 1,500 miles before meeting its end at the front of an S.U.V. in Connecticut. That is one impressive walkabout."
+"You have to appreciate this cat’s sense of irony, too. The cougar showed up in the East just three months after the Fish and Wildlife Service declared the eastern cougar extinct, a move that would exempt the officially nonexistent subspecies of the big cat from federal protection. Perhaps this red-state cougar traveled east to send a message to Washington: the federal government can make pronouncements about where cougars are not supposed to be found, but a cat’s going to go where a cat wants to go."[15]
+References[edit]
+
+
+^ a b c "U.S. Fish and Wildlife Service concludes eastern cougar extinct". fws.org. March 2, 2011. Retrieved March 2, 2011. 
+^ a b c McCollough, Mark (March 2011). "Eastern puma (cougar) (Puma concolor couguar) 5-year review: Summary and Evaluation". Maine Field Office Orono, Maine: U.S. Fish and Wildlife Service. p. 35.  Missing or empty |url= (help)
+^ a b Culver, M., Johnson, W.E.; Pecon-Slattery, J. and O’Brien, S.J. (2000). "Genomic ancestry of the American puma (Puma concolor)". Journal of Heredity 91 (3): 186–197. doi:10.1093/jhered/91.3.186. PMID 10833043. 
+^ Kerr, R. (1792) The animal kingdom, or zoological system of the celebrated Linnaeus. London, England.
+^ a b c Young, S.P. and Goldman, E.A. (1946) The puma: Mysterious American cat. American Wildlife Institute, Washington, D.C.
+^ Cardoza, J.E., and Langlois, S.A. (2002). "The eastern cougar: A management failure?". Wildlife Society Bulletin 30 (1): 265–273. JSTOR 3784665. 
+^ Jackson, H.H.T. (1955). "The Wisconsin puma". Proceedings of the Biological Society of Washington 68: 149–150. 
+^ Hall, E.R. 1981. The mammals of North America, second edition. John Wiley and Sons, New York
+^ a b Puma concolor. Mammal Species of the World. Bucknell.edu
+^ "North American Mammals: Puma concolor". Mnh.si.edu. Retrieved 2011-10-13. 
+^ a b Boswell, Randy (March 2, 2011). "Montreal Gazette: U.S. officials declare eastern cougar extinct, despite sightings in Canada". Montreal Gazette, Postmedia News. Retrieved March 5, 2011. 
+^ a b c Barringer, Felicity (March 2, 2011). "U.S. Declares Eastern Cougar Extinct, With an Asterisk". The New York Times. Retrieved 2011-03-02. 
+^ Bolgiano, C. (1995). Mountain lion: An unnatural history of pumas and people. Stackpole Books, Harrisburg, Pennsylvania, ISBN 0811710440.
+^ Suhr, Jim (June 14, 2012). "Study: Cougars again spreading across Midwest". Associated Press. Retrieved June 14, 2012. 
+^ a b c Baron, David (July 28, 2011). "The Cougar Behind Your Trash Can". Boulder, Colorado: New York Times. Retrieved July 28, 2011. 
+^ Eastern cougar declared extinct, confirming decades of suspicion, a March 2, 2011 CNN News blog post
+^ Johnson, Kirk (March–April, 2002). "The Mountain Lions of Michigan". Endangered Species Update (Ann Arbor, MI: School of Natural Resources and Environment, University of Michigan) 19 (2): 27–31. Retrieved December 9, 2010. 
+^ West, Valerie (November 30, 2008). "Cougar sightings prompt dispute among wildlife organizations". Daily Tribune (Journal Register News Service). Retrieved December 10, 2010. 
+^ Bolgiano, Chris; Roberts, Jerry (August 10, 2005). The Eastern Cougar: Historic Accounts, Scientific Investigations, And New Evidence. Mechanicsburg: Stackpole Books. pp. 67–78. ISBN 0-8117-3218-5. Retrieved December 9, 2010. 
+^ Butz, Bob; Tischendof, Jay W (Foreword) (2005). Beast of Never, Cat of God: The Search for the Eastern Puma. City: Lyons Press. ISBN 1-59228-446-9.  2005 Winner Michigan Book Award from the Library of Michigan
+^ "Wisconsin DNR Wants Hearings on Killing Cougars". Eastern Cougar. January 26, 2011. Retrieved January 26, 2011. 
+^ "Wisconsin DNR Wants Hearings on Killing Cougars". Wisconsin Outdoor Fun. Associated Press. January 26, 2011. Retrieved January 26, 2011. 
+^ a b c d e f g h i Lester, Todd (October 2001). "Search for Cougars in the East North America" (PDF). North American BioFortean Review 3 (7): 15–17. 
+^ "Mountain lion killed in Northeast Missouri". Hannibal Courier-Post. January 24, 2011. Retrieved February 10, 2011. 
+^ On June 10, 2011, a cougar was observed roaming near Greenwich, Connecticut. State officials at the time said they believed it was a released pet."Mountain lion reportedly spotted roaming Connecticut town". Fox News. June 10, 2011. Retrieved June 12, 2011.  On June 11, 2011, a cougar, believed to be the same, was killed by a car on the Wilbur Cross Parkway in Milford, Connecticut. "Mountain Lion killed by car on Connnecticut highway". CNN. June 11, 2011.  When wildlife officials examined the cougar's DNA, they concluded that it was a wild cougar from the Black Hills of South Dakota, which had wandered at least 1,500 miles east over an indeterminate time.
+^ Van Arsdale, Scott (February, 2008). "Big Cat Tales: Investigating Cougar Sightings in New York". New York State Conservationist. New York State Department of Environmental Conservation. Retrieved December 8, 2010. 
+^ Miller, Kevin (December 3, 2010). "Despite Hundreds of Sightings, Cougar’s Status Remains in Doubt". Bangor Daily News. Retrieved December 9, 2010. 
+^ McNeil, Kelvin (October 2001). "Some Little Known Cougar Sightings in New Hampshire" (PDF). North American BioFortean Review 3 (7): 20–23. 
+^ a b c "Southeast Sightings". The Cougar Network. Retrieved December 9, 2010. 
+^ Prevo, Robert (October 2001). "Arkansas "Black Panthers"" (PDF). North American BioFortean Review 3 (7): 51–53. 
+^ Scott, F.W. (1998). Update of COSEWIC status report on cougar (Felis concolor couguar), eastern population. Committee on the Status of Endangered Wildlife in Canada, Environment Canada, Ottawa, Ontario, Canada.
+^ Harry Thurston (September–October 1999). "Can the eastern cougar debate be laid to rest?". Canadian Geographic (Ottawa) 119 (6): 18. 
+^ Government of Canada, COSEWIC, Committee on the Status of Endangered Wildlife in Canada. "COSEWIC Species Database : Results 1–10". Cosewic.gc.ca. Retrieved 2011-10-13. 
+^ [1][dead link]
+^ a b c d McNeil, Scott (March 5, 2011). "Eastern cougars still exist, Ontario ministry insists: U.S. claim of species' extinction disputed". Ottawa Citizen. Retrieved March 5, 2011. 
+^ MacDonell, Kevin (December 29, 2001). "Cougars in the Maritimes: Fact or Fiction?". Outdoor Nova Scotia. 
+^ Scullion, Ronnie (December 2, 2003). "Review: The Eastern Panther – Mystery Cat of the Appalachians". Outdoor Nova Scotia. 
+^ Government of Canada, COSEWIC, Committee on the Status of Endangered Wildlife in Canada. "Committee on Status of Endangered Wildlife in Canada". Cosewic.gc.ca. Retrieved 2011-10-13. 
+^ "Eastern Cougar, Nature Canada". Naturecanada.ca. Retrieved 2011-10-13. 
+^ "Ontario Puma Foundation, Ontario, Canada". Ontariopuma.ca. Retrieved 2011-10-13. 
+^ "USFWS Begins Review of Mountain Lion Status in East" (Press release). Pennsylvania Game Commission. March 1, 2007. Retrieved December 3, 2010. 
+^ a b c "Mountain Lions Headed for Atlantic City?". Insight on the News (Washington) 19 (17): 16–17. August 5, 2003. 
+
+
+Further reading[edit]
+
+
+
+"Annotated Bibliography". easterncougar.org – Cougar Rewilding Foundation. 
+Bolgiano, Chris (2001). Mountain Lion:An Unnatural History of Pumas and People (Paperback ed.). Mechanicsburg, PA: Stackpole Books. ISBN 0-8117-2867-6. 
+Bolgiano, Chris (August 1995). Mountain Lion:An Unnatural History of Pumas and People (Hardcover ed.). Mechanicsburg, PA: Stackpole Books. ISBN 978-0-8117-1044-2. 
+Eberhart, George M. (2002). Mysterious Creatures: A Guide to Cryptozoology. Volume 2. Santa Barbara, CA: ABC-CLIO. pp. 153–161. ISBN 1-57607-283-5. 
+Hornocker, Maurice; Negri, Sharon; Lindzey, Fred, eds. (2009). Cougar: Ecology and Conservation (Hardcover ed.). Chicago: University of Chicago Press. ISBN 978-0-226-35344-9. 
+Kobalenko, Jerry (2005). Forest Cats of North America. Hove: Firefly Books Ltd. ISBN 1-55209-172-4. 
+Nelson, E.W., and Goldman, E.A. (1929). "List of the pumas, with three described as new". Journal of Mammalogy 10 (4): 345–350. doi:10.2307/1374125. 
+"Publications". Mountain Lion Foundation. 
+Parker, Gerry (1994). The Eastern Panther – Mystery Cat of the Appalachians (Softcover ed.). Nimbus Publishing (CN). ISBN 1-55109-268-9. 
+Wright, Bruce S (1972). The Eastern Panther: A Question of Survival. Toronto: Clark, Irwin, and Company. 
+
+
+
+External links[edit]
+
+The Cougar Fund
+The Cougar Network
+Cougar Rewilding Foundation
+Eastern Puma Research Network, a Homestead-hosted website
+
+
+
+ 
+NewPP limit report
+CPU time usage: 2.168 seconds
+Real time usage: 2.277 seconds
+Preprocessor visited node count: 6212/1000000
+Preprocessor generated node count: 35206/1500000
+Post‐expand include size: 81255/2048000 bytes
+Template argument size: 4624/2048000 bytes
+Highest expansion depth: 17/40
+Expensive parser function count: 1/500
+Lua time usage: 0.205s
+Lua memory usage: 2.15 MB
+
+
+ Saved in parser cache with key enwiki:pcache:idhash:10568329-0!*!0!!en!4!* and timestamp 20130930143226 
+								
+				Retrieved from "http://en.wikipedia.org/w/index.php?title=Eastern_cougar&oldid=572942844"				
+												Categories: IUCN Red List extinct speciesPuma SEMegafauna of North AmericaExtinct animals of the United StatesHidden categories: Pages using web citations with no URLAll articles with dead external linksArticles with dead external links from October 2011Articles with 'species' microformatsTaxoboxes using extinct parameters												
+							
+		
+		
+			Navigation menu
+			
+				
+	Personal tools
+	
+Create accountLog in	
+
+				
+					
+	Namespaces
+	
+					Article
+					Talk
+			
+
+
+	
+		
+	Variants
+	
+		
+					
+	
+
+				
+				
+					
+	Views
+	
+					Read
+					Edit
+					View history
+			
+
+
+	Actions
+	
+		
+					
+	
+
+
+	Search
+	
+				
+																				
+		
+	
+
+				
+			
+			
+					
+				
+	Navigation
+	
+		
+			Main page
+			Contents
+			Featured content
+			Current events
+			Random article
+			Donate to Wikipedia
+		
+	
+
+
+	Interaction
+	
+		
+			Help
+			About Wikipedia
+			Community portal
+			Recent changes
+			Contact page
+		
+	
+
+
+	Toolbox
+	
+		
+			What links here
+			Related changes
+			Upload file
+			Special pages
+			Permanent link
+			Page information
+			Data item
+Cite this page		
+	
+
+
+	Print/export
+	
+		
+			Create a book
+			Download as PDF
+			Printable version
+		
+	
+
+
+	Languages
+	
+		
+			
+			Edit links
+		
+	
+
+			
+		
+		
+							
+											 This page was last modified on 14 September 2013 at 22:17.
+											Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. 
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+									
+							
+											Privacy policy
+											About Wikipedia
+											Disclaimers
+											Contact Wikipedia
+											Developers
+											Mobile view
+									
+										
+					
+						
+					
+					
+						
+					
+				
+						
+		
+		
+
+
+ Served by mw1103 in 0.176 secs. 
+	
+if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Eastern_cougar","wgTitle":"Eastern cougar","wgCurRevisionId":572942844,"wgArticleId":10568329,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Pages using web citations with no URL","All articles with dead external links","Articles with dead external links from October 2011","IUCN Red List extinct species","Articles with 'species' microformats","Taxoboxes using extinct parameters","Puma SE","Megafauna of North America","Extinct animals of the United States"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Eastern_cougar","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Eastern_Cougar","wgVectorEnabledModules":{"collapsiblenav":true,"experiments":true},"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"templateEditor":false,"templates":false,"preview":false,"previewDialog":false,"publish":false,"toc":false},"wgArticleFeedbackv5Permissions":{"aft-reader":true,"aft-member":false,"aft-editor":false,"aft-monitor":false,"aft-administrator":false,"aft-oversighter":false,"aft-noone":false},"wgVisualEditor":{"isPageWatched":false,"magnifyClipIconURL":"//bits.wikimedia.org/static-1.22wmf18/skins/common/images/magnify-clip.png","pageLanguageCode":"en","pageLanguageDir":"ltr"},"wikilove-recipient":"","wikilove-anon":0,"wgGuidedTourHelpGuiderUrl":"Help:Guided tours/guider","wgULSAcceptLanguageList":["en-us","en"],"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia","aftv5Article":{"id":10568329,"title":"Eastern cougar","namespace":0,"categories":["All articles with dead external links","Articles with 'species' microformats","Articles with dead external links from October 2011","Extinct animals of the United States","IUCN Red List extinct species","Megafauna of North America","Pages using web citations with no URL","Puma SE","Taxoboxes using extinct parameters"],"permissionLevel":false},"wgWikibaseItemId":"Q5330591"});
+}if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":false,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,
+"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"useeditwarning":1,"prefershttps":1,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"vector-simplesearch":1,"vector-collapsiblenav":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"aftv5-last-filter":null,"visualeditor-enable":0,"visualeditor-enable-experimental":0,"visualeditor-betatempdisable":0,"wikilove-enabled":1,"echo-subscriptions-web-page-review":true,"echo-subscriptions-email-page-review":false,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"echo-notify-show-link":true,"echo-show-alert":true,"echo-email-frequency":0,"echo-email-format":"html","echo-subscriptions-email-system":true,"echo-subscriptions-web-system":true,"echo-subscriptions-email-other":false,"echo-subscriptions-web-other":true,"echo-subscriptions-email-edit-user-talk":false,"echo-subscriptions-web-edit-user-talk":true,
+"echo-subscriptions-email-reverted":false,"echo-subscriptions-web-reverted":true,"echo-subscriptions-email-article-linked":false,"echo-subscriptions-web-article-linked":false,"echo-subscriptions-email-mention":false,"echo-subscriptions-web-mention":true,"echo-subscriptions-web-edit-thank":true,"echo-subscriptions-email-edit-thank":false,"gettingstarted-task-toolbar-show-intro":true,"uls-preferences":"","language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs446":false,"searchNs447":false
+,"searchNs710":false,"searchNs711":false,"searchNs828":false,"searchNs829":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-mySandbox":1,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:156d8fe0ae17f8afd74198057563e45d */
+}if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","ext.visualEditor.viewPageTarget.init","ext.wikimediaShopLink.core","ext.uls.init","ext.uls.interface","wikibase.client.init","wikibase.client.nolanglinks","ext.centralNotice.bannerController","skins.vector.js"]);
+}/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}if(window.mw){
+mw.loader.load(["mobile.desktop","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.cite","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","mw.MwEmbedSupport.style","ext.vector.collapsibleNav","ext.articleFeedbackv5.startup","ext.gettingstarted.logging","ext.gettingstarted.openTask","schema.HttpsSupport","ext.coreEvents.httpsSupport","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","mw.PopUpMediaTransform"],null,true);
+}

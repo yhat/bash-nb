@@ -1,0 +1,426 @@
+
+
+
+Sauropelta - Wikipedia, the free encyclopedia
+
+
+
+
+
+
+
+
+
+
+
+
+a:lang(ar),a:lang(ckb),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:0de201fdea5d684523607ed88007b127 */
+
+
+
+
+[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.22wmf19/skins/vector/csshover.min.htc")}</style><![endif]
+
+		
+		
+		
+			
+			
+						 CentralNotice 
+						Sauropelta
+			
+								From Wikipedia, the free encyclopedia
+								
+												
+					Jump to:					navigation, 					search
+				
+				
+
+
+
+Sauropelta
+Temporal range: Early Cretaceous, 115–110Ma
+
+PreЄ
+Є
+O
+S
+D
+C
+P
+T
+J
+K
+Pg
+N
+
+
+
+↓
+
+
+
+
+
+
+
+
+
+AMNH 3036
+
+
+Scientific classification 
+
+
+Kingdom:
+Animalia
+
+
+Phylum:
+Chordata
+
+
+Clade:
+Sauropsida
+
+
+Clade:
+Dinosauria
+
+
+Order:
+†Ornithischia
+
+
+Suborder:
+†Ankylosauria
+
+
+Family:
+†Nodosauridae
+
+
+Genus:
+†Sauropelta
+Ostrom, 1970
+
+
+Species:
+† S. edwardsorum
+
+
+Binomial name
+
+
+Sauropelta edwardsorum
+Ostrom, 1970
+
+
+
+Sauropelta (/ˌsɔrɵˈpɛltə/ SAWR-o-PEL-tə; meaning 'lizard shield') is a genus of nodosaurid dinosaur that existed in the Early Cretaceous Period of North America. One species (S. edwardsorum) has been named although others may have existed. Anatomically, Sauropelta is one of the most well-understood nodosaurids, with fossilized remains recovered in the U.S. states of Wyoming, Montana, and possibly Utah. It is also the earliest known genus of nodosaurid; most of its remains are found in the Cloverly Formation, which dates to about 115 to 110 Ma (million years ago).
+It was a medium-sized nodosaurid, measuring about 5 meters (16.5 ft) long. Sauropelta had a distinctively long tail which made up about half of its body length. Although its body was smaller than a modern black rhinoceros, Sauropelta was about the same mass, weighing in at about 1,500 kilograms (3,300 lb). The extra weight was largely due to its extensive bony body armor, including the characteristically large spines projecting from its neck.
+
+
+Contents
+
+
+1 Description
+2 Classification and systematics
+3 Discovery and naming
+4 Paleoecology
+5 References
+6 External links
+
+
+Description[edit]
+
+
+
+
+Sauropelta edwardsorum with a human for scale
+
+
+Sauropelta was a heavily-built quadrupedal herbivore with a body length of approximately 5 meters (16.5 ft).[1] The skull was triangular when viewed from above, with the rear end wider than the tapering snout. One skull measured 35 centimeters (13.75 in) in width at its widest point, behind the eyes.[2] Unlike some other nodosaurids, the roof of the skull was characteristically flat, not domed. The roof of the skull was very thick and covered in flat, bony plates that are so tightly fused that there appear to be no sutures (boundaries) like the ones seen in Panoplosaurus, Pawpawsaurus, Silvisaurus, and many other ankylosaurs. This could also be an artifact of preservation or preparation. As in other ankylosaurs, thick triangular scutes projected from the postorbital bone, above and behind the eyes, as well as the jugal bone, below and behind the eyes.[2] More typically for nodosaurids, leaf-shaped teeth lined both upper and lower jaws, used for cutting plant material. The front end of the skull is unknown, but there would have been a sharp bony ridge (tomium) at the end of both upper and lower jaws, as seen in other ankylosaurs. This ridge probably would have supported a keratinous beak.[3]
+The tail of Sauropelta was characteristically long and made up nearly half of the body length. One skeleton preserved forty caudal (tail) vertebrae, although some were missing, suggesting that the true number of caudal vertebrae may have exceeded fifty. Ossified tendons stiffened the tail along its length. Like other ankylosaurs, Sauropelta had a wide body, with a very broad pelvis and ribcage. The forelimbs were shorter than the hindlimbs, which resulted in an arched back, with the highest point over the hips. Its feet, limbs, shoulders, and pelvis were all very stoutly constructed and reinforced to support a great deal of weight. American paleontologist Ken Carpenter estimated the mass of S. edwardsorum at 1,500 kilograms (3,300 lb).[1]
+
+
+
+
+Restoration
+
+
+Like other nodosaurids, Sauropelta was covered in armor formed from bony masses embedded in the skin (osteoderms). The discovery of a skeleton with the body armor preserved in situ allowed Carpenter and other scientists to accurately describe this protection. Two parallel rows of domed scutes ran down the top of the neck, along the anteroposterior axis (front to back). On the upper surface of the back and tail, the skin was covered in small, bony nodules (ossicles), which separated larger conical scutes arranged in parallel rows along the mediolateral axis (side to side). Over the hips, the ossicles and larger domed plates were interlocked very tightly to form a structure called a sacral shield.[1] This shield is also found in ankylosaurs like Polacanthus and Antarctopelta.[3][4] Large, pointed spines lined the sides of the neck, increasing in size towards the shoulders, and then decreasing in size again along the side of the body until they stopped just before the hips. Behind the hips, flat triangular plates lined the tail on both sides, pointing laterally (outwards) and decreasing in size towards the end of the tail. Carpenter originally described the cervical (neck) spines and caudal plates as belonging to a single row on each side, although more recently he and Jim Kirkland reconstructed them in two parallel rows on each side, one above the other. The upper row of cervical spines pointed backwards and upwards (posterodorsally), while the lower row pointed backwards and outwards (posterolaterally). The bases of each pair of cervical spines and each pair of caudal plates were fused together, greatly restricting mobility in both the neck and upper tail.[2]
+Classification and systematics[edit]
+Since John Ostrom first described Sauropelta in 1970, it has been recognized as a member of the family Nodosauridae.[5] The nodosaurids, along with the family Ankylosauridae, belong within the infraorder Ankylosauria. Nodosaurids are characterized by certain features of the skull, including the mandible (lower jaw), which curves downwards at the end. Overall, nodosaurids had narrower snouts than the ankylosaurids, and also lacked the heavy ankylosaurid tail clubs.[6] Nodosaurids, like ankylosaurids, are found in North America, Asia, and Europe.
+While the systematics (evolutionary relationships) of nodosaurids have not been firmly established, the genera Sauropelta, Silvisaurus and Pawpawsaurus are sometimes considered to be basal to geologically younger nodosaurids like Panoplosaurus, Edmontonia, and Animantarx.[3][7] In a 2001 analysis, Carpenter included the former three genera in a sister clade to a group containing the latter three, although he found that Panoplosaurus could belong to either clade, depending which taxa and characters were chosen.[8]
+Discovery and naming[edit]
+
+
+
+
+AMNH specimen
+
+
+In the early 1930s, famed dinosaur hunter and paleontologist Barnum Brown collected the holotype specimen of Sauropelta (AMNH 3032, a partial skeleton) from the Cloverly Formation in Big Horn County, Montana. The locality is inside the Crow Indian Reservation. Brown also discovered two other specimens (AMNH 3035 and 3036). The latter is one of the best-preserved nodosaurid skeletons known to science, includes a large amount of in situ armor, and is on display in the American Museum of Natural History in New York City. AMNH 3035 preserves the cervical armor and most of a skull, missing only the end of the snout. Expeditions in the 1960s led by the equally renowned John Ostrom of Yale University's Peabody Museum of Natural History recovered additional incomplete specimens from the Cloverly. In 1970, Ostrom coined the genus Sauropelta to include remains discovered by both expeditions. Derived from the Greek σαυρος/sauros ('lizard') and πελτε/pelte ('shield'), this name is a reference to its bony armor.[5] Although Ostrom originally named the species S. edwardsi, nomenclaturist George Olshevsky corrected the spelling to S. edwardsorum in 1991 to conform to Latin grammar rules.[9]
+
+
+
+
+Close up of armour, AMNH
+
+
+Despite the naming of Sauropelta two years earlier, confusion arose in 1972 when the name "Peltosaurus" was inadvertently published as the caption of a photograph of AMNH 3036.[10] Although Brown never published a name or description for the remains which are now known as Sauropelta edwardsorum, "Peltosaurus" was the name he informally used in lectures and museum exhibits. However, the name Peltosaurus was preoccupied by a genus of North American lizard from an extinct branch of the modern family Anguidae (the alligator lizards and the legless glass lizards) and is no longer used to refer to the dinosaur.[11]
+In 1999, Carpenter and colleagues described material of a large nodosaurid from Utah, discovered in a member of the Cedar Mountain Formation called the Poison Strip Sandstone, which is contemporaneous with the Cloverly Formation. He originally referred it to Sauropelta as a possible new species, but it was never named.[12] In more recent publications, Carpenter no longer refers the Poison Strip animal to Sauropelta, only to the family Nodosauridae.[13]
+Other recent, but undescribed, discoveries include a complete skull from the Cloverly of Montana[14] and a huge fragmentary skeleton from the Cedar Mountain Formation of Utah.[15] These discoveries have been published only as abstracts for the annual Society of Vertebrate Paleontology conference, and may or may not prove to belong to S. edwardsorum or even Sauropelta when formally published.
+Paleoecology[edit]
+Sauropelta is the earliest known nodosaurid genus. All specimens of S. edwardsorum were recovered from the middle section of the Cloverly Formation in Wyoming and Montana, which dates to the late Aptian through early Albian stages of the Early Cretaceous, or about 115 to 110 Ma (million years ago).[2][16] Sauropelta lived in wide floodplains around rivers that drained into the shallow inland sea to the north and east, carrying sediment eroded from the low mountains to the west. Periodic flooding of these rivers covered the surrounding plains with new muddy sediments, creating the Cloverly Formation and burying the remains of many animals, some of which would be fossilized. At the end of Cloverly times, the shallow sea would expand to cover the entire region and would eventually split North America completely in half, forming the Western Interior Seaway.[17] Abundant fossil remains of coniferous trees suggest that these plains were covered in forests.[5] Grasses would not evolve until later in the Cretaceous, so Sauropelta and other Early Cretaceous dinosaurian herbivores browsed from a variety of conifers and cycads.[18] Nodosaurids like Sauropelta had narrow snouts, an adaptation seen today in animals that are selective browsers as opposed to the wide muzzles of grazers.[6]
+While Sauropelta was an important part of the Cloverly herbivore guild, the most abundant herbivorous dinosaur of the time was the large ornithopod Tenontosaurus. The smaller ornithopod Zephyrosaurus, rare titanosaur sauropods, and an unknown type of ornithomimosaur also lived alongside Sauropelta. The dromaeosaurid theropod Deinonychus fed upon some of these herbivores, and the sheer number of Deinonychus teeth scattered throughout the formation are a testament to its abundance.[5][17] Microvenator, a small basal oviraptorosaur, hunted smaller prey,[5][17] while the apex predators of the Cloverly was the large allosauroid theropod Acrocanthosaurus.[19] Lungfish, triconodont mammals, and several species of turtles lived in the Cloverly, while crocodilians prowled the rivers, lakes, and swamps, providing evidence of a year-round warm climate.[5][17] The Late Jurassic fauna dominated by allosauroids, stegosaurs, and many varieties of huge sauropods gave way by Cloverly times to an Early Cretaceous fauna in which dromaeosaurs, ornithopods, and nodosaurs like Sauropelta were predominant. After the Cloverly ended, a large wave of Asian animals, including tyrannosaurids, ceratopsians, and ankylosaurids would disperse into western North America, forming the mixed fauna seen throughout the Late Cretaceous.[2]
+References[edit]
+
+
+^ a b c Carpenter, Kenneth. (1984). "Skeletal reconstruction and life restoration of Sauropelta (Ankylosauria: Nodosauridae) from the Cretaceous of North America". Canadian Journal of Earth Sciences 21 (12): 1491–1498. doi:10.1139/e84-154. 
+^ a b c d e Carpenter, Kenneth; & Kirkland, James I. (1998). "Review of Lower and Middle Cretaceous Ankylosaurs from North America". In Lucas, Spencer G.; Kirkland, James I; & Estep, J.W. (eds.). Lower and Middle Cretaceous Ecosystems. New Mexico Museum of Natural History and Science Bulletin 14. pp. 249–270. 
+^ a b c Vickaryous, Matthew K.; Maryanska, Teresa; & Weishampel, David B. (2004). "Ankylosauria". In Weishampel, David B.; Dodson, Peter; & Osmólska, Halszka (eds.). The Dinosauria (Second ed.). Berkeley: University of California Press. pp. 363–392. 
+^ Salgado, Leonardo; & Gasparini, Zulma. (2006). "Reappraisal of an ankylosaurian dinosaur from the Upper Cretaceous of James Ross Island (Antarctica).". Geodiversitas 28 (1): 119–135. 
+^ a b c d e f Ostrom, John H. (1970). "Stratigraphy and paleontology of the Cloverly Formation (Lower Cretaceous) of the Bighorn Basin area, Wyoming and Montana". Bulletin of the Peabody Museum of Natural History 35: 1–234. 
+^ a b Carpenter, Kenneth. (1997). "Ankylosauria". In Currie, Philip J.; & Padian, Kevin (eds.). The Encyclopedia of Dinosaurs. Berkeley: University of California Press. pp. 16–17. 
+^ Hill, Robert V.; Witmer, Lawrence M.; & Norell, Mark A. (2003). "A new specimen of Pinacosaurus grangeri (Dinosauria: Ornithischia) from the Late Cretaceous of Mongolia: Ontogeny and Phylogeny of Ankylosaurs.". American Museum Novitates 3395: 1–29. doi:10.1206/0003-0082(2003)395<0001:ANSOPG>2.0.CO;2. 
+^ Carpenter, Kenneth. (2001). "Phylogenetic analysis of the Ankylosauria". In Carpenter, Kenneth (ed.). The Armored Dinosaurs. Bloomington: Indiana University Press. pp. 455–483. 
+^ Olshevsky, George. (1991). A Revision of the Parainfraclass Archosauria Cope, 1869, Excluding the Advanced Crocodylia. Mesozoic Meanderings No. 2. San Diego: Publications Requiring Research. p. 196pp. 
+^ Glut, Donald F. (1972). The Dinosaur Dictionary. Secaucus: Citadel Press. p. 217pp. 
+^ Chure, Daniel J.; & McIntosh, John S. (1989). A Bibliography of the Dinosauria (Exclusive of the Aves), 1677-1986. Paleontology Series 1. Grand Junction: Museum of Western Colorado. p. 226pp. 
+^ Carpenter, Kenneth; Kirkland, James I.; Burge, Donald; & Bird, John. (1999). "Ankylosaurs (Dinosauria: Ornithischia) of the Cedar Mountain Formation, Utah, and their stratigraphic distribution". In Gillette, David (ed.). Vertebrate Paleontology of Utah. Utah Geological Survey Miscellaneous Publication 99-1. pp. 244–251. 
+^ Carpenter, Kenneth. (2006). "Assessing dinosaur faunal turnover in the Cedar Mountain Formation (Lower Cretaceous) of Eastern Utah, USA". In Barrett, Paul M.; & Evans, S.E (eds.). Ninth International Symposium on Mesozoic Terrestrial Ecosystems and Biota. London: Natural History Museum. pp. 21–25. 
+^ Parsons, William L.; & Parsons, Kristen M. (2001). "Description of a new skull of Sauropelta cf. S. edwardsi Ostrom, 1970 (Ornithischia: Ankylosauria)". Journal of Vertebrate Paleontology 21 (Supplement to 3 - Abstracts of Papers, 61st Annual Meeting of the Society of Vertebrate Paleontology): 87A. 
+^ Warren, David; & Carpenter, Kenneth. (2004). "A large nodosaurid ankylosaur from the Cedar Mountain Formation of Utah". Journal of Vertebrate Paleontology 24 (Supplement to 3 - Abstracts of Papers, 64th Annual Meeting of the Society of Vertebrate Paleontology): 126A. 
+^ Kirkland, James I.; Britt, Brooks; Burge, Donald L.; Carpenter, Kenneth; Cifelli, Richard; DeCourten, Frank; Eaton, Jeffrey; Hasiotis, Steven; & Lawton, Timothy. (1997). "Lower to Middle Cretaceous Dinosaur faunas of the central Colorado Plateau: a key to understanding 35 million years of tectonics, sedimentology, evolution, and biogeography". Brigham Young University Geology Studies 42 (II): 69–103. 
+^ a b c d Maxwell, W. Desmond. (1997). "Cloverly Formation". In Currie, Philip J.; & Padian, Kevin (eds.). The Encyclopedia of Dinosaurs. San Diego: Academic Press. pp. 128–129. 
+^ Prasad, Vandana; Strömberg, Caroline A.E.; Alimohammadian, Habib; & Sahni, Ashok. (2005). "Dinosaur coprolites and the early evolution of grasses and grazers". Science 310 (5751): 1177–1180. doi:10.1126/science.1118806. PMID 16293759. 
+^ D'Emic, Michael D.; Melstrom, Keegan M.; and Eddy, Drew R. (2012). "Paleobiology and geographic range of the large-bodied Cretaceous theropod dinosaur Acrocanthosaurus atokensis". Palaeogeography, Palaeoclimatology, Palaeoecology. 333–334: 13–23. doi:10.1016/j.palaeo.2012.03.003. 
+
+
+External links[edit]
+
+Entries in Online Collections Database at the American Museum of Natural History:
+
+AMNH 3032 (pictures of assorted bones included)
+AMNH 3035 (pictures of skull and cervical armor included)
+AMNH 3036
+
+
+Entry for Nodosauridae on Tree of Life, including modern restoration of Sauropelta armor
+
+
+
+
+
+Dinosaurs portal
+
+
+
+ 
+
+
+ 
+NewPP limit report
+CPU time usage: 6.080 seconds
+Real time usage: 6.405 seconds
+Preprocessor visited node count: 28520/1000000
+Preprocessor generated node count: 47079/1500000
+Post‐expand include size: 152368/2048000 bytes
+Template argument size: 107777/2048000 bytes
+Highest expansion depth: 39/40
+Expensive parser function count: 0/500
+Lua time usage: 0.116s
+Lua memory usage: 2.32 MB
+
+
+ Saved in parser cache with key enwiki:pcache:idhash:4298150-0!*!0!!en!4!* and timestamp 20131002131106 
+								
+				Retrieved from "http://en.wikipedia.org/w/index.php?title=Sauropelta&oldid=561907347"				
+												Categories: AnkylosaursCretaceous dinosaursDinosaurs of North AmericaFossil taxa described in 1970Hidden categories: Good articlesArticles with 'species' microformats												
+							
+		
+		
+			Navigation menu
+			
+				
+	Personal tools
+	
+Create accountLog in	
+
+				
+					
+	Namespaces
+	
+					Article
+					Talk
+			
+
+
+	
+		
+	Variants
+	
+		
+					
+	
+
+				
+				
+					
+	Views
+	
+					Read
+					Edit
+					View history
+			
+
+
+	Actions
+	
+		
+					
+	
+
+
+	Search
+	
+				
+																				
+		
+	
+
+				
+			
+			
+					
+				
+	Navigation
+	
+		
+			Main page
+			Contents
+			Featured content
+			Current events
+			Random article
+			Donate to Wikipedia
+		
+	
+
+
+	Interaction
+	
+		
+			Help
+			About Wikipedia
+			Community portal
+			Recent changes
+			Contact page
+		
+	
+
+
+	Toolbox
+	
+		
+			What links here
+			Related changes
+			Upload file
+			Special pages
+			Permanent link
+			Page information
+			Data item
+Cite this page		
+	
+
+
+	Print/export
+	
+		
+			Create a book
+			Download as PDF
+			Printable version
+		
+	
+
+
+	Languages
+	
+		
+			العربية
+			Català
+			Česky
+			Deutsch
+			Español
+			Français
+			한국어
+			Hrvatski
+			Italiano
+			Magyar
+			Nederlands
+			日本語
+			Polski
+			Português
+			Română
+			Русский
+			Simple English
+			Slovenčina
+			Srpskohrvatski / српскохрватски
+			Suomi
+			Svenska
+			ไทย
+			中文
+			
+			Edit links
+		
+	
+
+			
+		
+		
+							
+											 This page was last modified on 28 June 2013 at 01:51.
+											Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. 
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+									
+							
+											Privacy policy
+											About Wikipedia
+											Disclaimers
+											Contact Wikipedia
+											Developers
+											Mobile view
+									
+										
+					
+						
+					
+					
+						
+					
+				
+						
+		
+		
+
+
+ Served by mw1185 in 0.170 secs. 
+	
+if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Sauropelta","wgTitle":"Sauropelta","wgCurRevisionId":561907347,"wgRevisionId":561907347,"wgArticleId":4298150,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Good articles","Articles with 'species' microformats","Ankylosaurs","Cretaceous dinosaurs","Dinosaurs of North America","Fossil taxa described in 1970"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Sauropelta","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgVectorEnabledModules":{"collapsiblenav":true,"experiments":true},"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"templateEditor":false,"templates":false,"preview":false,"previewDialog":false,"publish":false,"toc":false},"wgArticleFeedbackv5Permissions":{"aft-reader":false,"aft-member":false,"aft-editor":false,"aft-monitor":false,"aft-administrator":false,"aft-oversighter":false,"aft-noone":false},"wgVisualEditor":{"isPageWatched":false,"magnifyClipIconURL":"//bits.wikimedia.org/static-1.22wmf19/skins/common/images/magnify-clip.png","pageLanguageCode":"en","pageLanguageDir":"ltr"},"wikilove-recipient":"","wikilove-anon":0,"wgGuidedTourHelpGuiderUrl":"Help:Guided tours/guider","wgULSAcceptLanguageList":["en","zh","af"],"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia","aftv5Article":{"id":4298150,"title":"Sauropelta","namespace":0,"categories":["Ankylosaurs","Articles with 'species' microformats","Cretaceous dinosaurs","Dinosaurs of North America","Fossil taxa described in 1970","Good articles"],"permissionLevel":false},"wgWikibaseItemId":"Q131073"});
+}if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":false,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,
+"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"useeditwarning":1,"prefershttps":1,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"vector-simplesearch":1,"vector-collapsiblenav":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"aftv5-last-filter":null,"visualeditor-enable":0,"visualeditor-enable-experimental":0,"visualeditor-betatempdisable":0,"wikilove-enabled":1,"echo-subscriptions-web-page-review":true,"echo-subscriptions-email-page-review":false,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"echo-notify-show-link":true,"echo-show-alert":true,"echo-email-frequency":0,"echo-email-format":"html","echo-subscriptions-email-system":true,"echo-subscriptions-web-system":true,"echo-subscriptions-email-other":false,"echo-subscriptions-web-other":true,"echo-subscriptions-email-edit-user-talk":false,"echo-subscriptions-web-edit-user-talk":true,
+"echo-subscriptions-email-reverted":false,"echo-subscriptions-web-reverted":true,"echo-subscriptions-email-article-linked":false,"echo-subscriptions-web-article-linked":false,"echo-subscriptions-email-mention":false,"echo-subscriptions-web-mention":true,"echo-subscriptions-web-edit-thank":true,"echo-subscriptions-email-edit-thank":false,"gettingstarted-task-toolbar-show-intro":true,"uls-preferences":"","language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs446":false,"searchNs447":false
+,"searchNs710":false,"searchNs711":false,"searchNs828":false,"searchNs829":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-mySandbox":1,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:156d8fe0ae17f8afd74198057563e45d */
+}if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","ext.visualEditor.viewPageTarget.init","ext.wikimediaShopLink.core","ext.uls.init","ext.uls.interface","wikibase.client.init","ext.centralNotice.bannerController","skins.vector.js"]);
+}/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}if(window.mw){
+mw.loader.load(["mobile.desktop","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.cite","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","mw.MwEmbedSupport.style","ext.vector.collapsibleNav","ext.articleFeedbackv5.startup","ext.gettingstarted.logging","ext.gettingstarted.openTask","schema.HttpsSupport","ext.coreEvents.httpsSupport","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","mw.PopUpMediaTransform"],null,true);
+}

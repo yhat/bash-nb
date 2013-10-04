@@ -1,0 +1,638 @@
+
+
+
+Torvosaurus - Wikipedia, the free encyclopedia
+
+
+
+
+
+
+
+
+
+
+
+
+a:lang(ar),a:lang(ckb),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:0de201fdea5d684523607ed88007b127 */
+
+
+
+
+[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.22wmf18/skins/vector/csshover.min.htc")}</style><![endif]
+
+		
+		
+		
+			
+			
+						 CentralNotice 
+						Torvosaurus
+			
+								From Wikipedia, the free encyclopedia
+								
+												
+					Jump to:					navigation, 					search
+				
+				
+
+
+Torvosaurus
+Temporal range: Late Jurassic, 153–148Ma
+
+PreЄ
+Є
+O
+S
+D
+C
+P
+T
+J
+K
+Pg
+N
+
+
+
+↓
+
+
+
+
+
+
+
+
+
+Mounted skeletal reconstruction, Museum of Ancient Life
+
+
+Scientific classification 
+
+
+Kingdom:
+Animalia
+
+
+Phylum:
+Chordata
+
+
+Clade:
+Sauropsida
+
+
+Clade:
+Dinosauria
+
+
+Clade:
+Theropoda
+
+
+Family:
+†Megalosauridae
+
+
+Subfamily:
+†Megalosaurinae
+
+
+Genus:
+†Torvosaurus
+Galton & Jensen, 1979
+
+
+Type species
+
+
+†Torvosaurus tanneri
+Galton & Jensen, 1979
+
+
+Synonyms
+
+
+
+
+Megalosaurus tanneri (Galton & Jensen, 1979 [originally Torvosaurus])
+
+
+
+
+
+Torvosaurus (/ˌtɔrvɵˈsɔrəs/;"TORE-voe-SORE-us") is a genus of carnivorous megalosaurid theropod dinosaur that lived approximately 153 to 148 million years ago during the latter part of the Jurassic Period in what is now Colorado and Portugal.
+In 1979 the type species Torvosaurus tanneri was named. T. tanneri was a large, heavily-built, bipedal carnivore, that could grow to a length of about 9 m (29.5 ft). T. tanneri was among the largest carnivore of its time, together with Epanterias (which may have actually been a large individual of Allosaurus) and Saurophaganax. Specimens referred to a Torvosaurus sp. have been claimed to be up to eleven metres long. Based on bone morphology Torvosaurus is thought to have had short but very powerful arms.
+
+
+Contents
+
+
+1 Etymology
+2 Discovery
+3 Description
+4 Systematics and Classification
+
+4.1 Distinguishing anatomical features
+
+
+5 Paleobiology
+
+5.1 Eggs and ovipary
+
+
+6 Paleoecology
+
+6.1 Provenance and occurrence
+6.2 Fauna and habitat in North America
+6.3 Fauna and habitat in Europe
+
+
+7 In Popular Culture
+8 References
+9 External links
+
+
+Etymology[edit]
+The genus name Torvosaurus means "savage lizard", and is derived from the Latin word torvus meaning "savage" and the Greek word sauros (σαυρος) meaning "lizard".[1] The specific name tanneri, is named after first counselor in the First Presidency of The Church of Jesus Christ of Latter-day Saints Nathan Eldon Tanner. Torvosaurus was described and named by Peter M. Galton and James A. Jensen in 1979 and the type species is Torvosaurus tanneri.[2]
+Discovery[edit]
+
+
+
+
+Reconstructed skull, Museo Capellini di Bologna
+
+
+Fossilized remains of Torvosaurus have been found in North America and Portugal. In 1971, Vivian Jones, of Delta, Colorado, in the Calico Gulch Quarry in Moffat County, discovered a single gigantic thumb claw of a theropod. This was shown to James Alvin Jensen, a collector working for the Brigham Young University. In an effort to discover comparable fossils, Vivian's husband Daniel Eddie Jones directed Jensen to the Dry Mesa Quarry, where abundant gigantic theropod bones, together with Supersaurus remains, proved present in rocks of the Morrison Formation. From 1972 onwards the site was excavated by Jensen and Kenneth Stadtman. The genus and the type species T. tanneri were named and described in 1979 by Peter Malcolm Galton and Jensen.[2] In 1985 Jensen could report a considerable amount of additional material, among it the first skull elements.[3] The fossils from Colorado were further described by Brooks Britt in 1991.[4]
+The holotype BYU 2002 originally consisted of upper arm bones (humeri) and lower arm bones (radii and ulnae). The paratypes included some back bones, hip bones, and hand bones.[2] When the material described in 1985 is added, the main missing elements are the shoulder girdle and the thighbone.[4] The original thumb claw, specimen BYUVP 2020, was only provisionally referred as it had been found in a site 195 kilometres away from the Dry Mesa Quarry.[2] The holotype and paratypes represented at least three individuals: two adults and a juvenile.[4] In 1991 Britt concluded that there was no proof that the front limbs of the holotype were associated and chose the left humerus as the lectotype.[4] Several single bones and teeth found in other American sites have been referred to Torvosaurus.[4]
+In 1992, fossils of a large theropod found at Como Bluff in Wyoming, were named by Robert T. Bakker e.a. as the species Edmarka rex.[5] This is often considered a junior synonym of Torvosaurus.[6] The same site has rendered comparable remains for which the nomen nudum Brontoraptor has been used.[7]
+In 2000, material from Portugal was referred to a Torvosaurus sp. by Octávio Mateus and Miguel Telles Antunes.[8] In 2006 fossils from the Portuguese Lourinhã Formation were referred to Torvosaurus tanneri.[9] In 2012 however, Matthew Carrano e.a. concluded that this material could not be more precisely determined than a Torvosaurus sp.[6] In 2013 eggs and embryo's were reported from Portugal, referred to Torvosaurus.[10]
+Description[edit]
+
+
+
+
+Size (in dark blue) compared with a human and other carnivores
+
+
+Torvosaurus was a very large predator. The original description in 1979 estimated a body length of ten meters (33 ft).[2] In 1988 Gregory S. Paul estimated a length of nine metres (29 ft) and a weight of about 1.95 metric tons (2.15 tons).[11] An estimate of nine metres length was confirmed by Britt in 1991.[4] A length of nine to ten metres would have made T. tanneri among the largest carnivores of its time, together with Epanterias (which may have been just a big individual of Allosaurus) and Saurophaganax.
+
+
+
+
+Life restoration
+
+
+Claims have been made indicating even larger sizes. Edmarka rex was named thus because it was assumed to rival Tyrannosaurus rex in length. Likewise Brontoraptor was supposed to be of gigantic size.[12] The material from Portugal has caused exact size estimates to be made, exceeding nine metres. In 2006 a lower end of a thighbone, specimen ML 632, was referred to a Torvosaurus sp., and stated to indicate a length of 11 m (36 ft). Applying the extrapolation method of J.F. Anderson, correlating mammal weights to their femur circumference, resulted in a weight of 1930 kilogrammes. In 2006 also, a nearly complete left maxilla found in Portugal, specimen ML 1100, was assigned to Torvosaurus tanneri — in 2012 Carrano e.a. considered it Torvosaurus sp. It measured 63 cm in length (2.13 ft). A skull length of 158 cm (5.18 ft) was in 2006 estimated for this Portuguese specimen, on the assumption that the 118 centimetre (3.87 ft) skull length estimate Britt gave in 1991, had been based on an in 2006 estimated to be 47 cm (1.54 ft) long, and then assumed to be intact, maxilla found in North America.[9][13] If the 158 centimetres estimate were accurate, the skull would be comparable to the largest T. rex skulls, and Torvosaurus would be the largest known Jurassic theropod, surpassing Saurophaganax maximus and Edmarka.[9]
+Torvosaurus had an elongated, narrow snout, with a kink in its profile just above the large nostrils. The frontmost snout bone, the praemaxilla, bore three rather flat teeth oriented somewhat outwards with the front edge of the teeth crown overlapping the outer side of the rear edge of the preceding crown. The maxilla was tall and bore at least eleven rather long teeth. The antorbital fenestra was relatively short. The lacrimal bone had a distinctive lacrimal horn on top; its lower end was broad in side view. The eye socket was tall with a pointed lower end. The jugal was long and transversely thin. The lower front side of the quadrate bone was hollowed out by a tear-shaped depression, the contact surface with the quadratojugal. Both the neck vertebrae and the front dorsal vertebrae had relatively flexible ball-in-socket joints. The balls, on the front side of the vertebral centra, had a wide rim, a condition by Britt likened to a Derby hat. The tail base was stiffened in the vertical plane by high and in side view wide neural spines. The upper arm was robust; the lower arm robust but short. Whether the thumb claw was especially enlarged, is uncertain. In the pelvis, the ilium resembled that of Megalosaurus and had a tall, short, front blade and a longer pointed rear blade. The pelvis as a whole was massively built, with the bone skirts between the pubic bones and the ischia contacting each other and forming a vaulted closed underside.[4]
+Systematics and Classification[edit]
+When first described in 1979 by Galton and Jensen,[2] Torvosaurus was classified as a megalosaurid, which is the current consensus.[6] It was later assigned to Carnosauria by Ralph Molnar et al. in 1990,[14] and to a basal position in Spinosauroidea by Oliver Walter Mischa Rauhut in 2003[15] and to a very basal position in the Tetanurae by Thomas Holtz in 1994;[16] all these assignments are not supported by present phylogenetic analysis.[6] In 1985, Jensen assigned Torvosaurus a family of its own, the Torvosauridae.[3] Despite support for this concept by Paul Sereno[17] and Mateus,[9] it seems redundant as Torvosaurus is closely related to, and perhaps the sister species of, the earlier Megalosaurus within a Megalosaurinae.[6] However, Torvosauridae may be used as an alternative name for Megalosauridae if Megalosaurus is considered an indeterminable nomen dubium.[18] Though a close relative of Megalosaurus, Torvosaurus is seemingly more advanced or apomorphic. Torvosaurus's larger clade, the Megalosauridae, is most commonly held as a basal branch of the Tetanurae, and considered less derived than carnosaurs or coelurosaurs, and likely related to the spinosaurids.[6]
+The following is a cladogram based on the phylogenetic analysis conducted by Carrano, Benson & Sampson (2012), showing the relationships of Torvosaurus:[6]
+
+
+Megalosauridae
+
+
+
+Eustreptospondylinae
+
+
+
+
+
+Eustreptospondylus
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Megalosaurinae
+
+
+
+
+
+Duriavenator
+
+
+
+
+
+
+
+
+
+
+
+
+Megalosaurus
+
+
+
+
+
+
+
+
+Torvosaurus
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Afrovenatorinae
+
+
+
+
+
+Afrovenator
+
+
+
+
+
+
+
+
+
+
+
+
+Dubreuillosaurus
+
+
+
+
+
+
+
+
+Magnosaurus
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Leshansaurus
+
+
+
+
+
+
+
+
+Piveteausaurus
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Distinguishing anatomical features[edit]
+
+
+
+
+Restored skeleton in Museo de Ciencias Naturales, Madrid
+
+
+A diagnosis is a statement of the anatomical features of an organism (or group) that collectively distinguish it from all other organisms. Some, but not all, of the features in a diagnosis are also autapomorphies. An autapomorphy is a distinctive anatomical feature that is unique to a given organism or group.
+According to Carrano et al. (2012), Torvosaurus can be distinguished based on the following characteristics:[19]
+
+the presence of a very shallow maxillary fossa (it lacks a fenestra maxillaris piercing the bone wall)
+the presence of fused interdental plates
+the pneumatic fossae in the posterior dorsal and the anterior caudal vertebrae centra are expanded, forming enlarged, deep openings
+the puboischiadic plate is highly ossified (the paired bony plates, of both sides, connect and close off the entire underside of the pelvis, a very basal trait that Galton & Jensen saw as an indication that Theropoda was polyphyletic, the Carnosauria having independently evolved from carnivorous Prosauropoda)[2]
+a distal expansion of the ischium shaft with a prominent lateral midline crest and an oval outline when examined in lateral view
+the cervical vertebrae are opisthocoelous with a pronounced flat rim around the, anterior, ball (according to Rauhut, 2000)
+a (transverse) fenestra is situated in the neural arch of the dorsal vertebrae in front of the hyposphene (according to Rauhut, 2000)[20]
+
+Paleobiology[edit]
+Eggs and ovipary[edit]
+The careful study of fossil dinosaur embryos provides researchers with information about the transformation of the embryo over time, the different developmental pathways present in dinosaur lineages, dinosaur reproductive behavior, and dinosaur parental care.[21][22][23]
+In 2013, Araújo et al. announced the discovery of specimen ML1188, a clutch of crushed dinosaur eggs and embryonic material attributed to Torvosaurus. This discovery further supports the hypothesis that large theropod dinosaurs were oviparous, meaning that they laid eggs and hence that embryonic development occurred outside the body of female dinosaurs. This discovery was made in 2005 by the Dutch amateur fossil-hunter Aart Walen at the Lourinhã Formation in Western Portugal, in fluvial overbank sediments that are considered to be from the Tithonian stage of the Jurassic Period, approximately 152 to 145 million years ago. This discovery is significant paleontologically for a number of reasons: (a) these are the most primitive dinosaur embryos known; (b) these are the only basal theropod embryos known; (c) fossilized eggs and embryos are rarely found together; (d) it represents the first evidence of a one-layered eggshell for theropod dinosaurs; and (e) it allows researchers to link a new eggshell morphology to the osteology of a particular group of theropod dinosaurs.[10] The specimen is housed at the Museu da Lourinhã, in Portugal. As the eggs were abandoned due to unknown circumstances, it is not known if Torvosaurus provided parental care to its eggs and young or abandoned them shortly after laying.[24]
+Paleoecology[edit]
+Provenance and occurrence[edit]
+
+
+
+
+Claw cast, Natural History Museum, London
+
+
+The type specimen of Torvosaurus tanneri BYU 2002 was recovered in the Dry Mesa Quarry of the Brushy Basin Member of the Morrison Formation, in Montrose County, Colorado. The specimen was collected by James A. Jensen and Kenneth Stadtman in 1972 in medium-grained, coarse sandstone that was deposited during the Tithonian and Kimmeridgian stages of the Jurassic period, approximately 153 to 148 million years ago.[25] This specimen is housed in the collection of the Brigham Young University in Provo, Utah.
+Fauna and habitat in North America[edit]
+Studies suggest that the paleoenvironment of this section of the Morrison Formation included rivers that flowed from the west into a basin that contained a giant, saline alkaline lake and there were extensive wetlands in the vicinity. The Dry Mesa Dinosaur Quarry of western Colorado yields one of the most diverse Upper Jurassic vertebrate assemblages in the world.[26] The Dry Mesa Quarry has produced the remains of the sauropods Apatosaurus, Diplodocus, Barosaurus, Supersaurus, Dystylosaurus, Camarasaurus, the iguanodontid Camptosaurus, and the theropods Allosaurus, Ceratosaurus and Ornitholestes, as well as Dryosaurus, and Stegosaurus.[27]
+The flora of the period has been revealed by fossils of green algae, fungi, mosses, horsetails, ferns, cycads, ginkgoes, and several families of conifers. Animal fossils discovered include bivalves, snails, ray-finned fishes, frogs, salamanders, amphibians, turtles, sphenodonts, lizards, terrestrial and aquatic crocodylomorphans, cotylosaurs, several species of pterosaurs, and early mammals, multituberculates, symmetrodonts, and triconodonts.[27]
+Fauna and habitat in Europe[edit]
+The Lourinhã Formation is also Kimmeridgian-Tithonian in age. The environment is coastal, and therefore has a strong marine influence. Its flora and fauna are very similar to the Morrison. Torvosaurus appears to be the top predator here. It lived alongside European species of Allosaurus (A. europaeus) and Ceratosaurus. Theropod Lourinhanosaurus also stalked the area. Lusotitan was the largest sauropod in the region, while the diplodocids Dinheirosaurus and Lourinhasaurus were also present. Dacentrurus and Miragaia were both stegosaurs, while Dracopelta was a ankylosaurian. Draconyx was an iguanodontid related to Camptosaurus. Due the to marine nature of the Lourinhã Formation, sharks, plesiochelyid turtles, and teleosaurid crocodyliforms are also present.[28]
+In Popular Culture[edit]
+Torvosaurus was featured for the first time in popular culture in Dinosaur Revolution. It appears in the episode "The Watering Hole" and is shown as the top predator of the Lourinha Formation, preying on animals such as Miragaia and Dinheirosaurus. The program also depicts it competing with the European representative of Allosaurus.
+References[edit]
+
+
+^ Liddell, Henry George and Robert Scott (1980). A Greek-English Lexicon (Abridged Edition). United Kingdom: Oxford University Press. ISBN 0-19-910207-4. 
+^ a b c d e f g P. M. Galton and J. A. Jensen. 1979. A new large theropod dinosaur from the Upper Jurassic of Colorado. Brigham Young University Geology Studies 26(1):1-12
+^ a b Jensen, J.A., 1985, "Uncompahgre dinosaur fauna: A preliminary report", Great Basin Naturalist, 45: 710-720
+^ a b c d e f g Britt, B., 1991, "Theropods of Dry Mesa Quarry (Morrison Formation, Late Jurassic), Colorado, with emphasis on the osteology of Torvosaurus tanneri", Brigham Young University Geology Studies 37: 1-72
+^ Bakker, R.T., Siegwarth, J., Kralis, D. & Filla, J., 1992, "Edmarka rex, a new, gigantic theropod dinosaur from the middle Morrison Formation, Late Jurassic of the Como Bluff outcrop region", Hunteria, 2(9): 1–24
+^ a b c d e f g Carrano, M. T.; Benson, R. B. J.; Sampson, S. D. (2012). "The phylogeny of Tetanurae (Dinosauria: Theropoda)". Journal of Systematic Palaeontology 10 (2): 211–300. doi:10.1080/14772019.2011.630927
+^ Redman, P.D., 1995, Paleo Horizons, Winter Issue
+^ Mateus, O., & Antunes, M. T. (2000). Torvosaurus sp.(Dinosauria: Theropoda) in the late Jurassic of Portugal. In I Congresso Ibérico de Paleontologia/XVI Jornadas de la Sociedad Española de Paleontología (pp. 115-117)
+^ a b c d Mateus, O., Walen, A., and Antunes, M.T. (2006). "The large theropod fauna of the Lourinha Formation (Portugal) and its similarity to that of the Morrison Formation, with a description of a new species of Allosaurus." New Mexico Museum of Natural History and Science Bulletin, 36.
+^ a b Ricardo Araújo, Rui Castanhinha, Rui M. S. Martins, Octávio Mateus, Christophe Hendrickx, F. Beckmann, N. Schell & L. C. Alves (2013) Filling the gaps of dinosaur eggshell phylogeny: Late Jurassic Theropod clutch with embryos from Portugal. Scientific Reports 3 : Article number: 1924 doi:10.1038/srep01924
+^ Paul, Gregory S. (1988). Predatory Dinosaurs of the World. Simon & Schuster. p. 282. ISBN 0-671-61946-2. 
+^ Siegwarth, J., Linbeck, R., Bakker, R. and Southwell, B., 1996, "Giant carnivorous dinosaurs of the family Megalosauridae", Hunteria 3: 1-77
+^ Britt (1991) provides no length measurement of this element, BYUVP 9122, and describes it as "fairly complete (...) It lacks (...) the most posterior part of the body (...)", p 14
+^ R. E. Molnar, S. M. Kurzanov, and Z. Dong. 1990. "Carnosauria". In: D. B. Weishampel, H. Osmólska, and P. Dodson (eds.), The Dinosauria. University of California Press, Berkeley
+^ O. W. M. Rauhut. 2003. The interrelationships and evolution of basal theropod dinosaurs. Special Papers in Palaeontology 69:1-213
+^ T.R. Holtz, 1994, "The phylogenetic position of the Tyrannosauridae: implications for theropod systematics", Journal of Paleontology 68(5): 1100-1117
+^ P.C. Sereno, J.A. Wilson, H.C.E. Larsson, D.B. Dutheil, and H.-D. Sues, 1994, "Early Cretaceous dinosaurs from the Sahara", Science 266(5183): 267-271
+^ P.C. Sereno, 1998, "A rationale for phylogenetic definitions, with application to the higher-level taxonomy of Dinosauria", Neues Jahrbuch für Geologie und Paläontologie, Abhandlungen 210(1): 41-83
+^ Carrano, Benson and Sampson, 2012. The phylogeny of Tetanurae (Dinosauria: Theropoda). Journal of Systematic Palaeontology. 10(2), 211-300
+^ Rauhut, 2000. The interrelationships and evolution of basal theropods (Dinosauria, Saurischia). Ph.D. dissertation, Univ. Bristol [U.K.], 1-440.
+^ Long, J. A. & McNamara, K. J. Heterochrony: The key to dinosaur evolution. in The Dinofest International (Wolberg, D.L., Stump, E. & Rosenberg, G. D., eds.) 113–123 ( Acad. Nat. Sci. Phil. , 1997).
+^ Balanoff, A. M., Norell, M. A., Grellet-Tinner, G. & Lewin, M. R. Digital preparation of a probable neoceratopsian preserved within an egg, with comments on microstructural anatomy of ornithischian eggshells. Naturwissenschaften 95 , 493–500 (2008).
+^ Varricchio, D. J. et al . Avian paternal care had dinosaur origin. Science 322 , 1826– 1828 (2008).
+^ http://www.nbcnews.com/science/rare-find-abandoned-dinosaur-nests-eggshells-6C10843146
+^ J. A. Jensen and J. H. Ostrom. 1977. A second Jurassic pterosaur from North America. Journal of Paleontology 51(4):867-870
+^ Richmond, D.R. and Morris, T.H., 1999, Stratigraphy and cataclysmic deposition of the Dry Mesa Dinosaur Quarry, Mesa County, Colorado, in Carpenter, K., Kirkland, J., and Chure, D., eds., The Upper Jurassic Morrison Formation: An Interdisciplinary Study, Modern Geology v. 22, no. 1-4, pp. 121–143.
+^ a b Chure, Daniel J.; Litwin, Ron; Hasiotis, Stephen T.; Evanoff, Emmett; and Carpenter, Kenneth (2006). "The fauna and flora of the Morrison Formation: 2006". In Foster, John R.; and Lucas, Spencer G. (eds.). Paleontology and Geology of the Upper Jurassic Morrison Formation. New Mexico Museum of Natural History and Science Bulletin, 36. Albuquerque, New Mexico: New Mexico Museum of Natural History and Science. pp. 233–248. 
+^ OCTÁVIO MATEUS LATE JURASSIC DINOSAURS FROM THE MORRISON FORMATION (USA), THE LOURINHÃ AND ALCOBAÇA FORMATIONS (PORTUGAL), AND THE TENDAGURU BEDS (TANZANIA): A COMPARISON Foster, J.R. and Lucas, S. G. R.M., eds., 2006, Paleontology and Geology of the Upper Jurassic Morrison Formation. New Mexico Museum of Natural History and Science Bulletin 36.
+
+
+
+
+
+
+Dinosaurs portal
+
+
+
+External links[edit]
+
+Torvosaurus at DinoData
+
+
+
+ 
+NewPP limit report
+CPU time usage: 5.652 seconds
+Real time usage: 5.922 seconds
+Preprocessor visited node count: 28935/1000000
+Preprocessor generated node count: 47919/1500000
+Post‐expand include size: 116297/2048000 bytes
+Template argument size: 71261/2048000 bytes
+Highest expansion depth: 39/40
+Expensive parser function count: 1/500
+Lua time usage: 0.047s
+Lua memory usage: 1.29 MB
+
+
+ Saved in parser cache with key enwiki:pcache:idhash:1272088-0!*!0!!en!4!* and timestamp 20131001113323 
+								
+				Retrieved from "http://en.wikipedia.org/w/index.php?title=Torvosaurus&oldid=575007231"				
+												Categories: MegalosaursJurassic dinosaursDinosaurs of EuropeDinosaurs of North AmericaMorrison faunaHidden categories: Articles with 'species' microformats												
+							
+		
+		
+			Navigation menu
+			
+				
+	Personal tools
+	
+Create accountLog in	
+
+				
+					
+	Namespaces
+	
+					Article
+					Talk
+			
+
+
+	
+		
+	Variants
+	
+		
+					
+	
+
+				
+				
+					
+	Views
+	
+					Read
+					Edit
+					View history
+			
+
+
+	Actions
+	
+		
+					
+	
+
+
+	Search
+	
+				
+																				
+		
+	
+
+				
+			
+			
+					
+				
+	Navigation
+	
+		
+			Main page
+			Contents
+			Featured content
+			Current events
+			Random article
+			Donate to Wikipedia
+		
+	
+
+
+	Interaction
+	
+		
+			Help
+			About Wikipedia
+			Community portal
+			Recent changes
+			Contact page
+		
+	
+
+
+	Toolbox
+	
+		
+			What links here
+			Related changes
+			Upload file
+			Special pages
+			Permanent link
+			Page information
+			Data item
+Cite this page		
+	
+
+
+	Print/export
+	
+		
+			Create a book
+			Download as PDF
+			Printable version
+		
+	
+
+
+	Languages
+	
+		
+			Català
+			Česky
+			Deutsch
+			Español
+			Français
+			한국어
+			Italiano
+			Magyar
+			Nederlands
+			Polski
+			Português
+			Русский
+			Simple English
+			Slovenčina
+			Svenska
+			ไทย
+			中文
+			
+			Edit links
+		
+	
+
+			
+		
+		
+							
+											 This page was last modified on 29 September 2013 at 14:46.
+											Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. 
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+									
+							
+											Privacy policy
+											About Wikipedia
+											Disclaimers
+											Contact Wikipedia
+											Developers
+											Mobile view
+									
+										
+					
+						
+					
+					
+						
+					
+				
+						
+		
+		
+
+
+ Served by mw1019 in 0.170 secs. 
+	
+if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Torvosaurus","wgTitle":"Torvosaurus","wgCurRevisionId":575007231,"wgArticleId":1272088,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with 'species' microformats","Megalosaurs","Jurassic dinosaurs","Dinosaurs of Europe","Dinosaurs of North America","Morrison fauna"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Torvosaurus","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgVectorEnabledModules":{"collapsiblenav":true,"experiments":true},"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"templateEditor":false,"templates":false,"preview":false,"previewDialog":false,"publish":false,"toc":false},"wgArticleFeedbackv5Permissions":{"aft-reader":true,"aft-member":false,"aft-editor":false,"aft-monitor":false,"aft-administrator":false,"aft-oversighter":false,"aft-noone":false},"wgVisualEditor":{"isPageWatched":false,"magnifyClipIconURL":"//bits.wikimedia.org/static-1.22wmf18/skins/common/images/magnify-clip.png","pageLanguageCode":"en","pageLanguageDir":"ltr"},"wikilove-recipient":"","wikilove-anon":0,"wgGuidedTourHelpGuiderUrl":"Help:Guided tours/guider","wgULSAcceptLanguageList":["zh-tw"],"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia","aftv5Article":{"id":1272088,"title":"Torvosaurus","namespace":0,"categories":["Articles with 'species' microformats","Dinosaurs of Europe","Dinosaurs of North America","Jurassic dinosaurs","Megalosaurs","Morrison fauna"],"permissionLevel":false},"wgWikibaseItemId":"Q131537"});
+}if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":false,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,
+"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"useeditwarning":1,"prefershttps":1,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"vector-simplesearch":1,"vector-collapsiblenav":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"aftv5-last-filter":null,"visualeditor-enable":0,"visualeditor-enable-experimental":0,"visualeditor-betatempdisable":0,"wikilove-enabled":1,"echo-subscriptions-web-page-review":true,"echo-subscriptions-email-page-review":false,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"echo-notify-show-link":true,"echo-show-alert":true,"echo-email-frequency":0,"echo-email-format":"html","echo-subscriptions-email-system":true,"echo-subscriptions-web-system":true,"echo-subscriptions-email-other":false,"echo-subscriptions-web-other":true,"echo-subscriptions-email-edit-user-talk":false,"echo-subscriptions-web-edit-user-talk":true,
+"echo-subscriptions-email-reverted":false,"echo-subscriptions-web-reverted":true,"echo-subscriptions-email-article-linked":false,"echo-subscriptions-web-article-linked":false,"echo-subscriptions-email-mention":false,"echo-subscriptions-web-mention":true,"echo-subscriptions-web-edit-thank":true,"echo-subscriptions-email-edit-thank":false,"gettingstarted-task-toolbar-show-intro":true,"uls-preferences":"","language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs446":false,"searchNs447":false
+,"searchNs710":false,"searchNs711":false,"searchNs828":false,"searchNs829":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-mySandbox":1,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:156d8fe0ae17f8afd74198057563e45d */
+}if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","ext.visualEditor.viewPageTarget.init","ext.wikimediaShopLink.core","ext.uls.init","ext.uls.interface","wikibase.client.init","ext.centralNotice.bannerController","skins.vector.js"]);
+}/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}if(window.mw){
+mw.loader.load(["mobile.desktop","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.cite","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","mw.MwEmbedSupport.style","ext.vector.collapsibleNav","ext.articleFeedbackv5.startup","ext.gettingstarted.logging","ext.gettingstarted.openTask","schema.HttpsSupport","ext.coreEvents.httpsSupport","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","mw.PopUpMediaTransform"],null,true);
+}

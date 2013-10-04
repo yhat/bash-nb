@@ -1,0 +1,1264 @@
+
+
+
+Dingiso - Wikipedia, the free encyclopedia
+
+
+
+
+
+
+
+
+
+
+
+
+a:lang(ar),a:lang(ckb),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:0de201fdea5d684523607ed88007b127 */
+
+
+
+
+[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.22wmf18/skins/vector/csshover.min.htc")}</style><![endif]
+
+		
+		
+		
+			
+			
+						 CentralNotice 
+						Dingiso
+			
+								From Wikipedia, the free encyclopedia
+								  (Redirected from Bondegezou)
+												
+					Jump to:					navigation, 					search
+				
+				
+
+
+Dingiso[1]
+
+
+Conservation status
+
+
+
+
+Endangered (IUCN 3.1)[2]
+
+
+
+Scientific classification
+
+
+Kingdom:
+Animalia
+
+
+Phylum:
+Chordata
+
+
+Class:
+Mammalia
+
+
+Infraclass:
+Marsupialia
+
+
+Order:
+Diprotodontia
+
+
+Family:
+Macropodidae
+
+
+Genus:
+Dendrolagus
+
+
+Species:
+D. mbaiso
+
+
+Binomial name
+
+
+Dendrolagus mbaiso
+Flannery, Boeadi & Szalay, 1995
+
+
+
+
+
+Dingiso range
+
+
+
+The dingiso /dɪŋˈɡiːzoʊ/, also known as bondegezou (Dendrolagus mbaiso), is a species of tree-kangaroo native and endemic to Western New Guinea of Indonesia, where it lives in alpine forests in the Sudirman Range at elevations of 3250 to 4200 m, just below the tree line.
+It was first filmed for the BBC documentary South Pacific in 2009 after 11 days searching with local Moni tribesmen.
+Description[edit]
+The dingiso has a distinctive pattern of black and white fur; it has a white belly, and a black head, back and limbs. Unlike other tree kangaroos, it spends little time in the trees.
+The species epithet, mbaiso, means "the forbidden animal" in Moni. It remains common in the west because of the protection conferred on it by the Moni people. For many Moni, it is an ancestor which must never be harmed.
+The dingiso was formally described to science in 1995 by Australian Museum zoologist Tim Flannery, Indonesian zoologist Boeadi and Australian anthropologist Alexandra Szalay.[3]
+References[edit]
+
+
+^ Groves, C. P. (2005). Wilson, D. E.; Reeder, D. M, eds. Mammal Species of the World (3rd ed.). Baltimore: Johns Hopkins University Press. p. 60. OCLC 62265494. ISBN 0-801-88221-4. 
+^ Leary T, Seri L, Wright D, Hamilton S, Helgen K, Singadan R, Menzies J, Allison A, James R, Dickman C, Aplin K, Flannery T, Martin R & Salas L (2008). Dendrolagus mbaiso. In: IUCN 2008. IUCN Red List of Threatened Species. Retrieved 2008-10-15. Listed as Critically Endangered (CR A2cd v3.1)
+^ Flannery, T. F., Boeadi, and A. L. Szalay. (1995). A new tree-kangaroo (Dendrolagus: Marsupialia) from Irian Jaya, Indonesia, with notes on ethnography and the evolution of tree-kangaroos. Mammalia 59:1 65-84.
+
+
+External links[edit]
+
+Dingiso from Tree Kangaroos: A Curious Natural History
+Dingiso at Tenkile Conservation Alliance
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Extant Diprotodontia species
+
+
+
+
+
+
+
+
+
+Kingdom Animalia
+Phylum Chordata
+Class Mammalia
+Infraclass Marsupialia
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Suborder Vombatiformes
+
+
+
+
+
+
+
+
+
+
+Phascolarctidae
+
+
+
+
+
+Phascolarctos
+
+
+
+
+Koala (P. cinereus)
+
+
+
+
+
+
+
+
+
+
+
+Vombatidae
+(Wombats)
+
+
+
+
+
+Vombatus
+
+
+
+
+Common wombat (V. ursinus)
+
+
+
+
+
+
+
+
+
+Lasiorhinus
+
+
+
+
+Southern hairy-nosed wombat (L. latifrons)
+Northern hairy-nosed wombat (L. krefftii)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Suborder Phalangeriformes (Possums) (cont. below)
+
+
+
+
+
+
+
+
+
+
+Phalangeridae
+(including Cuscuses)
+
+
+
+
+
+Ailurops
+(Bear cuscuses)
+
+
+
+
+Talaud bear cuscus (A. melanotis)
+Sulawesi bear cuscus (A. ursinus)
+
+
+
+
+
+
+
+
+
+Phalanger
+
+
+
+
+Gebe Cuscus (P. alexandrae)
+Mountain cuscus (P. carmelitae)
+Ground cuscus (P. gymnotis)
+Eastern common cuscus (P. intercastellanus)
+Woodlark cuscus (P. lullulae)
+Blue-eyed cuscus (P. matabiru)
+Telefomin cuscus (P. matanim)
+Southern common cuscus (P. mimicus)
+Northern common cuscus (P. orientalis)
+Ornate cuscus (P. ornatus)
+Rothschild's cuscus (P. rothschildi)
+Silky cuscus (P. sericeus)
+Stein's cuscus (P. vestitus)
+
+
+
+
+
+
+
+
+
+Spilocuscus
+
+
+
+
+Admiralty Island cuscus (S. kraemeri)
+Common spotted cuscus (S. maculatus)
+Waigeou cuscus (S. papuensis)
+Black-spotted cuscus (S. rufoniger)
+Blue-eyed spotted cuscus (S. wilsoni)
+
+
+
+
+
+
+
+
+
+Strigocuscus
+
+
+
+
+Sulawesi dwarf cuscus (S. celebensis)
+Banggai cuscus (S. pelegensis)
+
+
+
+
+
+
+
+
+
+Trichosurus
+(Brushtail possums)
+
+
+
+
+Northern brushtail possum (T. arnhemensis)
+Short-eared possum (T. caninus)
+Mountain brushtail possum (T. cunninghami)
+Coppery brushtail possum (T. johnstonii)
+Common brushtail possum (T. vulpecula)
+
+
+
+
+
+
+
+
+
+Wyulda
+
+
+
+
+Scaly-tailed possum (W. squamicaudata)
+
+
+
+
+
+
+
+
+
+
+
+Burramyidae
+(Pygmy possums)
+
+
+
+
+
+Burramys
+
+
+
+
+Mountain pygmy possum (B. parvus)
+
+
+
+
+
+
+
+
+
+Cercartetus
+
+
+
+
+Long-tailed pygmy possum (C. caudatus)
+Southwestern pygmy possum (C. concinnus)
+Tasmanian pygmy possum (C. lepidus)
+Eastern pygmy possum (C. nanus)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Suborder Phalangeriformes (Possums) (cont. above)
+
+
+
+
+
+
+
+
+
+
+Tarsipedidae
+
+
+
+
+
+Tarsipes
+
+
+
+
+Honey possum (T. rostratus)
+
+
+
+
+
+
+
+
+
+
+
+Petauridae
+
+
+
+
+
+Dactylopsila
+
+
+
+
+Great-tailed triok (D. megalura)
+Long-fingered triok (D. palpator)
+Tate's triok (D. tatei)
+Striped possum (D. trivirgata)
+
+
+
+
+
+
+
+
+
+Gymnobelideus
+
+
+
+
+Leadbeater's possum (G. leadbeateri)
+
+
+
+
+
+
+
+
+
+Petaurus
+
+
+
+
+Northern glider (P. abidi)
+Yellow-bellied glider (P. australis)
+Biak glider (P. biacensis)
+Sugar glider (P. breviceps)
+Mahogany glider (P. gracilis)
+Squirrel glider (P. norfolcensis)
+
+
+
+
+
+
+
+
+
+
+
+Pseudocheiridae
+
+
+
+
+
+Hemibelideus
+
+
+
+
+Lemur-like ringtail possum (H. lemuroides)
+
+
+
+
+
+
+
+
+
+Petauroides
+
+
+
+
+Greater glider (P. volans)
+
+
+
+
+
+
+
+
+
+Petropseudes
+
+
+
+
+Rock-haunting ringtail possum (P. dahli)
+
+
+
+
+
+
+
+
+
+Pseudocheirus
+
+
+
+
+Common ringtail possum (P. peregrinus)
+
+
+
+
+
+
+
+
+
+Pseudochirulus
+
+
+
+
+Lowland ringtail possum (P. canescens)
+Weyland ringtail possum (P. caroli)
+Cinereus ringtail possum (P. cinereus)
+Painted ringtail possum (P. forbesi)
+Herbert River ringtail possum (P. herbertensis)
+Masked ringtail possum (P. larvatus)
+Pygmy ringtail possum (P. mayeri)
+Vogelkop ringtail possum (P. schlegeli)
+
+
+
+
+
+
+
+
+
+Pseudochirops
+
+
+
+
+D'Albertis' ringtail possum (P. albertisii)
+Green ringtail possum (P. archeri)
+Plush-coated ringtail possum (P. corinnae)
+Reclusive ringtail possum (P. coronatus)
+Coppery ringtail possum (P. cupreus)
+
+
+
+
+
+
+
+
+
+
+
+Acrobatidae
+
+
+
+
+
+Acrobates
+
+
+
+
+Feathertail glider (A. pygmaeus)
+
+
+
+
+
+
+
+
+
+Distoechurus
+
+
+
+
+Feather-tailed possum (D. pennatus)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Suborder Macropodiformes (cont. below)
+
+
+
+
+
+
+
+
+
+
+
+Macropodidae
+(includes Wallabies)
+
+
+
+
+
+
+Lagostrophus
+
+
+
+
+Banded hare-wallaby (L. fasciatus)
+
+
+
+
+
+
+
+
+
+Dendrolagus
+(Tree-kangaroos)
+
+
+
+
+Grizzled tree-kangaroo (D. inustus)
+Lumholtz's tree-kangaroo (D. lumholtzi)
+Bennett's tree-kangaroo (D. bennettianus)
+Ursine tree-kangaroo (D. ursinus)
+Matschie's tree-kangaroo (D. matschiei)
+Doria's tree-kangaroo (D. dorianus)
+Ifola tree-kangaroo (D. notatus)
+Goodfellow's tree-kangaroo (D. goodfellowi)
+Lowlands tree-kangaroo (D. spadix)
+Golden-mantled tree-kangaroo (D. pulcherrimus)
+Seri's tree-kangaroo (D. stellarum)
+Dingiso (D. mbaiso)
+Tenkile (D. scottae)
+
+
+
+
+
+
+
+
+
+Dorcopsis
+
+
+
+
+Brown dorcopsis (D. muelleri)
+White-striped dorcopsis (D. hageni)
+Black dorcopsis (D. atrata)
+Gray dorcopsis (D. luctuosa)
+
+
+
+
+
+
+
+
+
+Dorcopsulus
+
+
+
+
+Small dorcopsis (D. vanheurni)
+Macleay's dorcopsis (D. macleayi)
+
+
+
+
+
+
+
+
+
+Lagorchestes
+
+
+
+
+Spectacled hare-wallaby (L. conspicillatus)
+Rufous hare-wallaby (L. hirsutus)
+
+
+
+
+
+
+
+
+
+Macropus
+(includes Kangaroos
+and Wallaroos)
+
+
+
+
+Subgenus Notamacropus: Agile wallaby (M. agilis)
+Black-striped wallaby (M. dorsalis)
+Tammar wallaby (M. eugenii)
+Western brush wallaby (M. irma)
+Parma wallaby (M. parma)
+Pretty-faced wallaby (M. parryi)
+Red-necked wallaby (M. rufogriseus)
+
+
+Subgenus Osphranter: Antilopine kangaroo (M. antilopinus)
+Woodward's wallaroo (M. bernadus)
+Eastern wallaroo (M. robustus)
+Red kangaroo (M. rufus)
+
+
+Subgenus Macropus: Western grey kangaroo (M. fuliginosus)
+Eastern grey kangaroo (M. giganteus)
+
+
+
+
+
+
+
+
+
+Onychogalea
+(Nail-tail wallabies)
+
+
+
+
+Bridled nail-tail wallaby (O. fraenata)
+Northern nail-tail wallaby (O. unguifera)
+
+
+
+
+
+
+
+
+
+Petrogale
+(Rock-wallabies)
+
+
+
+
+P. brachyotis species-group: Short-eared rock-wallaby (P. brachyotis)
+Monjon (P. burbidgei)
+Nabarlek (P. concinna)
+
+
+P. xanthopus species-group: Proserpine rock-wallaby (P. persephone)
+Rothschild's rock-wallaby (P. rothschildi)
+Yellow-footed rock-wallaby (P. xanthopus)
+
+
+P. lateralis/penicillata species-group: Allied rock-wallaby (P. assimilis)
+Cape York rock-wallaby (P. coenensis)
+Godman's rock-wallaby (P. godmani)
+Herbert's rock-wallaby (P. herberti)
+Unadorned rock-wallaby (P. inornata)
+Black-flanked rock-wallaby (P. lateralis)
+Mareeba rock-wallaby (P. mareeba)
+Brush-tailed rock-wallaby (P. penicillata)
+Purple-necked rock-wallaby (P. purpureicollis)
+Mount Claro rock-wallaby (P. sharmani)
+
+
+
+
+
+
+
+
+
+Setonix
+
+
+
+
+Quokka (S. brachyurus)
+
+
+
+
+
+
+
+
+
+Thylogale
+(Pademelons)
+
+
+
+
+Tasmanian pademelon (T. billardierii)
+Brown's pademelon (T. browni)
+Dusky pademelon (T. brunii)
+Calaby's pademelon (T. calabyi)
+Mountain pademelon (T. lanatus)
+Red-legged pademelon (T. stigmatica)
+Red-necked pademelon (T. thetis)
+
+
+
+
+
+
+
+
+
+Wallabia
+
+
+
+
+Swamp wallaby (W. bicolor)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Suborder Macropodiformes (cont. above)
+
+
+
+
+
+
+
+
+
+
+Potoroidae
+
+
+
+
+
+Aepyprymnus
+
+
+
+
+Rufous rat-kangaroo (A. rufescens)
+
+
+
+
+
+
+
+
+
+Bettongia
+(Bettongs)
+
+
+
+
+Eastern bettong (B. gaimardi)
+Boodie (B. lesueur)
+Woylie (B. penicillata)
+Northern bettong (B. tropica)
+
+
+
+
+
+
+
+
+
+Potorous
+(Potoroos)
+
+
+
+
+Long-footed potoroo (P. longipes)
+Long-nosed potoroo (P. tridactylus)
+Gilbert's potoroo (. gilbertii)
+
+
+
+
+
+
+
+
+
+
+
+Hypsiprymnodontidae
+
+
+
+
+
+Hypsiprymnodon
+
+
+
+
+Musky rat-kangaroo (H. moschatus)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+This article about a diprotodont is a stub. You can help Wikipedia by expanding it.
+
+
+v
+t
+e
+
+
+
+
+
+
+
+ 
+NewPP limit report
+CPU time usage: 2.324 seconds
+Real time usage: 2.470 seconds
+Preprocessor visited node count: 10614/1000000
+Preprocessor generated node count: 39219/1500000
+Post‐expand include size: 417267/2048000 bytes
+Template argument size: 59437/2048000 bytes
+Highest expansion depth: 19/40
+Expensive parser function count: 2/500
+Lua time usage: 0.106s
+Lua memory usage: 2.22 MB
+
+
+ Saved in parser cache with key enwiki:pcache:idhash:1600571-0!*!0!!*!4!* and timestamp 20130923063040 
+								
+				Retrieved from "http://en.wikipedia.org/w/index.php?title=Dingiso&oldid=557757398"				
+												Categories: IUCN Red List endangered speciesAnimals described in 1995MacropodsMammals of Western New GuineaDiprotodont stubsHidden categories: Articles with 'species' microformats												
+							
+		
+		
+			Navigation menu
+			
+				
+	Personal tools
+	
+Create accountLog in	
+
+				
+					
+	Namespaces
+	
+					Article
+					Talk
+			
+
+
+	
+		
+	Variants
+	
+		
+					
+	
+
+				
+				
+					
+	Views
+	
+					Read
+					Edit
+					View history
+			
+
+
+	Actions
+	
+		
+					
+	
+
+
+	Search
+	
+				
+																				
+		
+	
+
+				
+			
+			
+					
+				
+	Navigation
+	
+		
+			Main page
+			Contents
+			Featured content
+			Current events
+			Random article
+			Donate to Wikipedia
+		
+	
+
+
+	Interaction
+	
+		
+			Help
+			About Wikipedia
+			Community portal
+			Recent changes
+			Contact page
+		
+	
+
+
+	Toolbox
+	
+		
+			What links here
+			Related changes
+			Upload file
+			Special pages
+			Permanent link
+			Page information
+			Data item
+Cite this page		
+	
+
+
+	Print/export
+	
+		
+			Create a book
+			Download as PDF
+			Printable version
+		
+	
+
+
+	Languages
+	
+		
+			Azərbaycanca
+			Brezhoneg
+			Català
+			Cebuano
+			Deutsch
+			Español
+			Euskara
+			فارسی
+			Français
+			Italiano
+			Magyar
+			Nederlands
+			پنجابی
+			Polski
+			Português
+			Русский
+			Српски / srpski
+			Svenska
+			Українська
+			Tiếng Việt
+			Winaray
+			
+			Edit links
+		
+	
+
+			
+		
+		
+							
+											 This page was last modified on 31 May 2013 at 23:55.
+											Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. 
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+									
+							
+											Privacy policy
+											About Wikipedia
+											Disclaimers
+											Contact Wikipedia
+											Developers
+											Mobile view
+									
+										
+					
+						
+					
+					
+						
+					
+				
+						
+		
+		
+
+
+ Served by mw1212 in 0.173 secs. 
+	
+if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Dingiso","wgTitle":"Dingiso","wgCurRevisionId":557757398,"wgArticleId":1600571,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["IUCN Red List endangered species","Articles with 'species' microformats","Animals described in 1995","Macropods","Mammals of Western New Guinea","Diprotodont stubs"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Dingiso","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Bondegezou","wgVectorEnabledModules":{"collapsiblenav":true,"experiments":true},"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"templateEditor":false,"templates":false,"preview":false,"previewDialog":false,"publish":false,"toc":false},"wgArticleFeedbackv5Permissions":{"aft-reader":true,"aft-member":false,"aft-editor":false,"aft-monitor":false,"aft-administrator":false,"aft-oversighter":false,"aft-noone":false},"wgVisualEditor":{"isPageWatched":false,"magnifyClipIconURL":"//bits.wikimedia.org/static-1.22wmf18/skins/common/images/magnify-clip.png","pageLanguageCode":"en","pageLanguageDir":"ltr"},"wikilove-recipient":"","wikilove-anon":0,"wgGuidedTourHelpGuiderUrl":"Help:Guided tours/guider","wgULSAcceptLanguageList":[],"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia","aftv5Article":{"id":1600571,"title":"Dingiso","namespace":0,"categories":["Animals described in 1995","Articles with 'species' microformats","Diprotodont stubs","IUCN Red List endangered species","Macropods","Mammals of Western New Guinea"],"permissionLevel":false},"wgWikibaseItemId":"Q209288"});
+}if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":false,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,
+"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"useeditwarning":1,"prefershttps":1,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"vector-simplesearch":1,"vector-collapsiblenav":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"aftv5-last-filter":null,"visualeditor-enable":0,"visualeditor-enable-experimental":0,"visualeditor-betatempdisable":0,"wikilove-enabled":1,"echo-subscriptions-web-page-review":true,"echo-subscriptions-email-page-review":false,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"echo-notify-show-link":true,"echo-show-alert":true,"echo-email-frequency":0,"echo-email-format":"html","echo-subscriptions-email-system":true,"echo-subscriptions-web-system":true,"echo-subscriptions-email-other":false,"echo-subscriptions-web-other":true,"echo-subscriptions-email-edit-user-talk":false,"echo-subscriptions-web-edit-user-talk":true,
+"echo-subscriptions-email-reverted":false,"echo-subscriptions-web-reverted":true,"echo-subscriptions-email-article-linked":false,"echo-subscriptions-web-article-linked":false,"echo-subscriptions-email-mention":false,"echo-subscriptions-web-mention":true,"echo-subscriptions-web-edit-thank":true,"echo-subscriptions-email-edit-thank":false,"gettingstarted-task-toolbar-show-intro":true,"uls-preferences":"","language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs446":false,"searchNs447":false
+,"searchNs710":false,"searchNs711":false,"searchNs828":false,"searchNs829":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-mySandbox":1,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:156d8fe0ae17f8afd74198057563e45d */
+}if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","ext.visualEditor.viewPageTarget.init","ext.wikimediaShopLink.core","ext.uls.init","ext.uls.interface","wikibase.client.init","ext.centralNotice.bannerController","skins.vector.js"]);
+}/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}if(window.mw){
+mw.loader.load(["mobile.desktop","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.cite","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","mw.MwEmbedSupport.style","ext.vector.collapsibleNav","ext.articleFeedbackv5.startup","ext.gettingstarted.logging","ext.gettingstarted.openTask","schema.HttpsSupport","ext.coreEvents.httpsSupport","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","mw.PopUpMediaTransform"],null,true);
+}

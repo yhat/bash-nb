@@ -1,0 +1,448 @@
+
+
+
+Corythosaurus - Wikipedia, the free encyclopedia
+
+
+
+
+
+
+
+
+
+
+
+
+a:lang(ar),a:lang(ckb),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:0de201fdea5d684523607ed88007b127 */
+
+
+
+
+[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.22wmf18/skins/vector/csshover.min.htc")}</style><![endif]
+
+		
+		
+		
+			
+			
+						 CentralNotice 
+						Corythosaurus
+			
+								From Wikipedia, the free encyclopedia
+								
+												
+					Jump to:					navigation, 					search
+				
+				
+
+
+Corythosaurus
+Temporal range: Late Cretaceous, 77–76.5Ma
+
+PreЄ
+Є
+O
+S
+D
+C
+P
+T
+J
+K
+Pg
+N
+
+
+
+↓
+
+
+
+
+
+
+
+
+
+Mounted skeleton, Royal Ontario Museum
+
+
+Scientific classification 
+
+
+Kingdom:
+Animalia
+
+
+Phylum:
+Chordata
+
+
+Clade:
+Sauropsida
+
+
+Clade:
+Dinosauria
+
+
+Order:
+†Ornithischia
+
+
+Clade:
+†Ornithopoda
+
+
+Family:
+†Hadrosauridae
+
+
+Tribe:
+†Lambeosaurini
+
+
+Genus:
+†Corythosaurus
+Brown, 1914
+
+
+Type species
+
+
+†Corythosaurus casuarius
+Brown, 1914
+
+
+Synonyms
+
+
+
+
+Genus synonymy
+
+ ?Procheneosaurus
+Parks, 1920
+Tetragonosaurus
+Parks, 1931
+
+
+
+Species synonymy
+
+Coryhtosaurus bicristatus
+Parks, 1935
+C. brevicristatus
+Parks, 1935
+C. excavatus
+Gilmore, 1923
+C. intermedius
+(Parks, 1923 [originally Stephanosaurus])
+Procheneosaurus erectofrons
+(Parks, 1931 [originally Tetragonosaurus])
+Stephanosaurus intermedius
+Parks, 1923
+Tetragonosaurus erectofrons
+Parks, 1931
+
+
+
+
+
+
+Corythosaurus /ˌkɒrɨθɵˈsɔrəs/ is a genus of duck-billed dinosaur from the Upper Cretaceous Period, about 77-76.5 million years ago.[1] It lived in what is now North America. Its name means "helmet lizard", from the Greek κορυθως/korythos meaning "helmet" and σαυρος/sauros meaning "lizard", because the crest shape resembled a Corinthian soldier's helmet.[2]
+
+
+Contents
+
+
+1 Discovery and species
+2 Classification
+3 Paleobiology
+4 Paleobiogeography
+5 Footnotes
+6 References
+7 External links
+
+
+Discovery and species[edit]
+
+
+
+
+Fossil holotype specimen AMNH 5240 partially covered in skin impressions
+
+
+The first specimen was discovered in 1912 by Barnum Brown in Red Deer River, Alberta, Canada. As well as an almost complete skeleton, the find was remarkable because much of the creature's fossilized skin had also survived. In 1916, the Canadian (Canadian Pacific Lines) ship Mount Temple was carrying two specimens and other fossils from today's Dinosaur Provincial Park, Alberta, Canada to Britain. It was sunk by the German surface raider SMS Möwe, sending its 75 million year old cargo to the bottom of the North Atlantic, where it rests to this day.[3]
+There were originally up to seven species described including C. casaurius, C. bicristatus, C. brevicristatus, C. excavatus, C. frontalis, and C. intermedius. In 1975 Peter Dodson studied the differences between the skulls and crests of different species of lambeosaurine dinosaurs. He found that the differences in size and shape may have actually been related to the gender and age of the animal. Now only one species is recognized, C. casuarius.[4]
+Classification[edit]
+Corythosaurus is classified as a hadrosaurid, in the subfamily Lambeosaurinae. It is related to other hadrosaurs such as Hypacrosaurus, Lambeosaurus and Olorotitan, with the exception of Olorotitan they all share similar looking skulls and crests. However, recent research has suggested that Olorotitan is Corythosaurus closest known relative even though it doesn't share as many skull characteristics as other lambeosaurs.[5]
+Paleobiology[edit]
+
+
+
+
+Juvenile skull
+
+
+Corythosaurus weighed in at 4 tonnes and measured roughly 10 metres (33 ft) from nose to tail. Like other hadrosaurs it had a toothless beak, the back of the jaws contained a dental battery composed of hundreds of small, interlocking teeth. These were used to crush and grind plant matter and were continually replaced as they wore away.
+Over 20 skulls have been found from this dinosaur. As with other lambeosaurs, the animal bore a tall, elaborate bony crest atop its skull, which contained the elongate nasal passages.[6] The nasal passages extended into the crest, first into separate pockets in the sides, then into a single central chamber and onward into the respiratory system.[2][6]
+Any vocalization would travel through these elaborate chambers, and probably get amplified.[6] Scientists speculate that Corythosaurus could make loud, low pitched cries "[l]ike a wind or brass instrument."[2][6] The sounds could serve to alert other Corythosaurus to the presence of food or a potential threat from a predator.[6]
+
+
+
+
+Skull of the type specimen
+
+
+It was once thought that this dinosaur lived mostly in the water, due to the appearance of webbed hands and feet. However, it was later discovered that the so-called "webs" were in fact deflated padding, much like that found on many modern mammals.[2]
+Fossils have been found in the upper Oldman Formation and lower Dinosaur Park Formation of Canada.[1]
+Comparisons between the scleral rings of Corythosaurus and modern birds and reptiles suggest that it may have been cathemeral, active throughout the day at short intervals.[7]
+Paleobiogeography[edit]
+Thomas M. Lehman has observed that Corythosaurus hasn't been discovered outside of southern Alberta even though it is one of the most abundant Judithian dinosaurs in the region.[8] Large herbivores like the hadrosaurs living in North America during the Late Cretaceous had "remarkably small geographic ranges" despite their large body size and high mobility.[8] This restricted distribution strongly contrasts with modern mammalian faunas whose large herbivores' ranges "typical[ly] ... span much of a continent."[8]
+Footnotes[edit]
+
+
+^ a b Arbour, et al. (2009).
+^ a b c d Benton, Michael J. (2012). Prehistoric Life. Edinburgh, Scotland: Dorling Kindersley. pp. 344–345. ISBN 978-0-7566-9910-9. 
+^ Dinosaurs in the Deep
+^ Dodson (1975).
+^ Godefroit, et al. (2003).
+^ a b c d e "Corythosaurus," Dodson, et al. (1994); page 137.
+^ Schmitz and Motani (2011)
+^ a b c "Endemism Among Herbivorous Dinosaurs," Lehman (2001); page 311.
+
+
+References[edit]
+
+Arbour, V. M.; Burns, M. E.; and Sissons, R. L. (2009). "A redescription of the ankylosaurid dinosaur Dyoplosaurus acutosquameus Parks, 1924 (Ornithischia: Ankylosauria) and a revision of the genus". Journal of Vertebrate Paleontology 29 (4): 1117–1135. doi:10.1671/039.029.0405. 
+Dinosaurs in the Deep
+Dodson, Peter (1975). "Taxonomic implications of relative growth in lambeosaurine dinosaurs". Systematic Zoology 24 (1): 37–54. doi:10.2307/2412696. JSTOR 2412696. 
+Dodson, Peter & Britt, Brooks & Carpenter, Kenneth & Forster, Catherine A. & Gillette, David D. & Norell, Mark A. & Olshevsky, George & Parrish, J. Michael & Weishampel, David B. The Age of Dinosaurs. Publications International, LTD. p. 137. ISBN 0-7853-0443-6.
+Godefroit, Pascal; Bolotsky, Yuri; and Alifanov, Vladimir (2003). "A remarkable hollow-crested hadrosaur from Russia: an Asian origin for lambeosaurines". Comptes Rendus Palevol 2 (2): 143–151. doi:10.1016/S1631-0683(03)00017-4. 
+Lehman, T. M., 2001, Late Cretaceous dinosaur provinciality: In: Mesozoic Vertebrate Life, edited by Tanke, D. H., and Carpenter, K., Indiana University Press, pp. 310–328.
+Schmitz, L. and Motani, R. (2011). "Nocturnality in Dinosaurs Inferred from Scleral Ring and Orbit Morphology". Science 332 (6030): 705–8. doi:10.1126/science.1200043. PMID 21493820. 
+
+External links[edit]
+
+
+
+
+Dinosaurs portal
+
+
+
+
+Dinosaurs in the Deep
+
+
+
+ 
+NewPP limit report
+CPU time usage: 4.468 seconds
+Real time usage: 4.815 seconds
+Preprocessor visited node count: 28493/1000000
+Preprocessor generated node count: 42054/1500000
+Post‐expand include size: 97073/2048000 bytes
+Template argument size: 50984/2048000 bytes
+Highest expansion depth: 39/40
+Expensive parser function count: 1/500
+Lua time usage: 0.034s
+Lua memory usage: 1.6 MB
+
+
+ Saved in parser cache with key enwiki:pcache:idhash:1360138-0!*!0!!en!4!* and timestamp 20131001102048 
+								
+				Retrieved from "http://en.wikipedia.org/w/index.php?title=Corythosaurus&oldid=573862939"				
+												Categories: Dinosaurs of North AmericaCretaceous dinosaursHadrosaursHidden categories: Articles with 'species' microformats												
+							
+		
+		
+			Navigation menu
+			
+				
+	Personal tools
+	
+Create accountLog in	
+
+				
+					
+	Namespaces
+	
+					Article
+					Talk
+			
+
+
+	
+		
+	Variants
+	
+		
+					
+	
+
+				
+				
+					
+	Views
+	
+					Read
+					Edit
+					View history
+			
+
+
+	Actions
+	
+		
+					
+	
+
+
+	Search
+	
+				
+																				
+		
+	
+
+				
+			
+			
+					
+				
+	Navigation
+	
+		
+			Main page
+			Contents
+			Featured content
+			Current events
+			Random article
+			Donate to Wikipedia
+		
+	
+
+
+	Interaction
+	
+		
+			Help
+			About Wikipedia
+			Community portal
+			Recent changes
+			Contact page
+		
+	
+
+
+	Toolbox
+	
+		
+			What links here
+			Related changes
+			Upload file
+			Special pages
+			Permanent link
+			Page information
+			Data item
+Cite this page		
+	
+
+
+	Print/export
+	
+		
+			Create a book
+			Download as PDF
+			Printable version
+		
+	
+
+
+	Languages
+	
+		
+			Català
+			Česky
+			Deutsch
+			Español
+			Esperanto
+			Euskara
+			فارسی
+			Français
+			Galego
+			한국어
+			Hrvatski
+			Italiano
+			עברית
+			Magyar
+			Nederlands
+			日本語
+			Occitan
+			Polski
+			Português
+			Русский
+			Simple English
+			Slovenčina
+			Srpskohrvatski / српскохрватски
+			Suomi
+			Svenska
+			ไทย
+			Türkçe
+			中文
+			
+			Edit links
+		
+	
+
+			
+		
+		
+							
+											 This page was last modified on 21 September 2013 at 02:58.
+											Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. 
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+									
+							
+											Privacy policy
+											About Wikipedia
+											Disclaimers
+											Contact Wikipedia
+											Developers
+											Mobile view
+									
+										
+					
+						
+					
+					
+						
+					
+				
+						
+		
+		
+
+
+ Served by mw1095 in 0.279 secs. 
+	
+if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Corythosaurus","wgTitle":"Corythosaurus","wgCurRevisionId":573862939,"wgArticleId":1360138,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with 'species' microformats","Dinosaurs of North America","Cretaceous dinosaurs","Hadrosaurs"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Corythosaurus","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgVectorEnabledModules":{"collapsiblenav":true,"experiments":true},"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"templateEditor":false,"templates":false,"preview":false,"previewDialog":false,"publish":false,"toc":false},"wgArticleFeedbackv5Permissions":{"aft-reader":true,"aft-member":false,"aft-editor":false,"aft-monitor":false,"aft-administrator":false,"aft-oversighter":false,"aft-noone":false},"wgVisualEditor":{"isPageWatched":false,"magnifyClipIconURL":"//bits.wikimedia.org/static-1.22wmf18/skins/common/images/magnify-clip.png","pageLanguageCode":"en","pageLanguageDir":"ltr"},"wikilove-recipient":"","wikilove-anon":0,"wgGuidedTourHelpGuiderUrl":"Help:Guided tours/guider","wgULSAcceptLanguageList":["en-us"],"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia","aftv5Article":{"id":1360138,"title":"Corythosaurus","namespace":0,"categories":["Articles with 'species' microformats","Cretaceous dinosaurs","Dinosaurs of North America","Hadrosaurs"],"permissionLevel":false},"wgWikibaseItemId":"Q131078"});
+}if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":false,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,
+"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"useeditwarning":1,"prefershttps":1,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"vector-simplesearch":1,"vector-collapsiblenav":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"aftv5-last-filter":null,"visualeditor-enable":0,"visualeditor-enable-experimental":0,"visualeditor-betatempdisable":0,"wikilove-enabled":1,"echo-subscriptions-web-page-review":true,"echo-subscriptions-email-page-review":false,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"echo-notify-show-link":true,"echo-show-alert":true,"echo-email-frequency":0,"echo-email-format":"html","echo-subscriptions-email-system":true,"echo-subscriptions-web-system":true,"echo-subscriptions-email-other":false,"echo-subscriptions-web-other":true,"echo-subscriptions-email-edit-user-talk":false,"echo-subscriptions-web-edit-user-talk":true,
+"echo-subscriptions-email-reverted":false,"echo-subscriptions-web-reverted":true,"echo-subscriptions-email-article-linked":false,"echo-subscriptions-web-article-linked":false,"echo-subscriptions-email-mention":false,"echo-subscriptions-web-mention":true,"echo-subscriptions-web-edit-thank":true,"echo-subscriptions-email-edit-thank":false,"gettingstarted-task-toolbar-show-intro":true,"uls-preferences":"","language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs446":false,"searchNs447":false
+,"searchNs710":false,"searchNs711":false,"searchNs828":false,"searchNs829":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-mySandbox":1,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:156d8fe0ae17f8afd74198057563e45d */
+}if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","ext.visualEditor.viewPageTarget.init","ext.wikimediaShopLink.core","ext.uls.init","ext.uls.interface","wikibase.client.init","ext.centralNotice.bannerController","skins.vector.js"]);
+}/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}if(window.mw){
+mw.loader.load(["mobile.desktop","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.cite","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","mw.MwEmbedSupport.style","ext.vector.collapsibleNav","ext.articleFeedbackv5.startup","ext.gettingstarted.logging","ext.gettingstarted.openTask","schema.HttpsSupport","ext.coreEvents.httpsSupport","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","mw.PopUpMediaTransform"],null,true);
+}

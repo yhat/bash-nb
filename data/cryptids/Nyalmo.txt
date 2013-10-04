@@ -1,0 +1,1127 @@
+
+
+
+Yeti - Wikipedia, the free encyclopedia
+
+
+
+
+
+
+
+
+
+
+a:lang(ar),a:lang(ckb),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:0de201fdea5d684523607ed88007b127 */
+
+
+
+
+[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.22wmf18/skins/vector/csshover.min.htc")}</style><![endif]
+
+		
+		
+		
+			
+			
+						 CentralNotice 
+						Yeti
+			
+								From Wikipedia, the free encyclopedia
+								  (Redirected from Nyalmo)
+												
+					Jump to:					navigation, 					search
+				
+				
+"Abominable Snowman" redirects here.  For other uses, see Abominable Snowman (disambiguation). For other uses of Yeti, see Yeti (disambiguation).
+
+Yeti
+
+(Abominable Snowman
+Migoi, Meh-teh et al.)
+
+
+
+Purported Yeti scalp at Khumjung monastery
+
+
+
+Grouping
+Cryptid
+
+
+Sub grouping
+Homin, Hominid
+
+
+Country
+Nepal, Bhutan,[1] China, India, Mongolia
+
+
+Region
+Himalayas
+
+
+Habitat
+Mountains
+
+
+The Yeti or Abominable Snowman is said to be an ape-like cryptid taller than an average human, that inhabits the Himalayan region of Nepal, and Tibet.[2][3] The names Yeti and Meh-Teh are commonly used by the people indigenous to the region,[4] and are part of their history and mythology. Stories of the Yeti first emerged as a facet of Western popular culture in the 19th century.
+The scientific community generally regards the Yeti as a legend, given the lack of conclusive evidence,[5] but it remains one of the most famous creatures of cryptozoology. The Yeti may be considered a sort of parallel myth to the Bigfoot of North America.
+
+
+Contents
+
+
+1 Etymology and alternate names
+
+1.1 The "Abominable Snowman"
+
+
+2 History
+
+2.1 Pre-19th century
+2.2 19th century
+2.3 20th century
+2.4 21st century
+
+
+3 Possible explanations
+4 In popular culture
+
+4.1 Art
+4.2 Film
+4.3 Television
+4.4 Literature
+4.5 Music
+4.6 Theme parks
+4.7 Toys
+4.8 Video games
+
+
+5 See also
+6 References
+7 Bibliography
+8 Further reading
+
+
+Etymology and alternate names
+
+
+
+This article contains Tibetan script. Without proper rendering support, you may see question marks, boxes, or other symbols instead of Tibetan characters.
+
+
+The word Yeti is derived from Tibetan: གཡའ་དྲེད་, Wylie: g.ya' dred, ZYPY: Yachê), a compound of the words Tibetan: གཡའ་, Wylie: g.ya', ZYPY: ya "rocky", "rocky place" and (Tibetan: དྲེད་, Wylie: dred, ZYPY: chê) "bear".[6][7][8][9][10] Pranavananda[6] states that the words "ti", "te" and "teh" are derived from the spoken word 'tre' (spelled "dred"), Tibetan for bear, with the 'r' so softly pronounced as to be almost inaudible, thus making it "te" or "teh".[6][10][11]
+Other terms used by Himalayan peoples do not translate exactly the same, but refer to legendary and indigenous wildlife:
+
+Michê (Tibetan: མི་དྲེད་, Wylie: mi dred, ZYPY: Michê) translates as "man-bear".[8][10][12]
+Dzu-teh – 'dzu' translates as "cattle" and the full meaning translates as "cattle bear", referring to the Himalayan brown bear.[7][10][11][13][14]
+Migoi or Mi-go (Tibetan: མི་རྒོད་, Wylie: mi rgod, ZYPY: Migö/Mirgö) translates as "wild man".[11][14]
+Bun Manchi - Nepali for "jungle man" that is used outside Sherpa communities where yeti is the common name.[15]
+Mirka – another name for "wild-man". Local legend holds that "anyone who sees one dies or is killed". The latter is taken from a written statement by Frank Smythe's sherpas in 1937.[16]
+Kang Admi – "Snow Man".[14]
+
+The "Abominable Snowman"
+The appellation "Abominable Snowman" was coined in 1921, the same year Lieutenant-Colonel Charles Howard-Bury led the joint Alpine Club and Royal Geographical Society "Everest Reconnaissance Expedition"[17][18] which he chronicled in Mount Everest The Reconnaissance, 1921.[19] In the book, Howard-Bury includes an account of crossing the "Lhakpa-la" at 21,000 ft (6,400 m) where he found footprints that he believed "were probably caused by a large 'loping' grey wolf, which in the soft snow formed double tracks rather like a those of a bare-footed man". He adds that his Sherpa guides "at once volunteered that the tracks must be that of 'The Wild Man of the Snows', to which they gave the name 'metoh-kangmi'".[19] "Metoh" translates as "man-bear" and "Kang-mi" translates as "snowman".[6][8][14][20]
+Confusion exists between Howard-Bury's recitation of the term "metoh-kangmi"[17][19] and the term used in Bill Tilman's book Mount Everest, 1938[21] where Tilman had used the words "metch", which does not exist in the Tibetan language,[22] and "kangmi" when relating the coining of the term "Abominable Snowman".[8][14][21][23] Further evidence of "metch" being a misnomer is provided by Tibetan language authority Professor David Snellgrove from the School of Oriental and African Studies at the University of London (ca. 1956), who dismissed the word "metch" as impossible, because the consonants "t-c-h" cannot be conjoined in the Tibetan language."[22] Documentation suggests that the term "metch-kangmi" is derived from one source (from the year 1921).[21] It has been suggested that "metch" is simply a misspelling of "metoh".
+The use of "Abominable Snowman" began when Henry Newman, a longtime contributor to The Statesman in Calcutta, writing under the pen name "Kim",[9] interviewed the porters of the "Everest Reconnaissance expedition" on their return to Darjeeling.[21][24][25][26] Newman mistranslated the word "metoh" as "filthy", substituting the term "abominable", perhaps out of artistic license.[27] As author Bill Tilman recounts, "[Newman] wrote long after in a letter to The Times: The whole story seemed such a joyous creation I sent it to one or two newspapers'".[21]
+History
+Pre-19th century
+According to H. Siiger, the Yeti was a part of the pre-Buddhist beliefs of several Himalayan people. He was told that the Lepcha people worshipped a "Glacier Being" as a God of the Hunt. He also reported that followers of the Bön religion once believed the blood of the "mi rgod" or "wild man" had use in certain mystical ceremonies. The being was depicted as an apelike creature who carries a large stone as a weapon and makes a whistling swoosh sound.[28]
+19th century
+In 1832, James Prinsep's Journal of the Asiatic Society of Bengal published trekker B. H. Hodgson's account of his experiences in northern Nepal. His local guides spotted a tall, bipedal creature covered with long dark hair, which seemed to flee in fear. Hodgson concluded it was an orangutan.
+An early record of reported footprints appeared in 1899 in Laurence Waddell's Among the Himalayas.[29] Waddell reported his guide's description of a large apelike creature that left the prints, which Waddell thought were made by a bear. Waddell heard stories of bipedal, apelike creatures but wrote that "none, however, of the many Tibetans I have interrogated on this subject could ever give me an authentic case. On the most superficial investigation it always resolved into something that somebody heard tell of."[30]
+20th century
+The frequency of reports increased during the early 20th century, when Westerners began making determined attempts to scale the many mountains in the area and occasionally reported seeing odd creatures or strange tracks.
+In 1925, N. A. Tombazi, a photographer and member of the Royal Geographical Society, writes that he saw a creature at about 15,000 ft (4,600 m) near Zemu Glacier. Tombazi later wrote that he observed the creature from about 200 to 300 yd (180 to 270 m), for about a minute. "Unquestionably, the figure in outline was exactly like a human being, walking upright and stopping occasionally to pull at some dwarf rhododendron bushes. It showed up dark against the snow, and as far as I could make out, wore no clothes." About two hours later, Tombazi and his companions descended the mountain and saw the creature's prints, described as "similar in shape to those of a man, but only six to seven inches long by four inches wide[31]... The prints were undoubtedly those of a biped."[32]
+Western interest in the Yeti peaked dramatically in the 1950s. While attempting to scale Mount Everest in 1951, Eric Shipton took photographs of a number of large prints in the snow, at about 6,000 m (20,000 ft) above sea level. These photos have been subject to intense scrutiny and debate. Some argue they are the best evidence of Yeti's existence, while others contend the prints are those of a mundane creature that have been distorted by the melting snow.[33]
+Peter Byrne reported finding a yeti footprint in 1948, in northern Sikkim, India near the Zemu Glacier, while on holiday from a Royal Air Force assignment in India.[3]
+In 1953, Sir Edmund Hillary and Tenzing Norgay reported seeing large footprints while scaling Mount Everest. Hillary would later discount Yeti reports as unreliable. In his first autobiography Tenzing said that he believed the Yeti was a large ape, and although he had never seen it himself his father had seen one twice, but in his second autobiography he said he had become much more skeptical about its existence.[34]
+During the Daily Mail Snowman Expedition of 1954,[35] the mountaineering leader John Angelo Jackson made the first trek from Everest to Kanchenjunga in the course of which he photographed symbolic paintings of the Yeti at Tengboche gompa.[36] Jackson tracked and photographed many footprints in the snow, most of which were identifiable. However, there were many large footprints which could not be identified. These flattened footprint-like indentations were attributed to erosion and subsequent widening of the original footprint by wind and particles.
+
+
+
+
+Dr. Biswamoy Biswas examining the Pangboche Yeti scalp during the Daily Mail Snowman Expedition of 1954
+
+
+On 19 March 1954, the Daily Mail printed an article which described expedition teams obtaining hair specimens from what was alleged to be a Yeti scalp found in the Pangboche monastery. The hairs were black to dark brown in colour in dim light, and fox red in sunlight. The hair was analysed by Professor Frederic Wood Jones,[37][38] an expert in human and comparative anatomy. During the study, the hairs were bleached, cut into sections and analysed microscopically. The research consisted of taking microphotographs of the hairs and comparing them with hairs from known animals such as bears and orangutans. Jones concluded that the hairs were not actually from a scalp. He contended that while some animals do have a ridge of hair extending from the pate to the back, no animals have a ridge (as in the Pangboche "scalp") running from the base of the forehead across the pate and ending at the nape of the neck. Jones was unable to pinpoint exactly the animal from which the Pangboche hairs were taken. He was, however, convinced that the hairs were not of a bear or anthropoid ape. He suggested that the hairs were from the shoulder of a coarse-haired hoofed animal.[39]
+Sławomir Rawicz claimed in his book The Long Walk, published in 1956, that as he and some others were crossing the Himalayas in the winter of 1940, their path was blocked for hours by two bipedal animals that were doing seemingly nothing but shuffling around in the snow.
+Beginning in 1957, wealthy American oilman Tom Slick funded a few missions to investigate Yeti reports. In 1959, supposed Yeti feces were collected by one of Slick's expeditions; fecal analysis found a parasite which could not be classified. Cryptozoologist Bernard Heuvelmans wrote, "Since each animal has its own parasites, this indicated that the host animal is equally an unknown animal."[40][41] The United States government thought that finding the Yeti was likely enough to create three rules for American expeditions searching for it: obtain a Nepalese permit, do not harm the Yeti except in self-defense, and let the Nepalese government approve any news reporting on the animal's discovery.[42]
+In 1959, actor James Stewart, while visiting India, reportedly smuggled remains of a supposed Yeti, the so-called Pangboche Hand, by concealing it in his luggage when he flew from India to London.[43]
+In 1960, Hillary mounted an expedition to collect and analyze physical evidence of the Yeti. He sent a supposed Yeti "scalp" from the Khumjung monastery to the West for testing, whose results indicated the scalp was manufactured from the skin of a serow, a goat-like Himalayan antelope.
+Up to the 1960s, belief in the yeti was relatively common in Bhutan and in 1966 a Bhutanese stamp was made to honor the creature.[44] However, in the twenty-first century belief in the being has declined.[45]
+In 1970, British mountaineer Don Whillans claimed to have witnessed a creature when scaling Annapurna.[46] According to Whillans, while scouting for a campsite, he heard some odd cries which his Sherpa guide attributed to a Yeti's call. That night, he saw a dark shape moving near his camp. The next day, he observed a few human-like footprints in the snow, and that evening, viewed with binoculars a bipedal, ape-like creature for 20 minutes as it apparently searched for food not far from his camp.[citation needed]
+In 1983, Himalayan conservationist Daniel C. Taylor and Himalayan natural historian Robert L. Fleming Jr. led a yeti expedition into Nepal’s Barun Valley (suggested by discovery in the Barun in 1972 of footprints alleged to be yeti by Cronin & McNeely [47]). The Taylor-Fleming expedition also discovered similar yeti-like footprints (hominoid appearing with both a hallux and bipedal gait), intriguing large nests in trees, and vivid reports from local villagers of two bears, rukh balu ('tree bear', small, reclusive, weighing about 150 pounds) and bhui balu ('ground bear,' aggressive, weighing up to 400 pounds). Further interviews across Nepal gave evidence of local belief in two different bears. Skulls were collected, these were compared to known skulls at the Smithsonian Institution, American Museum of Natural History, and British Museum, and confirmed identification of a single species, the Asiatic Black Bear, showing no morphological difference between 'tree bear' and 'ground bear.' [48] (This despite an intriguing skull in the British Museum of a 'tree bear' collected in 1869 by Oldham and discussed in the Annals of the Royal Zoological Society .).
+There is a famous Yeti hoax, known as the Snow Walker Film. The footage was created for Paramount's UPN show, Paranormal Borderland, ostensibly by the show's producers. The show ran from 12 March to 6 August 1996. Fox purchased and used the footage in their later program on The World's Greatest Hoaxes.[49]
+21st century
+In 2004, Henry Gee, editor of the journal Nature, mentioned the Yeti as an example of a legend deserving further study, writing, "The discovery that Homo floresiensis survived until so very recently, in geological terms, makes it more likely that stories of other mythical, human-like creatures such as Yetis are founded on grains of truth ... Now, cryptozoology, the study of such fabulous creatures, can come in from the cold."[50]
+The Yeti is said to have been spotted in the remote Mae Charim area of the Luang Prabang Range range, between the Thai highlands and Sainyabuli Province, Laos.[51]
+In early December 2007, American television presenter Joshua Gates and his team (Destination Truth) reported finding a series of footprints in the Everest region of Nepal resembling descriptions of Yeti.[52] Each of the footprints measured 33 cm (13 in) in length with five toes that measured a total of 25 cm (9.8 in) across. Casts were made of the prints for further research. The footprints were examined by Jeffrey Meldrum of Idaho State University, who believed them to be too morphologically accurate to be fake or man made, before changing his mind after making further investigations.[53] Later in 2009, Gates made another investigation during which he discovered hair samples. A forensic analyst concluded that the hair contained an unknown DNA sequence.[54]
+On 25 July 2008, the BBC reported that hairs collected in the remote Garo Hills area of North-East India by Dipu Marak had been analyzed at Oxford Brookes University in the UK by primatologist Anna Nekaris and microscopy expert Jon Wells. These initial tests were inconclusive, and ape conservation expert Ian Redmond told the BBC that there was similarity between the cuticle pattern of these hairs and specimens collected by Edmund Hillary during Himalayan expeditions in the 1950s and donated to the Oxford University Museum of Natural History, and announced planned DNA analysis.[55] This analysis has since revealed that the hair came from the Himalayan Goral.[56]
+On 20 October 2008 a team of seven Japanese adventurers photographed footprints which could allegedly have been made by a Yeti. The team's leader, Yoshiteru Takahashi claims to have observed a Yeti on a 2003 expedition and is determined to capture the creature on film.
+A group of Chinese scientists and explorers in 2010 proposed to renew searches in Shennongjia province, which was the site of expeditions in the 1970s and 1980s.[57]
+At a 2011 conference in Russia, participating scientists and enthusiasts declared having "95% evidence" of the Yeti's existence.[58] However, this claim was disputed later; American anthropologist and anatomist Jeffrey Meldrum, who was present during the Russian expedition, claimed the "evidence" found was simply an attempt by local officials to drum up publicity.[59]
+A yeti was reportedly captured in Russia in December 2011.[60] A hunter reported having seen a bear like creature, trying to kill one of his sheep, but after he fired his gun, the creature ran into a forest on 2 legs. Border patrol soldiers then captured a hairy 2-legged female creature that ate meat and vegetation. The creature allegedly was more similar to a gorilla than a bear, but its arms were shorter than the legs (in contrast to a gorilla). It was about 2 meters (6 feet 7 inches) tall. This was later revealed as a hoax, or possibly a publicity stunt for charity.[61]
+Possible explanations
+Misidentification of Himalayan wildlife has been proposed as an explanation for some Yeti sightings, including the Chu-Teh, a Langur monkey[62] living at lower altitudes, the Tibetan blue bear, the Himalayan brown bear or Dzu-Teh, also known as the Himalayan red bear.[62] Some have also suggested the Yeti could actually be a human hermit.
+A well publicized expedition to Bhutan reported that a hair sample had been obtained which by DNA analysis by Professor Bryan Sykes could not be matched to any known animal.[63] Analysis completed after the media release, however, clearly showed the samples were from a Brown bear (Ursus arctos) and an Asiatic black bear (Ursus thibetanus).[64]
+In 1986, South Tyrolean mountaineer Reinhold Messner claimed to have a face-to-face encounter with a Yeti. He wrote a book, My Quest for the Yeti, and claims to have killed one. According to Messner, the Yeti is actually the endangered Himalayan brown bear, Ursus arctos isabellinus, which can walk both upright or on all fours.[65]
+The 1983 Barun Valley discoveries prompted three years of research on the 'tree bear' possibility by Taylor, Fleming, John Craighead and Tirtha Shrestha. From that research the conclusion was that the Asiatic Black Bear, when about two years old, spends much time in trees to avoid attack by larger male bears on the ground ('ground bears'). During this tree period that may last two years, young bears train their inner claw outward, allowing an opposable grip. The imprint in the snow of a hind paw coming over the front paw that appears to have a hallux, especially when the bear is going slightly uphill so the hind paw print extends the overprint backward makes a hominoid-appearing track, both in that it is elongated like a human foot but with a “thumb” and in that a four-footed animal’s gait now appears bipedal.[66] This “yeti discovery”, in the words of National Geographic Magazine editor Bill Garrett, “[by] on-site research sweeps away much of the ‘smoke and mirrors’ and gives us a believable yeti”.[67]
+This fieldwork in Nepal’s Barun Valley led directly to initiating in 1984 Makalu-Barun National Park that protected over half a million acres in 1991, and across the border with China the Qomolangma national nature preserve in the Tibet Autonomous Region that protected over six million acres. In the words of Honorary President of the American Alpine Club, Robert H. Bates, this yeti discovery “has apparently solved the mystery of the yeti, or at least part of it, and in so doing added to the world’s great wildlife preserves” [68] such that the shy animal that lives in trees (and not the high snows), and mysteries and myths of the Himalaya that it represents, can continue within a protected area nearly the size of Switzerland.
+In 2003, Japanese researcher and mountaineer Dr. Makoto Nebuka published the results of his twelve-year linguistic study, postulating that the word "Yeti" is a corruption of the word "meti", a regional dialect term for a "bear". Nebuka claims that ethnic Tibetans fear and worship the bear as a supernatural being.[69] Nebuka's claims were subject to almost immediate criticism, and he was accused of linguistic carelessness. Dr. Raj Kumar Pandey, who has researched both Yetis and mountain languages, said "it is not enough to blame tales of the mysterious beast of the Himalayas on words that rhyme but mean different things."[70]
+Some speculate these reported creatures could be present-day specimens of the extinct giant ape Gigantopithecus.[71][72][73][74] However, the Yeti is generally described as bipedal, and most scientists believe Gigantopithecus to have been quadrupedal, and so massive that, unless it evolved specifically as a bipedal ape (like Oreopithecus and the hominids), walking upright would have been even more difficult for the now extinct primate than it is for its extant quadrupedal relative, the orangutan.
+In popular culture
+The Yeti has regularly been depicted in movies, literature, music, and video games.
+Art
+
+
+
+
+An illustration of a Yeti.
+
+
+Artist Stanisław Szukalski's works all involve the Yeti; this involved painting, sculpture, and 2 books full of his artistic works: Inner Portraits (1980) and A Trough Full of Pearls / Behold! The Protong (1982). Szukalski also developed a philosophy known as Zermatism in which the Yeti play a central role, along with the Sons of Yeti ("Yetinsyny"), the half-breed offspring of Yetis and humans.
+Film
+Significant film appearances include The Snow Creature (1954), Half Human (1955), The Abominable Snowman (1957), One of Our Dinosaurs Is Missing (1975), Yeti – il gigante del 20. secolo (1977), Snowbeast (1977), Monsters, Inc. (2001), Yeti: A Love Story (2006), Chill Out, Scooby-Doo! (2007), The Mummy: Tomb of the Dragon Emperor (2008), Yeti: Curse of the Snow Demon, (2008) Yetiko Khojima (Yeti; in search of Yeti, 2010). Rage of the Yeti (2011), Hotel Transylvania (2012), and Monsters University (2013). It will probably be in the upcoming 2015 film, Hotel Transylvania 2.
+In The Cabin in the Woods, the Yeti name is used for an ape-like beast that is also referred to as a Sasquatch and a Wendigo.
+Television
+The Yeti plays significant roles in some television shows, including:
+
+The annual American Christmas broadcast special Rudolph the Red-Nosed Reindeer.
+
+
+In various Looney Tunes cartoons, Hugo the Abominable Snowman is a Yeti.
+
+
+In the Robbie the Reindeer television specials, the character Des Yeti (voiced by Dick Enberg) is a Yeti
+
+
+A yeti appeared in a Spider-Man story from The Electric Company.
+
+
+In the Scooby Doo, Where Are You! episode "That's Snow Ghost," the Snow Ghost is a Yeti-like creature.
+
+
+A Yeti appeared in the DuckTales episode "Lost Crown of Genghis Khan" as the Abominable Snow Monster.
+
+
+The Yeti also appeared in Lost Tapes episode "Yeti," wherein it kills a billionaire explorer on Everest, whose remains, along with the Yeti, are discovered and brought to a government center to be publicly revealed as a new creature, but events ensure it is taken to a research facility instead.
+
+
+A Yeti appeared in Episode 25 of Jonny Quest.
+
+
+A robotic Yeti in "The Abominable Snowmen", a six-part serial from 1967 in the British science fiction television series Doctor Who (they returned in "The Web of Fear, "The Five Doctors", and "Downtime")
+
+
+In Power Rangers Operation Overdrive, the character Norg is a Yeti.
+
+
+In the second season Sabrina, the Teenage Witch episode, "My Nightmare, the Car," two characters are separately stranded in remote locations and spot what they think may be a yeti.
+
+
+In The Secret Saturdays, the character V.V. Argost is revealed to be a Yeti in the final season.
+
+
+In Ugly Americans, Yetis are among the creatures living in New York.
+
+
+In season 2 of Destination Truth, Josh Gates and his team went to Mount Everest in Nepal in search for a yeti.
+
+
+In the Ben 10: Ultimate Alien episode "Escape from Aggregor," Dr. Animo mind-controlled a Yeti to attack Ben while he prepares a bomb that would turn anyone in the radius of the explosion into Yetis.
+
+
+In Regular Show, the character Skips (voiced by Mark Hamill) is a Yeti.
+
+
+A Yeti appears in the 1977 American TV movie Snowbeast.[75]
+
+
+A Yeti-like creature appears in the 2011 movie called Snow Beast (which is different from the movie listed above).
+
+
+In a Season 38 episode of Saturday Night Live that was hosted by Bruno Mars, there was a segment in that episode called "Yeti Point" where it was mentioned that there are a lot of Yeti in that area and that they point at the person before they attack. The lodge's eyepatch-wearing desk clerk (played by Bruno Mars) tells the Johnsons (played by Jason Sudeikis and Vanessa Bayer) all about the Yeti that live on Yeti Point and how one of his co-workers named Roger (played by Bill Hader) was sexually harassed by a Yeti. While the Johnsons were preparing to check into the lodge, a Yeti (depicted as a man in a Yeti suit) appeared outside the lodge causing the desk clerk and Roger to go outside to deal with it. While the hikers talked, the desk clerk was thrown by the Yeti and Roger gave the Yeti a flower indicating that the Yeti was still in a relationship with Roger.
+
+
+The Yetis are featured in the TV movie Abominable Christmas.
+
+Literature
+In literature the Yeti has appeared prominently in many works, including Tintin in Tibet by Hergé, in The Abominable Snowman of Pasadena by R. L. Stine and a gamebook in the Choose Your Own Adventure series.
+The Abominable Snowman is a superhero character in the Marvel Comics publications and the Snowman is a similar character in DC Comics.
+The Yeti is also very prominent in the Book of the SubGenius and other literature by the Church of the SubGenius.
+The name "Mi-go" is used in the "Cthulhu Mythos" of H.P. Lovecraft, including the story "The Whisperer in Darkness". A quest for the Yeti is described in Philip Kerr's book Esau.
+The Yeti appears in Christopher Moore’s novel Lamb: The Gospel According to Biff, Christ's Childhood Pal, a story that follows Jesus (Joshua) on his travels before the age of 30.
+Tintin in Tibet depicts the yeti, feared as a savage by human beings, as an anthropoid with an oval-shaped head who has a caring attitude toward humans.
+In the Harry Potter franchise, the Yetis are depicted as white-furred 15 ft. humanoids and are classfied as XXXX by the Department for the Regulation and Control of Magical Creatures. The Yetis are one of the Wizarding World's worst kept secrets since the Muggles in Tibet have sighted some Yetis. The International Confederation of Wizards had to place a permanent International Task Force up in the mountains to help control the situation.
+Music
+American heavy metal band High on Fire included their song "The Yeti" on their second album Surrounded by Thieves. Rock band Clutch have a track entitled "The Yeti" on their third album The Elephant Riders. A psychedelic trance collaboration called "The mystery of the Yeti", featuring many prominent names of the genre, was released on two albums between the years 1996...1999. "What's the New Mary Jane" was a song written by John Lennon (but credited to Lennon–McCartney) and performed by The Beatles. It was recorded in 1968 for the album The Beatles (aka "The White Album"), but was not used. It contained the lyric, "She liked to be married to yeti, he cooking such groovy spaghetti." A newly mixed version of the recording was officially released on the 1996 compilation Anthology 3. On 11 October 2011, English singer-songwriter, Kate Bush, released, as a single from her album, "50 Words for Snow," the critically acclaimed and evocative, seven-minute song, "Wild Man," described by New Music Express music critic, Priya Elan, as having lyrics "full of geographical intrigue and century old myth." In 2012, parody artist Bad Lip Reading released a song, "YETI," about a doomed romance between Chris Martin and the titular cryptid.
+Theme parks
+Walt Disney World's attraction Expedition Everest is themed around the folklore of the Yeti and features a 25-foot-tall audio-animatronic Yeti which appears during the ride.[76] At Disneyland, a similar ride named the Matterhorn Bobsleds features three audio-animatronic Abominable Snowmen.
+Toys
+The Mattel Monster High line of dolls features a character named Abbey Bominable, a 16-year old exchange student to Monster High. In the webisodes, her character is fleshed out to include the fact she misses slang idioms, as her native language is Yetish. While depicted as a teenager with white hair (streaked with blue and pink), her height and strength intimidate the other students.
+Video games
+
+
+
+
+
+This section does not cite any references or sources. Please help improve this section by adding citations to reliable sources. Unsourced material may be challenged and removed. (July 2012) 
+
+
+Several video games feature yeti-like creatures as opponents in icy or mountainous levels.
+
+The video game Urban Yeti! features a yeti as the main character who undergoes a quest to find a mate in a human city.
+In Ratchet & Clank: Going Commando, the frozen tundras of planet Grelbin are home to Yeti-like creatures (officially Y.E.T.I.) that attack Ratchet in his search for Moonstones.
+In Spyro 2: Ripto's Rage!, a Yeti is terrorizing Buddhist-like monks in one of the first levels of the game.
+In Spyro: Year of the Dragon, one of the playable characters is a club-wielding yet eloquently-spoken Yeti named Bentley.
+In Dangerous Hunts 2, the last enemy faced is a Yeti.
+The The Legend of Zelda series features several creatures similar to the Yeti, like the eponymous Yetis from Snowpeak in Hyrule (The Legend of Zelda: Twilight Princess) or the Anouki and Yooks from the Ice Realm (The Legend of Zelda: Phantom Hourglass).
+The Naughty Dog game Uncharted 2: Among Thieves features yeti-like creatures that are revealed to be costumes worn by warriors from Shambhala.
+Slam Bam from Skylanders: Spyro's Adventure is a four-armed Yeti and comes in the Empire of Ice Adventure pack.
+The final mystery enemy from Carnivores: Ice Age is a yeti.
+In Shin Megami Tensei: Devil Survivor, Yeti, known as Wendigo in the game, is one of the first really powerful demons the party encounters.
+The Lunar (series) video games feature a yeti as a boss near the snowy town of Zulan in Lunar: Eternal Blue and its remake, Lunar 2: Eternal Blue Complete.
+In The Elder Scrolls V: Skyrim yeti-like Frost Trolls are featured as enemies in mountainous areas.
+In Plants vs. Zombies there is a zombie; the name is Zombie Yeti, due to its appearance like a yeti. Players get a reward after seeing it.
+In Zoo Tycoon the exhibits can include a Yeti from northwestern Canada.
+In SkiFree the "Abominable Snow Monster" is a yeti which always eats the player at the end of the game.[77]
+In the Pokémon series, the Pokémon Abomasnow is loosely based on a Yeti.
+In Carnivores: Ice Age, the yeti is one of the animals that can be killed.
+In the game Tomb Raider II, the yeti can be encountered on the Catacombs of The Talion level.
+In Delta Force: Land Warrior mission "Free Press", a yeti can be encountered at a certain point in the map. It can be killed as well.
+
+See also
+
+General
+
+
+
+Bigfoot
+Hibagon
+Yeren
+Yowie
+List of cryptids
+List of legendary creatures
+Mogollon Monster
+Paranormal
+The Legend of Boggy Creek (docudrama)
+Tsul 'Kalu
+Denisova hominin
+Wild Man of the Navidad
+
+
+
+Similar alleged creatures
+
+
+
+Almas – Central Asia
+Amomongo – Philippines
+Ban-manush – Bangladesh
+Barmanou – Afghanistan and Pakistan
+Batutut – South-east Asia
+Bigfoot – North America
+Daeva or Div  – Tajikistan, Iran
+Chuchunya – Siberia
+Fear liath – Scotland
+Fouke Monster – United States
+Genderuwa – Indonesia
+Grassman – United States
+Hibagon – Japan
+Mande Barung – India
+Mapinguari – South America
+Momo the Monster – United States
+Nuk-luk – Canada
+Orang Mawas – Malaysia
+Orang Pendek – Indonesia
+Sasquatch  – North America
+Skunk ape – United States
+Yeren – China
+Yowie – Australia
+
+
+References
+
+
+^ Sullivan, Tim (10 August 2008). "Losing the yeti in the forgotten nation of Butan". The Victoria Advocate. 
+^ Eberhart, George (2002). Mysterious Creatures: A Guide to Cryptozoology. ABC-CLIO. p. 613. ISBN 978-1-57607-283-7. 
+^ a b McLeod, Michael (2009). Anatomy of a beast: obsession and myth on the trail of Bigfoot. University of California Press. p. 54. ISBN 978-0-520-25571-5. 
+^ Stonor, Charles (1955 Daily Mail). The Sherpa and the Snowman. Hollis and Carter. 
+^ Napier, John (2005). Bigfoot: The Yeti and Sasquatch in Myth and Reality. London: N. Abbot. ISBN 0-525-06658-6. 
+^ a b c d Pranavananda, Swami (1957). "The Abominable Snowman". Journal of the Bombay Natural History Society 54. 
+^ a b Stonor, Charles (30 January 1954). The Statesman in Calcutta. 
+^ a b c d Swan, Lawrence W. (18 April 1958). "Abominable Snowman". Science 127 (3303): 882–884. doi:10.1126/science.127.3303.882-b. PMID 17733822. 
+^ a b Izzard, Ch. 2, pp. 21–22.
+^ a b c d Heuvelmans, Bernard (1958). On the Track of Unknown Animals. Rupert Hart-Davis. p. 164. 
+^ a b c Izzard, Ch. 2, p. 199.
+^ Izzard, Ch. 2, p. 22.
+^ Pranavananda, Swami (1955). Indian Geographical Journal, July–Sept 30: 99. 
+^ a b c d e Jackson, John A. (1955). More than Mountains. George G. Harrap & Co. Ltd). 
+^ Taylor
+^ Tilman, p. 131.
+^ a b Howard-Bury, Charles (February 1921). "Some Observations on the Approaches to Mount Everest". The Geographical Journal (The Geographical Journal, Vol. 57, No. 2) 57 (2): 121–124. doi:10.2307/1781561. JSTOR 1781561. 
+^ Yourghusband, Francis; Collie, H. Norman and Gatine, A. (February 1922). "Mount Everest" The reconnaissance: Discussion". The Geographical World Journal (The Geographical Journal, Vol. 59, No. 2) 59 (2): 109–112. doi:10.2307/1781388. JSTOR 1781388. 
+^ a b c Howard-Bury, Charles (1921). "19". Mount Everest The Reconnaissance, 1921. Edward Arnold. p. 141. ISBN 1-135-39935-2. 
+^ Izzard, Ch. 2, p. 21.
+^ a b c d e Tilman, pp. 127–137
+^ a b Izzard, Ch. 2, p. 24.
+^ Straus, William L., Jr., (8 June 1956). "Abominable Snowman". Science 123 (3206): 1024–1025. doi:10.1126/science.123.3206.1024. 
+^ Kirtley, Bacil F. (April 1964). "Unknown Hominids and New World legends". Western Folklore 23 (1304): 77–90. doi:10.2307/1498256. JSTOR 1498256. 
+^ Masters, John (January 1959). The Abominable Snowman. CCXVIII (1304). Harpers. p. 31. 
+^ Heuvelmans, Bernard (1958). On the Track of Unknown Animals. Rupert Hart-Davis. p. 129. 
+^ Izzard, Ch. 2, p. 23.
+^ Siiger, H. (1978). "The Abominable Snowman". In Fisher, James F. Himalayan anthropology: the Indo-Tibetan interface. Walter de Gruyter. p. 423. ISBN 9789027977007. 
+^ "Yeh-Teh: "That Thing There"". Cryptozoology.com. Retrieved 27 January 2012. 
+^ Waddell, Laurence Austine (1899). Among the Himalayas. Archibald Constable & Co. p. 223. 
+^ 6 to 7 in (150 to 180 mm), 4 in (100 mm)
+^ Abell, George Ogden and Singer, Barry (1981) Science and The Paranormal: Probing the Existence of The Supernatural, Scribner, p. 32. ISBN 0-684-16655-0.
+^ Wells, C. (2008). Who's Who in British Climbing, The Climbing Company, ISBN 0955660106.
+^ Tenzing Norgay (told to and written by James Ramsey Ullman) (1955). Man of Everest — The Autobiography of Tenzing. George Harrap & Co, Ltd. 
+^ "Daily Mail Team Will Seek Snowman". Cabernet.demon.co.uk. Retrieved 27 January 2012. 
+^ Jackson, John Angelo (2005). "Chapter 17". Adventure Travels in the Himalaya (pp135-152). New Delhi: Indus Pub. Co. p. 136. ISBN 81-7387-175-2. 
+^ Dobson, Jessie (June 1956). "Obituary: 79, Frederic Wood-Jones, F.R.S.: 1879–1954". Man 56: 82–83. 
+^ Wilfred E. le Gros Clark (November 1955). "Frederic Wood-Jones, 1879–1954". Biographical memoirs of Fellows of the Royal Society 1: 118–134. doi:10.1098/rsbm.1955.0009. 
+^ Izzard
+^ Coleman, Loren (1989) Tom Slick and the Search for Yeti, Faber & Faber, ISBN 0-571-12900-5
+^ Coleman, Loren (2002) Tom Slick: True Life Encounters in Cryptozoology, Fresno, California: Linden Press, ISBN 0-941936-74-0.
+^ Bedard, Paul; Fox, Lauren (2 September 2011). "Documents Show Feds Believed in the Yeti". US News and World Report. Retrieved 2 September 2011. 
+^ "Milestones – Jimmy Stewart". Anomalist.com. 2 July 1997. Retrieved 27 January 2012. 
+^ Kronish, Syd (10 December 10, 1966). "New Bhutan Stamp Shows 'Abomidable Snowman'". Associated Press via The Morning Record. 
+^ Sullivan, Tim (17 August 2008). "Yeti myth dying out as Bhutan modernizes". Associated Press. 
+^ Perrin, Jim (2005) The villain: the life of Don Whillans, The Mountaineers Books, pp. 261–2, ISBN 0099416727.
+^ Cronin, Edward W. (1979) The Arun: A Natural History of the World's Deepest Valley, Boston: Houghton Mifflin, p.153, ISBN 0395262992.
+^ Taylor, pp. 106–120.
+^ "Snow Walker Film". Bigfootencounters.com. 6 August 1996. Retrieved 27 January 2012. 
+^ Gee, Henry (2004). "Flores, God and Cryptozoology". News@nature. doi:10.1038/news041025-2. 
+^ Trackback URI (24 May 2011). "The yetis of Northern Thailand". Travelfish.org. Retrieved 27 January 2012. 
+^ Haviland, Charles (1 December 2007). "'Yeti prints' found near Everest". BBC News. Retrieved 1 December 2007. 
+^ Daegling, David J. (2004) Bigfoot Exposed: An Anthropologist Examines America's Enduring Legend, AltaMira Press, p. 260, footnote 21, ISBN 0-7591-0538-3.
+^ The Bhutan Yeti | Episodes | Destination Truth. Syfy. Retrieved on 2013-04-07.
+^ Lawson, Alastair (25 July 2008). "'Yeti hair' to get DNA analysis". BBC. 
+^ 'Yeti hairs' belong to a goat By Alastair Lawson — BBC News  – 11:20 GMT, Monday, 13 October 2008
+^ "Search for ape man continues against the odds". China.org.cn. 12 October 2010. Retrieved 27 January 2012. 
+^ Elder, Miriam (10 October 2011). "Siberia home to Yeti, Bigfoot enthusiasts insist". The Guardian. "More than a dozen scientists and yeti enthusiasts [...] at a day-long conference [...] "Conference participants came to the conclusion that the artefacts found give 95% evidence of the habitation of the 'snow man' on Kemerovo region territory," the statement said." 
+^ "Yeti Evidence Falls Flat: Scientist Says Local Officials Staged Siberian Snowman Hunt For Publicity". Aol.com. Retrieved 27 January 2012. 
+^ В горах Ингушетии пограничники поймали существо, похожее на "снежного человека". interfax.ru (28 December 2011)
+^ "Santa visits "Yeti" caught in Ingushetia". RIA Novosti. 27 January 2012. 
+^ a b "Everest to Kangchenjunga 1954 " Viewing 7. Yeti from Book-bw". Cabernet.demon.co.uk. Retrieved 27 January 2012. 
+^ Mystery Primate. The Statesmen
+^ Chandler, H.C. (2003). Using Ancient DNA to Link Culture and Biology in Human Populations. Unpublished D. Phil. thesis. University of Oxford, Oxford. 
+^ Trull, D. (1998) The Grizzly Truth About the Yeti – Stalking the Abominable Snow-Bear.
+^ Covey, Jacob (2006) Beasts: Traditional Hidden Creatures, Seattle, Washington, Fantagraphic Books/WW Norton, pp. 191–93.
+^ Taylor, back cover.
+^ Davis, Wade (2007). The Clouded Leopard: A Book of Travels. Tauris Parke Paperbacks. ISBN 978-1-84511-453-4. 
+^ "Tibet: Mystic Trivia". Iras.ucalgary.ca. 26 September 1998. Retrieved 27 January 2012. 
+^ Lak, Daniel (26 September 2003). "Yeti's 'non-existence' hard to bear". BBC News. Retrieved 27 January 2012. 
+^ Gilman, Laura Anne (2002) Yeti, The Abominable Snowman, The Rosen Publishing Group, Inc., ISBN 0-8239-3565-5
+^ Schmalzer, Sigrid (2008) The People's Peking Man: Popular Science and Human Identity in Twentieth-century China, The University of Chicago Press, p. 220, ISBN 978-0-226-73859-8
+^ Shrestha, Tej Kumar (1997) Mammals of Nepal, Nepal: R. K. Printers, p. 352, ISBN 0-9524390-6-9
+^ Truet, Turin and Gilman, Laura Anne (2011) Searching For Yeti: The Abominable Snowman, The Rosen Publishing Group, Inc., p. 37, ISBN 978-1-4488-4764-8
+^ Snow Beast at the Internet Movie Database
+^ "Engineering Expedition Everest, complete with a yeti". Machine Design. 3 May 2009. 
+^ http://ski.ihoc.net/ "Sights and Sounds" section
+
+
+Bibliography
+
+Izzard, Ralph, The Abominable Snowman Adventure, Hodder and Staoughton, 1955.
+Taylor, Daniel (1995) Something Hidden Behind the Ranges: An Himalayan Quest, San Francisco: Mercury House, ISBN 1562790730.
+Tilman, H. W. (1938) Mount Everest 1938, Appendix B, pp. 127–137, Pilgrim Publishing. ISBN 81-7769-175-9.
+
+Further reading
+
+John Napier (MRCS, IRCS, DSC) Bigfoot: The Yeti and Sasquatch in Myth and Reality 1972 ISBN 0-525-06658-6.
+Sir Francis Younghusband The Epic of Mount Everest, 1926, Edward Arnold & Co. The expedition that inadvertently coined the term "Abominable Snowman"
+Charles Howard-Bury, Mount Everest The Reconnaissance, 1921, Edward Arnold, ISBN 1-135-39935-2.
+John Angelo Jackson, More than Mountains, Chapter 10 (pp 92) & 11, Prelude to the Snowman Expedition & The Snowman Expedition, George Harrap & Co, 1954
+Charles Stonor, The Sherpa and the Snowman, recounts the 1955 Daily Mail "Abominable Snowman Expedition" by the scientific officer of the expedition, this is a very detailed analysis of not just the "Snowman" but the flora and fauna of the Himalaya and its people. Hollis and Carter, 1955.
+John Angelo Jackson, Adventure Travels in the Himalaya Chapter 17, Everest and the Elusive Snowman, 1954 updated material, Indus Publishing Company, 2005, ISBN 81-7387-175-2.
+Bernard Heuvelmans, On the Track of Unknown Animals, Hill and Wang, 1958
+Reinhold Messner, My Quest for the Yeti: Confronting the Himalayas' Deepest Mystery, New York: St. Martin's Press, 2000, ISBN 0-312-20394-2
+Gardner Soule, Trail of the Abominable Snowman, New York: G.P. Putnam's Sons, 1966, ISBN 0-399-60642-4
+Ann E. Bodie, The Exploding Cow Story: Concerning the History of the Yeti Throughout the Ages, New York: St.Martin's Press,1986
+The Abominable Snowman: How likely is it that the Yeti of the Himalayas is a real creature? Skeptoid: Critical Analysis of Pop Phenomena, 2 August 2011
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Cryptozoology and cryptobotany
+
+
+
+
+
+
+
+
+
+
+ 
+Overview
+
+
+
+
+
+
+
+
+
+
+
+Core topics
+
+
+
+
+Cryptid
+List of cryptids
+Zoology
+Botany
+Megafauna discovered in modern times
+Pseudoscience
+
+
+
+
+
+
+
+
+
+Cryptozoologists
+
+
+
+
+Bernard Heuvelmans
+Karl Shuker
+Jonathan Downes
+Jon-Erik Beckjord
+John Bindernagel
+Richard Freeman
+Loren Coleman
+Alexandr Mikhailovych Kondratov
+Roy Mackal
+Ivan T. Sanderson
+Organizations
+
+
+
+
+
+
+
+
+
+Books and television
+
+
+
+
+Animal X
+Arthur C. Clarke's Mysterious World
+Beast Hunter
+Beast Legends
+Destination Truth
+Fact or Faked: Paranormal Files
+Fortean TV
+In Search of...
+Is It Real?
+Lost Tapes
+MonsterQuest
+On the Track of Unknown Animals
+Sasquatch: Legend Meets Science
+The X Creatures
+The Secret Saturdays
+Weird Travels
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Zoological cryptids
+
+
+
+
+
+
+
+
+
+
+
+Africa
+
+
+
+
+Adjule
+Agogwe
+Emela-ntouka
+Ennedi tiger
+Gambo
+Grootslang
+Gustave
+Inkanyamba
+Kongamato
+Mbielu-Mbielu-Mbielu
+Mokele-mbembe
+Malawi terror beast
+Mamlambo
+Muhuru
+Nandi Bear
+Ngoubou
+Olitiau
+Nguma-monene
+Popobawa
+Salawa
+Trunko
+Zanzibar Leopard
+
+
+
+
+
+
+
+
+
+Asia
+
+
+
+
+Ahool
+Akkorokamui
+Almas
+Amomongo
+Ayia Napa sea monster
+Barmanou
+Batutut
+Bergman's Bear
+Brosno dragon
+Bukit Timah Monkey Man
+Buru
+Cat-fox
+Devil Bird
+Hibagon
+Issie
+Kappa
+Kting Voar
+Kussie
+Lake Tianchi Monster
+Lake Van Monster
+Maltese Tiger
+Mongolian Death Worm
+Monkey-man of Delhi
+Orang Pendek
+Phaya Naga
+Qilin
+Ropen
+Sigbin
+Sarimanok
+Sumxu
+Tsuchinoko
+Veo
+Yeren
+Yeti
+
+
+
+
+
+
+
+
+
+Australasia-
+Oceania
+
+
+
+
+Amomongo
+Blue Mountains panther
+Bunyip
+Ebu Gogo
+Four Mile Globster
+Gippsland phantom cat
+Globster
+Manaul
+Megalania
+Moehau
+Zuiyo-maru carcass
+New Zealand Globster
+Queensland Tiger
+Siyokoy
+Tasmanian Globster
+Thylacoleo
+Tikbalang
+Waitoreke
+Yowie
+
+
+
+
+
+
+
+
+
+Europe
+
+
+
+
+Afanc
+Ayia Napa sea monster
+Beast of Gévaudan
+Bishop-fish
+British big cats
+Canvey Island Monster
+Dahu
+Dobhar-chú
+Each uisge
+Eachy
+Elwetritsch
+Fear liath
+Fish-man of Liérganes
+Giglioli's Whale
+Hebrides Blob
+Jenny Haniver
+Kellas Cat
+Kraken
+Lagarfljót Worm
+Lariosauro
+Lindworm
+Loch Ness Monster
+Morag
+Morgawr
+Muc-sheilch
+Owlman
+Sea monk
+Sea serpent
+Selma
+Skvader
+Storsjöodjuret
+Stronsay Beast
+Tatzelwurm
+Wolpertinger
+
+
+
+
+
+
+
+
+
+North
+America
+
+
+
+
+Altamaha-ha
+Bear Lake Monster
+Beast of Bladenboro
+Beast of Bray Road
+Beast of Busco
+Bermuda Blob
+Bermuda Blob 2
+Bessie
+Bigfoot
+Cadborosaurus willsi
+Champ
+Chessie
+Chupacabra
+Crawfordsville monster
+Dover Demon
+Flatwoods monster
+Fouke Monster
+Goatman
+Grassman
+Hodag
+Homo gardarensis
+Honey Island Swamp monster
+Hoop snake
+Huay Chivo
+Igopogo
+Iliamna Lake Monster
+Jersey Devil
+Kingstie
+Lake Worth Monster
+Lizard Man of Scape Ore Swamp
+Loveland frog
+Lusca
+MacFarlane's bear
+Manipogo
+Melon heads
+Michigan Dogman
+Minnesota Iceman
+Momo the Monster
+Montauk Monster
+Mothman
+Mussie
+Nantucket Blob
+Newfoundland Blob
+Nuk-luk
+Ogopogo
+Old Yellow Top
+Ozark Howler
+Panama Creature
+Pope Lick Monster
+Shunka Warakin
+Sidehill gouger
+Skunk Ape
+St. Augustine Monster
+Tahoe Tessie
+Thunderbird
+Trinity Alps giant salamander
+Tsul 'Kalu
+Turtle Lake Monster
+Waheela
+Wampus cat
+
+
+
+
+
+
+
+
+
+South
+America
+
+
+
+
+Ameranthropoides loysi
+Andean Wolf
+Bloop
+Cherufe
+Chilean Blob
+Chupacabra
+Giant anaconda
+Mapinguari
+Minhocão
+Mono Grande
+Mylodon
+Nahuelito
+Peuchen
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Botanical cryptids
+
+
+
+
+
+
+
+
+
+Raskovnik
+Man-eating tree
+Umdhlebi
+Vegetable Lamb of Tartary
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+NewPP limit report
+CPU time usage: 3.276 seconds
+Real time usage: 3.415 seconds
+Preprocessor visited node count: 8529/1000000
+Preprocessor generated node count: 37879/1500000
+Post‐expand include size: 187244/2048000 bytes
+Template argument size: 24457/2048000 bytes
+Highest expansion depth: 29/40
+Expensive parser function count: 2/500
+Lua time usage: 0.318s
+Lua memory usage: 2.73 MB
+
+
+ Saved in parser cache with key enwiki:pcache:idhash:65755-0!*!0!!en!4!* and timestamp 20130930055436 
+								
+				Retrieved from "http://en.wikipedia.org/w/index.php?title=Yeti&oldid=575101359"				
+												Categories: Supernatural legendsHominid cryptidsCryptidsCryptozoologyHidden categories: Wikipedia semi-protected pagesUse dmy dates from February 2012Articles containing Tibetan-language textAll articles with unsourced statementsArticles with unsourced statements from February 2007Articles needing additional references from July 2012All articles needing additional references												
+							
+		
+		
+			Navigation menu
+			
+				
+	Personal tools
+	
+Create accountLog in	
+
+				
+					
+	Namespaces
+	
+					Article
+					Talk
+			
+
+
+	
+		
+	Variants
+	
+		
+					
+	
+
+				
+				
+					
+	Views
+	
+					Read
+					View source
+					View history
+			
+
+
+	Actions
+	
+		
+					
+	
+
+
+	Search
+	
+				
+																				
+		
+	
+
+				
+			
+			
+					
+				
+	Navigation
+	
+		
+			Main page
+			Contents
+			Featured content
+			Current events
+			Random article
+			Donate to Wikipedia
+		
+	
+
+
+	Interaction
+	
+		
+			Help
+			About Wikipedia
+			Community portal
+			Recent changes
+			Contact page
+		
+	
+
+
+	Toolbox
+	
+		
+			What links here
+			Related changes
+			Upload file
+			Special pages
+			Permanent link
+			Page information
+			Data item
+Cite this page		
+	
+
+
+	Print/export
+	
+		
+			Create a book
+			Download as PDF
+			Printable version
+		
+	
+
+
+	Languages
+	
+		
+			Azərbaycanca
+			বাংলা
+			Български
+			བོད་ཡིག
+			Brezhoneg
+			Català
+			Česky
+			Cymraeg
+			Dansk
+			Deutsch
+			Eesti
+			Español
+			Esperanto
+			Euskara
+			فارسی
+			Français
+			Galego
+			ગુજરાતી
+			한국어
+			हिन्दी
+			Hrvatski
+			Bahasa Indonesia
+			Íslenska
+			Italiano
+			עברית
+			ಕನ್ನಡ
+			ქართული
+			Latina
+			Latviešu
+			Lietuvių
+			Lumbaart
+			Magyar
+			മലയാളം
+			मराठी
+			Bahasa Melayu
+			မြန်မာဘာသာ
+			Nederlands
+			नेपाली
+			नेपाल भाषा
+			日本語
+			Norsk bokmål
+			Occitan
+			Polski
+			Português
+			Română
+			Русский
+			Shqip
+			Simple English
+			Slovenčina
+			Slovenščina
+			Српски / srpski
+			Srpskohrvatski / српскохрватски
+			Suomi
+			Svenska
+			Tagalog
+			தமிழ்
+			ไทย
+			Türkçe
+			Українська
+			中文
+			
+			Edit links
+		
+	
+
+			
+		
+		
+							
+											 This page was last modified on 30 September 2013 at 05:54.
+											Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. 
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+									
+							
+											Privacy policy
+											About Wikipedia
+											Disclaimers
+											Contact Wikipedia
+											Developers
+											Mobile view
+									
+										
+					
+						
+					
+					
+						
+					
+				
+						
+		
+		
+
+
+ Served by mw1169 in 0.194 secs. 
+	
+if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Yeti","wgTitle":"Yeti","wgCurRevisionId":575101359,"wgArticleId":65755,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Wikipedia semi-protected pages","Use dmy dates from February 2012","Articles containing Tibetan-language text","All articles with unsourced statements","Articles with unsourced statements from February 2007","Articles needing additional references from July 2012","All articles needing additional references","Supernatural legends","Hominid cryptids","Cryptids","Cryptozoology"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Yeti","wgIsProbablyEditable":false,"wgRestrictionEdit":["autoconfirmed"],"wgRestrictionMove":["autoconfirmed"],"wgRedirectedFrom":"Nyalmo","wgVectorEnabledModules":{"collapsiblenav":true,"experiments":true},"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"templateEditor":false,"templates":false,"preview":false,"previewDialog":false,"publish":false,"toc":false},"wgArticleFeedbackv5Permissions":{"aft-reader":false,"aft-member":false,"aft-editor":false,"aft-monitor":false,"aft-administrator":false,"aft-oversighter":false,"aft-noone":false},"wgVisualEditor":{"isPageWatched":false,"magnifyClipIconURL":"//bits.wikimedia.org/static-1.22wmf18/skins/common/images/magnify-clip.png","pageLanguageCode":"en","pageLanguageDir":"ltr"},"wikilove-recipient":"","wikilove-anon":0,"wgGuidedTourHelpGuiderUrl":"Help:Guided tours/guider","wgULSAcceptLanguageList":[],"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia","aftv5Article":{"id":65755,"title":"Yeti","namespace":0,"categories":["All articles needing additional references","All articles with unsourced statements","Articles containing Tibetan-language text","Articles needing additional references from July 2012","Articles with unsourced statements from February 2007","Cryptids","Cryptozoology","Hominid cryptids","Supernatural legends","Use dmy dates from February 2012","Wikipedia semi-protected pages"],"permissionLevel":false},"wgWikibaseItemId":"Q129628"});
+}if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":false,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,
+"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"useeditwarning":1,"prefershttps":1,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"vector-simplesearch":1,"vector-collapsiblenav":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"aftv5-last-filter":null,"visualeditor-enable":0,"visualeditor-enable-experimental":0,"visualeditor-betatempdisable":0,"wikilove-enabled":1,"echo-subscriptions-web-page-review":true,"echo-subscriptions-email-page-review":false,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"echo-notify-show-link":true,"echo-show-alert":true,"echo-email-frequency":0,"echo-email-format":"html","echo-subscriptions-email-system":true,"echo-subscriptions-web-system":true,"echo-subscriptions-email-other":false,"echo-subscriptions-web-other":true,"echo-subscriptions-email-edit-user-talk":false,"echo-subscriptions-web-edit-user-talk":true,
+"echo-subscriptions-email-reverted":false,"echo-subscriptions-web-reverted":true,"echo-subscriptions-email-article-linked":false,"echo-subscriptions-web-article-linked":false,"echo-subscriptions-email-mention":false,"echo-subscriptions-web-mention":true,"echo-subscriptions-web-edit-thank":true,"echo-subscriptions-email-edit-thank":false,"gettingstarted-task-toolbar-show-intro":true,"uls-preferences":"","language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs446":false,"searchNs447":false
+,"searchNs710":false,"searchNs711":false,"searchNs828":false,"searchNs829":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-mySandbox":1,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:156d8fe0ae17f8afd74198057563e45d */
+}if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","ext.visualEditor.viewPageTarget.init","ext.wikimediaShopLink.core","ext.uls.init","ext.uls.interface","wikibase.client.init","ext.centralNotice.bannerController","skins.vector.js"]);
+}/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}if(window.mw){
+mw.loader.load(["mediawiki.action.view.postEdit","mobile.desktop","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.cite","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","mw.MwEmbedSupport.style","ext.vector.collapsibleNav","ext.articleFeedbackv5.startup","ext.gettingstarted.logging","ext.gettingstarted.openTask","schema.HttpsSupport","ext.coreEvents.httpsSupport","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","mw.PopUpMediaTransform"],null,true);
+}

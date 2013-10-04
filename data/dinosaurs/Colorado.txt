@@ -1,0 +1,4575 @@
+
+
+
+Colorado - Wikipedia, the free encyclopedia
+
+
+
+
+
+
+
+
+
+
+
+
+a:lang(ar),a:lang(ckb),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:0de201fdea5d684523607ed88007b127 */
+
+
+
+
+[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.22wmf18/skins/vector/csshover.min.htc")}</style><![endif]
+
+		
+		
+		
+			
+			
+						 CentralNotice 
+						Colorado
+			
+								From Wikipedia, the free encyclopedia
+								
+												
+					Jump to:					navigation, 					search
+				
+				This article is about the U.S. state of Colorado.  For the river, see Colorado River.  For the physiographic region, see Colorado Plateau.  For other uses, see Colorado (disambiguation).
+
+
+State of Colorado
+
+
+
+
+
+
+
+
+
+Flag
+Seal
+
+
+
+
+
+Nickname(s): The Centennial State
+
+
+Motto(s): NIL SINE NVMINE
+(English: Nothing without providence)
+
+
+
+
+
+
+
+
+
+Demonym
+Coloradan
+
+
+Capital
+(and largest city)
+Denver
+
+
+Largest metro
+Denver-Aurora-Lakewood, CO Metropolitan Statistical Area
+
+
+Area
+Ranked 8th
+
+
+ - Total
+104,094 sq mi
+(269,837 km2)
+
+
+ - Width
+380 miles (612 km)
+
+
+ - Length
+280 miles (451 km)
+
+
+ - % water
+0.36%
+
+
+ - Latitude
+37°N to 41°N
+
+
+ - Longitude
+102°03'W to 109°03'W
+
+
+Population
+Ranked 22nd
+
+
+ - Total
+5,187,582 (2012 estimate)[1]
+
+
+ - Density
+49.3/sq mi  (19.0/km2)
+Ranked 37th
+
+
+ - Median household income
+$80,826 (10th)
+
+
+Elevation
+
+
+
+ - Highest point
+Mount Elbert[2][3][4][5] in Lake County
+14,440 ft (4401.2 m)
+
+
+ - Mean
+6,800 ft  (2070 m)
+
+
+ - Lowest point
+Arikaree River[3][4] at the Kansas border
+3,317 ft (1011 m)
+
+
+Before statehood
+Territory of Colorado
+
+
+Admission to Union
+August 1, 1876 (38th state)
+
+
+Governor
+John Hickenlooper (D) (2011–)
+
+
+Lieutenant Governor
+Joseph A. Garcia (D) (2011–)
+
+
+Legislature
+General Assembly
+
+
+ - Upper house
+Senate D-18, R-17
+
+
+ - Lower house
+House of Representatives D-37, R-28
+
+
+U.S. Senators
+2. Mark Udall (D) (2009–)
+3. Michael Bennet (D) (2009–)
+
+
+U.S. House delegation
+1. Diana DeGette (D) (1997–)
+2. Jared Polis (D) (2009–)
+3. Scott Tipton (R) (2011–)
+4. Cory Gardner (R) (2011–)
+5. Doug Lamborn (R) (2007–)
+6. Mike Coffman (R) (2009–)
+7. Ed Perlmutter (D) (2007–) (list)
+
+
+Time zone
+Mountain: UTC-07/UTC-06
+
+
+Abbreviations
+CO, Colo. US-CO
+
+
+Website
+www.colorado.gov
+
+
+Colorado (i/kɒləˈrædoʊ/,[6] or /kɒləˈrɑːdoʊ/[7]) is a U.S. state encompassing most of the Southern Rocky Mountains as well as the northeastern portion of the Colorado Plateau and the western edge of the Great Plains. Colorado is part of the Western United States, the Southwestern United States, and the Mountain States. Colorado is the 8th most extensive and the 22nd most populous of the 50 United States. The United States Census Bureau estimates that the population of Colorado was 5,187,582 on July 1, 2012, an increase of +3.15% since the 2010 United States Census.[1]
+The state was named for the Colorado River, which Spanish explorers named the Río Colorado for the ruddy (Spanish: colorado) silt the river carried from the mountains. On August 1, 1876, U.S. President Ulysses S. Grant signed a proclamation admitting Colorado to the Union as the 38th state. Colorado is nicknamed the "Centennial State" because it became a state in the centennial year of the United States Declaration of Independence.
+Colorado is bordered by the northwest state of Wyoming to the north, the Midwest states of Nebraska and Kansas to the northeast and east, on the south by New Mexico and Oklahoma, on the west by Utah, and Arizona to the southwest. The four states of Colorado, New Mexico, Utah, and Arizona meet at one common point known as the Four Corners, which is known as the heart of the American Southwest. Colorado is noted for its vivid landscape of mountains, forests, high plains, mesas, canyons, plateaus, rivers, and desert lands.
+Denver is the capital and the most populous city of Colorado. Residents of the state are properly known as "Coloradans", although the archaic term "Coloradoan" is still used.[8][9]
+
+
+Contents
+
+
+1 Geography
+
+1.1 Mountains
+1.2 Plains
+1.3 Front range
+1.4 Continental Divide
+1.5 Southern region
+1.6 Peaks
+1.7 Colorado Western Slope
+
+
+2 Climate
+
+2.1 Eastern Plains
+2.2 West of the plains and foothills
+2.3 Extreme weather
+2.4 Records
+2.5 Earthquakes
+
+
+3 History
+
+3.1 Territory act
+3.2 Statehood
+
+
+4 Demographics
+
+4.1 Religion
+4.2 Health
+
+
+5 Culture
+
+5.1 Fine arts
+
+5.1.1 Film
+
+
+5.2 Cuisine
+5.3 Wine & Beer
+
+
+6 Economy
+
+6.1 Philanthropy
+6.2 Natural resources
+
+
+7 Transportation
+8 Government and politics
+
+8.1 State government
+8.2 Counties
+
+8.2.1 Metropolitan areas
+
+
+8.3 Municipalities
+
+8.3.1 Unincorporated communities
+
+
+8.4 Special districts
+8.5 Federal politics
+8.6 Significant bills passed in Colorado
+
+
+9 Education
+10 Military installations
+11 Protected areas
+12 Sports
+
+12.1 Professional sports teams
+12.2 College athletics
+
+
+13 State symbols
+14 See also
+15 References
+16 Further reading
+17 External links
+
+
+Geography[edit]
+Main article: Geography of Colorado
+Colorado is notable for its diverse geography, ranging from alpine mountains, arid plains and deserts with huge sand dunes, deep canyons, sandstone and granite rock formations, rivers, lakes, and lush forests. The borders of Colorado were originally defined to be lines of latitude and longitude, making its shape a latitude-longitude* quadrangle which stretches from 37°N to 41°N latitude and from 102°03'W to 109°03'W longitude (25°W to 32°W from the Washington Meridian).[10] Colorado, Wyoming and Utah are the only states which have boundaries defined solely by lines of latitude and longitude. When placing the border markers for the Territory of Colorado, minor surveying errors resulted in several small kinks, most notably along the border with the Territory of Utah. Once agreed upon by the federal, state, and territorial governments, those surveyors' benchmarks became the legal boundaries for the Colorado Territory, kinks and all.[11]
+
+
+
+
+The Elk Mountains near Aspen, Colorado
+
+
+Mountains[edit]
+The summit of Mount Elbert at 14,440 feet (4,401 m) in elevation in Lake County is the highest point of Colorado and the Rocky Mountains.[2] Colorado is the only U.S. state that lies entirely above 1,000 meters (3,281 ft) elevation. The point where the Arikaree River flows out of Yuma County, Colorado, and into Cheyenne County, Kansas, is the lowest point in Colorado at 3,317 feet (1,011 m) elevation. This point, which holds the distinction of being the highest low elevation point of any state,[3][12] is higher than the high elevation points of 18 states and the District of Columbia.
+
+
+
+
+A view of the arid high plains in Morgan County in Northeastern Colorado
+
+
+Plains[edit]
+A little over one third of the area of Colorado is flat and rolling land. East of the Rocky Mountains are the Colorado Eastern Plains of the High Plains, the section of the Great Plains within Colorado at elevations ranging from roughly 3,350 to 7,500 feet (1,020 to 2,300 m).[13] The Colorado plains are usually thought of as prairies, but actually they have many patches of deciduous forests, buttes, and canyons, much like the high plains in New Mexico as well. Eastern Colorado is presently mainly covered in farmland, along with small farming villages and towns. Precipitation is fair, averaging from 15 to 25 inches (380 to 640 mm) annually.[14] Corn, wheat, hay, soybeans, and oats are all typical crops, and most of the villages and towns in this region boast both a water tower and a grain elevator. As well as the farming of crops, Eastern Colorado has a good deal of livestock raising, such as at cattle ranches and hog farms and irrigation water is available from the South Platte, the Arkansas River, and a few other streams, and also from subterranean sources, including artesian wells. However, heavy use of ground water from wells for irrigation has caused underground water reserves to decline.
+
+
+
+
+Front Range Peaks west of Denver
+
+
+Front range[edit]
+Most of Colorado's population resides along the eastern edge of the Rocky Mountains in the Front Range Urban Corridor between Cheyenne, Wyoming, and Pueblo, Colorado. This region is partially protected from prevailing storms that blow in from the Pacific Ocean region by the high Rockies in the middle of Colorado. The only other significant population centers are at Grand Junction and Durango in western and southwestern Colorado.
+Continental Divide[edit]
+The Continental Divide extends along the crest of the Rocky Mountains. The area of Colorado to the west of the Continental Divide is called the Western Slope of Colorado. Drainage water west of the Continental Divide flows to the southwest via the Colorado River and the Green River into the Gulf of California.
+Within the interior of the Rocky Mountains are several large so-called "parks" or high broad basins. In the north, on the east side of the Continental Divide is the North Park of Colorado. The North Park is drained by the North Platte River, which flows north into Wyoming and Nebraska. Just to the south of North Park, but on the western side of the Continental Divide, is the Middle Park of Colorado, which is drained by the Colorado River. The South Park of Colorado is the region of the headwaters of the South Platte River.
+Southern region[edit]
+
+
+
+
+The tallest dunes in North America at Great Sand Dunes National Park in southern Colorado
+
+
+In southmost Colorado is the large San Luis Valley, where the headwaters of the Rio Grande are located. The valley sits between the Sangre De Cristo Mountains and San Juan Mountains, and consists of large desert lands that eventually run into the mountains. The Rio Grande drains due south into New Mexico, Mexico, and Texas. Across the Sangre de Cristo Range to the east of the San Luis Valley lies the Wet Mountain Valley. These basins, particularly the San Luis Valley, lie along the Rio Grande Rift, a major geological formation of the Rocky Mountains, and its branches.
+Peaks[edit]
+To the west of the Great Plains of Colorado rises the eastern slope of the Rocky Mountains. Notable peaks of the Rocky Mountains include Longs Peak, Mount Evans, Pikes Peak, and the Spanish Peaks near Walsenburg, in southern Colorado. This area drains to the east and the southeast, ultimately either via the Mississippi River or the Rio Grande into the Gulf of Mexico.
+
+
+
+
+Peaks of the San Juan Mountains
+
+
+The Rocky Mountains within Colorado contain about 54 peaks that are 14,000 feet (4,267 m) or higher in elevation above sea level, known as fourteeners.[15] These mountains are largely covered with trees such as conifers and aspens up to the tree line, at an elevation of about 12,140 feet (3,700 m) in southern Colorado to about 10,500 feet (3,200 m) in northern Colorado. Above this only alpine vegetation grows. Only small parts of the Colorado Rockies are snow-covered year round.
+Much of the alpine snow melts by mid-August with the exception of a few snowcapped peaks and a few small glaciers. The Colorado Mineral Belt, stretching from the San Juan Mountains in the southwest to Boulder and Central City on the front range, contains most of the historic gold- and silver-mining districts of Colorado. Mount Elbert is the highest summit of the Rocky Mountains. The 30 highest major summits of the Rocky Mountains of North America all lie within the state.
+
+
+
+
+
+Rim Arch in the Black Ridge Canyons Wilderness in western Colorado
+
+
+Colorado Western Slope[edit]
+The Western Slope of Colorado is drained by the Colorado River and its tributaries (primarily the Green River and the San Juan River), or by evaporation in its arid areas. Prominent in the southwestern area of the Western Slope is the Grand Mesa and the high San Juan Mountains, a rugged mountain range, and to the west of the San Juan Mountains, the Colorado Plateau, a high arid region that borders Southern Utah. The Colorado River flows through Glenwood Canyon and then through an arid valley made up of desert from Rifle to Parachute, through the desert canyon of De Beque Canyon, and into the arid desert of Grand Valley, of which the city of Grand Junction is located.
+
+
+
+
+Black Canyon of the Gunnison National Park near Montrose
+
+
+The city of Grand Junction, Colorado, is the largest city on the Western Slope, Grand Junction and Durango are the only major centers of radio and television broadcasting, newspapers, and higher education on the Western Slope. Colorado Mesa University in Grand Junction, Western State College of Colorado in Gunnison, and Fort Lewis College in Durango are the only four-year colleges in Colorado west of the Continental Divide.
+
+
+
+
+Hanging Lake near Glenwood Springs
+
+
+Grand Junction is located along Interstate 70, the only major highway of Western Colorado. Grand Junction is also along the major railroad of the Western Slope, the Union Pacific, which also provides the tracks for Amtrak's California Zephyr passenger train, which crosses the Rocky Mountains between Denver and Grand Junction via a route on which there are no continuous highways.
+To the southeast of Grand Junction is the Grand Mesa, said to be the world's largest flat-topped mountain. Other towns of the Western Slope include Glenwood Springs with its resort hot springs, and the ski resorts of Aspen, Breckenridge, Vail, Crested Butte, Steamboat Springs, and Telluride.
+The northwestern corner of Colorado is a sparsely populated region, and it contains part of the noted Dinosaur National Monument, which is not only a paleontological area, but is also a scenic area of rocky hills, canyons, arid desert, and streambeads. Here, the Green River briefly crosses over into Colorado.
+From west to east, the land of Colorado consists of desert lands, desert plateaus, alpine mountains, National Forests, relatively flat grasslands, scattered forests, buttes, and canyons in the western edge of the Great Plains. The famous Pikes Peak is located just west of Colorado Springs. Its isolated peak is visible from nearly the Kansas border on clear days, and also far to the north and the south.[16]
+The desert lands in Colorado are located in and around areas such as, the Pueblo, Canon City, Florence, Great Sand Dunes National Park and Preserve, San Luis Valley, Cortez, Canyon of the Ancients National Monument, Hovenweep National Monument, Ute Mountain, Delta, Grand Junction, Colorado National Monument, and other areas surrounding the Uncompahgre Plateau and Uncompahgre National Forest.
+
+
+
+
+The Four Corners Monument, with Ute Mountain in the distance
+
+
+Colorado is one of four states in the United States that share a common geographic point the Four Corners together with Arizona, New Mexico, and Utah. At this intersection, it is possible to stand in four states at once.
+See also: Colorado cities and towns, List of counties in Colorado, Colorado municipalities, Colorado rivers, and Four Corners Monument
+Climate[edit]
+The climate of Colorado is more complex than states outside of the Mountain States region. Unlike most other states, southern Colorado is not always warmer than northern Colorado. Most of Colorado is made up of mountains, foothills, high plains, and desert lands. Mountains and surrounding valleys greatly affect local climate.
+As a general rule, with an increase in elevation comes a decrease in temperature and an increase in precipitation. Northeast, east, and southeast Colorado are mostly the high plains, while Northern Colorado is a mix of high plains, foothills, and mountains. Northwest and west Colorado are predominantly mountainous, with some desert lands mixed in. Southwest and southern Colorado are a complex mixture of desert and mountain areas.
+Eastern Plains[edit]
+
+
+
+
+Center pivot irrigation of wheat growing in Yuma County
+
+
+The climate of the Eastern Plains is semi-arid (Köppen climate classification: BSk) with low humidity and moderate precipitation, usually from 15 to 25 inches (380 to 640 mm) annually. The area is known for its abundant sunshine and cool clear nights, which give this area a great average diurnal temperature range. The difference between the highs of the day and the cool of nights can be considerable as warmth dissipates to the space during clear nights, the heat radiation not being trapped by clouds. Denver has one of the highest number of annual sunshine hours and clear days of major cities in the United States, the sunshine hours being comparable to Miami, Florida. The climate of Colorado is well suited for the utilization of evaporative coolers and solar hot water.
+In summer, this area can have many days above 95 °F (35 °C) and often 100 °F (38 °C).[17] On the plains, the winter lows usually range from 25 °F (−3.5 °C) to −10 °F (−23 °C). About 75% of the precipitation falls within the growing season, from April to September, but this area is very prone to droughts. Most of the precipitation comes from thunderstorms, which can be severe, and from major snowstorms that occur in the winter, and early spring. Otherwise, winters tend to be mostly dry and cold.[18]
+In much of the region, March is the snowiest month. April and May are normally the rainiest months, while April is the wettest month overall. The Front Range cities closer to the mountains tend to be warmer in the winter due to chinook winds which warm the area, sometimes bringing temperatures of 70 °F (21 °C) or higher in the winter.[18] The average July temperature is 55 °F (13 °C) in the morning and 90 °F (32 °C) in the afternoon. The average January temperature is 18 °F (−8 °C) in the morning and 48 °F (9 °C) in the afternoon, although variation between consecutive days can be 40 °F (22 °C).
+West of the plains and foothills[edit]
+West of the plains and foothills, the weather of Colorado is much less uniform. Even places a few miles apart can experience entirely different weather depending on the topography of the area. Most valleys have a semi-arid climate, which becomes an alpine climate at higher elevations. Humid microclimates also exist in some areas. Generally, the wettest season in western Colorado is winter while June is the driest month.
+The mountains have mild summers with many days of high temperatures between 60 °F (16 °C) and 85 °F (29 °C), although thunderstorms can cause sudden but brief drops in temperature. The winters bring abundant, powdery snowfall to the mountains with plenty of sunshine in between major storms. The western slope has high summer temperatures similar to those found on the plains, while the winters tend to be slightly cooler due to the lack of warming winds common to the plains and Front Range. Other areas in the west have their own unique climate.
+Extreme weather[edit]
+
+
+
+
+Snow highlights the rugged mountains as well as the urban and agricultural landscapes of the Colorado plains.
+
+
+Extreme weather changes are common in Colorado, although the majority of extreme weather occurs in the least populated areas of the state. Thunderstorms are common east of the Continental divide in the spring and summer yet usually brief. Hail is a common sight in the mountains east of the divide and in the northwest part of the state. The Eastern Plains have had some of the biggest hail storms in North America.[14]
+The Eastern Plains are part of the extreme western portion of Tornado Alley, some damaging tornadoes in the Eastern Plains include the 1990 Limon F3 tornado and the 2008 Windsor EF3 tornado, which devastated the small town.[19] The plains are also susceptible to occasional floods, which are caused both by thunderstorms and by the rapid melting of snow in the mountains during warm weather. Denver's record in 1901 for the number of consecutive days above 90 °F (32 °C) was broken during the summer of 2008. The new record of 24 consecutive days surpassed the previous record by almost a week.[20]
+Much of Colorado is a very dry state averaging only 17 inches (430 mm) of precipitation per year statewide and rarely experiences a time when some portion of the state is not in some degree of drought.[21] The lack of precipitation contributes to the severity of wildfires in the state such as the Hayman Fire, one of the largest wildfires in American history, and the Fourmile Canyon Fire of 2010, which until the Waldo Canyon Fire of June 2012, and the Black Forest Fire approximately a year later, was the most destructive wildfire in Colorado's recorded history.
+However, there are some of the mountainous regions of Colorado which receive a huge amount of moisture via winter snowfalls. The spring melts of these snows often cause great waterflows in such rivers as the Yampa River, the Grand River, the Colorado River, the Rio Grande, the Arkansas River, Cherry Creek, the North Platte River, and the South Platte River.
+
+
+
+
+The Yampa River, from a high overlook.
+
+
+Water flowing out of the Colorado Rocky Mountains is a very significant source of water for the farms, towns, and cities of fellow southwest states of New Mexico, Arizona, Utah, Nevada, as well as midwest like Nebraska and Kansas, and also southern states like Oklahoma and Texas. A significant amount of water is also diverted for use in California; occasionally (formerly naturally and consistently) the flow of water reaches northern Mexico.
+Records[edit]
+The highest ambient air temperature ever recorded in Colorado was 118 °F (48 °C) on July 11, 1888, at Bennett. The lowest air temperature was −61 °F (−52 °C) on February 1, 1985, at Maybell.[22][23]
+
+
+Monthly normal high and low temperatures for various Colorado cities[24]
+(°F) (°C)
+
+City
+Jan
+Feb
+Mar
+Apr
+May
+Jun
+Jul
+Aug
+Sep
+Oct
+Nov
+Dec
+
+
+Alamosa
+35/−2
+2/−19
+40/6
+4/−14
+51/17
+11/−8
+60/24
+16/−4
+70/33
+21/1
+79/41
+26/5
+83/47
+28/8
+80/46
+27/8
+73/37
+23/3
+62/25
+17/−4
+47/12
+8/−11
+36/1
+2/−17
+
+
+Colorado Springs
+43/18
+6/−8
+45/20
+7/−7
+52/26
+11/−3
+60/33
+16/1
+69/43
+21/6
+79/51
+26/11
+85/57
+29/14
+82/56
+28/13
+75/47
+24/8
+63/36
+17/2
+51/25
+11/−4
+42/18
+6/−8
+
+
+Denver
+44/19
+7/−7
+46/21
+8/−6
+54/27
+12/−3
+61/35
+16/2
+71/44
+21/7
+82/53
+28/12
+89/59
+32/15
+86/58
+30/14
+78/49
+26/9
+65/37
+18/3
+52/26
+11/−3
+43/18
+6/−8
+
+
+Grand Junction
+38/18
+3/−8
+46/25
+8/−4
+57/32
+14/0
+66/39
+19/4
+76/48
+24/9
+88/57
+31/14
+94/64
+34/18
+90/62
+32/17
+81/53
+27/12
+67/41
+19/5
+51/29
+11/−2
+39/19
+4/−7
+
+
+Pueblo
+47/14
+8/−10
+51/18
+11/−8
+60/26
+16/−3
+68/34
+20/1
+77/44
+25/7
+88/53
+31/12
+93/59
+34/15
+90/58
+32/14
+82/48
+28/9
+70/34
+21/1
+57/23
+14/−5
+46/14
+8/−10
+
+
+
+Earthquakes[edit]
+Despite its mountainous terrain, Colorado is relatively quiescent seismically. The U.S. National Earthquake Information Center is located in Golden.
+On August 22, 2011, a 5.3 magnitude earthquake occurred nine miles WSW of the city of Trinidad.[25] No casualties and only small damage was reported. It was the second largest earthquake in Colorado. A magnitude 5.7 earthquake was recorded in 1973.[26]
+History[edit]
+
+
+
+
+The ruins of the Cliff Palace at Mesa Verde as photographed by Gustaf Nordenskiöld in 1891.
+
+
+
+
+
+
+Great Kiva at Chimney Rock in the San Juan Mountains of Southwestern Colorado. It is said to have been built by the Ancient Pueblo peoples.
+
+
+Main articles: History of Colorado and Timeline of Colorado history
+The region that is today the state of Colorado has been inhabited by Native Americans for more than 13,000 years. The Lindenmeier Site in Larimer County contains artifacts dating from approximately 11200 BC to 3000 BC. The eastern edge of the Rocky Mountains was a major migration route that was important to the spread of early peoples throughout the Americas. The Ancient Pueblo Peoples lived in the valleys and mesas of the Colorado Plateau.[27] The Ute Nation inhabited the mountain valleys of the Southern Rocky Mountains and the Western Rocky Mountains, even as far east as the Front Range of present day. The Apache and the Comanche also inhabited the Eastern and Southeastern portions of the state as well. The Arapaho Nation and the Cheyenne Nation moved west to hunt across the High Plains at times as well.
+The United States acquired a territorial claim to the eastern flank of the Rocky Mountains with the Louisiana Purchase from France in 1803. This U.S. claim conflicted with the claim of Spain to the upper Arkansas River Basin as the exclusive trading zone of its colony of Santa Fé de Nuevo Méjico. Zebulon Pike led a U.S. Army reconnaissance expedition into the disputed region in 1806. Colonel Pike and his men were arrested by Spanish cavalrymen in the San Luis Valley the following February, taken to Chihuahua, and then expelled from Mexico the following July.
+The United States relinquished its claim to all land south and west of the Arkansas River and south of 42nd parallel north and west of the 100th meridian west as part of its purchase of Florida from Spain with the Adams-Onís Treaty of 1819. The treaty took effect February 22, 1821. Having settled its border with Spain, the United States admitted the southeastern portion of the Territory of Missouri to the Union as the state of Missouri on August 10, 1821. The remainder of the Missouri Territory, including what would become northeastern Colorado, became unorganized territory, and would remain so for 33 years over the question of slavery. After 11 years of war, Spain finally recognized the independence of Mexico with the Treaty of Córdoba signed on August 24, 1821. Mexico eventually ratified the Adams-Onís Treaty in 1831. The Texian Revolt of 1835–1836 fomented a dispute between the United States and Mexico which eventually erupted into the Mexican-American War in 1846. Mexico surrendered its northern territory to the United States with the Treaty of Guadalupe Hidalgo at the conclusion of the war in 1848.
+
+
+
+
+Map of the Mexican cession, with the white representing the territory the United States received from Mexico. Well over half of Colorado was received during this treaty.
+
+
+Most American settlers traveling overland west to the Oregon Country, the new goldfields of California, or the new Mormon settlements of Deseret in the Salt Lake Valley, avoided the rugged Southern Rocky Mountains, and instead followed the North Platte River and Sweetwater River to South Pass, the lowest crossing of the Continental Divide between the Southern Rocky Mountains and the Central Rocky Mountains. In 1849, the Mormons of the Salt Lake Valley organized the extralegal State of Deseret, claiming the entire Great Basin and all lands drained by the Green, Grand, and Colorado rivers. The federal government of the United States flatly refused to recognize the new Mormon government, because it was theocratic and sanctioned plural marriage. Instead, the Compromise of 1850 divided the Mexican Cession and the northwestern claims of Texas into a new state and two new territories, the state of California, the Territory of New Mexico, and the Territory of Utah. On April 9, 1851, Mexican American settlers from the area of Taos settled the village of San Luis, then in the New Mexico Territory, later to become Colorado's first permanent Euro-American settlement.
+
+
+
+
+The Anasazi Heritage Center in Dolores
+
+
+In 1854, Senator Stephen A. Douglas persuaded the U.S. Congress to divide the unorganized territory east of the Continental Divide into two new organized territories, the Territory of Kansas and the Territory of Nebraska, and an unorganized southern region known as the Indian territory. Each new territory was to decide the fate of slavery within its boundaries, but this compromise merely served to fuel animosity between free soil and pro-slavery factions.
+The gold seekers organized the Provisional Government of the Territory of Jefferson on August 24, 1859, but this new territory failed to secure approval from the Congress of the United States embroiled in the debate over slavery. The election of Abraham Lincoln for the President of the United States on November 6, 1860, led to the secession of nine southern slave states and the threat of civil war among the states. Seeking to augment the political power of the Union states, the Republican Party dominated Congress quickly admitted the eastern portion of the Territory of Kansas into the Union as the free State of Kansas on January 29, 1861, leaving the western portion of the Kansas Territory, and its gold-mining areas, as unorganized territory.
+Territory act[edit]
+
+
+
+
+The territories of New Mexico, Utah, Kansas, and Nebraska before the creation of the Territory of Colorado
+
+
+Thirty days later on February 28, 1861, outgoing U.S. President James Buchanan signed an Act of Congress organizing the free Territory of Colorado.[28] The original boundaries of Colorado remain unchanged today. The name Colorado was chosen because it was commonly believed that the Colorado River originated in the territory.[29] In 1776, Spanish priest Silvestre Vélez de Escalante recorded that Native Americans in the area knew the river as el Rio Colorado for the red-brown silt that the river carried from the mountains.[30] In 1859, a U.S. Army topographic expedition led by Captain John Macomb located the confluence of the Green River with the Grand River in what is now Canyonlands National Park in Utah.[31] The Macomb party designated the confluence as the source of the Colorado River.
+On April 12, 1861, South Carolina artillery opened fire on Fort Sumter to start the American Civil War. While many gold seekers held sympathies for the Confederacy, the vast majority remained fiercely loyal to the Union cause.
+In 1862, a force of Texas cavalry invaded the Territory of New Mexico and captured Santa Fe on March 10. The object of this Western Campaign was to seize or disrupt the gold fields of Colorado and California and to seize ports on the Pacific Ocean for the Confederacy. A hastily organized force of Colorado volunteers force-marched from Denver City, Colorado Territory, to Glorieta Pass, New Mexico Territory, in an attempt to block the Texans. On March 28, the Coloradans and local New Mexico volunteers stopped the Texans at the Battle of Glorieta Pass, destroyed their cannon and supply wagons, and ran off 500 head of their horses and mules. The Texans were forced to retreat to Santa Fe. Having lost the supplies for their campaign and finding little support in New Mexico, the Texans abandoned Santa Fe and returned to San Antonio in defeat. The Confederacy made no further attempts to seize the Southwestern United States.
+In 1864, Territorial Governor John Evans appointed the Reverend John Chivington as Colonel of the Colorado Volunteers with orders to protect white settlers from Cheyenne and Arapaho warriors who were accused of stealing cattle. Colonel Chivington ordered his men to attack a band of Cheyenne and Arapaho encamped along Sand Creek. Chivington reported that his troops killed more than 500 warriors. The militia returned to Denver City in triumph, but several officers reported that the so-called battle was a blatant massacre of Indians at peace, that most of the dead were women and children, and that bodies of the dead had been mutilated and desecrated in hideous manner. Three U.S. Army inquiries condemned the action, and incoming President Andrew Johnson asked Governor Evans for his resignation, but none of the perpetrators was ever punished.
+
+
+
+
+Mount of the Holy Cross was photographed by William Henry Jackson in 1874
+
+
+In the midst and aftermath of Civil War, many discouraged prospectors returned to their homes, but a determined few stayed on to develop mines, mills, farms, ranches, roads, and towns in the Territory. On September 14, 1864, James Huff discovered silver near Argentine Pass, the first of many silver strikes. In 1867, the Union Pacific Railroad laid its tracks west to Weir, now Julesburg, in the northeast corner of the Territory. The Union Pacific linked up with the Central Pacific Railroad at Promontory Summit, Utah, on May 10, 1869, to form the First Transcontinental Railroad. The Denver Pacific Railway reached Denver in June of the following year, and the Kansas Pacific arrived two months later to forge the second line across the continent. In 1872, rich veins of silver were discovered in the San Juan Mountains on the Ute Indian reservation in southwestern Colorado. The Ute people were removed from the San Juans the following year.
+Statehood[edit]
+
+
+
+
+The Georgetown Loop of the Colorado Central Railroad as photographed by William Henry Jackson in 1899
+
+
+The United States Congress passed an enabling act on March 3, 1875, specifying the requirements for the Territory of Colorado to become a state.[10] On August 1, 1876 (28 days after the Centennial of the United States), U.S. President Ulysses S. Grant signed a proclamation admitting Colorado to the Union as the 38th state and earning it the moniker "Centennial State".[32]
+The discovery of a major silver lode near Leadville in 1878, triggered the Colorado Silver Boom. The Sherman Silver Purchase Act of 1890 invigorated silver mining, and Colorado's last, but greatest, gold strike at Cripple Creek a few months later lured a new generation of gold seekers. Colorado women were granted the right to vote beginning on November 7, 1893, making Colorado the second state to grant universal suffrage and the first one by a popular vote (of Colorado men). The repeal of the Sherman Silver Purchase Act in 1893 led to a staggering collapse of the mining and agricultural economy of Colorado, but the state slowly and steadily recovered.
+Colorado became the first western state to host a major political convention when the Democratic Party met in Denver in 1908. By the U.S. Census in 1930, the population of Colorado first exceeded one million residents. Colorado suffered greatly through the Great Depression and the Dust Bowl of the 1930s, but a major wave of immigration following World War II boosted Colorado's fortune. Tourism became a mainstay of the state economy, and high technology became an important economic engine. The United States Census Bureau estimated that the population of Colorado exceeded five million in 2009. Colorado became one of two states to legalize cannabis with the passage of a constitutional amendment in 2012.
+Three warships of the U.S. Navy have been named the USS Colorado. The first USS Colorado was named for the Colorado River. The later two ships were named in honor of the state, including the battleship USS Colorado which served in World War II in the Pacific beginning in 1941. At the time of the Attack on Pearl Harbor, this USS Colorado was located at the naval base in San Diego, Calif. and hence went unscathed.
+
+Demographics[edit]
+
+
+
+
+Colorado Population Density Map.
+
+
+
+
+Historical populations
+
+
+Census
+Pop.
+
+%±
+
+
+1860
+34,277
+
+
+—
+
+
+
+1870
+39,864
+
+16.3%
+
+
+1880
+194,327
+
+387.5%
+
+
+1890
+413,249
+
+112.7%
+
+
+1900
+539,700
+
+30.6%
+
+
+1910
+799,024
+
+48.0%
+
+
+1920
+939,629
+
+17.6%
+
+
+1930
+1,035,791
+
+10.2%
+
+
+1940
+1,123,296
+
+8.4%
+
+
+1950
+1,325,089
+
+18.0%
+
+
+1960
+1,753,947
+
+32.4%
+
+
+1970
+2,207,259
+
+25.8%
+
+
+1980
+2,889,964
+
+30.9%
+
+
+1990
+3,294,394
+
+14.0%
+
+
+2000
+4,301,262
+
+30.6%
+
+
+2010
+5,029,196
+
+16.9%
+
+
+Est. 2012
+5,187,582
+
+3.1%
+
+
+Sources: 1910–2010[33]
+
+
+The United States Census Bureau estimates that the population of Colorado was 5,187,582 on July 1, 2012, an increase of 3.1% since the 2010 United States Census.[1] Colorado's most populous city, and capital, is Denver. The Denver-Aurora-Boulder Combined Statistical Area with an estimated 2011 population of 3,157,520, has 61.90% of the state's residents.
+The largest increases are expected in the Front Range Urban Corridor, especially in the Denver metropolitan area. The state's fastest-growing counties are Douglas and Weld.[34] The center of population of Colorado is located just north of the village of Critchell in Jefferson County.[35]
+According to the 2010 United States Census, Colorado had a population of 5,029,196. Racial composition of the states population was:
+
+81.3% White American (70.0% Non-Hispanic White, 11.3% White Hispanic)
+4.0% Black or African American
+1.1% American Indian and Alaska Native
+2.8% Asian American
+0.1% Native Hawaiian and Other Pacific Islander
+7.2% Some Other Race
+3.4% Multiracial American
+
+People of Hispanic and Latino American (of any race made) heritage, made up 20.7% of the population.[36] According to the 2000 Census, the largest ancestry groups in Colorado are German (22%) including of Swiss and Austrian nationalities, Mexican (18%), Irish (12%), and English (12%). Persons reporting German ancestry are especially numerous in the Front Range, the Rockies (west-central counties) and Eastern parts/High Plains.
+Colorado has a high proportion of Hispanic, mostly Mexican-American, citizens in Metropolitan Denver, Colorado Springs, as well as the smaller cities of Greeley and Pueblo, and elsewhere. Colorado is well known for its strong Latino culture and presence. Southern, Southwestern, and Southeastern Colorado has a large number of Hispanos, the descendants of the early Mexican settlers of colonial Spanish origin. In 1940, the Census Bureau reported Colorado's population as 8.2% Hispanic and 90.3% non-Hispanic white.[37]
+The 2000 United States Census found that 10.5% of people aged five and over in Colorado speak only Spanish at home, with the 2009 estimate being roughly 14%. Colorado also has a large immigration presence all throughout the state, which has led to Colorado cities being referred to as "Sanctuary Cities" for illegal immigrants as well. Colorado has the 4th highest percentage of undocumented people in the U.S., only behind Nevada, Arizona, California, and tied with Texas. An estimated 5.5–6.0% of the state's population is composed of illegal immigrants. Also, over 20% of the state's prisoners are undocumented inmates.[38][39] Colorado, like New Mexico, is very rich in archaic Spanish idioms.[40]
+Colorado also has some large African-American communities located in Denver, in the neighborhoods of Montbello, Five Points, Whittier, and many other East Denver areas. A relatively large population of African Americans are also found in Colorado Springs on the east and southeast side of the city. The state has sizable numbers of Asian-Americans of Mongolian, Chinese, Filipino, Korean, Southeast Asian and Japanese descent. The highest population of Asian Americans can be found on the south and southeast side of Denver, as well as some on Denver's southwest side. The Denver metropolitan area is considered more liberal and diverse than much of the state when it comes to political issues and environmental concerns.
+There were a total of 70,331 births in Colorado in 2006. (Birth Rate of 14.6). In 2007, non-Hispanic whites were involved in 59.1% of all the births.[41] Some 14.06% of those births involved a non-Hispanic white person and someone of a different race, most often with a couple including one Hispanic. A birth where at least one Hispanic person was involved counted for 43% of the births in Colorado.[42] As of the 2010 Census, Colorado has the seventh highest percentage of Hispanics (20.7%) in the U.S. behind New Mexico (46.3%), California (37.6%), Texas (37.6%), Arizona (29.6%), Nevada (26.5%), and Florida (22.5%). Per the 2000 census, the Hispanic population is estimated to be 918,899 or approximately 20% of the state total population. Colorado has the 5th largest population of Mexican-Americans behind California, Texas, Arizona, and Illinois. In percentages, Colorado has the 6th highest percentage of Mexican-Americans behind New Mexico, California, Texas, Arizona, and Nevada.[43] As of 2011, 46.2% of Colorado's children under the age of 1 belonged to minority groups.[44]
+
+Religion[edit]
+
+
+
+
+The Chapel on the Rock at Camp Saint Malo near Allenspark.
+
+
+
+
+
+
+The Cadet Chapel at the United States Air Force Academy near Colorado Springs.
+
+
+Major religious affiliations of the people of Colorado are:[45]
+
+Christian – 64%
+
+Protestant — 44%
+
+Evangelical — 23%
+Mainline — 19%
+Other Protestant – 2%
+
+
+Roman Catholic — 19%
+Latter Day Saint / Mormon – 2%
+Orthodox – 1%
+
+
+Jewish – 2%
+Muslim – 1%
+Other Religions – 5%
+Unaffiliated – 25%
+
+The largest denominations by number of adherents in 2000 were the Roman Catholic Church with 752,505; The Church of Jesus Christ of Latter-day Saints with 92,326 (133,727 year-end 2007) ; and Baptist with 85,083.[46]
+Health[edit]
+Colorado also has a reputation for being a state of active and athletic people. According to several studies, Coloradans have the lowest rates of obesity of any state in the US.[47] As of 2007, 18% of the population was considered medically obese, and while the lowest in the nation, the percentage had increased from 17% from 2004. Former Colorado Governor Bill Ritter commented: “As an avid fisherman and bike rider, I know first-hand that Colorado provides a great environment for active, healthy lifestyles,” although he highlighted the need for continued education and support to slow the growth of obesity in the state.[48]
+Culture[edit]
+
+
+
+
+History Colorado Center in Denver
+
+
+
+
+
+
+Street art in Denver
+
+
+
+List of museums in Colorado
+
+Fine arts[edit]
+
+Music of Colorado
+Theater in Colorado
+
+Film[edit]
+A number of film productions have shot on location in Colorado, especially prominent Westerns like True Grit, The Searchers and Butch Cassidy and the Sundance Kid. A number of historic military forts, railways with trains still operating, mining ghost towns have been utilized and transformed for historical accuracy in well known films. There are also a number of scenic highways and mountain passes that helped to feature the open road in films such as Vanishing Point and Starman. Some Colorado landmarks have been featured in films, such as the The Stanley Hotel in Dumb and Dumber and the Sculptured House in Sleeper. The Colorado Office of Film and Television has noted that over 400 films have been shot in Colorado.[49]
+There are also a number of established film festivals in Colorado, including Aspen Shortsfest, Boulder International Film Festival, Castle Rock Film Festival, Denver Film Festival, Festivus film festival, Mile High Horror Film Festival, Moondance International Film Festival, Mountainfilm in Telluride, Rocky Mountain Women's Film Festival, and Telluride Film Festival.
+Cuisine[edit]
+Colorado is known for its Southwest and Rocky Mountain cuisine. Mexican restaurants are throughout the state.
+Boulder, Colorado was named America’s Foodiest Town 2010 by Bon Appétit.[50] Boulder, and Colorado in general, is home to a number of national food and beverage companies, top-tier restaurants and farmers' markets. Boulder, Colorado also has more Master Sommeliers per capita than any other city, including San Francisco and New York.[51]
+The Food & Wine Classic held annually each June in Aspen, Colorado. Aspen also has a reputation as the culinary capital of the Rocky Mountain region.[52]
+Denver is known for steak, but now has a diverse culinary scene with many top-tier restaurants.[53]
+Wine & Beer[edit]
+Main article: Colorado wine
+Colorado wines include award-winning varietals that have attracted favorable notice from outside the state.[54] With wines made from traditional Vitis vinifera grapes along with wines made from cherries, peaches, plums and honey, Colorado wines have won top national and international awards for their quality.[55] Colorado's grape growing regions contain the highest elevation vineyards in the United States,[56] with most viticulture in the state practiced between 4,000 feet (1,219 m) and 7,000 feet (2,134 m) feet above sea level. The mountain climate ensures warm summer days and cool nights. Colorado is home to two designated American Viticultural Areas of the Grand Valley AVA and the West Elks AVA,[57] where most of the vineyards in the state are located. However, an increasing number of wineries are located along the Front Range.[58]
+Main article: Colorado beer
+Colorado is home to many nationally praised microbreweries,[59] including New Belgium Brewing Company, Odell Brewing Company, Great Divide Brewing Company, and Left Hand Brewing Company. The area of northern Colorado near the city of Fort Collins is known as the "Napa Valley of Beer" due to its high density of craft breweries.[60]
+Economy[edit]
+
+
+
+
+Denver World Trade Center.
+The Denver financial district along 17th Street is known as the Wall Street of the West.
+
+
+Main article: Economy of Colorado
+See also: Colorado locations by per capita income
+CNBC's list of "Top States for Business for 2010" has recognized Colorado as the third best state in the nation, falling short to only Texas and Virginia.[61]
+
+
+
+
+Corn growing in Larimer County
+
+
+The Bureau of Economic Analysis estimates that the total state product in 2010 was $257.6 billion.[62] Per capita personal income in 2010 was $51 940, ranking Colorado 11th in the nation.[63] The state's economy broadened from its mid-19th century roots in mining when irrigated agriculture developed, and by the late 19th century, raising livestock had become important. Early industry was based on the extraction and processing of minerals and agricultural products. Current agricultural products are cattle, wheat, dairy products, corn, and hay.
+The federal government is also a major economic force in the state with many important federal facilities including NORAD (North American Aerospace Defense Command, United States Air Force Academy, Schriever Air Force Base located approximately 10 miles (16 kilometers) east of Peterson Air Force Base, and Fort Carson, both located in Colorado Springs within El Paso County; NOAA, the National Renewable Energy Laboratory (NREL) in Golden, and the National Institute of Standards and Technology in Boulder; U.S. Geological Survey and other government agencies at the Denver Federal Center near Lakewood; the Denver Mint, Buckley Air Force Base, and 10th Circuit Court of Appeals in Denver; and a federal Supermax Prison and other federal prisons near Cañon City. In addition to these and other federal agencies, Colorado has abundant National Forest land and four National Parks that contribute to federal ownership of 24,615,788 acres (99,617 km2) of land in Colorado, or 37% of the total area of the state.[64] In the second half of the 20th century, the industrial and service sectors have expanded greatly. The state's economy is diversified and is notable for its concentration of scientific research and high-technology industries. Other industries include food processing, transportation equipment, machinery, chemical products, the extraction of metals such as gold (see Gold mining in Colorado), silver, and molybdenum. Colorado now also has the largest annual production of beer of any state.[65] Denver is an important financial center.
+A number of nationally known brand names have originated in Colorado factories and laboratories. From Denver came the forerunner of telecommunications giant Qwest in 1879, Samsonite luggage in 1910, Gates belts and hoses in 1911, and Russell Stover Candies in 1923. Kuner canned vegetables began in Brighton in 1864. From Golden came Coors beer in 1873, CoorsTek industrial ceramics in 1920, and Jolly Rancher candy in 1949. CF&I railroad rails, wire, nails and pipe debuted in Pueblo in 1892. Holly Sugar was first milled from beets in Holly in 1905, and later moved its headquarters to Colorado Springs. The present-day Swift packed meat of Greeley evolved from Monfort of Colorado, Inc., established in 1930. Estes model rockets were launched in Penrose in 1958. Fort Collins has been the home of Woodward Governor Company's motor controllers (governors) since 1870, and Waterpik dental water jets and showerheads since 1962. Celestial Seasonings herbal teas have been made in Boulder since 1969. Rocky Mountain Chocolate Factory made its first candy in Durango in 1981.
+Colorado has a flat 4.63% income tax, regardless of income level. Unlike most states, which calculate taxes based on federal adjusted gross income, Colorado taxes are based on taxable income – income after federal exemptions and federal itemized (or standard) deductions.[66][67] Colorado's state sales tax is 2.9% on retail sales. When state revenues exceed state constitutional limits, full-year Colorado residents can claim a sales tax refund on their individual state income tax return. Many counties and cities charge their own rates in addition to the base state rate. There are also certain county and special district taxes that may apply.
+Real estate and personal business property are taxable in Colorado. The state's senior property tax exemption was temporarily suspended by the Colorado Legislature in 2003. The tax break is scheduled to return for assessment year 2006, payable in 2007.
+As of September 2012, the state's unemployment rate is 7.9%.[68]
+Philanthropy[edit]
+Major philanthropic organizations based in Colorado, including the Daniels Fund, the Anschutz Family Foundation, the Gates Family Foundation, the El Pomar Foundation and the Boettcher Foundation, grant approximately $400 million[citation needed] each year from approximately $7 billion[69] of assets.
+Natural resources[edit]
+
+
+
+
+An oil well in western Colorado
+
+
+Colorado has significant hydrocarbon resources. According to the Energy Information Administration, Colorado hosts seven of the Nation’s 100 largest natural gas fields and two of its 100 largest oil fields. Conventional and unconventional natural gas output from several Colorado basins typically account for more than 5 percent of annual U.S. natural gas production. Colorado’s oil shale deposits hold an estimated 1 trillion barrels (160 km3) of oil – nearly as much oil as the entire world’s proven oil reserves; the economic viability of the oil shale, however, has not been demonstrated.[70] Substantial deposits of bituminous, subbituminous, and lignite coal are found in the state. Kimberlite volcanic pipes have been found in Colorado; the Kelsey Lake Diamond Mine operated for several years, recovering gem quality diamonds.[citation needed]
+Colorado's high Rocky Mountain ridges and eastern plains offer wind power potential, and geologic activity in the mountain areas provides potential for geothermal power development. Much of the state is sunny and could produce solar power. Major rivers flowing from the Rocky Mountains offer hydroelectric power resources. Corn grown in the flat eastern part of the state offers potential resources for ethanol production.
+Transportation[edit]
+Main article: Transportation in Colorado
+
+
+
+
+A Colorado state welcome sign
+
+
+Colorado's transportation system is extensive and has been the genesis of world-class innovations in highway and railway construction as well as airport design, infrastructure development, and operational innovation.
+Colorado's primary mode of transportation (in terms of passengers) is its highway system. Interstate 25 is the primary North/South highway in the state, connecting Denver, Colorado Springs, Pueblo, and Fort Collins, and extending north to Wyoming and south to New Mexico. Interstate 70 is the primary East/West corridor. It connects Denver with the mountain communities, Grand Junction, and then west to points in Utah. The state is home to a network of US and Colorado highways that provide access to all principal areas of the state. Smaller communities are only connected to this network via county roads.
+
+
+
+
+The main terminal of Denver International Airport evokes the peaks of the Front Range.
+
+
+Denver International Airport (DIA) is the fourth busiest domestic U.S. airport and thirteenth busiest world airport[71] DIA handles by far the largest volume of commercial air traffic in Colorado, and is the busiest U.S. hub airport between Chicago and the Pacific coast, making Denver the most important airport for connecting passenger traffic in the western U.S. Denver International Airport is the primary hub for low-cost carrier Frontier Airlines, with routes throughout North America. It is also the fourth-largest hub of the world's largest airline, United Airlines. DIA is a focus city for Southwest Airlines, which since commencing service to Denver in January 2006, has added over 50 destinations, making Denver its fastest-growing market. Denver International Airport is the only airport in the United States to have implemented an ISO 14001-certified environmental management system covering the entire airport.[72]
+Extensive public transportation bus services are offered both intra-city and inter-city—including the Denver metro area's extensive RTD services. The Regional Transportation District (RTD) operates the popular RTD Bus & Light Rail transit system in the Denver Metropolitan Area. As of January 2013 the RTD rail system had 170 light rail vehicles, serving 47 miles (76 km) of track.
+
+
+
+
+The westbound and eastbound California Zephyrs meet in the Glenwood Canyon.
+
+
+AMTRAK operates two rail passenger lines through Colorado, including the Glenwood Canyon route of the famed California Zephyr, one of America's legendary passenger trains. Colorado's contribution to world railroad history was forged principally by the Denver and Rio Grande Western Railroad which began in 1870 and wrote the book on mountain railroading. In 1988 the "Rio Grande" acquired, but was merged into, the Southern Pacific Railroad by their joint owner Philip Anschutz. On September 11, 1996, Anschutz sold the combined company to the Union Pacific Railroad, creating the largest railroad network in the United States. The Anschutz sale was partly in response to the earlier merger of Burlington Northern and Santa Fe which formed the large Burlington Northern and Santa Fe Railway (BNSF), Union Pacific's principal competitor in western U.S. railroading. Both Union Pacific and BNSF have extensive freight operations in Colorado.
+Colorado's freight railroad network consists of 2,688 miles of Class I trackage. It is integral to the U.S. economy, being a critical artery for the movement of energy, agriculture, mining, and industrial commodities as well as general freight and manufactured products between the East and Midwest and the Pacific coast states.[73]
+
+Government and politics[edit]
+Main articles: Government of Colorado and Politics of Colorado
+State government[edit]
+See also: Political party strength in Colorado
+
+The Five Executive Officers of the State of Colorado
+
+Office
+Incumbent
+Party
+Term
+
+
+Governor
+John Hickenlooper
+Democratic
+2011–2015
+
+
+Lieutenant Governor
+Joseph Garcia
+Democratic
+2011–2015
+
+
+Secretary of State
+Scott Gessler
+Republican
+2011–2015
+
+
+State Treasurer
+Walker Stapleton
+Republican
+2011–2015
+
+
+Attorney General
+John Suthers
+Republican
+2005–2015
+
+
+Like the federal government and all other U.S. states, Colorado's state constitution provides for three branches of government: the legislative, the executive, and the judicial branches.
+The Governor of Colorado heads the state's executive branch. The current governor is John Hickenlooper, a Democrat. Colorado's other statewide elected executive officers are the Lieutenant Governor of Colorado (elected on a ticket with the Governor), Secretary of State of Colorado, Colorado State Treasurer, and Attorney General of Colorado, all of whom serve four-year terms.
+The seven-member Colorado Supreme Court is the highest judicial court in the state.
+
+
+Gubernatorial election results
+
+Year
+Republican
+Democratic
+
+
+2010
+11.3% 199,034
+51.0% 912,005
+
+
+2006
+40.16% 625,886
+56.98% 888,096
+
+
+2002
+62.62% 884,584
+33.65% 475,373
+
+
+1998
+49.06% 648,202
+48.43% 639,905
+
+
+1994
+38.70% 432,042
+55.47% 619,205
+
+
+1990
+35.43% 358,403
+61.89% 626,032
+
+
+The state legislative body is the Colorado General Assembly, which is made up of two houses, the House of Representatives and the Senate. The House has 65 members and the Senate has 35. As of 2013[update], the Democratic Party holds a 18 to 17 majority in the Senate and a 37 to 28 majority in the House.
+Most Coloradans are originally native to other states (nearly 60% according to the 2000 census),[74] and this is illustrated by the fact that the state did not have a native-born governor from 1975 (when John David Vanderhoof left office) until 2007, when Bill Ritter took office; his election the previous year marked the first electoral victory for a native-born Coloradan in a gubernatorial race since 1958 (Vanderhoof had ascended from the Lieutenant Governorship when John Arthur Love was given a position in Richard Nixon's administration in 1973).
+
+Counties[edit]
+
+
+
+
+An enlargeable map of the 64 counties of the State of Colorado
+
+
+Main article: List of counties in Colorado
+The State of Colorado is divided into 64 counties.[75] Counties are important units of government in Colorado since the state has no secondary civil subdivisions such as townships. Two of these counties, the City and County of Denver and the City and County of Broomfield, have consolidated city and county governments.
+Nine Colorado counties have a population in excess of 250,000 each, while eight Colorado counties have a population of less than 2,500 each. The ten most populous Colorado counties are located in the Front Range Urban Corridor.
+
+
+
+The 21 Colorado counties with a population of at least 25,000
+
+
+Rank
+County
+2011 Estimate
+2010 Census
+Change
+
+
+!000001
+El Paso County
+!B9866355331519 636,963
+!B9866588818880 622,263
+!D0037455153391 +2.36%
+
+
+!000002
+DenCity and County of Denver
+!B9866625768572 619,968
+!B9866950517671 600,158
+!D0034110060931 +3.30%
+
+
+!000003
+Arapahoe County
+!B9867207217666 584,948
+!B9867431004848 572,003
+!D0037884346229 +2.26%
+
+
+!000004
+Jefferson County
+!B9868008904193 539,884
+!B9868108325447 534,543
+!D0046059992748 +1.00%
+
+
+!000005
+Adams County
+!B9869797956019 451,443
+!B9870018334325 441,603
+!D0038039555773 +2.23%
+
+
+!000006
+Larimer County
+!B9873702131126 305,525
+!B9873896963408 299,630
+!D0039284438461 +1.97%
+
+
+!000007
+Boulder County
+!B9873905377320 299,378
+!B9874067382395 294,567
+!D0041146015187 +1.63%
+
+
+!000008
+Douglas County
+!B9874149191644 292,167
+!B9874381252913 285,465
+!D0037517134403 +2.35%
+
+
+!000009
+Weld County
+!B9875368153203 258,638
+!B9875595471712 252,825
+!D0037726007610 +2.30%
+
+
+!000010
+Pueblo County
+!B9880136704439 160,545
+!B9880229443708 159,063
+!D0046759078232 +0.93%
+
+
+!000011
+Mesa County
+!B9881012476677 147,083
+!B9881036982656 146,723
+!D0060101977029 +0.25%
+
+
+!000012
+BroCity and County of Broomfield
+!B9890430370044 57,352
+!B9890688771401 55,889
+!D0036428784587 +2.62%
+
+
+!000013
+Garfield County
+!B9890620831875 56,270
+!B9890599706169 56,389
+!H9938390941101 −0.21%
+
+
+!000014
+La Plata County
+!B9891425984314 51,917
+!B9891538914203 51,334
+!D0044779213933 +1.14%
+
+
+!000015
+Eagle County
+!B9891438126437 51,854
+!B9891372196990 52,197
+!H9949749501462 −0.66%
+
+
+!000016
+Fremont County
+!B9892347412613 47,347
+!B9892458488290 46,824
+!D0044945697069 +1.12%
+
+
+!000017
+Montrose County
+!B9893784043976 41,011
+!B9893719635037 41,276
+!H9949516933297 −0.64%
+
+
+!000018
+Delta County
+!B9896761258866 30,451
+!B9896598071036 30,952
+!H9958764132047 −1.62%
+
+
+!000019
+Morgan County
+!B9897538096610 28,175
+!B9897543777017 28,159
+!D0074730335760 +0.06%
+
+
+!000020
+Summit County
+!B9897610407111 27,972
+!B9897602545195 27,994
+!H9928512969728 −0.08%
+
+
+!000021
+Montezuma County
+!B9898558433692 25,442
+!B9898521946609 25,535
+!H9943847941540 −0.36%
+
+
+
+Metropolitan areas[edit]
+
+
+
+
+Map of the 14 Core Based Statistical Areas in the state of Colorado.
+
+
+Main articles: Colorado metropolitan areas and Colorado census statistical areas
+The United States Office of Management and Budget (OMB) has defined one Combined Statistical Area (CSA),[76] seven Metropolitan Statistical Areas (MSAs),[77] and seven Micropolitan Statistical Areas (μSAs)[78] in the state of Colorado.[79]
+The most populous of the 14 Core Based Statistical Areas in Colorado is the Denver-Aurora-Broomfield, CO Metropolitan Statistical Area. This area had an estimated population of 2,599,504 on July 1, 2011, an increase of +2.20% since the 2010 United States Census.[80]
+The more extensive Denver-Aurora-Boulder, CO Combined Statistical Area had an estimated population of 3,157,520 on July 1, 2011, an increase of +2.16% since the 2010 United States Census.[80]
+The most populous extended metropolitan region in Rocky Mountain Region is the Front Range Urban Corridor along the northeast face of the Southern Rocky Mountains. This region with Denver at its center had an estimated population of 4,423,936 on July 1, 2011, an increase of +2.06% since the 2010 United States Census.[80]
+
+Municipalities[edit]
+Main article: Colorado municipalities
+The state of Colorado currently has 271 active incorporated municipalities, including 196 towns, 73 cities, and two consolidated city and county governments.[81][82]
+Colorado municipalities operate under one of five types of municipal governing authority. Colorado has one town with a territorial charter, 160 statutory towns, 12 statutory cities, 96 home rule municipalities (61 cities and 35 towns), and 2 consolidated city and county governments.
+
+
+
+
+
+
+The skyline of downtown Denver with Speer Boulevard in the foreground
+
+
+
+The 26 Colorado municipalities with a population of at least 25,000
+
+
+Rank
+Municipality
+2012 Estimate
+2010 Census
+Change
+
+
+!000001
+City and County of Denver
+!B9866397778728 634,265
+!B9866950517671 600,158
+!D0028676903120 +5.68%
+
+
+!000002
+City of Colorado Springs
+!B9870242034658 431,834
+!B9870605335448 416,427
+!D0032968892245 +3.70%
+
+
+!000003
+City of Aurora
+!B9872661561219 339,030
+!B9873081795674 325,078
+!D0031484422863 +4.29%
+
+
+!000004
+City of Fort Collins
+!B9880909058382 148,612
+!B9881225286483 143,986
+!D0034380235088 +3.21%
+
+
+!000005
+City of Lakewood
+!B9881119586748 145,516
+!B9881295399606 142,980
+!D0040321167237 +1.77%
+
+
+!000006
+City of Thornton
+!B9882708347600 124,140
+!B9883150390321 118,772
+!D0030967502892 +4.52%
+
+
+!000007
+City of Arvada
+!B9883940852281 109,745
+!B9884247290418 106,433
+!D0034699634426 +3.11%
+
+
+!000008
+City of Westminster
+!B9883993475807 109,169
+!B9884277307331 106,114
+!D0035477343952 +2.88%
+
+
+!000009
+City of Pueblo
+!B9884122268365 107,772
+!B9884232081147 106,595
+!D0045060677780 +1.10%
+
+
+!000010
+City of Centennial
+!B9884503280340 103,743
+!B9884833116236 100,377
+!D0033952080015 +3.35%
+
+
+!000011
+City of Boulder
+!B9884691560345 101,808
+!B9885135725263 97,385
+!D0030918539957 +4.54%
+
+
+!000012
+City of Greeley
+!B9885346169779 95,357
+!B9885608394890 92,889
+!D0036279971258 +2.66%
+
+
+!000013
+City of Longmont
+!B9886073343854 88,669
+!B9886347628079 86,270
+!D0035824299292 +2.78%
+
+
+!000014
+City of Loveland
+!B9888405688283 70,223
+!B9888896587967 66,859
+!D0029894551821 +5.03%
+
+
+!000015
+City of Grand Junction
+!B9889995849105 59,899
+!B9890220903975 58,566
+!D0037827222822 +2.28%
+
+
+!000016
+City and County of Broomfield
+!B9890266769335 58,298
+!B9890688771401 55,889
+!D0031441558572 +4.31%
+
+
+!000017
+Town of Castle Rock
+!B9891536187337 51,348
+!B9892162427531 48,231
+!D0027391309670 +6.46%
+
+
+!000018
+City of Commerce City
+!B9892123111170 48,421
+!B9892654964196 45,913
+!D0029072626785 +5.46%
+
+
+!000019
+Town of Parker
+!B9892385078238 47,169
+!B9892790039158 45,297
+!D0031862334270 +4.13%
+
+
+!000020
+City of Littleton
+!B9893131818428 43,775
+!B9893608566954 41,737
+!D0030194190907 +4.88%
+
+
+!000021
+City of Northglenn
+!B9894842771021 36,891
+!B9895146041373 35,789
+!D0034805138728 +3.08%
+
+
+!000022
+City of Brighton
+!B9895473511174 34,636
+!B9895851269804 33,352
+!D0032571375353 +3.85%
+
+
+!000023
+City of Englewood
+!B9896525640775 31,177
+!B9896825832609 30,255
+!D0034908715154 +3.05%
+
+
+!000024
+City of Wheat Ridge
+!B9896674284737 30,717
+!B9896855292586 30,166
+!D0040027359321 +1.83%
+
+
+!000025
+City of Fountain
+!B9898004530628 26,891
+!B9898400888709 25,846
+!D0032081389646 +4.04%
+
+
+!000026
+City of Lafayette
+!B9898444705061 25,733
+!B9898954918132 24,453
+!D0029498928298 +5.23%
+
+
+
+Unincorporated communities[edit]
+Main article: Colorado census designated places
+In addition to its 271 municipalities, Colorado has 187 unincorporated United States census designated places and many other small communities.
+
+
+
+The 16 Census Designated Places in Colorado with a population of at least 10,000
+
+
+Rank
+Census Designated Place
+2010 Census
+2000 Census
+Change
+
+
+!000001
+Highlands Ranch
+!B9885204968911 96,713
+!B9888305371474 70,931
+!D0010120309995 +36.35%
+
+
+!000002
+Security-Widefield
+!B9895993193254 32,882
+!B9896962273993 29,845
+!D0022851471355 +10.18%
+
+
+!000003
+Ken Caryl
+!B9896129141459 32,438
+!B9896619093376 30,887
+!D0029914354992 +5.02%
+
+
+!000004
+Dakota Ridge
+!B9896263525804 32,005
+!O NA
+!O NA
+
+
+!000005
+Pueblo West
+!B9897032211402 29,637
+!B9902649902724 16,899
+!D0002826647966 +75.38%
+
+
+!000006
+Columbine
+!B9899025917548 24,280
+!B9899102403709 24,095
+!D0048694038039 +0.77%
+
+
+!000007
+Clifton
+!B9901020779059 19,889
+!B9902389404405 17,345
+!D0019195666349 +14.67%
+
+
+!000008
+Sherrelwood
+!B9901860542961 18,287
+!B9902211124156 17,657
+!D0033331677649 +3.57%
+
+
+!000009
+Cimarron Hills
+!B9903096437886 16,161
+!B9903713441079 15,194
+!D0027544573966 +6.36%
+
+
+!000010
+Welby
+!B9903945142523 14,846
+!B9905293744464 12,973
+!D0019353288511 +14.44%
+
+
+!000011
+Fort Carson
+!B9904666345433 13,813
+!B9907346034222 10,566
+!D0011799098056 +30.73%
+
+
+!000012
+Black Forest
+!B9905184118620 13,116
+!B9905084736093 13,247
+!H9953836709325 −0.99%
+
+
+!000013
+Berkley
+!B9906757061379 11,207
+!B9907179903413 10,743
+!D0031421251064 +4.32%
+
+
+!000014
+Cherry Creek
+!B9906834994321 11,120
+!O NA
+!O NA
+
+
+!000015
+PinThe Pinery
+!B9907392517254 10,517
+!B9911108295446 7,253
+!D0007984617392 +45.00%
+
+
+!000016
+Edwards
+!B9907634072568 10,266
+!B9909811833955 8,257
+!D0014134242396 +24.33%
+
+
+
+See also: List of cities and towns in Colorado and Places in Colorado
+Special districts[edit]
+The state of Colorado has more than 3,000 districts with taxing authority. These districts may provide schools, law enforcement, fire protection, water, sewage, drainage, irrigation, transportation, recreation, infrastructure, cultural facilities, business support, redevelopment, or other services.
+Some of these districts have authority to levy sales tax and well as property tax and use fees. This has led to a hodgepodge of sales tax and property tax rates in Colorado. There are some street intersections in Colorado with a different sales tax rate on each corner, sometimes substantially different.
+Some of the more notable Colorado districts are:
+
+The Regional Transportation District (RTD), which affects the counties of Denver, Boulder, Jefferson, and portions of Adams, Arapahoe, Broomfield, and Douglas Counties
+The Scientific and Cultural Facilities District (SCFD), a special regional tax district with physical boundaries contiguous with county boundaries of Adams, Arapahoe, Boulder, Broomfield, Denver, Douglas, and Jefferson Counties
+
+It is a 0.1% retail sales and use tax (one penny on every $10).
+According to the Colorado statute, the SCFD distributes the money to local organizations on an annual basis. These organizations must provide for the enlightenment and entertainment of the public through the production, presentation, exhibition, advancement or preservation of art, music, theater, dance, zoology, botany, natural history or cultural history.
+As directed by statute, SCFD recipient organizations are currently divided into three "tiers" among which receipts are allocated by percentage.
+
+Tier I includes regional organizations: the Denver Art Museum, the Denver Botanic Gardens, the Denver Museum of Nature and Science, the Denver Zoo, and the Denver Center for the Performing Arts. It receives 65.5%.
+Tier II currently includes 26 regional organizations. Tier II receives 21%.
+Tier III has over 280 local organizations such as small theaters, orchestras, art centers, and natural history, cultural history, and community groups. Tier III organizations apply for funding to the county cultural councils via a grant process. This tier receives 13.5%.
+
+
+An 11-member board of directors oversees the distributions in accordance with the Colorado Revised Statutes. Seven board members are appointed by county commissioners (in Denver, the Denver City Council) and four members are appointed by the Governor of Colorado.
+
+
+The Football Stadium District (FD or FTBL), approved by the voters to pay for and help build the Denver Broncos' stadium Sports Authority Field at Mile High
+Local Improvement Districts (LID) within designated areas of southeast Jefferson and Boulder counties
+Regional Transportation Authority (RTA) taxes at varying rates in Basalt, Carbondale, Glenwood Springs, Gunnison County
+
+Federal politics[edit]
+
+Presidential elections results
+
+Year
+Republican
+Democratic
+
+
+2012
+46.12% 1,185,050
+51.49% 1,322,998
+
+
+2008
+44.71% 1,073,584
+53.66% 1,288,568
+
+
+2004
+51.69% 1,101,255
+47.02% 1,001,732
+
+
+2000
+50.75% 883,745
+42.39% 738,227
+
+
+1996
+45.80% 691,848
+44.43% 671,152
+
+
+1992
+35.87% 562,850
+40.13% 629,681
+
+
+1988
+53.06% 728,177
+45.28% 621,453
+
+
+Colorado is considered a swing state in both state and federal elections. Coloradans have elected 17 Democrats and 12 Republicans to the governorship in the last 100 years. In presidential politics, Colorado was considered a reliably Republican state the post-World War II era, only voting for the Democratic candidate in 1964 and 1992. However, it became a competitive swing state by the turn of the century, and voted consecutively for Democrat Barack Obama in 2008 and 2012.
+Colorado politics has the contrast of conservative cities such as Colorado Springs and liberal cities such as Boulder and Denver. Democrats are strongest in metropolitan Denver, the college towns of Fort Collins and Boulder, southern Colorado (including Pueblo), and a few western ski resort counties. The Republicans are strongest in the Eastern Plains, Colorado Springs, Greeley, and far Western Colorado near Grand Junction.
+The state of Colorado is represented by its two United States Senators:
+
+United States Senate Class 2 – Mark Emery Udall (Democratic) 2009–
+United States Senate Class 3 – Michael Farrand Bennet (Democratic)[83] 2009–
+
+Colorado is represented by seven Representatives to the United States House of Representatives:
+
+Colorado's 1st congressional district – Diana Louise DeGette (Democratic) 1997–
+Colorado's 2nd congressional district – Jared Schutz Polis (Democratic) 2009–
+Colorado's 3rd congressional district – Scott Tipton (Republican) 2011–
+Colorado's 4th congressional district – Cory Gardner (Republican) 2011–
+Colorado's 5th congressional district – Douglas L. "Doug" Lamborn (Republican) 2007–
+Colorado's 6th congressional district – Michael "Mike" Coffman (Republican) 2009–
+Colorado's 7th congressional district – Edwin George "Ed" Perlmutter (Democratic) 2007–
+
+See also: United States presidential election, 2004, in Colorado , Colorado's congressional elections, 2006, Colorado gubernatorial election, 2006, and Political party strength in Colorado
+
+Significant bills passed in Colorado[edit]
+On the November 8, 1932 ballot, Colorado approved the repeal of alcohol prohibition more than a year before the federal government passed the Twenty-first Amendment to the United States Constitution.
+In 2012, voters amended the state constitution to protect "personal use" of marijuana for adults, establishing a framework to regulate Cannabis in a manner similar to alcohol. The state's retail pot regulations will be final by mid-October 2013.[84]
+Education[edit]
+
+
+
+
+The United States Air Force Academy.
+
+
+Colleges and universities in Colorado:
+
+
+
+
+The University of Colorado at Boulder.
+
+
+
+
+
+
+The University of Denver.
+
+
+
+Adams State University
+Aims Community College
+Arapahoe Community College
+Art Institute of Colorado
+Belleview College
+Colorado Christian University
+Colorado College
+Colorado Mesa University
+Colorado Mountain College
+Colorado Northwestern Community College
+Colorado School of Mines
+Colorado State University System
+
+Colorado State University
+Colorado State University-Pueblo
+
+
+Colorado Technical University
+Community College of Aurora
+Community College of Denver
+Denver Seminary
+DeVry University
+Emily Griffith Opportunity School
+Ecotech Institute
+Fort Lewis College
+Front Range Community College
+Iliff School of Theology
+Johnson & Wales University
+Jones International University
+Lamar Community College
+Metropolitan State University of Denver
+Morgan Community College
+Naropa University
+National Technological University
+Nazarene Bible College
+Northeastern Junior College
+Otero Junior College
+Pikes Peak Community College
+Pueblo Community College
+Red Rocks Community College
+Redstone College
+Regis University
+Rocky Mountain College of Art and Design
+Rocky Vista University College of Osteopathic Medicine
+Trinidad State Junior College
+United States Air Force Academy
+University of Colorado System
+
+University of Colorado at Boulder
+University of Colorado at Colorado Springs
+University of Colorado Denver
+
+Anschutz Medical Campus
+Auraria Campus
+
+
+
+
+University of Denver
+University of Northern Colorado
+Western State Colorado University[85]
+
+See also: List of colleges and universities in Colorado, Table of Colorado school districts, and Table of Colorado charter schools
+
+Military installations[edit]
+
+
+
+
+Peterson Air Force Base
+
+
+Colorado is currently the home of seven major military bases and installations.
+
+Air Reserve Personnel Center
+Buckley Air Force Base
+Fort Carson (U.S. Army)
+
+Piñon Canyon Maneuver Site
+
+
+Peterson Air Force Base
+
+Cheyenne Mountain Directorate
+
+
+Pueblo Chemical Depot (U.S. Army)
+Schriever Air Force Base
+United States Air Force Academy
+
+Former Military installations include
+
+Camp Hale
+Fort Logan
+Lowry Air Force Base
+Fitzsimons Army Hospital
+
+Protected areas[edit]
+
+
+
+
+Lowry Pueblo in Canyons of the Ancients National Monument
+
+
+
+
+
+
+Great Sand Dunes National Park and Preserve
+
+
+
+
+
+
+Spruce Tree House in Mesa Verde National Park
+
+
+Main articles: List of federal lands in Colorado and Colorado State Parks
+Colorado is home to four national parks, seven national monuments, two national recreation areas, two national historic sites, three national historic trails, one national scenic trail, 11 national forests, two national grasslands, 41 national wilderness areas, two national conservation areas, eight national wildlife refuges, 44 state parks, 307 state wildlife areas, and numerous other scenic, historic, and recreational areas.
+Units of the National Park System in Colorado:
+
+Arapaho National Recreation Area[86]
+Bent's Old Fort National Historic Site
+Black Canyon of the Gunnison National Park
+Canyons of the Ancients National Monument[87]
+Chimney Rock National Monument[86]
+Colorado National Monument
+Continental Divide National Scenic Trail[88]
+Curecanti National Recreation Area
+Dinosaur National Monument
+Florissant Fossil Beds National Monument
+Great Sand Dunes National Park and Preserve
+Hovenweep National Monument
+Mesa Verde National Park and UNESCO World Heritage Site
+Old Spanish National Historic Trail
+Pony Express National Historic Trail
+Rocky Mountain National Park
+Sand Creek Massacre National Historic Site
+Santa Fe National Historic Trail
+Yucca House National Monument
+
+See also: Colorado trails and Colorado scenic and historic byways
+
+Sports[edit]
+
+
+
+
+The Colorado Rockies National League baseball club at Coors Field in Denver.
+
+
+
+
+
+
+Sports Authority Field at Mile High, home of the Denver Broncos National Football League club and the Denver Outlaws Major League Lacrosse club.
+
+
+
+
+
+
+Pepsi Center in Denver, home of the Denver Nuggets National Basketball Association club, the Colorado Avalanche National Hockey League club, and the Colorado Mammoth National Lacrosse League club.
+
+
+
+
+
+
+Dick's Sporting Goods Park in Commerce City, home of the Colorado Rapids Major League Soccer club.
+
+
+Main article: Sports in Colorado
+See also: Colorado Sports Hall of Fame
+Colorado is the least populous state with a franchise in each of the major professional sports leagues.
+Professional sports teams[edit]
+
+Professional Sports Clubs based in Colorado
+
+
+Club
+Home
+First game
+Sport
+League
+
+
+Denver Broncos
+Denver
+!B9832089134993 September 9, 1960
+Football
+National Football League
+
+
+Denver Barbarians
+Denver
+!B9832053693396 Spring 1967
+Rugby Union
+Rugby Super League
+
+
+Denver Nuggets
+Denver
+!B9832053476831 September 27, 1967
+Basketball
+National Basketball Association
+
+
+Colorado Springs Sky Sox
+Colorado Springs
+!B9831947441547 June 18, 1988
+Baseball
+Minor League Baseball (AAA)
+
+
+Colorado Rockies
+Denver
+!B9831922429868 April 5, 1993
+Baseball
+Major League Baseball
+
+
+Colorado Avalanche
+Denver
+!B9831912098739 October 6, 1995
+Ice hockey
+National Hockey League
+
+
+Colorado Rapids
+Commerce City
+!B9831907384799 April 13, 1996
+Soccer
+Major League Soccer
+
+
+Colorado Mammoth
+Denver
+!B9831872531500 January 3, 2003
+Lacrosse
+National Lacrosse League
+
+
+Colorado Eagles
+Loveland
+!B9831872075198 October 17, 2003
+Ice hockey
+ECHL
+
+
+Denver Outlaws
+Denver
+!B9831857357376 May 20, 2006
+Lacrosse
+Major League Lacrosse
+
+
+Colorado Ice
+Loveland
+!B9831852471856 March 23, 2007
+Football
+Indoor Football League
+
+
+Grand Junction Rockies
+Grand Junction
+!B9831827443815 June 18, 2012
+Baseball
+Minor League Baseball (Rookie)
+
+
+Denver Cutthroats
+Denver
+!B9831827244519 October 19, 2012
+Ice hockey
+Central Hockey League
+
+
+College athletics[edit]
+Main article: List of college athletic programs in Colorado
+The following universities and colleges participate in the National Collegiate Athletic Association Division I.
+
+NCAA Division I athletic programs in Colorado
+
+
+Team
+School
+City
+Conference
+
+
+Air Force Falcons
+United States Air Force Academy
+Colorado Springs
+Mountain West
+
+
+Colorado Buffaloes
+University of Colorado at Boulder
+Boulder
+Pac-12
+
+
+Colorado College Tigers
+Colorado College
+Colorado Springs
+WCHA[89]
+
+
+Colorado State Rams
+Colorado State University
+Fort Collins
+Mountain West
+
+
+Denver Pioneers
+University of Denver
+Denver
+WAC, WCHA[89] and ECAC Lacrosse
+
+
+Northern Colorado Bears
+University of Northern Colorado
+Greeley
+Big Sky
+
+
+Western State Colorado University Mountaineers
+Western State Colorado University
+Gunnison
+RMAC
+
+
+Colorado Mesa Mavericks
+Colorado Mesa University
+Grand Junction
+RMAC
+
+
+Colorado School of Mines Orediggers
+Colorado School of Mines
+Golden
+RMAC
+
+
+
+
+
+State symbols[edit]
+
+
+
+Colorado State symbols
+
+
+
+
+
+
+
+
+
+
+The Flag of Colorado.
+
+
+
+
+
+
+Animate insignia
+
+
+Bird(s)
+Lark Bunting
+Calamospiza melanocoryus
+
+
+Fish
+Greenback Cutthroat Trout
+Oncorhynchus clarki somias
+
+
+Flower(s)
+Rocky Mountain Columbine
+Aquilegia caerules
+
+
+Grass
+Blue Grama Grass
+Bouteloua gracilis
+
+
+Insect
+Colorado Hairstreak Butterfly
+Hypaurotis cysaluswas
+
+
+Mammal(s)
+Rocky Mountain Bighorn Sheep
+Ovis canadensis
+
+
+Reptile
+Western Painted Turtle
+Chrysemys picta bellii
+
+
+Tree
+Colorado Blue Spruce
+Picea pungens
+
+
+
+
+
+
+Inanimate insignia
+
+
+Dance
+Square Dance
+Chorea quadra
+
+
+Fossil
+Stegosaurus
+Stegosaurus armatus
+
+
+Gemstone
+Aquamarine
+
+
+Mineral
+Rhodochrosite
+
+
+Rock
+Yule Marble
+
+
+Soil
+Seitz
+
+
+Song(s)
+Where the Columbines Grow
+Rocky Mountain High
+
+
+Tartan
+Colorado State Tartan
+
+
+
+
+
+
+Route marker(s)
+
+
+
+
+
+
+
+
+
+
+
+State Quarter
+
+
+
+
+
+
+
+Released in 2006
+
+
+
+
+
+
+Lists of United States state insignia
+
+
+Main article: List of Colorado state symbols
+
+See also[edit]
+
+
+
+
+Geography portal
+
+
+
+North America portal
+
+
+
+United States portal
+
+
+
+Colorado portal
+
+
+
+
+Outline of Colorado – organized list of topics about Colorado
+Index of Colorado-related articles
+Bibliography of Colorado
+Wikipedia books on Colorado
+
+
+References[edit]
+
+
+^ a b c "Annual Estimates of the Resident Population for the United States, Regions, States, and Puerto Rico: April 1, 2010 to July 1, 2012" (CSV). 2012 Population Estimates. United States Census Bureau, Population Division. December 2012. Retrieved December 20, 2012. 
+^ a b "Mount Elbert". NGS data sheet. U.S. National Geodetic Survey. Retrieved October 20, 2011. 
+^ a b c "Elevations and Distances in the United States". United States Geological Survey. 2001. Retrieved October 21, 2011. 
+^ a b Elevation adjusted to North American Vertical Datum of 1988.
+^ The summit of Mount Elbert is the highest point of the Rocky Mountains of North America.
+^ "Colorado – Definition". Merriam-webster.com. August 13, 2010. Retrieved June 5, 2011. 
+^ "Colorado - dictionary.reference.com". Dictionary.com, LLC. Retrieved August 17, 2013. 
+^ Writers Style Guide, Colorado State University. Retrieved January 19, 2009.
+^ Quillen, Ed (March 18, 2007). "Coloradoan or Coloradan". Denver Post. Retrieved July 30, 2010. 
+^ a b Forty-third United States Congress (March 3, 1875). "An Act to Enable the People of Colorado to Form a Constitution and State Government, and for the Admission of the Said State into the Union on an Equal Footing with the Original States" (PDF). Archived from the original on May 7, 2008. Retrieved April 14, 2008. 
+^ "Rectangular States and Kinky Borders". Maa.org. August 30, 2007. Retrieved July 30, 2010. 
+^ U.S. Geological Survey. "Elevations and Distances". Retrieved September 8, 2006. 
+^ "Colorado County Highpoints". Retrieved February 27, 2012. 
+^ a b Doesken, Nolan J.; Roger A. Pielke, Sr., Odilia A.P. Bliss (January 2003). "Climate of Colorado". Colorado Climate Center – Department of Atmospheric Science – Colorado State University. Retrieved January 25, 2009. 
+^ U.S. Forest Service. "Rocky Mountain Region 14ers". Retrieved November 6, 2009. 
+^ "Pikes Peak, Colorado". Peakbagger.com. Retrieved October 10, 2009. 
+^ DRI.edu Western Regional Climate Center. Retrieved October 24, 2006.
+^ a b "Denver, Colorado Travel Weather Averages". Weatherbase. Retrieved 2013-07-10. 
+^ Slater, Jane (May 28, 2008). "Thursday's Tornado State's 4th Costliest Disaster". KMGH. 
+^ "Denver's Consecutive 90 Degree Streaks". National Weather Service. Retrieved October 10, 2009. 
+^ "A History of Drought" (PDF). Retrieved July 30, 2010. 
+^ "Record Highest Temperatures by State" (PDF). National Climatic Data Center. January 1, 2004. Retrieved January 11, 2007. 
+^ "Record Lowest Temperatures by State" (PDF). National Climatic Data Center. January 1, 2004. Retrieved January 11, 2007. 
+^ UStravelweather.com[dead link]
+^ [1][dead link]
+^ "Largest Colorado quake since 1973 shakes homes". USA Today. August 23, 2011. Retrieved August 23, 2011. 
+^ "Genocide Wiped Out Native American Population ", Discovery News, September 20, 2010.
+^ "An Act to provide a temporary Government for the Territory of Colorado" (PDF). Thirty-sixth United States Congress. February 28, 1861. Retrieved June 12, 2007. 
+^ Early explorers identified the Gunnison River in Colorado as the headwaters of the Colorado River. The Grand River in Colorado was later tentively identified as the primary headwaters of the river. Finally in 1916, E.C. LaRue, the Chief Hydrologist of the United States Geological Survey, identified the Green River in southwestern Wyoming as the proper headwaters of the actual, overall Colorado River.
+^ State of Colorado – Division of Information Technologies. "State Names and Nicknames". Retrieved November 15, 2006. 
+^ Report of the exploring expedition from Santa Fé, New Mexico, to the junction of the Grand and Green Rivers of the great Colorado of the West, in 1859: under the command of Capt. J. N. Macomb, Corps of topographical engineers, Volume 1 @ archive.org
+^ President of the United States of America (August 1, 1876). "Proclamation of the Admission of Colorado to the Union" (php). The American Presidency Project. Retrieved April 14, 2008. 
+^ Resident Population Data. "Resident Population Data – 2010 Census". 2010.census.gov. Retrieved June 5, 2011. 
+^ "Population growth – Colorado counties". Epodunk.com. Retrieved June 5, 2011. 
+^ "Population and Population Centers by State – 2000". United States Census Bureau. Retrieved December 4, 2008. 
+^ http://factfinder2.census.gov/faces/tableservices/jsf/pages/productview.xhtml?pid=DEC_10_DP_DPDP1&prodType=table
+^ "Historical Census Statistics on Population Totals By Race, 1790 to 1990, and By Hispanic Origin, 1970 to 1990, For The United States, Regions, Divisions, and States". U.S. Census Bureau. Retrieved January 3, 2012. 
+^ Fred Elbel, CAIR (May 19, 2005). "Crime and illegal aliens in Colorado – CAIR – Colorado Alliance for Immigration Reform". Cairco.org. Retrieved June 5, 2011. 
+^ "Language Map Data Center". Mla.org. July 17, 2007. Retrieved July 30, 2010. 
+^ "talking about Colorado in "nada"". Elcastellano.org. June 30, 2007. Retrieved July 30, 2010. 
+^ "National Vital Statistics Reports, Volume 57, Number 12, (March 18, 2009)" (PDF). Retrieved July 30, 2010. 
+^ CDPHE.state.co.us, COHID Birth Data Request
+^ [2], Statemaster Colorado
+^ "Americans under age 1 now mostly minorities, but not in Ohio: Statistical Snapshot". The Plain Dealer. June 3, 2012.
+^ "U.S. Religion Map and Religious Populations – U.S. Religious Landscape Study – Pew Forum on Religion & Public Life". Religions.pewforum.org. Retrieved July 30, 2010. 
+^ "The Association of Religion Data Archives | Maps & Reports". Thearda.com. Retrieved June 5, 2011. 
+^ http://calorielab.com/news/wp-images/post-images/fattest-states-2007-big.gif
+^ "Fattest States 2010: CalorieLab's Annual Obesity Map – State Obesity Rankings | CalorieLab – Health News & Information Blog". CalorieLab. June 28, 2010. Retrieved June 5, 2011. 
+^ Cangialosi, Jason. "Scenic Memorabilia: Colorado's Film Locations". Yahoo! Movies. Retrieved 4 March 2013. 
+^ Knowlton, Andrew. "America's Foodiest Town 2010: Boulder, Colorado: In the Magazine". bonappetit.com. Retrieved June 5, 2011. 
+^ [3][dead link]
+^ Arnold, Katie (June 8, 2008). "As Skiers Depart Aspen, Chowhounds Take Their Place". Aspen (Colo): Travel.nytimes.com. Retrieved June 5, 2011. 
+^ "Colorado Travel Guide". Travelandleisure.com. Retrieved June 5, 2011. 
+^ Jackenthal, Stefani (October 5, 2008). "Biking Colorado's Wine Country". Colorado: Travel.nytimes.com. Retrieved June 5, 2011. 
+^ "The Jefferson Cup Invitational Wine Competition". Thejeffersoncup.com. November 24, 2010. Retrieved June 5, 2011. 
+^ "Wine Industry Feature Articles – Is Colorado the New Washington?". Winesandvines.com. Retrieved June 5, 2011. 
+^ http://www.ttb.gov/appellation/us_by_ava.pdf
+^ "Colorado Wine Industry Development Board". Coloradowine.com. Retrieved June 5, 2011. 
+^ "Colorado beer.org". coloradobeer.org. Retrieved January 24, 2013. 
+^ "The Denver Beer Triangle". Denver.org. Retrieved June 18, 2013. 
+^ America's Top States for Business 2010." CNBC Special Report (2010): 1. Web. May 9, 2011. <http://www.cnbc.com/id/37516043/>.
+^ "GDP by State". Greyhill Advisors. Retrieved September 7, 2011. 
+^ "References" (PDF). Retrieved July 30, 2010. 
+^ Tony Frank (January 1997). "Colorado Land Ownership by County (acres)" (Excel). Colorado Department of Agriculture. Archived from the original on January 16, 2006. Retrieved July 15, 2007.  Colorado Department of Agriculture: Land Ownership[dead link]
+^ "Colorado rides on Fat Tire to beer heights". Rockymountainnews.com. November 24, 2007. Retrieved June 5, 2011. 
+^ Colorado individual income tax return (2005) Revenue.state.co.us. Retrieved September 26, 2006.
+^ U.S. Individual Income Tax Return (2005) online copy. Retrieved September 26, 2006.
+^ Bls.gov; Local Area Unemployment Statistics
+^ http://www.cof.org/files/Documents/Government/StateGiving/CO.pdf
+^ "EIA State Energy Profiles: Colorado". June 12, 2008. Retrieved June 24, 2008. 
+^ Year to Date Passenger Traffic
+^ "2009 Annual Report". City & County of Denver Department of Aviation. Retrieved July 11, 2012. 
+^ "Railroads and States". Aar.org. Retrieved 2013-07-10. 
+^ "State of Residence in 2000 by State of Birth". US Census Bureau. Retrieved October 10, 2009. 
+^ "Colorado Counties". State of Colorado, Department of Local Affairs. January 8, 2007. Retrieved January 30, 2007. 
+^ The United States Office of Management and Budget defines a Combined Statistical Area (CSA) as an aggregate of adjacent Core Based Statistical Areas that are linked by commuting ties.
+^ The United States Office of Management and Budget defines a Metropolitan Statistical Area (MSA) as a Core Based Statistical Area having at least one urbanized area of 50,000 or more population, plus adjacent territory that has a high degree of social and economic integration with the core as measured by commuting ties.
+^ The United States Office of Management and Budget defines a Micropolitan Statistical Area (μSA) as a Core Based Statistical Area having at least one urban cluster of at least 10,000 but less than 50,000 population, plus adjacent territory that has a high degree of social and economic integration with the core as measured by commuting ties.
+^ "OMB Bulletin No. 10-02: Update of Statistical Area Definitions and Guidance on Their Uses". United States Office of Management and Budget. December 1, 2009. Retrieved January 7, 2010. 
+^ a b c "American Factfinder". United States Census Bureau. Retrieved April 19, 2012. 
+^ "Active Colorado Municipalities". State of Colorado, Department of Local Affairs. Retrieved May 11, 2011. 
+^ "Colorado Local Government by Type". State of Colorado, Department of Local Affairs. February 27, 2007. Retrieved May 11, 2011. 
+^ Governor Bill Ritter appointed Michael Bennet to serve the remaining two years of United States Senator Ken Salazar term of office which was left vacant on January 20, 2009, when new United States President Barack Obama appointed the Colorado Senator to serve in his Cabinet as United States Secretary of the Interior.
+^ Wyatt, Kristen. "Colorado's Marijuana Industry: Legal, Not Cheap". ABC News. Retrieved 27 August 2013. 
+^ By legislative act enacted August 1st, 2012, approved by Governor John Hickenlooper.
+^ a b Managed by the United States Department of Agriculture, National Forest Service.
+^ Managed by the United States Department of the Interior, Bureau of Land Management.
+^ Jointly managed by the United States Department of Agriculture, National Forest Service, and the United States Department of the Interior, National Park Service and Bureau of Land Management.
+^ a b The Western Collegiate Hockey Association is a National Collegiate Athletic Association Division I ice hockey-only conference.
+
+
+Further reading[edit]
+
+
+Explore Colorado, A Naturalist's Handbook, The Denver Museum of Natural History and Westcliff Publishers, 1995, ISBN 1-56579-124-X for an excellent guide to the ecological regions of Colorado.
+The Archeology of Colorado, Revised Edition, E. Steve Cassells, Johnson Books, Boulder, Colorado, 1997, trade paperback, ISBN 1-55566-193-9.
+Chokecherry Places, Essays from the High Plains, Merrill Gilfillan, Johnson Press, Boulder, Colorado, trade paperback, ISBN 1-55566-227-7.
+The Tie That Binds, Kent Haruf, 1984, hardcover, ISBN 0-03-071979-8, a fictional account of farming in Colorado.
+Railroads of Colorado: Your Guide to Colorado's Historic Trains and Railway Sites, Claude Wiatrowski, Voyageur Press, 2002, hardcover, 160 pages, ISBN 0-89658-591-3
+
+
+External links[edit]
+
+
+Find more about Colorado at Wikipedia's sister projects
+
+
+
+Definitions and translations from Wiktionary
+
+
+
+Media from Commons
+
+
+
+Learning resources from Wikiversity
+
+
+
+Quotations from Wikiquote
+
+
+
+Source texts from Wikisource
+
+
+
+Textbooks from Wikibooks
+
+
+
+Travel guide from Wikivoyage
+
+
+
+State government
+
+
+Colorado state government website
+
+Colorado Department of Transportation
+
+Colorado highway maps
+
+Colorado Travel Map
+
+
+
+
+Colorado counties
+Colorado municipalities
+Colorado special districts
+Colorado tourism
+
+
+Colorado State and County Government Websites
+List of searchable databases produced by Colorado state agencies hosted by the American Library Association Government Documents Roundtable.
+
+
+Federal government
+
+
+Energy & Environmental Data for Colorado
+USGS Colorado state facts, real-time, geographic, and other scientific resources of Colorado
+United States Census Bureau
+
+Colorado QuickFacts
+Colorado economic data
+Colorado housing data
+Colorado social data
+
+
+USDA ERS Colorado state facts
+
+
+Other
+
+
+Colorado County Evolution
+Ask Colorado
+2000 Census of Population and Housing for Colorado
+Mountain and Desert Plants of Colorado and the Southwest,
+Climate of Colorado
+Colorado at the Open Directory Project
+ Geographic data related to Colorado at OpenStreetMap
+
+
+
+
+
+
+
+
+ Topics related to Colorado
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+ State of Colorado
+
+
+
+
+
+
+
+
+Denver (capital)
+
+
+
+
+
+
+
+Topics
+
+
+
+Index
+Coloradans
+Federal lands
+Geography
+Highways
+History
+Images
+Government
+Military
+Mountains
+Museums
+Rivers
+Symbols
+Visitor attractions
+
+
+
+
+
+
+
+
+Society
+
+
+
+Culture
+Crime
+Demographics
+Economy
+Education
+Politics
+
+
+
+
+
+
+
+
+Regions
+
+
+
+Central Colorado
+Colorado Piedmont
+Colorado Plateau
+Denver-Aurora Metropolitan Area
+Eastern Plains
+Front Range
+Grand Valley
+High Rockies
+Mineral Belt
+Roaring Fork Valley
+Sangre de Cristo Mountains
+San Luis Valley
+South‑Central Colorado
+Southwest Colorado
+Uinta Mountains
+Western Slope
+
+
+
+
+
+
+
+
+Municipalities
+
+
+
+Akron
+Alamosa
+Arvada
+Aspen
+Aurora
+Boulder
+Breckenridge
+Brighton
+Broomfield
+Cañon City
+Castle Rock
+Centennial
+Colorado Springs
+Commerce City
+Cortez
+Craig
+Delta
+Denver
+Durango
+Englewood
+Erie
+Evans
+Fairplay
+Federal Heights
+Fort Collins
+Fort Morgan
+Fountain
+Golden
+Glenwood Springs
+Grand Junction
+Greeley
+Greenwood Village
+Gunnison
+Lafayette
+La Junta
+Lakewood
+Lamar
+Leadville
+Littleton
+Longmont
+Louisville
+Loveland
+Montrose
+Northglenn
+Parker
+Platteville
+Pueblo
+Salida
+Steamboat Springs
+Sterling
+Superior
+Thornton
+Trinidad
+Vail
+Westminster
+Wheat Ridge
+Windsor
+
+
+
+
+
+
+
+
+Counties
+
+
+
+Adams
+Alamosa
+Arapahoe
+Archuleta
+Baca
+Bent
+Boulder
+Broomfield
+Chaffee
+Cheyenne
+Clear Creek
+Conejos
+Costilla
+Crowley
+Custer
+Delta
+Denver
+Dolores
+Douglas
+Eagle
+El Paso
+Elbert
+Fremont
+Garfield
+Gilpin
+Grand
+Gunnison
+Hinsdale
+Huerfano
+Jackson
+Jefferson
+Kiowa
+Kit Carson
+La Plata
+Lake
+Larimer
+Las Animas
+Lincoln
+Logan
+Mesa
+Mineral
+Moffat
+Montezuma
+Montrose
+Morgan
+Otero
+Ouray
+Park
+Phillips
+Pitkin
+Prowers
+Pueblo
+Rio Blanco
+Rio Grande
+Routt
+Saguache
+San Juan
+San Miguel
+Sedgwick
+Summit
+Teller
+Washington
+Weld
+Yuma
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Mayors of cities with populations exceeding 100,000 in Colorado
+
+
+
+
+
+
+
+
+
+
+   
+
+
+
+Michael Hancock
+(Denver)
+Steve Bach
+(Colorado Springs)
+Steve Hogan
+(Aurora)
+
+
+
+
+
+
+Doug Hutchinson
+(Fort Collins)
+Bob Murphy
+(Lakewood)
+Erik Hansen
+(Thornton)
+
+
+
+
+
+
+Bob Frie
+(Arvada)
+Nancy McNally
+(Westminster)
+Barbara Vidmar
+(Pueblo) City Council President
+
+
+
+
+
+
+Cathy Noon
+(Centennial)
+Matthew Appelbaum
+(Boulder)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Other states
+AL
+AK
+AZ
+AR
+CA
+CO
+CT
+DE
+FL
+GA
+HI
+ID
+IL
+IN
+IA
+KS
+KY
+LA
+ME
+MD
+MA
+MI
+MN
+MS
+MO
+MT
+NE
+NV
+NH
+NJ
+NM
+NY
+NC
+ND
+OH
+OK
+OR
+PA
+RI
+SC
+SD
+TN
+TX
+UT
+VT
+VA
+WA
+WV
+WI
+WY
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Protected areas of the State of Colorado
+
+
+
+
+
+
+Federal
+
+
+
+
+
+National Parks
+
+
+
+
+Black Canyon of the Gunnison
+Great Sand Dunes
+Mesa Verde
+Rocky Mountain
+
+
+
+
+
+
+
+
+
+National Monuments
+
+
+
+
+Canyons of the Ancients (BLM)
+Chimney Rock (USFS)
+Colorado
+Dinosaur
+Florissant Fossil Beds
+Hovenweep
+Yucca House
+
+
+
+
+
+
+
+
+
+National Recreation Areas
+
+
+
+
+Arapaho (USFS)
+Curecanti
+
+
+
+
+
+
+
+
+
+National Historic Sites
+
+
+
+
+Bent's Old Fort
+Sand Creek Massacre
+
+
+
+
+
+
+
+
+
+National Historic Trails
+
+
+
+
+Old Spanish Trail
+Pony Express Trail
+Santa Fe Trail
+
+
+
+
+
+
+
+
+
+National Scenic Trail
+
+
+
+
+Continental Divide Trail
+
+
+
+
+
+
+
+
+
+National Forests
+
+
+
+
+Arapaho
+Grand Mesa
+Gunnison
+Pike
+Rio Grande
+Roosevelt
+Routt
+San Isabel
+San Juan
+Uncompahgre
+White River
+
+
+
+
+
+
+
+
+
+National Grasslands
+
+
+
+
+Comanche
+Pawnee
+
+
+
+
+
+
+
+
+
+National Wilderness
+
+
+
+
+Black Canyon of the Gunnison
+Black Ridge Canyons
+Buffalo Peaks
+Byers Peak
+Cache La Poudre
+Collegiate Peaks
+Comanche Peak
+Dominguez
+Eagles Nest
+Flat Tops
+Fossil Ridge
+Great Sand Dunes
+Greenhorn Mountain
+Gunnison Gorge
+Holy Cross
+Hunter-Fryingpan
+Indian Peaks
+James Peak
+La Garita
+Lizard Head
+Lost Creek
+Maroon Bells – Snowmass
+Mesa Verde
+Mount Evans
+Mount Massive
+Mount Sneffels
+Mount Zirkel
+Neota
+Never Summer
+Platte River
+Powderhorn
+Ptarmigan Peak
+Raggeds
+Rawah
+Sangre de Cristo
+Sarvis Creek
+South San Juan
+Spanish Peaks
+Uncompahgre
+Vasquez Peak
+Weminuche
+West Elk
+
+
+
+
+
+
+
+
+
+National Conservation Areas
+
+
+
+
+Dominguez-Escalante
+Gunnison Gorge
+McInnis Canyons
+
+
+
+
+
+
+
+
+
+National Wildlife Refuges
+
+
+
+
+Alamosa
+Arapaho
+Baca
+Browns Park
+Monte Vista
+Rocky Flats
+Rocky Mountain Arsenal
+Two Ponds
+
+
+
+
+
+
+
+
+
+BLM ACECs
+
+
+
+
+66 Areas of Critical Environmental Concern
+
+
+
+
+
+
+
+
+
+
+
+State
+
+
+
+
+
+Colorado State Parks
+
+
+
+
+Arkansas Headwaters
+Barr Lake
+Bonny Lake
+Boyd Lake
+Castlewood Canyon
+Chatfield
+Cherry Creek
+Cheyenne Mountain
+Crawford
+Eldorado Canyon
+Eleven Mile
+Golden Gate Canyon
+Harvey Gap
+Highline Lake
+Jackson Lake
+James M. Robb - Colorado River
+John Martin Reservoir
+Lake Pueblo
+Lathrop
+Lone Mesa
+Lory
+Mancos
+Mueller
+Navajo
+North Sterling
+Paonia
+Pearl Lake
+Ridgway
+Rifle Falls
+Rifle Gap
+Roxborough
+San Luis
+Spinney Mountain
+St. Vrain
+Stagecoach
+State Forest
+Staunton
+Steamboat Lake
+Sweitzer Lake
+Sylvan Lake
+Trinidad Lake
+Vega
+Yampa River
+
+
+
+
+
+
+
+
+
+Colorado Natural Areas
+
+
+
+
+Aiken Canyon
+Ant Hill
+Antero-Salt Creek
+Arikaree River
+Badger Wash
+Blacks Gulch
+Blue Mountain
+Bonny Prairie
+Boston Peak Fen
+Boulder Mountain Park
+Boulder Valley Heronry
+Brush Creek Fen
+California Park
+Castlewood Canyon
+Chalk Bluffs
+Colorado Tallgrass Prairie
+Comanche Grassland
+Copeland Willow Carr
+Cross Mountain Canyon
+Daves Draw
+Deep Creek
+Deer Gulch
+Dinosaur Ridge
+Dome Rock
+Droney Gulch
+Duck Creek
+Dudley Bluffs
+East Lost Park
+East Sand Dunes
+Elephant Rocks
+Elk River
+Escalante Canyon
+Escalante Creek
+Fairview
+Fourmile Creek
+Fruita Paleontological
+Garden Park Fossil
+Gateway Palisade
+Geneva Basin Iron Fens
+Gothic
+Gunnison Gravels
+Haviland Lake
+High Creek Fen
+High Mesa Grassland
+Hoosier Ridge
+Hurricane Canyon
+Indian Spring
+Indian Springs Trace Fossil
+Irish Canyon
+Jimmy Creek
+Ken-Caryl Ranch
+Kremmling Cretaceous Ammonite
+Lake Pasture
+Lake San Cristobal
+Limestone Ridge
+Lookout Mountain
+Lost Park
+Lower Greasewood Creek
+McElmo
+Mexican Cut
+Mini-Wheeler
+Miramonte Reservoir
+Mishak Lakes
+Moosehead Mountain
+Mount Callahan
+Mount Callahan Saddle
+Mount Emmons Iron Fen
+Mount Goliath
+Narraguinnep
+Needle Rock
+North Park Phacelia
+Orient Mine
+Owl Canyon
+Paradise Park
+Park Creek Hogback
+Park Mesa
+Pawnee Woodlands
+Pyramid Rock
+Rabbit Valley
+Rajadero Canyon
+Raven Ridge
+Redcloud Peak
+Rocky Mountain Woodfrog Pond
+Rough Canyon
+Roxborough
+Running Creek
+Ryan Gulch
+Saddle Mountain
+San Miguel River
+Sand Creek
+Shell Duck Creek
+Shell Rock
+Slumgullion Earthflow
+South Beaver Creek
+South Boulder Creek
+South Cathedral Bluffs
+Specimen Mountain
+Staunton
+Tabeguache
+Tamarack Ranch
+Tern Island
+Treasurevault Mountain
+Trinidad K-T Boundary
+Two Buttes
+Unaweep Seep
+Uncompahgre Fritillary
+Wacker Ranch
+West Creek
+Wheeler Geologic
+White Rocks
+Williams Creek
+Yanks Gulch/Upper Greasewood Creek Natural Area
+Zapata Falls
+
+
+
+
+
+
+
+
+
+State Wildlife Areas
+
+
+
+
+307 Colorado State Wildlife Areas
+
+
+
+
+
+
+
+
+
+History Colorado
+
+
+
+
+History Colorado Center
+Byers-Evans House
+El Pueblo
+Fort Garland
+Fort Vasquez
+Georgetown Loop
+Healy House Museum and Dexter Cabin
+Pearce-McAllister Cottage
+Pike Stockade
+Trinidad History Museum
+Ute Indian Museum
+
+
+
+
+
+
+
+
+
+
+
+Other
+
+
+
+
+
+National Historic Landmarks
+
+
+
+
+Beaver Meadows
+Burlington Carousel
+Black Hawk
+Central City
+Colorado Chautauqua
+Cripple Creek
+Durango-Silverton Railroad
+Georgetown
+Granada
+Leadville
+Lindenmeier Site
+Lowry Ruin
+Mesa Verde
+Pikes Peak
+Pike's Stockade
+Raton Pass
+Shenandoah-Dives Mill
+Silver Plume
+Silverton
+Telluride
+Trujillo Homestead
+U.S. Air Force Academy Cadet Area
+
+
+
+
+
+
+
+
+
+National Natural Landmarks
+
+
+
+
+Garden of the Gods
+Garden Park Fossil Area
+Indian Springs Trace Fossil
+Lost Creek Scenic Area
+Morrison Fossil Area
+Raton Mesa
+Roxborough Park
+Russell Lakes
+Sand Creek
+Slumgullion Earthflow
+Spanish Peaks
+Summit Lake
+
+
+
+
+
+
+
+
+
+National and Regional Trails
+
+
+
+
+American Discovery Trail
+Colorado Trail
+Continental Divide Trail
+Great Divide Trail
+Kokopelli's Trail
+Paradox Trail
+Tabeguache Trail
+
+
+
+
+
+
+
+
+
+Scenic and Historic Byways
+
+
+
+
+Alpine Loop
+Cache la Poudre-North Park
+Colorado River Headwaters
+Dinosaur Diamond
+Flat Tops
+Frontier Pathways
+Gold Belt
+Grand Mesa
+Guanella Pass
+Highway of Legends
+Lariat Loop
+Los Caminos Antiguos
+Mount Evans
+Pawnee Pioneer
+Peak to Peak
+San Juan Skyway
+Santa Fe Trail
+Silver Thread
+South Platte River Trail
+Top of the Rockies
+Trail of the Ancients
+Trail Ridge
+Unaweep/Tabeguache
+West Elk Loop
+
+
+
+
+
+
+
+
+
+
+
+
+
+Colorado Department of Natural Resources (web)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Political divisions of the United States
+
+
+
+
+
+
+States
+
+
+
+Alabama
+Alaska
+Arizona
+Arkansas
+California
+Colorado
+Connecticut
+Delaware
+Florida
+Georgia
+Hawaii
+Idaho
+Illinois
+Indiana
+Iowa
+Kansas
+Kentucky
+Louisiana
+Maine
+Maryland
+Massachusetts
+Michigan
+Minnesota
+Mississippi
+Missouri
+Montana
+Nebraska
+Nevada
+New Hampshire
+New Jersey
+New Mexico
+New York
+North Carolina
+North Dakota
+Ohio
+Oklahoma
+Oregon
+Pennsylvania
+Rhode Island
+South Carolina
+South Dakota
+Tennessee
+Texas
+Utah
+Vermont
+Virginia
+Washington
+West Virginia
+Wisconsin
+Wyoming
+
+
+
+
+
+
+
+
+Federal district
+
+
+Washington, D.C.
+
+
+
+
+
+
+
+Insular areas
+
+
+
+American Samoa
+Guam
+Northern Mariana Islands
+Puerto Rico
+U.S. Virgin Islands
+
+
+
+
+
+
+
+
+Outlying islands
+
+
+
+Baker Island
+Howland Island
+Jarvis Island
+Johnston Atoll
+Kingman Reef
+Midway Atoll
+Navassa Island
+Palmyra Atoll
+Wake Island
+
+
+
+
+
+
+
+
+Indian reservations
+
+
+
+List of Indian reservations in the United States
+
+Largest
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+United States topics
+
+
+
+
+
+
+History
+
+
+
+
+Timeline
+
+
+
+Pre-Columbian era
+Colonial era
+
+Thirteen Colonies
+Colonial American military history
+
+
+American Revolution
+
+War
+
+
+American frontier
+Federalist Era
+War of 1812
+Territorial acquisitions
+Territorial evolution
+Mexican–American War
+Civil War
+Reconstruction Era
+Indian Wars
+Gilded Age
+Progressive Era
+African-American Civil Rights Movement (1896–1954)
+Spanish–American War
+Imperialism
+World War I
+Roaring Twenties
+Great Depression
+World War II
+
+Home front
+
+
+Cold War
+Korean War
+Space Race
+African-American Civil Rights Movement (1955–68)
+Feminist Movement
+Vietnam War
+Post-Cold War (1991–present)
+War on Terror
+
+War in Afghanistan
+Iraq War
+War in North-West Pakistan
+
+
+Timeline of modern American conservatism
+
+
+
+
+
+
+
+
+By topic
+
+
+
+Demographic
+Discoveries
+Economic
+
+Debt Ceiling
+
+
+Inventions
+
+before 1890
+1890–1945
+1946–1991
+after 1991
+
+
+Military
+Postal
+Technological and industrial
+
+
+
+
+
+
+
+
+
+
+
+Geography
+
+
+
+
+
+
+
+Cities, towns, and villages
+Counties
+Extreme points
+Islands
+Mountains
+
+Peaks
+Appalachian
+Rocky
+
+
+National Park System
+Regions
+
+West Coast
+East Coast
+Great Plains
+Mid-Atlantic
+Midwestern
+New England
+Northwestern
+Northeastern
+Southwestern
+Southeastern
+Western
+Eastern
+Northern
+Southern
+Pacific
+
+
+Rivers
+
+Colorado
+Columbia
+Mississippi
+Missouri
+Ohio
+Rio Grande
+
+
+States
+Territory
+Water supply and sanitation
+
+
+
+
+
+
+
+
+
+
+
+Governance
+
+
+
+
+
+
+
+
+Federal
+
+
+
+
+Executive
+
+
+
+President
+
+Executive Office
+
+
+Cabinet / Executive departments
+Civil service
+Independent agencies
+Law enforcement
+Public policy
+
+
+
+
+
+
+
+
+Legislature
+
+
+
+Congress
+
+Senate
+
+Vice President
+President pro tem
+
+
+House of Representatives
+
+Speaker
+
+
+
+
+
+
+
+
+
+
+
+
+Judiciary
+
+
+
+Supreme Court
+Federal courts
+Courts of appeals
+District courts
+
+
+
+
+
+
+
+
+Law
+
+
+
+Constitution
+
+Federalism
+Preemption
+Separation of powers
+
+
+Bill of Rights
+
+Civil liberties
+
+
+Code of Federal Regulations
+Federal Reporter
+United States Code
+United States Reports
+
+
+
+
+
+
+
+
+Intelligence
+
+
+
+Central Intelligence Agency
+Defense Intelligence Agency
+National Security Agency
+Federal Bureau of Investigation
+
+
+
+
+
+
+
+
+Uniformed
+
+
+
+Armed Forces
+
+Air Force
+Army
+Marine Corps
+Navy
+National Guard
+
+
+Coast Guard
+NOAA Corps
+Public Health Service Corps
+
+
+
+
+
+
+
+
+
+
+
+Politics
+
+
+
+Administrative divisions
+Elections
+
+Electoral College
+
+
+Foreign policy
+Foreign relations
+Ideologies
+Local governments
+Parties
+
+Democratic Party
+Republican Party
+Third parties
+
+
+51st state
+
+Political status of Puerto Rico
+
+
+Red states and blue states
+Scandals
+State governments
+Uncle Sam
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Economy
+
+
+
+
+
+
+
+Economic issues
+Agriculture
+Banking
+Communications
+Companies
+
+by state
+
+
+Dollar (currency)
+Energy
+Federal Budget
+Federal Reserve System
+Financial position
+Insurance
+Labor unions
+Mining
+Public debt
+Social welfare programs
+Taxation
+Tourism
+Trade
+Transportation
+Unemployment
+Wall Street
+
+
+
+
+
+
+
+
+
+
+
+Society
+
+
+
+
+
+
+
+
+By topic
+
+
+
+Crime
+Demographics
+Education
+Family structure
+Health care
+Health insurance
+Incarceration
+Languages
+
+American English
+Spanish
+French
+German
+
+
+Media
+People
+Public holidays
+Religion
+Sports
+
+
+
+
+
+
+
+
+Social class
+
+
+
+Affluence
+American Dream
+Educational attainment
+Homelessness
+Homeownership
+Household income
+Income inequality
+Middle class
+Personal income
+Poverty
+Professional and working class conflict
+Standard of living
+Smoking
+Wealth
+
+
+
+
+
+
+
+
+Issues
+
+
+
+Abortion
+Affirmative action
+Anti-Americanism
+Capital punishment
+Discrimination
+Drug policy
+Energy policy
+Environmental movement
+Exceptionalism
+Gun politics
+Health care reform
+Human rights
+Immigration
+Illegal Immigration
+International rankings
+LGBT rights
+
+Same-sex marriage
+
+
+Nationalism
+Obesity
+Racism
+Separation of church and state
+Terrorism
+
+
+
+
+
+
+
+
+Culture
+
+
+
+Architecture
+Art
+Cinema
+Cuisine
+Dance
+Fashion
+Flag
+Folklore
+Literature
+Music
+Philosophy
+Radio
+Television
+Theater
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Outline
+Index
+
+
+
+
+
+
+
+
+
+
+
+Book
+Category
+Portal
+WikiProject
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Wyoming
+ Wyoming
+ Nebraska
+
+
+
+ Utah
+
+ Kansas
+
+
+
+
+
+
+
+
+  Colorado : Outline • Index  
+
+
+
+
+
+
+
+
+
+
+
+ Arizona
+ New Mexico
+ Oklahoma
+
+
+
+
+
+Preceded by
+Nebraska
+List of U.S. states by date of statehood
+Admitted on August 1, 1876 (38th)
+Succeeded by
+North Dakota
+
+
+Coordinates: 39°00′N 105°30′W﻿ / ﻿39°N 105.5°W﻿ / 39; -105.5
+
+
+ 
+NewPP limit report
+CPU time usage: 14.109 seconds
+Real time usage: 14.483 seconds
+Preprocessor visited node count: 56530/1000000
+Preprocessor generated node count: 75239/1500000
+Post‐expand include size: 1062760/2048000 bytes
+Template argument size: 343969/2048000 bytes
+Highest expansion depth: 29/40
+Expensive parser function count: 10/500
+Lua time usage: 0.637s
+Lua memory usage: 3.6 MB
+
+
+ Saved in parser cache with key enwiki:pcache:idhash:5399-0!*!0!!en!4!* and timestamp 20131003010042 
+								
+				Retrieved from "http://en.wikipedia.org/w/index.php?title=Colorado&oldid=575517394"				
+												Categories: ColoradoStates and territories established in 1876States of the United StatesFormer Spanish coloniesWestern United StatesHidden categories: All articles with dead external linksArticles with dead external links from July 2010Articles with dead external links from July 2013Articles with dead external links from June 2011Wikipedia indefinitely move-protected pagesUse mdy dates from June 2012Articles including recorded pronunciationsArticles containing Spanish-language textAll articles with unsourced statementsArticles with unsourced statements from August 2012Articles with unsourced statements from May 2011Articles containing potentially dated statements from 2013All articles containing potentially dated statements												
+							
+		
+		
+			Navigation menu
+			
+				
+	Personal tools
+	
+Create accountLog in	
+
+				
+					
+	Namespaces
+	
+					Article
+					Talk
+			
+
+
+	
+		
+	Variants
+	
+		
+					
+	
+
+				
+				
+					
+	Views
+	
+					Read
+					Edit
+					View history
+			
+
+
+	Actions
+	
+		
+					
+	
+
+
+	Search
+	
+				
+																				
+		
+	
+
+				
+			
+			
+					
+				
+	Navigation
+	
+		
+			Main page
+			Contents
+			Featured content
+			Current events
+			Random article
+			Donate to Wikipedia
+		
+	
+
+
+	Interaction
+	
+		
+			Help
+			About Wikipedia
+			Community portal
+			Recent changes
+			Contact page
+		
+	
+
+
+	Toolbox
+	
+		
+			What links here
+			Related changes
+			Upload file
+			Special pages
+			Permanent link
+			Page information
+			Data item
+Cite this page		
+	
+
+
+	Print/export
+	
+		
+			Create a book
+			Download as PDF
+			Printable version
+		
+	
+
+
+	Languages
+	
+		
+			Afrikaans
+			አማርኛ
+			Ænglisc
+			العربية
+			Aragonés
+			ܐܪܡܝܐ
+			Arpetan
+			Asturianu
+			Avañe'ẽ
+			Aymar aru
+			Azərbaycanca
+			বাংলা
+			Bân-lâm-gú
+			Беларуская
+			Беларуская (тарашкевіца)‎
+			Bikol Central
+			Bislama
+			Български
+			Boarisch
+			བོད་ཡིག
+			Bosanski
+			Brezhoneg
+			Català
+			Чӑвашла
+			Česky
+			Corsu
+			Cymraeg
+			Dansk
+			Deutsch
+			Diné bizaad
+			Eesti
+			Ελληνικά
+			Español
+			Esperanto
+			Euskara
+			فارسی
+			Fiji Hindi
+			Føroyskt
+			Français
+			Frysk
+			Gaeilge
+			Gaelg
+			Gagauz
+			Gàidhlig
+			Galego
+			客家語/Hak-kâ-ngî
+			Хальмг
+			한국어
+			Hawai`i
+			Հայերեն
+			हिन्दी
+			Hrvatski
+			Ido
+			Igbo
+			Ilokano
+			বিষ্ণুপ্রিয়া মণিপুরী
+			Bahasa Indonesia
+			Interlingua
+			Interlingue
+			ᐃᓄᒃᑎᑐᑦ/inuktitut
+			Iñupiak
+			Ирон
+			IsiZulu
+			Íslenska
+			Italiano
+			עברית
+			Basa Jawa
+			Kapampangan
+			ქართული
+			Қазақша
+			Kernowek
+			Kiswahili
+			Kreyòl ayisyen
+			Kurdî
+			Кырык мары
+			Ladino
+			Latina
+			Latviešu
+			Lëtzebuergesch
+			Lietuvių
+			Ligure
+			Limburgs
+			Lojban
+			Lumbaart
+			Magyar
+			Македонски
+			Malagasy
+			മലയാളം
+			Māori
+			मराठी
+			مصرى
+			مازِرونی
+			Bahasa Melayu
+			Монгол
+			မြန်မာဘာသာ
+			Nāhuatl
+			Nederlands
+			नेपाल भाषा
+			日本語
+			Nordfriisk
+			Norsk bokmål
+			Norsk nynorsk
+			Occitan
+			Oʻzbekcha
+			ਪੰਜਾਬੀ
+			پنجابی
+			Papiamentu
+			پښتو
+			Piemontèis
+			Tok Pisin
+			Plattdüütsch
+			Polski
+			Português
+			Română
+			Rumantsch
+			Runa Simi
+			Русский
+			Саха тыла
+			Sámegiella
+			संस्कृतम्
+			Sardu
+			Scots
+			Seeltersk
+			Shqip
+			Sicilianu
+			Simple English
+			Slovenčina
+			Slovenščina
+			Ślůnski
+			کوردی
+			Српски / srpski
+			Srpskohrvatski / српскохрватски
+			Suomi
+			Svenska
+			Tagalog
+			தமிழ்
+			Татарча/tatarça
+			తెలుగు
+			ไทย
+			Tsetsêhestâhese
+			Türkçe
+			Українська
+			اردو
+			ئۇيغۇرچە / Uyghurche
+			Vèneto
+			Tiếng Việt
+			Volapük
+			Winaray
+			ייִדיש
+			Yorùbá
+			粵語
+			Zazaki
+			Žemaitėška
+			中文
+			
+			Edit links
+		
+	
+
+			
+		
+		
+							
+											 This page was last modified on 3 October 2013 at 01:00.
+											Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. 
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+									
+							
+											Privacy policy
+											About Wikipedia
+											Disclaimers
+											Contact Wikipedia
+											Developers
+											Mobile view
+									
+										
+					
+						
+					
+					
+						
+					
+				
+						
+		
+		
+
+
+ Served by mw1087 in 0.206 secs. 
+	
+if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Colorado","wgTitle":"Colorado","wgCurRevisionId":575517394,"wgArticleId":5399,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["All articles with dead external links","Articles with dead external links from July 2010","Articles with dead external links from July 2013","Articles with dead external links from June 2011","Wikipedia indefinitely move-protected pages","Use mdy dates from June 2012","Articles including recorded pronunciations","Articles containing Spanish-language text","All articles with unsourced statements","Articles with unsourced statements from August 2012","Articles with unsourced statements from May 2011","Articles containing potentially dated statements from 2013","All articles containing potentially dated statements","Colorado","States and territories established in 1876","States of the United States","Former Spanish colonies","Western United States"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Colorado","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":["sysop"],"wgVectorEnabledModules":{"collapsiblenav":true,"experiments":true},"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"templateEditor":false,"templates":false,"preview":false,"previewDialog":false,"publish":false,"toc":false},"wgArticleFeedbackv5Permissions":{"aft-reader":false,"aft-member":false,"aft-editor":false,"aft-monitor":false,"aft-administrator":false,"aft-oversighter":false,"aft-noone":false},"wgVisualEditor":{"isPageWatched":false,"magnifyClipIconURL":"//bits.wikimedia.org/static-1.22wmf18/skins/common/images/magnify-clip.png","pageLanguageCode":"en","pageLanguageDir":"ltr"},"wikilove-recipient":"","wikilove-anon":0,"wgGuidedTourHelpGuiderUrl":"Help:Guided tours/guider","wgULSAcceptLanguageList":[],"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia","aftv5Article":{"id":5399,"title":"Colorado","namespace":0,"categories":["All articles containing potentially dated statements","All articles with dead external links","All articles with unsourced statements","Articles containing Spanish-language text","Articles containing potentially dated statements from 2013","Articles including recorded pronunciations","Articles with dead external links from July 2010","Articles with dead external links from July 2013","Articles with dead external links from June 2011","Articles with unsourced statements from August 2012","Articles with unsourced statements from May 2011","Colorado","Former Spanish colonies","States and territories established in 1876","States of the United States","Use mdy dates from June 2012","Western United States","Wikipedia indefinitely move-protected pages"],"permissionLevel":false},"wgWikibaseItemId":"Q1261"});
+}if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":false,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,
+"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"useeditwarning":1,"prefershttps":1,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"vector-simplesearch":1,"vector-collapsiblenav":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"aftv5-last-filter":null,"visualeditor-enable":0,"visualeditor-enable-experimental":0,"visualeditor-betatempdisable":0,"wikilove-enabled":1,"echo-subscriptions-web-page-review":true,"echo-subscriptions-email-page-review":false,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"echo-notify-show-link":true,"echo-show-alert":true,"echo-email-frequency":0,"echo-email-format":"html","echo-subscriptions-email-system":true,"echo-subscriptions-web-system":true,"echo-subscriptions-email-other":false,"echo-subscriptions-web-other":true,"echo-subscriptions-email-edit-user-talk":false,"echo-subscriptions-web-edit-user-talk":true,
+"echo-subscriptions-email-reverted":false,"echo-subscriptions-web-reverted":true,"echo-subscriptions-email-article-linked":false,"echo-subscriptions-web-article-linked":false,"echo-subscriptions-email-mention":false,"echo-subscriptions-web-mention":true,"echo-subscriptions-web-edit-thank":true,"echo-subscriptions-email-edit-thank":false,"gettingstarted-task-toolbar-show-intro":true,"uls-preferences":"","language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs446":false,"searchNs447":false
+,"searchNs710":false,"searchNs711":false,"searchNs828":false,"searchNs829":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-mySandbox":1,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:156d8fe0ae17f8afd74198057563e45d */
+}if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","ext.visualEditor.viewPageTarget.init","ext.wikimediaShopLink.core","ext.uls.init","ext.uls.interface","wikibase.client.init","ext.centralNotice.bannerController","skins.vector.js"]);
+}/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}if(window.mw){
+mw.loader.load(["mobile.desktop","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.cite","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","mw.MwEmbedSupport.style","ext.vector.collapsibleNav","ext.articleFeedbackv5.startup","ext.gettingstarted.logging","ext.gettingstarted.openTask","schema.HttpsSupport","ext.coreEvents.httpsSupport","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","mw.PopUpMediaTransform"],null,true);
+}

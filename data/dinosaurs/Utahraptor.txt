@@ -1,0 +1,408 @@
+
+
+
+Utahraptor - Wikipedia, the free encyclopedia
+
+
+
+
+
+
+
+
+
+
+
+
+a:lang(ar),a:lang(ckb),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:0de201fdea5d684523607ed88007b127 */
+
+
+
+
+[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.22wmf18/skins/vector/csshover.min.htc")}</style><![endif]
+
+		
+		
+		
+			
+			
+						 CentralNotice 
+						Utahraptor
+			
+								From Wikipedia, the free encyclopedia
+								
+												
+					Jump to:					navigation, 					search
+				
+				
+
+
+Utahraptor
+Temporal range: Early Cretaceous, 126Ma
+
+PreЄ
+Є
+O
+S
+D
+C
+P
+T
+J
+K
+Pg
+N
+
+
+
+↓
+
+
+
+
+
+
+
+
+
+Life restoration
+
+
+Scientific classification 
+
+
+Kingdom:
+Animalia
+
+
+Phylum:
+Chordata
+
+
+Clade:
+Sauropsida
+
+
+Clade:
+Dinosauria
+
+
+Clade:
+Theropoda
+
+
+Family:
+†Dromaeosauridae
+
+
+Clade:
+†Eudromaeosauria
+
+
+Subfamily:
+†Dromaeosaurinae
+
+
+Genus:
+†Utahraptor
+Kirkland, Gaston & Burge, 1993
+
+
+Species:
+† U. ostrommaysorum
+
+
+Binomial name
+
+
+Utahraptor ostrommaysorum
+Kirkland, Gaston & Burge, 1993
+
+
+
+Utahraptor (meaning "Utah's predator"[1]) is a genus of theropod dinosaurs, including the largest known members of the family Dromaeosauridae. Fossil specimens date to the upper Barremian stage of the early Cretaceous period (in rock strata dated to 126 ± 2.5 million years ago).[2] It contains a single species, Utahraptor ostrommaysorum.
+
+
+Contents
+
+
+1 Description
+2 Discovery
+3 In popular culture
+4 References
+
+
+Description[edit]
+
+
+
+
+Size of the largest individual (orange) of Utahraptor compared to a human
+
+
+The holotype specimen of Utahraptor is fragmentary, consisting of skull fragments, a tibia, claws and some caudal (tail) vertebrae. These few elements suggest an animal about twice the length of Deinonychus.[1] Like other dromaeosaurids, Utahraptor had large curved claws on their second toes. One claw specimen is preserved at 22 centimetres (8.7 in) in length and is thought to reach 24 centimetres (9.4 in) restored.
+The largest described U. ostrommaysorum specimens are estimated to have reached up to 7 m (23 ft) long and somewhat less than 500 kg (1,100 lb) in weight, comparable to a grizzly bear in size.[1][3]
+It is thought that Utahraptor may be closely related to the smaller Dromaeosaurus and the giant Mongolian dromaeosaurid genus Achillobator.[1][4]
+Although feathers have never been found in association with Utahraptor specimens, there is strong phylogenetic evidence suggesting that all dromaeosaurids possessed them. This evidence comes from phylogenetic bracketing, which allows paleontologists to infer traits that exist in a clade based on the existence of that trait in a more basal form. The genus Microraptor is one of the oldest known dromaeosaurids, and is phylogenetically more primitive than Utahraptor.[5] Since Microraptor possessed feathers, it is reasonable to assume that this trait was present in all of Dromaeosauridae. Feathers were very unlikely to have evolved more than once in dromaeosaurids, so assuming that Utahraptor lacked feathers would require positive evidence that they did not have them.[6] So far, there is nothing to suggest that feathers were lost in larger, more derived species of dromaeosaurs.[7]
+In a 2001 study conducted by Bruce Rothschild and other paleontologists, 2 foot bones referred to Utahraptor were examined for signs of stress fracture, but none were found.[8]
+Discovery[edit]
+
+
+
+
+Cast of foot bones
+
+
+The first specimens of Utahraptor were found in 1975 by Jim Jensen in the Dalton Wells Quarry in east-central Utah, near the town of Moab, but did not receive much attention. After a find of a large foot-claw by Carl Limoni in October 1991 James Kirkland, Robert Gaston, and Donald Burge uncovered further remains of Utahraptor in 1991 in the Gaston Quarry in Grand County, Utah, within the Yellow Cat and Poison Strip members of the Cedar Mountain Formation.[1] Radiometric dating has shown that these parts of the Cedar Mountain Formation were deposited about 124 million years ago.[9] The type specimen, CEU 184v.86, is currently housed at the College of Eastern Utah Prehistoric Museum, although Brigham Young University, the depository of Jensen's finds, currently houses the largest collection of Utahraptor fossils.
+The type species (and only known species of Utahraptor), Utahraptor ostrommaysorum, was named by Kirkland, Gaston and Burge in 1993 for the American paleontologist John Ostrom, from Yale University's Peabody Museum of Natural History, and Chris Mays, of Dinamation International. Originally in the specific name the singular genitive ostrommaysi was used but in 2000 this was emended by George Olshevsky to the plural.[10] Earlier it had been intended to name the species "Utahraptor spielbergi" after film director Steven Spielberg, in exchange for funding palaeontological research, but no agreement could be reached on the amount of financial assistance.[11] Sculptor Raymond Persinger was included in James Kirkland's original abstract referencing Mr. Persinger's concepts regarding the claw structure.
+In popular culture[edit]
+A speculative reconstruction of Utahraptor lifestyles and behavior was presented in the 1999 BBC television series Walking with Dinosaurs.[12] The program portrayed Utahraptor with several anatomical inaccuracies including pronated hands, and depicted them living in Europe when the only fossils of Utahraptor have been found in western North America.[13] A much more scientifically accurate reconstruction of Utahraptor appeared in the 2011 Discovery Channel series Dinosaur Revolution.[14]
+Ryan North's award-winning "Dinosaur Comics" online comic strip prominently features a Utahraptor. The Utahraptor character is meant to serve as a "questioning and interrogative" interlocutor in the comic's sometimes bizarre discussions of life and philosophy.[15]
+Robert Bakker's Raptor Red is told from the perspective of a Utahraptor.
+References[edit]
+
+
+
+Wikinews has related news: Stolen Utahraptor recovered in Australian Capital Territory
+
+
+
+
+
+Wikimedia Commons has media related to Utahraptor.
+
+
+
+
+
+
+Dinosaurs portal
+
+
+
+
+
+^ a b c d e Kirkland, J.I.; Burge, D.; Gaston, R. (1993). "A large dromaeosaur [Theropoda] from the Lower Cretaceous of Utah". Hunteria 2 (10): 1–16. 
+^ Kirkland, J.I. and Madsen, S.K. (2007). "The Lower Cretaceous Cedar Mountain Formation, eastern Utah: the view up an always interesting learning curve." Fieldtrip Guidebook, Geological Society of America, Rocky Mountain Section. 1-108 p.
+^ Holtz, Thomas R. Jr. (2008) Dinosaurs: The Most Complete, Up-to-Date Encyclopedia for Dinosaur Lovers of All Ages Supplementary Information
+^ Turner, Alan H.; Pol, D., Clarke, J.A., Erickson, G.M. and Norell, M. (2007). "A basal dromaeosaurid and size evolution preceding avian flight". Science 317 (5843): 1378–1381. doi:10.1126/science.1144066. PMID 17823350. 
+^ Xu, X.; Zhou, Z.; Wang, X.; Kuang, X.; Zhang, F.; Du, X. (2003). "Four-winged dinosaurs from China". Nature 421 (6921): 335–340. doi:10.1038/nature01342. PMID 12540892. 
+^ Prum, R.; Brush, A.H. (2002). "The evolutionary origin and diversification of feathers". The Quarterly Review of Biology 77 (3): 261–295. doi:10.1086/341993. PMID 12365352. 
+^ Turner, AH; Makovicky, PJ; Norell, MA (2007). "Feather quill knobs in the dinosaur Velociraptor". Science 317 (5845): 1721. doi:10.1126/science.1145076. PMID 17885130. 
+^ Rothschild, B., Tanke, D. H., and Ford, T. L., 2001, Theropod stress fractures and tendon avulsions as a clue to activity: In: Mesozoic Vertebrate Life, edited by Tanke, D. H., and Carpenter, K., Indiana University Press, p. 331-336.
+^ McDonald AT, Kirkland JI, DeBlieux DD, Madsen SK, Cavin J et al. (2010). "New Basal Iguanodonts from the Cedar Mountain Formation of Utah and the Evolution of Thumb-Spiked Dinosaurs". In Farke, Andrew Allen. PLoS ONE 5 (11): e14075. doi:10.1371/journal.pone.0014075. PMC 2989904. PMID 21124919. 
+^ Olshevsky, G., 2000, An annotated checklist of dinosaur species by continent. Mesozoic Meanderings 3: 1-157
+^ Brooke Adams, 1993, "Director Loses Utahraptor Name Game", Deseret News, 15 June 1993
+^ "Unnatural history? Deconstructing the Walking with Dinosaurs phenomenon." Media Culture & Society, 25(3): 315-332. doi:10.1177/0163443703025003002
+^ Haines, T. (2000). Walking with Dinosaurs: A Natural History. London: BBC Publishing.
+^ "Dinosaur Revolution Episode Guide". Discovery Channel. Retrieved September 15, 2011. 
+^ Whaley, K. (2006). "Tall Poppy Interview: Ryan North of Dinosaur Comics." The Torontoist, 17 May 2006. accessed online 16 Sep 2010, http://torontoist.com/2006/05/tall_poppy_inte_31.php.
+
+
+
+
+ 
+NewPP limit report
+CPU time usage: 5.640 seconds
+Real time usage: 5.904 seconds
+Preprocessor visited node count: 31033/1000000
+Preprocessor generated node count: 48803/1500000
+Post‐expand include size: 133889/2048000 bytes
+Template argument size: 114346/2048000 bytes
+Highest expansion depth: 39/40
+Expensive parser function count: 0/500
+Lua time usage: 0.067s
+Lua memory usage: 1.83 MB
+
+
+ Saved in parser cache with key enwiki:pcache:idhash:569684-0!*!0!!en!4!* and timestamp 20131002085014 
+								
+				Retrieved from "http://en.wikipedia.org/w/index.php?title=Utahraptor&oldid=575070433"				
+												Categories: Cretaceous dinosaursDinosaurs of North AmericaDromaeosaursNatural history of UtahHidden categories: Articles with 'species' microformatsCommons category with local link same as on Wikidata												
+							
+		
+		
+			Navigation menu
+			
+				
+	Personal tools
+	
+Create accountLog in	
+
+				
+					
+	Namespaces
+	
+					Article
+					Talk
+			
+
+
+	
+		
+	Variants
+	
+		
+					
+	
+
+				
+				
+					
+	Views
+	
+					Read
+					Edit
+					View history
+			
+
+
+	Actions
+	
+		
+					
+	
+
+
+	Search
+	
+				
+																				
+		
+	
+
+				
+			
+			
+					
+				
+	Navigation
+	
+		
+			Main page
+			Contents
+			Featured content
+			Current events
+			Random article
+			Donate to Wikipedia
+		
+	
+
+
+	Interaction
+	
+		
+			Help
+			About Wikipedia
+			Community portal
+			Recent changes
+			Contact page
+		
+	
+
+
+	Toolbox
+	
+		
+			What links here
+			Related changes
+			Upload file
+			Special pages
+			Permanent link
+			Page information
+			Data item
+Cite this page		
+	
+
+
+	Print/export
+	
+		
+			Create a book
+			Download as PDF
+			Printable version
+		
+	
+
+
+	Languages
+	
+		
+			Català
+			Česky
+			Dansk
+			Deutsch
+			Español
+			Esperanto
+			Français
+			한국어
+			Italiano
+			עברית
+			Magyar
+			Nederlands
+			日本語
+			Norsk bokmål
+			Polski
+			Português
+			Русский
+			Simple English
+			Slovenčina
+			Suomi
+			Svenska
+			ไทย
+			Türkçe
+			Volapük
+			中文
+			
+			Edit links
+		
+	
+
+			
+		
+		
+							
+											 This page was last modified on 30 September 2013 at 00:09.
+											Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. 
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+									
+							
+											Privacy policy
+											About Wikipedia
+											Disclaimers
+											Contact Wikipedia
+											Developers
+											Mobile view
+									
+										
+					
+						
+					
+					
+						
+					
+				
+						
+		
+		
+
+
+ Served by mw1027 in 0.173 secs. 
+	
+if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Utahraptor","wgTitle":"Utahraptor","wgCurRevisionId":575070433,"wgArticleId":569684,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with 'species' microformats","Commons category with local link same as on Wikidata","Cretaceous dinosaurs","Dinosaurs of North America","Dromaeosaurs","Natural history of Utah"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Utahraptor","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgVectorEnabledModules":{"collapsiblenav":true,"experiments":true},"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"templateEditor":false,"templates":false,"preview":false,"previewDialog":false,"publish":false,"toc":false},"wgArticleFeedbackv5Permissions":{"aft-reader":true,"aft-member":false,"aft-editor":false,"aft-monitor":false,"aft-administrator":false,"aft-oversighter":false,"aft-noone":false},"wgVisualEditor":{"isPageWatched":false,"magnifyClipIconURL":"//bits.wikimedia.org/static-1.22wmf18/skins/common/images/magnify-clip.png","pageLanguageCode":"en","pageLanguageDir":"ltr"},"wikilove-recipient":"","wikilove-anon":0,"wgGuidedTourHelpGuiderUrl":"Help:Guided tours/guider","wgULSAcceptLanguageList":["en-us","en"],"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia","aftv5Article":{"id":569684,"title":"Utahraptor","namespace":0,"categories":["Articles with 'species' microformats","Commons category with local link same as on Wikidata","Cretaceous dinosaurs","Dinosaurs of North America","Dromaeosaurs","Natural history of Utah"],"permissionLevel":false},"wgWikibaseItemId":"Q131193"});
+}if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":false,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,
+"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"useeditwarning":1,"prefershttps":1,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"vector-simplesearch":1,"vector-collapsiblenav":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"aftv5-last-filter":null,"visualeditor-enable":0,"visualeditor-enable-experimental":0,"visualeditor-betatempdisable":0,"wikilove-enabled":1,"echo-subscriptions-web-page-review":true,"echo-subscriptions-email-page-review":false,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"echo-notify-show-link":true,"echo-show-alert":true,"echo-email-frequency":0,"echo-email-format":"html","echo-subscriptions-email-system":true,"echo-subscriptions-web-system":true,"echo-subscriptions-email-other":false,"echo-subscriptions-web-other":true,"echo-subscriptions-email-edit-user-talk":false,"echo-subscriptions-web-edit-user-talk":true,
+"echo-subscriptions-email-reverted":false,"echo-subscriptions-web-reverted":true,"echo-subscriptions-email-article-linked":false,"echo-subscriptions-web-article-linked":false,"echo-subscriptions-email-mention":false,"echo-subscriptions-web-mention":true,"echo-subscriptions-web-edit-thank":true,"echo-subscriptions-email-edit-thank":false,"gettingstarted-task-toolbar-show-intro":true,"uls-preferences":"","language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs446":false,"searchNs447":false
+,"searchNs710":false,"searchNs711":false,"searchNs828":false,"searchNs829":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-mySandbox":1,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:156d8fe0ae17f8afd74198057563e45d */
+}if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","ext.visualEditor.viewPageTarget.init","ext.wikimediaShopLink.core","ext.uls.init","ext.uls.interface","wikibase.client.init","ext.centralNotice.bannerController","skins.vector.js"]);
+}/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}if(window.mw){
+mw.loader.load(["mobile.desktop","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.cite","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","mw.MwEmbedSupport.style","ext.vector.collapsibleNav","ext.articleFeedbackv5.startup","ext.gettingstarted.logging","ext.gettingstarted.openTask","schema.HttpsSupport","ext.coreEvents.httpsSupport","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","mw.PopUpMediaTransform"],null,true);
+}

@@ -1,0 +1,2930 @@
+
+
+
+Oklahoma - Wikipedia, the free encyclopedia
+
+
+
+
+
+
+
+
+
+
+
+
+a:lang(ar),a:lang(ckb),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:0de201fdea5d684523607ed88007b127 */
+
+
+
+
+[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.22wmf18/skins/vector/csshover.min.htc")}</style><![endif]
+
+		
+		
+		
+			
+			
+						 CentralNotice 
+						Oklahoma
+			
+								From Wikipedia, the free encyclopedia
+								
+												
+					Jump to:					navigation, 					search
+				
+				This article is about the U.S. state of Oklahoma.  For other uses, see Oklahoma (disambiguation).
+
+
+State of Oklahoma
+
+
+
+
+
+
+
+
+
+Flag
+Seal
+
+
+
+
+
+Nickname(s): Sooner State
+
+
+Motto(s): Labor omnia vincit (Latin)
+
+
+
+
+
+
+
+
+
+Official language
+English
+
+
+Demonym
+Oklahoman; Okie (colloq.)
+
+
+Capital
+(and largest city)
+Oklahoma City
+
+
+Area
+Ranked 20th
+
+
+ - Total
+69,898 sq mi
+(181,195 km2)
+
+
+ - Width
+230 miles (370 km)
+
+
+ - Length
+298 miles (480 km)
+
+
+ - % water
+1.8
+
+
+ - Latitude
+33°37' N to 37° N
+
+
+ - Longitude
+94° 26' W to 103° W
+
+
+Population
+Ranked 28th
+
+
+ - Total
+3,814,820 (2012 est)[1]
+
+
+ - Density
+55.2/sq mi  (21.3/km2)
+Ranked 35th
+
+
+Elevation
+
+
+
+ - Highest point
+Black Mesa[2][3]
+4,975 ft (1516 m)
+
+
+ - Mean
+1,300 ft  (400 m)
+
+
+ - Lowest point
+Little River at Arkansas border[2][3]
+289 ft (88 m)
+
+
+Admission to Union
+November 16, 1907 (46th)
+
+
+Governor
+Mary Fallin (R)
+
+
+Lieutenant Governor
+Todd Lamb (R)
+
+
+Legislature
+Oklahoma Legislature
+
+
+ - Upper house
+Senate
+
+
+ - Lower house
+House of Representatives
+
+
+U.S. Senators
+Jim Inhofe (R)
+Thomas A. Coburn (R)
+
+
+U.S. House delegation
+5 Republicans (list)
+
+
+Time zones
+ 
+
+
+ - all of the state (legally)
+Central: UTC-6/-5
+
+
+ - Kenton (informally)
+Mountain: UTC-7/-6
+
+
+Abbreviations
+OK, Okla. US-OK
+
+
+Website
+www.ok.gov
+
+
+Oklahoma i/ˌoʊkləˈhoʊmə/[4] (Pawnee: Uukuhuúwa,[5] Cayuga: Gahnawiyoˀgeh[6]) is a state located in Southern United States.[7] Oklahoma is the 20th most extensive and the 28th most populous of the 50 United States. The state's name is derived from the Choctaw words okla and humma, meaning "red people",.[8] It is also known informally by its nickname, The Sooner State, honoring the European settlers, and the Indian Appropriations Act of 1889 which opened the door for white settlement in America's Indian Territory. The name was settled upon statehood, Oklahoma Territory and Indian Territory were merged and Indian was dropped from the name. On November 16, 1907, Oklahoma became the 46th state to enter the union. Its residents are known as Oklahomans or, informally "Okies", and its capital and largest city is Oklahoma City.
+A major producer of natural gas, oil, and agriculture, Oklahoma relies on an economic base of aviation, energy, telecommunications, and biotechnology.[9]In 2007, it had one of the fastest growing economies in the nation, ranking among the top states in per capita income growth and gross domestic product growth.[10][11] Oklahoma City and Tulsa serve as Oklahoma's primary economic anchors, with nearly two thirds of Oklahomans living within their metropolitan statistical areas.[12]
+With small mountain ranges, prairie, mesas, and eastern forests, most of Oklahoma lies in the Great Plains and the U.S. Interior Highlands—a region especially prone to severe weather.[13] In addition to having a prevalence of English, German, Scottish, Scotch-Irish and Native American ancestry, more than 25 Native American languages are spoken in Oklahoma,[14] second only to California.
+Oklahoma is located on a confluence of three major American cultural regions and historically served as a route for cattle drives, a destination for southern settlers, and a government-sanctioned territory for Native Americans.
+
+
+Contents
+
+
+1 Etymology
+2 Geography
+
+2.1 Topography
+2.2 Flora and fauna
+2.3 Protected lands
+2.4 Climate
+
+
+3 History
+
+3.1 20th century
+
+
+4 Economy
+
+4.1 Industry
+4.2 Energy
+
+4.2.1 Wind generation
+
+
+4.3 Agriculture
+
+
+5 Culture
+
+5.1 Arts and theater
+5.2 Festivals and events
+
+
+6 Education
+7 Sports
+
+7.1 Current Teams
+
+
+8 Health
+9 Media
+10 Transportation
+11 Law and government
+
+11.1 State government
+11.2 Local government
+11.3 National politics
+
+
+12 Cities and towns
+
+12.1 Major cities
+
+
+13 Demographics
+
+13.1 Religion
+
+
+14 State symbols
+15 See also
+16 Notes
+17 References
+18 Further reading
+19 External links
+
+
+Etymology[edit]
+The name Oklahoma comes from the Choctaw phrase okla humma, literally meaning red people. Choctaw Chief Allen Wright suggested the name in 1866 during treaty negotiations with the federal government regarding the use of Indian Territory, in which he envisioned an all-Indian state controlled by the United States Superintendent of Indian Affairs. Equivalent to the English word Indian, okla humma was a phrase in the Choctaw language used to describe the Native American race as a whole. Oklahoma later became the de facto name for Oklahoma Territory, and it was officially approved in 1890, two years after the area was opened to white settlers.[8][15][16]
+Geography[edit]
+Main article: Geography of Oklahoma
+
+
+
+
+The state's high plains stretch behind a greeting sign in the Oklahoma Panhandle.
+
+
+
+
+
+
+A view of Mt Scott
+
+
+Oklahoma is the 20th-largest state in the United States, covering an area of 69,898 square miles (181,035 km2), with 68,667 square miles (177847 km2) of land and 1,281 square miles (3,188 km2) of water.[17] It is one of six states on the Frontier Strip, and lies partly in the Great Plains near the geographical center of the 48 contiguous states. It is bounded on the east by Arkansas and Missouri, on the north by Kansas, on the northwest by Colorado, on the far west by New Mexico, and on the south and near-west by Texas.
+The western edge of the Oklahoma panhandle is out of alignment with its Texas border. The Oklahoma/New Mexico border is actually 2.1 to 2.2 miles east of the Texas line. The border between Texas and New Mexico was set first as a result of a survey by Spain in 1819. It was then set along the 103rd Meridian. In the 1890s, when Oklahoma was formally surveyed using more accurate surveying equipment and techniques, it was discovered that the Texas line was not set along the 103rd Meridian. Surveying techniques were not as accurate in 1819, and the actual 103rd Meridian was approximately 2.2 miles to the east. It was much easier to leave the mistake as it was than for Texas to cede land to New Mexico to correct the original surveying error. The placement of the Oklahoma/New Mexico border represents the true 103rd Meridian.
+Cimarron County in Oklahoma's panhandle is the only county in the United States which touches four other states: New Mexico, Texas, Colorado and Kansas (about two miles worth).
+Topography[edit]
+See also: Lakes in Oklahoma
+Oklahoma is between the Great Plains and the Ozark Plateau in the Gulf of Mexico watershed,[18] generally sloping from the high plains of its western boundary to the low wetlands of its southeastern boundary.[19][20] Its highest and lowest points follow this trend, with its highest peak, Black Mesa, at 4,973 feet (1,516 m) above sea level, situated near its far northwest corner in the Oklahoma Panhandle. The state's lowest point is on the Little River near its far southeastern boundary near the town of Idabel, OK, which dips to 289 feet (88 m) above sea level.[21]
+
+
+
+
+The lower dam on Medicine Creek in Medicine Park, below Lake Lawtonka, built ca 1901to serve the nearby city of Lawton. Medicine Park was one of the first resort communities established in the Wichita Mountains
+
+
+
+
+
+
+A river carves a canyon in the Wichita Mountains.
+
+
+Among the most geographically diverse states, Oklahoma is one of four to harbor more than 10 distinct ecological regions, with 11 in its borders – more per square mile than in any other state.[13] Its western and eastern halves, however, are marked by extreme differences in geographical diversity: Eastern Oklahoma touches eight ecological regions and its western half contains three.[13]
+
+
+
+
+The Ouachita Mountains cover much of southeastern Oklahoma.
+
+
+Oklahoma has four primary mountain ranges: the Ouachita Mountains, the Arbuckle Mountains, the Wichita Mountains, and the Ozark Mountains.[19] Contained within the U.S. Interior Highlands region, the Ozark and Ouachita Mountains mark the only major mountainous region between the Rocky Mountains and the Appalachians.[22] A portion of the Flint Hills stretches into north-central Oklahoma, and near the state's eastern border, Cavanal Hill is regarded by the Oklahoma Tourism & Recreation Department as the world's tallest hill; at 1,999 feet (609 m), it fails their definition of a mountain by one foot.[23]
+The semi-arid high plains in the state’s northwestern corner harbor few natural forests; the region has a rolling to flat landscape with intermittent canyons and mesa ranges like the Glass Mountains. Partial plains interrupted by small mountain ranges like the Antelope Hills and the Wichita Mountains dot southwestern Oklahoma, and transitional prairie and woodlands cover the central portion of the state. The Ozark and Ouachita Mountains rise from west to east over the state's eastern third, gradually increasing in elevation in an eastward direction.[20][24]
+More than 500 named creeks and rivers make up Oklahoma's waterways, and with 200 lakes created by dams, it holds the highest number of artificial reservoirs in the nation.[23] Most of the state lies in two primary drainage basins belonging to the Red and Arkansas rivers, though the Lee and Little rivers also contain significant drainage basins.[24]
+Flora and fauna[edit]
+
+
+
+
+Populations of American Bison inhabit the state's prairie ecosystems.
+
+
+Forests cover 24 percent of Oklahoma[23] and prairie grasslands composed of shortgrass, mixed-grass, and tallgrass prairie, harbor expansive ecosystems in the state's central and western portions, although cropland has largely replaced native grasses.[25] Where rainfall is sparse in the western regions of the state, shortgrass prairie and shrublands are the most prominent ecosystems, though pinyon pines, red cedar (junipers), and ponderosa pines grow near rivers and creek beds in the far western reaches of the panhandle.[25]
+Marshlands, cypress forests and mixtures of shortleaf pine, loblolly pine and deciduous forests dominate the state's southeastern quarter, while mixtures of largely post oak, elm, red cedar (Juniperus virginiana) and pine forests cover northeastern Oklahoma.[24][25][26]
+The state holds populations of white-tailed deer, mule deer, antelope, coyotes, mountain lions, bobcats, elk, and birds such as quail, doves, cardinals, bald eagles, red-tailed hawks, and pheasants. In prairie ecosystems, American bison, greater prairie chickens, badgers, and armadillo are common, and some of the nation's largest prairie dog towns inhabit shortgrass prairie in the state's panhandle. The Cross Timbers, a region transitioning from prairie to woodlands in Central Oklahoma, harbors 351 vertebrate species. The Ouachita Mountains are home to black bear, red fox, grey fox, and river otter populations, which coexist with a total of 328 vertebrate species in southeastern Oklahoma. Also, in southeastern Oklahoma lives the American Alligator.[25]
+Protected lands[edit]
+
+
+
+
+Mesas rise above one of Oklahoma's state parks.
+
+
+Oklahoma has 50 state parks,[27] six national parks or protected regions,[28] two national protected forests or grasslands,[29] and a network of wildlife preserves and conservation areas. Six percent of the state's 10 million acres (40,000 km2) of forest is public land,[26] including the western portions of the Ouachita National Forest, the largest and oldest national forest in the Southern United States.[30]
+With 39,000 acres (158 km2), the Tallgrass Prairie Preserve in north-central Oklahoma is the largest protected area of tallgrass prairie in the world and is part of an ecosystem that encompasses only 10 percent of its former land area, once covering 14 states.[31] In addition, the Black Kettle National Grassland covers 31,300 acres (127 km2) of prairie in southwestern Oklahoma.[32] The Wichita Mountains Wildlife Refuge is the oldest and largest of nine national wildlife refuges in the state[33] and was founded in 1901, encompassing 59,020 acres (238.8 km2).[34]
+Of Oklahoma's federally protected park or recreational sites; the Chickasaw National Recreation Area is the largest, with 9,898.63 acres (18 km2).[35] Other sites include the Santa Fe and Trail of Tears national historic trails, the Fort Smith and Washita Battlefield national historic sites, and the Oklahoma City National Memorial.[28]
+Climate[edit]
+Oklahoma is located in a temperate region and experiences occasional extremes of temperature and precipitation typical of a continental climate.[36] Most of the state lies in an area known as Tornado Alley characterized by frequent interaction between cold and warm air masses producing severe weather.[21] An average 54 tornadoes strike the state per year—one of the highest rates in the world.[37]
+Because of Oklahoma's position between zones of differing prevailing temperature and winds, weather patterns within the state can vary widely between relatively short distances and can change drastically in a short time.[21] As an example, on November 11, 1911, the temperature at Oklahoma City reached 83 °F (28 °C) in the afternoon (the record high for that date), then an incoming squall line resulted in a drop to 17 °F (−8 °C) at midnight (the record low for that date); thus, both the record high and record low for November 11 were set on the same day.[38] This type of phenomenon is also responsible for many of the tornadoes in the area, such as the 1912 Oklahoma tornado outbreak, when a warm front travelled along a stalled cold front, resulting in an average of about one torando per hour over the course of a day.[39]
+
+
+
+
+Oklahoma's climate is prime for the generation of thunderstorms.
+
+
+The humid subtropical climate (Koppen Cfa) of the eastern part of Oklahoma is influenced heavily by southerly winds bringing moisture from the Gulf of Mexico, but transitions progressively to a semi-arid zone (Koppen BSk) in the high plains of the Panhandle and other western areas from about Lawton westward less frequently touched by southern moisture.[36] Precipitation and temperatures fall from east to west accordingly, with areas in the southeast averaging an annual temperature of 62 °F (17 °C) and an annual rainfall of 56 inches (1,420 mm), while areas of the panhandle average 58 °F (14 °C), with an annual rainfall under 17 inches (430 mm).[21]
+All of the state frequently experiences temperatures above 100 °F (38 °C) or below 0 °F (−18 °C),[36] and snowfall ranges from an average of less than 4 inches (10 cm) in the south to just over 20 inches (51 cm) on the border of Colorado in the panhandle.[21] The state is home to the Storm Prediction Center, the National Severe Storms Laboratory, and the Warning Decision Training Branch, all part of the National Weather Service and located in Norman.[40] Oklahoma's highest recorded temperature of 120 °F (49 °C) was recorded at Tipton on June 27, 1994 and the lowest recorded temperature of −31 °F (−35 °C) was recorded at Nowata on February 10, 2011.
+
+
+Monthly temperatures for Oklahoma's largest cities
+
+
+City
+Jan
+Feb
+Mar
+Apr
+May
+Jun
+Jul
+Aug
+Sep
+Oct
+Nov
+Dec
+
+
+Oklahoma City
+47/26
+54/31
+62/39
+71/48
+79/58
+95/79
+100/89
+98/85
+84/62
+73/51
+60/38
+50/29
+
+
+Tulsa
+46/26
+53/31
+62/40
+72/50
+80/59
+88/68
+94/73
+93/71
+84/63
+74/51
+60/39
+50/30
+
+
+Lawton
+50/26
+56/31
+65/40
+73/49
+82/59
+90/68
+96/73
+95/71
+86/63
+76/51
+62/39
+52/30
+
+
+Average high/low temperatures in °F[41][42]
+
+
+History[edit]
+Main article: History of Oklahoma
+
+
+
+
+Map of Indian Territory (Oklahoma) 1889. Britannica 9th ed.
+
+
+Evidence exists that native peoples traveled through Oklahoma as early as the last ice age,[43] but the state's first permanent inhabitants settled in communities accentuated with mound-like structures near the Arkansas border between 850 and 1450 AD.[44][45] Spaniard Francisco Vásquez de Coronado traveled through the state in 1541,[46] but French explorers claimed the area in the 1700s[47] and it remained under French rule until 1803, when all the French territory west of the Mississippi River was purchased by the United States in the Louisiana Purchase.[46]
+During the 19th century, thousands of Native Americans were expelled from their ancestral homelands from across North America and transported to the area including and surrounding present-day Oklahoma. The Choctaw was the first of the Five Civilized Tribes to be removed from the southeastern United States. The phrase "Trail of Tears" originated from a description of the removal of the Choctaw Nation in 1831, although the term is usually used for the Cherokee removal.[48]
+About 17,000 Cherokees – along with approximately 2,000 black slaves owned by Cherokees – were removed from their homes.[49] The area, already occupied by Osage and Quapaw tribes, was called for the Choctaw Nation until revised Native American and then later American policy redefined the boundaries to include other Native Americans. By 1890, more than 30 Native American nations and tribes had been concentrated on land within Indian Territory or "Indian Country."[50]
+Many Native Americans served in the Union and Confederate military during the American Civil War. The Cherokee Nation had an internal civil war.[51] Slavery in Oklahoma was not abolished until 1866.[52]
+In the period between 1866 and 1899,[46] cattle ranches in Texas strove to meet the demands for food in eastern cities and railroads in Kansas promised to deliver in a timely manner. Cattle trails and cattle ranches developed as cowboys either drove their product north or settled illegally in Indian Territory.[46] In 1881, four of five major cattle trails on the western frontier traveled through Indian Territory.[53]
+Increased presence of white settlers in Indian Territory prompted the United States Government to establish the Dawes Act in 1887, which divided the lands of individual tribes into allotments for individual families, encouraging farming and private land ownership among Native Americans but expropriating land to the federal government. In the process, railroad companies took nearly half of Indian-held land within the territory for outside settlers and for purchase.[54]
+
+
+
+
+The Dust Bowl sent thousands of farmers into poverty during the 1930s.
+
+
+Major land runs, including the Land Run of 1889, were held for settlers where certain territories were opened to settlement starting at a precise time. Usually land was open to settlers on a first come first served basis.[55] Those who broke the rules by crossing the border into the territory before the official opening time were said to have been crossing the border sooner, leading to the term sooners, which eventually became the state's official nickname.[56]
+Deliberations to make the territory into a state began near the end of the 19th century, when the Curtis Act continued the allotment of Indian tribal land.
+20th century[edit]
+Attempts to create an all-Indian state named Oklahoma and a later attempt to create an all-Indian state named Sequoyah failed but the Sequoyah Statehood Convention of 1905 eventually laid the groundwork for the Oklahoma Statehood Convention, which took place two years later.[57] On November 16, 1907, Oklahoma was established as the 46th state in the Union.
+
+
+
+
+The bombing of the Alfred P. Murrah Federal Building in Oklahoma City was one of the deadliest acts of terrorism in American history.
+
+
+The new state became a focal point for the emerging oil industry, as discoveries of oil pools prompted towns to grow rapidly in population and wealth. Tulsa eventually became known as the "Oil Capital of the World" for most of the 20th century and oil investments fueled much of the state's early economy.[58] In 1927, an Oklahoman businessman Cyrus Avery, known as the "Father of Route 66", began the campaign to create U.S. Route 66. Using a stretch of highway from Amarillo, Texas to Tulsa, Oklahoma to form the original portion of Highway 66, Avery spearheaded the creation of the U.S. Highway 66 Association to oversee the planning of Route 66, based in his hometown of Tulsa.[59]
+Oklahoma also has a rich African American history. There were many black towns that thrived in the early 20th century because of black settlers moving from neighboring states, especially Kansas. The politician Edward P. McCabe encouraged black settlers to come to what was then Indian Territory. He discussed with President Theodore Roosevelt the possibility of making Oklahoma a majority-black state.
+By the early 20th century, the Greenwood neighborhood of Tulsa was one of the most prosperous African-American communities in the United States.[60] Jim Crow laws had established racial segregation since before the start of the 20th century, but the blacks had created a thriving area.
+Social tensions were exacerbated by the revival of the Ku Klux Klan after 1915. The Tulsa Race Riot broke out in 1921, with whites attacking blacks. In one of the costliest episodes of racial violence in American history, sixteen hours of rioting resulted in 35 city blocks destroyed, $1.8 million in property damage, and a death toll estimated to be as high as 300 people.[61] By the late 1920s, the Ku Klux Klan had declined to negligible influence within the state.[62]
+During the 1930s, parts of the state began suffering the consequences of poor farming practices, extended drought and high winds. Known as the Dust Bowl, areas of Kansas, Texas, New Mexico and northwestern Oklahoma were hampered by long periods of little rainfall and abnormally high temperatures, sending thousands of farmers into poverty and forcing them to relocate to more fertile areas of the western United States.[63] Over a twenty-year period ending in 1950, the state saw its only historical decline in population, dropping 6.9 percent as impoverished families migrated out of the state after the Dust Bowl.
+Soil and water conservation projects markedly changed practices in the state and led to the construction of massive flood control systems and dams; they built hundreds of reservoirs and man-made lakes to supply water for domestic needs and agricultural irrigation. By the 1960s, Oklahoma had created more than 200 lakes, the most in the nation.[13][64]
+In 1995, Oklahoma City was the site of the worst act of domestic terrorism in American history. The Oklahoma City bombing of April 19, 1995, in which Timothy McVeigh and Terry Nichols detonated an explosive outside of the Alfred P. Murrah Federal Building, killed 168 people, including 19 children. The two men were convicted of the bombing: McVeigh was sentenced to death and executed by the federal government on June 11, 2001; his partner Nichols is serving a sentence of life in prison without the possibility of parole.[65] McVeigh's army buddy, Michael Fortier, was sentenced to 12 years in federal prison and ordered to pay a $75,000 fine for his role in the bombing plot (i.e. assisting in the sale of guns to raise funds for the bombing, and examining the Murrah Federal building as a possible target prior to the terrorist attack). His wife, Lori Fortier, who has since died, was granted immunity from prosecution in return for her testimony in the case.
+Economy[edit]
+See also: Oklahoma locations by per capita income
+
+
+
+
+The BOK Tower of Tulsa, Oklahoma's second tallest building, serves as the world headquarters for Williams Companies.
+
+
+Oklahoma is host to a diverse range of sectors including aviation, energy, transportation equipment, food processing, electronics, and telecommunications. Oklahoma is an important producer of natural gas, aircraft, and food.[9] The state ranks second in the nation for production of natural gas,[66] is the 27th-most agriculturally productive state, and also ranks 5th in production of wheat.[67] Four Fortune 500 companies and six Fortune 1000 companies are headquartered in Oklahoma,[68] and it has been rated one of the most business-friendly states in the nation,[69] with the 7th-lowest tax burden in 2007.[70]
+In 2010, Oklahoma City-based Love's Travel Stops & Country Stores ranked 18th on the Forbe's list of largest private companies, Tulsa-based QuikTrip ranked 37th, and Oklahoma City-based Hobby Lobby ranked 198th in 2010 report.[71] Oklahoma's gross domestic product grew from $131.9 billion in 2006 to $147.5 billion in 2010, a jump of 10.6 percent.[72] Oklahoma's gross domestic product per capita was $35,480 in 2010, which was ranked 40th among the states.[73]
+Though oil has historically dominated the state's economy, a collapse in the energy industry during the 1980s led to the loss of nearly 90,000 energy-related jobs between 1980 and 2000, severely damaging the local economy.[74] Oil accounted for 35 billion dollars in Oklahoma's economy in 2007,[75] and employment in the state's oil industry was outpaced by five other industries in 2007.[76] As of August 2011, the state's unemployment rate is 5.6%.[77]
+Industry[edit]
+In mid-2011, Oklahoma had a civilian labor force of 1.7 million and total non-farm employment fluctuated around 1.5 million.[76] The government sector provides the most jobs, with 339,300 in 2011, followed by the transportation and utilities sector, providing 279,500 jobs, and the sectors of education, business, and manufacturing, providing 207,800, 177,400, and 132,700 jobs, respectively.[76] Among the state's largest industries, the aerospace sector generates $11 billion annually.[69]
+Tulsa is home to the largest airline maintenance base in the world, which serves as the global maintenance and engineering headquarters for American Airlines.[78] In total, aerospace accounts for more than 10 percent of Oklahoma's industrial output, and it is one of the top 10 states in aerospace engine manufacturing.[9] Because of its position in the center of the United States, Oklahoma is also among the top states for logistic centers, and a major contributor to weather-related research.[69]
+The state is the top manufacturer of tires in North America and contains one of the fastest-growing biotechnology industries in the nation.[69] In 2005, international exports from Oklahoma's manufacturing industry totaled $4.3 billion, accounting for 3.6 percent of its economic impact.[79] Tire manufacturing, meat processing, oil and gas equipment manufacturing, and air conditioner manufacturing are the state's largest manufacturing industries.[80]
+Energy[edit]
+
+
+
+
+A major oil producing state, Oklahoma is the fifth-largest producer of crude oil in the United States.[75]
+
+
+Oklahoma is the nation's third-largest producer of natural gas, fifth-largest producer of crude oil, and has the second-greatest number of active drilling rigs,[75][81] and ranks fifth in crude oil reserves.[82] While the state ranked eighth for installed wind energy capacity in 2011,[83] it is at the bottom of states in usage of renewable energy, with 94 percent of its electricity being generated by non-renewable sources in 2009, including 25 percent from coal and 46 percent from natural gas.[84] Ranking 13th for total energy consumption per capita in 2009,[85] Oklahoma's energy costs were 8th lowest in the nation.[86]
+As a whole, the oil energy industry contributes $35 billion to Oklahoma's gross domestic product, and employees of Oklahoma oil-related companies earn an average of twice the state's typical yearly income.[75] In 2009, the state had 83,700 commercial oil wells churning 65.374 million barrels (10,393,600 m3) of crude oil.[87] Eight and a half percent of the nation's natural gas supply is held in Oklahoma, with 1.673 trillion cubic feet (47.4 km3) being produced in 2009.[87] Ponca City also had contributed to the states uprising oil with the Phillips 66 refinery with over 1,000 employees. Making it Oklahoma's largest oil refinery.
+According to Forbes Magazine, Oklahoma City-based Devon Energy Corporation, Chesapeake Energy Corporation, and SandRidge Energy Corporation are the largest private oil-related companies in the nation,[88] and all of Oklahoma's Fortune 500 companies are energy-related.[68] Tulsa's ONEOK and Williams Companies are the state's largest and second-largest companies respectively, also ranking as the nation's second and third-largest companies in the field of energy, according to Fortune Magazine.[89] The magazine also placed Devon Energy as the second-largest company in the mining and crude oil-producing industry in the nation, while Chesapeake Energy ranks seventh respectively in that sector and Oklahoma Gas & Electric ranks as the 25th-largest gas and electric utility company.[89]
+Wind generation[edit]
+
+
+Oklahoma Wind Generation (GWh, Million kWh)
+
+
+Year
+Total
+Jan
+Feb
+Mar
+Apr
+May
+Jun
+Jul
+Aug
+Sept
+Oct
+Nov
+Dec
+
+
+2009
+2,698
+183
+182
+233
+233
+159
+175
+140
+172
+152
+253
+269
+308
+
+
+2010
+3,808
+252
+187
+389
+400
+305
+360
+265
+260
+311
+299
+408
+375
+
+
+2011
+5,369
+319
+446
+519
+531
+510
+513
+329
+335
+337
+487
+574
+469
+
+
+2012
+
+632
+555
+744
+634
+726
+639
+570
+453
+516
+
+
+
+
+
+Source:[90][91]
+Agriculture[edit]
+The 27th-most agriculturally productive state, Oklahoma is fifth in cattle production and fifth in production of wheat.[67][92] Approximately 5.5 percent of American beef comes from Oklahoma, while the state produces 6.1 percent of American wheat, 4.2 percent of American pig products, and 2.2 percent of dairy products.[67]
+The state had 83,500 farms in 2005, collectively producing $4.3 billion in animal products and fewer than one billion dollars in crop output with more than $6.1 billion added to the state's gross domestic product.[67] Poultry and swine are its second and third-largest agricultural industries.[92]
+Culture[edit]
+
+
+
+
+Oklahoma's heritage as a pioneer state is depicted with the Pioneer Woman statue in Ponca City.
+
+
+Oklahoma is placed in the South by the United States Census Bureau,[93] but lies fully or partially in the Southwest, and southern cultural regions by varying definitions, and partially in the Upland South and Great Plains by definitions of abstract geographical-cultural regions.[94] Oklahomans have a high rate of English, Scotch-Irish, German, and Native American ancestry,[95] with 25 different native languages spoken.[14]
+Because many Native Americans were forced to move to Oklahoma when White settlement in North America increased, Oklahoma has a lot of linguistic diversity. Mary Linn, an associate professor of anthropology at the University of Oklahoma and the associate curator of Native American languages at the Sam Noble Museum, said that Oklahoma also has high levels of language endangerment.[96]
+Six governments have claimed the area now known as Oklahoma at different times,[97] and 67 Native American tribes are represented in Oklahoma,[46] including 39 federally recognized tribes, who are headquartered and have tribal jurisdictional areas in the state.[98] Western ranchers, Native American tribes, southern settlers, and eastern oil barons have shaped the state's cultural predisposition, and its largest cities have been named among the most underrated cultural destinations in the United States.[99][100]
+While residents of Oklahoma are associated with stereotypical traits of southern hospitality – the Catalogue for Philanthropy ranks Oklahomans 4th in the nation for overall generosity[101] – the state has also been associated with a negative cultural stereotype first popularized by John Steinbeck's novel "The Grapes of Wrath", which described the plight of uneducated, poverty-stricken Dust Bowl-era farmers deemed "Okies".[102][103][104] However, the term is often used in a positive manner by Oklahomans.[103]
+Arts and theater[edit]
+
+
+
+
+Philbrook Museum is one of the top 50 fine art museums in the United States.[105]
+
+
+Further information: List of Native American artists from Oklahoma
+In the state's largest urban areas, pockets of jazz culture flourish,[106] and Native American, Mexican American, and Asian American communities produce music and art of their respective cultures.[107] The Oklahoma Mozart Festival in Bartlesville is one of the largest classical music festivals in the southern United States,[108] and Oklahoma City's Festival of the Arts has been named one of the top fine arts festivals in the nation.[106]
+The state has a rich history in ballet with five Native American ballerinas attaining worldwide fame. These were Yvonne Chouteau, sisters Marjorie and Maria Tallchief, Rosella Hightower and Moscelyne Larkin, known collectively as the Five Moons. The New York Times rates the Tulsa Ballet as one of the top ballet companies in the United States.[106] The Oklahoma City Ballet and University of Oklahoma's dance program were formed by ballerina Yvonne Chouteau and husband Miguel Terekhov. The University program was founded in 1962 and was the first fully accredited program of its kind in the United States.[109][110][111]
+In Sand Springs, an outdoor amphitheater called "Discoveryland!" is the official performance headquarters for the musical Oklahoma![112] Historically, the state has produced musical styles such as The Tulsa Sound and Western Swing, which was popularized at Cain's Ballroom in Tulsa. The building, known as the "Carnegie Hall of Western Swing",[113] served as the performance headquarters of Bob Wills and the Texas Playboys during the 1930s.[114] Stillwater is known as the epicenter of Red Dirt music, the best-known proponent of which is the late Bob Childers.
+Prominent theatre companies in Oklahoma include, in the capital city, Oklahoma City Theatre Company, Carpenter Square Theatre, Oklahoma Shakespeare in the Park, and CityRep. CityRep is a professional company affording equity points to those performers and technical theatre professionals. In Tulsa, Oklahoma's oldest resident professional company is American Theatre Company, and Theatre Tulsa is the oldest community theatre company west of the Mississippi. Other companies in Tulsa include Heller Theatre and Tulsa Spotlight Theater. The cities of Norman, Lawton, and Stillwater, among others, also host well-reviewed community theatre companies.
+Oklahoma is in the nation's middle percentile in per capita spending on the arts, ranking 17th, and contains more than 300 museums.[106] The Philbrook Museum of Tulsa is considered one of the top 50 fine art museums in the United States,[105] and the Sam Noble Oklahoma Museum of Natural History in Norman, one of the largest university-based art and history museums in the country, documents the natural history of the region.[106] The collections of Thomas Gilcrease are housed in the Gilcrease Museum of Tulsa, which also holds the world's largest, most comprehensive collection of art and artifacts of the American West.[115]
+The Egyptian art collection at the Mabee-Gerrer Museum of Art in Shawnee is considered to be the finest Egyptian collection between Chicago, IL and Los Angeles, CA.[116] The Oklahoma City Museum of Art contains the most comprehensive collection of glass sculptures by artist Dale Chihuly in the world,[117] and Oklahoma City's National Cowboy and Western Heritage Museum documents the heritage of the American Western frontier.[106] With remnants of the Holocaust and artifacts relevant to Judaism, the Sherwin Miller Museum of Jewish Art of Tulsa preserves the largest collection of Jewish art in the Southwest United States.[118]
+Festivals and events[edit]
+Oklahoma's centennial celebration was named the top event in the United States for 2007 by the American Bus Association,[119] and consisted of multiple celebrations saving with the 100th anniversary of statehood on November 16, 2007. Annual ethnic festivals and events take place throughout the state such as Native American powwows and ceremonial events, and include festivals (as examples) in Scottish, Irish, German, Italian, Vietnamese, Chinese, Czech, Jewish, Arab, Mexican and African-American communities depicting cultural heritage or traditions.
+During a 10-day run in Oklahoma City, the State Fair of Oklahoma attracts roughly one million people [120] along with the annual Festival of the Arts. Large national pow-wows, various Latin and Asian heritage festivals, and cultural festivals such as the Juneteenth celebrations are held in Oklahoma City each year. The Tulsa State Fair attracts over one million people during its 10-day run,[121] and the city's Mayfest festival entertained more than 375,000 people in four days during 2007.[122] In 2006, Tulsa's Oktoberfest was named one of the top 10 in the world by USA Today and one of the top German food festivals in the nation by Bon Appetit magazine.[123]
+Norman plays host to the Norman Music Festival, a festival that highlights native Oklahoma bands and musicians. Norman is also host to the Medieval Fair of Norman, which has been held annually since 1976 and was Oklahoma’s first medieval fair. The Fair was held first on the south oval of the University of Oklahoma campus and in the third year moved to the Duck Pond in Norman until the Fair became too big and moved to Reaves Park in 2003. The Medieval Fair of Norman is Oklahoma’s "largest weekend event and the third largest event in Oklahoma, and was selected by Events Media Network as one of the top 100 events in the nation."[124]
+Education[edit]
+See also: List of school districts in Oklahoma and List of colleges and universities in Oklahoma
+
+
+
+
+Oklahoma's system of public regional universities includes Northeastern State University in Tahlequah.
+
+
+With an educational system made up of public school districts and independent private institutions, Oklahoma had 638,817 students enrolled in 1,845 public primary, secondary, and vocational schools in 533 school districts as of 2008.[125] Oklahoma has the highest enrollment of Native American students in the nation with 126,078 students in the 2009-10 school year.[126] Ranked near the bottom of states in expenditures per student, Oklahoma spent $7,755 for each student in 2008, 47th in the nation,[125] though its growth of total education expenditures between 1992 and 2002 ranked 22nd.[127]
+The state is among the best in pre-kindergarten education, and the National Institute for Early Education Research rated it first in the United States with regard to standards, quality, and access to pre-kindergarten education in 2004, calling it a model for early childhood schooling.[128] High school dropout rate decreased from 3.1 to 2.5 percent between 2007 and 2008 with Oklahoma ranked among 18 other states with 3 percent or less dropout rate.[129] In 2004, the state ranked 36th in the nation for the relative number of adults with high school diplomas, though at 85.2 percent, it had the highest rate among southern states.[130][131]
+The University of Oklahoma, Oklahoma State University, and University of Central Oklahoma are the largest public institutions of higher education in Oklahoma, operating through one primary campus and satellite campuses throughout the state. The two state universities, along with Oklahoma City University and the University of Tulsa, rank among the country's best in undergraduate business programs,[132]
+Oklahoma City University School of Law, University of Oklahoma College of Law, and University of Tulsa College of Law are the state's only ABA accredited institutions. Both University of Oklahoma and University of Tulsa are Tier 1 institutions, with the University of Oklahoma ranked 68th and the University of Tulsa ranked 86th in the nation.[133]
+Oklahoma holds eleven public regional universities,[134] including Northeastern State University, the second-oldest institution of higher education west of the Mississippi River,[135] also containing the only College of Optometry in Oklahoma[136] and the largest enrollment of Native American students in the nation by percentage and amount.[135][137] Langston University is Oklahoma's only historically black college. Six of the state's universities were placed in the Princeton Review's list of best 122 regional colleges in 2007,[138] and three made the list of top colleges for best value. The state has 55 post-secondary technical institutions operated by Oklahoma's CareerTech program for training in specific fields of industry or trade.[125]
+In the 2007–2008 school year, there were 181,973 undergraduate students, 20,014 graduate students, and 4,395 first-professional degree students enrolled in Oklahoma colleges. Of these students, 18,892 received a bachelor's degree, 5,386 received a masters degree, and 462 received a first professional degree. This means the state of Oklahoma produces an average of 38,278 degree-holders per completions component (i.e. July 1, 2007 – June 30, 2008). National average is 68,322 total degrees awarded per completions component.[139]
+Sports[edit]
+Oklahoma supports popular sports, with teams in basketball, football, arena football, baseball, soccer, hockey, and wrestling located in Oklahoma City, Tulsa, Enid, Norman, and Lawton. The Oklahoma City Thunder of the National Basketball Association and the Tulsa Shock of the Women's National Basketball Association are the state's only major league sports franchises, but minor league sports, including minor league baseball at the AAA and AA levels Oklahoma City RedHawks and Tulsa Drillers, respectively, hockey with the Oklahoma City Barons in the AHL and Tulsa Oilers in the CHL, and arena football in the Arena Football League was hosted by the Tulsa Talons until 2012, when the team was moved to San Antonio. The Oklahoma Defenders replaced the Talons as Tulsa only professional arena football team, playing the CPIFL. Tulsa is the base for the Tulsa 66ers of the NBA Development League and the Tulsa Revolution, which plays in the American Indoor Soccer League.[140] Enid and Lawton host professional basketball teams in the USBL and the CBA.
+The NBA's New Orleans Hornets became the first major league sports franchise based in Oklahoma when the team was forced to relocate to Oklahoma City's Ford Center for two seasons following Hurricane Katrina in 2005.[141] In July 2008, the Seattle SuperSonics, owned by a group of Oklahoma City businessmen led by Clayton Bennett, relocated to Oklahoma City and announced that play would begin at Ford Center as the Oklahoma City Thunder in 2008, becoming the state's first permanent major league franchise.[142]
+Collegiate athletics are a popular draw in the state. The University of Oklahoma Sooners and the Oklahoma State University Cowboys average well over 50,000 fans attending their football games, and the University of Oklahoma's football program ranked 12th in attendance among American colleges in 2010, with an average of 84,738 people attending its home games.[143] The two universities meet several times each year in rivalry matches known as the Bedlam Series, which are some of the greatest sporting draws to the state. Sports Illustrated magazine rates the University of Oklahoma and Oklahoma State University among the top colleges for athletics in the nation.[144][145] In addition, 12 of the state's smaller colleges or universities participate in the NAIA, mostly within the Sooner Athletic Conference.[146]
+Regular LPGA tournaments are held at Cedar Ridge Country Club in Tulsa, and major championships for the PGA or LPGA have been played at Southern Hills Country Club in Tulsa, Oak Tree Country Club in Oklahoma City, and Cedar Ridge Country Club in Tulsa.[147] Rated one of the top golf courses in the nation, Southern Hills has hosted four PGA Championships, including one in 2007, and three U.S. Opens, the most recent in 2001.[148] Rodeos are popular throughout the state, and Guymon, in the state's panhandle, hosts one of the largest in the nation.[149]
+Current Teams[edit]
+Tulsa Rugby Football ClubRugby UnionDivision II Rugby37th & Riverside Field-
+
+
+Club
+Sport
+League
+Venue
+
+
+Oklahoma City Thunder
+Basketball
+National Basketball Association
+Chesapeake Energy Arena
+
+
+Tulsa Shock
+Basketball
+WNBA
+BOK Center
+
+
+Tulsa 66ers
+Basketball
+NBADL
+SpiritBank Event Center 
+
+
+Oklahoma City RedHawks
+Baseball
+Pacific Coast League
+Chickasaw Bricktown Ballpark
+
+
+Tulsa Drillers
+Baseball
+Texas League (AA - affiliated with the Colorado Rockies)
+ONEOK Field
+
+
+Oklahoma City Barons
+Ice hockey
+American Hockey League
+Cox Convention Center
+
+
+Tulsa Oilers
+Ice Hockey
+CHL
+BOK Center
+
+
+Oklahoma Defenders
+Arena Football
+CPIFL
+Tulsa Convention Center
+
+
+Oklahoma City NASL
+Men's Soccer
+North American Soccer League
+Taft Stadium, Soccer Specific Stadium to be built
+
+
+Oklahoma City USL-PRO
+Men's Soccer
+USL PRO
+Soccer Specific Stadium to be built
+
+
+Oklahoma City Football Club
+Men's Soccer
+USL Premier Development League
+Stars Field
+
+
+Tulsa Athletics
+Soccer
+NPSL
+Drillers Stadium
+
+
+Tulsa Revolution
+Indoor Soccer
+PASL
+Tulsa Convention Center
+
+
+Oklahoma Victory Dolls
+Flat Track Roller Derby
+Women's Flat Track Derby Association
+State Fair Centennial Building
+
+
+Oklahoma City Roller Derby
+Flat Track Roller Derby
+Women's Flat Track Derby Association
+Cox Convention Center
+
+
+Oklahoma Thunder
+American Football
+Gridiron Development Football League
+LaFortune Stadium
+
+
+Health[edit]
+
+
+
+
+INTEGRIS Cancer Institute of Oklahoma, in Oklahoma City
+
+
+
+
+
+
+The southwest regional facility for the Cancer Treatment Centers of America is located in Tulsa.
+
+
+The state was the 21st-largest recipient of medical funding from the federal government in 2005, with health-related federal expenditures in the state totaling $75,801,364; immunizations, bioterrorism preparedness, and health education were the top three most funded medical items.[150] Instances of major diseases are near the national average in Oklahoma, and the state ranks at or slightly above the rest of the country in percentage of people with asthma, diabetes, cancer, and hypertension.[150]
+In 2000, Oklahoma ranked 45th in physicians per capita and slightly below the national average in nurses per capita, but was slightly over the national average in hospital beds per 100,000 people and above the national average in net growth of health services over a 12-year period.[151] One of the worst states for percentage of insured people, nearly 25 percent of Oklahomans between the age of 18 and 64 did not have health insurance in 2005, the fifth-highest rate in the nation.[152]
+Oklahomans are in the upper half of Americans in terms of obesity prevalence, and the state is the 5th most obese in the nation, with 30.3 percent of its population at or near obesity.[153] Oklahoma ranked last among the 50 states in a 2007 study by the Commonwealth Fund on health care performance.[154]
+INTEGRIS Cancer Institute of Oklahoma, along with Proton Therapy Center, is the 6th comprehensive cancer treatment centers in the country currently providing both conventional radiation therapy and proton therapy.[155] The OU Medical Center, Oklahoma's largest collection of hospitals is the only hospital in the state designated a Level I trauma center by the American College of Surgeons. OU Medical Center is located on the grounds of the Oklahoma Health Center in Oklahoma City, the state's largest concentration of medical research facilities.[156][157]
+The Regional Medical Center of the Cancer Treatment Centers of America in Tulsa is one of four such regional facilities nationwide, offering cancer treatment to the entire southwestern United States, and is one of the largest cancer treatment hospitals in the country.[158] The largest osteopathic teaching facility in the nation, Oklahoma State University Medical Center at Tulsa, also rates as one of the largest facilities in the field of neuroscience.[159][160]
+Media[edit]
+Main articles: List of radio stations in Oklahoma and List of television stations in Oklahoma
+
+
+
+
+The second largest newspaper in Oklahoma, the Tulsa World has a circulation of 189,789.[161]
+
+
+Oklahoma City and Tulsa are the 45th and 61st-largest media markets in the United States as ranked by Nielsen Media Research. The state's third-largest media market, Lawton-Wichita Falls, Texas, is ranked 149th nationally by the agency.[162] Broadcast television in Oklahoma began in 1949 when KFOR-TV (then WKY-TV) in Oklahoma City and KOTV-TV in Tulsa began broadcasting a few months apart.[163] Currently, all major American broadcast networks have affiliated television stations in the state.[164]
+The state has two primary newspapers. The Oklahoman, based in Oklahoma City, is the largest newspaper in the state and 54th-largest in the nation by circulation, with a weekday readership of 138,493 and a Sunday readership of 202,690. The Tulsa World, the second most widely circulated newspaper in Oklahoma and 79th in the nation, holds a Sunday circulation of 132,969 and a weekday readership of 93,558.[161] Oklahoma's first newspaper was established in 1844, called the Cherokee Advocate, and was written in both Cherokee and English.[165] In 2006, there were more than 220 newspapers located in the state, including 177 with weekly publications and 48 with daily publications.[165]
+The state's first radio station, WKY in Oklahoma City, signed on in 1920, followed by KRFU in Bristow, which later on moved to Tulsa and became KVOO in 1927.[166] In 2006, there were more than 500 radio stations in Oklahoma broadcasting with various local or nationally owned networks. Five universities in Oklahoma operate non-commercial, public radio stations/networks.[167]
+Oklahoma has a few ethnic-oriented TV stations broadcasting in Spanish, Asian languages and sometimes have Native American programming. TBN, a Christian religious television network has a studio in Tulsa, and built their first entirely TBN-owned affiliate in Oklahoma City in 1980.[168]
+Transportation[edit]
+
+
+
+
+One of ten major toll highways in Oklahoma, the Will Rogers Turnpike extends northeast from Tulsa.
+
+
+
+
+
+
+A map of Oklahoma showing major roads and thoroughfares.
+
+
+Transportation in Oklahoma is generated by an anchor system of Interstate Highways, intercity rail lines, airports, inland ports, and mass transit networks. Situated along an integral point in the United States Interstate network, Oklahoma contains three interstate highways and four auxiliary Interstate Highways. In Oklahoma City, Interstate 35 intersects with Interstate 44 and Interstate 40, forming one of the most important intersections along the United States highway system.[169]
+More than 12,000 miles (19,000 km) of roads make up the state's major highway skeleton, including state-operated highways, ten turnpikes or major toll roads,[169] and the longest drivable stretch of Route 66 in the nation.[170] In 2008, Interstate 44 in Oklahoma City was Oklahoma's busiest highway, with a daily traffic volume of 123,300 cars.[171] In 2010, the state had the nation's third highest number of bridges classified as structurally deficient, with nearly 5,212 bridges in disrepair, including 235 National Highway System Bridges.[172]
+In March 2011, Oklahoma ranked as a bottom-seven "Worst" state (tied with Georgia and Illinois) in the American State Litter Scorecard. The Sooner State suffers from overall poor effectiveness and quality of its statewide public space cleanliness (primarily from roadway and adjacent litter/debris abatement)--due to state and related eradication standards and performance indicators.[173]
+Oklahoma's largest commercial airport is Will Rogers World Airport in Oklahoma City, averaging a yearly passenger count of more than 3.5 million (1.7 million boardings) in 2010.[174] Tulsa International Airport, the state's second largest commercial airport, served more than 1.3 million boardings in 2010.[175] Between the two, six airlines operate in Oklahoma.[176][177] In terms of traffic, R.L. Jones Jr. (Riverside) Airport in Tulsa is the state's busiest airport, with 335,826 takeoffs and landings in 2008.[178] In total, Oklahoma has over 150 public-use airports.[179]
+Oklahoma is connected to the nation's rail network via Amtrak's Heartland Flyer, its only regional passenger rail line. It currently stretches from Oklahoma City to Fort Worth, Texas, though lawmakers began seeking funding in early 2007 to connect the Heartland Flyer to Tulsa.[180]
+Two inland ports on rivers serve Oklahoma: the Port of Muskogee and the Tulsa Port of Catoosa. The only port handling international cargo in the state, the Tulsa Port of Catoosa is the most inland ocean-going port in the nation and ships over two million tons of cargo each year.[181][182] Both ports are located on the McClellan-Kerr Arkansas River Navigation System, which connects barge traffic from Tulsa and Muskogee to the Mississippi River via the Verdigris and Arkansas rivers, contributing to one of the busiest waterways in the world.[182]
+Law and government[edit]
+Main article: Government of Oklahoma
+
+
+
+
+The Oklahoma State Capitol located in Oklahoma City.
+
+
+Oklahoma is a constitutional republic with a government modeled after the Federal Government of the United States, with executive, legislative, and judicial branches.[183] The state has 77 counties with jurisdiction over most local government functions within each respective domain,[20] five congressional districts, and a voting base with a plurality in the Democratic Party.[184] State officials are elected by plurality voting in the state of Oklahoma.
+Oklahoma is one of 32 states which has capital punishment as a legal sentence, and the state has had (between 1976 through mid-2011) the highest per capita execution rate in the US.[185]
+State government[edit]
+See also: Governor of Oklahoma, Oklahoma Legislature, and Oklahoma Supreme Court
+The Legislature of Oklahoma consists of the Senate and the House of Representatives. As the lawmaking branch of the state government, it is responsible for raising and distributing the money necessary to run the government. The Senate has 48 members serving four-year terms, while the House has 101 members with two-year terms. The state has a term limit for its legislature that restricts any one person to a total of twelve cumulative years service between both legislative branches.[186][187]
+Oklahoma's judicial branch consists of the Oklahoma Supreme Court, the Oklahoma Court of Criminal Appeals, and 77 District Courts that each serves one county. The Oklahoma judiciary also contains two independent courts: a Court of Impeachment and the Oklahoma Court on the Judiciary. Oklahoma has two courts of last resort: the state Supreme Court hears civil cases, and the state Court of Criminal Appeals hears criminal cases (this split system exists only in Oklahoma and neighboring Texas). Judges of those two courts, as well as the Court of Civil Appeals are appointed by the Governor upon the recommendation of the state Judicial Nominating Commission, and are subject to a non-partisan retention vote on a six-year rotating schedule.[186]
+
+
+
+
+The Five congressional districts in Oklahoma.
+
+
+The executive branch consists of the Governor, their staff, and other elected officials. The principal head of government, the Governor is the chief executive of the Oklahoma executive branch, serving as the ex officio Commander-in-Chief of the Oklahoma National Guard when not called into Federal use and reserving the power to veto bills passed through the Legislature. The responsibilities of the Executive branch include submitting the budget, ensuring that state laws are enforced, and ensuring peace within the state is preserved.[188]
+Local government[edit]
+The state is divided into 77 counties that govern locally, each headed by a three-member council of elected commissioners, a tax assessor, clerk, court clerk, treasurer, and sheriff.[189] While each municipality operates as a separate and independent local government with executive, legislative and judicial power, county governments maintain jurisdiction over both incorporated cities and non-incorporated areas within their boundaries, but have executive power but no legislative or judicial power. Both county and municipal governments collect taxes, employ a separate police force, hold elections, and operate emergency response services within their jurisdiction.[190][191] Other local government units include school districts, technology center districts, community college districts, rural fire departments, rural water districts, and other special use districts.
+Thirty-nine Native American tribal governments are based in Oklahoma, each holding limited powers within designated areas. While Indian reservations typical in most of the United States are not present in Oklahoma, tribal governments hold land granted during the Indian Territory era, but with limited jurisdiction and no control over state governing bodies such as municipalities and counties. Tribal governments are recognized by the United States as quasi-sovereign entities with executive, judicial, and legislative powers over tribal members and functions, but are subject to the authority of the United States Congress to revoke or withhold certain powers. The tribal governments are required to submit a constitution and any subsequent amendments to the United States Congress for approval.[192][193]
+National politics[edit]
+
+Presidential election results[194]
+
+Year
+Republicans
+Democrats
+
+
+2012
+66.77% 891,325
+33.23% 443,547
+
+
+2008
+65.65% 960,165
+34.35% 502,496
+
+
+2004
+65.57% 959,792
+34.43% 503,966
+
+
+2000
+60.31% 744,337
+38.43% 474,276
+
+
+1996
+48.26% 582,315
+40.45% 488,105
+
+
+1992
+42.65% 592,929
+34.02% 473,066
+
+
+1988
+57.93% 678,367
+41.28% 483,423
+
+
+1984
+68.61% 861,530
+30.67% 385,080
+
+
+1980
+60.50% 695,570
+34.97% 402,026
+
+
+1976
+49.96% 545,708
+48.75% 532,442
+
+
+1972
+73.70% 759,025
+24.00% 247,147
+
+
+1968
+47.68% 449,697
+31.99% 301,658
+
+
+1964
+44.25% 412,665
+55.75% 519,834
+
+
+1960
+59.02% 533,039
+40.98% 370,111
+
+
+Main article: Politics of Oklahoma
+Oklahoma has been politically conservative for much of its history, especially recently. During the first half century of statehood, it was considered a Democratic stronghold, being carried by the Republican Party in only two presidential elections (1920 and 1928). During this time, it was also carried by every winning Democratic candidate up to Harry Truman. However, Oklahoma Democrats were generally considered to be more conservative than Democrats in other states.
+After the 1948 election, the state turned firmly Republican. Although registered Republicans are a minority in the state,[195] starting in 1952, Oklahoma has been carried by Republican presidential candidates in all but one election (1964). This is not to say that every election has been a landslide for Republicans: Jimmy Carter lost the state by less than 1.5% in 1976, while Michael Dukakis and Bill Clinton both won 40% or more of the state’s popular vote in 1988 and 1996 respectively. Al Gore in 2000, though, was the last Democrat to even win any counties in the state. Oklahoma was the only state where Barack Obama failed to carry any of its counties in either 2008 or 2012.
+Generally, Republicans are strongest in Oklahoma City, Tulsa and their close-in suburbs, as well as the Panhandle. Democrats are strongest in the eastern part of the state and Little Dixie.
+Following the 2000 census, the Oklahoma delegation to the U.S. House of Representatives was reduced from six to five representatives, each serving one congressional district. For the 112th Congress (2011–2013), there were no changes in party strength, and the delegation included four Republicans and one Democrat. In the 112th Congress, Oklahoma's U.S. senators were Republicans Jim Inhofe and Tom Coburn, and its U.S. Representatives were John Sullivan (R-OK-1), Dan Boren (D-OK-2), Frank D. Lucas (R-OK-3), Tom Cole (R-OK-4), and James Lankford (R-OK-5).
+In 2012, Dan Boren (D-OK-2) retired from Congress, therefore making the seat vacant. This district, which covers most of the 'Little Dixie', is the Democrats best region of the state, and has been represented by a Democrat for almost 15 years. Republican Markwayne Mullin won the election making the states' congressional delegation all Republican.
+Further information: Political party strength in Oklahoma
+Cities and towns[edit]
+See also: List of cities in Oklahoma, List of towns in Oklahoma, and List of towns and cities in Oklahoma by population
+Major cities[edit]
+
+
+Most Populous Cities[196]
+
+City
+Population (2012 state estimate)
+
+
+1. Oklahoma City
+599,199
+
+
+2. Tulsa
+393,987
+
+
+3. Norman
+115,562
+
+
+4. Broken Arrow
+102,019
+
+
+5. Lawton
+98,376
+
+
+6. Edmond
+84,885
+
+
+7. Moore
+57,810
+
+
+8. Midwest City
+56,080
+
+
+9. Enid
+49,854
+
+
+10. Stillwater
+46,560
+
+
+11. Muskogee
+38,981
+
+
+12. Bartlesville
+36,245
+
+
+
+
+
+
+
+Oklahoma City is the state's capital and largest city.
+
+
+Oklahoma had 598 incorporated places in 2010, including four cities over 100,000 in population and 43 over 10,000.[197] Two of the fifty largest cities in the United States are located in Oklahoma, Oklahoma City and Tulsa, and 65 percent of Oklahomans live within their metropolitan areas, or spheres of economic and social influence defined by the United States Census Bureau as a metropolitan statistical area. Oklahoma City, the state's capital and largest city, had the largest metropolitan area in the state in 2010, with 1,252,987 people, and the metropolitan area of Tulsa had 937,478 residents.[198] Between 2000 and 2010, the cities that led the state in population growth were Blanchard 172.4%, Elgin 78.2%, Jenks 77.0%, Piedmont 56.7%, Bixby 56.6%, and Owasso 56.3%.[197]
+
+
+
+
+Tulsa is the state's second largest city by population and land area.
+
+
+In descending order of population, Oklahoma's largest cities in 2010 were: Oklahoma City (579,999, +14.6%), Tulsa (391,906, −0.3%), Norman (110,925, +15.9%), Broken Arrow (98,850, +32.0%), Lawton (96,867, +4.4%), Edmond (81,405, +19.2%), Moore (55,081, +33.9%), Midwest City (54,371, +0.5%), Enid (49,379, +5.0%), and Stillwater (45,688, +17.0%). Of the state's ten largest cities, three are outside the metropolitan areas of Oklahoma City and Tulsa, and only Lawton has a metropolitan statistical area of its own as designated by the United States Census Bureau, though the metropolitan statistical area of Fort Smith, Arkansas extends into the state.[199]
+Under Oklahoma law, municipalities are divided into two categories: cities, defined as having more than 1,000 residents, and towns, with under 1,000 residents. Both have legislative, judicial, and public power within their boundaries, but cities can choose between a mayor-council, council-manager, or strong mayor form of government, while towns operate through an elected officer system.[190]
+Demographics[edit]
+Main article: Demographics of Oklahoma
+
+
+
+
+Oklahoma population density map.
+
+
+
+
+Historical populations
+
+
+Census
+Pop.
+
+%±
+
+
+1890
+258,657
+
+
+—
+
+
+
+1900
+790,391
+
+205.6%
+
+
+1910
+1,657,155
+
+109.7%
+
+
+1920
+2,028,283
+
+22.4%
+
+
+1930
+2,396,040
+
+18.1%
+
+
+1940
+2,336,434
+
+−2.5%
+
+
+1950
+2,233,351
+
+−4.4%
+
+
+1960
+2,328,284
+
+4.3%
+
+
+1970
+2,559,229
+
+9.9%
+
+
+1980
+3,025,290
+
+18.2%
+
+
+1990
+3,145,585
+
+4.0%
+
+
+2000
+3,450,654
+
+9.7%
+
+
+2010
+3,751,351
+
+8.7%
+
+
+Est. 2012
+3,814,820
+
+1.7%
+
+
+Source: 1910–2010[200]
+
+
+The United States Census Bureau estimates that the population of Oklahoma was 3,814,820 on July 1, 2012, a 1.7% increase since the 2010 United States Census.[1]
+At the 2010 Census, 68.7% of the population was non-Hispanic White, down from 88% in 1970,[201] 7.3% non-Hispanic Black or African American, 8.2% non-Hispanic American Indian and Alaska Native, 1.7% non-Hispanic Asian, 0.1% non-Hispanic Native Hawaiian and Other Pacific Islander, 0.1% from some other race (non-Hispanic) and 5.1% of two or more races (non-Hispanic). 8.9% of Oklahoma's population was of Hispanic, Latino, or Spanish origin (they may be of any race).
+As of 2011, 47.3% of Oklahoma's population younger than age 1 were minorities(note: children born to white hispanics are counted as minority group).[202]
+As of 2008[update] Oklahoma had a population of 3,642,361[203] with an estimated 2005 ancestral makeup of 14.5% German, 13.1% American, 11.8% Irish, 9.6 English, 8.1% African American, and 11.4% Native American (including 7.9% Cherokee[204][205]) though the percentage of people claiming American Indian as their only race was 8.1%.[206] Most people from Oklahoma who self-identify as having American ancestry are of overwhelmingly English ancestry with significant amounts of Scottish and Welsh inflection as well.[207][208]
+The state had the second-highest number of Native Americans in 2002, estimated at 395,219, as well as the second highest percentage among all states.[205] As of 2006, 4.7% of Oklahoma's residents were foreign born,[209] compared to 12.4% for the nation.[210] The center of population of Oklahoma is located in Lincoln County near the town of Sparks.[211]
+The state's 2006 per capita personal income ranked 37th at $32,210, though it has the third-fastest growing per capita income in the nation[10] and ranks consistently among the lowest states in cost of living index.[212] The Oklahoma City suburb Nichols Hills is first on Oklahoma locations by per capita income at $73,661, though Tulsa County holds the highest average.[199][213] In 2011, 7.0% of Oklahomans were under the age of 5, 24.7% under 18, and 13.7% were 65 or older. Females made up 50.5% of the population.[196]
+
+
+Voter Registration and Party Enrollment as of January 15, 2012[214]
+
+
+Party
+Number of Voters
+Percentage
+
+
+ 
+Democratic
+943,283
+47.15%
+
+
+ 
+Republican
+828,257
+41.40%
+
+
+ 
+Unaffiliated
+229,070
+11.45%
+
+
+Total
+2,000,610
+100%
+
+
+
+
+Demographics of Oklahoma (csv)
+
+By race
+White
+Black
+AIAN*
+Asian
+NHPI*
+
+
+2000 (total population)
+82.59%
+8.31%
+11.39%
+1.71%
+0.15%
+
+
+2000 (Hispanic only)
+4.73%
+0.19%
+0.37%
+0.05%
+0.02%
+
+
+2005 (total population)
+82.20%
+8.55%
+11.31%
+1.92%
+0.16%
+
+
+2005 (Hispanic only)
+6.10%
+0.24%
+0.35%
+0.06%
+0.03%
+
+
+Growth 2000–05 (total population)
+2.33%
+5.76%
+2.04%
+15.49%
+9.51%
+
+
+Growth 2000–05 (non-Hispanic only)
+0.50%
+5.17%
+2.22%
+15.19%
+9.47%
+
+
+Growth 2000–05 (Hispanic only)
+32.58%
+31.44%
+-3.27%
+25.17%
+9.69%
+
+
+* AIAN is American Indian or Alaskan Native; NHPI is Native Hawaiian or Pacific Islander
+
+
+Religion[edit]
+Oklahoma is part of a geographical region characterized by conservative and Evangelical Christianity known as the "Bible Belt". Spanning the southeastern United States, the area is known for politically and socially conservative views, even though Oklahoma has more voters registered with the Democratic Party than with any other party.[214] Tulsa, the state's second largest city, home to Oral Roberts University, is sometimes called the "buckles of the Bible Belt".[215][216] According to the Pew Research Center, the majority of Oklahoma's religious adherents – 85 percent – are Christian, accounting for about 80 percent of the population. The percentage of Oklahomans affiliated with Catholicism is half of the national average, while the percentage affiliated with Evangelical Protestantism is more than twice the national average – tied with Arkansas for the largest percentage of any state.[217]
+
+
+
+
+The Boston Avenue Methodist Church in Tulsa is a National Historic Landmark.
+
+
+Adherents participate in 73 major affiliations spread between 5,854 congregations, ranging from the Southern Baptist Convention, with 1578 churches and 967,223 members, to the Holy Orthodox Church in North America, with 1 church and 6 members. The state's largest church memberships are in the Southern Baptist Convention with 967,223 members, the United Methodist Church, with 322,794 members, the Roman Catholic Church, with 168,625, the Assemblies of God, with 88,301, Churches of Christ with 83,047,[218] and The Church of Jesus Christ of Latter-day Saints with 24,564 (43,905 year-end 2011).[219]
+In 2000, there were about 5,000 Jews and 6,000 Muslims, with 10 congregations to each group.[218]
+Oklahoma religious makeup:[218][A]
+
+Evangelical Protestant – 53%
+Mainline Protestant – 16%
+Roman Catholic – 13%
+Other – 6%[B]
+Unaffiliated – 12%
+
+State symbols[edit]
+
+
+
+
+The American Bison, Oklahoma's state mammal
+
+
+
+
+
+
+Oklahoma's quarter, released in 2008 as part of the state quarters series, depicts Oklahoma's state bird flying above its state wildflower.[220]
+
+
+See also: list of Oklahoma state symbols
+State law codifies Oklahoma’s state emblems and honorary positions;[221] the Oklahoma Senate or House of Representatives may adopt resolutions designating others for special events and to benefit organizations. Currently the State Senate is waiting to vote on a change to the state's motto. The House passed HCR 1024 which will change the State motto from "Labor Omnia Vincit" to "Oklahoma-In God We Trust!". The author of the resolution stated that a constituent researched the Oklahoma Constitution and found no "official" vote regarding "Labor Omnia Vincit", therefore opening the door for an entirely new motto.
+State symbols:[222]
+
+State cartoon: GUSTY® Created by Don Woods, Oklahoma's first professional meteorologist, used on KTUL-TV from 1954-1989.[223]
+State bird: Scissor-tailed flycatcher
+State tree: Eastern Redbud
+State mammal: American Bison
+State vegetable: Watermelon[224]
+State beverage: Milk
+State fruit: Strawberry
+State game bird: Wild Turkey
+State fish: Sand bass
+State floral emblem: Mistletoe
+State flower: Oklahoma Rose
+State wildflower: Indian Blanket (Gaillardia pulchellum)
+State grass: Indiangrass (Sorghastrum nutans)
+State fossil: Saurophaganax maximus[225]
+State rock: Rose rock
+State insect: Honeybee
+State soil: Port Silt Loam
+State reptile: Collared Lizard
+State amphibian: Bullfrog
+State meal: fried okra, squash, cornbread, barbecue pork, biscuits, sausage and gravy, grits, corn, strawberries, chicken fried steak, pecan pie, and black-eyed peas.
+State folk dance: Square Dance
+State percussive instrument: drum
+State waltz: Oklahoma Wind
+State butterfly: Black Swallowtail
+State song: "Oklahoma!"
+State language: English
+State Gospel Song: "Swing Low, Sweet Chariot"
+State rock song: "Do You Realize??" by The Flaming Lips[226]
+
+
+See also[edit]
+
+
+
+
+Oklahoma portal
+
+
+
+
+Outline of Oklahoma – organized list of topics about Oklahoma
+Index of Oklahoma-related articles
+
+
+Notes[edit]
+
+A. ^ Determined by a survey by the Pew Research Center in 2008. Percentages represent claimed religious beliefs, not necessarily membership in any particular congregation. Figures have a ±5 percent margin of error.[217]
+
+
+B. ^ Buddhism, Islam, Hinduism, Judaism, other faiths each account for less than 1 percent. Jehovah's Witness, Mormons, Orthodox Christianity, and other Christian traditions each compose less than .5% percent. 1% refused to answer the Pew Research Center's survey.[217]
+
+References[edit]
+
+
+^ a b "Annual Estimates of the Population for the United States, Regions, States, and Puerto Rico: April 1, 2010 to July 1, 2012" (CSV). 2012 Population Estimates. United States Census Bureau, Population Division. December 2012. Retrieved December 24, 2012. 
+^ a b "Elevations and Distances in the United States". United States Geological Survey. 2001. Retrieved October 24, 2011. 
+^ a b Elevation adjusted to North American Vertical Datum of 1988.
+^ "Oklahoma - Definitions from Dictionary.com". Dictionary.com. Retrieved 2007-08-10. 
+^ "AISRI Dictionary Database Search--prototype version. "River", Southband Pawnee". American Indian Studies Research Institute. Retrieved 2012-05-26. 
+^ "Cayuga: Our Oral Legacy - Home. Cayuga Digital Dictionary". Retrieved 2012-05-27. 
+^ 2007 Economic Census: Regions and Divisions, United States Census Bureau
+^ a b Wright, Muriel (June 1936). "Chronicles of Oklahoma". Oklahoma State University. Retrieved 2007-07-31. 
+^ a b c "Oklahoma at a Glance" (PDF). Oklahoma Department of Commerce. Retrieved 2007-08-01. 
+^ a b "State Personal Income 2006". United States Department of Commerce. 2007-03-27. Retrieved 2007-08-05. 
+^ "Gross Domestic Product by State (2005–2006)" (PDF). Oklahoma Department of Commerce. Archived from the original on 2007-08-08. Retrieved 2007-08-01. 
+^ "Annual Estimates of the Population of Metropolitan and Micropolitan Statistical Areas: April 1, 2000 to July 1, 2006" (csv). United States Census Bureau. Archived from the original on July 10, 2007. Retrieved September 15, 2007. 
+^ a b c d "Oklahoma, All Terrain Vacation". TravelOK. TravelOK.com. 2006-01-12. Retrieved 2006-07-15. 
+^ a b Greymorning, Stephen. "Profiles of Native American Education Programs". Southwest Educational Development Laboratory. Archived from the original on August 16, 2007. Retrieved 2007-08-04. 
+^ "Oklahoma State History and Information". A Look at Oklahoma. Oklahoma Department of Tourism and Recreation. 2007. Archived from the original on July 16, 2006. Retrieved 2006-06-07. 
+^ Merserve, John (1941). "Chief Allen Wright". Chronicles of Oklahoma. Retrieved 2006-06-07. 
+^ "Land and Water Area of States, 2000". Information Please. 2000. Retrieved 2006-11-22. 
+^ "A Tapestry of Time and Terrain". USGS. 2003-04-17. Retrieved 2007-07-31. 
+^ a b "The Geography of Oklahoma". Netstate. 2007-07-31. Retrieved 2007-07-31. 
+^ a b c "Oklahoma State Map Collection". geology.com. 2006. Retrieved 2007-08-01. 
+^ a b c d e Arndt, Derek (2003-01-01). "The Climate of Oklahoma". Oklahoma Climatological Survey. Retrieved 2007-07-31. 
+^ "Managing Upland Forests of the Midsouth". USD Forest Service. 2007-03-07. Retrieved 2007-07-31. [dead link]
+^ a b c "About Oklahoma". TravelOK.com. 2007. Retrieved 2006-07-10. 
+^ a b c "Oklahoma in Brief" (PDF). State of Oklahoma. 2003. Retrieved 2007-08-04. 
+^ a b c d "A Look at Oklahoma: A Student's Guide" (PDF). State of Oklahoma. 2005. Retrieved 2007-08-14. 
+^ a b "Oklahoma Ecoregional Maps". Oklahoma Department of Agriculture. Archived from the original on August 16, 2007. Retrieved 2007-08-02. 
+^ "Oklahoma State Parks". Oklahoma Parks Department. 2004. Archived from the original on July 27, 2007. Retrieved 2007-08-02. 
+^ a b "Oklahoma National Park Guide". National Park Service. 2007. Retrieved 2007-08-02. 
+^ "National Forests". United States Department of Agriculture Forest Service. 2005-05-01. Retrieved 2007-08-02. 
+^ "Ouachita National Forest". United States Department of Agriculture Forest Service. 2005-05-10. Retrieved 2007-08-02. 
+^ "Tallgrass Prairie Preserve". The Nature Conservatory. 2007. Retrieved 2007-07-31. 
+^ "Black Kettle National Grassland". USDA Forest Service. 2007-07-24. Retrieved 2007-08-02. 
+^ "Refuge Locator Map – Oklahoma". U.S. Fish and Wildlife Service. Retrieved 2007-08-17. 
+^ "Wichita Mountains Wildlife Refuge". U.S. Fish and Wildlife Service. Retrieved 2007-08-17. 
+^ "Chickasaw National Recreation Area – Park Statistics". National Park Service. Retrieved 2010-01-16. 
+^ a b c "Oklahoma's Climate: an Overview" (PDF). University of Oklahoma. Retrieved 2007-08-01. 
+^ "Tornado Climatology". NOAA National Climatic Data Center. Retrieved 2006-10-24. 
+^ "News | November 11, 1911: A Palindrome to Remember". Mesonet. Retrieved 2013-02-06. 
+^ "The Tornado Outbreak of April 27-28, 1912". National Weather Service. National Oceanographic and Atmospheric Administration. Retrieved 20 August 2013. 
+^ Novy, Chris. "SPC and its Products". NOAA. Retrieved 2007-08-01. 
+^ "Oklahoma Weather And Climate". UStravelweather.com. 2007. Archived from the original on September 27, 2007. Retrieved 2007-08-02. 
+^ "Weather Averages: Lawton, Oklahoma". MSN Weather. Retrieved 2007-08-13. 
+^ Palino, Valerie. "Early Man in North America: The Known to the Unknown". Yale-New Haven Teachers Institute. Retrieved 2007-08-01. 
+^ "The Historic Spiro Mounds". Spiro Area Chamber of Commerce. 2007. Archived from the original on August 1, 2007. Retrieved 2007-08-01. 
+^ "Prehistory of Oklahoma". rootsweb. Retrieved 2007-08-01. 
+^ a b c d e "Oklahoma's History". Government of Oklahoma. Archived from the original on August 1, 2007. Retrieved 2007-08-01. 
+^ "French and Spanish Explorations". rootsweb. Retrieved 2007-08-01. 
+^ Len Green. "Choctaw Removal was really a "Trail of Tears"". Bishinik, mboucher, University of Minnesota. Archived from the original on 2008-06-04. Retrieved 2008-04-28. 
+^ Carter (III), Samuel (1976). Cherokee sunset: A nation betrayed: a narrative of travail and triumph, persecution and exile. New York: Doubleday, p. 232.
+^ "1890 Indian Territory Map". RootsWeb. Retrieved 2009-05-06. 
+^ Rodman, Leslie. The Five Civilized Tribes and the American Civil War. p. 2. 
+^ Hornsby, A Companion to African-American History, p.127
+^ "Map of Cattle Drives in 1881". Genealogy Trails History Group. Retrieved 2007-08-01. 
+^ Hamilton, Robert. "United States and Native American Relations". Florida Gulf Coast University. Retrieved 2007-08-01. 
+^ "Factors Influencing Enrollment in Agricultural Education Classes of Native American Students in Oklahoma" (DOC). Oklahoma State University. 1999. Retrieved 2007-08-01. 
+^ "Rushes to Statehood". National Cowboy and Western Heritage Museum. Archived from the original on August 1, 2007. Retrieved 2007-08-01. 
+^ "Clem Rogers". Will Rogers Museum Association. Retrieved 2007-08-01. 
+^ "Tulsa Area History". Tulsa County Library. Archived from the original on January 8, 2007. Retrieved 2007-04-25. 
+^ "The Father of Route 66". University of Virginia. Retrieved 2007-04-20. 
+^ Oxman, Steven (2000-05-30). "The Tulsa Lynching of 1921: A Hidden Story". Variety Magazine. Retrieved 2008-06-26. 
+^ "Tulsa Race Riot, A Report by the Oklahoma Commission to Study the Tulsa Race Riot of 1921, February 28, 2001" (PDF). Oklahoma Historical Society. Archived from the original on June 24, 2008. Retrieved 2008-06-10. 
+^ O'Dell, Larry. "Ku klux klan". Oklahoma Historical Society. Retrieved 2008-06-26. 
+^ "1930s Dust Bowl". Cimarron County Chamber of Commerce. 2005-08-05. Retrieved 2007-08-01. 
+^ "History of the States: Oklahoma, The Sooner State". The History Channel. 2007. Retrieved 2007-08-09. 
+^ "Oklahoma City Tragedy". CNN. 1996. Archived from the original on August 1, 2007. Retrieved 2007-08-01. 
+^ "Oklahoma Rising" (PDF). Chesapeake Energy. 2007. Archived from the original on August 8, 2007. Retrieved 2007-08-01. 
+^ a b c d "State Fact Sheets: Oklahoma". United States Department of Agriculture. 2007-07-03. Retrieved 2007-08-01. 
+^ a b globalEDGE Michigan State University. "Oklahoma:Corporations". Retrieved 2011-09-27. 
+^ a b c d "An Overview Of Oklahoma's Target Industries". Oklahoma Department of Commerce. Retrieved 2007-08-01. 
+^ Ellis, David (2007). "Tax Friendly Places 2007". CNN Money. Retrieved 2007-08-08. 
+^ Forbes Magazine. "America's Largest Private Companies: Complete List". Retrieved 2011-09-30. 
+^ "GDP by state current dollars". US Bureau of Economic Analysis. Retrieved 2011-09-27. 
+^ "Per capita real GDP by state". US Bureau of Economic Analysis. Retrieved 2011-09-27. 
+^ Snead, Mark (2006). "Outlook Update – OKC GM Plant Closing" (PDF). Oklahoma State University. Retrieved 2007-08-12. 
+^ a b c d "The Economic Impact of Oklahoma's Oil & Natural Gas Industry". Oklahoma Energy Resource Board. 2008. Retrieved 2011-10-22. 
+^ a b c "Oklahoma Economy at a Glance". United States Department of Labor, Bureau of Labor Statistics. 2011-07-01. Retrieved 2011-09-28. 
+^ Bls.gov; Local Area Unemployment Statistics
+^ "American's TUL Maintenance & Engineering Base Sets Goal to Achieve $500 Million in Revenue, Cost Savings By End of 2006". American Airlines. Retrieved 2007-07-14. 
+^ "Impact of Trade in Oklahoma" (PDF). United States Chamber of Commerce. 2005. Archived from the original on August 8, 2007. Retrieved 2007-08-01. 
+^ "Manufacturing Cluster Analysis" (PDF). Oklahoma Chamber of Commerce. 2005. Retrieved 2007-08-01. 
+^ "Baker Hughes Rotary Rigs by State". Baker Hughes. Retrieved 2011-10-22. 
+^ Oklahoma Geological Survey. "Oklahoma Oil and Natural Gas: Components and Long-Term Outlook" (PDF). Retrieved 2011-10-22. 
+^ United States Department of Energy. "Installed Wind Capacity by State" (xls). Retrieved 2011-10-22. 
+^ "Oklahoma Energy Statistics". US Energy Information Administration. 2009. Retrieved 2011-10-22. 
+^ "Energy Consumption by Source and Total Consumption per Capita, Ranked by State, 2009". US Energy Information Administration. 2009. Retrieved 2011-10-22. 
+^ Institute for Energy Research. "Oklahoma Energy Facts" (PDF). Retrieved 2011-10-22. 
+^ a b "2009 Report on Oil and Natural Gas Activity within the State of Oklahoma" (PDF). Oklahoma Corporation Commission. 2009. Retrieved 2011-10-22. 
+^ "Three Of America’s Largest Private Companies Call Oklahoma Home". Oklahoma Department of Commerce. 2005-12-02. Retrieved 2007-08-01. 
+^ a b "Three Fortune's Snapshot: Devon energy". CNN. 2007. Retrieved 2007-08-01. 
+^ EIA (July 27, 2012). "Electric Power Monthly Table 1.17.A.". United States Department of Energy. Retrieved 2012-08-15. 
+^ EIA (July 27, 2012). "Electric Power Monthly Table 1.17.B.". United States Department of Energy. Retrieved 2012-08-15. 
+^ a b "A Welcome From The Commissioner". Oklahoma Department of Agriculture, Food and Forestry. Retrieved 2007-08-07. 
+^ "Census Regions and Divisions of the United States" (PDF). United States Census Bureau. Retrieved 2007-08-04. 
+^ Lew, Allen. "What is geography?". Northern Arizona University. Archived from the original on May 10, 2007. Retrieved 2007-08-04. 
+^ Greene, Wayne. "Largest Ancestry". Valparaiso University. Retrieved 2007-08-04. 
+^ Smith, Diane. "Universities partner to save dying languages." Associated Press at the Houston Chronicle. June 12, 2011. Retrieved on June 16, 2011.
+^ "Flags over Oklahoma". Oklahoma History Center. Retrieved 2007-08-04. 
+^ "Oklahoma Quick Facts". Oklahoma Department of Tourism. 2007. Retrieved 2007-08-04. 
+^ "Fodor's Choice: Top Overlooked Destinations". Fodor's Magazine. 2007. Archived from the original on 2007-04-05. Retrieved 2007-08-02. 
+^ "Oklahoma Travel Industry Association Information". Oklahoma Travel Industry Association. 2007. Retrieved 2007-08-04. 
+^ "Generosity Index 2003 (2001 data)". Catalogue for Philanthropy. 2003. Retrieved 2007-08-16. 
+^ "The Essence of the Midwest". Clarke College. 1999-05-10. Retrieved 2007-08-04. 
+^ a b "Filmmaker to share documentary chronicling local poet’s life". Sacramento State University. 2003-02-25. Retrieved 2008-04-04. 
+^ Greene, Wayne. "Oklahoma centennial quiz". Tulsa World. Retrieved 2007-08-04. 
+^ a b "Museums of Oklahoma". Tufts University. Retrieved 2007-08-05. 
+^ a b c d e f "Oklahoma – A Great Place to Play". Oklahoma Department of Commerce. 2007. Retrieved 2007-08-04. 
+^ "Oklahoma's Diversity". Oklahoma Department of Commerce. 2007. Retrieved 2007-08-04. 
+^ "Oklahoma Mozart Festival". OK Mozart Festival. 2007. Archived from the original on August 16, 2007. Retrieved 2007-08-04. 
+^ Gilmore, Joan (2007-12-13). "OKC Events". The Oklahoma City Journal Record. Retrieved 2008-06-17. 
+^ "Ballet Russes". Geller/Goldfine Productions. 2008. Retrieved 2008-06-17. 
+^ "Capri Films" (PDF). Geller/Goldfine Productions. 2008. Retrieved 2008-06-17. 
+^ "Honors and Awards". Discoveryland!. Archived from the original on 2007-04-05. Retrieved 2007-04-26. 
+^ Elliott, Matt (2007-03-25). "Cain’s Ballroom – A Music Icon: Venue is a landmark for Western swing, punk fans". Tulsa World. Retrieved 2007-08-04. 
+^ Stancavage, John (2006-07-15). "Selling Tulsa: Branded". Tulsa World. Retrieved 2007-08-04. 
+^ "The All-Terrain Vacation". Travelok.com. Retrieved 2007-08-04. 
+^ "Mabee-Gerrer Museum of Art, Travel OK". Travelok.com. Retrieved 2011-11-22. 
+^ "About the Museum". Oklahoma City Museum of Art. Archived from the original on August 16, 2007. Retrieved 2007-08-04. 
+^ "Sherwin Miller Museum of Judaism". Sherwin Miller Museum of Jewish Art. Retrieved 2006-04-20. 
+^ Barber, Brian (2006-09-07). "100 and 1: State's centennial is named top-ranked bus-tour destination". Tulsa World. Retrieved 2007-08-04. 
+^ "Oklahoma State Fair Opens September 14" (PDF). Oklahoma State Fair. 2006-09-11. Retrieved 2007-08-04. 
+^ "Tulsa State Fair – General Information". Tulsa State Fair. 2007. Archived from the original on August 28, 2007. Retrieved 2007-08-25. 
+^ Bell, Leigh (2007-05-21). "Mayfest: Celebrating Downtown: Festival closes after big year". Tulsa World. Retrieved 2007-05-21. 
+^ Harrison, Daniel. "Top 10: American Oktoberfest Destinations". Ask Men. Retrieved 2007-05-05. 
+^ "Medieval Fair of Norman". Medieval Fair of Norman. 2010. Retrieved 2010-02-14. 
+^ a b c "2008-09 Facts: Oklahoma Public Schools". Oklahoma State Department of Education. 2010. Retrieved 2012-01-22. 
+^ "Public Elementary and Secondary School Student Enrollment, High School Completions and Staff from the Common Core of Data, School Year 2009–10" (PDF). IES, National Center for Education Statistics. p. 11. Retrieved 2012-01-22. 
+^ "Growth in Oklahoma's State Governments 1992–2002" (PDF). University of Central Oklahoma. 2006-02-01. Archived from the original on August 8, 2007. Retrieved 2007-08-03. 
+^ "Superintendent Garrett announces Oklahoma No. 1 in Pre-Kindergarten". Oklahoma State Department of Education. 2004-11-19. Archived from the original on August 16, 2007. Retrieved 2007-08-03. 
+^ "Trends in High School Dropout and Completion Rates in the United States: 1972–2009" (PDF). IES, National Center for Education Statistics. pp. 7–8, 37. Retrieved 2012-01-22. 
+^ "High school diploma or higher, by percentage by state". Statemaster.com. 2004. Retrieved 2007-08-20. 
+^ "Missouri and the Nation". University of Missouri. 2007-02-09. Retrieved 2007-08-03. 
+^ "America's Best Colleges – 2007". Oklahoma Education Information System. 2007. Archived from the original on August 16, 2007. Retrieved 2007-08-03. 
+^ "Best Law Schools". U.S. News. 2013. Retrieved 2013-07-12. 
+^ "Student Center Financial Aid". Oklahoma State Regents for Higher Education. 2008. Archived from the original on March 23, 2008. Retrieved 2008-04-06. 
+^ a b "NSU Demographics" (PDF). Northeastern State University. 2006. Retrieved 2008-02-10. 
+^ "Rare Eye Condition Takes Center Stage At NSUOCO". Northeastern State University. 2008. Retrieved 2008-04-06. 
+^ "INBRE Participants". Oklahoma Idea Network of Biomedical Research Excellence. Retrieved 2008-04-06. 
+^ "OBU Named to The Princeton Review "Best in the West" list". Oklahoma Baptist University. 2005-08-26. Retrieved 2007-08-03. 
+^ "Oklahoma Colleges: A Profile of College Degree Programs & Post-Secondary Education in Oklahoma". 
+^ Hibdon, Glenn (2007-07-29). "Pro soccer: Soccer comes to Tulsa". Tulsa World. Retrieved 2007-08-05. 
+^ "BA Team Valuations – No. 29 New Orleans Hornets". PGA. 2007-01-25. Retrieved 2007-08-05. 
+^ "Sonics, city reach settlement". The Seattle Times. 2008-07-02. Retrieved 2008-07-02. 
+^ "Attendance Records" (PDF). National Collegiate Athletic Association. 2011. Retrieved 2011-10-20. 
+^ "America's Best Sports Colleges: 1–10". Sports Illustrated. 2002-10-07. Retrieved 2007-08-05. 
+^ "America's Best Sports Colleges: 11–100". Sports Illustrated. 2002-10-07. Retrieved 2007-08-05. 
+^ "Member Institutions". NAIA. 2005. Retrieved 2007-08-05. 
+^ "Oklahoma's Top 10 Private Golf Courses". Tulsaweb. Retrieved 2007-08-05. 
+^ "Southern Hills Country Club is rich in History". PGA. 2007. Retrieved 2007-08-05. 
+^ "Rodeo History". Guymon Rodeo Foundation. Archived from the original on May 16, 2007. Retrieved 2007-05-02. 
+^ a b "Health Report: Oklahoma". Trust for America's Health. Retrieved 2007-08-02. 
+^ "State health workforce profiles:Oklahoma" (PDF). United States Department of Health and Human Services. Retrieved 2007-08-02. 
+^ "Health insurance, lack of coverage among adults: State, 2002–2005". United States Department of Health and Human Services. Retrieved 2007-09-08. 
+^ "U.S. Obesity Trends". Centers for Disease Control and Prevention. Retrieved September 12, 2009. 
+^ Hitti, Miranda (June 13, 2007). "How States Rank on Health Care". WebMD Health News. Retrieved January 26, 2012. 
+^ [1][not in citation given]
+^ "OU Medical Center Employment Opportunities". University of Oklahoma. Archived from the original on August 16, 2007. Retrieved 2007-08-02. 
+^ "Trauma One Center". University of Oklahoma. Archived from the original on August 16, 2007. Retrieved 2007-08-02. 
+^ "Southwestern Regional Medical Center". Cancer Treatment Centers of America. Retrieved 2007-05-07. 
+^ "Tulsa Regional Medical Center Changes its name to OSU Medical Center". Oklahoma State University. 2007. Archived from the original on 2007-10-13. Retrieved 2007-08-02. 
+^ "Basic Biomedical Research in the OSU College of Osteopathic Medicine". Oklahoma State University. Archived from the original on September 1, 2006. Retrieved 2007-08-02. 
+^ a b "2011 Top Media Outlets: Newspapers, Blogs, Consumer Magazines & Social Network" (PDF). BurrellesLuce. 2011. Retrieved 2011-10-17. 
+^ "Local Television Market Universe Estimates Comparisons of 2008–09 and 2009–10 Market Ranks" (PDF). Nielsen Media. Retrieved 2011-10-17. 
+^ "Historical Highlights of Television in Tulsa, Oklahoma". Tulsa TV History. Retrieved 2007-08-06. 
+^ "U.S. Television Stations in Oklahoma". Global Computing. 2007. Retrieved 2007-08-06. 
+^ a b "History of Newspapers in Oklahoma". Oklahoma Historical Society. Retrieved 2007-08-06. 
+^ "Oklahoma Fun Facts". Legends of America. 2007. Archived from the original on November 7, 2006. Retrieved 2007-08-06. 
+^ "Complete List of Radio Stations in the State of OK". On the Radio.net. 2006. Retrieved 2007-08-06. 
+^ Federal Communications Commission. "Call Sign History". Retrieved 2010-05-16. 
+^ a b "Transportation in Oklahoma City". Oklahoma City Chamber of Commerce. 2007. Retrieved 2007-08-02. 
+^ "Route 66 – Facts and Trivia". Legends of America. 2007. Retrieved 2007-08-02. 
+^ "2008 Annual Average Daily Traffic" (PDF). Oklahoma Department of Transportation. 2008. Retrieved 2011-09-28. 
+^ "Deficient Bridges by State and Highway System". United States Department of Transportation – Federal Highway Administration. 2010. Retrieved 2011-09-28. 
+^ S. Spacek, 2011 American State Litter Scorecard: New Rankings for an Increasingly Environmentally Concerned Populace.
+^ "Aviation Activity Report December 2010". Oklahoma City Airport Authority. 2010. Retrieved 2011-09-30. 
+^ "Passenger Boarding (Enplanement) and All-Cargo Data for U.S. Airports" (PDF). Federal Aviation Administration. 2010. Retrieved 2011-09-30. 
+^ "Tulsa International Airport – Airline Information". Tulsa Airport Authority. 2007. Retrieved 2007-08-02. 
+^ "Will Rogers World Airports – Airline Information". Oklahoma City Airport Authority. 2004. Retrieved 2007-08-02. 
+^ "Riverside Jones Airport". Tulsa Airport Authority. 2007. Retrieved 2011-09-30. 
+^ "Airports of Oklahoma". Oklahoma Airport Operators Association. Archived from the original on August 16, 2007. Retrieved 2007-08-02. 
+^ Barber, Brian. "Federal matching funds may help bring Amtrak to Tulsa". Tulsa World. Retrieved 2007-08-02. 
+^ "Live in Tulsa". Tulsa Chamber of Commerce. 2005. Archived from the original on May 25, 2007. Retrieved 2007-07-14. 
+^ a b "What's new at the port?". Tulsa Port Authority. Retrieved 2007-07-30. 
+^ "State Government – Oklahoma". GoveEngine.com. 2006. Retrieved 2007-07-31. 
+^ "Current Registration Statistics by County". State of Oklahoma. January 15, 2013. Retrieved May 21, 2013. 
+^ "The Execution State?". Oklahoma Watch. 2013-02-21. Retrieved 2013-07-10. 
+^ a b "Oklahoma State Government". Netstate. 2007-06-07. Retrieved 2007-08-01. 
+^ "Legislative Longevity Limits". U.S. Term Limits. Retrieved 2007-08-09. 
+^ "Report of the Governor's Commission on Government Performance". Governor's Commission. 1995-12-01. Archived from the original on August 16, 2007. Retrieved 2007-08-06. 
+^ "List of County Officers". Government of Oklahoma. 2006-01-06. Retrieved 2007-08-01. 
+^ a b "Oklahoma Municipal Government" (PDF). Oklahoma Department of Libraries. 2005. Retrieved 2007-08-07. 
+^ Diehl, Don (2007-07-24). "Metro About Jenks population figures ... doubled in size since 2000 census". Neighbor Newspapers. Retrieved 2007-08-01. 
+^ Henry, Robert (1989-03-22). "Oklahoma Attorney General's Opinions: Question Submitted by: The Honorable Enoch Kelly Haney, Oklahoma State Senate". The Oklahoma State Courts Network. Retrieved 2007-08-21. 
+^ Robertson, Lindsay (2001). "Native Americans and the Law: Native Americans Under Current United States Law". University of Oklahoma. Retrieved 2007-08-21. 
+^ Leip, David. "Presidential General Election Results Comparison – Oklahoma". US Election Atlas. Retrieved December 29, 2009. 
+^ "Registration by Party as of January 15, 2011" (PDF). Oklahoma State Election Board. Retrieved 2011-02-17. 
+^ a b "Oklahoma QuickFacts from the US Census Bureau". Quickfacts.census.gov. 2013-01-24. Retrieved 2013-02-06. 
+^ a b Oklahoma Department of Commerce. "2000–2010 Oklahoma Incorporated Place Populations" (xls). Retrieved 2011-10-09. 
+^ "P1 Total Population All Metropolitan and Micropolitan Statistical Areas (or parts) within Oklahoma". US Census Bureau. 2010. Retrieved 2011-10-09. 
+^ a b "Oklahoma Census Data Center News" (PDF). Oklahoma Department of Commerce. July 2007. Retrieved 2007-07-31. 
+^ Resident Population Data. "Resident Population Data – 2010 Census". 2010.census.gov. Retrieved December 24, 2012. 
+^ "Oklahoma - Race and Hispanic Origin: 1890 to 1990". U.S. Census Bureau. Retrieved 2012-04-15. 
+^ Exner, Rich (June 3, 2012). "Americans under age 1 now mostly minorities, but not in Ohio: Statistical Snapshot". The Plain Dealer. 
+^ "State Fact Sheets: Oklahoma". Economic Research Service. United States Department of Agriculture. 2009-12-09. Retrieved 2010-03-28. 
+^ "Oklahoma – Selected Social Characteristics". United States Census Bureau. 2005. Retrieved 2007-08-19. 
+^ a b "The American Indian and Alaska Native Population: 2000" (PDF). United States Census Bureau. 2002. Retrieved 2007-08-05. 
+^ "Oklahoma QuickFacts from the US Census Bureau". State & County QuickFacts. U.S. Census Bureau. 2006-01-12. Retrieved 2008-07-10. 
+^ David Hackett Fischer, Albion's Seed: Four British Folkways in America, New York: Oxford University Press, 1989, pp.602–645
+^ Sharing the Dream: White Males in a Multicultural America By Dominic J. Pulera.
+^ "Immigration Impact:Oklahoma". Federation for American Immigration Reform. Archived from the original on October 29, 2007. Retrieved 2007-11-17. 
+^ "National Selected Social Characteristics". U.S. Census Bureau. 2005. Retrieved 2007-08-05. 
+^ "2010 Census Centers of Population by State". U.S. Census Bureau. 2010. Retrieved September 17, 2011. 
+^ "More or Less". Oklahoma Chamber of Commerce. Oklahoma Chamber of Commerce. 2007. Retrieved 2007-08-05. 
+^ "Per capita income in Tulsa County highest in state". Tulsa World. 2012-11-27. Retrieved 2013-02-06. 
+^ a b http://www.ok.gov/elections/documents/reg_0112.pdf
+^ Bram, Thursday. "Jewish Life in the Bible Belt". New Voices Magazine. Archived from the original on 2007-01-21. Retrieved 2007-08-05. 
+^ Sherman, Bill (2007-04-29). "Minister’s book plunges into cultural issues". Tulsa World. Retrieved 2007-08-05. 
+^ a b c "U.S. Religious Landscapes Survey". The Pew Forum on Religion and Life. Retrieved 2008-04-22. 
+^ a b c "State Membership Report – Oklahoma". Association of Religion Data Archives. Retrieved 2007-08-05. 
+^ "USA-Oklahoma - LDS Statistics and Church Facts | Total Church Membership". Mormonnewsroom.org. 2011-12-31. Retrieved 2013-02-06. 
+^ "New Oklahoma Quarter Launches into History". United States Mint. Retrieved 2008-02-09. 
+^ "OCIS Document Index". The Oklahoma Supreme Court Network. Retrieved 2007-05-11. 
+^ "Oklahoma State Icons". Oklahoma Department of Libraries. Retrieved 2007-05-11. 
+^ Oklahoma Statutes, §25-98.8
+^ Okla. Stat. tit. 25, § 3–98.15
+^ "Oklahoma State Fossil". State fossils. Archived from the original on February 20, 2007. Retrieved 2007-01-20. 
+^ John Benson, (April 28, 2009). "Flaming Lips prepare for Oklahoma honor". Reuters. 
+
+
+Further reading[edit]
+
+Baird, W. David; and Danney Goble (1994). The Story of Oklahoma. Norman: University of Oklahoma Press. ISBN 0-8061-2650-7. 
+Dale, Edward Everett; and Morris L. Wardell (1948). History of Oklahoma. New York: Prentice-Hall. 
+Gibson, Arrell Morgan (1981). Oklahoma: A History of Five Centuries (2nd ed.). Norman: University of Oklahoma Press. ISBN 0-8061-1758-3. 
+Goble, Danney (1980). Progressive Oklahoma: The Making of a New Kind of State. Norman: University of Oklahoma Press. ISBN 0-8061-1510-6. 
+Jones, Stephen (1974). Oklahoma Politics in State and Nation (vol. 1 (1907–62) ed.). Enid, Okla.: Haymaker Press. 
+Joyce, Davis D. (ed.) (1994). An Oklahoma I Had Never Seen Before: Alternative Views of Oklahoma History. Norman: University of Oklahoma Press. ISBN 0-8061-2599-3. 
+Morgan, Anne Hodges; and H. Wayne Morgan (eds.) (1982). Oklahoma: New Views of the Forty-sixth State. Norman: University of Oklahoma Press. ISBN 0-8061-1651-X. 
+Morgan, David R.; Robert E. England, and George G. Humphreys (1991). Oklahoma Politics and Policies: Governing the Sooner State. Lincoln: University of Nebraska Press. ISBN 0-8032-3106-7. 
+Morris, John W.; Charles R. Goins, and Edwin C. McReynolds (1986). Historical Atlas of Oklahoma (3rd ed.). Norman: University of Oklahoma Press. ISBN 0-8061-1991-8. 
+Wishart, David J. (ed.) (2004). Encyclopedia of the Great Plains. Lincoln: University of Nebraska Press. ISBN 0-8032-4787-7.  complete text online; 900 pages of scholarly articles
+
+External links[edit]
+
+
+Find more about Oklahoma at Wikipedia's sister projects
+
+
+
+Definitions and translations from Wiktionary
+
+
+
+Media from Commons
+
+
+
+Learning resources from Wikiversity
+
+
+
+Quotations from Wikiquote
+
+
+
+Source texts from Wikisource
+
+
+
+Textbooks from Wikibooks
+
+
+
+Travel guide from Wikivoyage
+
+
+
+General
+
+
+Oklahoma at the Open Directory Project
+
+
+Festival and Fairs
+
+
+The Castle of Muskogee
+
+
+Government
+
+
+Oklahoma's official web site
+Oklahoma Legislative Branch
+Oklahoma Judicial Branch
+Oklahoma State Constitution
+Oklahoma Department of Commerce
+Oklahoma Department of Human Services
+Oklahoma Department of Transportation
+
+
+Tourism and recreation
+
+
+Oklahoma Tourism Board
+Official Oklahoma Tourism Info
+Oklahoma State Parks
+Oklahoma City Convention and Visitors Bureau
+Norman Convention and Visitors Bureau
+Tulsa Convention and Visitors Bureau
+
+
+Culture and history
+
+
+Oklahoma Historical Society
+Oklahoma History Center
+Oklahoma State Guide from the Library of Congress
+Oklahoma Arts Council
+Oklahoma Theatre Association
+Oklahoma City History
+Tulsa Historical Society
+
+
+Newspapers
+
+
+The Oklahoman Newspaper
+The Tulsa World Newspaper
+
+
+Maps and demographics
+
+
+Oklahoma QuickFacts Geographic and Demographic information
+2000 Census Oklahoma Demographics Information
+State highway maps
+Oklahoma Genealogical Society
+Realtime USGS geographic, weather, and geologic information
+ Geographic data related to Oklahoma at OpenStreetMap
+Oklahoma Digital Maps: Digital Collections of Oklahoma and Indian Territory
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+ State of Oklahoma
+
+
+
+
+
+
+
+
+Oklahoma City (capital)
+
+
+
+
+
+
+
+Topics
+
+
+
+History
+Government
+Governor (List)
+Symbols
+People
+Geography
+Sports
+Visitor attractions
+
+
+
+
+
+
+
+
+Society
+
+
+
+Culture
+Crime
+Demographics
+Economy
+Education
+Politics
+
+
+
+
+
+
+
+
+Regions
+
+
+
+Arklatex
+Central
+Cherokee Outlet
+Cross Timbers
+Four State Area
+Flint Hills
+Green Country
+Kiamichi Country
+Little Dixie
+Northwestern
+Oklahoma City Metro
+Ouachita Mountains
+The Ozarks
+Panhandle
+South Central
+Southwestern
+Tulsa Metro
+
+
+
+
+
+
+
+
+Largest cities
+
+
+
+Ardmore
+Bartlesville
+Bixby
+Broken Arrow
+Del City
+Duncan
+Edmond
+Enid
+Lawton
+Midwest City
+Muskogee
+Moore
+Norman
+Oklahoma City
+Owasso
+Ponca City
+Shawnee
+Stillwater
+Tulsa
+Yukon
+
+
+
+
+
+
+
+
+Counties
+
+
+
+Adair
+Alfalfa
+Atoka
+Beaver
+Beckham
+Blaine
+Bryan
+Caddo
+Canadian
+Carter
+Cherokee
+Choctaw
+Cimarron
+Cleveland
+Coal
+Comanche
+Cotton
+Craig
+Creek
+Custer
+Delaware
+Dewey
+Ellis
+Garfield
+Garvin
+Grady
+Grant
+Greer
+Harmon
+Harper
+Haskell
+Hughes
+Jackson
+Jefferson
+Johnston
+Kay
+Kingfisher
+Kiowa
+Latimer
+Le Flore
+Lincoln
+Logan
+Love
+Major
+Marshall
+Mayes
+McClain
+McCurtain
+McIntosh
+Murray
+Muskogee
+Noble
+Nowata
+Okfuskee
+Oklahoma
+Okmulgee
+Osage
+Ottawa
+Pawnee
+Payne
+Pittsburg
+Pontotoc
+Pottawatomie
+Pushmataha
+Roger Mills
+Rogers
+Seminole
+Sequoyah
+Stephens
+Texas
+Tillman
+Tulsa
+Wagoner
+Washington
+Washita
+Woods
+Woodward
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Political divisions of the United States
+
+
+
+
+
+
+States
+
+
+
+Alabama
+Alaska
+Arizona
+Arkansas
+California
+Colorado
+Connecticut
+Delaware
+Florida
+Georgia
+Hawaii
+Idaho
+Illinois
+Indiana
+Iowa
+Kansas
+Kentucky
+Louisiana
+Maine
+Maryland
+Massachusetts
+Michigan
+Minnesota
+Mississippi
+Missouri
+Montana
+Nebraska
+Nevada
+New Hampshire
+New Jersey
+New Mexico
+New York
+North Carolina
+North Dakota
+Ohio
+Oklahoma
+Oregon
+Pennsylvania
+Rhode Island
+South Carolina
+South Dakota
+Tennessee
+Texas
+Utah
+Vermont
+Virginia
+Washington
+West Virginia
+Wisconsin
+Wyoming
+
+
+
+
+
+
+
+
+Federal district
+
+
+Washington, D.C.
+
+
+
+
+
+
+
+Insular areas
+
+
+
+American Samoa
+Guam
+Northern Mariana Islands
+Puerto Rico
+U.S. Virgin Islands
+
+
+
+
+
+
+
+
+Outlying islands
+
+
+
+Baker Island
+Howland Island
+Jarvis Island
+Johnston Atoll
+Kingman Reef
+Midway Atoll
+Navassa Island
+Palmyra Atoll
+Wake Island
+
+
+
+
+
+
+
+
+Indian reservations
+
+
+
+List of Indian reservations in the United States
+
+Largest
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+United States topics
+
+
+
+
+
+
+History
+
+
+
+
+Timeline
+
+
+
+Pre-Columbian era
+Colonial era
+
+Thirteen Colonies
+Colonial American military history
+
+
+American Revolution
+
+War
+
+
+American frontier
+Federalist Era
+War of 1812
+Territorial acquisitions
+Territorial evolution
+Mexican–American War
+Civil War
+Reconstruction Era
+Indian Wars
+Gilded Age
+Progressive Era
+African-American Civil Rights Movement (1896–1954)
+Spanish–American War
+Imperialism
+World War I
+Roaring Twenties
+Great Depression
+World War II
+
+Home front
+
+
+Cold War
+Korean War
+Space Race
+African-American Civil Rights Movement (1955–68)
+Feminist Movement
+Vietnam War
+Post-Cold War (1991–present)
+War on Terror
+
+War in Afghanistan
+Iraq War
+War in North-West Pakistan
+
+
+Timeline of modern American conservatism
+
+
+
+
+
+
+
+
+By topic
+
+
+
+Demographic
+Discoveries
+Economic
+
+Debt Ceiling
+
+
+Inventions
+
+before 1890
+1890–1945
+1946–1991
+after 1991
+
+
+Military
+Postal
+Technological and industrial
+
+
+
+
+
+
+
+
+
+
+
+Geography
+
+
+
+
+
+
+
+Cities, towns, and villages
+Counties
+Extreme points
+Islands
+Mountains
+
+Peaks
+Appalachian
+Rocky
+
+
+National Park System
+Regions
+
+West Coast
+East Coast
+Great Plains
+Mid-Atlantic
+Midwestern
+New England
+Northwestern
+Northeastern
+Southwestern
+Southeastern
+Western
+Eastern
+Northern
+Southern
+Pacific
+
+
+Rivers
+
+Colorado
+Columbia
+Mississippi
+Missouri
+Ohio
+Rio Grande
+
+
+States
+Territory
+Water supply and sanitation
+
+
+
+
+
+
+
+
+
+
+
+Governance
+
+
+
+
+
+
+
+
+Federal
+
+
+
+
+Executive
+
+
+
+President
+
+Executive Office
+
+
+Cabinet / Executive departments
+Civil service
+Independent agencies
+Law enforcement
+Public policy
+
+
+
+
+
+
+
+
+Legislature
+
+
+
+Congress
+
+Senate
+
+Vice President
+President pro tem
+
+
+House of Representatives
+
+Speaker
+
+
+
+
+
+
+
+
+
+
+
+
+Judiciary
+
+
+
+Supreme Court
+Federal courts
+Courts of appeals
+District courts
+
+
+
+
+
+
+
+
+Law
+
+
+
+Constitution
+
+Federalism
+Preemption
+Separation of powers
+
+
+Bill of Rights
+
+Civil liberties
+
+
+Code of Federal Regulations
+Federal Reporter
+United States Code
+United States Reports
+
+
+
+
+
+
+
+
+Intelligence
+
+
+
+Central Intelligence Agency
+Defense Intelligence Agency
+National Security Agency
+Federal Bureau of Investigation
+
+
+
+
+
+
+
+
+Uniformed
+
+
+
+Armed Forces
+
+Air Force
+Army
+Marine Corps
+Navy
+National Guard
+
+
+Coast Guard
+NOAA Corps
+Public Health Service Corps
+
+
+
+
+
+
+
+
+
+
+
+Politics
+
+
+
+Administrative divisions
+Elections
+
+Electoral College
+
+
+Foreign policy
+Foreign relations
+Ideologies
+Local governments
+Parties
+
+Democratic Party
+Republican Party
+Third parties
+
+
+51st state
+
+Political status of Puerto Rico
+
+
+Red states and blue states
+Scandals
+State governments
+Uncle Sam
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Economy
+
+
+
+
+
+
+
+Economic issues
+Agriculture
+Banking
+Communications
+Companies
+
+by state
+
+
+Dollar (currency)
+Energy
+Federal Budget
+Federal Reserve System
+Financial position
+Insurance
+Labor unions
+Mining
+Public debt
+Social welfare programs
+Taxation
+Tourism
+Trade
+Transportation
+Unemployment
+Wall Street
+
+
+
+
+
+
+
+
+
+
+
+Society
+
+
+
+
+
+
+
+
+By topic
+
+
+
+Crime
+Demographics
+Education
+Family structure
+Health care
+Health insurance
+Incarceration
+Languages
+
+American English
+Spanish
+French
+German
+
+
+Media
+People
+Public holidays
+Religion
+Sports
+
+
+
+
+
+
+
+
+Social class
+
+
+
+Affluence
+American Dream
+Educational attainment
+Homelessness
+Homeownership
+Household income
+Income inequality
+Middle class
+Personal income
+Poverty
+Professional and working class conflict
+Standard of living
+Smoking
+Wealth
+
+
+
+
+
+
+
+
+Issues
+
+
+
+Abortion
+Affirmative action
+Anti-Americanism
+Capital punishment
+Discrimination
+Drug policy
+Energy policy
+Environmental movement
+Exceptionalism
+Gun politics
+Health care reform
+Human rights
+Immigration
+Illegal Immigration
+International rankings
+LGBT rights
+
+Same-sex marriage
+
+
+Nationalism
+Obesity
+Racism
+Separation of church and state
+Terrorism
+
+
+
+
+
+
+
+
+Culture
+
+
+
+Architecture
+Art
+Cinema
+Cuisine
+Dance
+Fashion
+Flag
+Folklore
+Literature
+Music
+Philosophy
+Radio
+Television
+Theater
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Outline
+Index
+
+
+
+
+
+
+
+
+
+
+
+Book
+Category
+Portal
+WikiProject
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Preceded by
+Utah
+List of U.S. states by date of statehood
+Admitted on November 16, 1907 (46th)
+Succeeded by
+New Mexico
+
+
+
+Coordinates: 35°30′N 98°00′W﻿ / ﻿35.5°N 98°W﻿ / 35.5; -98
+
+
+
+ 
+NewPP limit report
+CPU time usage: 7.432 seconds
+Real time usage: 8.404 seconds
+Preprocessor visited node count: 23593/1000000
+Preprocessor generated node count: 93616/1500000
+Post‐expand include size: 597801/2048000 bytes
+Template argument size: 113904/2048000 bytes
+Highest expansion depth: 25/40
+Expensive parser function count: 42/500
+Lua time usage: 0.726s
+Lua memory usage: 2.96 MB
+
+
+ Saved in parser cache with key enwiki:pcache:idhash:22489-0!*!0!!en!4!* and timestamp 20131001180249 
+								
+				Retrieved from "http://en.wikipedia.org/w/index.php?title=Oklahoma&oldid=575192418"				
+												Categories: OklahomaStates of the United StatesStates and territories established in 1907Southern United StatesHidden categories: All articles with dead external linksArticles with dead external links from April 2012All articles with unsourced statementsArticles with unsourced statements from August 2013Use mdy dates from October 2011Wikipedia indefinitely move-protected pagesArticles including recorded pronunciationsArticles containing potentially dated statements from 2008All articles containing potentially dated statementsFeatured articles												
+							
+		
+		
+			Navigation menu
+			
+				
+	Personal tools
+	
+Create accountLog in	
+
+				
+					
+	Namespaces
+	
+					Article
+					Talk
+			
+
+
+	
+		
+	Variants
+	
+		
+					
+	
+
+				
+				
+					
+	Views
+	
+					Read
+					Edit
+					View history
+			
+
+
+	Actions
+	
+		
+					
+	
+
+
+	Search
+	
+				
+																				
+		
+	
+
+				
+			
+			
+					
+				
+	Navigation
+	
+		
+			Main page
+			Contents
+			Featured content
+			Current events
+			Random article
+			Donate to Wikipedia
+		
+	
+
+
+	Interaction
+	
+		
+			Help
+			About Wikipedia
+			Community portal
+			Recent changes
+			Contact page
+		
+	
+
+
+	Toolbox
+	
+		
+			What links here
+			Related changes
+			Upload file
+			Special pages
+			Permanent link
+			Page information
+			Data item
+Cite this page		
+	
+
+
+	Print/export
+	
+		
+			Create a book
+			Download as PDF
+			Printable version
+		
+	
+
+
+	Languages
+	
+		
+			Afrikaans
+			አማርኛ
+			Ænglisc
+			العربية
+			Aragonés
+			ܐܪܡܝܐ
+			Arpetan
+			Asturianu
+			Avañe'ẽ
+			Aymar aru
+			Azərbaycanca
+			বাংলা
+			Bân-lâm-gú
+			Беларуская
+			Беларуская (тарашкевіца)‎
+			Bikol Central
+			Bislama
+			Български
+			Boarisch
+			Bosanski
+			Brezhoneg
+			Català
+			Чӑвашла
+			Česky
+			Corsu
+			Cymraeg
+			Dansk
+			Deitsch
+			Deutsch
+			Diné bizaad
+			Eesti
+			Ελληνικά
+			Español
+			Esperanto
+			Euskara
+			فارسی
+			Fiji Hindi
+			Føroyskt
+			Français
+			Frysk
+			Gaeilge
+			Gaelg
+			Gagauz
+			Gàidhlig
+			Galego
+			ગુજરાતી
+			客家語/Hak-kâ-ngî
+			Хальмг
+			한국어
+			Hawai`i
+			Հայերեն
+			हिन्दी
+			Hrvatski
+			Ido
+			Igbo
+			Ilokano
+			বিষ্ণুপ্রিয়া মণিপুরী
+			Bahasa Indonesia
+			Interlingua
+			Interlingue
+			ᐃᓄᒃᑎᑐᑦ/inuktitut
+			Iñupiak
+			Ирон
+			Íslenska
+			Italiano
+			עברית
+			Basa Jawa
+			ಕನ್ನಡ
+			Kapampangan
+			ქართული
+			Kernowek
+			Kiswahili
+			Kreyòl ayisyen
+			Kurdî
+			Кырык мары
+			Ladino
+			Latina
+			Latviešu
+			Lëtzebuergesch
+			Lietuvių
+			Ligure
+			Limburgs
+			Lumbaart
+			Magyar
+			Македонски
+			Malagasy
+			മലയാളം
+			Māori
+			मराठी
+			مصرى
+			مازِرونی
+			Bahasa Melayu
+			Монгол
+			မြန်မာဘာသာ
+			Nāhuatl
+			Nederlands
+			Nedersaksies
+			日本語
+			Nordfriisk
+			Norsk bokmål
+			Norsk nynorsk
+			Occitan
+			Oʻzbekcha
+			ਪੰਜਾਬੀ
+			پنجابی
+			Piemontèis
+			Plattdüütsch
+			Polski
+			Português
+			Română
+			Rumantsch
+			Runa Simi
+			Русский
+			Саха тыла
+			Sámegiella
+			संस्कृतम्
+			Scots
+			Shqip
+			Sicilianu
+			Simple English
+			Slovenčina
+			Slovenščina
+			Ślůnski
+			کوردی
+			Српски / srpski
+			Srpskohrvatski / српскохрватски
+			Suomi
+			Svenska
+			Tagalog
+			தமிழ்
+			Татарча/tatarça
+			తెలుగు
+			ไทย
+			ᏣᎳᎩ
+			Tsetsêhestâhese
+			Türkçe
+			Українська
+			اردو
+			ئۇيغۇرچە / Uyghurche
+			Tiếng Việt
+			Volapük
+			Winaray
+			ייִדיש
+			Yorùbá
+			粵語
+			Zazaki
+			Žemaitėška
+			中文
+			
+			Edit links
+		
+	
+
+			
+		
+		
+							
+											 This page was last modified on 30 September 2013 at 20:38.
+											Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. 
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+									
+							
+											Privacy policy
+											About Wikipedia
+											Disclaimers
+											Contact Wikipedia
+											Developers
+											Mobile view
+									
+										
+					
+						
+					
+					
+						
+					
+				
+						
+		
+		
+
+
+ Served by mw1164 in 0.235 secs. 
+	
+if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Oklahoma","wgTitle":"Oklahoma","wgCurRevisionId":575192418,"wgArticleId":22489,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["All articles with dead external links","Articles with dead external links from April 2012","All articles with unsourced statements","Articles with unsourced statements from August 2013","Use mdy dates from October 2011","Wikipedia indefinitely move-protected pages","Articles including recorded pronunciations","Articles containing potentially dated statements from 2008","All articles containing potentially dated statements","Featured articles","Oklahoma","States of the United States","States and territories established in 1907","Southern United States"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Oklahoma","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":["sysop"],"wgVectorEnabledModules":{"collapsiblenav":true,"experiments":true},"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"templateEditor":false,"templates":false,"preview":false,"previewDialog":false,"publish":false,"toc":false},"wgArticleFeedbackv5Permissions":{"aft-reader":true,"aft-member":false,"aft-editor":false,"aft-monitor":false,"aft-administrator":false,"aft-oversighter":false,"aft-noone":false},"wgVisualEditor":{"isPageWatched":false,"magnifyClipIconURL":"//bits.wikimedia.org/static-1.22wmf18/skins/common/images/magnify-clip.png","pageLanguageCode":"en","pageLanguageDir":"ltr"},"wikilove-recipient":"","wikilove-anon":0,"wgGuidedTourHelpGuiderUrl":"Help:Guided tours/guider","wgULSAcceptLanguageList":["en-us"],"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia","aftv5Article":{"id":22489,"title":"Oklahoma","namespace":0,"categories":["All articles containing potentially dated statements","All articles with dead external links","All articles with unsourced statements","Articles containing potentially dated statements from 2008","Articles including recorded pronunciations","Articles with dead external links from April 2012","Articles with unsourced statements from August 2013","Featured articles","Oklahoma","Southern United States","States and territories established in 1907","States of the United States","Use mdy dates from October 2011","Wikipedia indefinitely move-protected pages"],"permissionLevel":false},"wgWikibaseItemId":"Q1649"});
+}if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":false,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,
+"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"useeditwarning":1,"prefershttps":1,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"vector-simplesearch":1,"vector-collapsiblenav":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"aftv5-last-filter":null,"visualeditor-enable":0,"visualeditor-enable-experimental":0,"visualeditor-betatempdisable":0,"wikilove-enabled":1,"echo-subscriptions-web-page-review":true,"echo-subscriptions-email-page-review":false,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"echo-notify-show-link":true,"echo-show-alert":true,"echo-email-frequency":0,"echo-email-format":"html","echo-subscriptions-email-system":true,"echo-subscriptions-web-system":true,"echo-subscriptions-email-other":false,"echo-subscriptions-web-other":true,"echo-subscriptions-email-edit-user-talk":false,"echo-subscriptions-web-edit-user-talk":true,
+"echo-subscriptions-email-reverted":false,"echo-subscriptions-web-reverted":true,"echo-subscriptions-email-article-linked":false,"echo-subscriptions-web-article-linked":false,"echo-subscriptions-email-mention":false,"echo-subscriptions-web-mention":true,"echo-subscriptions-web-edit-thank":true,"echo-subscriptions-email-edit-thank":false,"gettingstarted-task-toolbar-show-intro":true,"uls-preferences":"","language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs446":false,"searchNs447":false
+,"searchNs710":false,"searchNs711":false,"searchNs828":false,"searchNs829":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-mySandbox":1,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:156d8fe0ae17f8afd74198057563e45d */
+}if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","ext.visualEditor.viewPageTarget.init","ext.wikimediaShopLink.core","ext.uls.init","ext.uls.interface","wikibase.client.init","ext.centralNotice.bannerController","skins.vector.js"]);
+}/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}if(window.mw){
+mw.loader.load(["mobile.desktop","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.cite","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","mw.MwEmbedSupport.style","ext.vector.collapsibleNav","ext.articleFeedbackv5.startup","ext.gettingstarted.logging","ext.gettingstarted.openTask","schema.HttpsSupport","ext.coreEvents.httpsSupport","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","mw.PopUpMediaTransform"],null,true);
+}

@@ -1,0 +1,540 @@
+
+
+
+Acrocanthosaurus - Wikipedia, the free encyclopedia
+
+
+
+
+
+
+
+
+
+
+
+
+a:lang(ar),a:lang(ckb),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:0de201fdea5d684523607ed88007b127 */
+
+
+
+
+[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.22wmf18/skins/vector/csshover.min.htc")}</style><![endif]
+
+		
+		
+		
+			
+			
+						 CentralNotice 
+						Acrocanthosaurus
+			
+								From Wikipedia, the free encyclopedia
+								
+												
+					Jump to:					navigation, 					search
+				
+				
+
+
+Acrocanthosaurus
+Temporal range: Early Cretaceous Aptian to Albian, 116–110Ma
+
+PreЄ
+Є
+O
+S
+D
+C
+P
+T
+J
+K
+Pg
+N
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mounted Acrocanthosaurus skeleton (NCSM 14345) at the North Carolina Museum of Natural Sciences.
+
+
+Scientific classification 
+
+
+Kingdom:
+Animalia
+
+
+Phylum:
+Chordata
+
+
+Clade:
+Sauropsida
+
+
+Clade:
+Dinosauria
+
+
+Clade:
+Theropoda
+
+
+Clade:
+†Carnosauria
+
+
+Family:
+†Carcharodontosauridae
+
+
+Genus:
+†Acrocanthosaurus
+Stovall & Langston, 1950
+
+
+Species
+
+
+
+
+†A. atokensis Stovall & Langston, 1950 (type)
+
+
+
+
+Synonyms
+
+
+
+
+"Acracanthus" Langston vide Czaplewski, Cifelli, & Langston, W.R., 1994 (nomen nudum)
+
+
+
+
+
+Acrocanthosaurus (/ˌækrɵˌkænθɵˈsɔrəs/ ak-rə-KAN-thə-SOR-əs; meaning "high-spined lizard") is a genus of theropod dinosaur that existed in what is now North America during the Aptian and early Albian stages of the Early Cretaceous. Like most dinosaur genera, Acrocanthosaurus contains only a single species, A. atokensis. Its fossil remains are found mainly in the U.S. states of Oklahoma, Texas, and Wyoming, although teeth attributed to Acrocanthosaurus have been found as far east as Maryland.
+Acrocanthosaurus was a bipedal predator. As the name suggests, it is best known for the high neural spines on many of its vertebrae, which most likely supported a ridge of muscle over the animal's neck, back and hips. Acrocanthosaurus was one of the largest theropods, approaching 12 meters (40 ft) in length, and weighing up to 6.2 tonnes (6.8 short tons).[1] Large theropod footprints discovered in Texas may have been made by Acrocanthosaurus, although there is no direct association with skeletal remains.
+Recent discoveries have elucidated many details of its anatomy, allowing for specialized studies focusing on its brain structure and forelimb function. Acrocanthosaurus was the largest theropod in its ecosystem and likely an apex predator which possibly preyed on large sauropods and ornithopods.
+
+
+Contents
+
+
+1 Description
+2 Classification and systematics
+3 Discovery and naming
+4 Paleobiology
+
+4.1 Forelimb function
+4.2 Brain and inner ear structure
+4.3 Possible footprints
+4.4 Pathology
+
+
+5 Paleoecology
+6 References
+7 External links
+
+
+Description[edit]
+
+
+
+
+Relative sizes of Acrocanthosaurus and a human
+
+
+Although slightly smaller than gigantic relatives like Giganotosaurus, Acrocanthosaurus was still among the largest theropods ever to exist. The largest known specimen (NCSM 14345) is estimated to have measured 11.5 meters (38 ft)[1] from snout to tail tip and weighed 5.7 t (6.3 short tons)[2] to 6.2 t (6.8 short tons),[1] though Bates et al. (2009) noted that a weight of 7 t (7.7 short tons) is not impossible for this specimen.[1] Its skull alone was nearly 1.3 meters (4.3 ft) in length.[3]
+The skull of Acrocanthosaurus, like most other allosauroids, was long, low and narrow. The weight-reducing opening in front of the eye socket (antorbital fenestra) was quite large, more than a quarter of the length of the skull and two-thirds of its height. The outside surface of the maxilla (upper jaw bone) and the upper surface of the nasal bone on the roof of the snout were not nearly as rough-textured as those of Giganotosaurus or Carcharodontosaurus. Long, low ridges arose from the nasal bones, running along each side of the snout from the nostril back to the eye, where they continued onto the lacrimal bones.[3] This is a characteristic feature of all allosauroids.[4] Unlike Allosaurus, there was no prominent crest on the lacrimal bone in front of the eye. The lacrimal and postorbital bones met to form a thick brow over the eye, as seen in carcharodontosaurids and the unrelated abelisaurids. Nineteen curved, serrated teeth lined each side of the upper jaw, but a tooth count for the lower jaw has not been published. Acrocanthosaurus teeth were wider than those of Carcharodontosaurus and did not have the wrinkled texture that characterized the carcharodontosaurids. The dentary (tooth-bearing lower jaw bone) was squared off at the front edge, as in Giganotosaurus, and shallow, while the rest of the jaw behind it became very deep. Acrocanthosaurus and Giganotosaurus shared a thick horizontal ridge on the outside surface of the surangular bone of the lower jaw, underneath the articulation with the skull.[3]
+
+
+
+
+Artist's impression of a pair of acrocanthosaurs on the move
+
+
+The most notable feature of Acrocanthosaurus was its row of tall neural spines, located on the vertebrae of the neck, back, hips and upper tail, which could be more than 2.5 times the height of the vertebrae from which they extended.[5] Other dinosaurs also had high spines on the back, sometimes much higher than those of Acrocanthosaurus. For instance, the unrelated Spinosaurus had spines nearly 2 meters (6.5 ft) tall, about 11 times taller than the bodies of its vertebrae.[6] The lower spines of Acrocanthosaurus had attachments for powerful muscles like those of modern bison, probably forming a tall, thick ridge down its back.[5] The function of the spines remains unknown, although they may have been involved in communication, fat storage, or temperature control. All of its cervical (neck) and dorsal (back) vertebrae had prominent depressions pleurocoels on the sides, while the caudal (tail) vertebrae bore smaller ones. This is more similar to carcharodontosaurids than to Allosaurus.[7]
+Aside from its vertebrae, Acrocanthosaurus had a typical allosauroid skeleton. Acrocanthosaurus was bipedal, with a long, heavy tail counterbalancing the head and body, maintaining its center of gravity over its hips. Its forelimbs were relatively shorter and more robust than those of Allosaurus but were otherwise similar: each hand bore three clawed digits. Unlike many smaller fast-running dinosaurs, its femur was longer than its tibia and metatarsals,[3][7] suggesting that Acrocanthosaurus was not a fast runner.[8] Unsurprisingly, the hind leg bones of Acrocanthosaurus were proportionally more robust than its smaller relative Allosaurus. Its feet had four digits each, although as is typical for theropods, the first was much smaller than the rest and did not make contact with the ground.[3][7]
+Classification and systematics[edit]
+
+
+
+
+Phylogram and comparison of body size optimization across Allosauroidea
+
+
+Acrocanthosaurus is classified in the superfamily Allosauroidea within the infraorder Tetanurae. This superfamily is characterized by paired ridges on the nasal and lacrimal bones on top of the snout and tall neural spines on the neck vertebrae, among other features.[4] It was originally placed in the family Allosauridae with Allosaurus,[5] an arrangement also supported by studies as late as 2000.[3] Most studies have found it to be a member of the related family Carcharodontosauridae.[4][9][10]
+At the time of its discovery, Acrocanthosaurus and most other large theropods were known from only fragmentary remains, leading to highly variable classifications for this genus. J. Willis Stovall and Wann Langston, Jr. first assigned it to the "Antrodemidae," the equivalent of Allosauridae, but it was transferred to the taxonomic wastebasket Megalosauridae by Alfred Sherwood Romer in 1956.[11] To other authors, the long spines on its vertebrae suggested a relationship with Spinosaurus.[12][13] This interpretation of Acrocanthosaurus as a spinosaurid persisted into the 1980s,[14] and was repeated in the semi-technical dinosaur books of the time.[15][16]
+Tall spined vertebrae from the Early Cretaceous of England were once considered to be very similar to those of Acrocanthosaurus,[17] and in 1988 Gregory S. Paul named them as a second species of the genus, A. altispinax.[18] These bones were originally assigned to Altispinax, an English theropod otherwise known only from teeth, and this assignment led to at least one author proposing that Altispinax itself was a synonym of Acrocanthosaurus.[17] These vertebrae were later assigned to the new genus Becklespinax, separate from both Acrocanthosaurus and Altispinax.[19]
+Most cladistic analyses including Acrocanthosaurus have found it to be a carcharodontosaurid, usually in a basal position relative to the African Carcharodontosaurus and Giganotosaurus from South America.[4][7][20] It has often been considered the sister taxon to the equally basal Eocarcharia, also from Africa. Neovenator, discovered in England, is often considered an even more basal carcharodontosaurid, or as a basal member of a sister group called Neovenatoridae.[8][10] This suggests that the family originated in Europe and then dispersed into the southern continents (at the time united as the supercontinent Gondwana). If Acrocanthosaurus was a carcharodontosaurid, then dispersal would also have occurred into North America.[7] All known carcharodontosaurids lived during the early-to-middle Cretaceous Period.[4]
+Discovery and naming[edit]
+Acrocanthosaurus is named for its tall neural spines, from the Greek ɑκρɑ/akra ('high'), ɑκɑνθɑ/akantha ('thorn' or 'spine') and σɑʊρος/sauros ('lizard').[21] There is one named species (A. atokensis), which is named after Atoka County in Oklahoma, where the original specimens were found. The name was coined in 1950 by American paleontologists J. Willis Stovall and Wann Langston, Jr.[5] Langston had proposed the name "Acracanthus atokaensis" for the genus and species in his unpublished 1947 master's thesis,[22][23] but the name was changed to Acrocanthosaurus atokensis for formal publication.
+
+
+
+
+Skull of NCSM 14345, North Carolina Museum of Natural Sciences
+
+
+The holotype and paratype (OMNH 10146 and OMNH 10147), discovered in the early 1940s and described at the same time in 1950, consist of two partial skeletons and a piece of skull material from the Antlers Formation in Oklahoma.[5] Two much more complete specimens were described in the 1990s. The first (SMU 74646) is a partial skeleton, missing most of the skull, recovered from the Twin Mountains Formation of Texas and currently part of the Fort Worth Museum of Science and History collection.[7] An even more complete skeleton (NCSM 14345, nicknamed 'Fran') was recovered from the Antlers Formation of Oklahoma by Cephis Hall and Sid Love, prepared by the Black Hills Institute in South Dakota, and is now housed at the North Carolina Museum of Natural Sciences in Raleigh. This specimen is the largest and includes the only known complete skull and forelimb.[3] Skeletal elements of OMNH 10147 are almost the same size as comparable bones in NCSM 14345, indicating an animal of roughly the same size, while the holotype and SMU 74646 are significantly smaller.[3]
+The presence of Acrocanthosaurus in the Cloverly Formation was established in 2012 with the description of another partial skeleton, UM 20796. This specimen, consisting of parts of two vertebrae, partial pubic bones, a femur, a partial fibula, and fragments, represents a juvenile animal. It came from a bonebed in the Bighorn Basin of north-central Wyoming, and was found near the shoulder blade of a Sauroposeidon. An assortment of other fragmentary theropod remains from the formation may also belong to Acrocanthosaurus, which may be the only large theropod in the Cloverly Formation.[24]
+Acrocanthosaurus may be known from less complete remains outside of Oklahoma, Texas, and Wyoming. A tooth from southern Arizona has been referred to the genus,[25] and matching tooth marks have been found in sauropod bones from the same area.[26] Several teeth from the Arundel Formation of Maryland have been described as almost identical to those of Acrocanthosaurus and may represent an eastern representative of the genus.[27] Many other teeth and bones from various geologic formations throughout the western United States have also been referred to Acrocanthosaurus, but most of these have been misidentified;[28] there is, however, some disagreement with this assessment regarding fossils from the Cloverly Formation.[24]
+Paleobiology[edit]
+Forelimb function[edit]
+Like those of most other non-avian theropods, Acrocanthosaurus forelimbs did not make contact with the ground and were not used for locomotion; instead they served a predatory function. The discovery of a complete forelimb (NCSM 14345) allowed the first analysis of the function and range of motion of the forelimb in Acrocanthosaurus.[29] The study examined the bone surfaces which would have articulated with other bones to determine how far the joints could move without dislocating. In many of the joints, the bones did not fit together exactly, indicating the presence of a considerable amount of cartilage in the joints, as is seen in many living archosaurs. Among other findings, the study suggested that, in a resting position, the forelimbs would have hung from the shoulders with the humerus angled backwards slightly, the elbow bent, and the claws facing medially (inwards).[29]
+
+
+
+
+Mounted Acrocanthosaurus skeleton in side view
+
+
+The shoulder of Acrocanthosaurus was limited in its range of motion compared to that of humans. The arm could not swing in a complete circle, but could retract (swing backwards) 109° from the vertical, so that the humerus could actually be angled slightly upwards. Protraction (swinging forwards) was limited to only 24° past the vertical. The arm was unable to reach a vertical position when adducting (swinging downwards), but could abduct (swing upwards) to 9° above horizontal. Movement at the elbow was also limited compared to humans, with a total range of motion of only 57°. The arm could not completely extend (straighten), nor could it flex (bend) very far, with the humerus unable even to form a right angle with the forearm. The radius and ulna (forearm bones) locked together so that there was no possibility of pronation or supination (twisting) as in human forearms.[29]
+
+
+
+
+Artist's impression of Acrocanthosaurus atokensis
+
+
+None of the carpals (wrist bones) fit together precisely, suggesting the presence of a large amount of cartilage in the wrist, which would have stiffened it. All of the digits were able to hyperextend (bend backwards) until they nearly touched the wrist. When flexed, the middle digit would converge towards the first digit, while the third digit would twist inwards. The first digit of the hand bore the largest claw, which was permanently flexed so that it curved back towards the underside of the hand. Likewise, the middle claw may have been permanently flexed, while the third claw, also the smallest, was able to both flex and extend.[29]
+After determining the ranges of motion in the joints of the forelimb, the study went on to hypothesize about the predatory habits of Acrocanthosaurus. The forelimbs could not swing forward very far, unable even to scratch the animal's own neck. Therefore they were not likely to have been used in the initial capture of prey and Acrocanthosaurus probably led with its mouth when hunting. On the other hand, the forelimbs were able to retract towards the body very strongly. Once prey had been seized in the jaws, the heavily muscled forelimbs may have retracted, holding the prey tightly against the body and preventing escape. As the prey animal attempted to pull away, it would only have been further impaled on the permanently flexed claws of the first two digits. The extreme hyperextensibility of the digits may have been an adaptation allowing Acrocanthosaurus to hold struggling prey without fear of dislocation. Once the prey was trapped against the body, Acrocanthosaurus may have dispatched it with its jaws. Another possibility is that Acrocanthosaurus held its prey in its jaws, while repeatedly retracting its forelimbs, tearing large gashes with its claws.[29]
+Brain and inner ear structure[edit]
+
+
+
+
+Digital endocranial endocast of the braincase of specimen NCSM 14345
+
+
+In 2005, scientists reconstructed an endocast (replica) of an Acrocanthosaurus cranial cavity using computed tomography (CT scanning) to analyze the spaces within the holotype braincase (OMNH 10146). In life, much of this space would have been filled with the meninges and cerebrospinal fluid, in addition to the brain itself. However, the general features of the brain and cranial nerves could be determined from the endocast and compared to other theropods for which endocasts have been created. While the brain is similar to many theropods, it is most similar to that of allosauroids. It most resembles the brains of Carcharodontosaurus and Giganotosaurus rather than those of Allosaurus or Sinraptor, providing support for the hypothesis that Acrocanthosaurus was a carcharodontosaurid.[30]
+The brain was slightly sigmoidal (S-shaped), without much expansion of the cerebral hemispheres, more like a crocodile than a bird. This is in keeping with the overall conservatism of non-coelurosaurian theropod brains. Acrocanthosaurus had large and bulbous olfactory bulbs, indicating a good sense of smell. Reconstructing the semicircular canals of the ear, which control balance, shows that the head was held at a 25° angle below horizontal. This was determined by orienting the endocast so that the lateral semicircular canal was parallel to the ground, as it usually is when an animal is in an alert posture.[30]
+Possible footprints[edit]
+
+
+
+
+Some Texas counties where large theropod tracks have been discovered in the Glen Rose Formation.
+
+
+The Glen Rose Formation of central Texas preserves many dinosaur footprints, including large, three-toed theropod prints. The most famous of these trackways was discovered along the Paluxy River in Dinosaur Valley State Park, a section of which is now on exhibit in the American Museum of Natural History in New York City,[31] although several other sites around the state have been described in the literature.[32][33] It is impossible to say what animal made the prints, since no fossil bones have been associated with the trackways. However, scientists have long considered it likely that the footprints belong to Acrocanthosaurus.[34] A 2001 study compared the Glen Rose footprints to the feet of various large theropods but could not confidently assign them to any particular genus. However, the study noted that the tracks were within the ranges of size and shape expected for Acrocanthosaurus. Because the Glen Rose Formation is close to the Antlers and Twin Mountains Formations in both geographical location and geological age, and the only large theropod known from those formations is Acrocanthosaurus, the study concluded that Acrocanthosaurus was most likely to have made the tracks.[35]
+
+
+
+
+Glen Rose theropod and sauropod tracks, with mounted Apatosaurus in the background, AMNH
+
+
+The famous Glen Rose trackway on display in New York City includes theropod footprints belonging to several individuals which moved in the same direction as up to twelve sauropod dinosaurs. The theropod prints are sometimes found on top of the sauropod footprints, indicating that they were formed later. This has been put forth as evidence that a small pack of Acrocanthosaurus was stalking a herd of sauropods.[31] While interesting and plausible, this hypothesis is difficult to prove and other explanations exist. For example, several solitary theropods may have moved through in the same direction at different times after the sauropods had passed, creating the appearance of a pack stalking its prey. The same can be said for the purported "herd" of sauropods, who also may or may not have been moving as a group.[36] At a point where it crosses the path of one of the sauropods, one of the theropod trackways is missing a footprint, which has been cited as evidence of an attack.[37] However, other scientists doubt the validity of this interpretation because the sauropod did not change gait, as would be expected if a large predator were hanging onto its side.[36]
+Pathology[edit]
+Main article: Paleopathology
+The skull of the Acrocanthosaurus atokensis holotype shows light exostotic material on the squamosal. The neural spine of the eleventh vertebra was fractured and healed while the neural spine of its third tail vertebra had an unusual hook-like structure.[38]
+Paleoecology[edit]
+Definite Acrocanthosaurus fossils have been found in the Twin Mountains Formation of northern Texas, the Antlers Formation of southern Oklahoma, and the Cloverly Formation of north-central Wyoming. These geological formations have not been dated radiometrically, but scientists have used biostratigraphy to estimate their age. Based on changes in ammonite taxa, the boundary between the Aptian and Albian stages of the Early Cretaceous has been located within the Glen Rose Formation of Texas, which may contain Acrocanthosaurus footprints and lies just above the Twin Mountains Formation. This indicates that the Twin Mountains Formation lies entirely within the Aptian stage, which lasted from 125 to 112 million years ago.[39] The Antlers Formation contains fossils of Deinonychus and Tenontosaurus, two dinosaur genera also found in the Cloverly Formation, which has been radiometrically dated to the Aptian and Albian stages, suggesting a similar age for the Antlers.[40] Therefore Acrocanthosaurus most likely existed between 125 and 100 million years ago.[4]
+During this time, the area preserved in the Twin Mountains and Antlers formations was a large floodplain that drained into a shallow inland sea. A few million years later, this sea would expand to the north, becoming the Western Interior Seaway and dividing North America in two for nearly the entire Late Cretaceous. The Glen Rose Formation represents a coastal environment, with possible Acrocanthosaurus tracks preserved in mudflats along the ancient shoreline. As Acrocanthosaurus was a large predator, it is expected that it had an extensive home range and lived in many different environments in the area.[35] Potential prey animals include sauropods like Astrodon[41] or possibly even the enormous Sauroposeidon,[42] as well as large ornithopods like Tenontosaurus.[43] The smaller theropod Deinonychus also prowled the area but at 3 meters (10 ft) in length, most likely provided only minimal competition for Acrocanthosaurus.[40]
+References[edit]
+
+
+^ a b c d Bates, K.T., Manning, P.L., Hodgetts, D. and Sellers, W.I. (2009). "Estimating Mass Properties of Dinosaurs Using Laser Imaging and 3D Computer Modelling". In Beckett, Ronald. PLoS ONE 4 (2): e4532. Bibcode:2009PLoSO...4.4532B. doi:10.1371/journal.pone.0004532. PMC 2639725. PMID 19225569. "We therefore suggest 5750–7250 kg represents a plausible maximum body mass range for this specimen of Acrocanthosaurus." 
+^ Therrien, F.; and Henderson, D.M. (2007). "My theropod is bigger than yours...or not: estimating body size from skull length in theropods". Journal of Vertebrate Paleontology 27 (1): 108–115. doi:10.1671/0272-4634(2007)27[108:MTIBTY]2.0.CO;2. 
+^ a b c d e f g h Currie, Philip J.; & Carpenter, Kenneth. (2000). "A new specimen of Acrocanthosaurus atokensis (Theropoda, Dinosauria) from the Lower Cretaceous Antlers Formation (Lower Cretaceous, Aptian) of Oklahoma, USA". Geodiversitas 22 (2): 207–246. 
+^ a b c d e f Holtz, Thomas R.; Molnar, Ralph E.; & Currie, Philip J. (2004). "Basal Tetanurae". In Weishampel, David B.; Dodson, Peter; & Osmólska, Halszka (eds.). The Dinosauria (Second ed.). Berkeley: University of California Press. pp. 71–110. ISBN 0-520-24209-2. 
+^ a b c d e Stovall, J. Willis; & Langston, Wann. (1950). "Acrocanthosaurus atokensis, a new genus and species of Lower Cretaceous Theropoda from Oklahoma". American Midland Naturalist (American Midland Naturalist, Vol. 43, No. 3) 43 (3): 696–728. doi:10.2307/2421859. JSTOR 2421859. 
+^ Molnar, Ralph E.; Kurzanov, Sergei M.; & Dong Zhiming. (1990). "Carnosauria". In Weishampel, David B.; Dodson, Peter; & Osmólska, Halszka (eds.). The Dinosauria (First ed.). Berkeley: University of California Press. pp. 169–209. ISBN 0-520-06727-4. 
+^ a b c d e f Harris, Jerald D. (1998). "A reanalysis of Acrocanthosaurus atokensis, its phylogenetic status, and paleobiological implications, based on a new specimen from Texas". New Mexico Museum of Natural History and Science Bulletin 13: 1–75. 
+^ a b Naish, Darren; Hutt, Stephen; & Martill, David M. (2001). "Saurischian Dinosaurs 2: Theropods". Dinosaurs of the Isle of Wight. London: The Palaeontological Association. pp. 242–309. ISBN 978-0-901702-72-2. 
+^ Brusatte, Stephen L.; Benson, Roger B. J.; Chure, Daniel J.; Xu, Xing; Sullivan, Corwin; Hone, David W. E. (2009). "The first definitive carcharodontosaurid (Dinosauria: Theropoda) from Asia and the delayed ascent of tyrannosaurids". Naturwissenschaften 96 (9): 1051–8. Bibcode:2009NW.....96.1051B. doi:10.1007/s00114-009-0565-2. PMID 19488730. 
+^ a b Benson, Roger B. J.; Carrano, Matthew T.; Brusatte, Stephen L. (2009). "A new clade of archaic large-bodied predatory dinosaurs (Theropoda: Allosauroidea) that survived to the latest Mesozoic". Naturwissenschaften 97 (1): 71–8. Bibcode:2010NW.....97...71B. doi:10.1007/s00114-009-0614-x. PMID 19826771. 
+^ Romer, Alfred S. (1956). Osteology of the Reptiles. Chicago: University of Chicago Press. p. 772pp. ISBN 0-89464-985-X. 
+^ Walker, Alick D. (1964). "Triassic reptiles from the Elgin area: Ornithosuchus and the origin of carnosaurs". Philosophical Transactions of the Royal Society of London, Series B, Biological Sciences 248 (744): 53–134. Bibcode:1964RSPTB.248...53W. doi:10.1098/rstb.1964.0009. 
+^ Romer, Alfred S. (1966). Vertebrate Paleontology (Third ed.). Chicago: University of Chicago Press. p. 468pp. ISBN 0-7167-1822-7. 
+^ Carroll, Robert L. (1988). Vertebrate Paleontology and Evolution. W.H. Freeman and Company. ISBN 0-7167-1822-7. 
+^ Lambert, David; and the Diagram Group (1983). "Spinosaurids". A Field Guide to Dinosaurs. New York: Avon Books. pp. 84–85. ISBN 0-380-83519-3. 
+^ Norman, David B. (1985). "Carnosaurs". The Illustrated Encyclopedia of Dinosaurs: An Original and Compelling Insight into Life in the Dinosaur Kingdom. New York: Crescent Books. pp. 62–67. ISBN 0-517-46890-5. 
+^ a b Glut, Donald F. (1982). The New Dinosaur Dictionary. Secaucus, NJ: Citadel Press. pp. 39, 48. ISBN 0-8065-0782-9. 
+^ Paul, Gregory S. (1988). "Genus Acrocanthosaurus". Predatory Dinosaurs of the World. New York: Simon & Schuster. pp. 314–315. ISBN 0-671-61946-2. 
+^ Olshevsky, George (1991). A Revision of the Parainfraclass Archosauria Cope, 1869, Excluding the Advanced Crocodylia. San Diego: Publications Requiring Research. p. 196pp. 
+^ Eddy, Drew R.; Clarke, Julia A. (2011). "New Information on the Cranial Anatomy of Acrocanthosaurus atokensis and Its Implications for the Phylogeny of Allosauroidea (Dinosauria: Theropoda)". In Farke, Andrew. PLoS ONE 6 (3): e17932. Bibcode:2011PLoSO...6E7932E. doi:10.1371/journal.pone.0017932. 
+^ Liddell, Henry George; Robert Scott (1980). Greek–English Lexicon, Abridged Edition. Oxford: Oxford University Press. ISBN 0-19-910207-4. 
+^ Langston, Wann R. (1947). A new genus and species of Cretaceous theropod dinosaur from the Trinity of Atoka County, Oklahoma. Unpublished M.S. thesis. University of Oklahoma. 
+^ Czaplewski, Nicholas J.; Cifelli, Richard L.; and Langston, Wann R., Jr. (1994). "Catalog of type and figured fossil vertebrates. Oklahoma Museum of Natural History". Oklahoma Geological Survey Special Publication 94 (1): 1–35. 
+^ a b D'Emic, Michael D.; Melstrom, Keegan M.; and Eddy, Drew R. (2012). "Paleobiology and geographic range of the large-bodied Cretaceous theropod dinosaur Acrocanthosaurus atokensis". Palaeogeography, Palaeoclimatology, Palaeoecology. 333–334: 13–23. doi:10.1016/j.palaeo.2012.03.003. 
+^ Ratkevich, Ronald P. (1997). "Dinosaur remains of southern Arizona". In Wolberg, Donald L.; Stump, Edward; & Rosenberg, Gary. Dinofest International: Proceedings of a Symposium Held at Arizona State University. Philadelphia: Academy of Natural Sciences. ISBN 978-0-935868-94-4. 
+^ Ratkevich, Ronald P. (1998). "New Cretaceous brachiosaurid dinosaur, Sonorasaurus thompsoni gen. et sp. nov., from Arizona". Journal of the Arizona-Nevada Academy of Science 31 (1): 71–82. 
+^ Lipka, Thomas R. (1998). "The affinities of the enigmatic theropods of the Arundel Clay facies (Aptian), Potomac Formation, Atlantic Coastal Plain of Maryland". In Lucas, Spencer G.; Kirkland, James I.; & Estep, J.W. (eds.). Lower and Middle Cretaceous Terrestrial Ecosystems. New Mexico Museum of Natural History and Science Bulletin 14. pp. 229–234. 
+^ Harris, Jerald D. (1998). "Large, Early Cretaceous theropods in North America". In Lucas, Spencer G.; Kirkland, James I.; & Estep, J.W. (eds.). Lower and Middle Cretaceous Terrestrial Ecosystems. New Mexico Museum of Natural History and Science Bulletin 14. pp. 225–228. 
+^ a b c d e Senter, Phil; & Robins, James H. (2005). "Range of motion in the forelimb of the theropod dinosaur Acrocanthosaurus atokensis, and implications for predatory behaviour". Journal of Zoology 266 (3): 307–318. doi:10.1017/S0952836905006989. 
+^ a b Franzosa, Jonathan; & Rowe, Timothy. (2005). "Cranial endocast of the Cretaceous theropod dinosaur Acrocanthosaurus atokensis". Journal of Vertebrate Paleontology 25 (4): 859–864. doi:10.1671/0272-4634(2005)025[0859:CEOTCT]2.0.CO;2. 
+^ a b Bird, Roland T. (1941). "A dinosaur walks into the museum". Natural History 43: 254–261. 
+^ Rogers, Jack V. (2002). "Theropod dinosaur trackways in the Lower Cretaceous (Albian) Glen Rose Formation, Kinney County, Texas". Texas Journal of Science 54 (2): 133–142. 
+^ Hawthorne, J. Michael; Bonem, Rena M.; Farlow, James O.; & Jones, James O. (2002). "Ichnology, stratigraphy and paleoenvironment of the Boerne Lake Spillway dinosaur tracksite, south-central Texas". Texas Journal of Science 54 (4): 309–324. 
+^ Langston, Wann (1974). "Non-mammalian Comanchean tetrapods". Geoscience and Man 3: 77–102. 
+^ a b Farlow, James O. (2001). "Acrocanthosaurus and the maker of Comanchean large-theropod footprints". In Tanke, Darren; & Carpenter, Ken. (eds.). Mesozoic Vertebrate Life. Bloomington: Indiana University Press. pp. 408–427. ISBN 978-0-253-33907-2. 
+^ a b Lockley, Martin G. (1991). Tracking Dinosaurs: A New Look at an Ancient World. Cambridge: Cambridge University Press. p. 252pp. ISBN 978-0-521-39463-5. 
+^ Thomas, David A.; & Farlow, James O. (1997). "Tracking a dinosaur attack". Scientific American 266 (6): 48–53. 
+^ Molnar, R. E., 2001, Theropod paleopathology: a literature survey: In: Mesozoic Vertebrate Life, edited by Tanke, D. H., and Carpenter, K., Indiana University Press, p. 337-363.
+^ Jacobs, Louis L.; Winkler, Dale A.; & Murry, Patrick A. (1991). "On the age and correlation of Trinity mammals, Early Cretaceous of Texas, USA". Newsletter of Stratigraphy 24: 35–43. 
+^ a b Brinkman, Daniel L.; Cifelli, Richard L.; & Czaplewski, Nicholas J. (1998). "First occurrence of Deinonychus antirrhopus (Dinosauria: Theropoda) from the Antlers Formation (Lower Cretaceous: Aptian – Albian) of Oklahoma". Oklahoma Geological Survey Bulletin 146: 1–27. 
+^ Rose, Peter J. (2007). "A new titanosauriform sauropod (Dinosauria: Saurischia) from the Early Cretaceous of central Texas and its phylogenetic relationships". Palaeontologia Electronica 10 (2): 65pp.  [published online]
+^ Wedel, Matthew J.; Cifelli, Richard L.; Kent Sanders, R. (2000). "Sauroposeidon proteles, a new sauropod from the Early Cretaceous of Oklahoma" (PDF). Journal of Vertebrate Paleontology 20 (1): 109–114. doi:10.1671/0272-4634(2000)020[0109:SPANSF]2.0.CO;2. 
+^ Winkler, Dale A.; Murry, Patrick A.; & Jacobs, Louis L. (1997). "A new species of Tenontosaurus (Dinosauria: Ornithopoda) from the Early Cretaceous of Texas". Journal of Vertebrate Paleontology 17 (2): 330–348. doi:10.1080/02724634.1997.10010978. 
+
+
+External links[edit]
+
+
+
+Wikimedia Commons has media related to Acrocanthosaurus.
+
+
+
+
+
+Wikispecies has information related to: Acrocanthosaurus
+
+
+
+
+
+
+Dinosaurs portal
+
+
+
+
+Acrocanthosaurus FAQ from the North Carolina Museum of Natural Sciences.
+Acrocanthosaurus entry at The Theropod Database.
+History of "Fran" (NCSM 14345)
+The Glen Rose Trackway at the American Museum of Natural History.
+
+
+      
+
+
+ 
+NewPP limit report
+CPU time usage: 6.512 seconds
+Real time usage: 6.912 seconds
+Preprocessor visited node count: 32114/1000000
+Preprocessor generated node count: 56796/1500000
+Post‐expand include size: 168779/2048000 bytes
+Template argument size: 50802/2048000 bytes
+Highest expansion depth: 39/40
+Expensive parser function count: 1/500
+Lua time usage: 0.250s
+Lua memory usage: 2.4 MB
+
+
+ Saved in parser cache with key enwiki:pcache:idhash:1108139-0!*!0!!en!4!* and timestamp 20131002130051 
+								
+				Retrieved from "http://en.wikipedia.org/w/index.php?title=Acrocanthosaurus&oldid=572559596"				
+												Categories: CarnosaursCretaceous dinosaursDinosaurs of North AmericaFossil trackwaysFossil taxa described in 1950Hidden categories: Articles with 'species' microformatsFeatured articles												
+							
+		
+		
+			Navigation menu
+			
+				
+	Personal tools
+	
+Create accountLog in	
+
+				
+					
+	Namespaces
+	
+					Article
+					Talk
+			
+
+
+	
+		
+	Variants
+	
+		
+					
+	
+
+				
+				
+					
+	Views
+	
+					Read
+					Edit
+					View history
+			
+
+
+	Actions
+	
+		
+					
+	
+
+
+	Search
+	
+				
+																				
+		
+	
+
+				
+			
+			
+					
+				
+	Navigation
+	
+		
+			Main page
+			Contents
+			Featured content
+			Current events
+			Random article
+			Donate to Wikipedia
+		
+	
+
+
+	Interaction
+	
+		
+			Help
+			About Wikipedia
+			Community portal
+			Recent changes
+			Contact page
+		
+	
+
+
+	Toolbox
+	
+		
+			What links here
+			Related changes
+			Upload file
+			Special pages
+			Permanent link
+			Page information
+			Data item
+Cite this page		
+	
+
+
+	Print/export
+	
+		
+			Create a book
+			Download as PDF
+			Printable version
+		
+	
+
+
+	Languages
+	
+		
+			العربية
+			Català
+			Česky
+			Deutsch
+			Ελληνικά
+			Español
+			فارسی
+			Français
+			한국어
+			Bahasa Indonesia
+			Italiano
+			Basa Jawa
+			Latina
+			Latviešu
+			Magyar
+			Nederlands
+			日本語
+			ଓଡ଼ିଆ
+			Piemontèis
+			Polski
+			Português
+			Русский
+			Shqip
+			Sicilianu
+			Simple English
+			Slovenčina
+			Suomi
+			Svenska
+			தமிழ்
+			ไทย
+			Türkçe
+			Tiếng Việt
+			Volapük
+			中文
+			
+			Edit links
+		
+	
+
+			
+		
+		
+							
+											 This page was last modified on 12 September 2013 at 01:04.
+											Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. 
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+									
+							
+											Privacy policy
+											About Wikipedia
+											Disclaimers
+											Contact Wikipedia
+											Developers
+											Mobile view
+									
+										
+					
+						
+					
+					
+						
+					
+				
+						
+		
+		
+
+
+ Served by mw1021 in 0.247 secs. 
+	
+if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Acrocanthosaurus","wgTitle":"Acrocanthosaurus","wgCurRevisionId":572559596,"wgArticleId":1108139,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with 'species' microformats","Featured articles","Carnosaurs","Cretaceous dinosaurs","Dinosaurs of North America","Fossil trackways","Fossil taxa described in 1950"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Acrocanthosaurus","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":["sysop"],"wgVectorEnabledModules":{"collapsiblenav":true,"experiments":true},"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"templateEditor":false,"templates":false,"preview":false,"previewDialog":false,"publish":false,"toc":false},"wgArticleFeedbackv5Permissions":{"aft-reader":true,"aft-member":false,"aft-editor":false,"aft-monitor":false,"aft-administrator":false,"aft-oversighter":false,"aft-noone":false},"wgVisualEditor":{"isPageWatched":false,"magnifyClipIconURL":"//bits.wikimedia.org/static-1.22wmf18/skins/common/images/magnify-clip.png","pageLanguageCode":"en","pageLanguageDir":"ltr"},"wikilove-recipient":"","wikilove-anon":0,"wgGuidedTourHelpGuiderUrl":"Help:Guided tours/guider","wgULSAcceptLanguageList":[],"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia","aftv5Article":{"id":1108139,"title":"Acrocanthosaurus","namespace":0,"categories":["Articles with 'species' microformats","Carnosaurs","Cretaceous dinosaurs","Dinosaurs of North America","Featured articles","Fossil taxa described in 1950","Fossil trackways"],"permissionLevel":false},"wgWikibaseItemId":"Q131021"});
+}if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":false,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,
+"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"useeditwarning":1,"prefershttps":1,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"vector-simplesearch":1,"vector-collapsiblenav":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"aftv5-last-filter":null,"visualeditor-enable":0,"visualeditor-enable-experimental":0,"visualeditor-betatempdisable":0,"wikilove-enabled":1,"echo-subscriptions-web-page-review":true,"echo-subscriptions-email-page-review":false,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"echo-notify-show-link":true,"echo-show-alert":true,"echo-email-frequency":0,"echo-email-format":"html","echo-subscriptions-email-system":true,"echo-subscriptions-web-system":true,"echo-subscriptions-email-other":false,"echo-subscriptions-web-other":true,"echo-subscriptions-email-edit-user-talk":false,"echo-subscriptions-web-edit-user-talk":true,
+"echo-subscriptions-email-reverted":false,"echo-subscriptions-web-reverted":true,"echo-subscriptions-email-article-linked":false,"echo-subscriptions-web-article-linked":false,"echo-subscriptions-email-mention":false,"echo-subscriptions-web-mention":true,"echo-subscriptions-web-edit-thank":true,"echo-subscriptions-email-edit-thank":false,"gettingstarted-task-toolbar-show-intro":true,"uls-preferences":"","language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs446":false,"searchNs447":false
+,"searchNs710":false,"searchNs711":false,"searchNs828":false,"searchNs829":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-mySandbox":1,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:156d8fe0ae17f8afd74198057563e45d */
+}if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","ext.visualEditor.viewPageTarget.init","ext.wikimediaShopLink.core","ext.uls.init","ext.uls.interface","wikibase.client.init","ext.centralNotice.bannerController","skins.vector.js"]);
+}/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}if(window.mw){
+mw.loader.load(["mobile.desktop","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.cite","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","mw.MwEmbedSupport.style","ext.vector.collapsibleNav","ext.articleFeedbackv5.startup","ext.gettingstarted.logging","ext.gettingstarted.openTask","schema.HttpsSupport","ext.coreEvents.httpsSupport","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","mw.PopUpMediaTransform"],null,true);
+}

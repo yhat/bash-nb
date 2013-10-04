@@ -1,0 +1,342 @@
+
+
+
+Mylodon - Wikipedia, the free encyclopedia
+
+
+
+
+
+
+
+
+
+
+
+
+a:lang(ar),a:lang(ckb),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:0de201fdea5d684523607ed88007b127 */
+
+
+
+
+[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.22wmf18/skins/vector/csshover.min.htc")}</style><![endif]
+
+		
+		
+		
+			
+			
+						 CentralNotice 
+						Mylodon
+			
+								From Wikipedia, the free encyclopedia
+								
+												
+					Jump to:					navigation, 					search
+				
+				
+
+
+Mylodon
+Temporal range: Pleistocene to Holocene
+
+
+
+
+
+Lower jaw at the Museum für Naturkunde, Berlin
+
+
+Scientific classification
+
+
+Kingdom:
+Animalia
+
+
+Phylum:
+Chordata
+
+
+Class:
+Mammalia
+
+
+Superorder:
+Xenarthra
+
+
+Order:
+Pilosa
+
+
+Family:
+†Mylodontidae
+
+
+Subfamily:
+†Mylodontinae
+
+
+Genus:
+†Mylodon
+Owen, 1840
+
+
+Species:
+†M. darwini
+
+
+
+Mylodon is an extinct genus of giant ground sloth that lived in the Patagonia area of South America until roughly 10,000 years ago.
+
+
+Contents
+
+
+1 Taxonomy
+2 Description
+3 Paleobiology
+4 Discovery
+5 References
+6 External links
+
+
+Taxonomy[edit]
+
+
+
+
+Fur and skin at the Museum für Naturkunde, Berlin
+
+
+Mylodon's close relatives include the giant ground sloths of the genera Glossotherium and Paramylodon. The latter genus has often been confused with Glossotherium but Paramylodon is a distinct genus that was restricted to the Pleistocene of North America.[1] Glossotherium also shares a long history of taxonomic confusion with Mylodon, and currently the only recognized species is Mylodon darwinii. At one time, the elephant-sized Megatherium was thought to be closely related, but is recognized as belonging to a separate family (Megatheriidae).
+Description[edit]
+Mylodon weighed about 200 kilograms (440 lb) and stood up to 3 m (10 ft) tall when raised up on its hind legs. It had very thick hide and had osteoderms within its skin for added armor. Because of this armor and its own long and sharp claws, it's unlikely Mylodon had any natural enemies other than humans, who would have still found the skin difficult to pierce with stone projectile points.[citation needed]
+Paleobiology[edit]
+
+
+
+
+Model in Cueva del Milodón Natural Monument where fossils were found in 1896
+
+
+Mylodon has been traditionally considered a grazer in open areas, which is theorized based on its paleoenvironment as well as from the vegetation found in fossilized dung. However, recent studies based on biomechanics and functional morphology indicate that Mylodon may have been a mixed or selective-feeder instead, and the paleoenvironment of the formation where the animal was found indicates a wide variety of vegetation to be selected from.
+A variety of specimens found throughout Argentina and Chile indicate that Mylodon had a wide range of climatic and environmental tolerance. It was probably capable of inhabiting arid to semiarid and cold climates, humid and warm climates, and colder and montane climates.[2]
+Discovery[edit]
+
+
+
+
+Toe nails, dung and skin, Natural History Museum, London
+
+
+At several sites preserved hide and dung have been discovered, and are in such a state of conservation that the people who first discovered them believed they belonged to a living animal instead of an extinct species. Mylodon was named by Richard Owen on the basis of a nearly complete lower jaw with teeth, which was found by Charles Darwin in a consolidated gravel cliff at Bahía Blanca, during the survey expedition of HMS Beagle.[3]
+Well preserved samples of Mylodon remains have been discovered in the Cueva del Milodón site in Patagonia, Chile along the southern flank of Cerro Benítez in the year 1896. Associated with bones of other early Patagonian animals, these remains of Mylodon date from an era earlier than 10,000 BC.[4]
+The discovery of fresh looking samples of skin and dung sparked a small wave of expeditions during the early 20th century to search for a living example of the animal.[5] The samples have since been found to be around 10,000 years old, although they look fresh because of the extreme cold and stable conditions in the caves in which they were found.
+References[edit]
+
+
+^ McAfee, R.K. (2007). Reassessing the Taxonomy and Affinities of the Myodontinae sloths, Glossotherium and Paramylodon (Mammalia: Xenarthra: Tardigrada). Ph.D. Dissertation, Northern Illinois University.
+^ Diego Brandoni, Brenda S. Ferrero and Ernesto Brunetto. Mylodon darwini Owen (Xenarthra, Mylodontinae) from the Late Pleistocene of Mesopotamia, Argentina, with Remarks on Individual Variability, Paleobiology, Paleobiogeography, and Paleoenvironment. Journal of Vertebrate Paleontology 30(5):1547-1558. 2010 doi:10.1080/02724634.2010.501449 September 2010.
+^ R. Owen (1840). Zoology of the Voyage of the Beagle. Part 1, Fossil Mammalia. Pp. 63-73.
+^ C. MICHAEL HOGAN (2008) Cueva del Milodon, Megalithic Portal [1]
+^ "PATAGONIA; Hesketh-Prichard's Stirring Tale of Exploration in the Far South". The New York Times. 20 December 1902. Retrieved 2008-11-22. 
+
+
+External links[edit]
+
+www.sloth-world.org - Sloth World - an online bibliography
+
+
+
+ 
+NewPP limit report
+CPU time usage: 1.008 seconds
+Real time usage: 1.150 seconds
+Preprocessor visited node count: 4484/1000000
+Preprocessor generated node count: 22226/1500000
+Post‐expand include size: 15101/2048000 bytes
+Template argument size: 4401/2048000 bytes
+Highest expansion depth: 25/40
+Expensive parser function count: 1/500
+Lua time usage: 0.029s
+Lua memory usage: 923 KB
+
+
+ Saved in parser cache with key enwiki:pcache:idhash:89069-0!*!0!!en!4!* and timestamp 20130921020056 
+								
+				Retrieved from "http://en.wikipedia.org/w/index.php?title=Mylodon&oldid=560676519"				
+												Categories: Prehistoric slothsPleistocene xenarthransPrehistoric mammals of South AmericaPleistocene extinctionsHidden categories: Articles with 'species' microformatsAll articles with unsourced statementsArticles with unsourced statements from December 2009												
+							
+		
+		
+			Navigation menu
+			
+				
+	Personal tools
+	
+Create accountLog in	
+
+				
+					
+	Namespaces
+	
+					Article
+					Talk
+			
+
+
+	
+		
+	Variants
+	
+		
+					
+	
+
+				
+				
+					
+	Views
+	
+					Read
+					Edit
+					View history
+			
+
+
+	Actions
+	
+		
+					
+	
+
+
+	Search
+	
+				
+																				
+		
+	
+
+				
+			
+			
+					
+				
+	Navigation
+	
+		
+			Main page
+			Contents
+			Featured content
+			Current events
+			Random article
+			Donate to Wikipedia
+		
+	
+
+
+	Interaction
+	
+		
+			Help
+			About Wikipedia
+			Community portal
+			Recent changes
+			Contact page
+		
+	
+
+
+	Toolbox
+	
+		
+			What links here
+			Related changes
+			Upload file
+			Special pages
+			Permanent link
+			Page information
+			Data item
+Cite this page		
+	
+
+
+	Print/export
+	
+		
+			Create a book
+			Download as PDF
+			Printable version
+		
+	
+
+
+	Languages
+	
+		
+			Català
+			Deutsch
+			Español
+			Français
+			Italiano
+			עברית
+			Lumbaart
+			Português
+			Svenska
+			Українська
+			
+			Edit links
+		
+	
+
+			
+		
+		
+							
+											 This page was last modified on 19 June 2013 at 23:19.
+											Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. 
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+									
+							
+											Privacy policy
+											About Wikipedia
+											Disclaimers
+											Contact Wikipedia
+											Developers
+											Mobile view
+									
+										
+					
+						
+					
+					
+						
+					
+				
+						
+		
+		
+
+
+ Served by mw1164 in 0.176 secs. 
+	
+if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Mylodon","wgTitle":"Mylodon","wgCurRevisionId":560676519,"wgArticleId":89069,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with 'species' microformats","All articles with unsourced statements","Articles with unsourced statements from December 2009","Prehistoric sloths","Pleistocene xenarthrans","Prehistoric mammals of South America","Pleistocene extinctions"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Mylodon","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgVectorEnabledModules":{"collapsiblenav":true,"experiments":true},"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"templateEditor":false,"templates":false,"preview":false,"previewDialog":false,"publish":false,"toc":false},"wgArticleFeedbackv5Permissions":{"aft-reader":false,"aft-member":false,"aft-editor":false,"aft-monitor":false,"aft-administrator":false,"aft-oversighter":false,"aft-noone":false},"wgVisualEditor":{"isPageWatched":false,"magnifyClipIconURL":"//bits.wikimedia.org/static-1.22wmf18/skins/common/images/magnify-clip.png","pageLanguageCode":"en","pageLanguageDir":"ltr"},"wikilove-recipient":"","wikilove-anon":0,"wgGuidedTourHelpGuiderUrl":"Help:Guided tours/guider","wgULSAcceptLanguageList":[],"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia","aftv5Article":{"id":89069,"title":"Mylodon","namespace":0,"categories":["All articles with unsourced statements","Articles with 'species' microformats","Articles with unsourced statements from December 2009","Pleistocene extinctions","Pleistocene xenarthrans","Prehistoric mammals of South America","Prehistoric sloths"],"permissionLevel":false},"wgWikibaseItemId":"Q310869"});
+}if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":false,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,
+"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"useeditwarning":1,"prefershttps":1,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"vector-simplesearch":1,"vector-collapsiblenav":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"aftv5-last-filter":null,"visualeditor-enable":0,"visualeditor-enable-experimental":0,"visualeditor-betatempdisable":0,"wikilove-enabled":1,"echo-subscriptions-web-page-review":true,"echo-subscriptions-email-page-review":false,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"echo-notify-show-link":true,"echo-show-alert":true,"echo-email-frequency":0,"echo-email-format":"html","echo-subscriptions-email-system":true,"echo-subscriptions-web-system":true,"echo-subscriptions-email-other":false,"echo-subscriptions-web-other":true,"echo-subscriptions-email-edit-user-talk":false,"echo-subscriptions-web-edit-user-talk":true,
+"echo-subscriptions-email-reverted":false,"echo-subscriptions-web-reverted":true,"echo-subscriptions-email-article-linked":false,"echo-subscriptions-web-article-linked":false,"echo-subscriptions-email-mention":false,"echo-subscriptions-web-mention":true,"echo-subscriptions-web-edit-thank":true,"echo-subscriptions-email-edit-thank":false,"gettingstarted-task-toolbar-show-intro":true,"uls-preferences":"","language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs446":false,"searchNs447":false
+,"searchNs710":false,"searchNs711":false,"searchNs828":false,"searchNs829":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-mySandbox":1,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:156d8fe0ae17f8afd74198057563e45d */
+}if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","ext.visualEditor.viewPageTarget.init","ext.wikimediaShopLink.core","ext.uls.init","ext.uls.interface","wikibase.client.init","ext.centralNotice.bannerController","skins.vector.js"]);
+}/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}if(window.mw){
+mw.loader.load(["mobile.desktop","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.cite","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","mw.MwEmbedSupport.style","ext.vector.collapsibleNav","ext.articleFeedbackv5.startup","ext.gettingstarted.logging","ext.gettingstarted.openTask","schema.HttpsSupport","ext.coreEvents.httpsSupport","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","mw.PopUpMediaTransform"],null,true);
+}

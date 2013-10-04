@@ -1,0 +1,424 @@
+
+
+
+Dromaeosaurus - Wikipedia, the free encyclopedia
+
+
+
+
+
+
+
+
+
+
+
+
+a:lang(ar),a:lang(ckb),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:0de201fdea5d684523607ed88007b127 */
+
+
+
+
+[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.22wmf18/skins/vector/csshover.min.htc")}</style><![endif]
+
+		
+		
+		
+			
+			
+						 CentralNotice 
+						Dromaeosaurus
+			
+								From Wikipedia, the free encyclopedia
+								
+												
+					Jump to:					navigation, 					search
+				
+				
+
+
+Dromaeosaurus
+Temporal range: Late Cretaceous, 76.5–74.8Ma
+
+PreЄ
+Є
+O
+S
+D
+C
+P
+T
+J
+K
+Pg
+N
+
+
+
+
+↓
+
+
+
+
+
+
+
+
+
+D. albertensis skull cast
+
+
+Scientific classification 
+
+
+Kingdom:
+Animalia
+
+
+Phylum:
+Chordata
+
+
+Clade:
+Sauropsida
+
+
+Clade:
+Dinosauria
+
+
+Clade:
+Theropoda
+
+
+Family:
+†Dromaeosauridae
+
+
+Clade:
+†Eudromaeosauria
+
+
+Subfamily:
+†Dromaeosaurinae
+
+
+Genus:
+†Dromaeosaurus
+Matthew & Brown, 1922
+
+
+Type species
+
+
+†Dromaeosaurus albertensis
+Matthew & Brown, 1922
+
+
+Species
+
+
+
+
+†D. explanatus? (Cope, 1876 [originally Laelaps])
+†D. falculus? (Cope, 1876 [originally Laelaps])
+†D. laevifrons? (Cope, 1876 [originally Laelaps])
+†"D." gracilis? (Marsh, 1888 [originally Coelurus])
+†D. albertensis Matthew & Brown, 1922
+
+
+
+
+
+Dromaeosaurus /ˌdrɒmiːɵˈsɔrəs/ was a genus of theropod dinosaur which lived during the Late Cretaceous period (middle late Campanian), sometime between 76.5 and 74.8 million years ago, in the western United States and Alberta, Canada. The name means 'running lizard'.
+
+
+Contents
+
+
+1 Description
+2 Discovery and later findings
+3 Paleobiology and diet
+4 Phylogeny
+5 Footnotes
+6 References
+
+
+Description[edit]
+
+
+
+
+Canadian Museum of Nature, model
+
+
+Dromaeosaurus was a small carnivore, about 2 m (6 ft 7 in) in length and 15 kg (33 lb) in weight. Its mouth was full of sharp teeth, and it had a sharp "sickle claw" on each foot. It lived during the Campanian stage of the Late Cretaceous, however, some fragmentary remains such as teeth which may belong to this genus have been found from the late Maastrichtian age Lance and Hell Creek Formations, dating to 65.5 million years ago.[1]
+Dromaeosaurus had a relatively robust skull with a deep snout. Its teeth were rather large and it had only nine of them in the maxilla.[2]
+In Dromaeosaurus albertensis, a vein at the back of the head, the vena capitis dorsalis, drains the front neck muscles through two long canals running to the posterior surface of the brain.[3]
+Discovery and later findings[edit]
+
+
+
+
+D. albertensis skeleton cast
+
+
+Despite receiving widespread attention in popular books on dinosaurs, and the usage of a complete mounted skeleton cast in museums throughout the world, Dromaeosaurus is surprisingly poorly known from actual fossils. The preparation of the popular cast by the Tyrrell Museum was only made possible by knowledge gained from other dromaeosaurids that have been discovered more recently.
+The first known Dromaeosaurus remains were discovered by paleontologist Barnum Brown during a 1914 expedition to Red Deer River on behalf of the American Museum of Natural History.[4] The area where these bones were collected is now part of Dinosaur Provincial Park in Alberta, Canada.[2] The find, holotype AMNH 5356, consisted of a partial skull 24 cm (9.4 in) in length, a mandible, two hyoids, a first metacarpal and some foot bones. The skull lacked most of the top of the snout.[2][4] Several other skull fragments, and about thirty isolated teeth, are known from subsequent discoveries in Alberta and Montana.[2]
+In 1922 William Diller Matthew and Brown named and described the type species of Dromaeosaurus: Dromaeosaurus albertenis. The generic name is derived from the Greek δρομεύς (dromeus) meaning 'runner' and σαύρος (sauros) meaning 'lizard'. The specific name, "albertenis", refers to Alberta.
+Another seven species of Dromaeosaurus were named: Dromaeosaurus laevifrons (Cope 1876) Matthew & Brown 1922; Dromaeosaurus cristatus (Cope 1876) Matthew & Brown 1922 (Troodon); Dromaeosaurus? gracilis (Marsh 1888) Matthew & Brown 1922; Dromaeosaurus explanatus (Cope 1876) Kuhn 1939; Dromaeosaurus minutus (Marsh 1892) Russell 1972 (an alvarezsaurid); Dromaeosaurus falculus (Cope 1876) Olshevsky 1979 and Dromaeosaurus mongoliensis (Barsbold 1983) Paul 1988 (Velociraptor). Most of them were based on fragmentary material, some belonging to other genera, and far less complete than that of Dromaeosaurus albertensis, and those that haven't been reclassified are considered nomina dubia today.[2] Nevertheless, it has grown apparent that Dromaeosaurus albertensis is even rarer in its habitat than other small theropods, although it was the first dromaeosaurid of which reasonably good cranial material was described.[2]
+Paleobiology and diet[edit]
+
+
+
+
+Cast of a D. albertensis foot
+
+
+Dromaeosaurus differs from most of its relatives in having a short, massive skull, a deep mandible, and robust teeth. The teeth tend to be more heavily worn than those of its relative Saurornitholestes, suggesting that its jaws were used for crushing and tearing rather than simply slicing through flesh. Therrien et al. (2005) estimated that Dromaeosaurus had a bite nearly three times as powerful as that of Velociraptor and suggested it relied more on its jaws than on the sickle claw to kill its prey.[5]
+Phylogeny[edit]
+Matthew and Brown originally placed Dromaeosaurus to its own subfamily, the Dromaeosaurinae, within the "Deinodontidae" (now known as Tyrannosauridae) based on some similarities in the general proportions of the skull.[4] In 1969, John H. Ostrom recognized that Dromaeosaurus shared many features with Velociraptor and the newly-discovered Deinonychus, and assigned these forms to a new family: Dromaeosauridae.[6] Since then, many new relatives of Dromaeosaurus have been found.
+The exact relationships of Dromaeosaurus are unclear. Although its rugged build gives it a primitive appearance, it was actually a very specialized animal.[7] In analyses of the present clade Dromaeosaurinae species as Utahraptor, Achillobator and Adasaurus are often recovered.
+Footnotes[edit]
+
+
+^ Weishampel, et al.
+^ a b c d e f Currie (1995).
+^ "Description," Larsson (2001). Page 23.
+^ a b c Matthew and Brown (1922).
+^ Therrien, et al. (2005).
+^ Ostrom (1969).
+^ Paul (1988).
+
+
+References[edit]
+
+
+
+
+Dinosaurs portal
+
+
+
+
+Currie, Philip J. (1995). "New information on the anatomy and relationships of Dromaeosaurus albertensis (Dinosauria: Theropoda)". Journal of Vertebrate Paleontology 15 (3): 576–591. doi:10.1080/02724634.1995.10011250. 
+Currie, P. J.; Rigby, K. J.; Sloan, Robert E. (1990). "Theropod teeth from the Judith River Formation of southern Alberta, Canada". In Currie, P. J.; Carpenter, K. Dinosaur Systematics: Perspectives and Approaches. Cambridge: Cambridge University Press. pp. 107–125. ISBN 0-521-43810-1. 
+Dixon, Dougal (2006). The Illustrated Encyclopedia of Dinosaurs. Lorenz Books. pp. 200–201. ISBN 0-7548-1573-0. 
+Larsson, H.C.E. 2001. Endocranial anatomy of Carcharodontosaurus saharicus (Theropoda: Allosauroidea) and its implications for theropod brain evolution. pp. 19–33. In: Mesozioc Vertebrate Life. Ed.s Tanke, D. H., Carpenter, K., Skrepnick, M. W. Indiana University Press.
+Matthew, William D.; Brown, Barnum (1922). "The family Deinodontidae, with notice of a new genus from the Cretaceous of Alberta". Bulletin of the American Museum of Natural History 46: 367–385. hdl:2246/1300. 
+Ostrom, John H. (1969). "Osteology of Deinonychus antirrhopus, an unusual theropod from the Lower Cretaceous of Montana". Peabody Museum of Natural History Bulletin 30: 1–165. 
+Paul, Gregory S. (1988). "The Wonderful and Spectacular Dromaeosaurian Sickle-Claws". Predatory Dinosaurs of the World. Simon & Schuster. pp. 357–370. ISBN 0-671-61946-2. 
+Colbert, E.; Russell, D. A. (1969). "The small Cretaceous dinosaur Dromaeosaurus". American Museum Novitates 2380: 1–49. hdl:2246/2590. 
+Therrien, Francois; Henderson, Donald M.; Ruff, Christopher B. (2005). "Bite Me: Biomechanical models of theropod mandibles and implications for feeding". In Carpenter, Kenneth. The Carnivorous Dinosaurs. Life of the Past. Indiana University Press. pp. 179–237. ISBN 0-253-34539-1. 
+Weishampel, David B.; Dodson, Peter; and Osmólska, Halszka (eds.): The Dinosauria, 2nd, Berkeley: University of California Press. 861 pp. ISBN 0-520-24209-2.
+
+
+
+
+ 
+NewPP limit report
+CPU time usage: 6.320 seconds
+Real time usage: 6.571 seconds
+Preprocessor visited node count: 30735/1000000
+Preprocessor generated node count: 50723/1500000
+Post‐expand include size: 103155/2048000 bytes
+Template argument size: 53309/2048000 bytes
+Highest expansion depth: 39/40
+Expensive parser function count: 1/500
+Lua time usage: 0.065s
+Lua memory usage: 2.11 MB
+
+
+ Saved in parser cache with key enwiki:pcache:idhash:651926-0!*!0!!en!4!* and timestamp 20131001103928 
+								
+				Retrieved from "http://en.wikipedia.org/w/index.php?title=Dromaeosaurus&oldid=567615866"				
+												Categories: Cretaceous dinosaursDinosaurs of North AmericaDromaeosaursHidden categories: Articles with 'species' microformats												
+							
+		
+		
+			Navigation menu
+			
+				
+	Personal tools
+	
+Create accountLog in	
+
+				
+					
+	Namespaces
+	
+					Article
+					Talk
+			
+
+
+	
+		
+	Variants
+	
+		
+					
+	
+
+				
+				
+					
+	Views
+	
+					Read
+					Edit
+					View history
+			
+
+
+	Actions
+	
+		
+					
+	
+
+
+	Search
+	
+				
+																				
+		
+	
+
+				
+			
+			
+					
+				
+	Navigation
+	
+		
+			Main page
+			Contents
+			Featured content
+			Current events
+			Random article
+			Donate to Wikipedia
+		
+	
+
+
+	Interaction
+	
+		
+			Help
+			About Wikipedia
+			Community portal
+			Recent changes
+			Contact page
+		
+	
+
+
+	Toolbox
+	
+		
+			What links here
+			Related changes
+			Upload file
+			Special pages
+			Permanent link
+			Page information
+			Data item
+Cite this page		
+	
+
+
+	Print/export
+	
+		
+			Create a book
+			Download as PDF
+			Printable version
+		
+	
+
+
+	Languages
+	
+		
+			العربية
+			Català
+			Česky
+			Dansk
+			Deutsch
+			Español
+			Esperanto
+			Euskara
+			Français
+			Galego
+			한국어
+			Hrvatski
+			Italiano
+			עברית
+			Magyar
+			Nederlands
+			Polski
+			Português
+			Русский
+			Simple English
+			Slovenčina
+			Srpskohrvatski / српскохрватски
+			Suomi
+			Svenska
+			Türkçe
+			中文
+			
+			Edit links
+		
+	
+
+			
+		
+		
+							
+											 This page was last modified on 8 August 2013 at 01:02.
+											Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. 
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+									
+							
+											Privacy policy
+											About Wikipedia
+											Disclaimers
+											Contact Wikipedia
+											Developers
+											Mobile view
+									
+										
+					
+						
+					
+					
+						
+					
+				
+						
+		
+		
+
+
+ Served by mw1062 in 0.263 secs. 
+	
+if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Dromaeosaurus","wgTitle":"Dromaeosaurus","wgCurRevisionId":567615866,"wgArticleId":651926,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with 'species' microformats","Cretaceous dinosaurs","Dinosaurs of North America","Dromaeosaurs"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Dromaeosaurus","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":["sysop"],"wgVectorEnabledModules":{"collapsiblenav":true,"experiments":true},"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"templateEditor":false,"templates":false,"preview":false,"previewDialog":false,"publish":false,"toc":false},"wgArticleFeedbackv5Permissions":{"aft-reader":false,"aft-member":false,"aft-editor":false,"aft-monitor":false,"aft-administrator":false,"aft-oversighter":false,"aft-noone":false},"wgVisualEditor":{"isPageWatched":false,"magnifyClipIconURL":"//bits.wikimedia.org/static-1.22wmf18/skins/common/images/magnify-clip.png","pageLanguageCode":"en","pageLanguageDir":"ltr"},"wikilove-recipient":"","wikilove-anon":0,"wgGuidedTourHelpGuiderUrl":"Help:Guided tours/guider","wgULSAcceptLanguageList":[],"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia","aftv5Article":{"id":651926,"title":"Dromaeosaurus","namespace":0,"categories":["Articles with 'species' microformats","Cretaceous dinosaurs","Dinosaurs of North America","Dromaeosaurs"],"permissionLevel":false},"wgWikibaseItemId":"Q131082"});
+}if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":false,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,
+"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"useeditwarning":1,"prefershttps":1,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"vector-simplesearch":1,"vector-collapsiblenav":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"aftv5-last-filter":null,"visualeditor-enable":0,"visualeditor-enable-experimental":0,"visualeditor-betatempdisable":0,"wikilove-enabled":1,"echo-subscriptions-web-page-review":true,"echo-subscriptions-email-page-review":false,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"echo-notify-show-link":true,"echo-show-alert":true,"echo-email-frequency":0,"echo-email-format":"html","echo-subscriptions-email-system":true,"echo-subscriptions-web-system":true,"echo-subscriptions-email-other":false,"echo-subscriptions-web-other":true,"echo-subscriptions-email-edit-user-talk":false,"echo-subscriptions-web-edit-user-talk":true,
+"echo-subscriptions-email-reverted":false,"echo-subscriptions-web-reverted":true,"echo-subscriptions-email-article-linked":false,"echo-subscriptions-web-article-linked":false,"echo-subscriptions-email-mention":false,"echo-subscriptions-web-mention":true,"echo-subscriptions-web-edit-thank":true,"echo-subscriptions-email-edit-thank":false,"gettingstarted-task-toolbar-show-intro":true,"uls-preferences":"","language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs446":false,"searchNs447":false
+,"searchNs710":false,"searchNs711":false,"searchNs828":false,"searchNs829":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-mySandbox":1,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:156d8fe0ae17f8afd74198057563e45d */
+}if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","ext.visualEditor.viewPageTarget.init","ext.wikimediaShopLink.core","ext.uls.init","ext.uls.interface","wikibase.client.init","ext.centralNotice.bannerController","skins.vector.js"]);
+}/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}if(window.mw){
+mw.loader.load(["mobile.desktop","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.cite","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","mw.MwEmbedSupport.style","ext.vector.collapsibleNav","ext.articleFeedbackv5.startup","ext.gettingstarted.logging","ext.gettingstarted.openTask","schema.HttpsSupport","ext.coreEvents.httpsSupport","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","mw.PopUpMediaTransform"],null,true);
+}

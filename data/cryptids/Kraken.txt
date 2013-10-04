@@ -1,0 +1,871 @@
+
+
+
+Kraken - Wikipedia, the free encyclopedia
+
+
+
+
+
+
+
+
+
+
+
+
+a:lang(ar),a:lang(ckb),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:0de201fdea5d684523607ed88007b127 */
+
+
+
+
+[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.22wmf19/skins/vector/csshover.min.htc")}</style><![endif]
+
+		
+		
+		
+			
+			
+						 CentralNotice 
+						Kraken
+			
+								From Wikipedia, the free encyclopedia
+								
+												
+					Jump to:					navigation, 					search
+				
+				For other uses, see Kraken (disambiguation).
+
+Kraken
+
+
+The colossal octopus: pen and wash drawing by malacologist Pierre Dénys de Montfort, 1801, from the descriptions of French sailors reportedly attacked by such a creature off the coast of Angola
+
+
+
+Grouping
+Legendary creature
+
+
+Sub grouping
+Sea monster
+
+
+Mythology
+Norse
+
+
+Country
+Greenland
+
+
+Habitat
+Greenland Sea
+
+
+Kraken (/ˈkreɪkən/ or /ˈkrɑːkən/)[1] are legendary sea monsters of giant proportions said to dwell off the coasts of Norway and Greenland. The legend may have originated from sightings of giant squid that are estimated to grow to 13–15 m (40–50 ft) in length, including the tentacles.[2][3] The sheer size and fearsome appearance attributed to the kraken have made it a common ocean-dwelling monster in various fictional works.
+
+
+Contents
+
+
+1 History
+2 Appearance and origins
+3 Etymology
+4 Legacy
+5 See also
+6 References
+7 External links
+
+
+History[edit]
+The 13th century Old Icelandic saga Örvar-Odds saga tells of two massive sea-monsters called Hafgufa ("sea mist") and Lyngbakr ("heather-back"). The hafgufa is believed to be a reference to the kraken:
+
+Now I will tell you that there are two sea-monsters. One is called the hafgufa (sea-mist), another lyngbakr (heather-back). Whales are the biggest of everything in the world, but the hafgufa is the greatest monster occurring in the water. It is its nature that it swallows both men and ships and whales and everything that it can reach. It is submerged both by day and night together, and when it strikes up its head and nose above the surface, then it stays at least until the turn of the tide. Now, that sound we sailed through? We sailed between its jaws, and its nose and lower jaw were those rocks that appeared to you in the ocean, while the lyngbakr was the island we saw sinking down. However, Ǫgmundur Floki has sent these creatures to you by means of his secret arts for to cause the death of you and all your men. He thought that more men should have gone the same way as those that had already drowned, and he expected that the hafgufa would have swallowed us all. Today I sailed through its mouth because I knew that it had recently surfaced.[4]
+
+After returning from Greenland, the anonymous author of the Old Norwegian scientific work Konungs skuggsjá (circa 1250) described in detail the physical characteristics and feeding behavior of these beasts. The narrator proposed there must only be two in existence, stemming from the observation that the beasts have always been sighted in the same parts of the Greenland Sea, and that each seemed incapable of reproduction, as there was no increase in their numbers.
+
+There is a fish that is still unmentioned, which it is scarcely advisable to speak about on account of its size, because it will seem to most people incredible. There are only a very few who can speak upon it clearly, because it is seldom near land nor appears where it may be seen by fishermen, and I suppose there are not many of this sort of fish in the sea. Most often in our tongue we call it hafgufa. Nor can I conclusively speak about its length in ells, because the times he has shown before men, he has appeared more like land than like a fish. Neither have I heard that one had been caught or found dead; and it seems to me as though there must be no more than two in the oceans, and I deem that each is unable to reproduce itself, for I believe that they are always the same ones. Then too, neither would it do for other fish if the hafgufa were of such a number as other whales, on account of their vastness, and how much subsistence that they need. It is said to be the nature of these fish that when one shall desire to eat, then it stretches up its neck with a great belching, and following this belching comes forth much food, so that all kinds of fish that are near to hand will come to present location, then will gather together, both small and large, believing they shall obtain there food and good eating; but this great fish lets its mouth stand open the while, and the gap is no less wide than that of a great sound or fjord, And nor may the fish avoid running together there in their great numbers. But as soon as its stomach and mouth is full, then it locks together its jaws and has the fish all caught and enclosed, that before greedily came there looking for food.[5]
+
+Carolus Linnaeus classified the kraken as a cephalopod, designating the scientific name Microcosmus marinus in the first edition of his Systema Naturae (1735), a taxonomic classification of living organisms. The creature was excluded from later editions.[6][7] Linnaeus's later work, Fauna Suecica (1746) calls the creature singulare monstrum, "a unique monster", and says of it Habitare fertur in mari Norwegico, ipse non dum animal vidi, "It is said to inhabit the seas of Norway, but I have not seen this animal".[8]
+Kraken were also extensively described by Erik Pontoppidan, bishop of Bergen, in his Det Forste Forsorg paa Norges Naturlige Historie "Natural History of Norway" (Copenhagen, 1752–3).[9][10] Pontoppidan made several claims regarding kraken, including the notion that the creature was sometimes mistaken for an island[11] and that the real danger to sailors was not the creature itself but rather the whirlpool left in its wake.[12] However, Pontoppidan also described the destructive potential of the giant beast: "it is said that if [the creature's arms] were to lay hold of the largest man-of-war, they would pull it down to the bottom".[11][12][13] According to Pontoppidan, Norwegian fishermen often took the risk of trying to fish over kraken, since the catch was so plentiful[7] (hence the saying "You must have fished on Kraken"[14]). Pontoppidan also proposed that a specimen of the monster, "perhaps a young and careless one", was washed ashore and died at Alstahaug in 1680.[13][15] By 1755, Pontoppidan's description of the kraken had been translated into English.[16]
+Swedish author Jacob Wallenberg described the kraken in the 1781 work Min son på galejan ("My son on the galley"):
+
+... Kraken, also called the Crab-fish, which is not that huge, for heads and tails counted, he is no larger than our Öland is wide [i.e., less than 16 km] ... He stays at the sea floor, constantly surrounded by innumerable small fishes, who serve as his food and are fed by him in return: for his meal, (if I remember correctly what E. Pontoppidan writes,) lasts no longer than three months, and another three are then needed to digest it. His excrements nurture in the following an army of lesser fish, and for this reason, fishermen plumb after his resting place ... Gradually, Kraken ascends to the surface, and when he is at ten to twelve fathoms, the boats had better move out of his vicinity, as he will shortly thereafter burst up, like a floating island, spurting water from his dreadful nostrils and making ring waves around him, which can reach many miles. Could one doubt that this is the Leviathan of Job?[17]
+
+
+
+
+
+Pierre Dénys de Montfort's "Poulpe Colossal" attacks a merchant ship (1810)
+
+
+In 1802, the French malacologist Pierre Dénys de Montfort recognized the existence of two kinds of giant octopus in Histoire Naturelle Générale et Particulière des Mollusques, an encyclopedic description of mollusks. Montfort claimed that the first type, the kraken octopus, had been described by Norwegian sailors and American whalers, as well as ancient writers such as Pliny the Elder. The much larger second type, the colossal octopus, was reported to have attacked a sailing vessel from Saint-Malo, off the coast of Angola.[11]
+Montfort later dared more sensational claims. He proposed that ten British warships, including the captured French ship of the line Ville de Paris, which had mysteriously disappeared one night in 1782, must have been attacked and sunk by giant octopuses. The British, however, knew—courtesy of a survivor from the Ville de Paris—that the ships had been lost in a hurricane off the coast of Newfoundland in September 1782, resulting in a disgraceful revelation for Montfort.[7]
+Appearance and origins[edit]
+Since the late 18th century, kraken have been depicted in a number of ways, primarily as large octopus-like creatures, and it has often been alleged that Pontoppidan's kraken might have been based on sailors' observations of the giant squid. In the earliest descriptions, however, the creatures were more crab-like[15] than octopus-like, and generally possessed traits that are associated with large whales rather than with giant squid. Some traits of kraken resemble undersea volcanic activity occurring in the Iceland region, including bubbles of water; sudden, dangerous currents; and appearance of new islets.[citation needed]
+Etymology[edit]
+The English word kraken is taken from the Norwegian and Swedish languages but its origins are otherwise obscure.[18] In both languages, Kraken is the definite form of krake, a word designating an unhealthy animal or something twisted (cognate with the English crook and crank).[19] In modern German, Krake (plural and declined singular: Kraken) means octopus, but can also refer to the legendary Kraken.[20]
+Legacy[edit]
+Main article: Kraken in popular culture
+
+
+
+
+An illustration from the original 1870 edition of Twenty Thousand Leagues Under the Sea by author Jules Verne
+
+
+Although fictional and the subject of myth, the legend of the kraken continues to the present day, with numerous references existing in popular culture, including film, literature, television, video games and other miscellaneous examples (e.g. postage stamps, a rollercoaster ride, and a rum product).
+In 1830 Alfred Tennyson published the irregular sonnet The Kraken,[21] which described a massive creature that dwelled at the bottom of the sea:
+
+
+Below the thunders of the upper deep;
+Far far beneath in the abysmal sea,
+His ancient, dreamless, uninvaded sleep
+The Kraken sleepeth: faintest sunlights flee
+About his shadowy sides; above him swell
+Huge sponges of millennial growth and height;
+And far away into the sickly light,
+From many a wondrous grot and secret cell
+Unnumber'd and enormous polypi
+Winnow with giant arms the slumbering green.
+There hath he lain for ages, and will lie
+Battening upon huge seaworms in his sleep,
+Until the latter fire shall heat the deep;
+Then once by man and angels to be seen,
+In roaring he shall rise and on the surface die.
+
+
+Pontoppidan's description influenced Jules Verne's depiction of the famous giant squid in Twenty Thousand Leagues Under the Sea from 1870.[citation needed]
+Later developments of the kraken image may be traced at Kraken in popular culture.
+See also[edit]
+
+
+
+
+Akkorokamui
+Aspidochelone
+Cetus (mythology)
+Colossal squid
+
+
+
+
+Cryptozoology
+Gigantic octopus
+Globster
+
+
+
+
+Lusca
+Scandinavian folklore
+Vanishing island
+
+
+
+
+References[edit]
+
+
+^ Oxford English Dictionary (Second ed.). Oxford, England: Oxford University Press. 1989. 
+^ O'Shea, S. 2003. "Giant Squid and Colossal Squid Fact Sheet". The Octopus News Magazine Online.
+^ Boyle, Peter; Rodhouse, Paul (2005). "The search for the giant squid Architeuthis". Cephalopods: Ecology and Fisheries. Oxford, England: Blackwell. p. 196. ISBN 0632060484. 
+^ Rafn, Carl Christian, ed. Fornaldarsögur Norðurlanda. Vol. 2. Copenhagen: Enni Poppsku. 1829. pp. 248-249.
+^ Keyser, Rudolph, Peter Andreas Munch, Carl Rikard Unger. Speculum Regale. Konungs-Skuggsjá. Oslo: Carl C. Werner & Co. 1848. Chapter 12, p. 32.
+^ Microcosmus marinus in Systema Naturae
+^ a b c "Kraken". Encyclopædia Metropolitana; or, Universal Dictionary of Knowledge . 21. B. Fellowes, London. 1845. pp. 255–258.
+^ Linnaeus, Carolus. Fauna Suecica. Stockholm: Laurentius Salvus. 1746. p. 386.
+^ Pontoppidan, Erich. Det Forste Forsorg paa Norges Naturlige Historie. Copenhagen: Berlingste Arvingers Bogtrykkerie. 1752.
+^ Pontoppidan, Versuch einer natürlichen Geschichte Norwegens (Copenhagen, 1752–53).
+^ a b c Hamilton, R. (1839). The Kraken. In: The Natural History of the Amphibious Carnivora, including the Walrus and Seals, also of the Herbivorous Cetacea, &c. W. H. Lizars, Edinburgh. pp. 327–336.
+^ a b [Anonymous] (1849). New Books: An Essay on the credibility of the Kraken. The Nautical Magazine 18(5): 272–276.
+^ a b Sjögren, Bengt (1980). Berömda vidunder. Settern. ISBN 91-7586-023-6 (Swedish)
+^ Bringsværd, T.A. (1970). The Kraken: A slimy giant at the bottom of the sea. In: Phantoms and Fairies: From Norwegian Folklore. Johan Grundt Tanum Forlag, Oslo. pp. 67–71.
+^ a b "Kraken". Encyclopædia Perthensis; or Universal Dictionary of the Arts, Sciences, Literature, &c.. 12 (2nd ed.). John Brown, Edinburgh. 1816. pp. 541–542.
+^ The London Magazine, or, Gentleman's Monthly Intelligencer Vol. 24 (Appendix, 1755). pp 622-624.
+^ Wallenberg, J. (1835). Min son på galejan, eller en ostindisk resa innehållande allehanda bläckhornskram, samlade på skeppet Finland, som afseglade ifrån Götheborg i Dec. 1769, och återkom dersammastädes i Junii 1771. (5th ed.). Elméns och Granbergs Tryckeri, Stockholm. (Swedish)
+^ "kraken". The Free Online Dictionary.
+^ "krake". Bokmålsordboka. (Norwegian)
+^ Terrell, Peter; et al. (Eds.) (1999). German Unabridged Dictionary (4th ed.). Harper Collins. ISBN 0-06-270235-1
+^ "The Kraken" (1830). The Victorian Web.
+
+
+External links[edit]
+
+
+
+Look up Kraken in Wiktionary, the free dictionary.
+
+
+
+
+
+Wikisource has original text related to this article:
+Kraken
+
+
+
+
+"King's Mirror" (See Chapter XII)
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Cryptozoology and cryptobotany
+
+
+
+
+
+
+
+
+
+
+ 
+Overview
+
+
+
+
+
+
+
+
+
+
+
+Core topics
+
+
+
+
+Cryptid
+List of cryptids
+Zoology
+Botany
+Megafauna discovered in modern times
+Pseudoscience
+
+
+
+
+
+
+
+
+
+Cryptozoologists
+
+
+
+
+Bernard Heuvelmans
+Karl Shuker
+Jonathan Downes
+Jon-Erik Beckjord
+John Bindernagel
+Richard Freeman
+Loren Coleman
+Alexandr Mikhailovych Kondratov
+Roy Mackal
+Ivan T. Sanderson
+Organizations
+
+
+
+
+
+
+
+
+
+Books and television
+
+
+
+
+Animal X
+Arthur C. Clarke's Mysterious World
+Beast Hunter
+Beast Legends
+Destination Truth
+Fact or Faked: Paranormal Files
+Fortean TV
+In Search of...
+Is It Real?
+Lost Tapes
+MonsterQuest
+On the Track of Unknown Animals
+Sasquatch: Legend Meets Science
+The X Creatures
+The Secret Saturdays
+Weird Travels
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Zoological cryptids
+
+
+
+
+
+
+
+
+
+
+
+Africa
+
+
+
+
+Adjule
+Agogwe
+Emela-ntouka
+Ennedi tiger
+Gambo
+Grootslang
+Gustave
+Inkanyamba
+Kongamato
+Mbielu-Mbielu-Mbielu
+Mokele-mbembe
+Malawi terror beast
+Mamlambo
+Muhuru
+Nandi Bear
+Ngoubou
+Olitiau
+Nguma-monene
+Popobawa
+Salawa
+Trunko
+Zanzibar Leopard
+
+
+
+
+
+
+
+
+
+Asia
+
+
+
+
+Ahool
+Akkorokamui
+Almas
+Amomongo
+Ayia Napa sea monster
+Barmanou
+Batutut
+Bergman's Bear
+Brosno dragon
+Bukit Timah Monkey Man
+Buru
+Cat-fox
+Devil Bird
+Hibagon
+Issie
+Kappa
+Kting Voar
+Kussie
+Lake Tianchi Monster
+Lake Van Monster
+Maltese Tiger
+Mongolian Death Worm
+Monkey-man of Delhi
+Orang Pendek
+Phaya Naga
+Qilin
+Ropen
+Sigbin
+Sarimanok
+Sumxu
+Tsuchinoko
+Veo
+Yeren
+Yeti
+
+
+
+
+
+
+
+
+
+Australasia-
+Oceania
+
+
+
+
+Amomongo
+Blue Mountains panther
+Bunyip
+Ebu Gogo
+Four Mile Globster
+Gippsland phantom cat
+Globster
+Manaul
+Megalania
+Moehau
+Zuiyo-maru carcass
+New Zealand Globster
+Queensland Tiger
+Siyokoy
+Tasmanian Globster
+Thylacoleo
+Tikbalang
+Waitoreke
+Yowie
+
+
+
+
+
+
+
+
+
+Europe
+
+
+
+
+Afanc
+Ayia Napa sea monster
+Beast of Gévaudan
+Bishop-fish
+British big cats
+Canvey Island Monster
+Dahu
+Dobhar-chú
+Each uisge
+Eachy
+Elwetritsch
+Fear liath
+Fish-man of Liérganes
+Giglioli's Whale
+Hebrides Blob
+Jenny Haniver
+Kellas Cat
+Kraken
+Lagarfljót Worm
+Lariosauro
+Lindworm
+Loch Ness Monster
+Morag
+Morgawr
+Muc-sheilch
+Owlman
+Sea monk
+Sea serpent
+Selma
+Skvader
+Storsjöodjuret
+Stronsay Beast
+Tatzelwurm
+Wolpertinger
+
+
+
+
+
+
+
+
+
+North
+America
+
+
+
+
+Altamaha-ha
+Bear Lake Monster
+Beast of Bladenboro
+Beast of Bray Road
+Beast of Busco
+Bermuda Blob
+Bermuda Blob 2
+Bessie
+Bigfoot
+Cadborosaurus willsi
+Champ
+Chessie
+Chupacabra
+Crawfordsville monster
+Dover Demon
+Flatwoods monster
+Fouke Monster
+Goatman
+Grassman
+Hodag
+Homo gardarensis
+Honey Island Swamp monster
+Hoop snake
+Huay Chivo
+Igopogo
+Iliamna Lake Monster
+Jersey Devil
+Kingstie
+Lake Worth Monster
+Lizard Man of Scape Ore Swamp
+Loveland frog
+Lusca
+MacFarlane's bear
+Manipogo
+Melon heads
+Michigan Dogman
+Minnesota Iceman
+Momo the Monster
+Montauk Monster
+Mothman
+Mussie
+Nantucket Blob
+Newfoundland Blob
+Nuk-luk
+Ogopogo
+Old Yellow Top
+Ozark Howler
+Panama Creature
+Pope Lick Monster
+Shunka Warakin
+Sidehill gouger
+Skunk Ape
+St. Augustine Monster
+Tahoe Tessie
+Thunderbird
+Trinity Alps giant salamander
+Tsul 'Kalu
+Turtle Lake Monster
+Waheela
+Wampus cat
+
+
+
+
+
+
+
+
+
+South
+America
+
+
+
+
+Ameranthropoides loysi
+Andean Wolf
+Bloop
+Cherufe
+Chilean Blob
+Chupacabra
+Giant anaconda
+Mapinguari
+Minhocão
+Mono Grande
+Mylodon
+Nahuelito
+Peuchen
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Botanical cryptids
+
+
+
+
+
+
+
+
+
+Raskovnik
+Man-eating tree
+Umdhlebi
+Vegetable Lamb of Tartary
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+NewPP limit report
+CPU time usage: 1.580 seconds
+Real time usage: 2.261 seconds
+Preprocessor visited node count: 6829/1000000
+Preprocessor generated node count: 28395/1500000
+Post‐expand include size: 132781/2048000 bytes
+Template argument size: 22467/2048000 bytes
+Highest expansion depth: 21/40
+Expensive parser function count: 5/500
+Lua time usage: 0.076s
+Lua memory usage: 2.01 MB
+
+
+ Saved in parser cache with key enwiki:pcache:idhash:21005627-0!*!0!!en!4!* and timestamp 20131003190755 
+								
+				Retrieved from "http://en.wikipedia.org/w/index.php?title=Kraken&oldid=575620573"				
+												Categories: Sea cryptidsNautical loreScandinavian legendary creaturesMythical cephalopodsHidden categories: Articles with Swedish-language external linksArticles with Norwegian-language external linksWikipedia indefinitely move-protected pagesAll articles with unsourced statementsArticles with unsourced statements from August 2012												
+							
+		
+		
+			Navigation menu
+			
+				
+	Personal tools
+	
+Create accountLog in	
+
+				
+					
+	Namespaces
+	
+					Article
+					Talk
+			
+
+
+	
+		
+	Variants
+	
+		
+					
+	
+
+				
+				
+					
+	Views
+	
+					Read
+					Edit
+					View history
+			
+
+
+	Actions
+	
+		
+					
+	
+
+
+	Search
+	
+				
+																				
+		
+	
+
+				
+			
+			
+					
+				
+	Navigation
+	
+		
+			Main page
+			Contents
+			Featured content
+			Current events
+			Random article
+			Donate to Wikipedia
+		
+	
+
+
+	Interaction
+	
+		
+			Help
+			About Wikipedia
+			Community portal
+			Recent changes
+			Contact page
+		
+	
+
+
+	Toolbox
+	
+		
+			What links here
+			Related changes
+			Upload file
+			Special pages
+			Permanent link
+			Page information
+			Data item
+Cite this page		
+	
+
+
+	Print/export
+	
+		
+			Create a book
+			Download as PDF
+			Printable version
+		
+	
+
+
+	Languages
+	
+		
+			العربية
+			বাংলা
+			Български
+			Bosanski
+			Català
+			Чӑвашла
+			Česky
+			Dansk
+			Deutsch
+			Español
+			Euskara
+			فارسی
+			Français
+			한국어
+			Hrvatski
+			Íslenska
+			Italiano
+			עברית
+			ქართული
+			Latina
+			Magyar
+			Nederlands
+			日本語
+			Norsk bokmål
+			Norsk nynorsk
+			Polski
+			Português
+			Română
+			Русский
+			Simple English
+			Српски / srpski
+			Suomi
+			Svenska
+			Tagalog
+			ไทย
+			Türkçe
+			Українська
+			Tiếng Việt
+			中文
+			
+			Edit links
+		
+	
+
+			
+		
+		
+							
+											 This page was last modified on 3 October 2013 at 19:07.
+											Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. 
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+									
+							
+											Privacy policy
+											About Wikipedia
+											Disclaimers
+											Contact Wikipedia
+											Developers
+											Mobile view
+									
+										
+					
+						
+					
+					
+						
+					
+				
+						
+		
+		
+
+
+ Served by mw1048 in 0.141 secs. 
+	
+if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Kraken","wgTitle":"Kraken","wgCurRevisionId":575620573,"wgRevisionId":575620573,"wgArticleId":21005627,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with Swedish-language external links","Articles with Norwegian-language external links","Wikipedia indefinitely move-protected pages","All articles with unsourced statements","Articles with unsourced statements from August 2012","Sea cryptids","Nautical lore","Scandinavian legendary creatures","Mythical cephalopods"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Kraken","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":["sysop"],"wgVectorEnabledModules":{"collapsiblenav":true,"experiments":true},"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"templateEditor":false,"templates":false,"preview":false,"previewDialog":false,"publish":false,"toc":false},"wgArticleFeedbackv5Permissions":{"aft-reader":false,"aft-member":false,"aft-editor":false,"aft-monitor":false,"aft-administrator":false,"aft-oversighter":false,"aft-noone":false},"wgVisualEditor":{"isPageWatched":false,"magnifyClipIconURL":"//bits.wikimedia.org/static-1.22wmf19/skins/common/images/magnify-clip.png","pageLanguageCode":"en","pageLanguageDir":"ltr"},"wikilove-recipient":"","wikilove-anon":0,"wgGuidedTourHelpGuiderUrl":"Help:Guided tours/guider","wgULSAcceptLanguageList":[],"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia","aftv5Article":{"id":21005627,"title":"Kraken","namespace":0,"categories":["All articles with unsourced statements","Articles with Norwegian-language external links","Articles with Swedish-language external links","Articles with unsourced statements from August 2012","Mythical cephalopods","Nautical lore","Scandinavian legendary creatures","Sea cryptids","Wikipedia indefinitely move-protected pages"],"permissionLevel":false},"wgWikibaseItemId":"Q193165"});
+}if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":false,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,
+"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"useeditwarning":1,"prefershttps":1,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"vector-simplesearch":1,"vector-collapsiblenav":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"aftv5-last-filter":null,"visualeditor-enable":0,"visualeditor-enable-experimental":0,"visualeditor-betatempdisable":0,"wikilove-enabled":1,"echo-subscriptions-web-page-review":true,"echo-subscriptions-email-page-review":false,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"echo-notify-show-link":true,"echo-show-alert":true,"echo-email-frequency":0,"echo-email-format":"html","echo-subscriptions-email-system":true,"echo-subscriptions-web-system":true,"echo-subscriptions-email-other":false,"echo-subscriptions-web-other":true,"echo-subscriptions-email-edit-user-talk":false,"echo-subscriptions-web-edit-user-talk":true,
+"echo-subscriptions-email-reverted":false,"echo-subscriptions-web-reverted":true,"echo-subscriptions-email-article-linked":false,"echo-subscriptions-web-article-linked":false,"echo-subscriptions-email-mention":false,"echo-subscriptions-web-mention":true,"echo-subscriptions-web-edit-thank":true,"echo-subscriptions-email-edit-thank":false,"gettingstarted-task-toolbar-show-intro":true,"uls-preferences":"","language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs446":false,"searchNs447":false
+,"searchNs710":false,"searchNs711":false,"searchNs828":false,"searchNs829":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-mySandbox":1,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:156d8fe0ae17f8afd74198057563e45d */
+}if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","ext.visualEditor.viewPageTarget.init","ext.wikimediaShopLink.core","ext.uls.init","ext.uls.interface","wikibase.client.init","ext.centralNotice.bannerController","skins.vector.js"]);
+}/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}if(window.mw){
+mw.loader.load(["mobile.desktop","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.cite","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","mw.MwEmbedSupport.style","ext.vector.collapsibleNav","ext.articleFeedbackv5.startup","ext.gettingstarted.logging","ext.gettingstarted.openTask","schema.HttpsSupport","ext.coreEvents.httpsSupport","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","mw.PopUpMediaTransform"],null,true);
+}

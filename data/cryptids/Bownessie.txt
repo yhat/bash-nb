@@ -1,0 +1,537 @@
+
+
+
+Windermere - Wikipedia, the free encyclopedia
+
+
+
+
+
+
+
+
+
+
+
+
+a:lang(ar),a:lang(ckb),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:0de201fdea5d684523607ed88007b127 */
+
+
+
+
+[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.22wmf19/skins/vector/csshover.min.htc")}</style><![endif]
+
+		
+		
+		
+			
+			
+						 CentralNotice 
+						Windermere
+			
+								From Wikipedia, the free encyclopedia
+								  (Redirected from Bownessie)
+												
+					Jump to:					navigation, 					search
+				
+				For the town near the lake, see Windermere, Cumbria.
+For other uses, see Windermere (disambiguation).
+
+
+Windermere
+
+
+
+View of Windermere
+
+
+
+Location
+Lake District National Park
+
+
+Coordinates
+54°21′30″N 2°56′10″W﻿ / ﻿54.35833°N 2.93611°W﻿ / 54.35833; -2.93611Coordinates: 54°21′30″N 2°56′10″W﻿ / ﻿54.35833°N 2.93611°W﻿ / 54.35833; -2.93611
+
+
+Type
+Ribbon Mere
+
+
+Primary inflows
+Brathay, Rothay, Trout Beck, Cunsey Beck
+
+
+Primary outflows
+River Leven
+
+
+Basin countries
+United Kingdom
+
+
+
+
+
+Max. length
+18.08 kilometres (11.23 mi)
+
+
+Max. width
+1.49 kilometres (0.93 mi)
+
+
+Surface area
+14.73 square kilometres (5.69 sq mi) or 1,473 hectares (3,640 acres)
+
+
+Max. depth
+66.76 metres (219.0 ft)
+
+
+Surface elevation
+39 metres (128 ft)
+
+
+
+
+
+Islands
+18 (Belle Isle, see list)
+
+
+Windermere is the largest natural lake in England.[1] It is a ribbon lake formed in a glacial trough after the retreat of ice at the start of the current interglacial. It has been one of the country's most popular places for holidays and summer homes since the arrival of the Kendal and Windermere Railway's branch line in 1847. It is in the county of Cumbria and entirely within the Lake District National Park.
+
+
+Contents
+
+
+1 Etymology
+2 Geography
+
+2.1 Islands
+
+
+3 Natural history
+4 Local government
+5 Boating
+
+5.1 Steamers, launches and ferries
+5.2 Boat clubs
+5.3 Speed records
+5.4 Speed limits
+5.5 Windermere Steamboat Museum
+5.6 Windermere water bus
+
+
+6 Popular culture
+7 Great North Swim
+8 Bibliography
+9 References
+10 External links
+
+
+Etymology[edit]
+
+
+
+
+Windermere on a misty morning
+
+
+The word 'Windermere' is thought to translate as " 'Winand or Vinand's lake'... The specific has usually been identified with an Old Swedish personal name 'Vinandr', genitive singular 'Vinandar'"... although "the personal noun is of very restricted distribution even in Sweden." Another possibility is that it refers to a "Continental Germanic personal noun, 'Wīnand'...Since this name could not have been current until the 12th century, the fact that the Old Norse genitive singular '-ar-' has been added to it, it would suggest that Old Norse was still a living language in the area at that time."[2] The second element is Old English 'mere', meaning 'lake' or 'pool'. It was known as "Winander Mere" or "Winandermere" until at least the 19th century.[3][4]
+Its name suggests it is a mere, a lake that is broad in relation to its depth, but despite the name this is not the case for Windermere, which in particular has a noticeable thermocline, distinguishing it from typical meres. Until the 19th century, the term "lake" was, indeed, not much used by or known to the native inhabitants of the area, who referred to it as Windermere/Winandermere Water, or (in their dialect) Windermer Watter. The name Windermere or Windermer was used of the parish that had clearly taken its name from the water. The poet Norman Nicholson comments on the use of the phrase 'Lake Windermere': "a certain excuse for the tautology can be made in the case of Windermere, since we need to differentiate between the lake and the town, though it would be better to speak of 'Windermere Lake' and Windermere Town', but no one can excuse such ridiculous clumsiness as 'Lake Derwentwater' and 'Lake Ullswater."[5]
+The extensive parish included most of Undermilnbeck (that is, excepting Winster and the part of Crook chapelry that lay west of the Gilpin, which were part of Kirkby Kendal parish), Applethwaite, Troutbeck and Ambleside-below-Stock, that is, the part of Ambleside that lay south of Stock Beck. The parish church was at Bowness in Undermilnbeck.
+Geography[edit]
+
+
+
+
+A map of the lake from 1925
+
+
+Windermere is a ribbon lake. (Ribbon lakes are long, narrow and finger-like.) It was formed 13,000 years ago during the last major ice age by two glaciers, one from the Troutbeck valley and the other from the Fairfield Horseshoe[citation needed]. When the glaciers melted the lake filled with the meltwater, which was held in by moraine (rock material) deposited by the glaciers.
+The lake is drained from its southernmost point by the River Leven.[6] It is replenished by the rivers Brathay, Rothay, Trout Beck, Cunsey Beck and several other lesser streams. The lake is largely surrounded by foothills of the Lake District which provide pleasant low-level walks; to the north and north-east are the higher fells of central Lakeland.[6]
+There is debate as to whether the stretch of water between Newby Bridge and Lakeside at the southern end of the lake should be considered part of Windermere, or a navigable stretch of the River Leven. This affects the stated length of the lake, which is 18.08 kilometres (11.23 mi) long if measured from the bridge at Newby Bridge,[6] or 16.9 kilometres (10.5 mi) if measured from Lakeside[citation needed]. The lake varies in width up to a maximum of 1.49 kilometres (0.93 mi), and covers an area of 14.73 square kilometres (5.69 sq mi).[6] With a maximum depth of 66.7 metres (219 ft) and an elevation above sea level of 39 metres (128 ft), the lowest point of the lake bed is well below sea level.[6]
+There is only one town or village directly on the lakeshore, Bowness-on-Windermere, as the village of Windermere does not directly touch the lake and the centre of Ambleside is a mile to the north of Waterhead. The village of Windermere is about 20 minutes walk from Millerground, the nearest point on the lakeshore. It did not exist before the arrival of the railway in 1847. The station was built in an area of open fell and farmland in the township of Applethwaite. The nearest farm was Birthwaite, which gave its name to the station and the village that began to grow up near it. In about 1859, the residents began to call their new village by the name of Windermere, much to the chagrin of the people of Bowness, which had been the centre of the parish of Windermere for many centuries. Since 1907 the two places have been under one council and, although there are still two separate centres, the area between is largely built up, albeit bordering on woodland and open fields. Windermere railway station is a hub for train and bus connections to the surrounding areas. There is a regular train service to Oxenholme on the West Coast Main Line, where there are fast trains to Edinburgh, Glasgow, Manchester Airport, Birmingham and London.
+Islands[edit]
+The lake contains 18 islands.[7] By far the largest is the privately owned Belle Isle (16.18 hectares (40.0 acres)) opposite Bowness and around a kilometre in length. Its older name was Lang Holme, and 800 years ago it was the centre of the manor of Windermere and later, in effect, of a moiety of the barony of Kendal.
+The other islands or "holmes" are considerably smaller. The word "holme" or "holm" means small island or islet and comes from Old Norse. The island of Lady Holme is named after the chantry that formerly stood there and in former centuries was sometimes called St Mary Holme or just Mary Holme. The remaining islands are Bee Holme (the insular status of which depends on the water level), Blake Holme, Crow Holme, Birk or Birch Holme (called Fir Holme on Ordnance Survey maps), Grass Holme, Lilies of the Valley (East, and West), Ling Holme (a rocky hump with a few trees and a growth of ling), Hawes Holme, Hen Holme (also rocky and sometimes known as Chair and Table Island from some old flags or slabs of stone that were formerly found there), Maiden Holme (the smallest island, with just one tree), Ramp Holme (variously called Roger Holme and Berkshire Island at different times in its history), Rough Holme, Snake Holme, Thompson Holme (2nd largest), Silver Holme.[7]
+Natural history[edit]
+A high percentage (29.4%) of the lake's drainage area is under cultivation. The lake has a relatively low percentage of lake bed above 9 metres (30 ft) in depth which is rocky (28%)[clarification needed]. This makes Windermere a rich habitat. The main fish in the lake are trout, char, pike, and perch.
+The north to south alignment of the lake, combined with its position between Morecambe Bay and the central fells, means that it forms a migration highway, with geese often seen in winter.
+The Freshwater Biological Association was established on the shore of Windermere in 1929 and much of the early work on lake ecology, freshwater biology and limnology was conducted here.
+Local government[edit]
+Before 1974, the lake lay wholly within the county of Westmorland; however, the historic county boundary between Lancashire and Westmorland ran down the western shore of the lake and also along about three miles (5 km) of the southern section of the eastern shore. Anyone crossing the lake from east to west on the Windermere Ferry thus travels from the historic county of Westmorland to that of Lancashire.
+Since local government reorganisation in 1974, Windermere and its shores have been entirely within the district of South Lakeland in the non-metropolitan county of Cumbria. Most planning matters concerned with the lake are, however, the responsibility of the Lake District National Park Authority.
+Boating[edit]
+Steamers, launches and ferries[edit]
+
+
+
+
+Steam ferry on Windermere, circa 1895
+
+
+
+
+
+
+The MV Swan on Windermere
+
+
+
+
+
+
+The Tern on Windermere 1993
+
+
+Passenger services run the whole length of the lake, from Lakeside railway station, on the Lakeside and Haverthwaite heritage steam railway at the southern end of the lake, to Waterhead Bay near Ambleside in the north. Intermediate stops are made at Bowness and, by smaller launches only, at Brockhole. Some boats only operate part of the route, or operate out and back cruises, whilst others run the whole distance.[8]
+
+
+
+
+Bowness-on-Windermere landing-station in 1961
+
+
+These services date back to the former Furness Railway, who built the Lakeside branch, and were at one time operated by British Rail, the former state-owned rail operator. Since privatisation, three of the old railway boats are operated by Windermere Lake Cruises Ltd, along with a fleet of smaller and more modern launches. Three of the original four boats survive: the MV Tern of 1891, the MV Teal of 1936, and the MV Swan of 1938.[9] The fourth, MV Swift of 1900, was broken up at Lakeside in 1998.[10][11] Her rudder and only one propeller are displayed at Bowness.[12] Although often described as steamers, all are now diesel motor vessels. Tern and Swift were built with steam engines, but converted to diesel in the 1950s.
+The Windermere Ferry, a vehicle-carrying cable ferry, runs across the lake from Ferry Nab on the eastern side of the lake to Far Sawrey on the western side of the lake. This service forms part of the B5285. There are also two summer only passenger ferries that cross the lake. One crosses from Lakeside station to Fell Foot Park at the southern end of the lake, whilst the other links Bowness with Far Sawrey.[13][14][15]
+Boat clubs[edit]
+There are four large boating clubs based around the lake: the Windermere Motor Boat Racing Club, the Lake District Boat Club, the Royal Windermere Yacht Club, and the Windermere Cruising Association. The Royal Windermere Yacht Club maintains a set of turning marks on the lake, which are also used by the Windermere Cruising Association. The Lake District Boat Club is a family orientated club open to all boat users on the lake, with premises located in Bowness the club house benefits from magnificent views of the lake and surrounding fells. The LDBC also run a full programme of both social and racing events (www.lakedistrictboatclub.co.uk). The Windermere Cruising Association organises the popular Winter Series. This event benefits from not being hindered by the large waves, caused by gales, that often lead to sea racing being cancelled. The WCA also have a full calendar of summer races which are open to all abilities.
+At the south end of the lake is South Windermere Sailing Club, based at Fell Foot park on the east shore. It was started in 1961, as a family sailing club and has been the starting point for many successful British dinghy racing competitors including British, European and World Champions. The notoriously fluky wind on the lake has proved a successful training ground in learning to read the fast changing wind. SWSC celebrated its 50th Anniversary in 2011 and has developed a strong junior section under the coaching of Julie Tomkinson who in 2011 was honoured with an RYA Community Award for Outstanding Contribution.
+Speed records[edit]
+On Friday 13 June 1930, Sir Henry Segrave broke the world water speed record on Windermere in his boat, Miss England II at an average speed of 158.94 kilometres per hour (98.76 mph). On the third run over the course, off Belle Grange, the boat capsized. Segrave's mechanic, Victor Helliwell drowned, but Segrave was rescued by support boats. He died a short time later of his injuries. Segrave was one of the few people in history who have held the world land speed record and water speed record simultaneously.
+Racer Norman Buckley (powerboater) set several world water speed records on Windermere in the 1950s.[16]
+
+
+
+
+Windermere at Bowness
+
+
+
+
+
+
+Looking over Windermere
+
+
+Speed limits[edit]
+For many years, power-boating and water-skiing have been popular activities on the lake. In March 2000, the Lake District National Park Authority controversially introduced a bylaw setting a 10 knots (12 mph; 19 km/h) speed limit for all powered craft on the lake, in addition to three existing 6-mile-per-hour (5.2 kn)[17] speed limits for all craft on the upper, lower, and middle sections of the lake. The bylaw came into force in 2000, but there was a five year transition period and the new speed limits were only enforced from 29 March 2005. Despite the speed limits people continue to use power-boats on the lake, both legally and illegally.
+Many organisations, mainly those with an interest in sailing, support the limit, primarily on environmental grounds. Other benefits include restoring the tranquil nature of the lake and making it safer and more accessible for all users.
+Opponents are concerned that there are no other inland waters in England where water sports and power boating are permitted, whilst sailing is permitted on many other inland waters. Another concern has been the effect on many local businesses of reduced visitor numbers. Many businesses have closed and tourist numbers, especially numbers of users on the lake, have severely dropped since the introduction of the speed limit.[citation needed]
+There is controversy regarding the environmental benefits of the speed limitation. When powered craft "plane", around 20 mph, they produce less of a wake. This has led opponents of the speed limit to argue that by limiting powerboats to 10 knots, more damage is being done per powerboat.
+Windermere Steamboat Museum[edit]
+Windermere Steamboat Museum is located on Rayrigg Road in Bowness, and includes a collection of vintage steam boats dating back to 1896, as well as information about Swallows and Amazons and the history of racing boats. The museum has been closed since 2006 as it awaits funding for refurbishment.[18]
+The long popularity of steam launches on Windermere has even given its name to the Windermere kettle, a steam-powered tea urn.
+Windermere water bus[edit]
+In 2005, the Windermere Management Strategy identified the potential for water bus services on the lake. In 2009, the Lake District National Park Authority commissioned a detailed study into the demand for such services.[19] In July 2009, it was announced that Windermere Lake Cruises would be operating additional stops around the lake.[20] In January 2012, the Park Authority launched a consultation on further expansion of the water bus service.[21]
+Popular culture[edit]
+The first lines of William Wordsworth's poem, There was a Boy, are: There was a Boy; ye knew him well, ye cliffs And islands of Winander!
+
+The children's book Swallows and Amazons, and sequels Swallowdale and Winter Holiday, are based loosely on life before World War II around a fictional lake derived from a combination of Windermere and Coniston Water. The BBC made a series of Swallows and Amazons in 1962; parts of this were filmed at the boathouse of Huyton Hill Preparatory School (now Pullwood House) [22] on the North-West shore.
+In the horror novel The Pike (1982) by Cliff Twemlow, a 12-foot (3.7 m) long pike in Windermere goes on a killing spree, and the consequence is a boom in the lake's tourist trade. Two attempts have been made to film the novel.
+Windermere and the surrounding countryside is the setting for mystery novelist Elizabeth George's 2012 book Believing the Lie, the 17th in the Inspector Lynley series.
+The area is also featured as an arena in the popular arcade videogame Tekken.
+In November 2009, several scenes were shot on Windermere for the soap opera Coronation Street. The filming centred around Pull Wyke Bay and Pull Wood House on the North-West shoreline. The scenes, featuring the newlyweds Gail and Joe on their honeymoon, were aired in January/February 2010.
+Belle Isle features in The Wardstone Chronicles: The Spooks Mistake. Rather than the large house, though, Belle Isle plays host to a folly which is used by the Water Witches in the area.
+Some people believe that there may be a lake monster,[23] similar to the one alleged to live in Loch Ness, and anomalous photos have been taken of the supposed creature;[24][25] it has been affectionately nicknamed "Bownessie." The novel Giant Killer Eels by Stuart Neild is set in the Lake District and features Bownessie-like monsters in Windermere and Lake Unsworth.
+Great North Swim[edit]
+On Saturday 13 September 2008, Windermere hosted the inaugural Great North Swim, a one mile (1.6 km) open water swim involving 2,200 swimmers.[26] The second annual swim took place on 12 and 13 September 2009, with 6000 swimmers, making this the largest open water swim in the UK.
+Bibliography[edit]
+
+Parker, John Wilson (2004). An Atlas of the English Lakes. Cicerone Press. ISBN 1-85284-355-1. 
+
+References[edit]
+
+
+^ Mention it is the largest lake on the Windermere YHA page
+^ Whaley, Diana (2006). A dictionary of Lake District place-names. Nottingham: English Place-Name Society. pp. lx,423 p.374. ISBN 0-904889-72-6. 
+^ "Gray's Book of Roads". George Carrington Gray. 1824. 
+^ Daniel Defoe (1726). A Tour through the Whole Island of Great Britain.  "I must not forget Winander Mere, which makes the utmost northern bounds of this shire ..."
+^ Nicholson, Norman (1972). Portrait of the Lakes (2nd ed.). London: Robert Hale & Company. pp. 190, p.77. 
+^ a b c d e Parker, 2004, pages 22–33
+^ a b "Windermere: Islands". Lake District National Park. 
+^ "Timetables". Windermere Lake Cruises Ltd. Retrieved 2009-12-20. [dead link]
+^ "Vessels". Windermere Lake Cruises Ltd. Archived from the original on April 3, 2007. Retrieved May 11, 2007. 
+^ "Mersey Shipping News". Irish Sea Shipping. June 1997. 
+^ "Mersey Shipping News". Irish Sea Shipping. August 1998. 
+^ "MV Swift Steamer Screw, Bowness-on-Windermere". 
+^ "Windermere ferry". Cumbria County Council. Retrieved 2008-11-12. 
+^ "Fell Foot Park - Getting There". National Trust. Retrieved 2009-12-20. 
+^ "Bowness to Ferry House". Windermere Lake Cruises Ltd. Retrieved 2009-12-20. [dead link]
+^ "1956: World water speed record smashed". BBC. 17 September 1956. 
+^ Lake District National Park Authority - Windermere safety and speed limits
+^ Windermere Steamboat Museum
+^ http://www.lakedistrict.gov.uk/__data/assets/pdf_file/0005/170618/windermere_waterbus_-_final_report_020709.pdf
+^ http://www.nwemail.co.uk/news/trial_to_extend_windermere_waterbus_service_set_to_start_1_585401?referrerPath=/2.3568
+^ "Views sought on extra Windermere water bus stops". BBC News. 15 January 2012. 
+^ "History of Pullwood Bay". Pullwood Bay. 
+^ "List of local stories relating to "Bownessie"". The Westmorland Gazette. Retrieved 2011-02-18. 
+^ Kate Proctor (17 February 2011). "Is this Windermere's mysterious Bownessie monster?". The Westmorland Gazette. Retrieved 2011-02-18. 
+^ Collins, Nick (18 February 2011). "New photo of 'English Nessie' hailed as best yet". The Daily Telegraph (London). 
+^ Great North Swim
+
+
+External links[edit]
+
+
+
+Wikimedia Commons has media related to: Windermere
+
+
+
+Windermere on Visitcumbria.com
+Windermere Interactive Maps - 2d & 3d
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Lakes and principal tarns in the English Lake District
+
+
+
+
+
+
+
+
+
+Bassenthwaite Lake
+Buttermere
+Coniston Water
+Crummock Water
+Derwent Water
+Elter Water
+Ennerdale Water
+Esthwaite Water
+Grasmere
+Haweswater Reservoir
+Loweswater
+Rydal Water
+Tarn Hows
+Thirlmere
+Ullswater
+Wast Water
+Windermere
+
+
+
+
+
+
+
+
+
+
+ 
+NewPP limit report
+CPU time usage: 3.168 seconds
+Real time usage: 3.278 seconds
+Preprocessor visited node count: 9076/1000000
+Preprocessor generated node count: 19696/1500000
+Post‐expand include size: 71213/2048000 bytes
+Template argument size: 16873/2048000 bytes
+Highest expansion depth: 29/40
+Expensive parser function count: 2/500
+Lua time usage: 0.299s
+Lua memory usage: 2.86 MB
+
+
+ Saved in parser cache with key enwiki:pcache:idhash:291961-0!*!0!!en!4!* and timestamp 20130920152056 
+								
+				Retrieved from "http://en.wikipedia.org/w/index.php?title=Windermere&oldid=573789626#Popular_culture"				
+												Categories: Lakes of CumbriaWestmorlandHidden categories: All articles with dead external linksArticles with dead external links from September 2010All articles with unsourced statementsArticles with unsourced statements from December 2009Wikipedia articles needing clarification from June 2012Articles with unsourced statements from June 2012Commons category with local link same as on Wikidata												
+							
+		
+		
+			Navigation menu
+			
+				
+	Personal tools
+	
+Create accountLog in	
+
+				
+					
+	Namespaces
+	
+					Article
+					Talk
+			
+
+
+	
+		
+	Variants
+	
+		
+					
+	
+
+				
+				
+					
+	Views
+	
+					Read
+					Edit
+					View history
+			
+
+
+	Actions
+	
+		
+					
+	
+
+
+	Search
+	
+				
+																				
+		
+	
+
+				
+			
+			
+					
+				
+	Navigation
+	
+		
+			Main page
+			Contents
+			Featured content
+			Current events
+			Random article
+			Donate to Wikipedia
+		
+	
+
+
+	Interaction
+	
+		
+			Help
+			About Wikipedia
+			Community portal
+			Recent changes
+			Contact page
+		
+	
+
+
+	Toolbox
+	
+		
+			What links here
+			Related changes
+			Upload file
+			Special pages
+			Permanent link
+			Page information
+			Data item
+Cite this page		
+	
+
+
+	Print/export
+	
+		
+			Create a book
+			Download as PDF
+			Printable version
+		
+	
+
+
+	Languages
+	
+		
+			Cymraeg
+			Dansk
+			Deutsch
+			Español
+			Français
+			Hrvatski
+			Italiano
+			Македонски
+			Nederlands
+			Norsk bokmål
+			Norsk nynorsk
+			پنجابی
+			Polski
+			Русский
+			Simple English
+			Suomi
+			Svenska
+			中文
+			
+			Edit links
+		
+	
+
+			
+		
+		
+							
+											 This page was last modified on 20 September 2013 at 15:20.
+											Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. 
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+									
+							
+											Privacy policy
+											About Wikipedia
+											Disclaimers
+											Contact Wikipedia
+											Developers
+											Mobile view
+									
+										
+					
+						
+					
+					
+						
+					
+				
+						
+		
+		
+
+
+
+ Served by mw1059 in 0.220 secs. 
+	
+if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Windermere","wgTitle":"Windermere","wgCurRevisionId":573789626,"wgRevisionId":573789626,"wgArticleId":291961,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["All articles with dead external links","Articles with dead external links from September 2010","All articles with unsourced statements","Articles with unsourced statements from December 2009","Wikipedia articles needing clarification from June 2012","Articles with unsourced statements from June 2012","Commons category with local link same as on Wikidata","Lakes of Cumbria","Westmorland"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Windermere","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Bownessie","wgVectorEnabledModules":{"collapsiblenav":true,"experiments":true},"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"templateEditor":false,"templates":false,"preview":false,"previewDialog":false,"publish":false,"toc":false},"wgArticleFeedbackv5Permissions":{"aft-reader":true,"aft-member":false,"aft-editor":false,"aft-monitor":false,"aft-administrator":false,"aft-oversighter":false,"aft-noone":false},"wgVisualEditor":{"isPageWatched":false,"magnifyClipIconURL":"//bits.wikimedia.org/static-1.22wmf19/skins/common/images/magnify-clip.png","pageLanguageCode":"en","pageLanguageDir":"ltr"},"wikilove-recipient":"","wikilove-anon":0,"wgGuidedTourHelpGuiderUrl":"Help:Guided tours/guider","wgULSAcceptLanguageList":[],"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia","aftv5Article":{"id":291961,"title":"Windermere#Popular culture","namespace":0,"categories":["All articles with dead external links","All articles with unsourced statements","Articles with dead external links from September 2010","Articles with unsourced statements from December 2009","Articles with unsourced statements from June 2012","Commons category with local link same as on Wikidata","Lakes of Cumbria","Westmorland","Wikipedia articles needing clarification from June 2012"],"permissionLevel":false},"wgWikibaseItemId":"Q390370"});
+}if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":false,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,
+"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"useeditwarning":1,"prefershttps":1,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"vector-simplesearch":1,"vector-collapsiblenav":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"aftv5-last-filter":null,"visualeditor-enable":0,"visualeditor-enable-experimental":0,"visualeditor-betatempdisable":0,"wikilove-enabled":1,"echo-subscriptions-web-page-review":true,"echo-subscriptions-email-page-review":false,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"echo-notify-show-link":true,"echo-show-alert":true,"echo-email-frequency":0,"echo-email-format":"html","echo-subscriptions-email-system":true,"echo-subscriptions-web-system":true,"echo-subscriptions-email-other":false,"echo-subscriptions-web-other":true,"echo-subscriptions-email-edit-user-talk":false,"echo-subscriptions-web-edit-user-talk":true,
+"echo-subscriptions-email-reverted":false,"echo-subscriptions-web-reverted":true,"echo-subscriptions-email-article-linked":false,"echo-subscriptions-web-article-linked":false,"echo-subscriptions-email-mention":false,"echo-subscriptions-web-mention":true,"echo-subscriptions-web-edit-thank":true,"echo-subscriptions-email-edit-thank":false,"gettingstarted-task-toolbar-show-intro":true,"uls-preferences":"","language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs446":false,"searchNs447":false
+,"searchNs710":false,"searchNs711":false,"searchNs828":false,"searchNs829":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-mySandbox":1,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:156d8fe0ae17f8afd74198057563e45d */
+}if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","ext.visualEditor.viewPageTarget.init","ext.wikimediaShopLink.core","ext.uls.init","ext.uls.interface","wikibase.client.init","ext.centralNotice.bannerController","skins.vector.js"]);
+}/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}if(window.mw){
+mw.loader.load(["mobile.desktop","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.cite","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","mw.MwEmbedSupport.style","ext.vector.collapsibleNav","ext.articleFeedbackv5.startup","schema.HttpsSupport","ext.coreEvents.httpsSupport","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","mw.PopUpMediaTransform"],null,true);
+}
+redirectToFragment("#Popular_culture");

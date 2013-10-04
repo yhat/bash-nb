@@ -1,0 +1,497 @@
+
+
+
+Styracosaurus - Wikipedia, the free encyclopedia
+
+
+
+
+
+
+
+
+
+
+
+
+a:lang(ar),a:lang(ckb),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:0de201fdea5d684523607ed88007b127 */
+
+
+
+
+[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.22wmf18/skins/vector/csshover.min.htc")}</style><![endif]
+
+		
+		
+		
+			
+			
+						 CentralNotice 
+						Styracosaurus
+			
+								From Wikipedia, the free encyclopedia
+								
+												
+					Jump to:					navigation, 					search
+				
+				
+
+
+Styracosaurus
+Temporal range: Late Cretaceous, 76.5–75Ma
+
+PreЄ
+Є
+O
+S
+D
+C
+P
+T
+J
+K
+Pg
+N
+
+
+
+↓
+
+
+
+
+
+
+
+
+
+Mounted skeleton, Canadian Museum of Nature
+
+
+Scientific classification
+
+
+Kingdom:
+Animalia
+
+
+Phylum:
+Chordata
+
+
+Class:
+Reptilia
+
+
+Superorder:
+Dinosauria
+
+
+Order:
+†Ornithischia
+
+
+Suborder:
+†Cerapoda
+
+
+Infraorder:
+†Ceratopsia
+
+
+Family:
+†Ceratopsidae
+
+
+Subfamily:
+†Centrosaurinae
+
+
+Genus:
+†Styracosaurus
+Lambe, 1913
+
+
+Species
+
+
+
+
+†S. albertensis Lambe, 1913 (type)
+
+
+
+
+
+Styracosaurus (/stɨˌrækəˈsɔrəs/ stə-RAK-ə-SOR-əs; meaning "spiked lizard" from the Ancient Greek styrax/στύραξ "spike at the butt-end of a spear-shaft" and sauros/σαῦρος "lizard")[1] was a genus of herbivorous ceratopsian dinosaur from the Cretaceous Period (Campanian stage), about 76.5 to 75.0 million years ago. It had four to six long horns extending from its neck frill, a smaller horn on each of its cheeks, and a single horn protruding from its nose, which may have been up to 60 centimetres (2 ft) long and 15 centimetres (6 in) wide. The function or functions of the horns and frills have been debated for many years.
+Styracosaurus was a relatively large dinosaur, reaching lengths of 5.5 metres (18 ft) and weighing nearly 3 tons. It stood about 1.8 meters (6 ft) tall. Styracosaurus possessed four short legs and a bulky body. Its tail was rather short. The skull had a beak and shearing cheek teeth arranged in continuous dental batteries, suggesting that the animal sliced up plants. Like other ceratopsians, this dinosaur may have been a herd animal, traveling in large groups, as suggested by bonebeds.
+Named by Lawrence Lambe in 1913, Styracosaurus is a member of the Centrosaurinae. One species, S. albertensis, is currently assigned to Styracosaurus. Other species assigned to the genus have since been reassigned elsewhere.
+
+
+Contents
+
+
+1 Description
+2 Classification
+
+2.1 Origins and evolution
+
+
+3 Discoveries and species
+4 Paleobiology
+
+4.1 Dentition and diet
+4.2 Horns and frill
+
+
+5 References
+
+
+Description[edit]
+
+
+
+
+Styracosaurus compared in size with a human
+
+
+Individuals of the Styracosaurus genus were approximately 5.5 metres (18 ft) long as adults and weighed around 2.7 tons.[2] The skull was massive, with a large nostril, a tall straight nose horn, and a parietosquamosal frill (a neck frill) crowned with at least four large spikes. Each of the four longest frill spines was comparable in length to the nose horn, at 50 to 55 centimetres long (19.7 to 21.7 in).[3] The nasal horn is estimated at 57 centimeters long (19.7 in) in the type specimen,[4] but the horn is only partially complete. Based on other nasal horn cores from Styracosaurus and Centrosaurus, this horn may have come to a rounded point at around half of that length.[5]
+Aside from the large nasal horn and four long frill spikes, the cranial ornamentation was variable. Some individuals had small hook-like projections and knobs at the posterior margin of the frill, similar to but smaller than those in Centrosaurus. Others had less prominent tabs. Some, like the type individual, had a third pair of long frill spikes. Others had much smaller projections, and small points are found on the side margins of some but not all specimens. Modest pyramid-shaped brow horns were present in subadults, but were replaced by pits in adults.[5] Like most ceratopsids, Styracosaurus had large fenestrae (skull openings) in its frill. The front of the mouth had a toothless beak.
+The bulky body of Styracosaurus resembled that of a rhinoceros. It had powerful shoulders which may have been useful in intraspecies combat. Styracosaurus had a relatively short tail. Each toe bore a hooflike ungual which was sheathed in horn.[2]
+Various limb positions have been proposed for Styracosaurus and ceratopsids in general, including forelegs which were held underneath the body, or, alternatively, held in a sprawling position. The most recent work has put forward an intermediate crouched position as most likely.[6]
+Classification[edit]
+
+
+
+
+Restoration
+
+
+Styracosaurus is a member of the Centrosaurinae, a subfamily of large North American horned dinosaurs characterized by their "prominent nasal horns, subordinate brow horns, short squamosals in a short frill, a tall, deep face relative to the chasmosaurines, and a projection into the rear of the nasal fenestra."[7] Other members of the clade include Centrosaurus (from which the group takes its name),[8][9] Pachyrhinosaurus,[8][10] Avaceratops,[8] Einiosaurus,[10][11] Albertaceratops,[11] Achelousaurus,[10] Brachyceratops,[12] and Monoclonius,[8] although these last two are dubious. Because of the variation between species and even individual specimens of centrosaurines, there has been much debate over which genera and species are valid, particularly whether Centrosaurus and/or Monoclonius are valid genera, undiagnosable, or possibly members of the opposite sex. In 1996, Peter Dodson found enough variation between Centrosaurus, Styracosaurus, and Monoclonius to warrant separate genera, and that Styracosaurus resembled Centrosaurus more closely than either resembled Monoclonius. Dodson also believed one species of Monoclonius, M. nasicornis, may actually have been a female Styracosaurus.[13] However, most other researchers have not accepted Monoclonius nasicornis as a female Styracosaurus, instead regarding it as a synonym of Centrosaurus apertus.[5][14] While sexual dimorphism has been proposed for an earlier ceratopsian, Protoceratops,[15] there is no firm evidence for sexual dimorphism in any ceratopsid.[16][17][18]
+Goodwin and colleagues proposed in 1992 that Styracosaurus was part of the lineage leading to Einiosaurus, Achelousaurus and Pachyrhinosaurus. This was based on a series of fossil skulls from the Two Medicine Formation of Montana.[19] The position of Styracosaurus in this lineage is now equivocal, as the remains that were thought to represent Styracosaurus have been transferred to the genus Rubeosaurus.[20]
+Origins and evolution[edit]
+The evolutionary origins of Styracosaurus were not understood for many years because fossil evidence for early ceratopsians was sparse. The discovery of Protoceratops, in 1922, shed light on early ceratopsid relationships,[21] but several decades passed before additional finds filled in more of the blanks. Fresh discoveries in the late 1990s and 2000s, including Zuniceratops, the earliest known ceratopsian with brow horns, and Yinlong, the first known Jurassic ceratopsian, indicate what the ancestors of Styracosaurus may have looked like. These new discoveries have been important in illuminating the origins of horned dinosaurs in general, and suggest that the group originated during the Jurassic in Asia, with the appearance of true horned ceratopsians occurring by the beginning of the late Cretaceous in North America.[12]
+It has been suggested that Styracosaurus albertensis is a direct descendant of Centrosaurus (C. apertus or C. nasicornis), and that it in turn evolved directly into the slightly later species Rubeosaurus ovatus. Subtle changes can be traces in the arrangement of the horns through this lineage, leading from Rubeosaurus to Einiosaurus, to Achelousaurus and Pachyrhinosaurus. However, the lineage may not be a simple, straight line, as a pachyrhinosaur-like species has been reported from the same time and place as Styracosaurus albertensis.[22]
+Discoveries and species[edit]
+The first fossil remains of Styracosaurus were collected in Alberta, Canada by C.M. Sternberg (from an area now known as Dinosaur Provincial Park, in a formation now called the Dinosaur Park Formation) and named by Lawrence Lambe in 1913. This quarry was revisited in 1935 by a Royal Ontario Museum crew who found the missing lower jaws and most of the skeleton. These fossils indicate that S. albertensis was around 5.5 to 5.8 meters in length and stood about 1.65 meters high at the hips.[3] An unusual feature of this first skull is that the smallest frill spike on the left side is partially overlapped at its base by the next spike. It appears that the frill suffered a break at this point in life and was shortened by about 6 centimeters (2 in). The normal shape of this area is unknown because the corresponding area of the right side of the frill was not recovered.[5]
+
+
+
+
+Styracosaurus "parksi" skeleton, specimen AM5372
+
+
+Barnum Brown and crew, working for the American Museum of Natural History in New York, collected a nearly complete articulated skeleton with a partial skull in 1915. These fossils were also found in the Dinosaur Park Formation, near Steveville, Alberta. Brown and Erich Maren Schlaikjer compared the finds, and, though they allowed that both specimens were from the same general locality and geological formation, they considered the specimen sufficiently distinct from the holotype to warrant erecting a new species, and described the fossils as Styracosaurus parksi, named in honor of William Parks.[23] Among the differences between the specimens cited by Brown and Schlaikjer were a cheekbone quite different from that of S. albertensis, and smaller tail vertebrae. S. parksi also had a more robust jaw, a shorter dentary, and the frill differed in shape from that of the type species.[23] However, much of the skull consisted of plaster reconstruction, and the original 1937 paper did not illustrate the actual skull bones.[3] It is now accepted as a specimen of S. albertensis.[5][12]
+In the summer of 2006, Darren Tanke of the Royal Tyrrell Museum of Palaeontology in Drumheller, Alberta relocated the long lost S. parksi site.[5] Pieces of the skull, evidently abandoned by the 1915 crew, were found in the quarry. These were collected and it is hoped more pieces will be found, perhaps enough to warrant a redescription of the skull and test whether S. albertensis and S. parksi are the same. The Tyrrell Museum has also collected several partial Styracosaurus skulls.[24] At least one confirmed bonebed (bonebed 42) in Dinosaur Provincial Park has also been explored (other proposed Styracosaurus bonebeds instead have fossils from a mix of animals, and nondiagnostic ceratopsian remains). Bonebed 42 is known to contain numerous pieces of skulls such as horncores, jaws and frill pieces.[5]
+A third species, S. ovatus, from the Two Medicine Formation of Montana, was described by Gilmore in 1930. The fossil material is limited, with the best being a portion of the parietal bone of the frill, but one unusual feature is that the pair of spikes closest to the midline converge towards the midline, rather than away from it as in S. albertensis. There also may only have been two sets of spikes on each side of the frill, instead of three. The spikes are much shorter than in S. albertensis, with the longest only 295 millimeters (11.6 in) long.[25] A 2010 review of styracosaur skull remains by Ryan, Holmes, and Russell found it to be a distinct species,[5] and in 2010 McDonald and Horner placed it in its own genus, Rubeosaurus.[20]
+Several other species which were assigned to Styracosaurus have since been assigned to other genera. S. sphenocerus, described by Edward Drinker Cope in 1890 as a species of Monoclonius and based on a nasal bone with a broken Styracosaurus-like straight nose horn, was attributed to Styracosaurus in 1915.[26] "S. makeli", mentioned informally by amateur paleontologists Stephen and Sylvia Czerkas in 1990 in a caption to an illustration, is an early name for Einiosaurus.[27] "S. borealis" is an early informal name for S. parksi.[28]
+Paleobiology[edit]
+
+
+
+
+Artist's restoration
+
+
+Styracosaurus and other horned dinosaurs are often depicted in popular culture as herd animals. A bonebed composed of Styracosaurus remains is known from the Dinosaur Park Formation of Alberta, about halfway up the formation. This bonebed is associated with different types of river deposits.[24][29] The mass deaths may have been a result of otherwise non-herding animals congregating around a waterhole in a period of drought, with evidence suggesting the environment may have been seasonal and semiarid.[30] Styracosaurus is known from a higher position in the formation (relating specifically to its own genus) than the closely related Centrosaurus, suggesting that Styracosaurus displaced Centrosaurus as the environment changed over time and/or dimension.[14]
+Paleontologists Gregory Paul and Per Christiansen of the Zoological Museum of the University of Copenhagen in Denmark proposed that large ceratopsians such as Styracosaurus were able to run faster than an elephant, based on possible ceratopsian trackways which did not exhibit signs of sprawling forelimbs.[31]
+Dentition and diet[edit]
+Styracosaurs were herbivorous dinosaurs; they probably fed mostly on low growth because of the position of the head. They may, however, have been able to knock down taller plants with their horns, beak, and bulk.[12][32] The jaws were tipped with a deep, narrow beak, believed to have been better at grasping and plucking than biting.[33]
+Ceratopsid teeth, including those of Styracosaurus, were arranged in groups called batteries. Older teeth on top were continually replaced by the teeth underneath them. Unlike hadrosaurids, which also had dental batteries, ceratopsid teeth sliced but did not grind.[12] Some scientists have suggested that ceratopsids like Styracosaurus ate palms and cycads,[34] while others have suggested ferns.[35] Dodson has proposed that Late Cretaceous ceratopsians may have knocked down angiosperm trees and then sheared off leaves and twigs.[36]
+Horns and frill[edit]
+
+
+
+
+Close-up of the AM5372 skull, American Museum of Natural History
+
+
+The large nasal horns and frills of Styracosaurus are among the most distinctive facial adornments of all dinosaurs. Their function has been the subject of debate since the first horned dinosaurs were discovered.
+Early in the 20th century, paleontologist R. S. Lull proposed that the frills of ceratopsian dinosaurs acted as anchor points for their jaw muscles.[37] He later noted that for Styracosaurus, the spikes would have given it a formidable appearance.[38] In 1996, Dodson supported the idea of muscle attachments in part and created detailed diagrams of possible muscle attachments in the frills of Styracosaurus and Chasmosaurus, but did not subscribe to the idea that they completely filled in the fenestrae.[39] C.A. Forster, however, found no evidence of large muscle attachments on the frill bones.[16]
+It was long believed that ceratopsians like Styracosaurus used their frills and horns in defence against the large predatory dinosaurs of the time. Although pitting, holes, lesions, and other damage on ceratopsid skulls are often attributed to horn damage in combat, a 2006 study found no evidence for horn thrust injuries causing these forms of damage (for example, there is no evidence of infection or healing). Instead, non-pathological bone resorption, or unknown bone diseases, are suggested as causes.[40]
+However, a newer study compared incidence rates of skull lesions in Triceratops and Centrosaurus and showed that these were consistent with Triceratops using its horns in combat and the frill being adapted as a protective structure, while lower pathology rates in Centrosaurus may indicate visual rather than physical use of cranial ornamentation, or a form of combat focused on the body rather than the head;[41] as Centrosaurus was more closely related to Styracosaurus and both genera had long nasal horns, the results for this genus would be more applicable for Styracosaurus. The researchers also concluded that the damage found on the specimens in the study was often too localized to be caused by bone disease.[42]
+The large frill on Styracosaurus and related genera also may have helped to increase body area to regulate body temperature,[43] like the ears of the modern elephant. A similar theory has been proposed regarding the plates of Stegosaurus,[44] although this use alone would not account for the bizarre and extravagant variation seen in different members of the Ceratopsidae.[12] This observation is highly suggestive of what is now believed to be the primary function, display.
+The theory of frill use in sexual display was first proposed in 1961 by Davitashvili. This theory has gained increasing acceptance.[16][45] Evidence that visual display was important, either in courtship or in other social behavior, can be seen in the fact that horned dinosaurs differ markedly in their adornments, making each species highly distinctive. Also, modern living creatures with such displays of horns and adornments use them in similar behavior.[46]
+
+References[edit]
+
+
+^ Liddell & Scott (1980). Greek-English Lexicon, Abridged Edition. Oxford University Press, Oxford, UK. ISBN 0-19-910207-4. 
+^ a b Lambert, D. (1993). The Ultimate Dinosaur Book. Dorling Kindersley: New York, 152–167. ISBN 1-56458-304-X.
+^ a b c Dodson, P. (1996). The Horned Dinosaurs: A Natural History. Princeton: Princeton University Press. pp. 165–169. ISBN 0-691-05900-4. 
+^ Lambe, L.M. (1913). "A new genus and species from the Belly River Formation of Alberta". Ottawa Naturalist 27: 109–116. 
+^ a b c d e f g h Ryan, Michael J.; Holmes, Robert; and Russell, A.P. (2007). "A revision of the late Campanian centrosaurine ceratopsid genus Styracosaurus from the Western Interior of North America". Journal of Vertebrate Paleontology 27 (4): 944–962. doi:10.1671/0272-4634(2007)27[944:AROTLC]2.0.CO;2. Retrieved 2010-08-19. 
+^ Thompson, Stefan; and Holmes, Robert (April 2007). "Forelimb stance and step cycle in Chasmosaurus irvinensis (Dinosauria:Neoceratopsia". Palaeontologia Electronica. Retrieved 2007-05-28. 
+^ Tweet, J. (2007). "Centrosaurinae". Thescelosaurus. Qwest.net. Retrieved 2007-04-22. 
+^ a b c d Dodson, P. (1990). "On the status of the ceratopsids Monoclonius and Centrosaurus". In Carpenter, K.; and Currie, P.J. (eds.). Dinosaur Systematics: Perspectives and Approaches. Cambridge: Cambridge University Press. pp. 231–243. ISBN 0-521-36672-0. 
+^ Ryan, M.J.; A.P. Russell (2003). "New centrosaurine ceratopsids from the late Campanian of Alberta and Montana and a review of contemporaneous and regional patterns of centrosaurine evolution". Journal of Vertebrate Paleontology 23 (3). 
+^ a b c Ryan, M.J.; A.P. Russell (2005). "A new centrosaurine ceratopsid from the Oldman Formation of Alberta and its implications for centrosaurine taxonomy and systematics". Canadian Journal of Earth Sciences 42 (7): 1369–1387. doi:10.1139/e05-029. 
+^ a b Ryan, M.J. (2007). "A new basal centrosaurine ceratopsid from the Oldman Formation, southeastern Alberta". Journal of Paleontology 81 (2): 376–396. doi:10.1666/0022-3360(2007)81[376:ANBCCF]2.0.CO;2. 
+^ a b c d e f Dodson, P., Forster, C. A, and Sampson, S. D. (2004) Ceratopsidae. In: Weishampel, D. B., Dodson, P., and Osmólska, H. (eds.), The Dinosauria (second edition). Berkeley: University of California Press, pp. 494–513. ISBN 0-520-24209-2.
+^ Dodson, P. (1996). The Horned Dinosaurs: A Natural History. Princeton University Press: Princeton, New Jersey, pp. 197–199. ISBN 0-691-02882-6.
+^ a b Ryan, Michael J.; and Evans, David C. (2005). "Ornithischian Dinosaurs". In Currie, Phillip J., and Koppelhus, Eva. Dinosaur Provincial Park: A Spectacular Ancient Ecosystem Revealed. Bloomington: Indiana University Press. pp. 312–348. ISBN 0-253-34595-2. 
+^ Dodson, P. "Quantitative aspects of relative growth and sexual dimorphism in Protoceratops". Journal of Paleontology 50: 929–940. 
+^ a b c Forster, C. A. (1990). The cranial morphology and systematics of Triceratops, with a preliminary analysis of ceratopsian phylogeny. Ph.D. Dissertation. University of Pennsylvania, Philadelphia. 227 pp.
+^ Lehman, T. M. (1998). "A gigantic skull and skeleton of the horned dinosaur Pentaceratops sternbergi from New Mexico". Journal of Paleontology 72 (5): 894–906. 
+^ Sampson, S. D.; Ryan, M.J.; and Tanke, D.H. (1997). "Craniofacial ontogeny in centrosaurine dinosaurs (Ornithischia: Ceratopsidae): taphonomic and behavioral phylogenetic implications". Zoological Journal of the Linnean Society 121 (3): 293–337. doi:10.1111/j.1096-3642.1997.tb00340.x. 
+^ Goodwin, M.J; Varricchio, D.J.; Horner, J.R. (1992). "Marine transgressions and the evolution of Cretaceous dinosaurs". Nature 358 (6381): 59–61. doi:10.1038/358059a0. 
+^ a b Andrew T. McDonald & John R. Horner, (2010). "New Material of "Styracosaurus" ovatus from the Two Medicine Formation of Montana", In: Michael J. Ryan, Brenda J. Chinnery-Allgeier, and David A. Eberth (eds), New Perspectives on Horned Dinosaurs: The Royal Tyrrell Museum Ceratopsian Symposium, Indiana University Press, 656 pp.
+^ Dodson, P. (1996). The Horned Dinosaurs: A Natural History. Princeton University Press: Princeton, New Jersey, p. 244. ISBN 0-691-02882-6.
+^ Andrew T. McDonald & John R. Horner, (2010). "New Material of "Styracosaurus" ovatus from the Two Medicine Formation of Montana". Pages 156–168 in: Michael J. Ryan, Brenda J. Chinnery-Allgeier, and David A. Eberth (eds), New Perspectives on Horned Dinosaurs: The Royal Tyrrell Museum Ceratopsian Symposium, Indiana University Press, Bloomington and Indianapolis, IN.
+^ a b Brown, Barnum; Erich Maren Schlaikjer (1937). "The skeleton of Styracosaurus with the description of a new species". American Museum novitates (New York City : The American Museum of Natural History). no. 955: 12. Retrieved 2007-03-29. 
+^ a b Eberth, David A.; and Getty, Michael A. (2005). "Ceratopsian bonebeds: occurrence, origins, and significance". In Currie, Phillip J., and Koppelhus, Eva. Dinosaur Provincial Park: A Spectacular Ancient Ecosystem Revealed. Bloomington: Indiana University Press. pp. 501–536. ISBN 0-253-34595-2. 
+^ Gilmore, Charles W. (1930). "On dinosaurian reptiles from the Two Medicine Formation of Montana". Proceedings of the United States National Museum 77 (16): 1–39. 
+^ Lambe, L. M. (1915). "On Eoceratops canadensis, gen. nov., with remarks on other genera of Cretaceous horned dinosaurs". Canada Geological Survey Bulletin, Geological Series 12 (24): 1–49. 
+^ Glut, Donald F. (1997). "Einiosaurus". Dinosaurs: The Encyclopedia. Jefferson, North Carolina: McFarland & Co. pp. 396–398. ISBN 0-89950-917-7. 
+^ Glut, Donald F. (1997). "Styracosaurus". Dinosaurs: The Encyclopedia. Jefferson, North Carolina: McFarland & Co. pp. 865–868. ISBN 0-89950-917-7. 
+^ Although this article mentioned two bonebeds, including BB 156, the recent review by Ryan et al. only accepted BB 42.
+^ Rogers, R. R. (1990). "Taphonomy of three dinosaur bone beds in the Upper Cretaceous Two Medicine Formation, northwestern Montana: Evidence for drought-related mortality". PALAIOS 5 (5): 394–41. doi:10.2307/3514834. JSTOR 3514834. 
+^ Paul, Gregory S; Per Christiansen (September 2000). "Forelimb posture in neoceratopsian dinosaurs: implications for gait and locomotion". Paleobiology (BioOne) 26 (3): 450–465. doi:10.1666/0094-8373(2000)026<0450:FPINDI>2.0.CO;2. Retrieved 2007-02-25. 
+^ Tait, J.; Brown, B. (1928). "How the Ceratopsia carried and used their head". Transactions of the Royal Society of Canada 22: 13–23. 
+^ Ostrom, J. H. (1966). "Functional morphology and evolution of the ceratopsian dinosaurs". Evolution 20 (3): 290–308. doi:10.2307/2406631. JSTOR 2406631. 
+^ Weishampel, D. B. (1984). "Evolution of jaw mechanisms in ornithopod dinosaurs". Advances in Anatomy, Embryology, and Cell Biology 87: 1–110. PMID 6464809. 
+^ Coe, M. J., Dilcher, D. L., Farlow, J. O., Jarzen, D. M., and Russell, D. A. (1987). Dinosaurs and land plants. In: Friis, E. M., Chaloner, W. G., and Crane, P. R. (eds.) The Origins of Angiosperms and their Biological Consequences Cambridge University Press, pp. 225–258. ISBN 0-521-32357-6.
+^ Dodson, P. (1996). The Horned Dinosaurs: A Natural History. Princeton University Press: Princeton, New Jersey, p. 266. ISBN 0-691-02882-6.
+^ Lull, R.S. (1908). "The cranial musculature and the origin of the frill in the ceratopsian dinosaurs". American Journal of Science 4 (25): 387–399. doi:10.2475/ajs.s4-25.149.387. 
+^ Lull, R.S. (1933). "A revision of the Ceratopsia or horned dinosaurs". Memoirs of the Peabody Museum of Natural History 3 (3): 1–175. 
+^ Dodson, P. (1996). The Horned Dinosaurs: A Natural History. Princeton University Press: Princeton, New Jersey, p. 269. ISBN 0-691-02882-6.
+^ Tanke, D. H, and Farke, A. A. (2006). Bone resorption, bone lesions, and extracranial fenestrae in ceratopsid dinosaurs: a preliminary assessment. in: Carpenter, K. (ed.). Horns and Beaks: Ceratopsian and Ornithopod Dinosaurs Indiana University Press: Bloomington. pp. 319–347. ISBN 0-253-34817-X.
+^ Farke, A.A., Wolff, E.D.S., Tanke, D.H., Sereno, Paul (2009). "Evidence of Combat in Triceratops". In Sereno, Paul. PLoS ONE 4 (1): e4252. doi:10.1371/journal.pone.0004252. 
+^ Wall, Michael (2009-01-27). "Scars Reveal How Triceratops Fought –". Wired.com. Retrieved 2010-08-03. 
+^ Wheeler, P.E. (1978). "Elaborate CNS cooling structures in large dinosaurs". Nature 275 (5679): 441–443. doi:10.1038/275441a0. PMID 692723. 
+^ Farlow, J. O., Thompson, C. V., and Rosner, D. E. (1976). "Plates of the dinosaur Stegosaurus: Forced convection heat loss fins?". Science 192 (4244): 1123–1125. doi:10.1126/science.192.4244.1123. PMID 17748675. 
+^ Davitashvili L (1961). The Theory of sexual selection. Izdatel'stvo Akademii Nauk SSSR. p. 538. 
+^ Farlow, J. O., and Dodson, P. (1975). "The behavioral significance of frill and horn morphology in ceratopsian dinosaurs". Evolution 29 (2): 353–361. doi:10.2307/2407222. JSTOR 2407222. 
+
+
+
+
+
+Wikispecies has information related to: Styracosaurus
+
+
+
+
+
+
+Dinosaurs portal
+
+
+
+
+   
+
+
+ 
+NewPP limit report
+CPU time usage: 4.176 seconds
+Real time usage: 4.327 seconds
+Preprocessor visited node count: 17901/1000000
+Preprocessor generated node count: 41926/1500000
+Post‐expand include size: 106591/2048000 bytes
+Template argument size: 18013/2048000 bytes
+Highest expansion depth: 25/40
+Expensive parser function count: 0/500
+Lua time usage: 0.139s
+Lua memory usage: 2.32 MB
+
+
+ Saved in parser cache with key enwiki:pcache:idhash:1792150-0!*!0!!en!4!* and timestamp 20131002134007 
+								
+				Retrieved from "http://en.wikipedia.org/w/index.php?title=Styracosaurus&oldid=571197844"				
+												Categories: CeratopsidsCretaceous dinosaursDinosaurs of North AmericaHidden categories: Wikipedia indefinitely move-protected pagesArticles with 'species' microformatsFeatured articles												
+							
+		
+		
+			Navigation menu
+			
+				
+	Personal tools
+	
+Create accountLog in	
+
+				
+					
+	Namespaces
+	
+					Article
+					Talk
+			
+
+
+	
+		
+	Variants
+	
+		
+					
+	
+
+				
+				
+					
+	Views
+	
+					Read
+					Edit
+					View history
+			
+
+
+	Actions
+	
+		
+					
+	
+
+
+	Search
+	
+				
+																				
+		
+	
+
+				
+			
+			
+					
+				
+	Navigation
+	
+		
+			Main page
+			Contents
+			Featured content
+			Current events
+			Random article
+			Donate to Wikipedia
+		
+	
+
+
+	Interaction
+	
+		
+			Help
+			About Wikipedia
+			Community portal
+			Recent changes
+			Contact page
+		
+	
+
+
+	Toolbox
+	
+		
+			What links here
+			Related changes
+			Upload file
+			Special pages
+			Permanent link
+			Page information
+			Data item
+Cite this page		
+	
+
+
+	Print/export
+	
+		
+			Create a book
+			Download as PDF
+			Printable version
+		
+	
+
+
+	Languages
+	
+		
+			Català
+			Česky
+			Dansk
+			Deutsch
+			Español
+			Esperanto
+			Euskara
+			Français
+			Galego
+			한국어
+			Italiano
+			עברית
+			Latviešu
+			Lietuvių
+			Magyar
+			Nederlands
+			日本語
+			Norsk bokmål
+			Occitan
+			Polski
+			Português
+			Română
+			Русский
+			Simple English
+			Slovenčina
+			Suomi
+			Svenska
+			Tagalog
+			தமிழ்
+			ไทย
+			Türkçe
+			Tiếng Việt
+			中文
+			
+			Edit links
+		
+	
+
+			
+		
+		
+							
+											 This page was last modified on 2 September 2013 at 09:30.
+											Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. 
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+									
+							
+											Privacy policy
+											About Wikipedia
+											Disclaimers
+											Contact Wikipedia
+											Developers
+											Mobile view
+									
+										
+					
+						
+					
+					
+						
+					
+				
+						
+		
+		
+
+
+ Served by mw1184 in 0.175 secs. 
+	
+if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Styracosaurus","wgTitle":"Styracosaurus","wgCurRevisionId":571197844,"wgArticleId":1792150,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Wikipedia indefinitely move-protected pages","Articles with 'species' microformats","Featured articles","Ceratopsids","Cretaceous dinosaurs","Dinosaurs of North America"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Styracosaurus","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":["sysop"],"wgVectorEnabledModules":{"collapsiblenav":true,"experiments":true},"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"templateEditor":false,"templates":false,"preview":false,"previewDialog":false,"publish":false,"toc":false},"wgArticleFeedbackv5Permissions":{"aft-reader":true,"aft-member":false,"aft-editor":false,"aft-monitor":false,"aft-administrator":false,"aft-oversighter":false,"aft-noone":false},"wgVisualEditor":{"isPageWatched":false,"magnifyClipIconURL":"//bits.wikimedia.org/static-1.22wmf18/skins/common/images/magnify-clip.png","pageLanguageCode":"en","pageLanguageDir":"ltr"},"wikilove-recipient":"","wikilove-anon":0,"wgGuidedTourHelpGuiderUrl":"Help:Guided tours/guider","wgULSAcceptLanguageList":["en-us"],"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia","aftv5Article":{"id":1792150,"title":"Styracosaurus","namespace":0,"categories":["Articles with 'species' microformats","Ceratopsids","Cretaceous dinosaurs","Dinosaurs of North America","Featured articles","Wikipedia indefinitely move-protected pages"],"permissionLevel":false},"wgWikibaseItemId":"Q14483"});
+}if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":false,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,
+"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"useeditwarning":1,"prefershttps":1,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"vector-simplesearch":1,"vector-collapsiblenav":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"aftv5-last-filter":null,"visualeditor-enable":0,"visualeditor-enable-experimental":0,"visualeditor-betatempdisable":0,"wikilove-enabled":1,"echo-subscriptions-web-page-review":true,"echo-subscriptions-email-page-review":false,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"echo-notify-show-link":true,"echo-show-alert":true,"echo-email-frequency":0,"echo-email-format":"html","echo-subscriptions-email-system":true,"echo-subscriptions-web-system":true,"echo-subscriptions-email-other":false,"echo-subscriptions-web-other":true,"echo-subscriptions-email-edit-user-talk":false,"echo-subscriptions-web-edit-user-talk":true,
+"echo-subscriptions-email-reverted":false,"echo-subscriptions-web-reverted":true,"echo-subscriptions-email-article-linked":false,"echo-subscriptions-web-article-linked":false,"echo-subscriptions-email-mention":false,"echo-subscriptions-web-mention":true,"echo-subscriptions-web-edit-thank":true,"echo-subscriptions-email-edit-thank":false,"gettingstarted-task-toolbar-show-intro":true,"uls-preferences":"","language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs446":false,"searchNs447":false
+,"searchNs710":false,"searchNs711":false,"searchNs828":false,"searchNs829":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-mySandbox":1,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:156d8fe0ae17f8afd74198057563e45d */
+}if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","ext.visualEditor.viewPageTarget.init","ext.wikimediaShopLink.core","ext.uls.init","ext.uls.interface","wikibase.client.init","ext.centralNotice.bannerController","skins.vector.js"]);
+}/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}if(window.mw){
+mw.loader.load(["mobile.desktop","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.cite","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","mw.MwEmbedSupport.style","ext.vector.collapsibleNav","ext.articleFeedbackv5.startup","ext.gettingstarted.logging","ext.gettingstarted.openTask","schema.HttpsSupport","ext.coreEvents.httpsSupport","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","mw.PopUpMediaTransform"],null,true);
+}

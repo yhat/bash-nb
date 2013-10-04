@@ -1,0 +1,668 @@
+
+
+
+Apatosaurus - Wikipedia, the free encyclopedia
+
+
+
+
+
+
+
+
+
+
+
+
+a:lang(ar),a:lang(ckb),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:0de201fdea5d684523607ed88007b127 */
+
+
+
+
+[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.22wmf18/skins/vector/csshover.min.htc")}</style><![endif]
+
+		
+		
+		
+			
+			
+						 CentralNotice 
+						Apatosaurus
+			
+								From Wikipedia, the free encyclopedia
+								
+												
+					Jump to:					navigation, 					search
+				
+				"Brontosaurus" redirects here. For other uses, see Brontosaurus (disambiguation).
+
+
+
+Apatosaurus
+Temporal range: Late Jurassic, 154–150Ma
+
+PreЄ
+Є
+O
+S
+D
+C
+P
+T
+J
+K
+Pg
+N
+
+
+
+↓
+
+
+
+
+
+
+
+
+
+Mounted skeleton of A. louisae, Carnegie Museum of Natural History
+
+
+Scientific classification 
+
+
+Kingdom:
+Animalia
+
+
+Phylum:
+Chordata
+
+
+Clade:
+Sauropsida
+
+
+Clade:
+Dinosauria
+
+
+Suborder:
+†Sauropodomorpha
+
+
+Family:
+†Diplodocidae
+
+
+Subfamily:
+†Apatosaurinae
+
+
+Genus:
+†Apatosaurus
+Marsh, 1877
+
+
+Type species
+
+
+†Apatosaurus ajax
+Marsh, 1877
+
+
+Referred Species
+
+
+
+
+†Apatosaurus excelsus (Marsh, 1879)
+†Apatosaurus louisae Holland, 1915
+†Apatosaurus parvus (Peterson & Gilmore, 1902)
+
+
+
+
+Synonyms
+
+
+
+
+Atlantosaurus? Marsh, 1877
+Brontosaurus Marsh, 1879
+Elosaurus Peterson & Gilmore, 1902
+
+
+
+
+
+Apatosaurus /əˌpætɵˈsɔrəs/, including the popular but scientifically redundant synonym Brontosaurus, is a genus of sauropod dinosaur that lived from about 154 to 150 million years ago, during the Jurassic Period (Kimmeridgian and early Tithonian ages).[1] It was one of the largest land animals known to have ever existed, with an average length of 23 m (75 ft) and a mass of at least 16 metric tons (18 short tons).[2] Fossils of these animals have been found in Nine Mile Quarry and Bone Cabin Quarry in Wyoming and at sites in Colorado, Oklahoma and Utah, present in stratigraphic zones 2–6.[3]
+The cervical vertebrae were less elongated and more heavily constructed than those of Diplodocus and the bones of the leg were much stockier (despite being longer), implying a more robust animal. The tail was held above the ground during normal locomotion. Like most sauropods, Apatosaurus had only a single large claw on each forelimb, with the first three toes on the hind limb possessing claws.
+
+
+Contents
+
+
+1 Etymology
+2 Description
+3 Classification and species
+4 History
+5 Palaeobiology
+
+5.1 Growth
+5.2 Posture
+5.3 Physiology
+5.4 Tail
+
+
+6 In popular culture
+7 References
+8 External links
+
+
+Etymology[edit]
+The composite term Apatosaurus comes from the Greek words apate (ἀπάτη)/apatelos (ἀπατηλός) meaning "deception"/"deceptive" and sauros (σαῦρος) meaning "lizard"; thus, "deceptive lizard". Paleontologist Othniel Charles Marsh (1831 –1899) gave it this name, because he regarded the chevron bones as similar to those of some mosasaurs, members of a group of prehistoric marine lizards.
+Description[edit]
+
+
+
+
+Comparison of three species and a human: A. louisae (red), A. excelsus (violet), and A. ajax (green)
+
+
+Apatosaurus was a large, long-necked quadrupedal animal with a long, whip-like tail. Its forelimbs were slightly shorter than its hindlimbs. It was roughly the weight of four elephants.[4] Most size estimates for Apatosaurus are based on the type specimen of A. louisae, CM3018, which is mostly estimated at 23 m (75 ft) in length,[5] mass estimates on the other hand, have been as high as 35 t (39 short tons) for A. louisae[6] and 26 t (29 short tons) for A. excelsus.[7] However, more recent estimates using 3D models and more complex regression equations give a range of 16.4–22.4 t (18–25 short tons) in weight for the larger A. louisae.[2][6]
+The skull was small in comparison with the size of the animal. The jaws were lined with spatulate (chisel-like) teeth, suited to an herbivorous diet. Like those of other sauropods, the vertebrae of the neck were deeply bifurcated; that is, they carried paired spines, resulting in a wide and deep neck.[8] The apparently massive neck was, however, filled with an extensive system of weight-saving air sacs. Apatosaurus, like its close relative Supersaurus, is notable for the incredibly tall spines on its vertebrae, which make up more than half the height of the individual bones. The shape of the tail is unusual for a diplodocid, being comparatively slender, due to the vertebral spines rapidly decreasing in height the farther they are from the hips. Apatosaurus also had very long ribs compared to most other diplodocids, giving it an unusually deep chest. The limb bones were also very robust.[9] Apatosaurus had a single large claw on each forelimb, and the first three toes possessed claws on each hindlimb. The phalangeal formula is 2-1-1-1-1, meaning that the innermost finger (phalange) on the forelimb has two bones, the next has one, etc.[10]
+Classification and species[edit]
+Apatosaurus is a member of the family Diplodocidae, a clade of gigantic sauropod dinosaurs. The family includes some of the longest creatures ever to walk the earth, including Diplodocus, Supersaurus, and Barosaurus. Within the subfamily Apatosaurinae, Apatosaurus may be most closely related to Suuwassea, Supersaurus and Eobrontosaurus.[11][12][13]
+In 1877, Othniel Charles Marsh published the name of the type species Apatosaurus ajax. He followed this in 1879 with a description of another, more complete specimen, which he thought represented a new genus and species, which he named Brontosaurus excelsus. In 1903, Elmer Riggs re-examined the fossils. While he agreed with Marsh that Brontosaurus excelsus was likely a distinct species, he also noted many similarities between B. excelsus and A. ajax, and decided that both should be placed in the same genus. Riggs re-classified the species as Apatosaurus excelsus in 1903.[14] Since Riggs published his opinions, almost all paleontologists have agreed that the two species should be classified together in a single genus. According to the rules of the ICZN (which governs the scientific names of animals), the name Apatosaurus, having been published first, had priority as the official name; Brontosaurus is considered a junior synonym and has therefore been discarded from formal use.[15][16]
+
+
+
+
+
+   Diplodocidae   
+
+
+
+
+
+
+
+ Apatosaurinae 
+
+
+
+
+
+Suuwassea
+
+
+
+
+
+
+      
+
+
+
+   
+
+Supersaurus   
+
+
+
+
+
+
+
+
+Apatosaurus   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Diplodocinae
+
+
+
+
+
+Barosaurus
+
+
+
+
+
+
+
+
+Diplodocus
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cladogram of the Diplodocidae after Lovelace, Hartman, and Wahl, 2008.[9]
+
+
+
+
+
+
+Apatosaurus ajax is the type species of the genus, and was named by the paleontologist Othniel Charles Marsh in 1877 after Ajax, the hero from Greek mythology. Two partial skeletons have been found, including part of a skull. Apatosaurus laticollis, named by Marsh in 1879, is now considered a synonym of it.[17] Apatosaurus excelsus (originally Brontosaurus) was named by Marsh in 1879. It is known from six partial skeletons, including part of a skull, which have been found in the United States, in Colorado, Oklahoma, Utah, and Wyoming. Apatosaurus louisae was named by William Holland in 1915 in honor of Mrs. Louise Carnegie, wife of Andrew Carnegie who funded field research to find complete dinosaur skeletons in the American West. Apatosaurus louisae is known from one partial skeleton which was found in Utah in the United States. Apatosaurus parvus was originally known as Elosaurus parvus, but was reclassified as a species of Apatosaurus in 1994.[18] This synonymy was upheld in 2004.[19]
+Apatosaurus yahnahpin was named by Filla and Redman in 1994. Robert T. Bakker made A. yahnahpin the type species of a new genus, Eobrontosaurus in 1998,[20] so it is now properly Eobrontosaurus yahnahpin. One partial skeleton has been found in Wyoming. It has been argued that Eobrontosaurus belongs within Camarasaurus,[21] although this has been questioned.[4][22]
+History[edit]
+
+
+
+
+An 1896 diagram of the A. excelsus (then Brontosaurus) skeleton by O.C. Marsh. The head is based on material now assigned to Brachiosaurus sp.[23]
+
+
+Othniel Charles Marsh, a Professor of Paleontology at Yale University, described and named an incomplete (and juvenile) skeleton of Apatosaurus ajax in 1877. Two years later, Marsh announced the discovery of a larger and more complete specimen at Como Bluff Wyoming—which, because of discrepancies including the size difference, Marsh incorrectly identified as belonging to an entirely new genus and species. He dubbed the new species Brontosaurus excelsus, meaning "thunder lizard", from the Greek brontē/βροντη meaning "thunder" and sauros/σαυρος meaning "lizard", and from the Latin excelsus, "highest, sublime", referring to the greater number of sacral vertebrae than in any other genus of sauropod known at the time.
+
+
+
+
+Original (outdated) A. excelsus skeletal mount at the AMNH
+
+
+The finds—the largest dinosaur ever discovered at the time and nearly complete, lacking only a head, feet, and portions of the tail—were then prepared for what was to be the first ever mounted display of a sauropod skeleton, at Yale's Peabody Museum of Natural History in 1905. The missing bones were created using known pieces from close relatives of Brontosaurus. Sauropod feet that were discovered at the same quarry were added, as well as a tail fashioned to appear as Marsh believed it should, as well as a composite model of what he felt the skull of this massive creature might look like. This was not a delicate Diplodocus-style skull (which would later turn out to be more accurate[24]), but was composed of "the biggest, thickest, strongest skull bones, lower jaws and tooth crowns from three different quarries",[25] primarily those of Camarasaurus, the only other sauropod for which good skull material was known at the time. This method of reconstructing incomplete skeletons based on the more complete remains of related dinosaurs continues in museum mounts and life restorations to this day. In 1979, two Carnegie researchers replaced the skull on the museum's skeleton with the correct head found in a quarry in Utah in 1910.[26]
+Despite the much-publicized debut of the mounted skeleton, which cemented the name Brontosaurus in the public consciousness, Elmer Riggs had published a paper in the 1903 edition of Geological Series of the Field Columbian Museum that argued that Brontosaurus was not different enough from Apatosaurus to warrant its own genus, and created the combination Apatosaurus excelsus: "In view of these facts the two genera may be regarded as synonymous. As the term 'Apatosaurus' has priority, 'Brontosaurus' will be regarded as a synonym."[14]
+Despite this, at least one paleontologist—Robert Bakker—argued in the 1990s that A. ajax and A. excelsus are in fact sufficiently distinct that the latter continues to merit a separate genus.[27] This idea has not been accepted by most palaeontologists.[21][28]
+Palaeobiology[edit]
+
+
+
+
+Artistic interpretation of an individual arching its neck down to drink
+
+
+Until the 1970s, it was believed that sauropods like Apatosaurus were too massive to support their own weight on dry land, so it was theorized that they must have lived partly submerged in water, perhaps in swamps. Recent findings do not support this, and sauropods are thought to have been fully terrestrial animals.
+In 2008, footprints of a juvenile Apatosaurus were reported from Quarry Five in Morrison, Colorado. Discovered in 2006 by Matthew Mossbrucker, these footprints show that juveniles could run on their hind legs in a manner similar to that of the modern basilisk lizard.[29]
+
+
+
+
+Skull of a specimen nicknamed "Max"
+
+
+A study of diplodocid snouts showed that the square snout, large proportion of pits, and fine subparallel scratches in Apatosaurus suggests it was a ground-height nonselective browser.[30]
+Apatosaurus was the second most common sauropod in the Morrison Formation ecosystem, after Camarasaurus.[31] It may have been a more solitary animal than other Morrison Formation dinosaurs.[32] As a genus, Apatosaurus existed for a long span of time, and have been found in most levels of the Morrison. Fossils of Apatosaurus ajax are known exclusively from the upper portion of the formation (upper Brushy Basin Member), about 152–151 million years ago. A. excelsus fossils have been reported from the upper Salt Wash Member to the upper Brushy Basin Member, ranging from the middle to late Kimmeridgian age, about 154–151 million years ago. A. louisae fossils are rare, known only from one site in the upper Brushy Basin Member, dated to the late Kimmeridgian stage (about 151 million years ago). Additional Apatosaurus remains are known from even younger rocks, but they have not been identified as any particular species.[1]
+Growth[edit]
+A microscopic study of Apatosaurus bones concluded that the animals grew rapidly when young and reached near-adult sizes in about 10 years.[33] Long-bone histology enables researchers to estimate the age that a specific individual reached. A study by Griebeler et al. (2013) examined long bone histological data and concluded that the Apatosaurus sp. SMA 0014 weighed 20,206 kilograms (22.3 short tons), reached sexual maturity at 21 years and died at age 28. The same growth model indicated that Apatosaurus sp. BYU 601–17328 weighed 18,178 kilograms (20.0 short tons), reached sexual maturity at 19 years and died at age 31.[34]
+Posture[edit]
+
+
+
+
+Current A. excelsus skeletal mount at the AMNH
+
+
+Diplodocids, like Apatosaurus, are often portrayed with their necks held high up in the air, allowing them to browse on tall trees. Some scientists have argued that the heart would have had trouble sustaining sufficient blood pressure to oxygenate the brain.[35] Furthermore, more recent studies have shown that diplodocid necks were less flexible than previously believed, because the structure of the neck vertebrae would not have permitted the neck to bend far upwards, and that sauropods like Apatosaurus were adapted to low browsing or ground feeding.[36][37][38] However, subsequent studies demonstrated that all tetrapods appear to hold their necks at the maximum possible vertical extension when in a normal, alert posture, and argued that the same would hold true for sauropods barring any unknown, unique characteristics that set the soft tissue anatomy of their necks apart from that of other animals. Apatosaurus, like Diplodocus, would have held its neck angled upward with the head pointed downwards in a resting posture.[39]
+Physiology[edit]
+Given the large body mass of Apatosaurus, combined with its long neck, physiologists have encountered problems determining how these animals managed to breathe.
+Beginning with the assumption that Apatosaurus, like crocodilians, did not have a diaphragm, the dead-space volume (the amount of unused air remaining in the mouth, trachea and air tubes after each breath) has been estimated at about 184 liters for a 30 ton specimen.
+Its tidal volume (the amount of air moved in or out during a single breath) has been calculated based on the following respiratory systems:
+
+904 liters if avian
+225 liters if mammalian
+19 liters if reptilian.
+
+On this basis, its respiratory system could not have been reptilian, as its tidal volume would not have been able to replace its dead-space volume. Likewise, the mammalian system would only provide a fraction of new air on each breath. Therefore, it must have had either a system unknown in the modern world or one like birds, i.e., multiple air sacs and a flow-through lung. Furthermore, an avian system would only need a lung volume of about 600 liters compared to a mammalian requirement of 2,950 liters, which would exceed the available space. The overall thoracic volume of Apatosaurus has been estimated at 1,700 liters allowing for a 500-liter, four-chambered heart (like birds, not three-chambered like reptiles) and a 900-liter lung capacity. That would allow about 300 liters for the necessary tissue. Assuming Apatosaurus had an avian respiratory system and a reptilian resting-metabolism, it would need to consume only about 262 liters (69 gallons) of water per day.[40]
+Tail[edit]
+An article that appeared in the November 1997 issue of Discover Magazine reported research into the mechanics of Apatosaurus tails by Nathan Myhrvold, a computer scientist from Microsoft. Myhrvold carried out a computer simulation of the tail, which in diplodocids like Apatosaurus was a very long, tapering structure resembling a bullwhip. This computer modeling suggested that sauropods were capable of producing a whip-like cracking sound of over 200 decibels, comparable to the volume of a cannon.[41]
+In popular culture[edit]
+
+
+
+
+1897 restoration by Charles R. Knight of an A. excelsus
+
+
+The length of time taken for Marsh's misclassification to be brought to public notice meant that the name Brontosaurus, associated as it was with one of the largest dinosaurs, became so famous that it persisted long after the name had officially been abandoned in scientific use.[42]
+Apatosaurus have often been depicted in cinema, beginning with Winsor McCay's 1914 classic Gertie the Dinosaur, one of the first animated films.[43] McCay based his unidentified dinosaur on the Brontosaurus skeleton in the American Museum of Natural History.[44] The 1925 silent film The Lost World featured a battle between a Brontosaurus and an Allosaurus, using special effects by Willis O'Brien.[45] These, and other early uses of the animal as major representative of the group, helped cement Brontosaurus as a quintessential dinosaur in the public consciousness.[42]
+Sinclair Oil has long been a fixture of American roads (and briefly in other countries) with its green dinosaur logo and mascot, an Apatosaurus (Brontosaurus). While Sinclair's early advertising included a number of different dinosaurs, eventually only Apatosaurus was used as the official logo, due to its popular appeal.[46]
+As late as 1989, the U.S. Post Office caused controversy when it issued four "dinosaur" stamps: Tyrannosaurus, Stegosaurus, Pteranodon and Brontosaurus. The use of the term Brontosaurus in place of Apatosaurus, as well as the fact that Pteranodons were technically pterosaurs and not dinosaurs, led to complaints of "fostering scientific illiteracy."[47] The Post Office defended itself (in Postal Bulletin 21744) by saying, "Although now recognized by the scientific community as Apatosaurus, the name 'Brontosaurus' was used for the stamp because it is more familiar to the general population." Stephen Jay Gould also supported this position in his essay "Bully for Brontosaurus," though he echoed Riggs's original argument that Brontosaurus is a synonym for Apatosaurus. Nevertheless, he noted that the former has developed and continues to maintain an independent existence in the popular imagination.[42]
+References[edit]
+
+
+^ a b Turner, C.E. and Peterson, F., (1999). "Biostratigraphy of dinosaurs in the Upper Jurassic Morrison Formation of the Western Interior, U.S.A." Pp. 77–114 in Gillette, D.D. (ed.), Vertebrate Paleontology in Utah. Utah Geological Survey Miscellaneous Publication 99-1.
+^ a b Henderson, Donald M. (2006). "Burly Gaits: Centers of mass, stability, and the trackways of sauropod dinosaurs". Journal of Vertebrae Paleontology 26 (4): 907–921. doi:10.1671/0272-4634(2006)26[907:BGCOMS]2.0.CO;2. 
+^ Foster, J. (2007). "Appendix." Jurassic West: The Dinosaurs of the Morrison Formation and Their World. Indiana University Press. pp. 327-329.
+^ a b Holtz, Thomas R. Jr. (2008) Dinosaurs: The Most Complete, Up-to-Date Encyclopedia for Dinosaur Lovers of All Ages Supplementary Information
+^ Mazzetta, G.V.; Christiansen, P.; Farina, R.A. (2004). "Giants and bizarres: body size of some southern South American Cretaceous dinosaurs" (PDF). Historical Biology 2004: 1–13. 
+^ a b Seebacher, Frank (2001). "A new method to calculate allometric length-mass relationships of dinosaurs". Journal of Vertebrate Paleontology 21: 51–52. doi:10.1671/0272-4634(2001)021[0051:ANMTCA]2.0.CO;2. ISSN 0272-4634. 
+^ Erickson, Gregory M.; Curry Rogers, Kristina; Yerby, Scott A. (2001). "Dinosaurian growth patterns and rapid avian growth rates.". Nature 412 (6845): 429–33. doi:10.1038/35086558. PMID 11473315. 
+^ Fasovsky, D.E. and Weishampel, D.B. (2009). Dinosaurs: A Concise Natural History. Cambridge: Cambridge University Press. ISBN 978-0-521-88996-4
+^ a b Lovelace, David M.; Hartman, Scott A.; and Wahl, William R. (2007). "Morphology of a specimen of Supersaurus (Dinosauria, Sauropoda) from the Morrison Formation of Wyoming, and a re-evaluation of diplodocid phylogeny". Arquivos do Museu Nacional 65 (4): 527–544. 
+^ Martin, A.J. (2006). Introduction to the Study of Dinosaurs. Second Edition. Oxford, Blackwell Publishing. 560 pp. ISBN 1–4051–3413–5.
+^ Lovelace, David M. (2007). "Morphology of a specimen of Supersaurus (Dinosauria, Sauropoda) from the Morrison Formation of Wyoming, and a re-evaluation of diplodocid phylogeny". Arquivos do Museu Nacional 65 (4): 527–544. 
+^ Taylor, M.P. and Naish, D. (2005). "The phylogenetic taxonomy of Diplodocoidea (Dinosauria: Sauropoda)". PaleoBios 25 (2): 1–7. Archived from the original on 2010-01-18. 
+^ Harris, J.D. (2006). "The significance of Suuwassea emiliae (Dinosauria: Sauropoda) for flagellicaudatan intrarelationships and evolution". Journal of Systematic Palaeontology 4 (2): 185–198. doi:10.1017/S1477201906001805. 
+^ a b Riggs, Elmer (1903). "Structure and Relationships of Opisthocoelian Dinosaurs. Part I, Apatosaurus Marsh". Publications of the Field Columbian Museum. Geological Series (2): 165–196. 
+^ Taylor, M. P. (2010). "Sauropod dinosaur research: A historical review". Geological Society, London, Special Publications 343: 361–386. doi:10.1144/SP343.22.  edit
+^ Brinkman, P. (2006). "Bully for Apatosaurus". Endeavour 30 (4): 126–130. doi:10.1016/j.endeavour.2006.10.004. PMID 17097734.  edit
+^ Benton, M. J. (1992). "Dinosaur Systematics, Approaches and Perspectives, edited by K. Carpenter and P. J. Currie, Cambridge University Press, Cambridge, 1991. No. Of pages: 318. Price: £40 ($54.50) (Hardback). ISBN 0–521–36672–0". Geological Journal 27: 91. doi:10.1002/gj.3350270109.  edit
+^ Carpenter, K. and McIntosh, J. (1994). "Upper Jurassic sauropod babies from the Morrison Formation", In: K. Carpenter, K. F. Hirsch, and J. R. Horner (eds.), Dinosaur Eggs and Babies. Cambridge University Press, Cambridge 265–278
+^ Upchurch, Paul; Tomida, Yukimitsu; and Barrett, Paul M. (2004). "A new specimen of Apatosaurus ajax (Sauropoda: Diplodocidae) from the Morrison Formation (Upper Jurassic) of Wyoming, USA." National Science Museum monographs 26: i-118 ISSN:13429574
+^ Bakker, R.T. (1998). "Dinosaur mid-life crisis: the Jurassic-Cretaceous transition in Wyoming and Colorado". In: S.G. Lucas, J.I. Kirkland, & J.W. Estep (eds.) Lower and Middle Cretaceous Terrestrial Ecosystems; New Mexico Museum of Natural History and Science Bulletin, 14: 67–77.
+^ a b Upchurch, P., Barrett, P.M. and Dodson, P. (2004). "Sauropoda". In Weishampel, D.B., Osmólska, H., and Dodson, P. (eds.), The Dinosauria (2nd edition). University of California Press, Berkeley 259–322.
+^ Hartman, Scott (2005-02-13). ""Eobrontosaurus" is not Camarasaurus". The Dinosaur Mailing List Archives. Retrieved 27 January 2010. 
+^ Carpenter, Kenneth; Tidwell, Virginia (1998). "Preliminary Description of a Brachiosaurus Skull from Felch Quarry 1, Garden Park, Colorado". In Carpenter, Kenneth; Chure, Dan; Kirkland, James Ian. The Upper Jurassic Morrison Formation: an interdisciplinary study. Taylor & Francis. ISBN 978-90-5699-183-8. 
+^ McIntosh, J.S. and Berman, D.S. (1975). "Description of the palate and lower jaw of the sauropod dinosaur Diplodocus (Reptilia: Saurischia) with remarks on the nature of the skull of Apatosaurus". Journal of Paleontology 49 (1): 187–199. JSTOR 1303324. 
+^ Bakker, Robert (1994). "The Bite of the Bronto". Earth 3 (6): 26–33. 
+^ NPR Staff. "Forget Extinct: The Brontosaurus Never Even Existed". Retrieved 17 June 2013. 
+^ Bakker, R.T. (1998). "Dinosaur mid-life crisis: the Jurassic-Cretaceous transition in Wyoming and Colorado". In: S.G. Lucas, J.I. Kirkland, & J.W. Estep (eds.) Lower and Middle Cretaceous Terrestrial Ecosystems; New Mexico Museum of Natural History and Science Bulletin, 14: 67–77.
+^ McIntosh, J.S. (1995). "Remarks on the North American sauropod Apatosaurus Marsh". Sixth Symposium on Mesozoic Terrestrial Ecosystems and Biota, Short Papers, A. Sun and Y. Wang (eds.), China Ocean Press, Beijing 119–123
+^ Rajewski, Genevieve (May 2008). "Where Dinosaurs Roamed". Smithsonian: 20–24. Archived from the original on 27 April 2008. Retrieved 2008-04-30. 
+^ Whitlock, J. A. (2011). "Inferences of Diplodocoid (Sauropoda: Dinosauria) Feeding Behavior from Snout Shape and Microwear Analyses". In Farke, Andrew Allen. PLoS ONE 6 (4): e18304. doi:10.1371/journal.pone.0018304. PMC 3071828. PMID 21494685.  edit
+^ Foster, John (2007). Jurassic West: The Dinosaurs of the Morrison Formation and Their World. Indiana University Press. p. 273. ISBN 978-0-253-34870-8. 
+^ Dodson, Peter; Behrensmeyer, A.K.; Bakker, Robert T.; and McIntosh, John S. (1980). "Taphonomy and paleoecology of the dinosaur beds of the Jurassic Morrison Formation". Paleobiology 6 (2): 208–232. 
+^ Curry, Kristina A. (1999). "Ontogenetic histology of Apatosaurus (Dinosauria: Sauropoda): new insights on growth rates and longevity". Journal of Vertebrate Paleontology 19 (4): 654–665. doi:10.1080/02724634.1999.10011179. JSTOR 4524036. 
+^ Griebeler EM, Klein N, Sander PM (2013) Aging, Maturation and Growth of Sauropodomorph Dinosaurs as Deduced from Growth Curves Using Long Bone Histological Data: An Assessment of Methodological Constraints and Solutions. PLoS ONE 8(6): e67012. doi:10.1371/journal.pone.0067012
+^ Pierson, D. J. (2009). "The Physiology of Dinosaurs: Circulatory and Respiratory Function in the Largest Animals Ever to Walk the Earth". Respiratory Care 54 (7): 887–911. doi:10.4187/002013209793800286. PMID 19558740.  edit
+^ Stevens, Kent A.; Parrish, JM (1999). "Neck Posture and Feeding Habits of Two Jurassic Sauropod Dinosaurs". Science 284 (5415): 798–800. doi:10.1126/science.284.5415.798. PMID 10221910. Retrieved 2008-08-03. 
+^ Stevens KA, Parrish JM (2005). "Neck Posture, Dentition and Feeding Strategies in Jurassic Sauropod Dinosaurs". In Carpenter, Kenneth and Tidswell, Virginia (ed.). Thunder Lizards: The Sauropodomorph Dinosaurs. Indiana University Press. pp. 212–232. ISBN 978-0-253-34542-4. OCLC 218768170 57202057 61128849. 
+^ Upchurch, P, et al. (2000). "Neck Posture of Sauropod Dinosaurs" (PDF). Science 287: 547b. doi:10.1126/science.287.5453.547b. Retrieved 2008-08-05. 
+^ Taylor, M.P.; Wedel, M.J.; Naish, D. (2009). "Head and neck posture in sauropod dinosaurs inferred from extant animals". Acta Palaeontologica Polonica 54 (2): 213–220. doi:10.4202/app.2009.0007.  (Abstract)
+^ Paladino, F.V., Spotila, J.R., and Dodson, P. (1997). "A Blueprint for Giants: Modeling the Physiology of Large Dinosaurs." In Farlow, J.O. and Brett-Surman, M.K. (eds.), The Complete Dinosaur, Indiana University Press, 491–504. doi0253333490.
+^ Zimmer, C. (1997). "Dinosaurs in Motion." Discover, 1 November 1997. DISCOVER Magazine. Retrieved 27 July 2008.
+^ a b c Gould, S.J. (1991). Bully for Brontosaurus: Reflections in Natural History, W. W. Norton & Co., 540pp.
+^ Donald Crafton (1982). Before Mickey: The Animated Film 1898-1928. MIT Press. ISBN 0-262-03083-7. 
+^ [1][dead link]
+^ Glut, Donald F.; Brett-Surman, Michael K. (1997). "Dinosaurs and the media", in Farlow, James; and Brett-Surman, Michael K. (eds.): The Complete Dinosaur. Bloomington and Indianapolis: Indiana University Press, 675–706. ISBN 978-0-253-33349-0.
+^ Sinclair Oil Corporation, (2008). Evolution of the Company Symbol. Published online by SinclairOil.com, http://www.sinclairoil.com/history/historys_p1.htm Accessed 27-August-2010.
+^ " Topics of The Times; Leapin' Lizards!" The New York Times, 1989-10-11. Retrieved 2008-06-08.
+
+
+External links[edit]
+
+
+
+
+Dinosaurs portal
+
+
+
+
+
+
+Wikibooks has a book on the topic of: Wikijunior: Dinosaurs/Brontosaurus
+
+
+
+
+
+Wikimedia Commons has media related to Apatosaurus.
+
+
+
+Hartman, Scott. "Sauropods." SkeletalDrawing.com, 2006. Includes A. ajax, A. excelsus, and A. louisae.
+Krystek, Lee. "Whatever Happened to the Brontosaurus?" UnMuseum (Museum of Unnatural Mystery), 2002.
+Taylor, Mike. "Why is 'Brontosaurus' now called Apatosaurus?" MikeTaylor.org.uk, June 28, 2004.
+
+
+
+ 
+NewPP limit report
+CPU time usage: 5.352 seconds
+Real time usage: 5.705 seconds
+Preprocessor visited node count: 34321/1000000
+Preprocessor generated node count: 69375/1500000
+Post‐expand include size: 202785/2048000 bytes
+Template argument size: 74529/2048000 bytes
+Highest expansion depth: 39/40
+Expensive parser function count: 9/500
+Lua time usage: 0.136s
+Lua memory usage: 2.45 MB
+
+
+ Saved in parser cache with key enwiki:pcache:idhash:1346-0!*!0!!en!4!* and timestamp 20131001102100 
+								
+				Retrieved from "http://en.wikipedia.org/w/index.php?title=Apatosaurus&oldid=575125188"				
+												Categories: Dinosaurs of North AmericaDiplodocoidsJurassic dinosaursDinosaurs of the Morrison FormationFossil taxa described in 1877Hidden categories: All articles with dead external linksArticles with dead external links from April 2013Articles with 'species' microformatsArticles containing Ancient Greek-language text												
+							
+		
+		
+			Navigation menu
+			
+				
+	Personal tools
+	
+Create accountLog in	
+
+				
+					
+	Namespaces
+	
+					Article
+					Talk
+			
+
+
+	
+		
+	Variants
+	
+		
+					
+	
+
+				
+				
+					
+	Views
+	
+					Read
+					Edit
+					View history
+			
+
+
+	Actions
+	
+		
+					
+	
+
+
+	Search
+	
+				
+																				
+		
+	
+
+				
+			
+			
+					
+				
+	Navigation
+	
+		
+			Main page
+			Contents
+			Featured content
+			Current events
+			Random article
+			Donate to Wikipedia
+		
+	
+
+
+	Interaction
+	
+		
+			Help
+			About Wikipedia
+			Community portal
+			Recent changes
+			Contact page
+		
+	
+
+
+	Toolbox
+	
+		
+			What links here
+			Related changes
+			Upload file
+			Special pages
+			Permanent link
+			Page information
+			Data item
+Cite this page		
+	
+
+
+	Print/export
+	
+		
+			Create a book
+			Download as PDF
+			Printable version
+		
+	
+
+
+	Languages
+	
+		
+			العربية
+			Беларуская
+			Català
+			Česky
+			Dansk
+			Deutsch
+			Eesti
+			Ελληνικά
+			Español
+			Euskara
+			فارسی
+			Føroyskt
+			Français
+			Gaeilge
+			Galego
+			한국어
+			Hrvatski
+			Bahasa Indonesia
+			Italiano
+			עברית
+			Basa Jawa
+			ქართული
+			Latina
+			Lietuvių
+			Magyar
+			Nederlands
+			日本語
+			Norsk bokmål
+			Norsk nynorsk
+			Occitan
+			پنجابی
+			Polski
+			Português
+			Română
+			Русский
+			Simple English
+			Slovenčina
+			Српски / srpski
+			Srpskohrvatski / српскохрватски
+			Suomi
+			Svenska
+			Tagalog
+			ไทย
+			Türkçe
+			Українська
+			Tiếng Việt
+			Winaray
+			中文
+			
+			Edit links
+		
+	
+
+			
+		
+		
+							
+											 This page was last modified on 30 September 2013 at 11:24.
+											Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. 
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+									
+							
+											Privacy policy
+											About Wikipedia
+											Disclaimers
+											Contact Wikipedia
+											Developers
+											Mobile view
+									
+										
+					
+						
+					
+					
+						
+					
+				
+						
+		
+		
+
+
+ Served by mw1062 in 0.286 secs. 
+	
+if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Apatosaurus","wgTitle":"Apatosaurus","wgCurRevisionId":575125188,"wgArticleId":1346,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["All articles with dead external links","Articles with dead external links from April 2013","Articles with 'species' microformats","Articles containing Ancient Greek-language text","Dinosaurs of North America","Diplodocoids","Jurassic dinosaurs","Dinosaurs of the Morrison Formation","Fossil taxa described in 1877"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Apatosaurus","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgVectorEnabledModules":{"collapsiblenav":true,"experiments":true},"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"templateEditor":false,"templates":false,"preview":false,"previewDialog":false,"publish":false,"toc":false},"wgArticleFeedbackv5Permissions":{"aft-reader":true,"aft-member":false,"aft-editor":false,"aft-monitor":false,"aft-administrator":false,"aft-oversighter":false,"aft-noone":false},"wgVisualEditor":{"isPageWatched":false,"magnifyClipIconURL":"//bits.wikimedia.org/static-1.22wmf18/skins/common/images/magnify-clip.png","pageLanguageCode":"en","pageLanguageDir":"ltr"},"wikilove-recipient":"","wikilove-anon":0,"wgGuidedTourHelpGuiderUrl":"Help:Guided tours/guider","wgULSAcceptLanguageList":["en-us"],"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia","aftv5Article":{"id":1346,"title":"Apatosaurus","namespace":0,"categories":["All articles with dead external links","Articles containing Ancient Greek-language text","Articles with 'species' microformats","Articles with dead external links from April 2013","Dinosaurs of North America","Dinosaurs of the Morrison Formation","Diplodocoids","Fossil taxa described in 1877","Jurassic dinosaurs"],"permissionLevel":false},"wgWikibaseItemId":"Q14326"});
+}if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":false,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,
+"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"useeditwarning":1,"prefershttps":1,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"vector-simplesearch":1,"vector-collapsiblenav":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"aftv5-last-filter":null,"visualeditor-enable":0,"visualeditor-enable-experimental":0,"visualeditor-betatempdisable":0,"wikilove-enabled":1,"echo-subscriptions-web-page-review":true,"echo-subscriptions-email-page-review":false,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"echo-notify-show-link":true,"echo-show-alert":true,"echo-email-frequency":0,"echo-email-format":"html","echo-subscriptions-email-system":true,"echo-subscriptions-web-system":true,"echo-subscriptions-email-other":false,"echo-subscriptions-web-other":true,"echo-subscriptions-email-edit-user-talk":false,"echo-subscriptions-web-edit-user-talk":true,
+"echo-subscriptions-email-reverted":false,"echo-subscriptions-web-reverted":true,"echo-subscriptions-email-article-linked":false,"echo-subscriptions-web-article-linked":false,"echo-subscriptions-email-mention":false,"echo-subscriptions-web-mention":true,"echo-subscriptions-web-edit-thank":true,"echo-subscriptions-email-edit-thank":false,"gettingstarted-task-toolbar-show-intro":true,"uls-preferences":"","language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs446":false,"searchNs447":false
+,"searchNs710":false,"searchNs711":false,"searchNs828":false,"searchNs829":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-mySandbox":1,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:156d8fe0ae17f8afd74198057563e45d */
+}if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","ext.visualEditor.viewPageTarget.init","ext.wikimediaShopLink.core","ext.uls.init","ext.uls.interface","wikibase.client.init","ext.centralNotice.bannerController","skins.vector.js"]);
+}/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}if(window.mw){
+mw.loader.load(["mobile.desktop","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.cite","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","mw.MwEmbedSupport.style","ext.vector.collapsibleNav","ext.articleFeedbackv5.startup","ext.gettingstarted.logging","ext.gettingstarted.openTask","schema.HttpsSupport","ext.coreEvents.httpsSupport","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","mw.PopUpMediaTransform"],null,true);
+}

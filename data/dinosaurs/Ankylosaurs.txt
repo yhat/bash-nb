@@ -1,0 +1,442 @@
+
+
+
+Ankylosauria - Wikipedia, the free encyclopedia
+
+
+
+
+
+
+
+
+
+
+
+
+a:lang(ar),a:lang(ckb),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:0de201fdea5d684523607ed88007b127 */
+
+
+
+
+[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.22wmf19/skins/vector/csshover.min.htc")}</style><![endif]
+
+		
+		
+		
+			
+			
+						 CentralNotice 
+						Ankylosauria
+			
+								From Wikipedia, the free encyclopedia
+								  (Redirected from Ankylosaurs)
+												
+					Jump to:					navigation, 					search
+				
+				
+
+
+Ankylosaurs
+Temporal range: Middle Jurassic—Late Cretaceous, 167–66Ma
+
+PreЄ
+Є
+O
+S
+D
+C
+P
+T
+J
+K
+Pg
+N
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mounted skeleton of Euoplocephalus tutus, Senckenberg Museum
+
+
+Scientific classification 
+
+
+Kingdom:
+Animalia
+
+
+Phylum:
+Chordata
+
+
+Clade:
+Sauropsida
+
+
+Clade:
+Dinosauria
+
+
+Order:
+†Ornithischia
+
+
+Clade:
+†Eurypoda
+
+
+Suborder:
+†Ankylosauria
+Osborn, 1923
+
+
+Subgroups
+
+
+
+
+†Sarcolestes
+†Ankylosauridae
+†Nodosauridae
+
+
+
+
+
+Ankylosauria is a group of herbivorous dinosaurs of the order Ornithischia. It includes the great majority of dinosaurs with armor in the form of bony osteoderms. Ankylosaurs were bulky quadrupeds, with short, powerful limbs. They are first known to have appeared in the early Jurassic Period of China, and persisted until the end of the Cretaceous Period. They have been found on every continent except Africa. The first dinosaur ever discovered in Antarctica was the ankylosaurian Antarctopelta, fossils of which were recovered from Ross Island in 1986.
+Ankylosauria was first described by Henry Fairfield Osborn in 1923.[1] In the Linnaean classification system, the group is usually considered a suborder or an infraorder. It is contained within the group Thyreophora, which also includes the stegosaurs, armored dinosaurs known for their combination of plates and spikes.
+
+
+Contents
+
+
+1 Paleobiology
+
+1.1 Armor
+1.2 Diet and feeding
+1.3 Reproduction
+
+
+2 Classification
+
+2.1 Nodosauridae
+2.2 Ankylosauridae
+2.3 Polacanthidae
+
+
+3 Taxonomy
+4 Notable specimens
+
+4.1 Oilsands ankylosaurian
+
+
+5 References
+6 External links
+
+
+Paleobiology[edit]
+They sported a very small brain size in proportion to their body, second only to the Saurischian sauropods. They were also very slow moving, largely because of the extreme weight of their armored skin. Their top speed was likely less than 10km/hour.
+Armor[edit]
+
+
+
+
+Armour of Edmontonia
+
+
+All ankylosaurians had armor over much of their bodies, mostly scutes and nodules, with large spines in some cases. The scutes, or plates, are rectangular to oval objects organized in transverse (side to side) rows, often with keels on the upper surface. Smaller nodules and plates filled in the open spaces between large plates. In all three groups the first two rows of plates tend to form a sort of half-ring around the neck; in nodosaurids, this comes from adjacent plates fusing with each other (and there is a third row as well), while ankylosaurids usually have the plates fused to the top of another band of bone. The skull has armor plastered on to it, including a distinctive piece on the outside-rear of the lower jaw.[2]
+Diet and feeding[edit]
+Ankylosaurs were built low to the ground (no more than 1 meter off the ground surface.) They had small, triangular teeth that were loosely packed, similar to stegosaurs. The large hyoid bones left in skeletons indicates that they had long, flexible tongues. They also had a large, side secondary palate. This means that they could breathe while chewing, unlike crocodiles. Their expanded gut region suggests the use of fermentation to digest their food, using symbiotic bacteria and gut flora. Their diet likely consisted of ferns, cycads, and angiosperms. Mallon et al. (2013) examined herbivore coexistence on the island continent of Laramidia, during the Late Cretaceous. It was concluded that ankylosaurs were generally restricted to feeding on vegetation at, or below, the height of 1 meter.[3]
+Reproduction[edit]
+Possible neonate sized ankylosaur fossils have been documented in the scientific literature.[4]
+Classification[edit]
+Ankylosauria is usually split into two families: Nodosauridae (the nodosaurids) and Ankylosauridae (the ankylosaurids). A third family, the Polacanthidae, is sometimes used,[5] but is more often found to be a sub-group of one of the primary families.[6]
+The first formal definition of Ankylosauria as a clade was given in 1997 by Carpenter. He defined the group as all dinosaurs closer to Ankylosaurus than to Stegosaurus (a definition followed by most paleontologists today). This "stem-based" definition means that the primitive armored dinosaur Scelidosaurus, which is slightly closer to ankylosaurids than to stegosaurids, is technically a member of Ankylosauria. Upon the discovery of Bienosaurus, Dong Zhiming (2001) erected the family Scelidosauridae for both of these primitive ankylosaurs.
+Nodosauridae[edit]
+This group traditionally includes Nodosaurus, Edmontonia, and Sauropelta. The nodosauridae had longer snouts than their akylosaurid cousins. They did not sport the archetypal 'clubs' at the ends of their tails, but rather, their most pronounced physical features were their spikes. Nodosaurids had very muscular shoulders, and a specialized knob of bone on each shoulder blade called the acromial process. It served as an attachment site for the muscles that held up their large parascapular spines. These spines would be used for self defense against predators. They had wide, flaring hips and thick limbs. Most nodosaurid finds are from North America. In diet, they had smaller, narrow beaks than the ankylosaurids, which likely allowed them to be very selective over what plant matter they grazed on.
+Ankylosauridae[edit]
+Major differences distinguishing the ankylosaurids from the nodosaurids is that the ankylosaurids had bony clubs at the end of their tails, domed snouts in front of the eyes, and large squamosal plates projecting from the top and bottom of each side of the skull, all of which nodosaurids lacked. The traditional ankylosaurids are from later in the Cretaceous. They had much wider bodies and have even been discovered with bony eyelids. The large clubs at the end of their tails may have been used in self-defense (swung at predators) or in sexual selection. This family included Ankylosaurus, Euoplocephalus, and Pinacosaurus. The clubs were made of several plates of bone that were permeated by soft tissue, allowing them to absorb thousands of pounds of force. Their beaks were larger and broader than the nodosaurids, indicating that these ankylosaurs were generalists in their diet.
+Polacanthidae[edit]
+The family Polacanthidae was named by Wieland in 1911 to refer to a group of ankylosaurs which seemed to him intermediate between the ankylosaurids and nodosaurids. This grouping was ignored by most researchers until the late 1990s, when it was used as a subfamily (Polacanthinae) by Kirkland for a natural group recovered by his 1998 analysis suggesting that Polacanthus, Gastonia, and Mymoorapelta were closely related within the family Ankylosauridae. Kenneth Carpenter resurrected the name Polacanthidae for a similar group which he also found to be closer to ankylosaurids than to nodosaurids. Carpenter became the first to define Polacanthidae as all dinosaurs closer to Gastonia than to either Edmontonia or Euoplocephalus.[7] Most subsequent researchers placed polacanthines as primitive ankylosaurids, though mostly without any rigorous study to demonstrate this idea. The first comprehensive study of 'polacanthid' relationships, published in 2012, found that they are either an unnatural grouping of primitive nodosaurids, or a valid subfamily at the base of Nodosauridae.[6]
+Taxonomy[edit]
+While ranked taxonomy has largely fallen out of favor among dinosaur paleontologists, a few 21st century publications have retained the use of ranks, though sources have differed on what its rank should be. Most have listed Thyreophora as an unranked taxon containing the traditional suborders Stegosauria and Ankylosauria, though Thyreophora is also sometimes classified as a suborder, with Ankylosauria and Stegosauria as infraorders. A simplified version of one possible classification follows:
+
+Order Ornithischia (the "bird hipped" dinosaurs)
+
+Clade Thyreophora (armored herbivores)
+
+Clade Eurypoda (advanced armored dinosaurs)
+
+Clade Ankylosauria
+
+Family Ankylosauridae
+
+Subfamily Ankylosaurinae
+
+
+Family Nodosauridae
+
+Subfamily Polacanthinae?
+
+
+
+
+
+
+
+
+
+
+
+Notable specimens[edit]
+Oilsands ankylosaurian[edit]
+A complete ankylosaurian skeleton was discovered by accident March 21, 2011 in approximately 110 million-year-old oil sands being excavated by Suncor near Fort McMurray, Alberta, Canada. It is the oldest known dinosaur specimen from the province.[8]
+References[edit]
+
+
+^ Osborn, H. F. (1923). "Two Lower Cretaceous dinosaurs of Mongolia." American Museum Novitates", 95: 1–10.[1]
+^ "Ankylosauria". Thescelosaurus. Retrieved 30 September 2013. 
+^ Mallon, Jordan C; David C Evans, Michael J Ryan, Jason S Anderson (2013). [tp://link.springer.com/article/10.1186/1472-6785-13-14 "Feeding height stratification among the herbivorous dinosaurs from the Dinosaur Park Formation (upper Campanian) of Alberta, Canada"]. BMC Ecology 13. 
+^ Tanke, D.H. and Brett-Surman, M.K. 2001. Evidence of Hatchling and Nestling-Size Hadrosaurs (Reptilia:Ornithischia) from Dinosaur Provincial Park (Dinosaur Park Formation: Campanian), Alberta, Canada. pp. 206-218. In: Mesozoic Vertebrate Life—New Research Inspired by the Paleontology of Philip J. Currie. Edited by D.H. Tanke and K. Carpenter. Indiana University Press: Bloomington. xviii + 577 pp.
+^ Hayashi, S., Carpenter, K., Scheyer, T.M., Watabe, M. and Suzuki. D. (2010). "Function and evolution of ankylosaur dermal armor." Acta Palaeontologica Polonica, 55(2): 213-228. doi:10.4202/app.2009.0103
+^ a b Thompson, R.S., Parish, J.C., Maidment, S.C.R. and Barrett, P.M. (2012). "Phylogeny of the ankylosaurian dinosaurs (Ornithischia: Thyreophora)." Journal of Systematic Palaeontology, 10(2): 301-312. doi:10.1080/14772019.2011.569091
+^ Carpenter K (2001). "Phylogenetic analysis of the Ankylosauria". In Carpenter, Kenneth(ed). The Armored Dinosaurs. Indiana University Press. pp. 455–484. ISBN 0-253-33964-2. 
+^ Anonymous (25 March 2011). "Alta. oilsands worker digs up rare dinosaur". CBC News. Retrieved 26 March 2011. 
+
+
+External links[edit]
+
+Ankylosauria at DinoData
+Ankylosaurus- The Bullet-Proof Dinosaur
+
+
+
+
+
+Dinosaurs portal
+
+
+
+
+
+
+ 
+NewPP limit report
+CPU time usage: 3.224 seconds
+Real time usage: 3.400 seconds
+Preprocessor visited node count: 22743/1000000
+Preprocessor generated node count: 34497/1500000
+Post‐expand include size: 71633/2048000 bytes
+Template argument size: 42420/2048000 bytes
+Highest expansion depth: 39/40
+Expensive parser function count: 1/500
+Lua time usage: 0.033s
+Lua memory usage: 1.3 MB
+
+
+ Saved in parser cache with key enwiki:pcache:idhash:860921-0!*!0!!en!4!* and timestamp 20131001102943 
+								
+				Retrieved from "http://en.wikipedia.org/w/index.php?title=Ankylosauria&oldid=575156029"				
+												Categories: AnkylosaursHidden categories: Articles with 'species' microformats												
+							
+		
+		
+			Navigation menu
+			
+				
+	Personal tools
+	
+Create accountLog in	
+
+				
+					
+	Namespaces
+	
+					Article
+					Talk
+			
+
+
+	
+		
+	Variants
+	
+		
+					
+	
+
+				
+				
+					
+	Views
+	
+					Read
+					Edit
+					View history
+			
+
+
+	Actions
+	
+		
+					
+	
+
+
+	Search
+	
+				
+																				
+		
+	
+
+				
+			
+			
+					
+				
+	Navigation
+	
+		
+			Main page
+			Contents
+			Featured content
+			Current events
+			Random article
+			Donate to Wikipedia
+		
+	
+
+
+	Interaction
+	
+		
+			Help
+			About Wikipedia
+			Community portal
+			Recent changes
+			Contact page
+		
+	
+
+
+	Toolbox
+	
+		
+			What links here
+			Related changes
+			Upload file
+			Special pages
+			Permanent link
+			Page information
+			Data item
+Cite this page		
+	
+
+
+	Print/export
+	
+		
+			Create a book
+			Download as PDF
+			Printable version
+		
+	
+
+
+	Languages
+	
+		
+			العربية
+			Беларуская
+			Brezhoneg
+			Català
+			Cebuano
+			Česky
+			Deutsch
+			Español
+			Esperanto
+			Français
+			한국어
+			Hrvatski
+			Italiano
+			עברית
+			ქართული
+			Қазақша
+			Lietuvių
+			Magyar
+			Nederlands
+			日本語
+			Polski
+			Português
+			Русский
+			Simple English
+			Slovenčina
+			Srpskohrvatski / српскохрватски
+			Svenska
+			Татарча/tatarça
+			Tiếng Việt
+			中文
+			
+			Edit links
+		
+	
+
+			
+		
+		
+							
+											 This page was last modified on 30 September 2013 at 16:00.
+											Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. 
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+									
+							
+											Privacy policy
+											About Wikipedia
+											Disclaimers
+											Contact Wikipedia
+											Developers
+											Mobile view
+									
+										
+					
+						
+					
+					
+						
+					
+				
+						
+		
+		
+
+
+ Served by mw1054 in 0.224 secs. 
+	
+if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Ankylosauria","wgTitle":"Ankylosauria","wgCurRevisionId":575156029,"wgRevisionId":575156029,"wgArticleId":860921,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with 'species' microformats","Ankylosaurs"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Ankylosauria","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Ankylosaurs","wgVectorEnabledModules":{"collapsiblenav":true,"experiments":true},"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"templateEditor":false,"templates":false,"preview":false,"previewDialog":false,"publish":false,"toc":false},"wgArticleFeedbackv5Permissions":{"aft-reader":false,"aft-member":false,"aft-editor":false,"aft-monitor":false,"aft-administrator":false,"aft-oversighter":false,"aft-noone":false},"wgVisualEditor":{"isPageWatched":false,"magnifyClipIconURL":"//bits.wikimedia.org/static-1.22wmf19/skins/common/images/magnify-clip.png","pageLanguageCode":"en","pageLanguageDir":"ltr"},"wikilove-recipient":"","wikilove-anon":0,"wgGuidedTourHelpGuiderUrl":"Help:Guided tours/guider","wgULSAcceptLanguageList":[],"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia","aftv5Article":{"id":860921,"title":"Ankylosauria","namespace":0,"categories":["Ankylosaurs","Articles with 'species' microformats"],"permissionLevel":false},"wgWikibaseItemId":"Q273617"});
+}if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":false,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,
+"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"useeditwarning":1,"prefershttps":1,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"vector-simplesearch":1,"vector-collapsiblenav":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"aftv5-last-filter":null,"visualeditor-enable":0,"visualeditor-enable-experimental":0,"visualeditor-betatempdisable":0,"wikilove-enabled":1,"echo-subscriptions-web-page-review":true,"echo-subscriptions-email-page-review":false,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"echo-notify-show-link":true,"echo-show-alert":true,"echo-email-frequency":0,"echo-email-format":"html","echo-subscriptions-email-system":true,"echo-subscriptions-web-system":true,"echo-subscriptions-email-other":false,"echo-subscriptions-web-other":true,"echo-subscriptions-email-edit-user-talk":false,"echo-subscriptions-web-edit-user-talk":true,
+"echo-subscriptions-email-reverted":false,"echo-subscriptions-web-reverted":true,"echo-subscriptions-email-article-linked":false,"echo-subscriptions-web-article-linked":false,"echo-subscriptions-email-mention":false,"echo-subscriptions-web-mention":true,"echo-subscriptions-web-edit-thank":true,"echo-subscriptions-email-edit-thank":false,"gettingstarted-task-toolbar-show-intro":true,"uls-preferences":"","language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs446":false,"searchNs447":false
+,"searchNs710":false,"searchNs711":false,"searchNs828":false,"searchNs829":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-mySandbox":1,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:156d8fe0ae17f8afd74198057563e45d */
+}if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","ext.visualEditor.viewPageTarget.init","ext.wikimediaShopLink.core","ext.uls.init","ext.uls.interface","wikibase.client.init","ext.centralNotice.bannerController","skins.vector.js"]);
+}/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}if(window.mw){
+mw.loader.load(["mobile.desktop","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.cite","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","mw.MwEmbedSupport.style","ext.vector.collapsibleNav","ext.articleFeedbackv5.startup","ext.gettingstarted.logging","ext.gettingstarted.openTask","schema.HttpsSupport","ext.coreEvents.httpsSupport","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","mw.PopUpMediaTransform"],null,true);
+}

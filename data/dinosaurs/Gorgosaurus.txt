@@ -1,0 +1,784 @@
+
+
+
+Gorgosaurus - Wikipedia, the free encyclopedia
+
+
+
+
+
+
+
+
+
+
+
+
+a:lang(ar),a:lang(ckb),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:0de201fdea5d684523607ed88007b127 */
+
+
+
+
+[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.22wmf18/skins/vector/csshover.min.htc")}</style><![endif]
+
+		
+		
+		
+			
+			
+						 CentralNotice 
+						Gorgosaurus
+			
+								From Wikipedia, the free encyclopedia
+								
+												
+					Jump to:					navigation, 					search
+				
+				
+
+
+Gorgosaurus
+Temporal range: Late Cretaceous, 76.6–75Ma
+
+PreЄ
+Є
+O
+S
+D
+C
+P
+T
+J
+K
+Pg
+N
+
+
+
+↓
+
+
+
+
+
+
+
+
+
+Skeletal mount, Royal Tyrrell Museum of Palaeontology
+
+
+Scientific classification 
+
+
+Kingdom:
+Animalia
+
+
+Phylum:
+Chordata
+
+
+Clade:
+Sauropsida
+
+
+Clade:
+Dinosauria
+
+
+Clade:
+Theropoda
+
+
+Superfamily:
+†Tyrannosauroidea
+
+
+Family:
+†Tyrannosauridae
+
+
+Subfamily:
+†Albertosaurinae
+
+
+Genus:
+†Gorgosaurus
+Lambe, 1914
+
+
+Type species
+
+
+†Gorgosaurus libratus
+Lambe, 1914
+
+
+Synonyms
+
+
+
+Deinodon horridus? Cope, 1876
+Laelaps falculus? Cope, 1876
+Laelaps hazenianus? Cope, 1876
+Laelaps incrassatus Cope, 1876
+Dryptosaurus kenabekides? Hay, 1899
+Gorgosaurus sternbergi Matthew & Brown, 1923
+
+
+
+
+Gorgosaurus (/ˌɡɔrɡɵˈsɔrəs/ GOR-go-SOR-əs; meaning "fierce lizard") is a genus of tyrannosaurid theropod dinosaur that lived in western North America during the Late Cretaceous Period, between about 76.6 and 75 million years ago. Fossil remains have been found in the Canadian province of Alberta and possibly the U.S. state of Montana. Paleontologists recognize only the type species, G. libratus, although other species have been erroneously referred to the genus.
+Like most known tyrannosaurids, Gorgosaurus was a bipedal predator weighing more than two metric tons as an adult; dozens of large, sharp teeth lined its jaws, while its two-fingered forelimbs were comparatively small. Gorgosaurus was most closely related to Albertosaurus, and more distantly related to the larger Tyrannosaurus. Gorgosaurus and Albertosaurus are extremely similar, distinguished mainly by subtle differences in the teeth and skull bones. Some experts consider G. libratus to be a species of Albertosaurus; this would make Gorgosaurus a junior synonym of that genus.
+Gorgosaurus lived in a lush floodplain environment along the edge of an inland sea. It was an apex predator (meaning that it was at the top of its food chain), preying upon abundant ceratopsids and hadrosaurs. In some areas, Gorgosaurus coexisted with another tyrannosaurid, Daspletosaurus. Although these animals were roughly the same size, there is some evidence of niche differentiation between the two. Gorgosaurus is the best-represented tyrannosaurid in the fossil record, known from dozens of specimens. These plentiful remains have allowed scientists to investigate its ontogeny, life history and other aspects of its biology.
+
+
+Contents
+
+
+1 Description
+2 Classification and systematics
+3 Discovery and naming
+
+3.1 Misassigned species
+
+
+4 Paleobiology
+
+4.1 Coexistence with Daspletosaurus
+4.2 Life history
+4.3 Paleopathology
+
+
+5 Paleoecology
+6 References
+7 External links
+
+
+Description[edit]
+
+
+
+
+G. libratus with a human for scale
+
+
+Gorgosaurus was smaller than Tyrannosaurus or Tarbosaurus, closer in size to Albertosaurus and Daspletosaurus. Adults reached 8 to 9 m (26 to 30 ft) from snout to tail.[1][2] Paleontologists have estimated full-grown adults to weigh more than 2.4 tonnes (2.6 short tons),[3] perhaps approaching 2.8 tonnes (3.1 short tons).[4] The largest known skull measures 99 cm (39 in) long, just slightly smaller than that of Daspletosaurus.[1] As in other tyrannosaurids, the skull was large compared to its body size, although chambers within the skull bones and large openings (fenestrae) between bones reduced its weight. Albertosaurus and Gorgosaurus share proportionally longer and lower skulls than Daspletosaurus and other tyrannosaurids. The end of the snout was blunt, and the nasal and parietal bones were fused along the midline of the skull, as in all other members of the family. The eye socket was circular rather than oval or keyhole-shaped as in other tyrannosaurid genera. A tall crest rose from the lacrimal bone in front of each eye, similar to Albertosaurus and Daspletosaurus.[2] Differences in the shape of bones surrounding the brain set Gorgosaurus apart from Albertosaurus.[5]
+Gorgosaurus teeth were typical of all known tyrannosaurids. The eight premaxillary teeth at the front of the snout were smaller than the rest, closely packed and D-shaped in cross section. In Gorgosaurus, the first tooth in the maxilla was also shaped like the premaxillary teeth. The rest of the teeth were oval in cross section, rather than blade-like as in most other theropods.[2] Along with the eight premaxillary teeth, Gorgosaurus had 26 to 30 maxillary teeth and 30 to 34 teeth in the dentary bones of the lower jaw. This number of teeth is similar to Albertosaurus and Daspletosaurus but is fewer than those of Tarbosaurus or Tyrannosaurus.[6]
+
+
+
+
+Life restoration
+
+
+Gorgosaurus shared its general body plan with all other tyrannosaurids. Its massive head was perched on the end of an S-shaped neck. In contrast to its large head, its forelimbs were very small. The forelimbs had only two digits, although a third metacarpal is known in some specimens, the vestigial remains of the third digit seen in other theropods. Gorgosaurus had four digits on each hindlimb, including a small first toe (hallux) which did not contact the ground. Tyrannosaurid hindlimbs were long relative to overall body size compared with other theropods.[2] The largest known Gorgosaurus femur measured 105 cm (41 in) long. In several smaller specimens of Gorgosaurus, the tibia was longer than the femur, a proportion typical of fast-running animals.[1] The two bones were of equal length in the largest specimens.[7] The long, heavy tail served as a counterweight to the head and torso and placed the center of gravity over the hips.[2]
+In 2001, paleontologist Phil Currie reported skin impressions from the holotype specimen of G. libratus. The skin of Gorgosaurus was smooth, lacking the scales found in many other dinosaurs, and similar to the secondarily featherless skin found in large modern birds.[8] In the Encyclopedia of Dinosaurs, however, Kenneth Carpenter pointed out that traces of skin impressions from the tail of Gorgosaurus show small rounded or hexagonal scales.[9]
+Classification and systematics[edit]
+
+
+Cladogram of Tyrannosauridae
+highlighting the position of Gorgosaurus
+
+
+
+
+
+Carr et al. 2005
+
+
+
+
+
+Tyrannosauridae 
+
+
+
+ Albertosaurinae 
+
+
+
+
+
+Albertosaurus
+
+
+
+
+
+
+
+
+Gorgosaurus*
+
+
+
+
+
+
+
+
+
+
+
+
+ Tyrannosaurinae 
+
+
+
+
+
+
+
+void
+
+Daspletosaurus
+
+
+
+
+
+
+
+
+
+
+ void 
+
+Tarbosaurus*
+
+
+
+
+
+
+
+
+Tyrannosaurus
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Note: Carr et al. regard Gorgosaurus libratus as a species of Albertosaurus and Tarbosaurus bataar as a species of Tyrannosaurus
+
+
+
+
+
+
+
+
+Currie et al. 2003[6]
+
+
+
+
+
+Tyrannosauridae 
+
+
+
+ Albertosaurinae 
+
+
+
+
+
+Albertosaurus
+
+
+
+
+
+
+
+
+Gorgosaurus
+
+
+
+
+
+
+
+
+
+
+
+
+ Tyrannosaurinae 
+
+
+
+void
+
+
+
+void
+
+Daspletosaurus
+
+
+
+
+
+
+
+
+
+
+ void 
+
+Tarbosaurus
+
+
+
+
+
+
+
+
+Alioramus
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+void
+
+Nanotyrannus
+
+
+
+
+
+
+
+
+Tyrannosaurus
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Gorgosaurus is classified in the theropod subfamily Albertosaurinae within the family Tyrannosauridae. It is most closely related to the slightly younger Albertosaurus.[6] These are the only two definite albertosaurine genera that have been described, although other undescribed species may exist.[5] Appalachiosaurus was described as a basal tyrannosauroid just outside Tyrannosauridae,[10] although American paleontologist Thomas Holtz published a phylogenetic analysis in 2004 which indicated it was an albertosaurine.[2] More recent, unpublished work by Holtz agrees with the original assessment.[11] All other tyrannosaurid genera, including Daspletosaurus, Tarbosaurus and Tyrannosaurus, are classified in the subfamily Tyrannosaurinae. Compared to the tyrannosaurines, albertosaurines had slender builds, with proportionately smaller, lower skulls and longer bones of the lower leg (tibia) and feet (metatarsals and phalanges).[6][12]
+The close similarities between Gorgosaurus libratus and Albertosaurus sarcophagus have led many experts to combine them into one genus over the years. Albertosaurus was named first, so by convention it is given priority over the name Gorgosaurus, which is sometimes considered its junior synonym. William Diller Matthew and Barnum Brown doubted the distinction of the two genera as early as 1922.[13] Gorgosaurus libratus was formally reassigned to Albertosaurus (as Albertosaurus libratus) by Dale Russell in 1970,[1] and many subsequent authors followed his lead.[10][14] Combining the two greatly expands the geographical and chronological range of the genus Albertosaurus. Other experts maintain the two genera as separate.[2] Canadian paleontologist Phil Currie claims there are as many anatomical differences between Albertosaurus and Gorgosaurus as there are between Daspletosaurus and Tyrannosaurus, which are almost always kept separate. He also notes that undescribed tyrannosaurids discovered in Alaska, New Mexico and elsewhere in North America may help clarify the situation.[5] Gregory S. Paul has suggested that Gorgosaurus libratus is ancestral to Albertosaurus sarcophagus.[15]
+Discovery and naming[edit]
+Gorgosaurus libratus was first described by Lawrence Lambe in 1914.[16][17] Its name is derived from the Greek γοργος/gorgos ("fierce" or "terrible") and σαυρος/saurus ("lizard").[18] The type species is G. libratus; the specific epithet "balanced" is the past participle of the Latin verb librare, meaning "to balance".[17]
+
+
+
+
+Type specimen of Gorgosaurus sternbergi (AMNH 5664), now recognized as a juvenile Gorgosaurus libratus
+
+
+The holotype of Gorgosaurus libratus (NMC 2120) is a nearly complete skeleton associated with a skull, discovered in 1913 by Charles M. Sternberg. This specimen was the first tyrannosaurid found with a complete hand.[16] It was found in the Dinosaur Park Formation of Alberta and is housed in the Canadian Museum of Nature in Ottawa.[5] Prospectors from the American Museum of Natural History in New York City were active along the Red Deer River in Alberta at the same time, collecting hundreds of spectacular dinosaur specimens, including four complete G. libratus skulls, three of which were associated with skeletons. Matthew and Brown described four of these specimens in 1923.[7]
+Matthew and Brown also described a fifth skeleton (AMNH 5664), which Charles H. Sternberg had collected in 1917 and sold to their museum. It was smaller than other Gorgosaurus specimens, with a lower, lighter skull and more elongate limb proportions. Many sutures between bones were unfused in this specimen as well. Matthew and Brown noted that these features were characteristic of juvenile tyrannosaurids, but still described it as the holotype of a new species, G. sternbergi.[7] Today's paleontologists regard this specimen as a juvenile G. libratus.[2][5] Dozens of other specimens have been excavated from the Dinosaur Park Formation and are housed in museums across the United States and Canada.[1][5] G. libratus is the best-represented tyrannosaurid in the fossil record, known from a virtually complete growth series.[2][19]
+
+
+
+
+Specimen AMNH 5458
+
+
+In 1856, Joseph Leidy described two tyrannosaurid premaxillary teeth from Montana. Although there was no indication of what the animal looked like, the teeth were large and robust, and Leidy gave them the name Deinodon.[20] Matthew and Brown commented in 1922 that these teeth were indistinguishable from those of Gorgosaurus, but in the absence of skeletal remains of Deinodon, opted not to unequivocally synonymize the two genera, provisionally naming a ?Deinodon libratus.[13] Although Deinodon teeth are very similar to those of Gorgosaurus, tyrannosaurid teeth are extremely uniform, so it cannot be said for certain which animal they belonged to. Deinodon is usually regarded as a nomen dubium today.[19] Additional likely synonyms of G. libratus and/or D. horridus include Laelaps falculus, Laelaps hazenianus, Laelaps incrassatus, and Dryptosaurus kenabekides.[21]
+Several tyrannosaurid skeletons from the Two Medicine Formation and Judith River Formation of Montana probably belong to Gorgosaurus, although it remains uncertain whether they belong to G. libratus or a new species.[5] One specimen from Montana (TCMI 2001.89.1), housed in the Children's Museum of Indianapolis, shows evidence of severe pathologies, including healed leg, rib, and vertebral fractures, osteomyelitis (infection) at the tip of the lower jaw resulting in permanent tooth loss, and possibly a brain tumor.[22][23]
+Misassigned species[edit]
+Several species were incorrectly assigned to Gorgosaurus in the twentieth century. A complete skull of a small tyrannosaurid (CMNH 7541), found in the younger, late Maastrichtian-age Hell Creek Formation of Montana, was named Gorgosaurus lancensis by Charles Whitney Gilmore in 1946.[24] This specimen was renamed Nanotyrannus by Bob Bakker and colleagues in 1988.[25] Currently, many paleontologists regard Nanotyrannus as a juvenile Tyrannosaurus rex.[2][19] Similarly, Evgeny Maleev created the names Gorgosaurus lancinator and Gorgosaurus novojilovi for two small tyrannosaurid specimens (PIN 553-1 and PIN 552-2) from the Nemegt Formation of Mongolia in 1955.[26] Kenneth Carpenter renamed the smaller specimen Maleevosaurus novojilovi in 1992,[27] but both are now considered juveniles of Tarbosaurus bataar.[2][19][28]
+Paleobiology[edit]
+Coexistence with Daspletosaurus[edit]
+
+
+
+
+Gorgosaurus attacking the hadrosaur Parasaurolophus
+
+
+In the Dinosaur Park Formation, Gorgosaurus lived alongside a rarer species of the tyrannosaurine Daspletosaurus. This is one of the few examples of two tyrannosaur genera coexisting. Similar-sized predators in modern predator guilds are separated into different ecological niches by anatomical, behavioral or geographical differences that limit competition. Niche differentiation between the Dinosaur Park tyrannosaurids is not well understood.[29] In 1970, Dale Russell hypothesized the more common Gorgosaurus actively hunted fleet-footed hadrosaurs, while the rarer and more troublesome ceratopsians and ankylosaurians (horned and heavily armoured dinosaurs) were left to the more heavy built Daspletosaurus.[1] However, a specimen of Daspletosaurus (OTM 200) from the contemporaneous Two Medicine Formation of Montana preserves the digested remains of a juvenile hadrosaur in its gut region,[30] and another bonebed contains the remains of three Daspletosaurus along with the remains of at least five hadrosaurs.[31]
+Unlike some other groups of dinosaurs, neither genus was more common at higher or lower elevations than the other.[29] However, Gorgosaurus appears more common in northern formations like Dinosaur Park, with species of Daspletosaurus more abundant to the south. The same pattern is seen in other groups of dinosaurs. Chasmosaurine ceratopsians and hadrosaurine hadrosaurs are also more common in the Two Medicine Formation of Montana and in southwestern North America during the Campanian, while centrosaurine and lambeosaurines dominate in northern latitudes. Holtz has suggested this pattern indicates shared ecological preferences between tyrannosaurines, chasmosaurines and hadrosaurines. At the end of the later Maastrichtian stage, tyrannosaurines like Tyrannosaurus rex, hadrosaurines like Edmontosaurus and chasmosaurines like Triceratops were widespread throughout western North America, while lambeosaurines were rare and albertosaurines and centrosaurines had gone extinct.[2]
+Life history[edit]
+
+
+
+
+A graph showing the hypothesized growth curves (body mass versus age) of four tyrannosaurids. Gorgosaurus is shown in blue. Based on Erickson et al. 2004.
+
+
+Gregory Erickson and colleagues have studied the growth and life history of tyrannosaurids using bone histology, which can determine the age of a specimen when it died. A growth curve can be developed when the ages of various individuals are plotted against their sizes on a graph. Tyrannosaurids grew throughout their lives, but underwent tremendous growth spurts for about four years, after an extended juvenile phase. Sexual maturity may have ended this rapid growth phase, after which growth slowed down considerably in adult animals. Examining five Gorgosaurus specimens of various sizes, Erickson calculated a maximum growth rate of about 50 kg (110 lb) per year during the rapid growth phase, slower than in tyrannosaurines like Daspletosaurus and Tyrannosaurus, but comparable to Albertosaurus.[32]
+Gorgosaurus spent as much as half its life in the juvenile phase before ballooning up to near-maximum size in only a few years.[32] This, along with the complete lack of predators intermediate in size between huge adult tyrannosaurids and other small theropods, suggests these niches may have been filled by juvenile tyrannosaurids. This pattern is seen in modern Komodo dragons, whose hatchlings start off as tree-dwelling insectivores and slowly mature into massive apex predators capable of taking down large vertebrates.[2] Other tyrannosaurids, including Albertosaurus, have been found in aggregations that some have suggested to represent mixed-age packs, but there is no evidence of gregarious behavior in Gorgosaurus.[31][33]
+Paleopathology[edit]
+Main article: Paleopathology
+
+
+
+
+Bob Bakker with a skeleton with several bone injuries, from the "Dinosaur Mummy: CSI" exhibit at the HMNS
+
+
+Several pathologies have been documented in the Gorgosaurus libratus holotype, NMC 2120. These include the third right dorsal rib, as well as healed fractures on the 13th and 14th gastralia and left fibula. Its fourth left metatarsal bore roughened exostoses both in the middle and at the far end. The third phalanx of the third right toe is deformed, as the claw on that digit has been described as "quite small and amorphous." The three pathologies may have been received in a single encounter with another dinosaur.[34]
+Another specimen cataloged as TMP94.12.602 bears multiple pathologies. A 10 cm (3.9 in) longitudinal fracture is present in the middle of the right fibula's shaft. Multiple ribs bear healed fractures and the specimen had a pseudoarthortic gastralium. Lesions from a bite received to the face were present and showed evidence that the wounds were healing before the animal died.[34]
+TMP91.36.500 is another Gorgosaurus with preserved face bite injuries but also has a thoroughly healed fracture in the right fibula. Also present was a healed fracture in the dentary and what the authors describing the specimen referred to as "a mushroom-like hyperostosis of a right pedal phalanx." Ralph Molnar has speculated that this may be the same kind of pathology afflicting an unidentified ornithomimid discovered with a similar mushroom shaped growth on a toe bone.[34]
+Another specimen has a poorly healed fracture of the right fibula, which left a large callus on the bone. In a 2001 study conducted by Bruce Rothschild and other paleontologists, 54 foot bones referred to Gorgosaurus were examined for signs of stress fracture, but none were found.[34][35]
+Paleoecology[edit]
+
+
+
+
+Sub-adult specimen in "death pose", see Reisdorf and Wuttke (2012),[36] Royal Tyrrell Museum of Palaeontology
+
+
+Most specimens of Gorgosaurus libratus have been recovered from the Dinosaur Park Formation in Alberta.[5] This formation dates to the middle of the Campanian, between 76.5 and 74.8 million years ago,[37] and Gorgosaurus libratus fossils are known specifically from the lower to middle section of the formation, between 76.6 and 75.1 million years ago.[38] The Two Medicine Formation and Judith River Formation of Montana have also yielded possible Gorgosaurus remains. At this time, the area was a coastal plain along the western edge of the Western Interior Seaway, which divided North America in half. The Laramide Orogeny had begun uplifting the Rocky Mountains to the west, from which flowed great rivers that deposited eroded sediment in vast floodplains along the coast.[39][40] The climate was subtropical with marked seasonality, and periodic droughts sometimes resulted in massive mortality among the great herds of dinosaurs, as represented in the numerous bonebed deposits preserved in the Dinosaur Park Formation. Conifers formed the forest canopy, while the understory plants consisted of ferns, tree ferns and angiosperms.[41] Around 73 million years ago, the seaway began to expand, transgressing into areas formerly above sea level and drowning the Dinosaur Park ecosystem. This transgression, called the Bearpaw Sea, is recorded by the marine sediments of the massive Bearpaw Shale.[40]
+The Dinosaur Park Formation preserves a great wealth of vertebrate fossils. A wide variety of fish swam the rivers and estuaries, including gars, sturgeons, sharks and rays, among others. Frogs, salamanders, turtles, crocodilians and champsosaurs also dwelled in the aquatic habitats. Azhdarchid pterosaurs and neornithine birds like Apatornis flew overhead, while the enantiornithine bird Avisaurus lived on the ground alongside multituberculate, marsupial and placental mammals. A number of species of terrestrial lizards were also present, including whiptails, skinks, monitors and alligator lizards. Dinosaur fossils in particular are found with unrivaled abundance and diversity. Huge herds of ceratopsids roamed the floodplains alongside equally large groups of hadrosaurine and lambeosaurine hadrosaurs. Other herbivorous groups like ornithomimids, therizinosaurs, pachycephalosaurs, small ornithopods, nodosaurids and ankylosaurids were also represented. Small predatory dinosaurs like oviraptorosaurs, troodonts and dromaeosaurs hunted smaller prey than the huge tyrannosaurids; Daspletosaurus and Gorgosaurus, which were two orders of magnitude larger in mass.[40] Intervening predatory niches may have been filled by young tyrannosaurids.[1][2][42] A Saurornitholestes dentary has been discovered in the Dinosaur Park Formation that bore tooth marks left by the bite of a young tyrannosaur, possibly Gorgosaurus.[43]
+References[edit]
+
+
+^ a b c d e f g Russell, Dale A. (1970). "Tyrannosaurs from the Late Cretaceous of western Canada". National Museum of Natural Sciences Publications in Paleontology 1: 1–34. 
+^ a b c d e f g h i j k l m n Holtz, Thomas R. (2004). "Tyrannosauroidea". In Weishampel, David B.; Dodson, Peter; & Osmólska, Halszka (eds.). The Dinosauria (Second ed.). Berkeley: University of California Press. pp. 111–136. ISBN 0-520-24209-2. 
+^ Seebacher, Frank (2001). "A new method to calculate allometric length-mass relationships of dinosaurs". Journal of Vertebrate Paleontology 21 (1): 51–60. doi:10.1671/0272-4634(2001)021[0051:ANMTCA]2.0.CO;2. ISSN 0272-4634. 
+^ Therrien, F.; and Henderson, D.M. (2007). "My theropod is bigger than yours...or not: estimating body size from skull length in theropods". Journal of Vertebrate Paleontology 27 (1): 108–115. doi:10.1671/0272-4634(2007)27[108:MTIBTY]2.0.CO;2. 
+^ a b c d e f g h Currie, Philip J. (2003). "Cranial anatomy of tyrannosaurids from the Late Cretaceous of Alberta" (PDF). Acta Palaeontologica Polonica 48 (2): 191–226. 
+^ a b c d Currie, Philip J.; Hurum, Jørn H; & Sabath, Karol. (2003). "Skull structure and evolution in tyrannosaurid phylogeny" (PDF). Acta Palaeontologica Polonica 48 (2): 227–234. 
+^ a b c Matthew, William D.; & Brown, Barnum. (1923). "Preliminary notices of skeletons and skulls of Deinodontidae from the Cretaceous of Alberta". American Museum Novitates 89: 1–9. 
+^ Currie, P. (2001). 2001 A. Watson Armour Symposium: The Paleobiology and Phylogenetics of Large Theropods. Field Museum of Natural History, Chicago.
+^ Carpenter, Kenneth (1997). "Tyrannosauridae". In Currie, Philip J. & Padian, Kevin (eds.). Encyclopedia of Dinosaurs. San Diego: Academic Press. p. 768. ISBN 0-12-226810-5. 
+^ a b Carr, Thomas D.; Williamson, Thomas E.; & Schwimmer, David R. (2005). "A new genus and species of tyrannosauroid from the Late Cretaceous (middle Campanian) Demopolis Formation of Alabama". Journal of Vertebrate Paleontology 25 (1): 119–143. doi:10.1671/0272-4634(2005)025[0119:ANGASO]2.0.CO;2. ISSN 0272-4634. 
+^ Holtz, Thomas R. (2005-09-20). "RE: Burpee Conference (LONG)". Retrieved 2007-06-18. 
+^ Currie, Philip J. (2003). "Allometric growth in tyrannosaurids (Dinosauria: Theropoda) from the Upper Cretaceous of North America and Asia". Canadian Journal of Earth Sciences 40 (4): 651–665. doi:10.1139/e02-083. 
+^ a b Matthew, William D.; & Brown, Barnum. (1922). "The family Deinodontidae, with notice of a new genus from the Cretaceous of Alberta". Bulletin of the American Museum of Natural History 46 (6): 367–385. 
+^ Paul, Gregory S. (1988). Predatory Dinosaurs of the World. New York: Simon & Schuster. p. 464pp. ISBN 978-0-671-61946-6. 
+^ Paul. G.S. The Princeton Field Guide to Dinosaurs, Princeton University Press, 2010. P. 105.
+^ a b Lambe, Lawrence M. (1914). "On the fore-limb of a carnivorous dinosaur from the Belly River Formation of Alberta, and a new genus of Ceratopsia from the same horizon, with remarks on the integument of some Cretaceous herbivorous dinosaurs". Ottawa Naturalist 27: 129–135. 
+^ a b Lambe, Lawrence M. (1914). "On a new genus and species of carnivorous dinosaur from the Belly River Formation of Alberta, with a description of Stephanosaurus marginatus from the same horizon". Ottawa Naturalist 28: 13–20. 
+^ Liddell, Henry G.; Scott, Robert (1980). Greek-English Lexicon (Abridged ed.). Oxford: Oxford University Press,. ISBN 0-19-910207-4. 
+^ a b c d Carr, Thomas D. (1999). "Craniofacial ontogeny in Tyrannosauridae (Dinosauria, Coelurosauria)". Journal of Vertebrate Paleontology 19 (3): 497–520. doi:10.1080/02724634.1999.10011161. 
+^ Leidy, Joseph. (1856). "Notice of remains of extinct reptiles and fishes, discovered by Dr. F.V. Hayden in the badlands of the Judith River". Proceedings of the Academy of Sciences in Philadelphia 8: 72–73. 
+^ Weishampel, D.B., Dodson, P., and Osmólska, H. (eds.). (2004). The Dinosauria. 2nd edition. University of California Press, Berkeley. 833 pp.
+^ Pickrell, John. (2003-11-24). "First dinosaur brain tumor found, experts suggest". National Geographic News. Retrieved 2008-02-07. 
+^ "Meet the Gorgosaur". The Children's Museum of Indianapolis. Retrieved 2008-02-07. 
+^ Gilmore, Charles W. (1946). "A new carnivorous dinosaur from the Lance Formation of Montana". Smithsonian Miscellaneous Collections 106: 1–19. 
+^ Bakker, Robert T.; Williams, Michael; & Currie, Philip J. (1988). "Nanotyrannus, a new genus of pygmy tyrannosaur, from the latest Cretaceous of Montana". Hunteria 1 (5): 1–30. 
+^ Maleev, Evgeny A. (1955). "New carnivorous dinosaurs from the Upper Cretaceous of Mongolia". Doklady Akademii Nauk SSSR (in Russian) 104 (5): 779–783. 
+^ Carpenter, Ken. (1992). "Tyrannosaurids (Dinosauria) of Asia and North America". In Mateer, Niall J.; and Chen Peiji (eds.). Aspects of Nonmarine Cretaceous Geology. Beijing: China Ocean Press. pp. 250–268. 
+^ Rozhdestvensky, Anatoly K. (1965). "Growth changes in Asian dinosaurs and some problems of their taxonomy". Paleontological Journal 3: 95–109. 
+^ a b Farlow, James O.; & Pianka, Eric R. (2002). "Body size overlap, habitat partitioning and living space requirements of terrestrial vertebrate predators: implications for the paleoecology of large theropod dinosaurs". Historical Biology 16 (1): 21–40. doi:10.1080/0891296031000154687. 
+^ Varricchio, David J. (2001). "Gut contents from a Cretaceous tyrannosaurid: implications for theropod dinosaur digestive tracts". Journal of Paleontology 75 (2): 401–406. doi:10.1666/0022-3360(2001)075<0401:GCFACT>2.0.CO;2. ISSN 0022-3360. 
+^ a b Currie, Philip J.; Trexler, David; Koppelhus, Eva B.; Wicks, Kelly; & Murphy, Nate. (2005). "An unusual multi-individual tyrannosaurid bonebed in the Two Medicine Formation (Late Cretaceous, Campanian) of Montana (USA)". In Carpenter, Kenneth (ed.). The Carnivorous Dinosaurs. Bloomington: Indiana University Press. pp. 313–324. ISBN 978-0-253-34539-4. 
+^ a b Erickson, Gregory M., GM; Makovicky, Peter J.; Currie, Philip J.; Norell, Mark A.; Yerby, Scott A.; & Brochu, Christopher A. (2004). "Gigantism and comparative life-history parameters of tyrannosaurid dinosaurs". Nature 430 (7001): 772–775. doi:10.1038/nature02699. PMID 15306807. 
+^ Tanke, Darren H.; & Currie, Philip J. (1998). "Head-biting behavior in theropod dinosaurs: paleopathological evidence" (PDF). Gaia 15: 167–184.  [not printed until 2000]
+^ a b c d Rothschild, B., Tanke, D. H., and Ford, T. L., 2001, Theropod stress fractures and tendon avulsions as a clue to activity: In: Mesozoic Vertebrate Life, edited by Tanke, D. H., and Carpenter, K., Indiana University Press, p. 331–336.
+^ Molnar, R. E., 2001, Theropod paleopathology: a literature survey: In: Mesozoic Vertebrate Life, edited by Tanke, D. H., and Carpenter, K., Indiana University Press, p. 337–363.
+^ Reisdorf, A.G., and Wuttke, M. (2012). "Re-evaluating Moodie's Opisthotonic-Posture Hypothesis in fossil vertebrates. Part I: Reptiles – The taphonomy of the bipedal dinosaurs Compsognathus longipes and Juravenator starki from the Solnhofen Archipelago (Jurassic, Germany)." Palaeobiodiversity and Palaeoenvironments, doi:10.1007/s12549-011-0068-y
+^ Eberth, D.A. (2005). "The geology." In: Currie, P.J., and Koppelhus, E.B. (eds), Dinosaur Provincial Park: A Spectacular Ancient Ecosystem Revealed. Indiana University Press: Bloomington and Indianapolis, 54–82.
+^ Arbour, V.M., Burns, M.E., and Sissons, R.L. (2009). "A redescription of the ankylosaurid dinosaur Dyoplosaurus acutosquameus Parks, 1924 (Ornithischia: Ankylosauria) and a revision of the genus." Journal of Vertebrate Paleontology, 29 (4): 1117–1135. doi:10.1671/039.029.0405
+^ English, Joseph M.; & Johnston, Stephen T. (2004). "The Laramide Orogeny: what were the driving forces?" (pdf). International Geology Review 46 (9): 833–838. doi:10.2747/0020-6814.46.9.833. 
+^ a b c Eberth, David A. (1997). "Judith River Wedge". In Currie, Philip J. & Padian, Kevin (eds.). Encyclopedia of Dinosaurs. San Diego: Academic Press. pp. 199–204. ISBN 0-12-226810-5. 
+^ Braman, Dennis R.; and Koppelhus, Eva B. (2005). "Campanian palynomorphs". In Currie, Phillip J. and Koppelhus, Eva B. (eds.). Dinosaur Provincial Park: A Spectacular Ancient Ecosystem Revealed. Bloomington: Indiana University Press. pp. 101–130. ISBN 0-253-34595-2. 
+^ Farlow, James O. (1976). "Speculations about the diet and foraging behavior of large carnivorous dinosaurs". American Midland Naturalist (American Midland Naturalist, Vol. 95, No. 1) 95 (1): 186–191. doi:10.2307/2424244. JSTOR 2424244. 
+^ Jacobsen, A.R. 2001. Tooth-marked small theropod bone: An extremely rare trace. p. 58–63. In: Mesozioc Vertebrate Life. Ed.s Tanke, D. H., Carpenter, K., Skrepnick, M. W. Indiana University Press.
+
+
+External links[edit]
+
+
+
+Wikispecies has information related to: Gorgosaurus
+
+
+
+
+
+Wikimedia Commons has media related to Gorgosaurus.
+
+
+
+
+
+
+Dinosaurs portal
+
+
+
+
+Gorgosaurus from Palaeos.com
+
+
+   
+
+
+ 
+NewPP limit report
+CPU time usage: 7.136 seconds
+Real time usage: 7.566 seconds
+Preprocessor visited node count: 33029/1000000
+Preprocessor generated node count: 63390/1500000
+Post‐expand include size: 200171/2048000 bytes
+Template argument size: 87654/2048000 bytes
+Highest expansion depth: 39/40
+Expensive parser function count: 1/500
+Lua time usage: 0.151s
+Lua memory usage: 2.66 MB
+
+
+ Saved in parser cache with key enwiki:pcache:idhash:1073845-0!*!0!!en!4!* and timestamp 20131002130055 
+								
+				Retrieved from "http://en.wikipedia.org/w/index.php?title=Gorgosaurus&oldid=572928126"				
+												Categories: Cretaceous dinosaursDinosaurs of North AmericaFossil taxa described in 1914TyrannosaursHidden categories: Wikipedia indefinitely move-protected pagesArticles with 'species' microformatsCommons category with local link same as on WikidataFeatured articles												
+							
+		
+		
+			Navigation menu
+			
+				
+	Personal tools
+	
+Create accountLog in	
+
+				
+					
+	Namespaces
+	
+					Article
+					Talk
+			
+
+
+	
+		
+	Variants
+	
+		
+					
+	
+
+				
+				
+					
+	Views
+	
+					Read
+					Edit
+					View history
+			
+
+
+	Actions
+	
+		
+					
+	
+
+
+	Search
+	
+				
+																				
+		
+	
+
+				
+			
+			
+					
+				
+	Navigation
+	
+		
+			Main page
+			Contents
+			Featured content
+			Current events
+			Random article
+			Donate to Wikipedia
+		
+	
+
+
+	Interaction
+	
+		
+			Help
+			About Wikipedia
+			Community portal
+			Recent changes
+			Contact page
+		
+	
+
+
+	Toolbox
+	
+		
+			What links here
+			Related changes
+			Upload file
+			Special pages
+			Permanent link
+			Page information
+			Data item
+Cite this page		
+	
+
+
+	Print/export
+	
+		
+			Create a book
+			Download as PDF
+			Printable version
+		
+	
+
+
+	Languages
+	
+		
+			Català
+			Česky
+			Deutsch
+			Español
+			Esperanto
+			فارسی
+			Français
+			Italiano
+			עברית
+			Magyar
+			Nederlands
+			日本語
+			Occitan
+			Polski
+			Português
+			Русский
+			Simple English
+			Slovenčina
+			Suomi
+			Svenska
+			Türkçe
+			中文
+			
+			Edit links
+		
+	
+
+			
+		
+		
+							
+											 This page was last modified on 14 September 2013 at 20:03.
+											Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. 
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+									
+							
+											Privacy policy
+											About Wikipedia
+											Disclaimers
+											Contact Wikipedia
+											Developers
+											Mobile view
+									
+										
+					
+						
+					
+					
+						
+					
+				
+						
+		
+		
+
+
+ Served by mw1179 in 0.159 secs. 
+	
+if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Gorgosaurus","wgTitle":"Gorgosaurus","wgCurRevisionId":572928126,"wgArticleId":1073845,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Wikipedia indefinitely move-protected pages","Articles with 'species' microformats","Commons category with local link same as on Wikidata","Featured articles","Cretaceous dinosaurs","Dinosaurs of North America","Fossil taxa described in 1914","Tyrannosaurs"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Gorgosaurus","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":["sysop"],"wgVectorEnabledModules":{"collapsiblenav":true,"experiments":true},"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"templateEditor":false,"templates":false,"preview":false,"previewDialog":false,"publish":false,"toc":false},"wgArticleFeedbackv5Permissions":{"aft-reader":false,"aft-member":false,"aft-editor":false,"aft-monitor":false,"aft-administrator":false,"aft-oversighter":false,"aft-noone":false},"wgVisualEditor":{"isPageWatched":false,"magnifyClipIconURL":"//bits.wikimedia.org/static-1.22wmf18/skins/common/images/magnify-clip.png","pageLanguageCode":"en","pageLanguageDir":"ltr"},"wikilove-recipient":"","wikilove-anon":0,"wgGuidedTourHelpGuiderUrl":"Help:Guided tours/guider","wgULSAcceptLanguageList":["en-us"],"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia","aftv5Article":{"id":1073845,"title":"Gorgosaurus","namespace":0,"categories":["Articles with 'species' microformats","Commons category with local link same as on Wikidata","Cretaceous dinosaurs","Dinosaurs of North America","Featured articles","Fossil taxa described in 1914","Tyrannosaurs","Wikipedia indefinitely move-protected pages"],"permissionLevel":false},"wgWikibaseItemId":"Q40752"});
+}if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":false,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,
+"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"useeditwarning":1,"prefershttps":1,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"vector-simplesearch":1,"vector-collapsiblenav":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"aftv5-last-filter":null,"visualeditor-enable":0,"visualeditor-enable-experimental":0,"visualeditor-betatempdisable":0,"wikilove-enabled":1,"echo-subscriptions-web-page-review":true,"echo-subscriptions-email-page-review":false,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"echo-notify-show-link":true,"echo-show-alert":true,"echo-email-frequency":0,"echo-email-format":"html","echo-subscriptions-email-system":true,"echo-subscriptions-web-system":true,"echo-subscriptions-email-other":false,"echo-subscriptions-web-other":true,"echo-subscriptions-email-edit-user-talk":false,"echo-subscriptions-web-edit-user-talk":true,
+"echo-subscriptions-email-reverted":false,"echo-subscriptions-web-reverted":true,"echo-subscriptions-email-article-linked":false,"echo-subscriptions-web-article-linked":false,"echo-subscriptions-email-mention":false,"echo-subscriptions-web-mention":true,"echo-subscriptions-web-edit-thank":true,"echo-subscriptions-email-edit-thank":false,"gettingstarted-task-toolbar-show-intro":true,"uls-preferences":"","language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs446":false,"searchNs447":false
+,"searchNs710":false,"searchNs711":false,"searchNs828":false,"searchNs829":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-mySandbox":1,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:156d8fe0ae17f8afd74198057563e45d */
+}if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","ext.visualEditor.viewPageTarget.init","ext.wikimediaShopLink.core","ext.uls.init","ext.uls.interface","wikibase.client.init","ext.centralNotice.bannerController","skins.vector.js"]);
+}/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}if(window.mw){
+mw.loader.load(["mobile.desktop","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.cite","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","mw.MwEmbedSupport.style","ext.vector.collapsibleNav","ext.articleFeedbackv5.startup","ext.gettingstarted.logging","ext.gettingstarted.openTask","schema.HttpsSupport","ext.coreEvents.httpsSupport","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","mw.PopUpMediaTransform"],null,true);
+}

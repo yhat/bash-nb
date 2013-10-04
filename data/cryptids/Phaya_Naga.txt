@@ -1,0 +1,1121 @@
+
+
+
+Nāga - Wikipedia, the free encyclopedia
+
+
+
+
+
+
+
+
+
+
+
+
+a:lang(ar),a:lang(ckb),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:0de201fdea5d684523607ed88007b127 */
+
+
+
+
+[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.22wmf18/skins/vector/csshover.min.htc")}</style><![endif]
+
+		
+		
+		
+			
+			
+						 CentralNotice 
+						Nāga
+			
+								From Wikipedia, the free encyclopedia
+								  (Redirected from Phaya Naga)
+												
+					Jump to:					navigation, 					search
+				
+				For the modern ethnic group, see Naga people.  For other uses, see Naga (disambiguation).
+
+
+
+
+A Hoysala sculpture of a Naga couple. Halebidu.
+
+
+
+
+
+
+Vishnu resting on Ananta-Shesha, with consort Lakshmi.
+
+
+
+
+
+
+Naga stone worship at Hampi
+
+
+
+Nag temple at Baba Dhansar, Reasi district, Jammu & Kashmir
+
+
+
+Nāga (IAST: nāgá, IPA: [naːgá]) is the Sanskrit and Pāli word for a deity or class of entity or being, taking the form of a very great snake — specifically the king cobra, found in Hinduism, Buddhism and Jainism. A female nāga is a nāgī or nāgiṇī.
+
+
+Contents
+
+
+1 Etymology
+2 Mahabharata
+
+2.1 Enmity with Garuda
+2.2 Kadru
+2.3 Other mentions
+
+
+3 Hinduism
+4 Buddhism
+5 Other traditions
+
+5.1 Thailand
+5.2 Lake Chinni
+5.3 Cambodia
+5.4 Laos
+5.5 Mekong
+5.6 Java
+5.7 Philippines
+
+
+6 Notable nāgas
+7 Residences
+8 Popular culture
+9 See also
+10 References
+11 Further reading
+12 External links
+
+
+Etymology[edit]
+In Sanskrit, a nāgá (नाग) is a cobra, a specific type of snake (hooded snake). A synonym for nāgá is phaṇin (फणिन्). There are several words for "snake" in general, and one of the very commonly used ones is sarpá (सर्प). Sometimes the word nāgá is also used generically to mean "snake".[1][2] The word is cognate with English 'snake', Germanic: *snēk-a-, Proto-IE: *(s)nēg-o-.[3]
+Mahabharata[edit]
+In the great epic Mahabharata, the depiction of nagas tends toward the positive. An epic calls them "persecutors of all creatures", and tells us "the snakes were of virulent poison, great prowess and excess of strength, and ever bent on biting other creatures" (Book I: Adi Parva, Section 20). At some points within the story, nagas are important players in many of the events narrated in the epic, frequently no more evil nor deceitful than the other protagonists, and sometimes on the side of good.
+The epic frequently characterizes nagas as having a mixture of human and serpent-like traits. Sometimes it characterizes them as having human traits at one time, and as having serpent-like traits at another. For example, the story of how the naga prince Sesha came to hold the world on his head begins with a scene in which he appears as a dedicated human ascetic, "with knotted hair, clad in rags, and his flesh, skin, and sinews dried up owing to the hard penances he was practising." Brahma is pleased with Shesha, and entrusts him with the duty of carrying the world. At that point in the story, Shesha begins to exhibit the attributes of a serpent. He enters into a hole in the Earth and slithers all the way to bottom, where he then loads the Earth onto his head. (Book I: Adi Parva, Section 36.)
+Enmity with Garuda[edit]
+The great nemesis of the nagas in the Mahabharata is the gigantic eagle-king Garuda. Garuda and the nagas began life as cousins. The sage Kasyapa had two wives (amongst his 13 wives, all prajapati Daksha's daughters), Kadru and Vinata, the former of whom desired many offspring, and the latter of whom desired few but powerful offspring. Each got her wish. Kadru laid 1000 eggs which hatched into snakes, and Vinata laid two, which hatched into the charioteer of Surya the sun god and Garuda. Through a foolish bet, Vinata became enslaved to her sister, and as a result Vinata's son Garuda was required to do the bidding of the snakes. Though compliant, he chafed and built up a grudge that he would never relinquish. When he asked the snakes what he would have to do in order to release his mother, Vinata, from her bondage, they told him he would have to bring them amrita, the elixir of immortality. Garuda stole the elixir from the gods and brought it to the serpents in fulfillment of their requirement, but through a ruse prevented them from partaking of it and achieving immortality. From that point onward, he regarded them as enemies and as food. (Book I: Adi Parva, Sections 16ff.)
+Kadru[edit]
+Kadru, the ancestral mother of snakes, made a bet with her sister Vinata, the stakes being that the loser would be enslaved to the winner. Eager to secure victory, Kadru requested the cooperation of her offspring in order to fix the bet so that Kadru would win. When her offspring balked at the request, Kadru grew angry and cursed them to die a fiery death in the snake-sacrifice of King Janamejaya, the son of Parikshit, who was the son of Abhimanyu the son of Arjuna. The king of the snakes Vasuki was aware of the curse, and knew that his brethren would need a hero to rescue them from it. He approached the renowned ascetic Jaratkaru with a proposal of marriage to a snake-goddess, Manasa, Vasuki's own sister. Out of the union of the ascetic and the snake-maiden was born "a son of the splendor of a celestial child." This son was named Astika, and he was to be the savior of the snakes.
+In accordance with Kadru's curse, Janamejaya prepared a snake sacrifice of a type described in the scriptures, the Puranas. He erected a sacrificial platform and hired priests and other professionals needed for the rites. Following the proper form, the priests lit the sacrificial fire, duly fed it with clarified butter, uttered the required mantras, and began calling the names of snakes. The power of the rite was such that the named snakes were summoned to the fire and were consumed by it. As the sacrifice took on genocidal proportions, Astika came to the rescue. He approached Janamejaya and praised the sacrifice in such eloquent terms that the king offered to grant him a boon of his choosing. Astika promptly requested that the sacrifice be terminated. Though initially regretful of his offer, Janamejaya was true to his word, and the sacrifice came to an end. (Book I: Adi Parva, Sections 13-58.)
+Other mentions[edit]
+
+The serpent king Vasuki helped the gods to recover amrita, the elixir of immortality, from the Ocean of Milk by serving as the cord they wrapped around Mount Mandara in order to churn up the depths of the ocean. (Book I: Adi Parva, Section 18.)
+The naga princess Ulupi had a son Iravat by the Pandava hero Arjuna. (Book I: Adi Parva, Section 216.) Though he had the support of many nagas, Iravat was eventually slain by the Rakshasa Alamvusha at the battle of Kurukshetra. (Book VI: Bhishma Parva, Section 91.)
+Matali, the charioteer of the god Indra, sought a husband for his daughter Gunakesi. He approached the naga Aryaka and proposed the marriage of Gunakesi with the naga's handsome grandson Sumukha. Alas, Aryaka replied, Garuda had already declared his intent to devour the comely youth, having previously murdered his father. Matali, however, persuaded Indra and Vishnu to give Sumukha a draught of amrita, the elixir of immortality. Sumukha drank the potion, and thus was rendered impervious to any assault by the lord of the birds. The young couple were happily married. (Book V: Udyoga Parva, Section 103.)
+
+Hinduism[edit]
+See also: Tiamat and Abzu
+
+
+
+
+An open-air Lingam (symbol of god Shiva) from Lepakshi sheltered by a naga
+
+
+Stories involving the nāgas are still very much a part of contemporary cultural traditions in predominantly Hindu regions of Asia (India, Nepal, and the island of Bali). In India, nāgas are considered nature spirits and the protectors of springs, wells and rivers. They bring rain, and thus fertility, but are also thought to bring disasters such as floods and drought.
+Nagas are snakes that may take human form. They tend to be very curious. According to traditions nāgas are only malevolent to humans when they have been mistreated. They are susceptible to mankind's disrespectful actions in relation to the environment. They are also associated with waters—rivers, lakes, seas, and wells—and are generally regarded as guardians of treasure. According to Beer (1999),[page needed] Naga and cintamani are often depicted together and associated directly in the literature.
+They are objects of great reverence in some parts of southern India where it is believed that they bring fertility and prosperity to their venerators. Expensive and grand rituals like Nagamandala[4] are conducted in their honor (see Nagaradhane). In India, certain communities called Nagavanshi consider themselves descendants of Nagas.
+Varuna, the Vedic god of storms, is viewed as the King of the nāgas. Nāgas live in Pātāla, the seventh of the "nether" dimensions or realms.[5] They are children of Kashyapa and Kadru. Among the prominent nāgas of Hinduism are Manasa, Sesha, and Vasuki.
+The Nairs of Kerala and the ethnically related Tulu Bunts of Karnataka are clans which are believed to have originated from the serpent dynasty.
+The nāgas also carry the elixir of life and immortality[citation needed]. Garuda once brought it to them and put a cup with elixir on the ground but it was taken away by Indra. However, few drops remained on the grass. The nāgas licked up the drops, but in doing so, cut their tongues on the grass, and since then their tongues have been forked.[6]
+Vishnu is originally portrayed in the form sheltered by a Shesha naga or reclining on Shesha, but the iconography has been extended to other deities as well. The serpent is a common feature in Ganesha iconography and appears in many forms: around the neck,[7] use as a sacred thread (Sanskrit: yajñyopavīta)[8] wrapped around the stomach as a belt, held in a hand, coiled at the ankles, or as a throne.[9] Shiva is often shown garlanded with a snake.[10]
+
+
+
+
+Patanjali as Adi-Sesha
+
+
+Maehle (2007: p.?) affirms that according to tradition, Patañjali is held to be an incarnation of Ādi S'esha.
+Buddhism[edit]
+
+
+
+
+Mucalinda sheltering Gautama Buddha at Wat Phrathat Doi Suthep in Chiang Mai, Thailand
+
+
+Traditions about nāgas are also very common in all the Buddhist countries of Asia. In many countries, the nāga concept has been merged with local traditions of great and wise serpents or dragons. In Tibet, the nāga was equated with the klu, wits that dwell in lakes or underground streams and guard treasure. In China, the nāga was equated with the lóng or Chinese dragon.
+The Buddhist nāga generally has the form of a great cobra-like snake, usually with a single head but sometimes with many. At least some of the nāgas are capable of using magic powers to transform themselves into a human semblance. In Buddhist painting, the nāga is sometimes portrayed as a human being with a snake or dragon extending over his head.[11] One nāga, in human form, attempted to become a monk; when telling it that such ordination was impossible, the Buddha told it how to ensure that it would be reborn a man, able to become a monk.[12]
+In the 'Devadatta' chapter of the Lotus Sutra, an eight-year-old female Naga, after listening to Manjushri preach the Lotus Sutra, transforms her body into that of a male human and immediately reaches full enlightenment.[13] This tale appears to reinforce the viewpoint prevalent in Mahayana scriptures that a male human body is required for Buddhahood, even if a being is so advanced in her realization that she can magically transform her body at will and demonstrate the emptiness of the physical form itself.
+Nāgas are believed to both live on Mount Sumeru, among the other minor deities, and in various parts of the human-inhabited earth. Some of them are water-dwellers, living in streams or the mer; others are earth-dwellers, living in underground caverns.
+The nāgas are the servants of Virūpākṣa (Pāli: Virūpakkha), one of the Four Heavenly Kings who guards the western direction. They act as a guard upon Mount Sumeru, protecting the devas of Trāyastriṃśa from attack by the Asuras.
+Among the notable nāgas of Buddhist tradition is Mucalinda, protector of the Buddha. In the Vinaya Sutra (I, 3) the Buddha shortly after his enlightenment is meditating in a forest when a great storm arises, but graciously Naga King Mucalinda gives shelter to the Buddha from the storm by covering the Buddha's head with his 7 snake heads.[14] Then the king takes the form of a young Brahmin and renders the Buddha homage.[15]
+It is noteworthy that the 2 chief disciples of the Buddha, Sariputra and Maudgalyayana are referred to as Mahanaga.[16] Some of the most important figures in Buddhist history symbolize nagas in their names such as Dignaga, Nagasena, and, although other etymons are assigned to his name, Nagarjuna.
+In the Vajrayana and Mahasiddha traditions according to Beer (1999),[page needed] many notable fully enlightened nagas also transmitted and/or transported terma into and out of the human realm that had been elementally encoded by adepts.
+Norbu (1999: p.?) states that according to tradition the Prajnaparamita terma teachings are held to have been conferred upon Nagarjuna by Nagaraja, the King of the nagas, who had been guarding them at the bottom of a lake.
+Other traditions[edit]
+
+
+
+
+Naga at the steps of a building in the Wat Phra Kaew in Bangkok
+
+
+For Malay sailors, nāgas are a type of dragon with many heads; in Thailand and Java, the nāga is a wealthy underworld deity. In Laos they are beaked water serpents.
+Thailand[edit]
+In Thailand Nagas figure in some stories of the Thai folklore and are represented as well in Buddhist temples as architectural elements. Phaya Naga is a well-known Naga said to live in the Mekong river. Thai television soap opera Manisawat (มฌีสวาท) is based on a naga legend.[17]
+Lake Chinni[edit]
+In Malay and Orang Asli traditions, the lake Chinni, located in Pahang is home to a naga called Sri Gumum. Depending on legend versions, her predecessor Sri Pahang or her son left the lake and later fought a naga called Sri Kemboja. Kemboja is the former name of what is Cambodia. Like the naga legends there, there are stories about an ancient empire in lake Chinni, although the stories are not linked to the naga legends.[18][19]
+Cambodia[edit]
+
+
+
+
+Cambodian Naga at the Royal Palace in Phnom Penh
+
+
+In a Cambodian legend, the nāga were a reptilian race of beings who possessed a large empire or kingdom in the Pacific Ocean region. See Kaliya. The Nāga King's daughter married an Indian Brahmana named Kaundinya, and from their union sprang the Cambodian people. Therefore still Cambodians say that they are "Born from the Nāga".
+The Seven-Headed Nāga serpents depicted as statues on Cambodian temples, such as Angkor Wat, apparently represent the seven races within Nāga society, which has a mythological, or symbolic, association with "the seven colors of the rainbow". Furthermore, Cambodian Nāga possess numerological symbolism in the number of their heads. Odd-headed Nāga symbolise the Male Energy, Infinity, Timelessness, and Immortality. This is because, numerologically, all odd numbers come from One (1). Even-headed Nāga are said to be "Female, representing Physicality, Mortality, Temporality, and the Earth."
+
+
+
+
+Naga guarding Anouvong's Wat Sisaket in Vientiane
+
+
+Laos[edit]
+Naga are believed to live in the Laotian stretch of the Mekong river or estuaries. Lao mythology maintains that the Naga are the protectors of Vientiane, and by extension, the Lao state. The Naga association was most clearly articulated during and immediately after the reign of Anouvong. An important poem from this period San Lup Bo Sun (or San Leupphasun Lao: ສານລຶພສູນ) discusses relations between Laos and Siam in a veiled manner, using the Naga and the Garuda, to represent Laos and Siam, respectively.[20] The Naga is incorporated extensively into Lao iconography, and features prominently in Lao culture throughout the length of the country, not only in Vientiane.
+Mekong[edit]
+Main article: Naga fireballs
+
+
+
+
+
+This section may require cleanup to meet Wikipedia's quality standards. No cleanup reason has been specified. Please help improve this section if you can. (May 2008) 
+
+
+
+
+
+
+
+This article contains weasel words: vague phrasing that often accompanies biased or unverifiable information. Such statements should be clarified or removed. (November 2009) 
+
+
+
+
+
+
+Naga emerging from the mouth of a Makara in the style of a Chinese dragon
+
+
+
+
+
+
+Nagayon Paya ( means Dragon-roofed-Buddha ) at Monywa, Myanmar
+
+
+
+
+
+
+Nagayon Paya ( means Dragon-roofed-Buddha ) at Monywa, Myanmar
+
+
+The legend of the Nāga is a strong and sacred belief held by Thai and Lao people living along the Mekong River. Many pay their respects to the river because they believe the Nāga still rule in it,but and locals hold an annual sacrifice for the Nāga. Each ceremony depends on how each village earns its living from the Mekong River — for instance, through fishing or transport. Local residents believe that the Nāga can protect them from danger, so they are likely to make a sacrifice to Nāga before taking a boat trip along the Mekong River.[citation needed]
+Also, every year on the night of 15th day of 11th month in the Lao lunar calendar at the end of Vassa, an unusual phenomenon occurs in the area of the Mekong River stretching over 20 kilometres between Pak-Ngeum and Phonephisai districts in Nong Khai province, Thailand. Fireballs appear to rise from the river into the nighttime sky. Local villagers believe that Nāga under Mekong River shoot the fireballs into the air to celebrate the end of Vassa, because Nāga meditate during this time.[21]
+In 2000, Richard Freeman from the Centre for Fortean Zoology visited the area and talked with witnesses who claimed to have seen gigantic snakes far larger than any python. The general description was of a 60 foot serpent with black scales that had a greenish sheen. Freeman speculated that the nāga legend was based on a real animal, possibly a giant madtsoiid snake.[22]
+A popular photograph on display in bars, restaurants, guesthouses, and markets around Thailand captioned, Queen of Nagas seized by American Army at Mekhong River, Laos Military Base on June 27, 1973 with the length of 7.80 meters is a hoax. The photograph is actually that taken by USN LT DeeDee Van Wormer, of an oarfish found in late 1996 by US Navy SEAL trainees on the coast of Coronado, California.[23][24]
+Java[edit]
+
+
+
+
+Illustration of Antaboga
+
+
+
+Indonesian article id:Naga Jawa.
+
+In Javanese culture, a Naga is a crowned giant magical serpent, sometimes winged. It is similarly derived from the Shiva-Hinduism tradition, merged with Javanese animism. The concept of Naga is prevalent in the Hindu period of Indonesia, before the introduction of Islam. In a wayang theater story a snake (Nāga) god named Sanghyang Anantaboga or Antaboga is a guardian deity in the bowels of the earth.[25][26]
+Philippines[edit]
+In many parts of pre-Hispanic Philippines, the naga is used as an ornament in the hilt ends of longswords locally known as kampilans.
+Notable nāgas[edit]
+
+
+
+
+Lord Krishna dancing on the serpent Kaliya; while the serpent's wives pray to Krishna
+
+
+
+Aadhi-Sesha, ("Limitless-Eternal") the world serpent with a thousand heads.[27]
+Balarama, origin of Ananta-Sesha.[28]
+Karkotaka controls weather.
+Mucalinda protects the Buddha.
+Padmavati, the Nāgī queen & companion of Dharanendra.
+Paravataksha, his sword causes earthquakes and his roar caused thunder.
+Takshaka, king of the Nāgas.
+Ulupi, a companion of Arjuna in the epic Mahabharata.
+Vasuki, king of the Nagas who helped the devas recover amrita from the Ocean of Milk.
+Manasa, the Hindu goddess of Nagas and curer of snake-bite and sister of Vasuki
+Kaliya, a snake conquered by Krishna
+The dragon king of the western sea in the Chinese classical novel Journey to The West becomes a naga after completing his journey with Xuanzang
+Bakunawa, Naga is also present in the Kapampangan polytheistic beliefs, such as Lakandanum see Deities of Philippine mythology
+
+Residences[edit]
+
+Patala (or Nagaloka), the seventh of the "nether" dimensions or realms, Bhoga-vatī being its capital.[29]
+Lake Manosarowar, lake of the Great Nāgas.
+Mount Sumeru
+Naggar, village in the Himalayas, Tibet, that derives its name from Naga (Cobra).
+Nagpur, Indian city derived from Nāgapuram, literally "city of nāgas".
+Pacific Ocean (Cambodian myth)
+Sheshna's well in Benares, India, said to be an entrance to Patala.
+Nagadaa, where naag-yaGYa was performed.
+Mekong river
+Anantnag, Indian city (Kashmir) named after one of 12 prominent divine naga king mentioned in Bhavishyapuran.
+Takshila, an ancient place in Pakistan named after one of 12 prominent divine naga king in Bhavishyapuran.
+
+Popular culture[edit]
+
+The antagonists in Rudyard Kipling's story Riki Tiki Tavi are a pair of cobra by the name of Nag and Nagaina.
+Several Bollywood films have been made on the theme of Nagin (female nāga), including Nagin (1954), Nagin (1976), Nagina (1986), Nigahen (1989), Jaani Dushman: Ek Anokhi Kahani (2002), Hisss (2010), and the television series Naaginn (2007-2009). In the eighth installment of the Tomb Raider series, Tomb Raider: Underworld, features both Nagas and Nagin as primary enemies in the level Bhogovati.
+Slithice the Naga Siren is a playable character in Defense of the Ancients and Dota 2 who incorporates features of the Naga and various Western sea creatures.
+Naga are humanoid sea serpents in the Guild Wars computer game series, first appearing in Guild Wars as a non-playable race.
+Naga are humanoid sea serpents in the Warcraft computer game series, first appearing in Warcraft III as a non-playable race.
+Nagini is the name of Lord Voldemort's snake in the popular Harry Potter Series written by J. K. Rowling.[30]
+Naga are antagonists in the cartoon The Secret Saturdays. They served the ancient Sumerian cryptid Kur and attempted to push Zak Saturday into the dark side after learning that he was Kur reincarnated, but eventually served V.V. Argost when he gained his own Kur powers.
+Naga the Serpent is a character featured in the anime series The Slayers, though primarily the films. She is a sorceress and self proclaimed rival to series protagonist Lina Inverse. Her main role is that of a comedic foil to Lina.
+The luxury destination resort Miraval located in Tucson, AZ., has a Thai massage based service called Naga which incorporates aerial silks used by the practitioner. The silks are used as an aid for balance when applying pressure with the feet to the client. They may also be wrapped around limbs or the torso to deepen stretches and apply counter pressure to the client's body.
+
+See also[edit]
+
+
+Chinese dragon
+Deities of Philippine Mythology
+Lamia
+Lilith
+Manakete
+Naga people of Sri Lanka
+Nagaraja
+Nagarjuna
+Nagavanshi
+Nagin (disambiguation)
+Nagini (disambiguation)
+Nair
+Oarfish
+Orochi
+Rainbow serpent
+Reptilian humanoid
+Sea serpent
+Serpent (symbolism)
+Shape shifting
+Snake worship
+Western dragon
+Uktena
+Shahmaran
+
+
+References[edit]
+
+
+^ For the specific terminology for cobra see p. 432, Vaman Shivram Apte, The Student's English-Sanskrit Dictionary (Motilal Banarsidass: 2002 reprint edition) ISBN 81-208-0299-3.
+^ Vaman Shivram Apte. A Practical Sanskrit Dictionary. p. 539. The first definition of nāgaḥ given reads "A snake in general, particularly the cobra."
+^ Proto-IE: *(s)nēg-o-, Meaning: snake, Old Indian: nāgá- m. 'snake', Germanic: *snēk-a- m., *snak-an- m., *snak-ō f.; *snak-a- vb. http://starling.rinet.ru/cgi-bin/response.cgi?single=1&basename=/data/ie/piet&text_number=2649&root=config
+^ http://www.udupipages.com/home/temple/naga.html
+^ Patala
+^ Mahābhārata 1.30.20, Sanskrit: http://sacred-texts.com/hin/mbs/mbs01030.htm, English: http://sacred-texts.com/hin/m01/m01035.htm
+^ For the story of wrapping Vāsuki around the neck and Śeṣa around the belly and for the name in his sahasranama as Sarpagraiveyakāṅgādaḥ ("Who has a serpent around his neck"), which refers to this standard iconographic element, see: Krishan, Yuvraj (1999), Gaņeśa: Unravelling An Enigma, Delhi: Motilal Banarsidass Publishers, ISBN 81-208-1413-4 pp=51-52.
+^ For text of a stone inscription dated 1470 identifying Ganesha's sacred thread as the serpent Śeṣa, see: Martin-Dubost, p. 202.
+^ For an overview of snake images in Ganesha iconography, see: Martin-Dubost, Paul (1997). Gaņeśa: The Enchanter of the Three Worlds. Mumbai: Project for Indian Cultural Studies. ISBN 81-900184-3-4. , p. 202.
+^ Flood, Gavin (1996). An Introduction to Hinduism. Cambridge: Cambridge University Press. ISBN 0-521-43878-0.  ; p. 151
+^ 'Indian Nagas and Draconic Prototypes' in: Ingersoll, Ernest, et al., (2013). The Illustrated Book of Dragons and Dragon Lore. Chiang Mai: Cognoscenti Books. ASIN B00D959PJ0
+^ Brahmavamso, Ajahn. "VINAYA The Ordination Ceremony of a Monk". 
+^ Soka Gakkai Dictionary of Buddhism, 'Devadatta Chapter'
+^ P. 72 How Buddhism Began: The Conditioned Genesis of the Early Teachings By Richard Francis Gombrich
+^ P. 72 How Buddhism Began: The Conditioned Genesis of the Early Teachings By Richard Francis Gombrich
+^ P. 74 How Buddhism Began: The Conditioned Genesis of the Early Teachings By Richard Francis Gombrich
+^ สีสันบันเทิง 17-12-11#ฟิตติ้ง มณีสวาท
+^ http://www.nici.ru.nl/~peterh/srigumum/doc/stories.html
+^ http://www.journeymalaysia.com/ML_chini.htm
+^ Ngaosīvat, Mayurī; Pheuiphanh Ngaosyvathn (1998). "III.13 In the Machine Room of a Grand Design". Paths to conflagration : fifty years of diplomacy and warfare in Laos, Thailand, and Vietnam, 1778-1828. Studies on Southeast Asia, no. 24. Ithaca, N.Y.: Southeast Asia Program Publications, Cornell University. p. 68. ISBN [[Special:BookSources/00877277230|00877277230 [[Category:Articles with invalid ISBNs]]]] Check |isbn= value (help). OCLC 38909607. Retrieved November 16, 2011. Lay summary (Jan-March, 2001). "The first stanza of the San lup bo sun depicted the situation allegorically" 
+^ Bang Fai Phaya Nark (Naga fireballs)
+^ "In the coils of the Naga," ForteanTimes, January 2003
+^ Ranges, Trevor (2002 – 2006). "A Big Fish Tale". thailandroad.com. p. 2. "We were on our morning physical fitness run when we came across this huge fish lying on the sand." 
+^ "SEALs and a serpent of the sea" (PDF). ALL HANDS. Naval Media Center. April 1997. pp. 20–21. "The silvery serpent of the sea – an oarfish – was discovered last year by Basic Underwater Demolition/SEAL (BUD/S) Instructor Signalman 2nd Class (SEAL) Kevin Blake." 
+^ Susanne Rodemeier: Lego-lego Platz und naga-Darstellung. Jenseitige Kräfte im Zentrum einer Quellenstudie über die ostindonesische Insel Alor. (Magisterarbeit 1993) Universität Passau 2007
+^ Heinrich Zimmer: Indische Mythen und Symbole. Diederichs, Düsseldorf 1981, ISBN 3-424-00693-9
+^ Bhāgavata Purāṇa 3.26.25
+^ Bhāgavata Purāṇa 10.1.24
+^ Bhāgavata Purāṇa 1.11.11
+^ Rowling, J.K. (2001) Harry Potter. London: Bloomsburg Children's.
+
+
+
+Beer, Robert (1999). The Encyclopedia of Tibetan Symbols and Motifs (Hardcover). Shambhala. ISBN 1-57062-416-X, ISBN 978-1-57062-416-2
+Claudia Müller-Ebeling, Claudia and Christian Rätsch and Surendra Bahadur Shahi (2002). Shamanism and Tantra in the Himalayas. Transl. by Annabel Lee. Rochester, Vt.: Inner Traditions.
+Maehle, Gregor (2007). Ashtanga Yoga: Practice and Philosophy (Paperback). New World Library. ISBN 1-57731-606-1 & ISBN 978-1-57731-606-0
+Norbu, Chögyal Namkhai (1999). The Crystal and The Way of Light: Sutra, Tantra and Dzogchen. Snow Lion Publications. ISBN 1-55939-135-9
+
+Further reading[edit]
+
+Hāṇḍā, Omacanda (2004). Naga cults and traditions in the western Himalaya. Indus Publishing.
+Visser, Marinus Willem de; The dragon in China and Japan, Amsterdam, J. Müller 1913
+
+External links[edit]
+
+
+
+Wikimedia Commons has media related to Nāga.
+
+
+
+Nagas in the Pali Canon
+Nagas
+Image of a Seven-Headed Naga
+Nagas and Serpents
+Depictions of Nagas in the area of Angkor Wat in Cambodia
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Hindu deities and texts
+
+
+
+
+
+
+Gods
+
+
+
+Trimurti
+
+Brahma
+Vishnu
+Shiva
+
+
+Ganesha
+Rama
+Krishna
+Murugan
+Hanuman
+Indra
+Surya
+more
+
+
+
+
+
+
+
+
+
+
+
+
+
+Goddesses
+
+
+
+Tridevi
+
+Saraswati
+Lakshmi
+Parvati
+
+
+Adi Parashakti
+Sati
+Durga
+Shakti
+Kali
+Sita
+Radha
+Mahavidya
+Navadurga
+Matrikas
+more
+
+
+
+
+
+
+
+
+Texts
+
+
+
+Vedas
+
+Rig
+Sama
+Yajur
+Atharva
+
+
+Upanishads
+Puranas
+Ramayana
+Mahabharata
+Bhagavad Gita
+more
+
+
+
+
+
+
+
+
+
+
+
+Hinduism
+Hindu mythology
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Worship in Hinduism
+
+
+
+
+
+
+Main topics
+
+
+
+Aarti
+Bhajan
+Darśana
+Deities
+Festivals
+Homa (Yajna)
+Kirtan
+Mantra
+Murti
+Tilaka
+Utsava
+Vrata
+Yatra
+
+
+
+
+
+
+
+
+Rituals
+
+
+
+
+
+Puja
+
+
+
+
+Abhisheka
+Bhog
+Naivedhya
+Panchamakara
+Panchamrita
+Parikrama
+Pranāma
+Prasad
+Pushpanjali
+
+
+
+
+
+
+
+
+
+Homa
+
+
+
+
+Yajna
+Agnicayana
+Agnihotra
+Agnikaryam
+Aupasana
+Dhuni
+Kaamya karma
+Pravargya
+Purushamedha
+Putrakameshti
+Viraja Homa
+
+
+
+
+
+
+
+
+
+Other
+
+
+
+
+Achamana
+Archana
+Ashirvad
+Ashvamedha
+Darśana
+Karmkand
+Kumbhabhishekham
+Nitya karma
+Panchayatana puja
+Prana pratishta
+Sandhyavandanam
+Shuddhi
+Śrauta
+Upakarma
+
+
+
+
+
+
+
+
+
+
+
+Prayer and meditation
+
+
+
+Ajapa japa
+Bhajan
+Brahmamuhurtha
+Jagran
+Jai Sri Ram
+Japa
+Kirtan
+Om
+Sandhyavandanam
+Shaktipat
+Stotra
+Third eye
+Yoga
+
+
+
+
+
+
+
+
+Mantras
+
+
+
+Om
+Hare Krishna
+Om Namah Shivaya
+Gayatri Mantra
+Om Namo Narayanaya
+Om Namo Bhagavate Vasudevãya
+Om Shri Ganeshaya Namah
+Om Shri Mahalakshmiyei Namah
+
+
+
+
+
+
+
+
+Objects
+
+
+
+Altar
+Banalinga
+Banana leaf
+Biruda
+Coconut
+Dhunachi
+Dhuni
+Dhupa
+Diya (light)
+Fly-whisk
+Garland
+Ghanta
+Joss stick
+Kalasha
+Kamandalu
+Khirapat
+Kindi (vessel)
+Paduka
+Palki
+Panchamrita
+Pandal
+Pinda (riceball)
+Prayer beads
+Rangoli
+Shankha
+Tilaka
+Upanayana
+Uthsavar
+Yagnopaveetham
+
+
+
+
+
+
+
+
+Materials
+
+
+
+Agarwood
+Alta
+Camphor
+Charu
+Ghee
+Incence
+Kumkuma
+Marigold
+Milk
+Panchakavya
+Rudraksha
+Sandalwood
+Sindoor
+Soma
+Tulsi
+Turmeric
+Vibhuti
+
+
+
+
+
+
+
+
+Instruments
+
+
+
+Dholak
+Harmonium
+Karatalas
+Khol
+Manjira
+Mridangam
+Tabla
+
+
+
+
+
+
+
+
+Iconography
+
+
+
+Lingam
+Murti
+Om
+Pindi
+Shaligram
+Swastika
+Yoni
+More...
+
+
+
+
+
+
+
+
+Places
+
+
+
+Ashram
+Ghat
+Kalyani
+Matha
+Temple
+Pilgrimage sites
+
+
+
+
+
+
+
+
+People
+
+
+
+Guru
+Hanuman
+Pandit
+Pujari
+Rishi
+Sadhu
+Sannyasa
+Swami
+Yogi
+More...
+
+
+
+
+
+
+
+
+Sacred animals
+
+
+
+Nāga
+Nag Panchami
+Nagaradhane
+
+
+
+
+
+
+
+
+Sacred plants
+
+
+
+
+
+Sacred trees
+
+
+
+
+Akshayavat
+Ashoka
+Banyan
+Kadamba
+Kalpavriksha
+Parijaat
+Peepal
+Sacred groves
+
+
+
+
+
+
+
+
+
+Other
+
+
+
+
+Bael
+Kusha grass
+Lotus
+Tulsi
+
+Tulsi chaura
+Tulsi Vivah
+
+
+
+
+
+
+
+
+
+
+
+
+
+See also
+
+
+
+Saṃskāra
+
+
+
+
+
+
+
+
+
+
+ 
+NewPP limit report
+CPU time usage: 2.856 seconds
+Real time usage: 2.979 seconds
+Preprocessor visited node count: 6424/1000000
+Preprocessor generated node count: 22266/1500000
+Post‐expand include size: 96616/2048000 bytes
+Template argument size: 14665/2048000 bytes
+Highest expansion depth: 21/40
+Expensive parser function count: 4/500
+Lua time usage: 0.172s
+Lua memory usage: 1.85 MB
+
+
+ Saved in parser cache with key enwiki:pcache:idhash:1184487-0!*!0!!en!4!* and timestamp 20131002162212 
+								
+				Retrieved from "http://en.wikipedia.org/w/index.php?title=Nāga&oldid=575456664"				
+												Categories: NagasHindu snake worshipBuddhist deities, bodhisattvas, and demonsShapeshiftingTutelary deitiesLegendary serpentsSea and river godsReptile cryptidsDragonsHidden categories: Articles with invalid ISBNsPages with ISBN errorsArticles containing Sanskrit-language textWikipedia articles needing page number citations from September 2010All articles with unsourced statementsArticles with unsourced statements from March 2012Articles needing cleanup from May 2008All articles needing cleanupCleanup tagged articles without a reason field from May 2008Wikipedia pages needing cleanup from May 2008Articles with weasel words from November 2009Articles with unsourced statements from July 2009Commons category with local link same as on Wikidata												
+							
+		
+		
+			Navigation menu
+			
+				
+	Personal tools
+	
+Create accountLog in	
+
+				
+					
+	Namespaces
+	
+					Article
+					Talk
+			
+
+
+	
+		
+	Variants
+	
+		
+					
+	
+
+				
+				
+					
+	Views
+	
+					Read
+					Edit
+					View history
+			
+
+
+	Actions
+	
+		
+					
+	
+
+
+	Search
+	
+				
+																				
+		
+	
+
+				
+			
+			
+					
+				
+	Navigation
+	
+		
+			Main page
+			Contents
+			Featured content
+			Current events
+			Random article
+			Donate to Wikipedia
+		
+	
+
+
+	Interaction
+	
+		
+			Help
+			About Wikipedia
+			Community portal
+			Recent changes
+			Contact page
+		
+	
+
+
+	Toolbox
+	
+		
+			What links here
+			Related changes
+			Upload file
+			Special pages
+			Permanent link
+			Page information
+			Data item
+Cite this page		
+	
+
+
+	Print/export
+	
+		
+			Create a book
+			Download as PDF
+			Printable version
+		
+	
+
+
+	Languages
+	
+		
+			Български
+			Català
+			Česky
+			Dansk
+			Deutsch
+			Eesti
+			Ελληνικά
+			Español
+			Français
+			한국어
+			Hrvatski
+			Bahasa Indonesia
+			Italiano
+			עברית
+			Lietuvių
+			Bahasa Melayu
+			မြန်မာဘာသာ
+			Nederlands
+			日本語
+			Polski
+			Português
+			Română
+			Русский
+			Slovenščina
+			Srpskohrvatski / српскохрватски
+			Svenska
+			தமிழ்
+			తెలుగు
+			ไทย
+			Türkçe
+			Українська
+			中文
+			
+			Edit links
+		
+	
+
+			
+		
+		
+							
+											 This page was last modified on 2 October 2013 at 16:22.
+											Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. 
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+									
+							
+											Privacy policy
+											About Wikipedia
+											Disclaimers
+											Contact Wikipedia
+											Developers
+											Mobile view
+									
+										
+					
+						
+					
+					
+						
+					
+				
+						
+		
+		
+
+
+ Served by mw1172 in 0.188 secs. 
+	
+if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Nāga","wgTitle":"Nāga","wgCurRevisionId":575456664,"wgArticleId":1184487,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with invalid ISBNs","Pages with ISBN errors","Articles containing Sanskrit-language text","Wikipedia articles needing page number citations from September 2010","All articles with unsourced statements","Articles with unsourced statements from March 2012","Articles needing cleanup from May 2008","All articles needing cleanup","Cleanup tagged articles without a reason field from May 2008","Wikipedia pages needing cleanup from May 2008","Articles with weasel words from November 2009","Articles with unsourced statements from July 2009","Commons category with local link same as on Wikidata","Nagas","Hindu snake worship","Buddhist deities, bodhisattvas, and demons","Shapeshifting","Tutelary deities","Legendary serpents","Sea and river gods","Reptile cryptids","Dragons"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Nāga","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Phaya_Naga","wgVectorEnabledModules":{"collapsiblenav":true,"experiments":true},"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"templateEditor":false,"templates":false,"preview":false,"previewDialog":false,"publish":false,"toc":false},"wgArticleFeedbackv5Permissions":{"aft-reader":false,"aft-member":false,"aft-editor":false,"aft-monitor":false,"aft-administrator":false,"aft-oversighter":false,"aft-noone":false},"wgVisualEditor":{"isPageWatched":false,"magnifyClipIconURL":"//bits.wikimedia.org/static-1.22wmf18/skins/common/images/magnify-clip.png","pageLanguageCode":"en","pageLanguageDir":"ltr"},"wikilove-recipient":"","wikilove-anon":0,"wgGuidedTourHelpGuiderUrl":"Help:Guided tours/guider","wgULSAcceptLanguageList":["en-us","en"],"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia","aftv5Article":{"id":1184487,"title":"Nāga","namespace":0,"categories":["All articles needing cleanup","All articles with unsourced statements","Articles containing Sanskrit-language text","Articles needing cleanup from May 2008","Articles with invalid ISBNs","Articles with unsourced statements from July 2009","Articles with unsourced statements from March 2012","Articles with weasel words from November 2009","Buddhist deities, bodhisattvas, and demons","Cleanup tagged articles without a reason field from May 2008","Commons category with local link same as on Wikidata","Dragons","Hindu snake worship","Legendary serpents","Nagas","Pages with ISBN errors","Reptile cryptids","Sea and river gods","Shapeshifting","Tutelary deities","Wikipedia articles needing page number citations from September 2010","Wikipedia pages needing cleanup from May 2008"],"permissionLevel":false},"wgWikibaseItemId":"Q271990"});
+}if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":false,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,
+"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"useeditwarning":1,"prefershttps":1,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"vector-simplesearch":1,"vector-collapsiblenav":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"aftv5-last-filter":null,"visualeditor-enable":0,"visualeditor-enable-experimental":0,"visualeditor-betatempdisable":0,"wikilove-enabled":1,"echo-subscriptions-web-page-review":true,"echo-subscriptions-email-page-review":false,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"echo-notify-show-link":true,"echo-show-alert":true,"echo-email-frequency":0,"echo-email-format":"html","echo-subscriptions-email-system":true,"echo-subscriptions-web-system":true,"echo-subscriptions-email-other":false,"echo-subscriptions-web-other":true,"echo-subscriptions-email-edit-user-talk":false,"echo-subscriptions-web-edit-user-talk":true,
+"echo-subscriptions-email-reverted":false,"echo-subscriptions-web-reverted":true,"echo-subscriptions-email-article-linked":false,"echo-subscriptions-web-article-linked":false,"echo-subscriptions-email-mention":false,"echo-subscriptions-web-mention":true,"echo-subscriptions-web-edit-thank":true,"echo-subscriptions-email-edit-thank":false,"gettingstarted-task-toolbar-show-intro":true,"uls-preferences":"","language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs446":false,"searchNs447":false
+,"searchNs710":false,"searchNs711":false,"searchNs828":false,"searchNs829":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-mySandbox":1,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:156d8fe0ae17f8afd74198057563e45d */
+}if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","ext.visualEditor.viewPageTarget.init","ext.wikimediaShopLink.core","ext.uls.init","ext.uls.interface","wikibase.client.init","ext.centralNotice.bannerController","skins.vector.js"]);
+}/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}if(window.mw){
+mw.loader.load(["mobile.desktop","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.cite","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","mw.MwEmbedSupport.style","ext.vector.collapsibleNav","ext.articleFeedbackv5.startup","ext.gettingstarted.logging","ext.gettingstarted.openTask","schema.HttpsSupport","ext.coreEvents.httpsSupport","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","mw.PopUpMediaTransform"],null,true);
+}

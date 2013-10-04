@@ -1,0 +1,526 @@
+
+
+
+Ornitholestes - Wikipedia, the free encyclopedia
+
+
+
+
+
+
+
+
+
+
+
+
+a:lang(ar),a:lang(ckb),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:0de201fdea5d684523607ed88007b127 */
+
+
+
+
+[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.22wmf19/skins/vector/csshover.min.htc")}</style><![endif]
+
+		
+		
+		
+			
+			
+						 CentralNotice 
+						Ornitholestes
+			
+								From Wikipedia, the free encyclopedia
+								
+												
+					Jump to:					navigation, 					search
+				
+				
+
+
+Ornitholestes
+Temporal range: Late Jurassic, 154Ma
+
+PreЄ
+Є
+O
+S
+D
+C
+P
+T
+J
+K
+Pg
+N
+
+
+
+↓
+
+
+
+
+
+
+
+
+
+Skeleton mount, Royal Tyrrell Museum
+
+
+Scientific classification 
+
+
+Kingdom:
+Animalia
+
+
+Phylum:
+Chordata
+
+
+Clade:
+Sauropsida
+
+
+Clade:
+Dinosauria
+
+
+Clade:
+Theropoda
+
+
+Clade:
+Tyrannoraptora
+
+
+Subfamily:
+†Ornitholestinae
+Paul, 1988
+
+
+Genus:
+†Ornitholestes
+Osborn, 1903
+
+
+Type species
+
+
+†Coelurus hermanni
+Osborn, 1903
+
+
+Species
+
+
+
+†Ornitholestes hermanni (Osborn, 1903)
+
+
+
+Synonyms
+
+
+
+
+Coelurus hermanni (Osborn, 1903)
+
+
+
+
+
+Ornitholestes (meaning "bird robber") is a small theropod dinosaur of the late Jurassic (Brushy Basin Member of the Morrison Formation, middle Kimmeridgian age, about 154 million years ago[1]) of Western Laurasia (the area that was to become North America).
+To date, Ornitholestes is known only from a single partial skeleton with a badly crushed skull found at the Bone Cabin Quarry near Medicine Bow, Wyoming, in 1900. It was described by Henry Fairfield Osborn in 1903. An incomplete hand was later attributed to Ornitholestes, although it now appears to belong to Tanycolagreus. The type (and only known) species is O. hermanni. The specific name honors the American Museum of Natural History preparator Adam Hermann.
+
+
+Contents
+
+
+1 Description
+2 Discovery and naming
+3 Classification and systematics
+4 Paleobiology
+
+4.1 Forelimb function
+4.2 Diet
+4.3 Feathers
+
+
+5 Footnotes
+6 References
+
+
+Description[edit]
+
+
+
+
+Life restoration of Ornitholestes
+
+
+Ornitholestes was a bipedal carnivore.[2] Its head was proportionally smaller than that of most other predatory dinosaurs, but the skull was heavily built, with a short snout and robust lower jaw.[3] The orbits (eye sockets) were quite large, measuring over 25 percent of the skull's length.[4] There is no indication of a bony eye ring.[5]
+The front teeth of Ornitholestes were somewhat conical, with reduced serrations; the back teeth were recurved and more sharply serrated, similar to those of other theropod dinosaurs.[6] Henry Fairfield Osborn (1903) counted four teeth in the premaxilla, of which the front tooth was the largest in the upper jaw.[7] In contrast, Gregory S. Paul (1988) depicted the skull with only three premaxillary teeth remaining, much smaller than those illustrated by Osborn.[8] Each maxilla (main tooth-bearing bone in the upper jaw) contained ten teeth, and each dentary (tooth-bearing bone in the lower jaw) contained twelve teeth.[9] The tooth rows of Ornitholestes were short, with the dentary (lower) row being even shorter than the maxillary (upper) row,[10] even though the dentary bone itself was exceptionally long at the back, reaching a point below the middle of the eye socket.[11] Teeth did not extend as far back as the orbits, and neither tooth row spanned much more than one-third of the skull.[12]
+An area of broken bone near the external naris (nostril) appears to bulge upward, which led Gregory S. Paul to suggest in Predatory Dinosaurs of the World (1988) that Ornitholestes had a nasal horn "rather like a chicken's comb in looks."[13] Both Oliver W.M. Rauhut (2003) and Kenneth Carpenter et al. (2005a) rejected that interpretation, and indicated that the upward flare of bone was due to post-mortem crushing of the skull.[14] Paul's updated illustration of Ornitholestes in his 2010 Princeton Field Guide to Dinosaurs no longer contains the nasal horn.[15]
+
+
+
+
+Holotype specimen
+
+
+Ornitholestes had a relatively short neck with a slight sigmoidal (S-shaped) curve.[16] The tail was long and whiplike, comprising over half of the body's length.[17] Not all of the vertebrae were preserved, but Osborn (1917) estimated that Ornitholestes had nine or ten cervical (neck) vertebrae, thirteen dorsal (back) vertebrae, four sacral (hip) vertebrae, and 39 to 44 caudal (tail) vertebrae.[18] Carpenter et al. (2005a) recorded that the specimen contained five sacral vertebrae.[19] Ornitholestes was a short-bodied theropod, and this was reflected in the short front-to-back dimensions of the cervical and dorsal vertebrae.[20]
+The forelimbs of Ornitholestes were relatively long, slightly under two-thirds the length of the hind legs.[21] The humerus (upper arm bone) was heavily built, and somewhat longer than the radius and ulna (forearm bones).[22] Both the humerus and radius were straight-shafted.[23] The claws on digits I and II of the hand were about the same size.[24] Although the hand's third ungual (claw bone) was not preserved, extrapolation from the closest relatives of Ornitholestes indicates that it was probably shorter than the first two.[24]
+Ornitholestes is often portrayed as a fast, long-legged theropod, but its lower limb bones were fairly short.[25] Osborn (1917) calculated that the, missing, tibia (shin bone) was only about 70.6% as long as the femur (thigh bone).[26] The metatarsals (foot bones) were spaced closely, but not fused together.[27] As is typical of theropods, the feet were tridactyl (with three clawed weight-bearing toes).[28] John H. Ostrom (1969) noted that the claw of digit II (the innermost toe) was larger than those of digits III and IV, and suggested that this digit may have borne a modified sickle claw similar to that of Deinonychus.[29] However, as both Ostrom (1969) and Paul (1988) noted, the poor preservation of digit II makes this hypothesis difficult to confirm.[30]
+In his 1903 description, Osborn wrote that the length of Ornitholestes along "the skull and vertebral column as restored" was 2.22 m (7.28 ft).[31] However, this reconstruction was inaccurate, being based in part on Othniel Charles Marsh's restoration of the basal sauropodomorph Anchisaurus, and the neck and trunk were both too elongated.[32] David Norman (1985) and John Foster (2007) both estimated that Ornitholestes was about 2 m (6.6 ft) long.[33] Gregory S. Paul's 1988 Predatory Dinosaurs of the World listed the length of Ornitholestes as approximately 2.08 m (6.82 ft).[34]
+Paul (1988) and Foster (2007) both estimated that Ornitholestes weighed 12.6 kg (27.8 lb).[35] John A. Long and Peter Schouten (2008) suggested a slightly higher figure, 15 kg (33 lb).[36]
+Discovery and naming[edit]
+
+
+
+
+The early 20th century mount of the holotype skeleton at the AMNH, which stands much the same today
+
+
+Ornitholestes was the first theropod to be discovered in the 1900s.[37] The holotype skeleton (AMNH 619) was excavated in July 1900 in the Bone Cabin Quarry in Wyoming by an American Museum of Natural History expedition by Peter C. Kaisen, Paul Miller and Frederick Brewster Loomis.[31][38] It represents a partial skeleton with skull, including numerous elements of the vertebral column, the forelimbs, pelvis and hindlimbs. Henry Fairfield Osborn named and scientifically described the specimen in 1903.[39] The genus name Ornitholestes, initially suggested by Theodore Gill, means "bird robber" and is derived from the Greek ὄρνις/ornis, ornithos ("bird") and λῃστήσ/lestes ("robber").[40] The species name (O. hermanni) honors Adam Hermann, the head preparator at the Museum, who directed the restoration and mounting of the skeleton.[31]
+An incomplete hand (AMNH 587) was assigned to Ornitholestes by Osborn in his 1903 description of the genus.[41] However, as Gregory S. Paul (1988) noted, the poor preservation of the corresponding elements in the type specimen made this association "tentative."[42] In 2005, Kenneth Carpenter et al. described a new small theropod, Tanycolagreus, whose skeleton was found in Bone Cabin Quarry only a few hundred yards from AMNH 587.[43] Since AMNH 587 was virtually identical to the preserved hand of the Tanycolagreus type specimen, it is now considered to belong to that dinosaur and not to Ornitholestes.[44] Following this reassignment, Phil Senter (2006) noted that "our knowledge of Ornitholestes can be drawn now only from the holotype."[45] John Foster (2007) reported that some fragments from Dry Mesa Quarry may belong to Ornitholestes,[46] though these have not yet been described.
+In 1920 Charles Whitney Gilmore concluded that Ornitholestes was identical to Coelurus;[47] in 1934 Oliver Perry Hay recognised only a difference at the species level, naming a Coelurus hermanni,[48] but in 1980 John Ostrom revived the genus.[49]
+Classification and systematics[edit]
+The infraorder Coelurosauria, coined in 1914 by Friedrich von Huene, was traditionally a taxonomic wastebasket into which all small theropods were placed.[50] Ornitholestes, due to its small size, was therefore generally classified as a coelurosaur.[51] In 1986, Jacques Gauthier redefined this and several other paleontological terms in a more rigorous fashion, based on cladistic methods. Tetanurae was defined as modern birds and all theropods more closely related to modern birds than to ceratosaurs, while Coelurosauria now comprised all members of Tetanurae more closely related to modern birds than to carnosaurs.[52] In 1988, Gregory S. Paul suggested that Ornitholestes was very similar in skull structure to Proceratosaurus, a Middle Jurassic theropod from England.[5] He placed these two genera together in Ornitholestinae—a new subfamily under Allosauridae—and speculated that they were more closely related to the much larger Allosaurus than to other small theropods.[53] However, the classification of Ornitholestes and Proceratosaurus as allosaur relatives proved untenable (the latter has since proved to be a tyrannosauroid), and Paul eventually abandoned it.[54] All published cladistic analyses have shown Ornitholestes to be a coelurosaur as defined by Gauthier. Some analysis have shown support for the hypothesis that it is the most primitive member of the group Maniraptora, though more thorough analyses have suggested it is more primitive than the Maniraptoriformes, and possibly a close relative of the "compsognathid" Juravenator starkii.[55]
+Paleobiology[edit]
+In a 2001 study conducted by Bruce Rothschild and other paleontologists, twenty foot bones referred to Ornitholestes were examined for signs of stress fracture, but none were found.[56]
+Forelimb function[edit]
+A biomechanical study conducted by Phil Senter (2006) used articulated casts of the Ornitholestes type specimen's right forelimb to determine its range of motion.[57] Senter found that the antebrachium (forearm) could swing freely within a 95° range.[58] When flexed (bent inward) at the elbow joint to the maximum possible extent, the humerus (upper arm bone) and radius (a lower arm bone) formed a 53° angle.[58] The ability of Ornitholestes to bend the forearm to an angle significantly more acute than 90° is characteristic of Maniraptoriformes, but absent in more primitive theropods such as Coelophysis and Allosaurus.[59]
+Even when fully extended (straightened) at the elbow, the forearm did not form a straight angle, falling short of this by 22°.[58] Pronation (twisting to make the palmar side of the hand face downwards) of the forearm was impossible, because the radius and ulna lacked rolling surfaces, meaning the forearm was in a permanent state of supination.[24]
+When Ornitholestes bent its elbows, this would cause the forearms to move inward, towards its midline.[60] It may have used that ability to grasp prey with both hands simultaneously.[61]
+Diet[edit]
+
+
+
+
+This illustration by Charles R. Knight portrays Ornitholestes hunting Archaeopteryx.
+
+
+Henry Fairfield Osborn, in his 1903 description of Ornitholestes, noted its large and conical front teeth, the "rapid grasping power" of its hand, and the "balancing power" of its tail; these he interpreted as adaptations to prey on contemporary birds.[31] Osborn later repudiated this hypothesis, suggesting in 1917 that Ornitholestes presented the early stages of a transition from a carnivorous to a more herbivorous lifestyle, but not before Charles R. Knight had drawn an influential and widely-published illustration of Ornitholestes chasing Archaeopteryx.[62] Knight's illustration, and others derived from it, continued to appear in dinosaur books aimed at a popular audience throughout the 20th century.[51]
+David Norman (1985) conceded it was "just possible, though not very likely" that Ornitholestes might have caught and eaten primitive birds.[63] Most recent authors, however, have instead suggested a diet of small terrestrial vertebrates. Mammals, lizards, frogs, salamanders, rhynchocephalians, and hatchling dinosaurs would all have been potential prey items.[64] Gregory S. Paul (1988) thought that Ornitholestes might have used its conical front teeth to catch fish.[13] Norman (1985) suggested that the robust skull and jaws might have allowed Ornitholestes to tackle "larger and more active prey" than other small theropods.[65] In this vein, David Lambert (1993) speculated that Ornitholestes, if it was a pack hunter, might have been able to "take on ornithopods as big as a half-grown Camptosaurus."[66]
+In 2007, John Foster, a specialist on the Morrison Formation, suggested the possibility of niche partitioning between Ornitholestes and its contemporary Coelurus, which was within the same size range.[67] He theorized that big-eyed Ornitholestes might have been specialized for nocturnal hunting, while Coelurus may have focused on those prey species that were active during the day.[67] Foster noted, however, that this hypothesis was largely speculative; a lack of preserved skull material from Coelurus makes it impossible to verify whether its eyes were proportionally smaller than those of Ornitholestes.[68]
+Paul (1988) estimated that a 12 kg (26 lb) endothermic Ornitholestes would have a daily dietary requirement of about 700 g (1.54 lb) of flesh.[69]
+Feathers[edit]
+Ornithologist Percy Lowe hypothesized in 1944 that Ornitholestes might have borne feathers.[70] However, this interpretation was largely disregarded for over half a century; most reconstructions of theropod dinosaurs, including Ornitholestes, portrayed them with reptile-like scaly skin. One of the few exceptions to this was Gregory S. Paul's Predatory Dinosaurs of the World (1988).[71] Robert T. Bakker's The Dinosaur Heresies (1986) accurately predicted the presence of feathers on dromaeosaurids and contended that all dinosaurs were endothermic, yet did not incorporate feathers in its illustration of Ornitholestes.[72]
+In 1996, the primitive coelurosaur Sinosauropteryx was discovered in China. The well-preserved fossil showed that this dinosaur bore a coat of rudimentary furlike feathers. As a result of this and other similar discoveries, most paleontologists now consider it likely that all coelurosaurs had insulating feathers of some kind, or were descended from ancestors that did.[73] Based on its phylogenetic position, John Foster (2007) inferred that the feathers of Ornitholestes would probably have been more primitive than those of birds; they likely "would have covered the body except the legs in a short coat, perhaps with longer feathers lining the top of the skull or neck and the back edge of the forearms."[74] Assuming they were present, these feathers would have been used for insulation, and possibly also for brooding eggs.[74]
+Footnotes[edit]
+
+
+^ Turner, C.E. and Peterson, F., (1999). "Biostratigraphy of dinosaurs in the Upper Jurassic Morrison Formation of the Western Interior, U.S.A." Pp. 77–114 in Gillette, D.D. (ed.), Vertebrate Paleontology in Utah. Utah Geological Survey Miscellaneous Publication 99-1.
+^ Lambert (1993), p. 79
+^ Paul (1988a), p. 306; Norman (1985), p. 42; Norman (1990), p. 293
+^ Osborn (1903), p. 460; Chure (1998), p. 238
+^ a b Paul (1988b), p. 6
+^ Paul (1988b), p. 3; Norman (1990), p. 293
+^ Osborn (1903), p. 460; Osborn (1917), p. 734
+^ Paul (1988b), p. 4; Norman (1990), p. 293
+^ Osborn (1903), p. 460
+^ Paul (1988b), p. 3; Norman (1990), p. 292
+^ Cristiano dal Sasso & Simone Maganuco, 2011, Scipionyx samniticus (Theropoda: Compsognathidae) from the Lower Cretaceous of Italy — Osteology, ontogenetic assessment, phylogeny, soft tissue anatomy, taphonomy and palaeobiology, Memorie della Società Italiana de Scienze Naturali e del Museo Civico di Storia Naturale di Milano XXXVII(I): 1-281
+^ Osborn (1903), p. 460; Norman (1990), p. 293
+^ a b Paul (1988a), p. 303
+^ Rauhut (2003), p. 27; Carpenter et al. (2005a), p. 53
+^ Paul (2010), p. 123
+^ Carpenter et al. (2005a), pp. 49, 54
+^ Osborn (1917), p. 734; Lambert (1993), p. 78
+^ Osborn (1917), p. 735–736
+^ Carpenter et al. (2005a), p. 58
+^ Carpenter et al. (2005a), p. 49, 69
+^ Ostrom (1969), p. 146; Paul (2002), p. 236
+^ Osborn (1917), p. 738; Carpenter et al. (2005b), p. 45
+^ Carpenter et al. (2005a), p. 60, 62
+^ a b c Senter (2006), p. 1030
+^ Paul (1988a), p. 306
+^ Osborn (1917), p. 737
+^ Carpenter et al. (2005a), p. 67
+^ Osborn (1903), p. 463
+^ Ostrom (1969), p. 161
+^ Ostrom (1969), p. 161; Paul (1988b), p. 6
+^ a b c d Osborn (1903), p. 459
+^ Osborn (1917), p. 735; Paul (1988b), p. 3
+^ Norman (1985), p. 39; Foster (2007), p. 178
+^ Paul (1988a), p. 305
+^ Paul (1988a), p. 305; Foster (2007), p. 178
+^ Long and Schouten (2008), p. 73
+^ Fastovsky and Weishampel (2005), p. 291
+^ Paul D. Brinkman, 2010, The Second Jurassic Dinosaur Rush: Museums & Paleontology in America at the Turn of the Twentieth Century. University of Chicago Press, 345 pp., ISBN 978-0-226-07472-6
+^ Osborn (1903), p. 459–464
+^ Osborn (1903), p. 459; Osborn (1917), p. 733
+^ Osborn (1903), p. 459; Osborn (1917), p. 736
+^ Paul (1988b), p. 3
+^ Carpenter et al. (2005b), p. 23, 39
+^ Carpenter et al. (2005b), p. 39
+^ Senter (2006), p. 1029
+^ Foster (2007), p. 78, 179
+^ Gilmore, C.W., 1920, "Osteology of the carnivorous Dinosauria in the United States National Museum, with special reference to the genera Antrodemus (Allosaurus) and Ceratosaurus", Bulletin U.S. National Museum CX: 1-154
+^ Hay, O.P., 1930, Second Bibliography and Catalogue of the Fossil Vertebrata of North America. Carnegie Institution of Washington. 390(II): 1-1074
+^ Ostrom (1980)
+^ Paul (1988a), p. 188–189; Norman (1990), p. 280
+^ a b Glut (1997), p. 645
+^ Holtz et al. (2004), p. 71
+^ Paul (1988a), p. 302; Paul (1988b), p. 3, 6
+^ Paul (2010), p. 124
+^ Godefroit, Pascal; Cau, Andrea; Hu, Dong-Yu; Escuillié, François; Wu, Wenhao; Dyke, Gareth (2013). "A Jurassic avialan dinosaur from China resolves the early phylogenetic history of birds". Nature. in press. doi:10.1038/nature12168.  edit
+^ Rothschild, B., Tanke, D. H., and Ford, T. L., 2001, Theropod stress fractures and tendon avulsions as a clue to activity: In: Mesozoic Vertebrate Life, edited by Tanke, D. H., and Carpenter, K., Indiana University Press, p. 331-336.
+^ Senter (2006), p. 1029–1030
+^ a b c Senter (2006), p. 1030–1031
+^ Senter (2006), p. 1032
+^ Senter (2006), p. 1030–1032
+^ Senter (2006), p. 1031
+^ Osborn (1917), p. 733–734; Glut (1997), p. 645
+^ Norman (1985), p. 39
+^ Norman (1985), p. 39; Paul (1988), p. 306; Foster (2007), p. 179; Long and Schouten (2008), p. 73
+^ Norman (1985), p. 42
+^ Lambert (1993), p. 78
+^ a b Foster (2007), p. 180
+^ Foster (2007), p. 180–181
+^ Paul (1988a), p. 404
+^ Witmer (1992), p. 444
+^ Paul (1988a), p. 122–123, 211
+^ Bakker (1986), p. 99, 310
+^ Chatterjee and Templin (2004), p. 277; Fastovsky and Weishampel (2005), p. 329–330; Currie (2005), p. 368
+^ a b Foster (2007), p. 179
+
+
+References[edit]
+
+
+
+
+Dinosaurs portal
+
+
+
+
+Osborn, Henry Fairfield (1903). "Ornitholestes hermanni, a new compsognathoid dinosaur from the Upper Jurassic". Bulletin of the American Museum of Natural History 19 (12): 459–464. hdl:2246/1502. 
+Osborn, Henry Fairfield (1917). "Skeletal adaptations of Ornitholestes, Struthiomimus, Tyrannosaurus". Bulletin of the American Museum of Natural History 35 (43): 733–771. hdl:2246/1334. 
+Ostrom, John H. (1969). "Osteology of Deinonychus antirrhopus, an unusual theropod from the Lower Cretaceous of Montana". Peabody Museum of Natural History Bulletin 30: 1–165. 
+Ostrom, John H. (1980). "Coelurus and Ornitholestes: Are they the same?". In Jacobs, Louis L. Aspects of Vertebrate History: Essays in Honor of Edwin Harris Colbert. Museum of Northern Arizona Press. pp. 245–256. ISBN 978-0-89734-052-6. 
+Norman, David B. (1985). "Coelurosaurs". The Illustrated Encyclopedia of Dinosaurs. Salamander Books Ltd. pp. 38–43. ISBN 978-0-517-46890-6. 
+Paul, Gregory S. (1988a). "Ornitholestians and Allosaurs". Predatory Dinosaurs of the World. Simon & Schuster. pp. 302–318. ISBN 978-0-671-61946-6. 
+Paul, Gregory S. (1988b). "The small predatory dinosaurs of the mid-Mesozoic: The horned theropods of the Morrison and Great Oolite—Ornitholestes and Proceratosaurus—and the sickle-claw theropods of the Cloverly, Djadokhta and Judith River—Deinonychus, Velociraptor and Saurornitholestes". Hunteria 2 (4): 1–9. 
+Norman, David B. (1990). "Problematic Theropoda: Coelurosaurs". In Weishampel, David B.; Dodson, Peter; Osmólska, Halszka. The Dinosauria. University of California Press. pp. 280–305. ISBN 978-0-520-06726-4. 
+Lambert, David (1993). "Ornitholestes". The Ultimate Dinosaur Book. Dorling Kindersley. pp. 78–79. ISBN 978-1-56458-304-8. 
+Glut, Donald F. (1997). "Ornitholestes". Dinosaurs: The Encyclopedia. McFarland & Company. pp. 643–646. ISBN 978-0-89950-917-4. 
+Chure, Daniel (1998). "On the Orbit of Theropod Dinosaurs". Gaia (18): 233–240. 
+Paul, Gregory S. (2002). "Were Some Dinosaurs Also Neoflightless Birds?". Dinosaurs of the Air: The Evolution and Loss of Flight in Dinosaurs and Birds. Johns Hopkins University Press. pp. 224–257. ISBN 978-0-8018-6763-7. 
+Rauhut, Oliver W.M. (2003). "Operational Taxonomic Units". The Interrelationships and Evolution of Basal Theropod Dinosaurs. Palaeontological Association. pp. 12–43. ISBN 978-0-901702-79-1. 
+Holtz, Thomas R.; Molnar, Ralph E.; Currie, Philip J. (2004). "Basal Tetanurae". In Weishampel, David B.; Dodson, Peter; Osmólska, Halszka. The Dinosauria: Second Edition. University of California Press. pp. 71–110. ISBN 978-0-520-24209-8. 
+Fastovsky, David E.; Weishampel, David B. (2005). "Theropoda I: Nature red in tooth and claw". The Evolution and Extinction of the Dinosaurs. Cambridge University Press. pp. 265–299. ISBN 978-0-521-81172-9. 
+Carpenter, Kenneth; Miles, Clifford; Ostrom, John H.; Cloward, Karen (2005a). "Redescription of the Small Maniraptoran Theropods Ornitholestes and Coelurus". In Carpenter, Kenneth. The Carnivorous Dinosaurs. Life of the Past. Indiana University Press. pp. 49–71. ISBN 978-0-253-34539-4. 
+Carpenter, Kenneth; Miles, Clifford; Cloward, Karen (2005b). "New Small Theropod from the Upper Jurassic Morrison Formation of Wyoming". In Carpenter, Kenneth. The Carnivorous Dinosaurs. Life of the Past. Indiana University Press. pp. 23–48. ISBN 978-0-253-34539-4. 
+Senter, Phil (2006). "Forelimb function in Ornitholestes hermanni Osborn (Dinosauria, Theropoda)". Palaeontology 49 (5): 1029–1034. doi:10.1111/j.1475-4983.2006.00585.x. 
+Foster, John (2007). "Gargantuan to Minuscule: The Morrison Menagerie, Part II". Jurassic West: The Dinosaurs of the Morrison Formation and Their World. Indiana University Press. pp. 162–242. ISBN 978-0-253-34870-8. 
+Long, John A.; Schouten, Peter (2008). "Ornitholestes and kin". Feathered Dinosaurs: The Origin of Birds. Oxford University Press. pp. 72–77. ISBN 978-0-19-537266-3. 
+Paul, Gregory S. (2010). "Ornitholestes hermanni". The Princeton Field Guide to Dinosaurs. Princeton University Press. pp. 123–124. ISBN 978-0-691-13720-9. 
+
+
+
+ 
+NewPP limit report
+CPU time usage: 6.076 seconds
+Real time usage: 6.317 seconds
+Preprocessor visited node count: 28242/1000000
+Preprocessor generated node count: 46445/1500000
+Post‐expand include size: 113258/2048000 bytes
+Template argument size: 44748/2048000 bytes
+Highest expansion depth: 39/40
+Expensive parser function count: 2/500
+Lua time usage: 0.145s
+Lua memory usage: 2.73 MB
+
+
+ Saved in parser cache with key enwiki:pcache:idhash:2468607-0!*!0!!en!4!* and timestamp 20131001104914 
+								
+				Retrieved from "http://en.wikipedia.org/w/index.php?title=Ornitholestes&oldid=567859005"				
+												Categories: CoelurosaursDinosaurs of North AmericaJurassic dinosaursMorrison faunaFossil taxa described in 1903Hidden categories: Articles with 'species' microformats												
+							
+		
+		
+			Navigation menu
+			
+				
+	Personal tools
+	
+Create accountLog in	
+
+				
+					
+	Namespaces
+	
+					Article
+					Talk
+			
+
+
+	
+		
+	Variants
+	
+		
+					
+	
+
+				
+				
+					
+	Views
+	
+					Read
+					Edit
+					View history
+			
+
+
+	Actions
+	
+		
+					
+	
+
+
+	Search
+	
+				
+																				
+		
+	
+
+				
+			
+			
+					
+				
+	Navigation
+	
+		
+			Main page
+			Contents
+			Featured content
+			Current events
+			Random article
+			Donate to Wikipedia
+		
+	
+
+
+	Interaction
+	
+		
+			Help
+			About Wikipedia
+			Community portal
+			Recent changes
+			Contact page
+		
+	
+
+
+	Toolbox
+	
+		
+			What links here
+			Related changes
+			Upload file
+			Special pages
+			Permanent link
+			Page information
+			Data item
+Cite this page		
+	
+
+
+	Print/export
+	
+		
+			Create a book
+			Download as PDF
+			Printable version
+		
+	
+
+
+	Languages
+	
+		
+			Català
+			Česky
+			Deutsch
+			Ελληνικά
+			Español
+			Français
+			Hrvatski
+			Italiano
+			Magyar
+			Nederlands
+			日本語
+			Occitan
+			Polski
+			Português
+			Русский
+			Simple English
+			Slovenčina
+			Srpskohrvatski / српскохрватски
+			Suomi
+			Svenska
+			Українська
+			中文
+			
+			Edit links
+		
+	
+
+			
+		
+		
+							
+											 This page was last modified on 9 August 2013 at 19:44.
+											Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. 
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+									
+							
+											Privacy policy
+											About Wikipedia
+											Disclaimers
+											Contact Wikipedia
+											Developers
+											Mobile view
+									
+										
+					
+						
+					
+					
+						
+					
+				
+						
+		
+		
+
+
+ Served by mw1095 in 0.172 secs. 
+	
+if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Ornitholestes","wgTitle":"Ornitholestes","wgCurRevisionId":567859005,"wgRevisionId":567859005,"wgArticleId":2468607,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with 'species' microformats","Coelurosaurs","Dinosaurs of North America","Jurassic dinosaurs","Morrison fauna","Fossil taxa described in 1903"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Ornitholestes","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgVectorEnabledModules":{"collapsiblenav":true,"experiments":true},"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"templateEditor":false,"templates":false,"preview":false,"previewDialog":false,"publish":false,"toc":false},"wgArticleFeedbackv5Permissions":{"aft-reader":false,"aft-member":false,"aft-editor":false,"aft-monitor":false,"aft-administrator":false,"aft-oversighter":false,"aft-noone":false},"wgVisualEditor":{"isPageWatched":false,"magnifyClipIconURL":"//bits.wikimedia.org/static-1.22wmf19/skins/common/images/magnify-clip.png","pageLanguageCode":"en","pageLanguageDir":"ltr"},"wikilove-recipient":"","wikilove-anon":0,"wgGuidedTourHelpGuiderUrl":"Help:Guided tours/guider","wgULSAcceptLanguageList":[],"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia","aftv5Article":{"id":2468607,"title":"Ornitholestes","namespace":0,"categories":["Articles with 'species' microformats","Coelurosaurs","Dinosaurs of North America","Fossil taxa described in 1903","Jurassic dinosaurs","Morrison fauna"],"permissionLevel":false},"wgWikibaseItemId":"Q14449"});
+}if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":false,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,
+"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"useeditwarning":1,"prefershttps":1,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"vector-simplesearch":1,"vector-collapsiblenav":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"aftv5-last-filter":null,"visualeditor-enable":0,"visualeditor-enable-experimental":0,"visualeditor-betatempdisable":0,"wikilove-enabled":1,"echo-subscriptions-web-page-review":true,"echo-subscriptions-email-page-review":false,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"echo-notify-show-link":true,"echo-show-alert":true,"echo-email-frequency":0,"echo-email-format":"html","echo-subscriptions-email-system":true,"echo-subscriptions-web-system":true,"echo-subscriptions-email-other":false,"echo-subscriptions-web-other":true,"echo-subscriptions-email-edit-user-talk":false,"echo-subscriptions-web-edit-user-talk":true,
+"echo-subscriptions-email-reverted":false,"echo-subscriptions-web-reverted":true,"echo-subscriptions-email-article-linked":false,"echo-subscriptions-web-article-linked":false,"echo-subscriptions-email-mention":false,"echo-subscriptions-web-mention":true,"echo-subscriptions-web-edit-thank":true,"echo-subscriptions-email-edit-thank":false,"gettingstarted-task-toolbar-show-intro":true,"uls-preferences":"","language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs446":false,"searchNs447":false
+,"searchNs710":false,"searchNs711":false,"searchNs828":false,"searchNs829":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-mySandbox":1,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:156d8fe0ae17f8afd74198057563e45d */
+}if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","ext.visualEditor.viewPageTarget.init","ext.wikimediaShopLink.core","ext.uls.init","ext.uls.interface","wikibase.client.init","ext.centralNotice.bannerController","skins.vector.js"]);
+}/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}if(window.mw){
+mw.loader.load(["mobile.desktop","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.cite","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","mw.MwEmbedSupport.style","ext.vector.collapsibleNav","ext.articleFeedbackv5.startup","ext.gettingstarted.logging","ext.gettingstarted.openTask","schema.HttpsSupport","ext.coreEvents.httpsSupport","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","mw.PopUpMediaTransform"],null,true);
+}

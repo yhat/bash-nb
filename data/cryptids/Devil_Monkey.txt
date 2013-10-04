@@ -1,0 +1,774 @@
+
+
+
+Cryptid - Wikipedia, the free encyclopedia
+
+
+
+
+
+
+
+
+
+
+
+
+a:lang(ar),a:lang(ckb),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:0de201fdea5d684523607ed88007b127 */
+
+
+
+
+[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.22wmf18/skins/vector/csshover.min.htc")}</style><![endif]
+
+		
+		
+		
+			
+			
+						 CentralNotice 
+						Cryptid
+			
+								From Wikipedia, the free encyclopedia
+								  (Redirected from Devil Monkey)
+												
+					Jump to:					navigation, 					search
+				
+				Not to be confused with crypsis.
+
+
+
+
+Yowie
+
+
+
+
+
+
+The Effingham Carcass, Vancouver Island, 1947. Supposed remains of 'Caddy'
+
+
+In cryptozoology and sometimes in cryptobotany, a cryptid (from the Greek "κρύπτω" (krypto) meaning "hide") is a creature or plant whose existence has been suggested but is not recognized by scientific consensus.[1] Well known examples include the Yeti in the Himalayas, the Loch Ness Monster in Scotland, Sasquatch in North America, and Chupacabra in Latin America.
+
+
+Contents
+
+
+1 Overview
+2 Eberhart's classification
+3 See also
+4 Footnotes
+5 References
+6 Further reading
+
+
+Overview[edit]
+The term was coined by John E. Wall in a 1983 letter to the International Society of Cryptozoology newsletter.[2] However, "cryptid" originally was used to describe a member of the zoological subfamily Cryptinae of the ichneumon wasp family. Almost all Cryptinae have been described as idiobiont ectoparasitoids, meaning parasites that prevent further development of the host after parasitization and that develop outside the host's body, frequently attached to or imbedded in the host's tissues. The prefix "crypt-" is Greek and means "hidden" or "secret".
+"Cryptid" has also been applied by cryptozoologists to animals whose existence is accepted by the scientific community, but which are considered of interest to cryptozoology, such as the coelacanth, once believed to be extinct, and the okapi, at one time thought to be entirely fictitious.[3] Legendary creatures such as the unicorn and the dragon are sometimes described as cryptids, but many cryptozoologists avoid describing them as such.[4] Yet a case may be made that the dragon and griffin are real cryptids. Jeannine Davis-Kimball, Ph.D., writes in Warrior Women (2002) that what appear to be fanciful concoctions rest on a logical foundation: folklorist Adrienne Mayor traces the historical development of the legends of the two creatures, and concludes that both originated in ancient discoveries of hundreds of real Protoceratops and Psittacosaurus fossils in the Flaming Hills of Turkestan and the Tien Shan foothills.
+Skeptics[1] contend that evidence for the existence of cryptids is typically limited to anecdotal evidence or other forms of evidence insufficient to withstand normal scientific scrutiny by the general zoological community. Proponents[5] agree that much cryptozoological evidence is weak. Scientists who are skeptical of cryptids in general agree that some specific cases might represent animals unrecognized by science.[3]
+Some evidence cited in support of cryptids has been exposed as deliberate hoaxes (e.g., The Surgeon's Photograph of the Loch Ness Monster).
+Cryptids are frequently the subject of television programs such as Monster Quest, Destination Truth, The Secret Saturdays, The X-Files, Lost Tapes, Roswell Conspiracies, Sanctuary and Supernatural.
+Eberhart's classification[edit]
+George M. Eberhart of the American Library Association,[6] who has written for the Journal of Scientific Exploration on the difficulties of cataloging media materials about fringe science, classifies ten types of mystery animals under the cryptozoological umbrella:
+
+Distribution anomalies [known animals reported outside their normal range, e.g. the anomalous big cats of the U.K.];
+Undescribed, unusual, or outsized variations of known species [e.g. the giant anacondas reported from Amazonia or the spotted lions of East Africa];
+Survivals of recently extinct species [e.g. Ivory-billed Woodpecker presumed extinct ca. 1960, or the Steller's Sea Cow presumed extinct ca. 1770, both of which are occasionally claimed to have survived to the present];
+Survivals of species known only from the fossil record into modern times [e.g. the mokele-mbembe of central Africa, sometimes described as a living dinosaur];
+Lingerlings, or survivals of species known from the fossil record much later into historical times than currently thought [e.g. the woolly mammoth, presumed extinct ca. 12,000 BCE but occasionally purported surviving into later eras];
+Animals not known from the fossil record but related to known species [e.g. the Andean wolf or the striped manta-ray reported by William Beebe in the 1930s];
+Animals not known from the fossil record nor related to any known species [e.g. North America's Bigfoot or most sea serpents];
+Mythical animals with a zoological basis [e.g. the Griffin, partly inspired by dinosaur fossils of Central Asia];
+Seemingly paranormal or supernatural entities with some animal-like characteristics [e.g. Mothman, Black Dogs or some fairies from folklore];
+Known hoaxes or probable misidentifications [e.g. the Jackalope, an antlered rabbit created as a hoax or prank, but possibly inspired by rabbits infected with Shope papilloma virus, which causes antler-like tumors].
+
+Additionally, Eberhart argues for six exclusions from classification as a cryptid:
+
+Insignificance. "Cryptids must be big, weird, dangerous or significant to humans in some way."
+Lack of controversy. "Someone needs to observe a mystery animal and someone else needs to discredit the sighting. Cryptozoologists function as interventionists between witnesses and skeptical scientists."
+Erratics. "The out-of-place alligator […] that turns up in an odd spot, undoubtedly through human agency, is not a zoological mystery […] [I]f someone discovers a new species of alligator that lives only in sewers, that is a different matter."
+Bizarre humans [e.g. zombies]
+Angels or demons […] "the paranormal or supernatural is admitted only if it has an animal shape (a werewolf sighting, which might involve a real dog or wolf, or a mystery canid)."
+Aliens "[unless such extraterrestrials] arrived a long time ago and thus classify as residents."
+
+See also[edit]
+
+Animalia Paradoxa
+Crypsis
+Cryptobotany
+Cryptozoology
+Kraken
+List of cryptids
+List of legendary creatures
+
+Footnotes[edit]
+
+
+^ a b Carroll, Robert T. (09-02-23). "Cryptozoology". The Skeptic's Dictionary. Retrieved 2009-04-12. 
+^ "John E. Wall of Manitoba coined it [the word "cryptid"] in a letter published in the summer 1983 issue of the ISC Newsletter (vol. 2, no. 2, p. 10), published by the International Society of Cryptozoology." Coleman, L. in Cryptomundo.com
+^ a b Sharps, Matthew J., Justin Matthews & Janet Asten. 2006. Cognition and Belief in Paranormal Phenomena: Gestalt/Feature-Intensive Processing Theory and Tendencies Toward ADHD, Depression, and Dissociation. The Journal of Psychology: Interdisciplinary and Applied. 140 (6), pp. 579–590 doi:10.3200/JRLP.140.6.579-590
+^ Cryptozoology A to Z: The Encyclopedia of Loch Monsters, Sasquatch, Chupacabras, and Other Authentic Mysteries of Nature by Loren Coleman and Jerome Clark (NY: Simon and Schuster, 1999, ISBN 0-684-85602-6).
+^ Coleman, Loren (1999). Cryptozoology A to Z: The Encyclopedia of Loch Monsters, Sasquatch, Chupacabras, and Other Authentic Mysteries of Nature. New York, New York: Simon and Schuster. ISBN 0-684-85602-6. 
+^ Eberhart, George M. "Mysterious Creatures: Creating A Cryptozoological Encyclopedia." 2005. Journal of Scientific Exploration. Vol. 19, No. 1, pp. 103–113].
+
+
+References[edit]
+
+
+
+Look up cryptid in Wiktionary, the free dictionary.
+
+
+
+
+
+Wikimedia Commons has media related to: Cryptozoology
+
+
+
+Cohen, Daniel (1970). A Modern Look At Monsters. Cornwall, New York: The Cornwall Press, Inc. ISBN 0-396-06200-8. 
+Cohen, Daniel (1989). Encyclopedia of Monsters: Bigfoot, Chinese Wildman, Nessie, Sea Ape, Werewolf and many more... London: Michael O'Mara Books Ltd. ISBN 0-948397-94-2. 
+Mackal, Roy P. (1980). Searching For Hidden Animals: An Inquiry into Zoological Mysteries. USA: Self published. ISBN 0-385-14897-6. 
+
+Further reading[edit]
+
+Eberhart, George M. (2002). Mysterious Creatures: A Guide to Cryptozoology. Volume 2. Santa Barbara, CA: ABC-CLIO. ISBN 1-57607-283-5. 
+North American BioFortean Review, Index to issues.
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Cryptozoology and cryptobotany
+
+
+
+
+
+
+
+
+
+
+ 
+Overview
+
+
+
+
+
+
+
+
+
+
+
+Core topics
+
+
+
+
+Cryptid
+List of cryptids
+Zoology
+Botany
+Megafauna discovered in modern times
+Pseudoscience
+
+
+
+
+
+
+
+
+
+Cryptozoologists
+
+
+
+
+Bernard Heuvelmans
+Karl Shuker
+Jonathan Downes
+Jon-Erik Beckjord
+John Bindernagel
+Richard Freeman
+Loren Coleman
+Alexandr Mikhailovych Kondratov
+Roy Mackal
+Ivan T. Sanderson
+Organizations
+
+
+
+
+
+
+
+
+
+Books and television
+
+
+
+
+Animal X
+Arthur C. Clarke's Mysterious World
+Beast Hunter
+Beast Legends
+Destination Truth
+Fact or Faked: Paranormal Files
+Fortean TV
+In Search of...
+Is It Real?
+Lost Tapes
+MonsterQuest
+On the Track of Unknown Animals
+Sasquatch: Legend Meets Science
+The X Creatures
+The Secret Saturdays
+Weird Travels
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Zoological cryptids
+
+
+
+
+
+
+
+
+
+
+
+Africa
+
+
+
+
+Adjule
+Agogwe
+Emela-ntouka
+Ennedi tiger
+Gambo
+Grootslang
+Gustave
+Inkanyamba
+Kongamato
+Mbielu-Mbielu-Mbielu
+Mokele-mbembe
+Malawi terror beast
+Mamlambo
+Muhuru
+Nandi Bear
+Ngoubou
+Olitiau
+Nguma-monene
+Popobawa
+Salawa
+Trunko
+Zanzibar Leopard
+
+
+
+
+
+
+
+
+
+Asia
+
+
+
+
+Ahool
+Akkorokamui
+Almas
+Amomongo
+Ayia Napa sea monster
+Barmanou
+Batutut
+Bergman's Bear
+Brosno dragon
+Bukit Timah Monkey Man
+Buru
+Cat-fox
+Devil Bird
+Hibagon
+Issie
+Kappa
+Kting Voar
+Kussie
+Lake Tianchi Monster
+Lake Van Monster
+Maltese Tiger
+Mongolian Death Worm
+Monkey-man of Delhi
+Orang Pendek
+Phaya Naga
+Qilin
+Ropen
+Sigbin
+Sarimanok
+Sumxu
+Tsuchinoko
+Veo
+Yeren
+Yeti
+
+
+
+
+
+
+
+
+
+Australasia-
+Oceania
+
+
+
+
+Amomongo
+Blue Mountains panther
+Bunyip
+Ebu Gogo
+Four Mile Globster
+Gippsland phantom cat
+Globster
+Manaul
+Megalania
+Moehau
+Zuiyo-maru carcass
+New Zealand Globster
+Queensland Tiger
+Siyokoy
+Tasmanian Globster
+Thylacoleo
+Tikbalang
+Waitoreke
+Yowie
+
+
+
+
+
+
+
+
+
+Europe
+
+
+
+
+Afanc
+Ayia Napa sea monster
+Beast of Gévaudan
+Bishop-fish
+British big cats
+Canvey Island Monster
+Dahu
+Dobhar-chú
+Each uisge
+Eachy
+Elwetritsch
+Fear liath
+Fish-man of Liérganes
+Giglioli's Whale
+Hebrides Blob
+Jenny Haniver
+Kellas Cat
+Kraken
+Lagarfljót Worm
+Lariosauro
+Lindworm
+Loch Ness Monster
+Morag
+Morgawr
+Muc-sheilch
+Owlman
+Sea monk
+Sea serpent
+Selma
+Skvader
+Storsjöodjuret
+Stronsay Beast
+Tatzelwurm
+Wolpertinger
+
+
+
+
+
+
+
+
+
+North
+America
+
+
+
+
+Altamaha-ha
+Bear Lake Monster
+Beast of Bladenboro
+Beast of Bray Road
+Beast of Busco
+Bermuda Blob
+Bermuda Blob 2
+Bessie
+Bigfoot
+Cadborosaurus willsi
+Champ
+Chessie
+Chupacabra
+Crawfordsville monster
+Dover Demon
+Flatwoods monster
+Fouke Monster
+Goatman
+Grassman
+Hodag
+Homo gardarensis
+Honey Island Swamp monster
+Hoop snake
+Huay Chivo
+Igopogo
+Iliamna Lake Monster
+Jersey Devil
+Kingstie
+Lake Worth Monster
+Lizard Man of Scape Ore Swamp
+Loveland frog
+Lusca
+MacFarlane's bear
+Manipogo
+Melon heads
+Michigan Dogman
+Minnesota Iceman
+Momo the Monster
+Montauk Monster
+Mothman
+Mussie
+Nantucket Blob
+Newfoundland Blob
+Nuk-luk
+Ogopogo
+Old Yellow Top
+Ozark Howler
+Panama Creature
+Pope Lick Monster
+Shunka Warakin
+Sidehill gouger
+Skunk Ape
+St. Augustine Monster
+Tahoe Tessie
+Thunderbird
+Trinity Alps giant salamander
+Tsul 'Kalu
+Turtle Lake Monster
+Waheela
+Wampus cat
+
+
+
+
+
+
+
+
+
+South
+America
+
+
+
+
+Ameranthropoides loysi
+Andean Wolf
+Bloop
+Cherufe
+Chilean Blob
+Chupacabra
+Giant anaconda
+Mapinguari
+Minhocão
+Mono Grande
+Mylodon
+Nahuelito
+Peuchen
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Botanical cryptids
+
+
+
+
+
+
+
+
+
+Raskovnik
+Man-eating tree
+Umdhlebi
+Vegetable Lamb of Tartary
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+NewPP limit report
+CPU time usage: 0.696 seconds
+Real time usage: 0.811 seconds
+Preprocessor visited node count: 1907/1000000
+Preprocessor generated node count: 13224/1500000
+Post‐expand include size: 112692/2048000 bytes
+Template argument size: 14725/2048000 bytes
+Highest expansion depth: 13/40
+Expensive parser function count: 2/500
+Lua time usage: 0.045s
+Lua memory usage: 1.56 MB
+
+
+ Saved in parser cache with key enwiki:pcache:idhash:12292189-0!*!0!!en!4!* and timestamp 20130903084115 
+								
+				Retrieved from "http://en.wikipedia.org/w/index.php?title=Cryptid&oldid=569923490"				
+												Categories: Cryptids												
+							
+		
+		
+			Navigation menu
+			
+				
+	Personal tools
+	
+Create accountLog in	
+
+				
+					
+	Namespaces
+	
+					Article
+					Talk
+			
+
+
+	
+		
+	Variants
+	
+		
+					
+	
+
+				
+				
+					
+	Views
+	
+					Read
+					Edit
+					View history
+			
+
+
+	Actions
+	
+		
+					
+	
+
+
+	Search
+	
+				
+																				
+		
+	
+
+				
+			
+			
+					
+				
+	Navigation
+	
+		
+			Main page
+			Contents
+			Featured content
+			Current events
+			Random article
+			Donate to Wikipedia
+		
+	
+
+
+	Interaction
+	
+		
+			Help
+			About Wikipedia
+			Community portal
+			Recent changes
+			Contact page
+		
+	
+
+
+	Toolbox
+	
+		
+			What links here
+			Related changes
+			Upload file
+			Special pages
+			Permanent link
+			Page information
+			Data item
+Cite this page		
+	
+
+
+	Print/export
+	
+		
+			Create a book
+			Download as PDF
+			Printable version
+		
+	
+
+
+	Languages
+	
+		
+			العربية
+			Български
+			Dansk
+			Deutsch
+			Français
+			한국어
+			Hrvatski
+			Bahasa Indonesia
+			Italiano
+			Basa Jawa
+			Lietuvių
+			日本語
+			Polski
+			Português
+			Tagalog
+			اردو
+			
+			Edit links
+		
+	
+
+			
+		
+		
+							
+											 This page was last modified on 23 August 2013 at 23:06.
+											Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. 
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+									
+							
+											Privacy policy
+											About Wikipedia
+											Disclaimers
+											Contact Wikipedia
+											Developers
+											Mobile view
+									
+										
+					
+						
+					
+					
+						
+					
+				
+						
+		
+		
+
+
+ Served by mw1176 in 0.171 secs. 
+	
+if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Cryptid","wgTitle":"Cryptid","wgCurRevisionId":569923490,"wgArticleId":12292189,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Cryptids"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Cryptid","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Devil_Monkey","wgVectorEnabledModules":{"collapsiblenav":true,"experiments":true},"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"templateEditor":false,"templates":false,"preview":false,"previewDialog":false,"publish":false,"toc":false},"wgArticleFeedbackv5Permissions":{"aft-reader":true,"aft-member":false,"aft-editor":false,"aft-monitor":false,"aft-administrator":false,"aft-oversighter":false,"aft-noone":false},"wgVisualEditor":{"isPageWatched":false,"magnifyClipIconURL":"//bits.wikimedia.org/static-1.22wmf18/skins/common/images/magnify-clip.png","pageLanguageCode":"en","pageLanguageDir":"ltr"},"wikilove-recipient":"","wikilove-anon":0,"wgGuidedTourHelpGuiderUrl":"Help:Guided tours/guider","wgULSAcceptLanguageList":["en-us"],"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia","aftv5Article":{"id":12292189,"title":"Cryptid","namespace":0,"categories":["Cryptids"],"permissionLevel":false},"wgWikibaseItemId":"q772636"});
+}if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":false,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,
+"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"useeditwarning":1,"prefershttps":1,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"vector-simplesearch":1,"vector-collapsiblenav":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"aftv5-last-filter":null,"visualeditor-enable":0,"visualeditor-enable-experimental":0,"visualeditor-betatempdisable":0,"wikilove-enabled":1,"echo-subscriptions-web-page-review":true,"echo-subscriptions-email-page-review":false,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"echo-notify-show-link":true,"echo-show-alert":true,"echo-email-frequency":0,"echo-email-format":"html","echo-subscriptions-email-system":true,"echo-subscriptions-web-system":true,"echo-subscriptions-email-other":false,"echo-subscriptions-web-other":true,"echo-subscriptions-email-edit-user-talk":false,"echo-subscriptions-web-edit-user-talk":true,
+"echo-subscriptions-email-reverted":false,"echo-subscriptions-web-reverted":true,"echo-subscriptions-email-article-linked":false,"echo-subscriptions-web-article-linked":false,"echo-subscriptions-email-mention":false,"echo-subscriptions-web-mention":true,"echo-subscriptions-web-edit-thank":true,"echo-subscriptions-email-edit-thank":false,"gettingstarted-task-toolbar-show-intro":true,"uls-preferences":"","language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs446":false,"searchNs447":false
+,"searchNs710":false,"searchNs711":false,"searchNs828":false,"searchNs829":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-mySandbox":1,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:156d8fe0ae17f8afd74198057563e45d */
+}if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","ext.visualEditor.viewPageTarget.init","ext.wikimediaShopLink.core","ext.uls.init","ext.uls.interface","wikibase.client.init","ext.centralNotice.bannerController","skins.vector.js"]);
+}/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}if(window.mw){
+mw.loader.load(["mobile.desktop","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.cite","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","mw.MwEmbedSupport.style","ext.vector.collapsibleNav","ext.articleFeedbackv5.startup","ext.gettingstarted.logging","ext.gettingstarted.openTask","schema.HttpsSupport","ext.coreEvents.httpsSupport","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","mw.PopUpMediaTransform"],null,true);
+}

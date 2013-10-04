@@ -1,0 +1,414 @@
+
+
+
+Stegoceras - Wikipedia, the free encyclopedia
+
+
+
+
+
+
+
+
+
+
+
+
+a:lang(ar),a:lang(ckb),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:0de201fdea5d684523607ed88007b127 */
+
+
+
+
+[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.22wmf19/skins/vector/csshover.min.htc")}</style><![endif]
+
+		
+		
+		
+			
+			
+						 CentralNotice 
+						Stegoceras
+			
+								From Wikipedia, the free encyclopedia
+								
+												
+					Jump to:					navigation, 					search
+				
+				For the stegosaur of a similar name, see Stegosaurus.
+
+
+
+Stegoceras
+Temporal range: Late Cretaceous, 77.5–74Ma
+
+PreЄ
+Є
+O
+S
+D
+C
+P
+T
+J
+K
+Pg
+N
+
+
+
+↓
+
+
+
+
+
+
+
+
+
+Skull of Stegoceras, AMNH
+
+
+Scientific classification 
+
+
+Kingdom:
+Animalia
+
+
+Phylum:
+Chordata
+
+
+Clade:
+Sauropsida
+
+
+Clade:
+Dinosauria
+
+
+Order:
+†Ornithischia
+
+
+Family:
+†Pachycephalosauridae
+
+
+Genus:
+†Stegoceras
+Lambe, 1902
+
+
+Type species
+
+
+†Stegoceras validum
+Lambe, 1902
+
+
+Species
+
+
+
+†S. validum Lambe, 1902
+†S. novomexicanum Jasinski & Sullivan, 2011
+
+
+
+Synonyms
+
+
+
+Ornatotholus Galton & Sues, 1983
+
+
+
+
+Stegoceras ('horned roof' - Greek stego-/στεγο- meaning 'roof' and ceras/κέρας meaning 'horn') is a genus of plant-eating pachycephalosaurid dinosaurs that lived in what is now North America during the Late Cretaceous period.
+
+
+Contents
+
+
+1 Description
+2 Discovery and classification
+3 Paleobiology
+
+3.1 Dimorphism
+3.2 Agonistic behavior
+
+
+4 References
+5 External links
+
+
+Description[edit]
+Stegoceras had an estimated length of up to 2 metres (6.6 ft)[1] and weighed 10 kilograms (22 lb) – 40 kilograms (88 lb).[2] It had a relatively large brain that was encased in a dome of 3 inches (7.6 cm) of thick bone divided into two parts.[3] The dome had a fairly smooth surface, but was irregularly pitted by foramina which gives an entrance to channels within the bone. Stegoceras (at least S. validum) can be distinguished by having a prominent parietosquamosal shelf with open supratemporal fosse, incipient doming of the frontopariental and minute node in clusters on postorbital and squamosals.[4] Stegoceras had rounded eye sockets that faced forward, which suggests it had good vision and was thus capable of binocular vision. The teeth are small and curved with serrated edges. The head was supported by an "S"- or "U"-shaped neck.[5] When a partial skeleton of Stegoceras was first discovered, it was thought to have gastralia, or belly ribs, not typically found in other ornithischian dinosaurs. They were subsequently found to be ossified tendons.[6] The legs were more than three times the length of the arms.
+Discovery and classification[edit]
+
+
+
+
+Photo of Stegoceras at University of Alberta. Image from Gilmore's publication.
+
+
+Stegoceras was first named by Lawrence Lambe in 1902 and the type species is Stegoceras validum. All specimens of S. validum (about 40) were recovered from the Belly River Group of Alberta, Canada, with the majority of specimens from the Dinosaur Park Formation (late Campanian, 76.5–75 ma) in the Dinosaur Provincial Park, while the rest of the specimens were recovered from the Oldman Formation (middle Campanian, 77.5-76.5 ma).[7] It has served as a model for other pachycephalosaurs, due to the completeness of the excavated remains. From the 1920s to 1945, it was believed to be related to, or even synonymous with, Troodon, due to the similar form of the teeth. This proposal was, however, dispelled after better remains were found.[8] Many species of pachycephalosaurs were described initially as Stegoceras species. S. lambei, S. sternbergi and S. breve, for example, were assigned to new genera, Colepiocephale, Hanssuesia and the nomen nudum Foraminacephale (or Prenocephale/Sphaerotholus in previous studies).[4][7][9]
+Recently, a new species of Stegoceras from San Juan Basin, New Mexico have been named. Its specimens were referred to S. validum by Sullivan and Lucas, 2006. Stegoceras novomexicanum was first named by Steven E. Jasinski and Robert M. Sullivan in 2011 on the basis of two partial pachycephalosaurid skulls, from the upper Fruitland and lower Kirtland Formations. It is known from the holotype NMMNH P-33898, nearly complete frontoparietal which was collected from the Fossil Forest Member of the upper Fruitland Formation (late Campanian, about 75 ma) and from the paratypes SMP VP-2555, partial left frontal and anterior-most portions of left and right frontals (also from the Fossil Forest Member) and SMP VP-2790, incomplete parietal from the Hunter Wash Member of the lower Kirtland Formation (late Campanian, about 74 ma).[10] A new phylogenetic analysis performed by Mahito Watabe, Khishigjaw Tsogtbaatar and Robert M. Sullivan in 2011 fails to recover the monophyly of the genus Stegoceras.[11]
+Paleobiology[edit]
+
+
+
+
+Mounted Stegoceras validum skeleton casts, Royal Tyrell Museum
+
+
+Stegoceras validum likely had a broad geographic distribution, due to its occurrence in Alberta and New Mexico.[12]
+Dimorphism[edit]
+One specimen, AMNH 5450, an incipiently domed frontoparietal, was the first known North American flat-headed pachycephalosaurid specimen. It was the only known North American pachycephalosaur specimen with a flat skull roof until the discovery of Dracorex in South Dakota. Brown and Schlaikjer, 1943 and Galton, 1971 suggested that there was sexual variation in the degree of doming and hypothesized AMNH 5450 represented a female morph of S. validum. Wall and Galton, 1979 transferred AMNH 5450 to a new species, S. browni and later, Galton and Sues, 1983 erected a new genus for S. browni, Ornatotholus.[13] AMNH 5450 was collected from the Dinosaur Park Formation of southern Alberta.[14] Goodwin et al., 1998 argued that O. browni might represent a juvenile ontogenetic stage of Stegoceras and Williamson and Carr, 2002 suggested that Ornatotholus shares many similarities with Stegoceras and may represent a juvenile form, making it a nomen dubium. In June 2011, an article was published in the journal PLoS ONE by Ryan Schott and others reanalyzing the cranial dome ontogeny of several specimens assigned to Stegoceras. Their results indicated that Ornatotholus is a juvenile Stegoceras. To date, the flat-headed Ornatotholus browni (holotype AMNH 5450) is widely considered a juvenile Stegoceras validum (by Sullivan 2003, Sullivan and Lucas 2006, Longrich et al. 2010, Jasinski and Sullivan 2011 and Schott et al. 2011).[7][9][10]
+Agonistic behavior[edit]
+
+
+
+
+Relative surface densities of cranial bone in Stegoceras validum (UA 2)
+
+
+It was initially proposed that male Stegoceras (and individuals of other pachycephalosaurid species) would ram each other headlong, not unlike contemporary bighorn sheep or musk oxen. This theory has been challenged. Paleontologists such as Carpenter (1997) have contended that the rounded dome of Stegoceras would have given a very small area for potential impact.[5] Thus head-butting animals will have made glancing blow, unless the impact was perfectly centered. Another problem noted is that Stegoceras and other dome-headed pachycephalosaurs would not have been able to align their head, neck, and body in a perfect horizontal line (which would be needed to transmit stress) -- it was more likely that they carried their neck in an "S"- or "U"-shaped curve (Stegoceras seemed to carry their spine in a less extreme curve, due to their thick neck muscles). Carpenter suggests flank-butting as an alternative and contends that the thickness of the dome would have used for increasing the power behind a blow to the sides.[5] It is possible that Stegoceras and similar pachycephalosaurs would have delivered the blows with a movement of the neck from the side and a rotation of the head. The dorsolateral area of the dome has the greatest surface area and may have been the point of impact.[5] This would insure that the force of the impact would not cause serious injury to the opponent. The bone rim above the orbit may have protected the aggressor's eye when making a blow.[5] Also, the relatively large width of Stegoceras may have served to protect vital organs from harm during flank-butting. Snively and Theodor (2011) conducted CT scans of the skulls of Stegoceras validum, Prenocephale prenes and several head-striking artiodactyls. They found that the skull of Stegoceras was well-equipped for head-butting.[15] It appears that Stegoceras had extra layer of dense bone in the middle of its dome, which may have provided extra protection for the brain.
+References[edit]
+
+
+^ Palmer, D., ed. (1999). The Marshall Illustrated Encyclopedia of Dinosaurs and Prehistoric Animals. London: Marshall Editions. p. 136. ISBN 1-84028-152-9. 
+^ Peczkis, J. 1995. Implications of Body-Mass Estimates for Dinosaurs. JVP. Vol. 14(4):520-533
+^ Dinosaurs from A-Z DinoDictionary.com
+^ a b Robert M. Sullivan (2003). "Revision of the dinosaur Stegoceras Lambe (Ornithischia, Pachycephalosauridae)". Journal Of Vertebrate Paleontology 23 (1): 181–207. 
+^ a b c d e Carpenter, Kenneth (1 December 1997). "Agonistic behavior in pachycephalosaurs (Ornithischia: Dinosauria): a new look at head-butting behavior" (pdf). Contributions to Geology 32 (1): 19–25. 
+^ Claessens, Leon P.A.M. (March 2004). "Dinosaur gastralia: origin, morphology, and function". Journal of Vertebrate Paleontology 24 (1): 89–106. doi:10.1671/A1116-8. 
+^ a b c Ryan K. Schott, David C. Evans, Mark B. Goodwin, John R. Horner, Caleb Marshall Brown, Nicholas R. Longrich (2011). "Cranial Ontogeny in Stegoceras validum (Dinosauria: Pachycephalosauria): A Quantitative Model of Pachycephalosaur Dome Growth and Variation". PLoS ONE 6 (6): e21092. Bibcode:2011PLoSO...6E1092S. doi:10.1371/journal.pone.0021092. 
+^ Glut, Donald F. (1997). "Troodon". Dinosaurs: The Encyclopedia. Jefferson, North Carolina: McFarland & Co. pp. 933–938. ISBN 0-89950-917-7. 
+^ a b Longrich, N.R., Sankey, J., and Tanke, D. (2010). "Texacephale langstoni, a new genus of pachycephalosaurid (Dinosauria: Ornithischia) from the upper Campanian Aguja Formation, southern Texas, USA". Cretaceous Research 31 (2): 274–284. doi:10.1016/j.cretres.2009.12.002. 
+^ a b Steven E. Jasinski and Robert M. Sullivan (2011). "Re-evaluation of pachycephalosaurids from the Fruitland-Kirtland transition (Kirtlandian, late Campanian), San Juan Basin, New Mexico, with a description of a new species of Stegoceras and a reassessment of Texascephale langstoni". Fossil Record 3. New Mexico Museum of Natural History and Science, Bulletin 53: 202–215. 
+^ Mahito Watabe, Khishigjaw Tsogtbaatar and Robert M. Sullivan (2011). "A new pachycephalosaurid from the Baynshire Formation (Cenomanian-late Santonian), Gobi Desert, Mongolia". Fossil Record 3. New Mexico Museum of Natural History and Science, Bulletin 53: 489–497. 
+^ Sullivan, R.M. and S.G. Lucas. (2006) "The pachycephalosaurid dinosaur Stegoceras validum from the Upper Cretaceous Fruitland Formation, San Juan Basin, New Mexico". New Mexico Museum of Natural History and Science Bulletin 35:329-330.
+^ Galton, P. M. and H.-D. Sues (1983). "New data on pachycephalosaurid dinosaurs (Reptilia: Ornithischia) from North America". Canadian Journal of Earth Science 20: 462–472. 
+^ Sues, H.-D. and Galton, P. M. (1987). "Anatomy and classification of the North American Pachycephalosauria (Dinosauria: Ornithischia)". Palaeontographica Abteilung A 198: 1–40. 
+^ Snively E, Theodor JM (2011) "Common Functional Correlates of Head-Strike Behavior in the Pachycephalosaur Stegoceras validum (Ornithischia, Dinosauria) and Combative Artiodactyls". PLoS ONE 6(6): e21422. [1] doi:10.1371/journal.pone.0021422
+
+
+External links[edit]
+
+
+
+
+Dinosaurs portal
+
+
+
+
+ Media related to Stegoceras at Wikimedia Commons
+ Data related to Stegoceras at Wikispecies
+
+
+
+ 
+NewPP limit report
+CPU time usage: 5.536 seconds
+Real time usage: 6.068 seconds
+Preprocessor visited node count: 24422/1000000
+Preprocessor generated node count: 41092/1500000
+Post‐expand include size: 87999/2048000 bytes
+Template argument size: 42747/2048000 bytes
+Highest expansion depth: 39/40
+Expensive parser function count: 1/500
+Lua time usage: 0.087s
+Lua memory usage: 2.22 MB
+
+
+ Saved in parser cache with key enwiki:pcache:idhash:2274197-0!*!0!!en!4!* and timestamp 20131001111653 
+								
+				Retrieved from "http://en.wikipedia.org/w/index.php?title=Stegoceras&oldid=568569161"				
+												Categories: Cretaceous dinosaursDinosaurs of North AmericaPachycephalosaursFossil taxa described in 1902Hidden categories: Articles with 'species' microformats												
+							
+		
+		
+			Navigation menu
+			
+				
+	Personal tools
+	
+Create accountLog in	
+
+				
+					
+	Namespaces
+	
+					Article
+					Talk
+			
+
+
+	
+		
+	Variants
+	
+		
+					
+	
+
+				
+				
+					
+	Views
+	
+					Read
+					Edit
+					View history
+			
+
+
+	Actions
+	
+		
+					
+	
+
+
+	Search
+	
+				
+																				
+		
+	
+
+				
+			
+			
+					
+				
+	Navigation
+	
+		
+			Main page
+			Contents
+			Featured content
+			Current events
+			Random article
+			Donate to Wikipedia
+		
+	
+
+
+	Interaction
+	
+		
+			Help
+			About Wikipedia
+			Community portal
+			Recent changes
+			Contact page
+		
+	
+
+
+	Toolbox
+	
+		
+			What links here
+			Related changes
+			Upload file
+			Special pages
+			Permanent link
+			Page information
+			Data item
+Cite this page		
+	
+
+
+	Print/export
+	
+		
+			Create a book
+			Download as PDF
+			Printable version
+		
+	
+
+
+	Languages
+	
+		
+			Català
+			Česky
+			Deutsch
+			Español
+			Esperanto
+			Français
+			한국어
+			Hrvatski
+			Italiano
+			Magyar
+			Bahasa Melayu
+			Nederlands
+			日本語
+			Polski
+			Português
+			Русский
+			Simple English
+			Slovenčina
+			Srpskohrvatski / српскохрватски
+			Svenska
+			中文
+			
+			Edit links
+		
+	
+
+			
+		
+		
+							
+											 This page was last modified on 14 August 2013 at 22:05.
+											Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. 
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+									
+							
+											Privacy policy
+											About Wikipedia
+											Disclaimers
+											Contact Wikipedia
+											Developers
+											Mobile view
+									
+										
+					
+						
+					
+					
+						
+					
+				
+						
+		
+		
+
+
+ Served by mw1098 in 0.176 secs. 
+	
+if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Stegoceras","wgTitle":"Stegoceras","wgCurRevisionId":568569161,"wgRevisionId":568569161,"wgArticleId":2274197,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with 'species' microformats","Cretaceous dinosaurs","Dinosaurs of North America","Pachycephalosaurs","Fossil taxa described in 1902"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Stegoceras","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgVectorEnabledModules":{"collapsiblenav":true,"experiments":true},"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"templateEditor":false,"templates":false,"preview":false,"previewDialog":false,"publish":false,"toc":false},"wgArticleFeedbackv5Permissions":{"aft-reader":true,"aft-member":false,"aft-editor":false,"aft-monitor":false,"aft-administrator":false,"aft-oversighter":false,"aft-noone":false},"wgVisualEditor":{"isPageWatched":false,"magnifyClipIconURL":"//bits.wikimedia.org/static-1.22wmf19/skins/common/images/magnify-clip.png","pageLanguageCode":"en","pageLanguageDir":"ltr"},"wikilove-recipient":"","wikilove-anon":0,"wgGuidedTourHelpGuiderUrl":"Help:Guided tours/guider","wgULSAcceptLanguageList":[],"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia","aftv5Article":{"id":2274197,"title":"Stegoceras","namespace":0,"categories":["Articles with 'species' microformats","Cretaceous dinosaurs","Dinosaurs of North America","Fossil taxa described in 1902","Pachycephalosaurs"],"permissionLevel":false},"wgWikibaseItemId":"Q134191"});
+}if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":false,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,
+"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"useeditwarning":1,"prefershttps":1,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"vector-simplesearch":1,"vector-collapsiblenav":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"aftv5-last-filter":null,"visualeditor-enable":0,"visualeditor-enable-experimental":0,"visualeditor-betatempdisable":0,"wikilove-enabled":1,"echo-subscriptions-web-page-review":true,"echo-subscriptions-email-page-review":false,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"echo-notify-show-link":true,"echo-show-alert":true,"echo-email-frequency":0,"echo-email-format":"html","echo-subscriptions-email-system":true,"echo-subscriptions-web-system":true,"echo-subscriptions-email-other":false,"echo-subscriptions-web-other":true,"echo-subscriptions-email-edit-user-talk":false,"echo-subscriptions-web-edit-user-talk":true,
+"echo-subscriptions-email-reverted":false,"echo-subscriptions-web-reverted":true,"echo-subscriptions-email-article-linked":false,"echo-subscriptions-web-article-linked":false,"echo-subscriptions-email-mention":false,"echo-subscriptions-web-mention":true,"echo-subscriptions-web-edit-thank":true,"echo-subscriptions-email-edit-thank":false,"gettingstarted-task-toolbar-show-intro":true,"uls-preferences":"","language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs446":false,"searchNs447":false
+,"searchNs710":false,"searchNs711":false,"searchNs828":false,"searchNs829":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-mySandbox":1,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:156d8fe0ae17f8afd74198057563e45d */
+}if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","ext.visualEditor.viewPageTarget.init","ext.wikimediaShopLink.core","ext.uls.init","ext.uls.interface","wikibase.client.init","ext.centralNotice.bannerController","skins.vector.js"]);
+}/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}if(window.mw){
+mw.loader.load(["mobile.desktop","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.cite","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","mw.MwEmbedSupport.style","ext.vector.collapsibleNav","ext.articleFeedbackv5.startup","schema.HttpsSupport","ext.coreEvents.httpsSupport","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","mw.PopUpMediaTransform"],null,true);
+}

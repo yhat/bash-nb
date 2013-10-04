@@ -1,0 +1,720 @@
+
+
+
+Lambeosaurus - Wikipedia, the free encyclopedia
+
+
+
+
+
+
+
+
+
+
+
+
+a:lang(ar),a:lang(ckb),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:0de201fdea5d684523607ed88007b127 */
+
+
+
+
+[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.22wmf18/skins/vector/csshover.min.htc")}</style><![endif]
+
+		
+		
+		
+			
+			
+						 CentralNotice 
+						Lambeosaurus
+			
+								From Wikipedia, the free encyclopedia
+								
+												
+					Jump to:					navigation, 					search
+				
+				
+
+
+Lambeosaurus
+Temporal range: Late Cretaceous, 76–75Ma
+
+PreЄ
+Є
+O
+S
+D
+C
+P
+T
+J
+K
+Pg
+N
+
+
+
+↓
+
+
+
+
+
+
+
+
+
+Mounted L. lambei skeleton, Royal Ontario Museum
+
+
+Scientific classification 
+
+
+Kingdom:
+Animalia
+
+
+Phylum:
+Chordata
+
+
+Clade:
+Sauropsida
+
+
+Clade:
+Dinosauria
+
+
+Order:
+†Ornithischia
+
+
+Clade:
+†Ornithopoda
+
+
+Family:
+†Hadrosauridae
+
+
+Subfamily:
+†Lambeosaurinae
+
+
+Tribe:
+†Lambeosaurini
+
+
+Genus:
+†Lambeosaurus
+Parks, 1923
+
+
+Type species
+
+
+†Lambeosaurus lambei
+Parks, 1923
+
+
+Species
+
+
+
+
+†L. lambei
+Parks, 1923
+†L. magnicristatus
+Sternberg, 1935
+†L. paucidens
+(Marsh, 1889 [originally Hadrosaurus])
+
+
+
+
+Synonyms
+
+
+
+
+Genus Synonymy
+
+Didanodon
+Osborn, 1902
+Procheneosaurus
+Parks, 1920 (nomen conservandum)
+Tetragonosaurus
+Parks, 1931 (nomen rejectum)
+
+
+
+Species Synonymy
+
+Trachodon altidens
+Lambe, 1902
+Didanodon altidens
+(Lambe, 1902 [originally Trachodon])
+Procheneosaurus altidens
+(Lambe, 1902 [originally Trachodon])
+Tetragonosaurus praeceps
+Parks, 1931 (nomen conservandum)
+Procheneosaurus praeceps
+(Parks, 1931 [originally Tetragonosaurus]) (nomen conservandum)
+Tetragonosaurus cranibrevis
+Sternberg, 1935
+Procheneosaurus cranibrevis
+(Sternberg, 1935 [originally Tetragonosaurus])
+Lambeosaurus clavinitialis
+(Sternberg, 1935 [originally Tetragonosaurus])
+Corythosaurus frontalis
+Parks, 1935
+
+
+
+
+
+
+Lambeosaurus (/ˌlæmbi.ɵˈsɔrəs/ LAM-bee-ə-SOR-əs; meaning "Lambe's lizard") is a genus of hadrosaurid dinosaur that lived about 76 to 75 million years ago, in the Late Cretaceous Period (Campanian) of North America. This bipedal/quadrupedal, herbivorous dinosaur is known for its distinctive hollow cranial crest, which in the best-known species resembled a hatchet. Several possible species have been named, from Alberta (Canada), Montana (USA), and Baja California (Mexico), but only the two Canadian species are currently recognized as valid.
+Lambeosaurus was belatedly described in 1923 by William Parks, over twenty years after the first material was studied by Lawrence Lambe. The genus has had a complicated taxonomic history, in part because small-bodied crested hadrosaurids now recognized as juveniles were once thought to belong to their own genera and species. Currently, the various skulls assigned to the type species L. lambei are interpreted as showing age differences and sexual dimorphism. Lambeosaurus was closely related to the better known Corythosaurus, which is found in slightly older rocks, as well as the less well-known genera Hypacrosaurus and Olorotitan. All had unusual crests, which are now generally assumed to have served social functions like noisemaking and recognition.
+
+
+Contents
+
+
+1 Description
+2 Classification
+3 Discovery and history
+
+3.1 New species and procheneosaurs
+3.2 Reconsideration and consolidation
+
+
+4 Species
+5 Paleoecology
+6 Paleobiology
+
+6.1 Feeding
+6.2 Cranial crest
+
+
+7 References
+8 External links
+
+
+Description[edit]
+
+
+
+
+L. lambei (green) and Magnapaulia (red) compared to a human
+
+
+Lambeosaurus, best known through L. lambei, was quite similar to the more famous Corythosaurus in everything but the form of the head adornment. Compared to Corythosaurus, the crest of Lambeosaurus was shifted forward, and the hollow nasal passages within were at the front of the crest and stacked vertically.[1] It also can be differentiated from Corythosaurus by its lack of forking nasal processes making up part of the sides of the crest, which is the only way to tell juveniles of the two genera apart: the crests took on their distinctive forms as the animals aged.[2]
+In build, Lambeosaurus was like other hadrosaurids, and could move on both two legs and all fours, as shown by footprints of related animals. It had a long tail stiffened by ossified tendons that prevented it from drooping. The hands had four fingers, lacking the innermost finger of the generalized five-fingered tetrapod hand, while the second, third, and fourth fingers were bunched together and bore hooves, suggesting the animal could use the hands for support. The fifth finger was free and could be used to manipulate objects. Each foot had only the three central toes.[3]
+The most distinctive feature, the crest, was different in the two well-known species. In L. lambei, it had a hatchet-like shape when the dinosaur was full-grown, and was somewhat shorter and more rounded in specimens interpreted as females.[1] The "hatchet blade" projected in front of the eyes, and the "handle" was a solid bony rod that jutted out over the back of the skull. The "hatchet blade" had two sections: the uppermost portion was a thin bony "coxcomb" that grew out relatively late in life, when an individual neared adulthood; and the lower portion held hollow spaces that were continuations of the nasal passages.[1] In L. magnicristatus, the "handle" was greatly reduced, and the "blade" expanded,[4] forming a tall, exaggerated pompadour-like crest. This crest is damaged in the best overall specimen, and only the front half remains.[5] The crest of the lesser-known species L. paucidens is not currently known.
+The Canadian species of Lambeosaurus appear to have been similar in size to Corythosaurus, and thus around 9.4 m long (31 ft).[6] Impressions of the scales are known for several specimens; a specimen now assigned to L. lambei had a thin skin with uniform, polygonal scutes distributed in no particular order on the neck, torso, and tail.[7] Similar scalation is known from the neck, forelimb, and foot of a specimen of L. magnicristatus.[5]
+Classification[edit]
+
+
+
+
+L. lambei, Royal Tyrrell Museum
+
+
+Lambeosaurus is the type genus of the Lambeosaurinae, the subfamily of hadrosaurids that had hollow skull crests. Among the lambeosaurines, it is closely related to similar dinosaurs such as Corythosaurus and Hypacrosaurus, with little separating them but crest form.[3] The relationships among these dinosaur genera are difficult to pick out. Some early classifications placed these genera in the tribe Corythosaurini, which was found by David Evans and Robert Reisz to include Lambeosaurus as the sister taxon to a clade made up of Corythosaurus, Hypacrosaurus, and the Russian genus Olorotitan; these lambeosaurines, with Nipponosaurus.[5] However, later researchers pointed out that due to the rules of priority set forth by the ICZN, any tribe containing Lambeosaurus is properly named Lambeosaurini, and that therefore the name "Corythosaurini" is a junior synonym.[8] The following cladogram illustrating the relationships of Lambeosaurus and its close relatives was recovered in a 2012 phylogenetic analysis by Albert Prieto-Márquez, Luis M. Chiappe and Shantanu H. Joshi.[9]
+
+
+Lambeosaurini
+
+
+
+
+
+
+
+
+
+Magnapaulia
+
+
+
+
+
+
+
+
+Velafrons
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Lambeosaurus lambei
+
+
+
+
+
+
+
+
+Lambeosaurus magnicristatus
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Corythosaurus casuarius
+
+
+
+
+
+
+
+
+Corythosaurus intermedius
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+"Hypacrosaurus" stebingeri
+
+
+
+
+
+
+
+
+
+
+
+
+Hypacrosaurus
+
+
+
+
+
+
+
+
+Olorotitan
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Discovery and history[edit]
+
+
+
+
+L. lambei skull, American Museum of Natural History
+
+
+Lambeosaurus has a complicated taxonomic history, beginning in 1902 with Lawrence Lambe's naming of hadrosaurid limb material and other bones (originally GSC 419) from Alberta as Trachodon marginatus.[10] Paleontologists began finding better remains of hadrosaurids from the same rocks in the 1910s, in what is now known as the late Campanian-age (Upper Cretaceous) Dinosaur Park Formation. Lambe assigned two new skulls to T. marginatus, and based on the new information, coined the genus Stephanosaurus for the species in 1914.[11] Unfortunately, there was very little to associate the skulls with the scrappy earlier marginatus material, so in 1923 William Parks proposed a new genus and species for the skulls, with both generic and specific names honoring Lambe: Lambeosaurus lambei (type specimen NMC 2869, originally GSC 2869).[12]
+New species and procheneosaurs[edit]
+Although the early workers in Alberta did not recognize it at the time, they were finding the remains of juvenile Lambeosaurus as well. These fossils of small-bodied crested duckbills were interpreted as adults of a distinct lineage of hadrosaurids, the subfamily Cheneosaurinae.[13] The first such animal to be named was Trachodon altidens, a left upper jaw (GSC 1092) from the Dinosaur Park Formation described by Lawrence Lambe in 1902.[14] In the same volume, Henry Fairfield Osborn suggested T. altidens could belong to a new genus, which he labelled Didanodon without further discussion.[10] In 2006, Lund and Gates stated that Didanodon altidens was a nomen nudum, without further discussion.[15]
+
+
+
+
+Type specimen of Procheneosaurus praeceps (AMNH 5340), American Museum of Natural History
+
+
+In 1920, William Diller Matthew used the name Procheneosaurus (no species name) in a caption for a photograph of a skeleton at the American Museum of Natural History, from the Dinosaur Park Formation (AMNH 5340).[16] Parks believed that the procedure and description were inadequate for the name to be considered valid, and to address the situation, he coined the genus Tetragonosaurus. Into this genus he placed the type species T. praeceps (based on ROM 3577) and a second species T. erectofrons (based on ROM 3578) for small skulls from the Dinosaur Park Formation, and assigned Matthew's Procheneosaurus skeleton to T. praeceps.[17] Charles M. Sternberg followed in 1935 by adding the slightly larger T. cranibrevis, based on GSC (now NMC) 8633.[18] The use of Tetragonosaurus was rejected by Richard Swann Lull in favor of Procheneosaurus. Lull requested that the name Tetragonosaurus be suppressed in favor of Procheneosaurus, which was granted, and Procheneosaurus received official approval from the ICZN as a nomen conservandum (conserved name).[19] In 1942 he and Wright transferred the Tetragonosaurus species and, tentatively, Trachodon altidens, to Procheneosaurus, with P. praeceps serving as the type species.[20] This usage was generally followed until 1975, when Peter Dodson showed that the "cheneosaurs" were actually juveniles of other dinosaurs.[1] Procheneosaurus praeceps and altidens are considered probable synonyms of Lambeosaurus lambei.[3]
+The "procheneosaurs" weren't the only crested duckbills being studied and named in the early 1900s. It was then the accepted practice to name genera and species for what is now seen as more likely individual variation, variation due to age or sex, or distortion from fossilization. Three more species were named during this period that relate to Lambeosaurus, all in 1935. Sternberg, in the same paper as T. cranibrevis, named a skull and partial skeleton (GSC—now NMC—8705) L. magnicristatum (corrected to magnicristatus), and a smaller skull (GSC—now NMC—8703) L. clavinitialis, with a less prominent crest and reduced spine pointing from the back.[18] Parks contributed Corythosaurus frontalis, based on skull GSC 5853 (now ROM 869), which differed from the well-known tall, straight, rounded crest of other specimens of Corythosaurus by having a low crest cocked forward.[21]
+Reconsideration and consolidation[edit]
+
+
+
+
+A life restoration of tall-crested L. magnicristatus
+
+
+New specimens were not described for many years following the activity of the early 1900s. In 1964 John Ostrom noted that an old species named by Othniel Charles Marsh, Hadrosaurus paucidens, based on USNM 5457, a partial maxilla and squamosal from the Judith River Formation of Fergus County, Montana, was probably a specimen of Lambeosaurus.[22]
+In 1975, Peter Dodson, examining why there should be so many species and genera of lambeosaurine duckbills within such a short geological time frame and small area, published the results of a morphometric study in which he measured dozens of skulls. He found that many of the species had been based on remains that were better interpreted as juveniles or different sexes. For Lambeosaurus, he found that L. clavinitialis was probably the female of L. lambei, and Corythosaurus frontalis and Procheneosaurus praeceps were probably its juveniles. L. magnicristatus was different enough to warrant its own species. He interpreted Procheneosaurus cranibrevis and P. erectofrons as juvenile corythosaurs.[1] However, restudy of the Procheneosaurus/Tetragonosaurus remains indicates that within species, assignments had become confused, and the type specimen of P. cranibrevis was a Lambeosaurus juvenile, whereas others were Corythosaurus, based on the distinctive form of the contact of the nasal bone with the premaxilla.[2]
+Also during the 1970s, Bill Morris was studying giant lambeosaurine remains from Baja California. He named them ?L. laticaudus in 1981 (type specimen LACM 17715). Morris used a question mark in his work because no complete crest had been found for his species, and without it a definitive assignment could not be made. From what was known of the skull, he considered it to be most like Lambeosaurus. He interpreted this species as water-bound, due to features like its size, its tall and narrow tail (interpreted as a swimming adaptation), and weak hip articulations, as well as a healed broken thigh bone that he thought would have been too much of a handicap for a terrestrial animal to have survived long enough to heal.[23] This species was later (2012) assigned to the new genus Magnapaulia.[9]
+Species[edit]
+
+
+
+
+Profiles of various specimens, once assigned to their own species, now interpreted as different growth stages and sexes of L. lambei
+
+
+Two species of Lambeosaurus are currently confirmed valid, with a third sometimes accepted. L. lambei (Parks, 1923) is known from at least 17 individuals, with seven skulls and partial skeletons and around ten isolated skulls. L. clavinitialis (C.M. Sternberg, 1935), Corythosaurus frontalis (Parks, 1935), and Procheneosaurus praeceps (Parks, 1931) are all regarded as synonyms of L. lambei in the most recent review.[3] It is possible that L. clavinitialis skulls without the backward spine may represent L. magnicristatus individuals instead,[24] although this was rejected in the 2007 redescription of L. magnicristatus.[5] L. magnicristatus (C.M. Sternberg, 1935) is only definitely known from two specimens, both with skulls. Unfortunately, the majority of the articulated skeleton of the type specimen has been lost. Many of the bones were extensively damaged by water while in storage and were discarded before description; other portions of this skeleton have also been lost. Its remains come from slightly younger rocks than L. lambei.[5] The specific name is derived from the Latin magnus "large" and cristatus "crested", referring to its bony crest.[25] Additionally, Jack Horner has identified fragmentary lambeosaurine jaws from the Bearpaw Formation of Montana as possibly belonging to L. magnicristatus; these represent the first lambeosaurine remains from marine rocks.[26] As noted above, the large "L." laticaudus (Morris, 1981) was assigned to Magnapaulia.[9]
+L. paucidens (Marsh, 1889) is regarded as a dubious name and is listed as Hadrosaurus paucidens in the latest review,[3] although at least one author, Donald F. Glut, accepts it as a species of Lambeosaurus.[27] In this case, the specific epithet is derived from the Latin pauci- "few" and dens "tooth".[25] The irregularities of Procheneosaurus cranibrevis, and the identity of the type as a juvenile lambeosaur, were recognized in 2005,[2] and thus have not yet entered wide circulation. Finally, Didanodon altidens has been assigned without comment to Lambeosaurus in two 21st Century reviews.[3][15]
+Paleoecology[edit]
+
+
+
+
+Rocks of the Dinosaur Park Formation exposed along the Red Deer River, Dinosaur Provincial Park, in southern Alberta.
+
+
+Lambeosaurus lambei and L. magnicristatus, from the Dinosaur Park Formation, were members of a diverse and well-documented fauna of prehistoric animals that included such well-known dinosaurs as the horned Centrosaurus, Styracosaurus, and Chasmosaurus, fellow duckbills Prosaurolophus, Gryposaurus, Corythosaurus, and Parasaurolophus, tyrannosaurid Gorgosaurus, and armored Edmontonia and Euoplocephalus.[28] The Dinosaur Park Formation is interpreted as a low-relief setting of rivers and floodplains that became more swampy and influenced by marine conditions over time as the Western Interior Seaway transgressed westward.[29] The climate was warmer than present-day Alberta, without frost, but with wetter and drier seasons. Conifers were apparently the dominant canopy plants, with an understory of ferns, tree ferns, and angiosperms.[30] The anatomically similar L. lambei, L. magnicristatus, and Corythosaurus were separated by time within the formation, based on stratigraphy. Corythosaurus fossils are known from the lower two-thirds of the Formation, L. lambei fossils are present in the upper third, and L. magnicristatus remains are rare and present only at the very top, where the marine influence was greater.[31]
+Paleobiology[edit]
+Feeding[edit]
+
+
+
+
+L. lambei restored in a half-crouch, based on the skeleton in the Royal Tyrrell Museum
+
+
+As a hadrosaurid, Lambeosaurus was a large bipedal/quadrupedal herbivore, eating plants with a sophisticated skull that permitted a grinding motion analogous to mammalian chewing. Its teeth were continually replaced and were packed into dental batteries that each contained over 100 teeth, only a relative handful of which were in use at any time. It used its beak to crop plant material, which was held in the jaws by a cheek-like organ. Feeding would have been from the ground up to around 4 meters (13 ft) above.[3] As noted by Bob Bakker, lambeosaurines have narrower beaks than hadrosaurines, implying that Lambeosaurus and its relatives could feed more selectively than their broad-beaked, crestless counterparts.[32]
+Cranial crest[edit]
+
+
+
+
+Skull of a juvenile
+
+
+Like other lambeosaurines such as Parasaurolophus and Corythosaurus, Lambeosaurus had a distinctive crest on the top of its head. Its nasal cavity ran back through this crest, making it mostly hollow. Many suggestions have been made for the function or functions of the crest, including housing salt glands, improving the sense of smell, use as a snorkel or air trap, acting as a resonating chamber for making sounds, or being a method for different species or different sexes of the same species to recognize each other.[24][33] Social functions such as noisemaking and recognition have become the most widely accepted of the various hypotheses.[3]
+The large size of hadrosaurid eye sockets and the presence of sclerotic rings in the eyes imply acute vision and diurnal habits, evidence that sight was important to these animals. The hadrosaurid sense of hearing also appears to be strong. There is at least one example, in the related Corythosaurus, of a slender stapes (reptilian ear bone) in place, which combined with a large space for an eardrum implies a sensitive middle ear, and the hadrosaurid lagena is elongate like a crocodilian's. This indicates that the auditory portion of the inner ear was well-developed.[24] If used as a noisemaker, the crest could also have provided recognizable differences for different species or sexes, because the differing layouts of the nasal passages corresponding to the different crest shapes would have produced intrinsically different sounds.[34]
+References[edit]
+
+
+
+
+Dinosaurs portal
+
+
+
+
+
+^ a b c d e Dodson, Peter (1975). "Taxonomic implications of relative growth in lambeosaurine dinosaurs". Systematic Zoology 24 (1): 37–54. doi:10.2307/2412696. JSTOR 2412696. 
+^ a b c Evans, David C.; Forster, Catherine F.; and Reisz, Robert R. (2005). "The type specimen of Tetragonosaurus erectofrons (Ornithischia: Hadrosauridae) and the identification of juvenile lambeosaurines". In Currie, Phillip J., and Koppelhus, Eva. Dinosaur Provincial Park: A Spectacular Ancient Ecosystem Revealed. Bloomington: Indiana University Press. pp. 349–366. ISBN 0-253-34595-2. 
+^ a b c d e f g h Horner, John R.; Weishampel, David B.; and Forster, Catherine A (2004). "Hadrosauridae". In Weishampel, David B.; Dodson, Peter; and Osmólska, Halszka (eds.). The Dinosauria (2nd ed.). Berkeley: University of California Press. pp. 438–463. ISBN 0-520-24209-2. 
+^ Lull, Richard Swann; and Wright, Nelda E. (1942). Hadrosaurian Dinosaurs of North America. Geological Society of America Special Paper 40. Geological Society of America. pp. 193–194. 
+^ a b c d e Evans, David C.; and Reisz, Robert R. (2007). "Anatomy and relationships of Lambeosaurus magnicristatus, a crested hadrosaurid dinosaur (Ornithischia) from the Dinosaur Park Formation, Alberta". Journal of Vertebrate Paleontology 27 (2): 373–393. doi:10.1671/0272-4634(2007)27[373:AAROLM]2.0.CO;2. ISSN 0272-4634. 
+^ Lull, Richard Swann; and Wright, Nelda E. (1942). Hadrosaurian Dinosaurs of North America. 227–228.
+^ Lull, Richard Swann; and Wright, Nelda E. (1942). Hadrosaurian Dinosaurs of North America. 112–117.
+^ Sullivan, R., Jasinsky, S.E., Guenther, M. and Lucas, S.G. (2009). "The first lambeosaurin (Dinosauria, Hadrosauridae, Lambeosaurinae) from the Upper Cretaceous Ojo Alamo Formation (Naashoibito Member), San Juan Basin, New Mexico." New Mexico Museum of Natural History and Science Bulletin, 53: 405-417. [1]
+^ a b c Prieto-Márquez, A.; Chiappe, L. M.; Joshi, S. H. (2012). "The lambeosaurine dinosaur Magnapaulia laticaudus from the Late Cretaceous of Baja California, Northwestern Mexico". In Dodson, Peter. PLoS ONE 7 (6): e38207. doi:10.1371/journal.pone.0038207. PMC 3373519. PMID 22719869.  edit
+^ a b Lambe, Lawrence M. (1902). "On Vertebrata of the mid-Cretaceous of the Northwest Territory. 2. New genera and species from the Belly River Series (mid-Cretaceous)". Contributions to Canadian Paleontology 3: 25–81. 
+^ Lambe, Lawrence M. (1914). "On a new genus and species of carnivorous dinosaur from the Belly River Formation of Alberta, with a description of the skull of Stephanosaurus marginatus from the same horizon". Ottawa Naturalist 28: 13–20. 
+^ Parks, William A. (1923). "Corythosaurus intermedius, a new species of trachodont dinosaur". University of Toronto Studies, Geological Series 15: 1–57. 
+^ Lull, Richard Swann; and Wright, Nelda E. (1942). Hadrosaurian Dinosaurs of North America. 178–187.
+^ Lambe, Lawrence (1902). "New genera and species from the Belly River Series (mid-Cretaceous)". Contributions to Canadian Paleontology Part II. On the Vertebrata of the mid-Cretaceous of the North West Territory 3: 1–21. 
+^ a b Lund, E.K. and Gates, T.A. (2006). "A historical and biogeographical examination of hadrosaurian dinosaurs." Pp. 263- in Lucas, S.G. and Sullivan, R.M. (eds.), Late Cretaceous vertebrates from the Western Interior. New Mexico Museum of Natural History and Science Bulletin 35.
+^ Matthew, William Diller (1920). "Canadian dinosaurs". Natural History 20 (5): 1–162. 
+^ Parks, William A. (1931). "A new genus and two new species of trachodont dinosaurs from the Belly River Formation of Alberta". University of Toronto Studies, Geological Series 31: 1–11. 
+^ a b Sternberg, Charles M. (1935). "Hooded hadrosaurs of the Belly River Series of the Upper Cretaceous". Canada Department of Mines Bulletin (Geological Series) 77 (52): 1–37. 
+^ ICZN Opinion #193
+^ Lull, Richard Swann; and Wright, Nelda E. (1942). Hadrosaurian Dinosaurs of North America. 1–242.
+^ Parks, William A. (1931). "New species of trachodont dinosaurs from the Cretaceous formations of Alberta". University of Toronto Studies, Geological Series 37: 1–45. 
+^ Ostrom, John H. (1964). "The systematic position of Hadrosaurus (Ceratops) paucidens Marsh". Journal of Paleontology 38 (1): 130–134. 
+^ Morris, William J. (1981). "A new species of hadrosaurian dinosaur from the Upper Cretaceous of Baja California: ?Lambeosaurus laticaudus". Journal of Paleontology 55 (2): 453–462. 
+^ a b c Hopson, James A. (1975). "The evolution of cranial display structures in hadrosaurian dinosaurs". Paleobiology 1 (1): 21–43. JSTOR 2400327. 
+^ a b Simpson, D.P. (1979). Cassell's Latin Dictionary (5 ed.). London: Cassell Ltd. p. 883. ISBN 0-304-52257-0. 
+^ Horner, John R. (1979). "Upper Cretaceous dinosaurs from the Bearpaw Shale (marine) of south-central Montana with a checklist of Upper Cretaceous dinosaur remains from marine sediments in North America". Journal of Paleontology 53 (3): 566–577. 
+^ Glut, Donald F. (1997). "Lambeosaurus". Dinosaurs: The Encyclopedia. Jefferson, North Carolina: McFarland & Co. pp. 525–533. ISBN 0-89950-917-7. 
+^ Weishampel, David B.; Barrett, Paul M.; Coria, Rodolfo A.; Le Loeuff, Jean; Xu Xing; Zhao Xijin; Sahni, Ashok; Gomani, Elizabeth, M.P.; and Noto, Christopher R. (2004). "Dinosaur Distribution", in The Dinosauria (2nd), pp. 517–606.
+^ Eberth, David A. 2005. "The geology", in Dinosaur Provincial Park, pp. 54–82.
+^ Braman, Dennis R., and Koppelhus, Eva B. 2005. "Campanian palynomorphs", in Dinosaur Provincial Park, pp. 101–130.
+^ Ryan, Michael J.; and Evans, David C. (2005). "Ornithischian Dinosaurs". In Currie, Phillip J., and Koppelhus, Eva. Dinosaur Provincial Park: A Spectacular Ancient Ecosystem Revealed. Bloomington: Indiana University Press. pp. 312–348. ISBN 0-253-34595-2. 
+^ Bakker, Robert T. (1986). The Dinosaur Heresies: New Theories Unlocking the Mystery of the Dinosaurs and their Extinction. New York: William Morrow. p. 194. ISBN 0-8217-2859-8. 
+^ Norman, David B. (1985). "Hadrosaurids II". The Illustrated Encyclopedia of Dinosaurs: An Original and Compelling Insight into Life in the Dinosaur Kingdom. New York: Crescent Books. pp. 122–127. ISBN 0-517-46890-5. 
+^ Weishampel, David B. (1981). "Acoustic analyses of potential vocalization in lambeosaurine dinosaurs (Reptilia: Ornithischia)". Paleobiology 7 (2): 252–261. 
+
+
+External links[edit]
+
+Lambeosaurus Paleobiology Database (technical)
+Lambeosaurus Natural History Museum
+Lambeosaurinae at Thescelosaurus!
+
+
+  
+
+
+ 
+NewPP limit report
+CPU time usage: 6.104 seconds
+Real time usage: 6.684 seconds
+Preprocessor visited node count: 30897/1000000
+Preprocessor generated node count: 51333/1500000
+Post‐expand include size: 183561/2048000 bytes
+Template argument size: 81843/2048000 bytes
+Highest expansion depth: 39/40
+Expensive parser function count: 2/500
+Lua time usage: 0.111s
+Lua memory usage: 2.74 MB
+
+
+ Saved in parser cache with key enwiki:pcache:idhash:2072335-0!*!0!!en!4!* and timestamp 20131002130358 
+								
+				Retrieved from "http://en.wikipedia.org/w/index.php?title=Lambeosaurus&oldid=570805821"				
+												Categories: Cretaceous dinosaursDinosaurs of North AmericaHadrosaursHidden categories: Articles with 'species' microformatsFeatured articles												
+							
+		
+		
+			Navigation menu
+			
+				
+	Personal tools
+	
+Create accountLog in	
+
+				
+					
+	Namespaces
+	
+					Article
+					Talk
+			
+
+
+	
+		
+	Variants
+	
+		
+					
+	
+
+				
+				
+					
+	Views
+	
+					Read
+					Edit
+					View history
+			
+
+
+	Actions
+	
+		
+					
+	
+
+
+	Search
+	
+				
+																				
+		
+	
+
+				
+			
+			
+					
+				
+	Navigation
+	
+		
+			Main page
+			Contents
+			Featured content
+			Current events
+			Random article
+			Donate to Wikipedia
+		
+	
+
+
+	Interaction
+	
+		
+			Help
+			About Wikipedia
+			Community portal
+			Recent changes
+			Contact page
+		
+	
+
+
+	Toolbox
+	
+		
+			What links here
+			Related changes
+			Upload file
+			Special pages
+			Permanent link
+			Page information
+			Data item
+Cite this page		
+	
+
+
+	Print/export
+	
+		
+			Create a book
+			Download as PDF
+			Printable version
+		
+	
+
+
+	Languages
+	
+		
+			Català
+			Česky
+			Deutsch
+			Español
+			Esperanto
+			Euskara
+			Français
+			Italiano
+			עברית
+			Latviešu
+			Lietuvių
+			Magyar
+			Nederlands
+			日本語
+			Norsk bokmål
+			Polski
+			Português
+			Русский
+			Simple English
+			Slovenčina
+			Suomi
+			Svenska
+			ไทย
+			中文
+			
+			Edit links
+		
+	
+
+			
+		
+		
+							
+											 This page was last modified on 30 August 2013 at 13:05.
+											Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. 
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+									
+							
+											Privacy policy
+											About Wikipedia
+											Disclaimers
+											Contact Wikipedia
+											Developers
+											Mobile view
+									
+										
+					
+						
+					
+					
+						
+					
+				
+						
+		
+		
+
+
+ Served by mw1022 in 0.239 secs. 
+	
+if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Lambeosaurus","wgTitle":"Lambeosaurus","wgCurRevisionId":570805821,"wgArticleId":2072335,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with 'species' microformats","Featured articles","Cretaceous dinosaurs","Dinosaurs of North America","Hadrosaurs"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Lambeosaurus","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":["sysop"],"wgVectorEnabledModules":{"collapsiblenav":true,"experiments":true},"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"templateEditor":false,"templates":false,"preview":false,"previewDialog":false,"publish":false,"toc":false},"wgArticleFeedbackv5Permissions":{"aft-reader":true,"aft-member":false,"aft-editor":false,"aft-monitor":false,"aft-administrator":false,"aft-oversighter":false,"aft-noone":false},"wgVisualEditor":{"isPageWatched":false,"magnifyClipIconURL":"//bits.wikimedia.org/static-1.22wmf18/skins/common/images/magnify-clip.png","pageLanguageCode":"en","pageLanguageDir":"ltr"},"wikilove-recipient":"","wikilove-anon":0,"wgGuidedTourHelpGuiderUrl":"Help:Guided tours/guider","wgULSAcceptLanguageList":[],"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia","aftv5Article":{"id":2072335,"title":"Lambeosaurus","namespace":0,"categories":["Articles with 'species' microformats","Cretaceous dinosaurs","Dinosaurs of North America","Featured articles","Hadrosaurs"],"permissionLevel":false},"wgWikibaseItemId":"Q132683"});
+}if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":false,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,
+"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"useeditwarning":1,"prefershttps":1,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"vector-simplesearch":1,"vector-collapsiblenav":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"aftv5-last-filter":null,"visualeditor-enable":0,"visualeditor-enable-experimental":0,"visualeditor-betatempdisable":0,"wikilove-enabled":1,"echo-subscriptions-web-page-review":true,"echo-subscriptions-email-page-review":false,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"echo-notify-show-link":true,"echo-show-alert":true,"echo-email-frequency":0,"echo-email-format":"html","echo-subscriptions-email-system":true,"echo-subscriptions-web-system":true,"echo-subscriptions-email-other":false,"echo-subscriptions-web-other":true,"echo-subscriptions-email-edit-user-talk":false,"echo-subscriptions-web-edit-user-talk":true,
+"echo-subscriptions-email-reverted":false,"echo-subscriptions-web-reverted":true,"echo-subscriptions-email-article-linked":false,"echo-subscriptions-web-article-linked":false,"echo-subscriptions-email-mention":false,"echo-subscriptions-web-mention":true,"echo-subscriptions-web-edit-thank":true,"echo-subscriptions-email-edit-thank":false,"gettingstarted-task-toolbar-show-intro":true,"uls-preferences":"","language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs446":false,"searchNs447":false
+,"searchNs710":false,"searchNs711":false,"searchNs828":false,"searchNs829":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-mySandbox":1,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:156d8fe0ae17f8afd74198057563e45d */
+}if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","ext.visualEditor.viewPageTarget.init","ext.wikimediaShopLink.core","ext.uls.init","ext.uls.interface","wikibase.client.init","ext.centralNotice.bannerController","skins.vector.js"]);
+}/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}if(window.mw){
+mw.loader.load(["mobile.desktop","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.cite","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","mw.MwEmbedSupport.style","ext.vector.collapsibleNav","ext.articleFeedbackv5.startup","ext.gettingstarted.logging","ext.gettingstarted.openTask","schema.HttpsSupport","ext.coreEvents.httpsSupport","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","mw.PopUpMediaTransform"],null,true);
+}

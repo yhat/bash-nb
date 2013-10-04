@@ -1,0 +1,640 @@
+
+
+
+Albertosaurus - Wikipedia, the free encyclopedia
+
+
+
+
+
+
+
+
+
+
+
+
+a:lang(ar),a:lang(ckb),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:0de201fdea5d684523607ed88007b127 */
+
+
+
+
+[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.22wmf18/skins/vector/csshover.min.htc")}</style><![endif]
+
+		
+		
+		
+			
+			
+						 CentralNotice 
+						Albertosaurus
+			
+								From Wikipedia, the free encyclopedia
+								
+												
+					Jump to:					navigation, 					search
+				
+				
+
+
+Albertosaurus sarcophagus
+Temporal range: Late Cretaceous, 71–68Ma
+
+PreЄ
+Є
+O
+S
+D
+C
+P
+T
+J
+K
+Pg
+N
+
+
+
+↓
+
+
+
+
+
+
+
+
+
+Skull cast at the Geological Museum in Copenhagen
+
+
+Scientific classification 
+
+
+Kingdom:
+Animalia
+
+
+Phylum:
+Chordata
+
+
+Clade:
+Sauropsida
+
+
+Clade:
+Dinosauria
+
+
+Clade:
+Theropoda
+
+
+Family:
+†Tyrannosauridae
+
+
+Subfamily:
+†Albertosaurinae
+
+
+Genus:
+†Albertosaurus
+Osborn, 1905
+
+
+Species:
+† A. sarcophagus
+
+
+Binomial name
+
+
+Albertosaurus sarcophagus
+Osborn, 1905
+
+
+Synonyms
+
+
+
+Deinodon sarcophagus (Osborn, 1905)
+Albertosaurus arctunguis Parks, 1928
+Deinodon arctunguis (Parks, 1928)
+
+
+
+
+Albertosaurus (/ælˌbɜrtɵˈsɔrəs/; meaning "Alberta lizard") is a genus of tyrannosaurid theropod dinosaur that lived in western North America during the Late Cretaceous Period, about 70 million years ago. The type species, A. sarcophagus, was apparently restricted in range to the modern-day Canadian province of Alberta, after which the genus is named. Scientists disagree on the content of the genus, with some recognizing Gorgosaurus libratus as a second species.
+As a tyrannosaurid, Albertosaurus was a bipedal predator with tiny, two-fingered hands and a massive head with dozens of large, sharp teeth. It may have been at the top of the food chain in its local ecosystem. Although relatively large for a theropod, Albertosaurus was much smaller than its more famous relative Tyrannosaurus, probably weighing less than 2 metric tons.
+Since the first discovery in 1884, fossils of more than thirty individuals have been recovered, providing scientists with a more detailed knowledge of Albertosaurus anatomy than is available for most other tyrannosaurids. The discovery of 26 individuals at one site provides evidence of pack behaviour and allows studies of ontogeny and population biology which are impossible with lesser-known dinosaurs.
+
+
+Contents
+
+
+1 Description
+
+1.1 Skull and teeth
+
+
+2 Classification and systematics
+3 Discovery and naming
+
+3.1 Naming
+3.2 Early discoveries
+3.3 Dry Island bonebed
+3.4 Gorgosaurus libratus
+3.5 Other discoveries
+3.6 Other species
+
+
+4 Paleobiology
+
+4.1 Growth pattern
+4.2 Life history
+4.3 Pack behaviour
+4.4 Paleopathology
+
+
+5 Paleoecology
+6 References
+7 External links
+
+
+Description[edit]
+
+
+
+
+Albertosaurus with a human for scale
+
+
+Albertosaurus was smaller than some other tyrannosaurids, such as Tarbosaurus and Tyrannosaurus. Typical adults of Albertosaurus measured up to 9 metres (30 ft) long,[1][2] while rare individuals of great age could grow to over 10 metres (33 ft) in length.[3] Several independent mass estimates, obtained by different methods, suggest that an adult Albertosaurus weighed between 1.3 tonnes (1.4 short tons)[4] and 1.7 tonnes (1.9 tons).[5]
+All tyrannosaurids, including Albertosaurus, shared a similar body appearance. Typically for a theropod, Albertosaurus was bipedal and balanced the heavy head and torso with a long tail. However, tyrannosaurid forelimbs were extremely small for their body size and retained only two digits. The hind limbs were long and ended in a four-toed foot. The first digit, called the hallux, was short and only the other three contacted the ground, with the third (middle) digit longer than the rest.[2] Albertosaurus may have been able to reach walking speeds of 14−21 kilometres per hour (8−13 miles per hour).[6] At least for the younger individuals, a high running speed is plausible.[7]
+Skull and teeth[edit]
+
+
+
+
+Skull and neck of a mounted skeleton cast, Muséum national d'histoire naturelle
+
+
+The massive skull of Albertosaurus, perched on a short, S-shaped neck, was approximately 1 metre (3.3 ft) long in the largest adults.[8] Wide openings in the skull (fenestrae) reduced the weight of the head while also providing space for muscle attachment and sensory organs. Its long jaws contained, both sides combined, 58 or more banana-shaped teeth; larger tyrannosaurids possessed fewer teeth, Gorgosaurus at least sixty-two. Unlike most theropods, Albertosaurus and other tyrannosaurids were heterodont, with teeth of different forms depending on their position in the mouth. The premaxillary teeth at the tip of the upper jaw, four per side, were much smaller than the rest, more closely packed, and D-shaped in cross section.[2] Like with Tyrannosaurus, the maxillary (cheek) teeth of Albertosaurus were adapted in general form to resist lateral forces exerted by a struggling prey. The bite force of Albertosaurus was less formidable however, the maximum force, by the hind teeth, reaching 3413 Newton.[9] Above the eyes were short bony crests that may have been brightly coloured in life and used in courtship to attract a mate.[10]
+
+
+
+
+Reconstruction
+
+
+William Abler observed in 2001 that Albertosaurus tooth serrations are so thin as to functionally be a crack in the tooth.[11] However, at the base of this crack is a round void called an ampulla which would have functioned to distribute force over a larger surface area, hindering the ability of the "crack" formed by the serration to propagate through the tooth.[11] An examination of other ancient predators, a phytosaur and Dimetrodon found similarly crack-like serrations, but no adaptations for preventing crack propagation.[11] Tyrannosaurid teeth were used as holdfasts for pulling meat off a body, rather than knife-like cutting functions.[11] Tooth wear patterns hint that complex head shaking behaviours may have been involved in tyrannosaur feeding.[11] When a tyrannosaur would have pulled back on a piece of meat, the force would tend to push the tip of tooth toward the front of the mouth and the anchored root would experience tension on the posterior side and compression from the front.[11] This would typically incline the tooth to crack formation on the posterior side of the tooth, but the ampullae at the base of the already crack-like serrations would tend to diffuse potential crack-forming forces.[11] This form resembles techniques used by guitar makers to "impart alternating regions of flexibility and rigidity to a stick of wood."[11] The use of a drill to create an "ampulla" of sorts and prevent the propagation of cracks through an important material is also used to protect airplane surfaces.[11] Abler demonstrated that a plexiglass bar with kerfs and drilled holes was more than 25% stronger than one with only regularly placed incisions.[11]
+Classification and systematics[edit]
+
+
+Cladogram of Tyrannosauridae highlighting the position of Albertosaurus
+
+
+
+
+
+Tyrannosauridae
+
+
+
+
+
+Tyrannosaurinae
+
+
+
+
+
+
+Albertosaurinae
+
+
+
+
+
+Albertosaurus
+
+
+
+
+
+
+
+
+Gorgosaurus
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Albertosaurus is a member of the theropod family Tyrannosauridae, in the subfamily Albertosaurinae. Its closest relative is the slightly older Gorgosaurus libratus (sometimes called Albertosaurus libratus; see below).[12] These two species are the only described albertosaurines; other undescribed species may exist.[13] Thomas Holtz found Appalachiosaurus to be an albertosaurine in 2004,[2] but his more recent unpublished work locates it just outside Tyrannosauridae,[14] in agreement with other authors.[15]
+The other major subfamily of tyrannosaurids is the Tyrannosaurinae, including Daspletosaurus, Tarbosaurus and Tyrannosaurus. Compared with these robust tyrannosaurines, albertosaurines had slender builds, with proportionately smaller skulls and longer bones of the lower leg (tibia) and feet (metatarsals and phalanges).[8][12]
+Discovery and naming[edit]
+Naming[edit]
+
+
+
+
+Type specimen
+
+
+Albertosaurus was named by Henry Fairfield Osborn in a one-page note at the end of his 1905 description of Tyrannosaurus rex.[16]:265 The name honours Alberta, the Canadian province established the same year, in which the first remains were found. The generic name also incorporates the Greek term σαυρος/sauros ("lizard"), the most common suffix in dinosaur names. The type species is Albertosaurus sarcophagus; the specific name is derived from Ancient Greek σαρκοφάγος (sarkophagos) meaning "flesh-eating" and having the same etymology as the funeral container with which it shares its name: a combination of the Greek words σαρξ/sarx ("flesh") and φαγειν/phagein ("to eat").[16] More than thirty specimens of all ages are known to science.[3][13]
+Early discoveries[edit]
+The type specimen is a partial skull, collected in the summer of 1884 from an outcrop of the Horseshoe Canyon Formation alongside the Red Deer River, in Alberta. This specimen, found on June 9, 1884, was recovered by an expedition of the Geological Survey of Canada, led by the famous geologist Joseph Burr Tyrrell. Due to a lack of specialised equipment the almost complete skull could only be partially secured. In 1889, Tyrell's colleague Thomas Chesmer Weston found an incomplete smaller skull associated with some skeletal material at a location nearby.[17] The two skulls were assigned to the preexisting species Laelaps incrassatus by Edward Drinker Cope in 1892,[18] although the name Laelaps was preoccupied by a genus of mite and had been changed to Dryptosaurus in 1877 by Othniel Charles Marsh. Cope refused to recognize the new name created by his archrival Marsh, however, Lawrence Lambe instead of Laelaps incrassatus used the name Dryptosaurus incrassatus when he described the remains in detail in 1903 and 1904,[19][20] a combination first coined by Oliver Perry Hay in 1902.[21] Shortly later, Osborn pointed out that D. incrassatus was based on generic tyrannosaurid teeth, so the two Horseshoe Canyon skulls could not be confidently referred to that species. The Horseshoe Canyon skulls also differed markedly from the remains of D. aquilunguis, type species of Dryptosaurus, so Osborn created the new name Albertosaurus sarcophagus for them in 1905. He did not describe the remains in any great detail, citing Lambe's complete description the year before.[16] Both specimens (the holotype CMN 5600 and the paratype CMN 5601) are stored in the Canadian Museum of Nature in Ottawa. By the early twenty-first century some concerns had arisen that, due to the damaged state of the holotype, Albertosaurus might be a nomen dubium, a "dubious name" that could only be used for the type specimen itself because other fossils could not reliably be assigned to it. However, in 2010 Thomas Carr established that the holotype, the paratype and comparable later finds all shared a single common unique trait or autapomorphy: the possession of an enlarged pneumatic opening in the back rim of the side of the palatine bone, proving that Albertosaurus was a valid taxon.[22]
+Dry Island bonebed[edit]
+
+
+
+
+The Red Deer River near Drumheller, Alberta. Almost three-quarters of all Albertosaurus remains have been discovered alongside the river, in outcrops like the ones on either side of this picture.
+
+
+On August 11, 1910, American paleontologist Barnum Brown discovered the remains of a large group of Albertosaurus at another quarry alongside the Red Deer River. Because of the large number of bones and the limited time available, Brown's party did not collect every specimen, but made sure to collect remains from all of the individuals they could identify in the bonebed. Among the bones deposited in the American Museum of Natural History collections in New York City are seven sets of right metatarsals, along with two isolated toe bones that did not match any of the metatarsals in size. This indicated the presence of at least nine individuals in the quarry. The Royal Tyrrell Museum of Palaeontology rediscovered the bonebed in 1997 and resumed fieldwork at the site, which is now located inside Dry Island Buffalo Jump Provincial Park.[7] Further excavation from 1997 to 2005 turned up the remains of thirteen more individuals of various ages, including a diminutive two-year-old and a very old individual estimated at over 10 metres (33 ft) in length. None of these individuals are known from complete skeletons, and most are represented by remains in both museums.[3][4] Excavations continued until 2008, when the minimum number of individuals present had been established at twelve, on the basis of preserved elements that occur only once in a skeleton, and at twenty-six if mirrored elements were counted when differing in size due to ontogeny. A total of 1128 Albertosaurus bones had been secured, the largest concentration of large theropod fossils known from the Cretaceous.[23]
+Gorgosaurus libratus[edit]
+In 1913, paleontologist Charles H. Sternberg recovered another tyrannosaurid skeleton from the slightly older Dinosaur Park Formation in Alberta. Lawrence Lambe named this dinosaur Gorgosaurus libratus in 1914.[24] Other specimens were later found in Alberta and the US state of Montana. Finding, largely due to a lack of good Albertosaurus skull material, no significant differences to separate the two taxa, Dale Russell declared the name Gorgosaurus a junior synonym of Albertosaurus, which had been named first, and G. libratus was renamed Albertosaurus libratus in 1970. A species distinction was maintained because of the age difference. This addition extended the temporal range of the genus Albertosaurus backwards by several million years and its geographic range southwards by hundreds of kilometres.[1]
+In 2003, Philip J. Currie, benefiting from much more extensive finds and a general increase in anatomical knowledge of theropods, compared several tyrannosaurid skulls and came to the conclusion that the two species are more distinct than previously thought. The decision to use one or two genera is rather arbitrary, as the two species are sister taxa, more closely related to each other than to any other species. Recognizing this, Currie nevertheless recommended that Albertosaurus and Gorgosaurus be retained as separate genera, as he concluded that they were no more similar than Daspletosaurus and Tyrannosaurus, which are almost always separated. In addition, several albertosaurine specimens have been recovered from Alaska and New Mexico, and Currie suggested that the Albertosaurus-Gorgosaurus situation may be clarified once these are described fully.[13] Most authors have followed Currie's recommendation,[2][4][25] but some have not.[15]
+Other discoveries[edit]
+
+
+
+
+Maxilla at Museum of the Rockies
+
+
+In 1911 Barnum Brown, during the second year of American Museum of Natural History operations in Alberta, uncovered a fragmentary partial Albertosaurus skull at the Red Deer River near Tolman Bridge, specimen AMNH 5222.[26]
+William Parks described a new species in 1928, Albertosaurus arctunguis, based on a partial skeleton lacking the skull excavated by Gus Lindblad and Ralph Hornell near the Red Deer River in 1923,[27] but this species has been considered identical to A. sarcophagus since 1970.[1] Parks' specimen (ROM 807) is housed in the Royal Ontario Museum in Toronto.
+Between 1926 and 1972, no Albertosaurus fossils were found at all but since the seventies there has been a steady increase in the known material. Apart from the Dry Island bonebed, six more skulls and skeletons have since been discovered in Alberta and are housed in various Canadian museums: specimens RTMP 81.010.001, found in 1978 by amateur paleontologist Maurice Stefanuk; RTMP 85.098.001, found by Stefanuk on 16 June 1985; RTMP 86.64.001 (December 1985); RTMP 86.205.001 (1986); RTMP 97.058.0001 (1996); and CMN 11315. Due to vandalism and accidents however, no undamaged and complete skulls could be secured among these finds.[17] Fossils have also been reported from the American states of Montana, New Mexico, and Wyoming, but these probably do not represent A. sarcophagus and may not even belong to the genus Albertosaurus.[2][13]
+Other species[edit]
+Apart from A. sarcophagus, A. arctunguis and A. libratus, several other species of Albertosaurus have been named. All of these are today seen as younger synonyms of other species or as nomina dubia, and are not assigned to Albertosaurus.
+In 1930, Anatoly Nikolaevich Riabinin named Albertosaurus pericolosus based on a tooth from China, probably belonging to Tarbosaurus.[28] Friedrich von Huene renamed Dryptosaurus incrassatus, not considered a nomen dubium by him, to Albertosaurus incrassatus in 1932.[29] Because he had identified Gorgosaurus with Albertosaurus, Russell in 1970 also renamed Gorgosaurus sternbergi Matthew & Brown 1922 into a Albertosaurus sternbergi and Gorgosaurus lancensis Gilmore 1946 into a Albertosaurus lancensis.[1] The former species is today seen as a juvenile form of Gorgosaurus libratus, the latter as either identical to Tyrannosaurus or representing a separate genus Nanotyrannus. Albertosaurus megagracilis was in 1988 based by Gregory S. Paul on a small tyrannosaurid skeleton, specimen LACM 28345, from the Hell Creek Formation of Montana.[30] It was renamed Dinotyrannus in 1995,[31] but is now thought to represent a juvenile Tyrannosaurus rex.[8] Also in 1988, Paul renamed Alectrosaurus olseni Gilmore 1933 into a Albertosaurus olseni;[30] this has found no general acceptance. In 1989, Gorgosaurus novojilovi Maleev 1955 was by Bryn Mader and Robert Bradley[disambiguation needed] renamed into a Albertosaurus novojilovi;[32] today this is seen as a synonym of Tarbosaurus.
+On two occasions species based on valid Albertosaurus material were reassigned to a different genus: in 1922 William Diller Matthew renamed A. sarcophagus into Deinodon sarcophagus[33] and in 1939 German paleontologist Oskar Kuhn renamed A. arctunguis into Deinodon arctunguis.[34]
+Paleobiology[edit]
+Growth pattern[edit]
+
+
+
+
+A graph showing the hypothesized growth curves (body mass versus age) of four tyrannosaurids, with Albertosaurus drawn in red[4]
+
+
+Most age categories of Albertosaurus are represented in the fossil record. Using bone histology, the age of an individual animal at the time of death can often be determined, allowing growth rates to be estimated and compared with other species. The youngest known Albertosaurus is a two-year-old discovered in the Dry Island bonebed, which would have weighed about 50 kilograms (110 lb) and measured slightly more than 2 metres (7 ft) in length. The 10 metre (33 ft) specimen from the same quarry is the oldest and largest known, at 28 years of age. When specimens of intermediate age and size are plotted on a graph, an S-shaped growth curve results, with the most rapid growth occurring in a four-year period ending around the sixteenth year of life, a pattern also seen in other tyrannosaurids. The growth rate during this phase was 122 kilograms (268 lb) per year, based on an adult 1.3 tonnes (1.4 short tons). Other studies have suggested higher adult weights; this would affect the magnitude of the growth rate but not the overall pattern. Tyrannosaurids similar in size to Albertosaurus had similar growth rates, although the much larger Tyrannosaurus rex grew almost five times faster (601 kilograms [1325 lb] per year) at its peak.[3] The end of the rapid growth phase suggests the onset of sexual maturity in Albertosaurus, although growth continued at a slower rate throughout the animals' lives.[3][4] Sexual maturation while still actively growing appears to be a shared trait among small[35] and large[36] dinosaurs as well as in large mammals such as humans and elephants.[36] This pattern of relatively early sexual maturation differs strikingly from the pattern in birds, which delay their sexual maturity until after they have finished growing.[25][36]
+During growth, through thickening the tooth morphology changed so much that, had the association of young and adult skeletons on the Dry Island bonebed not proven they belonged to the same taxon, the teeth of juveniles would likely have been identified by statistical analysis as those of a different species.[37]
+Life history[edit]
+Most known Albertosaurus individuals were aged 14 years or more at the time of death. Juvenile animals are rarely found as fossils for several reasons, mainly preservation bias, where the smaller bones of younger animals were less likely to be preserved by fossilization than the larger bones of adults, and collection bias, where smaller fossils are less likely to be noticed by collectors in the field.[38] Young Albertosaurus are relatively large for juvenile animals, but their remains are still rare in the fossil record compared with adults. It has been suggested that this phenomenon is a consequence of life history, rather than bias, and that fossils of juvenile Albertosaurus are rare because they simply did not die as often as adults did.[3]
+A hypothesis of Albertosaurus life history postulates that hatchlings died in large numbers, but have not been preserved in the fossil record due to their small size and fragile construction. After just two years, juveniles were larger than any other predator in the region aside from adult Albertosaurus, and more fleet of foot than most of their prey animals. This resulted in a dramatic decrease in their mortality rate and a corresponding rarity of fossil remains. Mortality rates doubled at age twelve, perhaps the result of the physiological demands of the rapid growth phase, and then doubled again with the onset of sexual maturity between the ages of fourteen and sixteen. This elevated mortality rate continued throughout adulthood, perhaps due to the high physiological demands of procreation, including stress and injuries received during intraspecific competition for mates and resources, and eventually, the ever-increasing effects of senescence. The higher mortality rate in adults may explain their more common preservation. Very large animals were rare because few individuals survived long enough to attain such sizes. High infant mortality rates, followed by reduced mortality among juveniles and a sudden increase in mortality after sexual maturity, with very few animals reaching maximum size, is a pattern observed in many modern large mammals, including elephants, African buffalo, and rhinoceros. The same pattern is also seen in other tyrannosaurids. The comparison with modern animals and other tyrannosaurids lends support to this life history hypothesis, but bias in the fossil record may still play a large role, especially since more than two-thirds of all Albertosaurus specimens are known from one locality.[3][25][39]
+Pack behaviour[edit]
+The Dry Island bonebed discovered by Barnum Brown and his crew contains the remains of 26 Albertosaurus, the most individuals found in one locality of any large Cretaceous theropod, and the second-most of any large theropod dinosaur behind the Allosaurus assemblage at the Cleveland Lloyd Dinosaur Quarry in Utah. The group seems to be composed of one very old adult; eight adults between 17 and 23 years old; seven sub-adults undergoing their rapid growth phases at between 12 and 16 years old; and six juveniles between the ages of 2 and 11 years, who had not yet reached the growth phase.[3]
+
+
+
+
+Bronze sculptures of a pack, Royal Tyrell Museum, designed by Brian Cooley in 2007[40]
+
+
+The near-absence of herbivore remains and the similar state of preservation common to the many individuals at the Albertosaurus bonebed quarry led Currie to conclude that the locality was not a predator trap like the La Brea Tar Pits in California, and that all of the preserved animals died at the same time. Currie claims this as evidence of pack behaviour.[7] Other scientists are skeptical, observing that the animals may have been driven together by drought, flood or for other reasons.[3][38][41]
+There is plentiful evidence for gregarious behaviour among herbivorous dinosaurs, including ceratopsians and hadrosaurs.[42] However, only rarely are so many dinosaurian predators found at the same site. Small theropods like Deinonychus,[43] Coelophysis and Megapnosaurus (Syntarsus rhodesiensis)[44] have been found in aggregations, as have larger predators like Allosaurus and Mapusaurus.[45] There is some evidence of gregarious behaviour in other tyrannosaurids as well. Fragmentary remains of smaller individuals were found alongside "Sue," the Tyrannosaurus mounted in the Field Museum of Natural History in Chicago, and a bonebed in the Two Medicine Formation of Montana contains at least three specimens of Daspletosaurus, preserved alongside several hadrosaurs.[46] These findings may corroborate the evidence for social behaviour in Albertosaurus, although some or all of the above localities may represent temporary or unnatural aggregations.[7] Others have speculated that instead of social groups, at least some of these finds represent Komodo dragon-like mobbing of carcasses, where aggressive competition leads to some of the predators being killed and cannibalized.[38]
+Currie also offers speculation on the pack-hunting habits of Albertosaurus. The leg proportions of the smaller individuals were comparable to those of ornithomimids, which were probably among the fastest dinosaurs. Younger Albertosaurus were probably equally fleet-footed, or at least faster than their prey. Currie hypothesized that the younger members of the pack may have been responsible for driving their prey towards the adults, who were larger and more powerful, but also slower.[7] Juveniles may also have had different lifestyles than adults, filling predator niches between the enormous adults and the smaller contemporaneous theropods, the largest of which were two orders of magnitude smaller than adult Albertosaurus in mass.[2] A similar situation is observed in modern Komodo dragons, with hatchlings beginning life as small insectivores before growing to become the dominant predators on their islands.[47] However, as the preservation of behaviour in the fossil record is exceedingly rare, these ideas cannot readily be tested. In 2010, Currie, though still favouring the hunting pack hypothesis, admitted that the concentration could have been brought about by other causes, such as a slowly rising water level during an extended flood.[48]
+Paleopathology[edit]
+In 2009, researchers hypothesized that smooth-edged holes found in the fossil jaws of tyrannosaurid dinosaurs such as Albertosaurus were caused by a parasite similar to Trichomonas gallinae which infects birds.[49] They suggested that tyrannosaurids transmitted the infection by biting each other, and that the infection impaired their ability to eat food.[49]
+In 2001, Bruce Rothschild and others published a study examining evidence for stress fractures and tendon avulsions in theropod dinosaurs and the implications for their behavior. They found that only one of the 319 Albertosaurus foot bones checked for stress fractures actually had them and none of the four hand bones did. The scientists found that stress fractures were "significantly" less common in Albertosaurus than in the carnosaur Allosaurus.[50] ROM 807, the holotype of A. arctunguis (now referred to A. sarcophagus), had a 2.5 by 3.5 cm deep hole in the iliac blade, although the describer of the species did not recognize this as pathological. The specimen also contains some exostosis on the fourth left metatarsal. Two of the five Albertosaurus sarcophagus specimens with humeri in 1970 were reported by Dale Russel as having pathological damage to them.[51]
+In 2010, the health of the Dry Island Albertosaurus assembly was reported upon. Most specimens showed no sign of disease. On three phalanges of the foot strange bony spurs, consisting of abnormal ossifications of the tendons, so-called enthesophytes, were present, their cause unknown. Two ribs and a belly-rib showed signs of breaking and healing. One adult specimen had a left lower jaw showing a puncture wound and both healed and unhealed bite marks. The low number of abnormalities compares favourably with the health condition of a Majungasaurus population of which it in 2007 was established that 19% of individuals showed bone pathologies.[52]
+Paleoecology[edit]
+
+
+
+
+The Horseshoe Canyon Formation is exposed in its type section at Horseshoe Canyon, Alberta
+
+
+All identifiable fossils of Albertosaurus sarcophagus are known from the upper Horseshoe Canyon Formation in Alberta. These younger units of this geologic formation date to the early Maastrichtian stage of the Late Cretaceous Period, 70 to 68 Ma (million years ago). Immediately below this formation is the Bearpaw Shale, a marine formation representing a section of the Western Interior Seaway. The seaway was receding as the climate cooled and sea levels subsided towards the end of the Cretaceous, exposing land that had previously been underwater. It was not a smooth process, however, and the seaway would periodically rise to cover parts of the region throughout Horseshoe Canyon times before finally receding altogether in the years after. Due to the changing sea levels, many different environments are represented in the Horseshoe Canyon Formation, including offshore and near-shore marine habitats and coastal habitats like lagoons, estuaries and tidal flats. Numerous coal seams represent ancient peat swamps. Like most of the other vertebrate fossils from the formation, Albertosaurus remains are found in deposits laid down in the deltas and floodplains of large rivers during the later half of Horseshoe Canyon times.[53]
+The fauna of the Horseshoe Canyon Formation is well-known, as vertebrate fossils, including those of dinosaurs, are quite common. Sharks, rays, sturgeons, bowfins, gars and the gar-like Aspidorhynchus made up the fish fauna. Mammals included multituberculates and the marsupial Didelphodon. The saltwater plesiosaur Leurospondylus has been found in marine sediments in the Horseshoe Canyon, while freshwater environments were populated by turtles, Champsosaurus, and crocodilians like Leidyosuchus and Stangerochampsa. Dinosaurs dominate the fauna, especially hadrosaurs, which make up half of all dinosaurs known, including the genera Edmontosaurus, Saurolophus and Hypacrosaurus. Ceratopsians and ornithomimids were also very common, together making up another third of the known fauna. Along with much rarer ankylosaurians and pachycephalosaurs, all of these animals would have been prey for a diverse array of carnivorous theropods, including troodontids, dromaeosaurids, and caenagnathids.[53][54] Intermingled with the Albertosaurus remains of the Dry Island bonebed, the bones of the small theropod Albertonykus were found.[55] Adult Albertosaurus were the apex predators in this environment, with intermediate niches possibly filled by juvenile albertosaurs.[53]
+References[edit]
+
+
+^ a b c d Russell, Dale A. (1970). "Tyrannosaurs from the Late Cretaceous of western Canada". National Museum of Natural Sciences Publications in Paleontology 1: 1–34. 
+^ a b c d e f g Holtz, Thomas R. (2004). "Tyrannosauroidea". In Weishampel, David B.; Dodson, Peter; & Osmólska, Halszka (eds.). The Dinosauria (Second ed.). Berkeley: University of California Press. pp. 111–136. ISBN 0-520-24209-2. 
+^ a b c d e f g h i Erickson, Gregory M.; Currie, Philip. J.; Inouye, Brian D.; & Wynn, Alice A. (2006). "Tyrannosaur life tables: an example of nonavian dinosaur population biology". Science 313 (5784): 213–217. doi:10.1126/science.1125721. PMID 16840697. Retrieved 2010-08-29. 
+^ a b c d e Erickson, Gregory M., GM; Makovicky, Peter J.; Currie, Philip J.; Norell, Mark A.; Yerby, Scott A.; & Brochu, Christopher A. (2004). "Gigantism and comparative life-history parameters of tyrannosaurid dinosaurs". Nature 430 (7001): 772–775. doi:10.1038/nature02699. PMID 15306807. Retrieved 2010-08-29. 
+^ Christiansen, Per; & Fariña, Richard A. (2004). "Mass prediction in theropod dinosaurs". Historical Biology 16 (2-4): 85–92. doi:10.1080/08912960412331284313. 
+^ Thulborn, Richard A. (1982). "Speeds and gaits of dinosaurs". Palaeogeography, Palaeoclimatology, Palaeoecology 38 (3-4): 227−256. doi:10.1016/0031-0182(82)90005-0. 
+^ a b c d e Currie, Philip J. (1998). "Possible evidence of gregarious behavior in tyrannosaurids" (PDF). Gaia 15: 271–277. Archived from the original on 26 March 2009. Retrieved 2009-05-03.  (not printed until 2000)
+^ a b c Currie, Philip J. (2003). "Allometric growth in tyrannosaurids (Dinosauria: Theropoda) from the Upper Cretaceous of North America and Asia". Canadian Journal of Earth Sciences 40 (4): 651–665. doi:10.1139/e02-083. 
+^ Miriam Reichel, 2010, "The heterodonty of Albertosaurus sarcophagus and Tyrannosaurus rex: biomechanical implications inferred through 3-D models", Canadian Journal of Earth Sciences, 47: 1253-1261
+^ "Albertosaurus." In: Dodson, Peter; Britt, Brooks; Carpenter, Kenneth; Forster, Catherine A.; Gillette, David D.; Norell, Mark A.; Olshevsky, George; Parrish, J. Michael; & Weishampel, David B. The Age of Dinosaurs. Lincolnwood, IL: Publications International, Ltd., 1993. pp. 106-107. ISBN 0-7853-0443-6.
+^ a b c d e f g h i j Abler, W.L. 2001. A kerf-and-drill model of tyrannosaur tooth serrations. p. 84-89. In: Mesozioc Vertebrate Life. Ed.s Tanke, D. H., Carpenter, K., Skrepnick, M. W. Indiana University Press.
+^ a b Currie, Philip J.; Hurum, Jørn H; & Sabath, Karol (2003). "Skull structure and evolution in tyrannosaurid phylogeny" (PDF). Acta Palaeontologica Polonica 48 (2): 227–234. Archived from the original on 26 March 2009. Retrieved 2009-05-03. 
+^ a b c d Currie, Philip J. (2003). "Cranial anatomy of tyrannosaurids from the Late Cretaceous of Alberta" (PDF). Acta Palaeontologica Polonica 48 (2): 191–226. 
+^ Holtz, Thomas R. (2005-09-20). "RE: Burpee Conference (LONG)". Retrieved 2007-06-18. 
+^ a b Carr, Thomas D.; Williamson, Thomas E.; & Schwimmer, David R. (2005). "A new genus and species of tyrannosauroid from the Late Cretaceous (middle Campanian) Demopolis Formation of Alabama". Journal of Vertebrate Paleontology 25 (1): 119–143. doi:10.1671/0272-4634(2005)025[0119:ANGASO]2.0.CO;2. 
+^ a b c Osborn, Henry F. (1905). "Tyrannosaurus and other Cretaceous carnivorous dinosaurs". Bulletin of the American Museum of Natural History 21: 259–265. doi:10.1111/j.1468-5965.2007.00735_17.x. hdl:2246/1464. 
+^ a b Darren H. Tanke & Philip J. Currie, 2010, "A history of Albertosaurus discoveries in Alberta, Canada", Canadian Journal of Earth Sciences, 47: 1197-1211
+^ Cope, Edward D. (1892). "On the skull of the dinosaurian Laelaps incrassatus Cope". American Philosophical Society, Proceedings 30: 240–245. 
+^ Lambe, L.M., 1903, "On the lower jaw of Dryptosaurus incrassatus (Cope)", Ottawa Naturalist 17: 134
+^ Lambe, Lawrence M. (1904). "On Dryptosaurus incrassatus (Cope) from the Edmonton Series of the Northwest Territory". Contributions to Canadian Palaeontology 3: 1–27. Retrieved 2010-08-29. 
+^ Hay, Oliver Perry, 1902, Bibliography and Catalogue of the Fossil Vertebrata of North America. Bulletin of the United States Geological Survey, N° 117, Government Printing Office. pp 868
+^ Thomas D. Carr, 2010, "A taxonomic assessment of the type series of Albertosaurus sarcophagus and the identity of Tyrannosauridae (Dinosauria, Coelurosauria) in the Albertosaurus bonebed from the Horseshoe Canyon Formation (Campanian–Maastrichtian, Late Cretaceous", Canadian Journal of Earth Sciences, 47: 1213-1226
+^ David A. Eberth, & Philip J. Currie, 2010, "Stratigraphy, sedimentology, and taphonomy of the Albertosaurus bonebed (upper Horseshoe Canyon Formation; Maastrichtian), southern Alberta, Canada", Canadian Journal of Earth Sciences, 47: 1119-1143
+^ Lambe, Lawrence M. (1914). "On a new genus and species of carnivorous dinosaur from the Belly River Formation of Alberta, with a description of the skull of Stephanosaurus marginatus from the same horizon". Ottawa Naturalist 28: 13–20. 
+^ a b c Ricklefs, Robert E. (2007). "Tyrannosaur ageing". Biology Letters 3 (2): 214–217. doi:10.1098/rsbl.2006.0597. PMC 2375931. PMID 17284406. 
+^ Carpenter, K., 1992, "Tyrannosaurids (Dinosauria) of Asia and North America", In: N. Mateer and P.-J. Chen (eds.) Aspects of nonmarine Cretaceous geology. China Ocean Press, Beijing, China, pp. 250–268
+^ Parks, William A. (1928). "Albertosaurus arctunguis, a new species of therapodous dinosaur from the Edmonton Formation of Alberta". University of Toronto Studies, Geological Series 25: 1–42. 
+^ Riabinin, A.N., 1930. [In Russian] "On the age and fauna of the dinosaur beds on the Amur River", Memoirs of the Russian Mineralogical Society, 59(2): 41-51
+^ von Huene, F., 1932, Die fossile Reptil-Ordnung Saurischia: ihre Entwicklung und Geschichte. Monographie für Geologie und Palaeontologie, Parts I and II, ser. I, 4: 1-361
+^ a b Paul, Gregory S. (1988). Predatory Dinosaurs of the World. New York: Simon & Schuster. ISBN 978-0-671-61946-6. 
+^ Olshevsky, George. (1995). "(The origin and evolution of the tyrannosaurids.)". Kyoryugaku Saizensen (Dino Frontline) (in Japanese) 9: 92–119. 
+^ Mader B. and Bradley, R., 1989, "A redescription and revised diagnosis of the syntypes of the Mongolian tyrannosaur Alectrosaurus olseni", Journal of Vertebrate Paleontology 9(1): 41–55
+^ W.D. Matthew and B. Brown, 1922, "The family Deinodontidae, with notice of a new genus from the Cretaceous of Alberta", Bulletin of the American Museum of Natural History 46(6): 367-385
+^ Kuhn, O., 1939, Saurischia — Fossilium catalogus I, Animalia, Pars 87. 's-Gravenhage, W. Junk, 1939, 124 pp
+^ Erickson, Gregory M.; Curry Rogers, Kristi; Varricchio, David J.; Norell, Mark.; & Xu, Xing (2007). "Growth patterns in brooding dinosaurs reveals the timing of sexual maturity in non-avian dinosaurs and genesis of the avian condition". Biology Letters 3 (5): 558–561. doi:10.1098/rsbl.2007.0254. PMC 2396186. PMID 17638674. 
+^ a b c Lee, Andrew H.; Werning, Sarah (2008). "Sexual maturity in growing dinosaurs does not fit reptilian growth models". PNAS 105 (2): 582–587. doi:10.1073/pnas.0708903105. PMC 2206579. PMID 18195356. 
+^ Lisa G. Buckley, Derek W. Larson, Miriam Reichel, Tanya Samman, 2010, "Quantifying tooth variation within a single population of Albertosaurus sarcophagus (Theropoda: Tyrannosauridae) and implications for identifying isolated teeth of tyrannosaurids", Canadian Journal of Earth Sciences, 47: 1227-1251
+^ a b c Roach, Brian T.; & Brinkman, Daniel T. (2007). "A reevaluation of cooperative pack hunting and gregariousness in Deinonychus antirrhopus and other nonavian theropod dinosaurs". Bulletin of the Peabody Museum of Natural History 48 (1): 103–138. doi:10.3374/0079-032X(2007)48[103:AROCPH]2.0.CO;2. 
+^ Gregory M. Erickson, Philip J. Currie, Brian D. Inouye, Alice A. Winn, 2010, "A revised life table and survivorship curve for Albertosaurus sarcophagus based on the Dry Island mass death assemblage", Canadian Journal of Earth Sciences, 47: 1269-1275
+^ Darren H. Tanke, 2011, "A History of Albertosaurus-related Popular Culture Events and Activities in Canada", Alberta Palæontological Society Bulletin 26(2): 12-30
+^ Eberth, David A.; & McCrea, Richard T. (2001). "Were large theropods gregarious?". Journal of Vertebrate Paleontology 21 (Supplement to 3 - Abstracts of Papers, 61st Annual Meeting of the Society of Vertebrate Paleontology): 46A. (published abstract only)
+^ Horner, John R. (1997). "Behavior". In Currie, Philip J.; & Padian, Kevin (eds.). Encyclopedia of Dinosaurs. San Diego: Academic Press. pp. 45–50. ISBN 0-12-226810-5. 
+^ Maxwell, W. Desmond; & Ostrom, John H. (1995). "Taphonomy and paleobiological implications of Tenontosaurus-Deinonychus associations". Journal of Vertebrate Paleontology 15 (4): 707–712. doi:10.1080/02724634.1995.10011256. 
+^ Raath, Michael A. (1990). "Morphological variation in small theropods and its meaning in systematics: evidence from Syntarsus rhodesiensis". In Carpenter, Kenneth & Currie, Philip J. Dinosaur Systematics: Approaches and Perspectives. Cambridge: Cambridge University Press. pp. 91–105. ISBN 0-521-43810-1. 
+^ Coria, Rodolfo A.; & Currie, Philip J. (2006). "A new carcharodontosaurid (Dinosauria, Theropoda) from the Upper Cretaceous of Argentina" (PDF). Geodiversitas 28 (1): 71–118. Archived from the original on 26 March 2009. Retrieved 2009-05-03. 
+^ Currie, Philip J.; Trexler, David; Koppelhus, Eva B.; Wicks, Kelly; & Murphy, Nate. (2005). "An unusual multi-individual tyrannosaurid bonebed in the Two Medicine Formation (Late Cretaceous, Campanian) of Montana (USA)". In Carpenter, Kenneth (ed.). The Carnivorous Dinosaurs. Bloomington: Indiana University Press. pp. 313–324. ISBN 978-0-253-34539-4. 
+^ Auffenberg, Walter (2000). The Behavioral Ecology of the Komodo Monitor. Gainesville: University Press of Florida. ISBN 978-0-8130-0621-5. 
+^ Philip J. Currie, David A. Eberth, 2010, "On gregarious behavior in Albertosaurus", Canadian Journal of Earth Sciences, 47: 1277-1289
+^ a b Wolff, Ewan D. S.; Salisbury, Steven W.; Horner, John R.; & Varricchio, David J. (2009). "Common avian infection plagued the tyrant dinosaurs". In Hansen, Dennis Marinus. PLoS ONE 4 (9): e7288. doi:10.1371/journal.pone.0007288. PMC 2748709. PMID 19789646. 
+^ Rothschild, B., Tanke, D. H., and Ford, T. L., 2001, Theropod stress fractures and tendon avulsions as a clue to activity: In: Mesozoic Vertebrate Life, edited by Tanke, D. H., and Carpenter, K., Indiana University Press, p. 331-336.
+^ Molnar, R. E., 2001, Theropod paleopathology: a literature survey: In: Mesozoic Vertebrate Life, edited by Tanke, D. H., and Carpenter, K., Indiana University Press, p. 337-363.
+^ Phil R. Bell, 2010, "Palaeopathological changes in a population of Albertosaurus sarcophagus from the Upper Cretaceous Horseshoe Canyon Formation of Alberta, Canada", Canadian Journal of Earth Sciences, 47: 1263-1268
+^ a b c Eberth, David A. (1997). "Edmonton Group". In Currie, Philip J. & Padian, Kevin (eds.). Encyclopedia of Dinosaurs. San Diego: Academic Press. pp. 199–204. ISBN 0-12-226810-5. 
+^ Derek W. Larson, Donald B. Brinkman, Phil R. Bell, 2010, "Faunal assemblages from the upper Horseshoe Canyon Formation, an early Maastrichtian cool-climate assemblage from Alberta, with special reference to the Albertosaurus sarcophagus bonebed", Canadian Journal of Earth Sciences, 47: 1159-1181
+^ Longrich, Nicholas R.; and Currie, Philip J. (2009). "Albertonykus borealis, a new alvarezsaur (Dinosauria: Theropoda) from the Early Maastrichtian of Alberta, Canada: Implications for the systematics and ecology of the Alvarezsauridae". Cretaceous Research 30 (1): 239–252. doi:10.1016/j.cretres.2008.07.005. 
+
+
+External links[edit]
+
+
+
+Wikimedia Commons has media related to Albertosaurus.
+
+
+
+
+
+
+Dinosaurs portal
+
+
+
+
+American Museum of Natural History, Division of Paleontology. Search results for "Albertosaurus" in the Collections Database. Sample entries:
+
+AMNH 5218 (numerous pictures of bones included)
+AMNH 5226 (pictures of a series of tail vertebrae included)
+
+
+Bureau of Land Management, New Mexico State Office. Operation Dino-Lift. Summarizes the excavation and transport by helicopter of a possible Albertosaurus skeleton; however, per Carr & Williamson (2010), specimen may later have been assigned to Bistahieversor.
+Dykens, Margaret; & Gillette, Lynett. Fossil Mysteries Field Guide: Albertosaurus. San Diego Natural History Museum.
+Geological Survey of Canada. Past lives: Chronicles of Canadian Paleontology. Tyrrell and Albertosaurus. About the discovery of the holotype skull of A. sarcophagus. 2008-02-07.
+Hanson, Michael. A. sarcophagus. (Skeletal drawing from The Grave Yard: A Skeletal Reconstructions Database, 2007.)
+Mortimer, Mickey. Albertosaurus Osborn, 1905. (List of specimens from The Theropod Database.)
+
+
+      
+
+
+ 
+NewPP limit report
+CPU time usage: 6.352 seconds
+Real time usage: 6.879 seconds
+Preprocessor visited node count: 33231/1000000
+Preprocessor generated node count: 60307/1500000
+Post‐expand include size: 198532/2048000 bytes
+Template argument size: 118640/2048000 bytes
+Highest expansion depth: 39/40
+Expensive parser function count: 1/500
+Lua time usage: 0.128s
+Lua memory usage: 2.64 MB
+
+
+ Saved in parser cache with key enwiki:pcache:idhash:1367-0!*!0!!en!4!* and timestamp 20131002085032 
+								
+				Retrieved from "http://en.wikipedia.org/w/index.php?title=Albertosaurus&oldid=575003382"				
+												Categories: Cretaceous dinosaursDinosaurs of North AmericaTyrannosaursHidden categories: Wikipedia indefinitely move-protected pagesArticles with 'species' microformatsArticles with links needing disambiguation from June 2012Featured articles												
+							
+		
+		
+			Navigation menu
+			
+				
+	Personal tools
+	
+Create accountLog in	
+
+				
+					
+	Namespaces
+	
+					Article
+					Talk
+			
+
+
+	
+		
+	Variants
+	
+		
+					
+	
+
+				
+				
+					
+	Views
+	
+					Read
+					Edit
+					View history
+			
+
+
+	Actions
+	
+		
+					
+	
+
+
+	Search
+	
+				
+																				
+		
+	
+
+				
+			
+			
+					
+				
+	Navigation
+	
+		
+			Main page
+			Contents
+			Featured content
+			Current events
+			Random article
+			Donate to Wikipedia
+		
+	
+
+
+	Interaction
+	
+		
+			Help
+			About Wikipedia
+			Community portal
+			Recent changes
+			Contact page
+		
+	
+
+
+	Toolbox
+	
+		
+			What links here
+			Related changes
+			Upload file
+			Special pages
+			Permanent link
+			Page information
+			Data item
+Cite this page		
+	
+
+
+	Print/export
+	
+		
+			Create a book
+			Download as PDF
+			Printable version
+		
+	
+
+
+	Languages
+	
+		
+			العربية
+			Català
+			Česky
+			Deutsch
+			Español
+			Esperanto
+			Français
+			한국어
+			हिन्दी
+			Bahasa Indonesia
+			Italiano
+			עברית
+			Basa Jawa
+			Latviešu
+			Lietuvių
+			Magyar
+			Nederlands
+			日本語
+			Norsk bokmål
+			Occitan
+			ଓଡ଼ିଆ
+			Polski
+			Português
+			Русский
+			Simple English
+			Slovenčina
+			Suomi
+			Svenska
+			தமிழ்
+			ไทย
+			Українська
+			Tiếng Việt
+			中文
+			
+			Edit links
+		
+	
+
+			
+		
+		
+							
+											 This page was last modified on 29 September 2013 at 14:03.
+											Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. 
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+									
+							
+											Privacy policy
+											About Wikipedia
+											Disclaimers
+											Contact Wikipedia
+											Developers
+											Mobile view
+									
+										
+					
+						
+					
+					
+						
+					
+				
+						
+		
+		
+
+
+ Served by mw1051 in 0.212 secs. 
+	
+if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Albertosaurus","wgTitle":"Albertosaurus","wgCurRevisionId":575003382,"wgArticleId":1367,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Wikipedia indefinitely move-protected pages","Articles with 'species' microformats","Articles with links needing disambiguation from June 2012","Featured articles","Cretaceous dinosaurs","Dinosaurs of North America","Tyrannosaurs"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Albertosaurus","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":["sysop"],"wgVectorEnabledModules":{"collapsiblenav":true,"experiments":true},"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"templateEditor":false,"templates":false,"preview":false,"previewDialog":false,"publish":false,"toc":false},"wgArticleFeedbackv5Permissions":{"aft-reader":true,"aft-member":false,"aft-editor":false,"aft-monitor":false,"aft-administrator":false,"aft-oversighter":false,"aft-noone":false},"wgVisualEditor":{"isPageWatched":false,"magnifyClipIconURL":"//bits.wikimedia.org/static-1.22wmf18/skins/common/images/magnify-clip.png","pageLanguageCode":"en","pageLanguageDir":"ltr"},"wikilove-recipient":"","wikilove-anon":0,"wgGuidedTourHelpGuiderUrl":"Help:Guided tours/guider","wgULSAcceptLanguageList":[],"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia","aftv5Article":{"id":1367,"title":"Albertosaurus","namespace":0,"categories":["Articles with 'species' microformats","Articles with links needing disambiguation from June 2012","Cretaceous dinosaurs","Dinosaurs of North America","Featured articles","Tyrannosaurs","Wikipedia indefinitely move-protected pages"],"permissionLevel":false},"wgWikibaseItemId":"Q40751"});
+}if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":false,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,
+"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"useeditwarning":1,"prefershttps":1,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"vector-simplesearch":1,"vector-collapsiblenav":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"aftv5-last-filter":null,"visualeditor-enable":0,"visualeditor-enable-experimental":0,"visualeditor-betatempdisable":0,"wikilove-enabled":1,"echo-subscriptions-web-page-review":true,"echo-subscriptions-email-page-review":false,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"echo-notify-show-link":true,"echo-show-alert":true,"echo-email-frequency":0,"echo-email-format":"html","echo-subscriptions-email-system":true,"echo-subscriptions-web-system":true,"echo-subscriptions-email-other":false,"echo-subscriptions-web-other":true,"echo-subscriptions-email-edit-user-talk":false,"echo-subscriptions-web-edit-user-talk":true,
+"echo-subscriptions-email-reverted":false,"echo-subscriptions-web-reverted":true,"echo-subscriptions-email-article-linked":false,"echo-subscriptions-web-article-linked":false,"echo-subscriptions-email-mention":false,"echo-subscriptions-web-mention":true,"echo-subscriptions-web-edit-thank":true,"echo-subscriptions-email-edit-thank":false,"gettingstarted-task-toolbar-show-intro":true,"uls-preferences":"","language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs446":false,"searchNs447":false
+,"searchNs710":false,"searchNs711":false,"searchNs828":false,"searchNs829":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-mySandbox":1,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:156d8fe0ae17f8afd74198057563e45d */
+}if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","ext.visualEditor.viewPageTarget.init","ext.wikimediaShopLink.core","ext.uls.init","ext.uls.interface","wikibase.client.init","ext.centralNotice.bannerController","skins.vector.js"]);
+}/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}if(window.mw){
+mw.loader.load(["mobile.desktop","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.cite","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","mw.MwEmbedSupport.style","ext.vector.collapsibleNav","ext.articleFeedbackv5.startup","ext.gettingstarted.logging","ext.gettingstarted.openTask","schema.HttpsSupport","ext.coreEvents.httpsSupport","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","mw.PopUpMediaTransform"],null,true);
+}

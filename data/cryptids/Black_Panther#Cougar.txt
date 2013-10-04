@@ -1,0 +1,378 @@
+
+
+
+Black panther - Wikipedia, the free encyclopedia
+
+
+
+
+
+
+
+
+
+
+
+
+a:lang(ar),a:lang(ckb),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:0de201fdea5d684523607ed88007b127 */
+
+
+
+
+[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.22wmf17/skins/vector/csshover.min.htc")}</style><![endif]
+
+		
+		
+		
+			
+			
+						 CentralNotice 
+						Black panther
+			
+								From Wikipedia, the free encyclopedia
+								  (Redirected from Black Panther)
+												
+					Jump to:					navigation, 					search
+				
+				This article is about the animal.  For other uses, see Black Panther (disambiguation).  For people associated with the American political party, see Black Panther Party.
+
+
+
+
+A melanistic jaguar at the Henry Doorly Zoo. Melanism is the result of a dominant allele and remains relatively rare in jaguars.
+
+
+A black panther is typically a melanistic color variant of any of several species of larger cat. In the Americas, wild 'black panthers' may be black jaguars (Panthera onca), while in Asia and Africa, black leopards (Panthera pardus); in Asia, possibly the very rare black tigers (Panthera tigris). Smaller wild cats, like jaguarundi, may also be black.
+Captive black panthers may be black jaguars, or more commonly black leopards.
+
+
+Contents
+
+
+1 Melanism
+2 Leopard
+
+2.1 In captivity
+
+
+3 Jaguar
+4 Cougar
+5 Reports of black panthers
+
+5.1 Reports of black panthers in Australia
+
+
+6 Pseudo-melanism
+7 References
+8 External links
+
+
+Melanism[edit]
+Melanism in the jaguar (Panthera onca) is conferred by a dominant allele, and in the leopard (Panthera pardus) by a recessive allele. Close examination of the color of these black cats will show that the typical markings are still present, but are hidden by the excess black pigment melanin, giving an effect similar to that of printed silk. This is called "ghost striping". Melanistic and non-melanistic animals can be littermates. It is thought that melanism may confer a selective advantage under certain conditions since it is more common in regions of dense forest, where light levels are lower. Recent, preliminary studies also suggest that melanism might be linked to beneficial mutations in the immune system.[1]
+Leopard[edit]
+
+
+
+
+A melanistic leopard
+
+
+Black panthers are reported in most densely forested areas in southwestern China, Myanmar, Assam and Nepal, from Travancore and other parts of southern India, and are said to be common in Java and the southern part of the Malay Peninsula where they may be more numerous than spotted panthers.[2] They are less common in tropical Africa, but have been reported in Ethiopia (formerly Abyssinia), in the forests of Mount Kenya and in the Aberdares. One was recorded by Peter Turnbull-Kemp[clarification needed] in the equatorial forest of Cameroon. Fur color is a mixture of blue, black, gray, and purple.
+In captivity[edit]
+Melanistic leopards are the most common form of black panther in captivity and they have been selectively bred for decades in the zoo and exotic pet trades. Currently there are 3 black leopards at Rhino & Lion Nature Reserve, Kromdraai. South Africa.
+
+
+
+
+Note the markings on this female black leopard. Pic courtesy: Gary Whyte
+
+
+According to Funk and Wagnalls' Wildlife Encyclopedia, captive black leopards[3] are less fertile than normal leopards, with average litter sizes of 1.8 and 2.1, respectively. This is likely due to inbreeding depression.
+In the early 1980s, Glasgow Zoo acquired a 10-year-old black leopard, nicknamed the Cobweb Panther, from Dublin Zoo. She was exhibited for several years before being moved to the Madrid Zoo. This leopard had a uniformly black coat profusely sprinkled with white hairs as though draped with spider webs. The condition appeared to be vitiligo; as she aged, the white became more extensive.[citation needed] Since then, other "cobweb panthers" have been reported and photographed in zoos.
+Jaguar[edit]
+
+
+
+
+A melanistic jaguar
+
+
+In jaguars, the melanism allele is dominant. Consequently, black jaguars may produce either black or spotted cubs, but a pair of spotted jaguars can only produce spotted cubs. The gene is incompletely dominant: individuals with two copies of the allele are darker (the black background color is more dense) than individuals with just one copy, whose background color may appear to be dark charcoal rather than black.
+The black jaguar was considered a separate species by indigenous peoples. W H Hudson wrote
+
+The jaguar is a beautiful creature, the ground-color of the fur a rich golden-red tan, abundantly marked with black rings, enclosing one or two small spots within. This is the typical coloring, and it varies little in the temperate regions; in the hot region the Indians recognise three strongly marked varieties, which they regard as distinct species – the one described; the smaller jaguar, less aquatic in his habits and marked with spots, not rings; and, thirdly, the black variety. They scout the notion that their terrible "black tiger" is a mere melanic variation, like the black leopard of the Old World and the wild black rabbit. They regard it as wholly distinct, and affirm that it is larger and much more dangerous than the spotted jaguar; that they recognise it by its cry; that it belongs to the terra firma rather than to the water-side; finally, that black pairs with black, and that the cubs are invariably black. Nevertheless, naturalists have been obliged to make it specifically one with Felis onca [Panthera onca], the familiar spotted jaguar, since, when stripped of its hide, it is found to be anatomically as much like that beast as the black is like the spotted leopard.[4]
+
+A black jaguar named "Diablo" was inadvertently crossed with a lioness named "Lola" at the Bear Creek Wildlife Sanctuary in Barrie, Canada.[5] The offspring were a charcoal black jaglion female and a tan-colored, spotted jaglion male. It therefore appears that the jaguar melanism gene is also dominant over normal lion coloration (the black jaguar sire was presumably carrying the black on only one allele). In preserved, stuffed specimens, black leopards often fade to a rusty color but black jaguars fade to a chocolate brown color.[citation needed]
+Cougar[edit]
+There are no authenticated cases of truly melanistic cougars (pumas). Melanistic cougars have never been photographed or shot in the wild and none has ever been bred. Unconfirmed sightings, known as the "North American black panther", are currently attributed to errors in species identification by non-experts, and by the memetic exaggeration of size. Black panthers in the American Southeast feature prominently in Choctaw folklore where, along with the owl, they are often thought to symbolize Death.
+In his Histoire Naturelle (1749), Georges-Louis Leclerc, Comte de Buffon, wrote of the "Black Cougar":[6]
+
+"M. de la Borde, King’s physician at Cayenne, informs me, that in the [South American] Continent there are three species of rapacious animals; that the first is the jaguar, which is called the tiger; that the second is the couguar  [sic], called the red tiger, on account of the uniform redness of his hair; that the jaguar is of the size of a large bull-dog, and weighs about 200 pounds [90 kg]; that the cougar is smaller, less dangerous, and not so frequent in the neighbourhood of Cayenne as the jaguar; and that both these animals take six years in acquiring their full growth. He adds, that there is a third species in these countries, called the black tiger, of which we have given a figure under the appellation of the black cougar. The head is pretty similar to that of the common cougar; but the animal has long black hair, and likewise a long tail, with strong whiskers. He weighs not much above forty pounds [18 kg]. The female brings forth her young in the hollows of old trees."
+
+This "black cougar" was most likely a margay or ocelot, which are under 40 pounds (18 kg) in weight, live in trees, and do have melanistic phases.
+Another description of a black cougar[7] was provided by Thomas Pennant:
+
+Black tiger, or cat, with the head black, sides, fore part of the legs, and the tail, covered with short and very glossy hairs, of a dusky color, sometimes spotted with black, but generally plain: Upper lips white: At the corner of the mouth a black spot: Long hairs above each eye, and long whiskers on the upper lip: Lower lip, throat, belly, and the inside of the legs, whitish, or very pale ash-color: Paws white: Ears pointed: Grows to the size of a heifer of a year old: Has vast strength in its limbs.-- Inhabits Brasil and Guiana: Is a cruel and fierce beast; much dreaded by the Indians; but happily is a scarce species.
+
+According to his translator Smellie (1781), the description was taken from two black cougars exhibited in London some years previously.
+Reports of black panthers[edit]
+Reports of black panthers in Australia[edit]
+Black panther sightings are frequently recorded in rural Victoria and New South Wales[8] and Western Australia. The Australian "phantom panthers" are said to be responsible for the disappearances and deaths of numerous cats, dogs and livestock.
+Animal X Natural Mysteries Unit led an investigation into the phantom panther. Mike Williams, a local researcher, said he had sent feces and hair found by locals to labs for analysis, which identified it as feces from dogs that had feasted on swamp wallaby, and hair from a domestic cat. Mr Williams said he also had leopard feces and hair collected from a private zoo tested by one of the same labs, but that these samples came back with the same results of dog feces and domestic cat hair. The lab used was not identified in the episode.[9]
+Pseudo-melanism[edit]
+Pseudo-melanism (abundism) occurs in leopards. A pseudo-melanistic leopard has a normal background color, but the spots are more densely packed than normal and merge to obscure the golden-brown background color. Any spots on the flanks and limbs that have not merged into the mass of swirls and stripes are unusually small and discrete, rather than forming rosettes. The face and underparts are paler and dappled like those of ordinary spotted leopards.[10]
+
+
+
+
+Male Persian leopard with an atypical coat pattern (Wilhelma, Germany)
+
+
+Richard Lydekker described specimens of pseudo-melanistic leopards found in South Africa in the late nineteenth century:[11]
+
+The ground-color of this animal was a rich tawny, with an orange tinge; but the spots, instead of being of the usual rosette-like form, were nearly all small and solid, like those on the head of an ordinary leopard; while from the top of the head to near the root of the tail the spots became almost confluent, producing the appearance of a broad streak of black running down the back. A second skin had the black area embracing nearly the whole of the back and flanks, without showing any trace of the spots. These dark-coloured South African leopards differ from the black leopards of the northern and eastern parts of Africa and Asia in that while in the latter the rosette-like spots are always retained and clearly visible, in the former the rosettes are lost...
+—Lydekker, R. (1910), Harmsworth Natural History
+
+Most other color morphs of leopards are known only from paintings or museum specimens. In May 1936, the British Natural History Museum exhibited the mounted skin of an unusual Somali leopard.[11] The pelt was richly decorated with an intricate pattern of swirling stripes, blotches, curls and fine-line traceries. This is different from a spotted leopard, but similar to a king cheetah, hence the modern cryptozoology term king leopard. Between 1885 and 1934, six pseudo-melanistic leopards were recorded in the Albany and Grahamstown districts of South Africa.[11] This indicated a mutation in the local leopard population. Other king leopards have been recorded from Malabar in southwestern India.[11] Shooting for trophies may have contributed to the loss of these populations.
+References[edit]
+
+
+^ Sunquist, F. (December 2007). "Malaysian Mystery Leopards". National Wildlife Magazine 45 (1). 
+^ Kawanishi, K.; Sunquist, M.E., Eizirik, E., Lynam, A.J., Ngoprasert, D., Shahruddin, W.N.W., Rayan, D.M, Sharma, D.S.K., & R. Steinmetz (18). "Near fixation of melanism in panthers of the Malay Peninsula". Journal of Zoology 282: 201–206. doi:10.1111/j.1469-7998.2010.00731.x. 
+^ Funk and Wagnalls' Wildlife Encyclopedia
+^ Harmsworth Natural History (1910), WH Hudson
+^ "Bear Creek Sanctuary – Jaglions". Bear Creek Sanctuary. Retrieved 10 March 2012. 
+^ Buffon, Georges-Louis Leclerc (1801) Histoire Naturelle, Paris : Hacquart, an VIII.
+^ Pennant, Thomas (1771) Synopsis of Quadrupeds, J. Monk, p. 180
+^ Duff, Eamonn (2010-06-20). "On the hunt for the big cat that refuses to die". The Sydney Morning Herald. Fairfax Media. Retrieved 2010-06-23. "Rumours have circulated for decades about a colony of panther-like cats roaming Sydney's western fringes and beyond: from Lithgow to Mudgee and the Hawkesbury to the Hunter Valley." 
+^ "Alien Big Cats – Australian Investigation". Animal X. Series 3. Episode 10.
+^ Gamble, Cyndi; Rodney Griffiths (2004). Leopards: Natural History & Conservation. Voyageur Press. ISBN 0896586561. 
+^ a b c d Hartwell, S. "Mutant leopards". Messybeast.com. Britain. Retrieved 20 February 2010. 
+
+
+External links[edit]
+
+
+
+Wikimedia Commons has media related to: Black panthers
+
+
+
+Photographs of a melanistic bobcat and a melanistic jaguar – Florida Fish and Wildlife Conservation Commission
+Mutant Leopards, Mutant Jaguars and Mutant Pumas (text licensed under GFDL)
+
+
+
+ 
+NewPP limit report
+CPU time usage: 0.752 seconds
+Real time usage: 0.836 seconds
+Preprocessor visited node count: 3127/1000000
+Preprocessor generated node count: 22771/1500000
+Post‐expand include size: 26118/2048000 bytes
+Template argument size: 7843/2048000 bytes
+Highest expansion depth: 25/40
+Expensive parser function count: 0/500
+Lua time usage: 0.053s
+Lua memory usage: 1.66 MB
+
+
+ Saved in parser cache with key enwiki:pcache:idhash:43618-0!*!0!!en!4!* and timestamp 20130925104705 
+								
+				Retrieved from "http://en.wikipedia.org/w/index.php?title=Black_panther&oldid=574206995"				
+												Categories: PantheraNational symbols of GabonHidden categories: Wikipedia articles needing clarification from February 2010All articles with unsourced statementsArticles with unsourced statements from March 2012Commons category with local link same as on WikidataUse dmy dates from April 2011												
+							
+		
+		
+			Navigation menu
+			
+				
+	Personal tools
+	
+Create accountLog in	
+
+				
+					
+	Namespaces
+	
+					Article
+					Talk
+			
+
+
+	
+		
+	Variants
+	
+		
+					
+	
+
+				
+				
+					
+	Views
+	
+					Read
+					Edit
+					View history
+			
+
+
+	Actions
+	
+		
+					
+	
+
+
+	Search
+	
+				
+																				
+		
+	
+
+				
+			
+			
+					
+				
+	Navigation
+	
+		
+			Main page
+			Contents
+			Featured content
+			Current events
+			Random article
+			Donate to Wikipedia
+		
+	
+
+
+	Interaction
+	
+		
+			Help
+			About Wikipedia
+			Community portal
+			Recent changes
+			Contact page
+		
+	
+
+
+	Toolbox
+	
+		
+			What links here
+			Related changes
+			Upload file
+			Special pages
+			Permanent link
+			Page information
+			Data item
+Cite this page		
+	
+
+
+	Print/export
+	
+		
+			Create a book
+			Download as PDF
+			Printable version
+		
+	
+
+
+	Languages
+	
+		
+			العربية
+			Bân-lâm-gú
+			Български
+			Català
+			Česky
+			Dansk
+			Deutsch
+			Español
+			Esperanto
+			Frysk
+			Gàidhlig
+			한국어
+			Hrvatski
+			Italiano
+			עברית
+			Latviešu
+			Magyar
+			മലയാളം
+			Bahasa Melayu
+			မြန်မာဘာသာ
+			Nāhuatl
+			Norsk nynorsk
+			پنجابی
+			Português
+			Русский
+			Српски / srpski
+			Svenska
+			తెలుగు
+			Türkçe
+			اردو
+			Tiếng Việt
+			粵語
+			中文
+			
+			Edit links
+		
+	
+
+			
+		
+		
+							
+											 This page was last modified on 25 September 2013 at 10:47.
+											Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. 
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+									
+							
+											Privacy policy
+											About Wikipedia
+											Disclaimers
+											Contact Wikipedia
+											Developers
+											Mobile view
+									
+										
+					
+						
+					
+					
+						
+					
+				
+						
+		
+		
+
+
+ Served by mw1024 in 0.268 secs. 
+	
+if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Black_panther","wgTitle":"Black panther","wgCurRevisionId":574206995,"wgArticleId":43618,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Wikipedia articles needing clarification from February 2010","All articles with unsourced statements","Articles with unsourced statements from March 2012","Commons category with local link same as on Wikidata","Use dmy dates from April 2011","Panthera","National symbols of Gabon"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Black_panther","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Black_Panther","wgVectorEnabledModules":{"collapsiblenav":true,"expandablesearch":false,"sectioneditlinks":false,"experiments":true},"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"templateEditor":false,"templates":false,"preview":false,"previewDialog":false,"publish":false,"toc":false},"wgArticleFeedbackv5Permissions":{"aft-reader":true,"aft-member":false,"aft-editor":false,"aft-monitor":false,"aft-administrator":false,"aft-oversighter":false,"aft-noone":false},"wgVisualEditor":{"isPageWatched":false,"magnifyClipIconURL":"//bits.wikimedia.org/static-1.22wmf17/skins/common/images/magnify-clip.png","pageLanguageCode":"en","pageLanguageDir":"ltr"},"wikilove-recipient":"","wikilove-anon":0,"wgGuidedTourHelpGuiderUrl":"Help:Guided tours/guider","wgULSAcceptLanguageList":["en-us"],"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia","aftv5Article":{"id":43618,"title":"Black panther","namespace":0,"categories":["All articles with unsourced statements","Articles with unsourced statements from March 2012","Commons category with local link same as on Wikidata","National symbols of Gabon","Panthera","Use dmy dates from April 2011","Wikipedia articles needing clarification from February 2010"],"permissionLevel":false},"wgWikibaseItemId":"Q207963"});
+}if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":false,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,
+"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"useeditwarning":1,"prefershttps":1,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"vector-simplesearch":1,"vector-collapsiblenav":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"aftv5-last-filter":null,"visualeditor-enable":0,"visualeditor-enable-experimental":0,"visualeditor-betatempdisable":0,"wikilove-enabled":1,"echo-subscriptions-web-page-review":true,"echo-subscriptions-email-page-review":false,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"echo-notify-show-link":true,"echo-show-alert":true,"echo-email-frequency":0,"echo-email-format":"html","echo-subscriptions-email-system":true,"echo-subscriptions-web-system":true,"echo-subscriptions-email-other":false,"echo-subscriptions-web-other":true,"echo-subscriptions-email-edit-user-talk":false,"echo-subscriptions-web-edit-user-talk":true,
+"echo-subscriptions-email-reverted":false,"echo-subscriptions-web-reverted":true,"echo-subscriptions-email-article-linked":false,"echo-subscriptions-web-article-linked":false,"echo-subscriptions-email-mention":false,"echo-subscriptions-web-mention":true,"echo-subscriptions-web-edit-thank":true,"echo-subscriptions-email-edit-thank":false,"gettingstarted-task-toolbar-show-intro":true,"uls-preferences":"","language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs446":false,"searchNs447":false
+,"searchNs710":false,"searchNs711":false,"searchNs828":false,"searchNs829":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-mySandbox":1,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:156d8fe0ae17f8afd74198057563e45d */
+}if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","ext.visualEditor.viewPageTarget.init","ext.wikimediaShopLink.core","ext.uls.init","ext.uls.interface","wikibase.client.init","ext.centralNotice.bannerController","skins.vector.js"]);
+}/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}if(window.mw){
+mw.loader.load(["mobile.desktop","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.cite","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","mw.MwEmbedSupport.style","ext.vector.collapsibleNav","ext.articleFeedbackv5.startup","ext.gettingstarted.logging","ext.gettingstarted.openTask","schema.HttpsSupport","ext.coreEvents.httpsSupport","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","mw.PopUpMediaTransform"],null,true);
+}

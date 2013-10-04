@@ -1,0 +1,510 @@
+
+
+
+Stegosauria - Wikipedia, the free encyclopedia
+
+
+
+
+
+
+
+
+
+
+
+
+a:lang(ar),a:lang(ckb),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:0de201fdea5d684523607ed88007b127 */
+
+
+
+
+[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.22wmf18/skins/vector/csshover.min.htc")}</style><![endif]
+
+		
+		
+		
+			
+			
+						 CentralNotice 
+						Stegosauria
+			
+								From Wikipedia, the free encyclopedia
+								  (Redirected from Stegosaurs)
+												
+					Jump to:					navigation, 					search
+				
+				
+
+
+Stegosaurians
+Temporal range: Middle Jurassic - Early Cretaceous, 176–100Ma
+
+PreЄ
+Є
+O
+S
+D
+C
+P
+T
+J
+K
+Pg
+N
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fossil skeleton of a Stegosaurus,
+National Museum of Natural History
+
+
+Scientific classification 
+
+
+Kingdom:
+Animalia
+
+
+Phylum:
+Chordata
+
+
+Clade:
+Sauropsida
+
+
+Clade:
+Dinosauria
+
+
+Order:
+†Ornithischia
+
+
+Clade:
+†Eurypoda
+
+
+Suborder:
+†Stegosauria
+Marsh, 1877
+
+
+Superfamily:
+†Stegosauroidea
+Marsh, 1880
+
+
+Type species
+
+
+†Stegosaurus stenops
+Marsh, 1877
+
+
+Subgroups
+
+
+
+†Craterosaurus?
+†Gigantspinosaurus
+†Jiangjunosaurus
+†Huayangosauridae
+†Stegosauridae
+
+
+
+
+Known colloquially as stegosaurs, the Stegosauria are a group of herbivorous dinosaurs of the Jurassic and Early Cretaceous Periods, being found mostly in the Northern Hemisphere, predominantly in what is now North America and China. Their geographical origins are unclear; the earliest stegosaurs have been found in China, although fragmentary material hails from southern England.
+The genus Stegosaurus, from which the group acquires its name, is by far the most famous stegosaurian.
+
+
+Contents
+
+
+1 Paleobiology
+
+1.1 Skull
+1.2 Posture
+
+
+2 Trace fossils
+3 Classification
+
+3.1 Taxonomy
+3.2 Phylogeny
+
+
+4 Undescribed species
+5 References
+6 External links
+
+
+Paleobiology[edit]
+All stegosaurs have rows of special bones, called osteoderms, which develop into plates and spines along the back and tail (forming the so-called "thagomizer"). Many also have intermediate spines, called 'splates'.
+Skull[edit]
+They had characteristic long, narrow heads and a horn-covered beak or rhamphotheca[citation needed], which covered the front of the upper jaw (premaxillary) and lower jaw (predentary) bones. Similar structures are seen in turtles and birds. Apart from Huayangosaurus, stegosaurs subsequently lost nearby premaxillary teeth.[1]
+Posture[edit]
+All are quadrupedal, with hoof-like toes on all four limbs. All stegosaurians after Huayangosaurus have forelimbs much shorter than their hindlimbs. Given that their speed would have been limited by their shortest limb and their size is likely to have precluded them from being bipedal, this suggests that they were not able to run quickly.
+The front feet of stegosaurs are commonly depicted in art and in museum displays with fingers splayed out and slanted downward. However, in this position most bones in the hand would be disarticulated. In reality, the hand bones of stegosaurs were arranged into vertical columns, with the main fingers forming a tube-like structure. This is similar to the hands of sauropod dinosaurs, and is also supported by evidence from stegosaur footprints and fossils found in a lifelike pose.[2]
+Trace fossils[edit]
+Stegosaur tracks were first recognized in 1996 from a hindprint-only trackway discovered at the Clevland-Lloyd quarry, which is located near Price, Utah.[3] Two years later, a new ichnogenus called Stegopodus was erected for another set of stegosaur tracks which were found near Arches National Park, also in Utah.[3] Unlike the first, this trackway preserved traces of the forefeet. Fossil remains indicate that stegosaurs have five digits on the forefeet and three weight-bearing digits on the hind feet.[3] From this scientists were able to predict the appearance of stegosaur tracks in 1990, six years in advance of the first actual discovery of Morrison stegosaur tracks.[3] More trackways have been found since the erection of Stegopodus. None, however, have preserved traces of the front feet and stegosaur traces remain rare.[3]
+Classification[edit]
+Stegosauria was originally named as an order within Reptilia by O.C. Marsh in 1877,[4] although today it is generally treated as an infraorder or suborder (or simply a clade) within Thyreophora, the armored dinosaurs. It includes the families Huayangosauridae and Stegosauridae.
+The Huayangosauridae were an early family of stegosaurs which lived during the early to middle Jurassic Period. In general, they were smaller than later stegosaurs and had shorter and higher skulls. Currently, the only confirmed genus included is the type genus Huayangosaurus of China. The poorly-known remains of Regnosaurus from England, however, indicate it too could be a member. Its lower jaw is very similar to the former.
+The vast majority of stegosaurian dinosaurs thus far recovered belong to the Stegosauridae, which lived in the later part of the Jurassic and early Cretaceous. It includes the well-known Stegosaurus. The family is widespread, with members across the Northern Hemisphere, Africa and possibly South America.[5]
+Taxonomy[edit]
+
+
+
+
+A fossil melee involving a stegosaurian (Tuojiangosaurus) and a mid-sized theropod (Monolophosaurus), Field Museum in Chicago
+
+
+Following is a list of stegosaurian genera by classification and location:
+
+Gigantspinosaurus - (Sichuan, China)
+Family Huayangosauridae
+
+Huayangosaurus - (Sichuan, China)
+?Regnosaurus - (Sussex, United Kingdom)
+
+
+Family Stegosauridae
+
+Chialingosaurus - (Sichuan, China)
+Chungkingosaurus - (Chongqing, China)
+Dacentrurus - (United Kingdom, France & Spain)
+Hesperosaurus - (Wyoming, USA)
+Miragaia - (Portugal)[6]
+Monkonosaurus - (Tibet, China)
+Paranthodon - (South Africa)
+Wuerhosaurus - (Xinjiang, Western China)
+Subfamily Stegosaurinae
+
+Kentrosaurus - (Tanzania, Africa)
+Lexovisaurus (=Loricatosaurus)[7] - (United Kingdom & France)
+Stegosaurus - (Wyoming, USA)
+Tuojiangosaurus - (Sichuan, China)
+
+
+Uncertain placement (incertae sedis)
+
+ ?Craterosaurus - (Bedfordshire, England)
+Jiangjunosaurus - (Xinjiang, Western China)
+
+
+
+
+
+Phylogeny[edit]
+Kenneth Carpenter of the Denver Museum of Nature and Science published a preliminary phyletic tree[8] of stegosaurs, in the 2001 description of Hesperosaurus. Here, the basal stegosaur Huayangosaurus is used as the outgroup. The Stegosauridae are then defined as all stegosaurs closer to Stegosaurus than to Huayangosaurus. The position of Chungkingosaurus is uncertain due to lack of data.
+
+
+Stegosauria
+
+Huayangosaurus
+Stegosauridae
+
+
+
+?Chungkingosaurus
+
+
+Chialingosaurus
+
+
+
+
+Wuerhosaurus
+
+
+Dacentrurus
+Hesperosaurus
+
+
+
+
+
+
+Tuojiangosaurus
+
+
+
+
+Kentrosaurus
+Lexovisaurus
+
+
+
+
+Stegosaurus stenops
+S. ungulatus (=?S. armatus)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Undescribed species[edit]
+To date, several genera from China bearing names have not been formally described, including "Changdusaurus" and "Yingshanosaurus". Until formal descriptions are published, these genera are regarded as nomina nuda.
+References[edit]
+
+
+
+
+Dinosaurs portal
+
+
+
+
+
+^ Sereno, P & Z-M Dong (1992). The skull of the basal stegosaur Huayangosaurus taibaii and a cladistic diagnosis of Stegosauria. Journal of Vertebrate Paleontology 51: 318-343
+^ Senter, P. (2010). "Evidence for a sauropod-like metacarpal configuration in stegosaurian dinosaurs." Acta Palaeontologica Polonica, in press.
+^ a b c d e "Walk and Don't Look Back: The Footprints; Stegosaurs" in Foster, J. (2007). Jurassic West: The Dinosaurs of the Morrison Formation and Their World. Indiana University Press. pg. 238
+^ Marsh, O.C. (1877). "New order of extinct Reptilia (Stegosauria) from the Jurassic of the Rocky Mountains." American Journal of Science, 14(ser.3):513-514.
+^ Pereda-Suberbiola, X., Galton, P.M., Mallison, H. & Novas, F.iFirst article. A plated dinosaur (Ornithischia, Stegosauria) from the Early Cretaceous of Argentina, South America: an evaluation. Alcheringa, 1–14. ISSN 0311-5518.
+^ Mateus, Octávio; Maidment, Susannah C.R.; and Christiansen, Nicolai A. (2009). "A new long-necked 'sauropod-mimic' stegosaur and the evolution of the plated dinosaurs" (pdf). Proceedings of the Royal Society B: Biological Sciences 276 (1663): 1815–21. doi:10.1098/rspb.2008.1909. PMC 2674496. PMID 19324778. 
+^ Maidment, Susannah C.R.; Norman, David B.; Barrett, Paul M.; and Upchurch, Paul (in press). "Systematics and phylogeny of Stegosauria (Dinosauria: Ornithischia)". Journal of Systematic Palaeontology 6 (04): 367. doi:10.1017/S1477201908002459. 
+^ Carpenter, K., Miles, C.A., and Cloward, K. (2001). "New Primitive Stegosaur from the Morrison Formation, Wyoming", in Carpenter, Kenneth(ed) The Armored Dinosaurs. Indiana University Press. ISBN 0-253-33964-2, 55–75.
+
+
+Fastovsky DE, Weishampel DB (2005). "Stegosauria:Hot Plates". In Fastovsky DE, Weishampel DB. The Evolution and Extinction of the Dinosaurs (2nd Edition). Cambridge University Press. pp. 107–130. ISBN 0-521-81172-4. 
+
+
+External links[edit]
+
+http://www.palaeos.com/Vertebrates/Units/320Ornithischia/320.200.html
+http://www.kheper.net/evolution/dinosauria/Stegosauria.htm
+
+
+
+ 
+NewPP limit report
+CPU time usage: 4.072 seconds
+Real time usage: 4.288 seconds
+Preprocessor visited node count: 23534/1000000
+Preprocessor generated node count: 37535/1500000
+Post‐expand include size: 79353/2048000 bytes
+Template argument size: 45229/2048000 bytes
+Highest expansion depth: 39/40
+Expensive parser function count: 2/500
+Lua time usage: 0.048s
+Lua memory usage: 1.37 MB
+
+
+ Saved in parser cache with key enwiki:pcache:idhash:4375088-0!*!0!!en!4!* and timestamp 20131001104421 
+								
+				Retrieved from "http://en.wikipedia.org/w/index.php?title=Stegosauria&oldid=573083670"				
+												Categories: StegosaursHidden categories: Articles with 'species' microformatsAll articles with unsourced statementsArticles with unsourced statements from November 2011												
+							
+		
+		
+			Navigation menu
+			
+				
+	Personal tools
+	
+Create accountLog in	
+
+				
+					
+	Namespaces
+	
+					Article
+					Talk
+			
+
+
+	
+		
+	Variants
+	
+		
+					
+	
+
+				
+				
+					
+	Views
+	
+					Read
+					Edit
+					View history
+			
+
+
+	Actions
+	
+		
+					
+	
+
+
+	Search
+	
+				
+																				
+		
+	
+
+				
+			
+			
+					
+				
+	Navigation
+	
+		
+			Main page
+			Contents
+			Featured content
+			Current events
+			Random article
+			Donate to Wikipedia
+		
+	
+
+
+	Interaction
+	
+		
+			Help
+			About Wikipedia
+			Community portal
+			Recent changes
+			Contact page
+		
+	
+
+
+	Toolbox
+	
+		
+			What links here
+			Related changes
+			Upload file
+			Special pages
+			Permanent link
+			Page information
+			Data item
+Cite this page		
+	
+
+
+	Print/export
+	
+		
+			Create a book
+			Download as PDF
+			Printable version
+		
+	
+
+
+	Languages
+	
+		
+			Brezhoneg
+			Català
+			Cebuano
+			Česky
+			Deutsch
+			Español
+			Esperanto
+			Français
+			한국어
+			Hrvatski
+			Italiano
+			עברית
+			Magyar
+			Nederlands
+			日本語
+			Polski
+			Português
+			Română
+			Русский
+			Simple English
+			Slovenčina
+			Srpskohrvatski / српскохрватски
+			Svenska
+			Tagalog
+			Tiếng Việt
+			中文
+			
+			Edit links
+		
+	
+
+			
+		
+		
+							
+											 This page was last modified on 15 September 2013 at 23:42.
+											Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. 
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+									
+							
+											Privacy policy
+											About Wikipedia
+											Disclaimers
+											Contact Wikipedia
+											Developers
+											Mobile view
+									
+										
+					
+						
+					
+					
+						
+					
+				
+						
+		
+		
+
+
+ Served by mw1024 in 0.312 secs. 
+	
+if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Stegosauria","wgTitle":"Stegosauria","wgCurRevisionId":573083670,"wgArticleId":4375088,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with 'species' microformats","All articles with unsourced statements","Articles with unsourced statements from November 2011","Stegosaurs"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Stegosauria","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Stegosaurs","wgVectorEnabledModules":{"collapsiblenav":true,"experiments":true},"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"templateEditor":false,"templates":false,"preview":false,"previewDialog":false,"publish":false,"toc":false},"wgArticleFeedbackv5Permissions":{"aft-reader":false,"aft-member":false,"aft-editor":false,"aft-monitor":false,"aft-administrator":false,"aft-oversighter":false,"aft-noone":false},"wgVisualEditor":{"isPageWatched":false,"magnifyClipIconURL":"//bits.wikimedia.org/static-1.22wmf18/skins/common/images/magnify-clip.png","pageLanguageCode":"en","pageLanguageDir":"ltr"},"wikilove-recipient":"","wikilove-anon":0,"wgGuidedTourHelpGuiderUrl":"Help:Guided tours/guider","wgULSAcceptLanguageList":[],"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia","aftv5Article":{"id":4375088,"title":"Stegosauria","namespace":0,"categories":["All articles with unsourced statements","Articles with 'species' microformats","Articles with unsourced statements from November 2011","Stegosaurs"],"permissionLevel":false},"wgWikibaseItemId":"Q131484"});
+}if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":false,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,
+"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"useeditwarning":1,"prefershttps":1,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"vector-simplesearch":1,"vector-collapsiblenav":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"aftv5-last-filter":null,"visualeditor-enable":0,"visualeditor-enable-experimental":0,"visualeditor-betatempdisable":0,"wikilove-enabled":1,"echo-subscriptions-web-page-review":true,"echo-subscriptions-email-page-review":false,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"echo-notify-show-link":true,"echo-show-alert":true,"echo-email-frequency":0,"echo-email-format":"html","echo-subscriptions-email-system":true,"echo-subscriptions-web-system":true,"echo-subscriptions-email-other":false,"echo-subscriptions-web-other":true,"echo-subscriptions-email-edit-user-talk":false,"echo-subscriptions-web-edit-user-talk":true,
+"echo-subscriptions-email-reverted":false,"echo-subscriptions-web-reverted":true,"echo-subscriptions-email-article-linked":false,"echo-subscriptions-web-article-linked":false,"echo-subscriptions-email-mention":false,"echo-subscriptions-web-mention":true,"echo-subscriptions-web-edit-thank":true,"echo-subscriptions-email-edit-thank":false,"gettingstarted-task-toolbar-show-intro":true,"uls-preferences":"","language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs446":false,"searchNs447":false
+,"searchNs710":false,"searchNs711":false,"searchNs828":false,"searchNs829":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-mySandbox":1,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:156d8fe0ae17f8afd74198057563e45d */
+}if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","ext.visualEditor.viewPageTarget.init","ext.wikimediaShopLink.core","ext.uls.init","ext.uls.interface","wikibase.client.init","ext.centralNotice.bannerController","skins.vector.js"]);
+}/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}if(window.mw){
+mw.loader.load(["mobile.desktop","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.cite","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","mw.MwEmbedSupport.style","ext.vector.collapsibleNav","ext.articleFeedbackv5.startup","ext.gettingstarted.logging","ext.gettingstarted.openTask","schema.HttpsSupport","ext.coreEvents.httpsSupport","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","mw.PopUpMediaTransform"],null,true);
+}

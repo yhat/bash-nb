@@ -1,0 +1,426 @@
+
+
+
+Anchiceratops - Wikipedia, the free encyclopedia
+
+
+
+
+
+
+
+
+
+
+
+
+a:lang(ar),a:lang(ckb),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:0de201fdea5d684523607ed88007b127 */
+
+
+
+
+[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.22wmf18/skins/vector/csshover.min.htc")}</style><![endif]
+
+		
+		
+		
+			
+			
+						 CentralNotice 
+						Anchiceratops
+			
+								From Wikipedia, the free encyclopedia
+								
+												
+					Jump to:					navigation, 					search
+				
+				
+
+
+Anchiceratops
+Temporal range: Late Cretaceous, 72–71Ma
+
+PreЄ
+Є
+O
+S
+D
+C
+P
+T
+J
+K
+Pg
+N
+
+
+
+
+↓
+
+
+
+
+
+
+
+
+
+Skull cast of TMP 1983.001.0001, Geological Museum (Copenhagen)
+
+
+Scientific classification 
+
+
+Kingdom:
+Animalia
+
+
+Phylum:
+Chordata
+
+
+Clade:
+Sauropsida
+
+
+Clade:
+Dinosauria
+
+
+Order:
+†Ornithischia
+
+
+Family:
+†Ceratopsidae
+
+
+Subfamily:
+†Chasmosaurinae
+
+
+Genus:
+†Anchiceratops
+Brown, 1914
+
+
+Type species
+
+
+†Anchiceratops ornatus
+Brown, 1914
+
+
+Synonyms
+
+
+
+Anchiceratops longirostris
+Sternberg, 1926
+
+
+
+
+Anchiceratops (/ˌæŋkiˈsɛrətɒps/ ANG-ki-SERR-ə-tops; meaning "near Ceratops", derived from the Greek "anchi -/αγχι-" "near", "keras-/κερας-" "horn", "-ops/ωψ" "face") is a genus of herbivorous chasmosaurine ceratopsid dinosaurs. It contains the single species Anchiceratops ornatus, from the Late Cretaceous Period of western North America. About a dozen skulls of the species have been found.
+Anchiceratops was about four to five metres long. Its skull featured two long brow horns and a short horn on the nose. The skull frill was elongated and rectangular, its edges adorned by coarse triangular projections.
+
+
+Contents
+
+
+1 Discoveries and species
+2 Description
+3 Phylogeny
+4 Paleobiology
+5 Footnotes
+
+
+Discoveries and species[edit]
+
+
+
+
+Type specimen AMNH 5251
+
+
+American paleontologist Barnum Brown named Anchiceratops in 1914, as he believed Anchiceratops was a transitional form closely related to both Monoclonius and Triceratops and intermediate between them, but closest in the development of the skull frill to the latter, hence the generic name meaning "near (ἄγχι) Ceratops". There is one valid species known today (Anchiceratops ornatus), whose name refers to the ornate margin of its frill.[1] A second species was named Anchiceratops longirostris by Charles M. Sternberg in 1929,[2] but this species is widely considered a junior synonym of A. ornatus today.[3]
+The first remains of Anchiceratops were discovered along the Red Deer River in the Canadian province of Alberta in 1912 by an expedition led by Barnum Brown.[4] The holotype, specimen AMNH 5251, is the back half of a skull, including the long frill,[4] and two other partial skulls, specimens AMNH 5259 (the paratype) and AMNH 5273, were found at the same time, which are now stored in the American Museum of Natural History in New York City. A complete skull was discovered by C.M. Sternberg at Morrin in 1924, specimen NMC 8535, and described as A. longirostris[4] five years later. Another specimen, NMC 8547 (or CMN 8547) collected by Sternberg in 1925, lacks the skull but is otherwise the most complete skeleton known from any ceratopsid, preserving a complete spinal column down to the last tail vertebra. Sternberg's material is now housed in the Canadian Museum of Nature in Ottawa. NMC 8547 is displayed as a half-mount with the better preserved right side showing, and completed with a cast skull replica of NMC 8535. Other material has been found since, including one or two possible bonebed deposits in Alberta, but very little Anchiceratops material has been described.[3]
+
+
+
+
+NMC 8547 mounted at the Canadian Museum of Nature, completed with a skull cast of NMC 8535. NMC 8547 might represent a separate taxon
+
+
+Most Anchiceratops fossils have been discovered in the Horseshoe Canyon Formation of Alberta, which belongs to the later part of the Campanian stage of the Late Cretaceous Period (Anchiceratops remains are known from the lower part of the formation, and range in age between 72.5-71 million years ago).[5] Frill fragments found in the early Maastrichtian Almond Formation of Wyoming in the United States resemble Anchiceratops.[6] However, brown horn fragments (specimens NMC 9590 and 10645) and frill pieces (specimina NMC 9813, 9814 and 9829) have been found from two localities in the older Oldman[7] and Dinosaur Park Formations (late Campanian, 76.5-75 million years ago) with the characteristic pattern of points seen in Anchiceratops frills. These may represent early records of A. ornatus or possibly a second, related species.[8] In 2012, Jordan Cole Mallon e.a. pointed out that Anchicertops ornatus as a species was exceptionally long-lived; other ceratopid species typically last a few hundred thousand years. Several possible explanations were given: a decreased competition by related species; less habitat fragmentation by the recession of the Western Interior Seaway; and a more generalist lifestyle.[9]
+
+
+
+
+Partial skull FMNH P15003 in the Field Museum
+
+
+In 2012, Mallon concluded that many more Anchiceratops fossils had been collected than previously had been realised. These included the specimens TMP 1983.001.0001, a nearly complete skull of a juvenile; UW 2419, a nearly complete skull; ROM 802, a skull lacking the snout; FMNH P15003, the upper side of a skull lacking the snout; CMN 11838, a left skull frill; CMN 12-1915, frill fragments; and UALVP 1618, the rear edge of a frill.[9] This larger number of fossils can be examined by statistical analysis to solve certain long-standing controversies about the genus. C.M. Sternberg had originally designated a smaller skull as the new species Anchiceratops longirostris, because of its size, and also its much more slender horns that point forwards instead of upwards. Later however, paleontologists had concluded that the size and form of this skull falls within the range of variation seen in A. ornatus and that it were probably a member of that species. It had also been proposed by Thomas Lehman in 1990 that Anchiceratops were a sexually dimorphic species, where the skull of A. longirostris actually represents a female. Other Anchiceratops skulls that are larger, more robust, and show much longer horns that point more vertically were proposed to represent the male.[10] Preliminary statistical analysis by Mallon of the Anchiceratops specimens revealed that these variations in skull form do not actually fall into two distinct morphs, and more likely represent individual variation, forcing him to reject the hypothesis that there were two species. Likewise there was no proof of sexual dimorphism.[11]
+In 2010 Mallon removed specimen NMC 8547 from the fossil material of Anchiceratops because of the few frill elements associated with it, it could not be determined with certainty whether they belonged to this taxon; from the same formation the related Arrhinoceratops is known which had a comparable frill surface structure. According to Mallon, C.M. Sternberg had in 1925 unproblematically referred the find to Anchiceratops because he had been unaware that Arrhinoceratops had been described in March of that year. If correct, this would mean that no unequivocal postcrania, elements behind the skull, of Anchiceratops are known.[12]
+Description[edit]
+
+
+
+
+Restoration, with generalised chasmosaurine rump, not based on NMC 8547
+
+
+Like other ceratopsids, A. ornatus was a quadrupedal herbivore with three horns on its face, a parrot-like beak, and a long frill extending from the back of its head. The two horns above the eyes were longer than the single horn on its snout, as in other chasmosaurines.
+Anchiceratops was a medium-sized ceratopsid. If specimen NMC 8547 is not taken into account, no very exact estimations of the body length of Anchiceratops can be given. Some popular science book state that it approached 20 feet (6 m) in length.[4] In 2010 Gregory S. Paul, on the assumption that specimen NMC 8547 represented Anchiceratops, estimated its length at 4.3 metres, its weight at 1.2 tonnes.[13]
+Anchiceratops frills are very distinctive. Rectangular in shape, the frill is edged by large epoccipitals, osteoderms in the form of triangular bony projections. These are exceptionally wide and coarse.[3] Some of these epoccipitals are on the side of the frill, formed by the squamosal; these episquamosals vary between five and nine in number. The last episquamosal is very large, approaching the size of the three osteoderms per side on the rear edge of the frill, the epiparietals. Another characteristic feature is the pair of bony knobs located on either side of the midline, towards the end of the frill. These are pointing sideways and are very variable in form and size between individuals. The parietal bone, forming the rear edge and the middle of the frill, has smaller parietal fenestrae, window-like openings, than those seen in other chasmosaurines like Pentaceratops and Torosaurus.[4] The frill has deep arterial grooves on both the upper and the underside.[1]
+Specimen NMC 8547, on which traditionally descriptions of the postcrania of Anchiceratops have been based, has many traits that are unique in the Chasmosaurinae. The vertebral column contains seventy-four vertebrae: ten of the neck, thirteen dorsals, twelve sacrals and thirty-nine caudals. Typically chasmosaurines have twelve dorsals, ten sacrals and up to forty-six tail vertebrae. Mallon presumed that the synsacrum, the fused vertebrae supporting the pelvis, had shifted to the rear. The neck of NMC 8547 is exceptionally long, with four syncervicals, fused anterior cervical vertebrae. Also the pelvis is very long. The tail is short. The forelimbs are very robust, with a large deltopectoral crest on the humerus, indicating a heavy musculature.[12]
+Phylogeny[edit]
+Brown in 1914 assigned Anchiceratops to the Ceratopsia.[1] In 1915, William Diller Matthew refined this to the Ceratopsidae.[14] In 1990, Peter Dodson and Phil Currie placed it in the Chasmosaurinae.[15]
+Modern cladistic analyses usually recover Anchiceratops in a more advanced position, close to Arrhinoceratops, than Chasmosaurus. Mallon's study of 2012 concluded however, that Anchiceratops was more closely related to Chasmosaurus than to Triceratops.[9]
+Paleobiology[edit]
+
+
+
+
+ROM 802, a skull in the Royal Ontario Museum
+
+
+Anchiceratops is rare compared to other ceratopsians in the area, and usually found near marine sediments, in both the Horseshoe Canyon and Dinosaur Park Formations. This indicates that Anchiceratops may have lived in estuaries where other ceratopsids did not live. Flowering plants were increasingly common but still rare compared to the conifers, cycads and ferns which probably made up the majority of ceratopsian diets.
+In 1959, Wann Langston jr suggested that Anchiceratops was a semi-aquatic species. The long snout would have served to allow the animal to cross deeper swamps walking, catching breath on the water surface; the heavy frill would have acted as a counterbalance to point the beak upwards.[8] Later paleontologists tended to reject this notion, emphasising dinosaurs in general were land animals, but in 2012 Mallon again supposed a sem-aquatic lifestyle, like a modern hippopotamus, for at least NMC 8547. This would be an explanation for the robustness and extreme musculature of the limbs. Mallon admitted the small tail was not a swimming-organ.[9]
+In 1914 Brown suggested that the distinctive frill and horn form of Anchiceratops were caused by sexual selection and intra-species recognition, as he could not explain the differences between the taxa by a difference in defence function.[1]
+Footnotes[edit]
+
+
+^ a b c d Brown, B. 1914. "Anchiceratops, a new genus of horned dinosaurs from the Edmonton Cretaceous of Alberta. With a discussion of the origin of the ceratopsian crest and the brain casts of Anchiceratops and Trachodon". Bulletin of the American Museum of Natural History, 33: 539-548
+^ Sternberg, C.M. 1929. "A new species of horned dinosaur from the Upper Cretaceous of Alberta". National Museum of Canada Bulletin, 54: 34-37
+^ a b c Dodson, P. 1996. The Horned Dinosaurs. Princeton: Princeton University Press. 346 pp
+^ a b c d e "Anchiceratops." In: Dodson, Peter & Britt, Brooks & Carpenter, Kenneth & Forster, Catherine A. & Gillette, David D. & Norell, Mark A. & Olshevsky, George & Parrish, J. Michael & Weishampel, David B. The Age of Dinosaurs. Publications International, LTD. p. 124. ISBN 0-7853-0443-6.
+^ Arbour, V. M.; Burns, M. E.; and Sissons, R. L. (2009). "A redescription of the ankylosaurid dinosaur Dyoplosaurus acutosquameus Parks, 1924 (Ornithischia: Ankylosauria) and a revision of the genus". Journal of Vertebrate Paleontology 29 (4): 1117–1135. doi:10.1671/039.029.0405. 
+^ Farke, A.A. 2004. "Ceratopsid dinosaurs from the Upper Cretaceous Almond Formation of southwestern Wyoming". Rocky Mountain Geology, 39: 1-5
+^ Weishampel, D.B., Barrett, P.M., Coria, R.A., Le Loueff, J., Xu X., Zhao X., Sahni, A., Gomani, E.M.P., & Noto, C.N. 2004. Dinosaur distribution. In: Weishampel, D.B., Dodson, P., & Osmólska, H. (Eds.). The Dinosauria (2nd Edition). Berkeley: University of California Press. Pp. 517-606.
+^ a b Langston, W.J. 1959. "Anchiceratops from the Oldman Formation of Alberta". National Museum of Canada Natural History Papers, 3: 1-11
+^ a b c d Jordan C. Mallon, Robert Holmes, David A. Eberth, Michael J. Ryan, Jason S. Anderson, 2012, "Variation in the skull of Anchiceratops (Dinosauria, Ceratopsidae) from the Horseshoe Canyon Formation (Upper Cretaceous) of Alberta". Journal of Vertebrate Paleontology, 31(5): 1047-1071
+^ Lehman, T.M. 1990. "The ceratopsian subfamily Chasmosaurinae: sexual dimorphism and systematics". In: Carpenter, K. & Currie, P.J. (Eds.). Dinosaur Systematics: Approaches and Perspectives. Cambridge: Cambridge University Press. Pp. 211–219
+^ Mallon, J. (2012). "Variation in the skull of Anchiceratops, a horned dinosaur from the Horseshoe Canyon Formation." Royal Tyrrell Museum Speaker Series 2012. [1]
+^ a b J.C. Mallon and R. Holmes, 2010, "Description of a complete and fully articulated chasmosaurine postcranium previously assigned to Anchiceratops (Dinosauria: Ceratopsia)", In: M. J. Ryan, B. J. Chinnery-Allgeier, and D. A. Eberth (eds.), New Perspectives on Horned Dinosaurs: The Royal Tyrrell Museum Ceratopsian Symposium. Indiana University Press, Bloomington, Indiana. pp 189–202
+^ Paul, G.S., 2010, The Princeton Field Guide to Dinosaurs, Princeton University Press p. 268
+^ W.D. Matthew, 1915, Dinosaurs, with Special Reference to the American Museum Collections. American Museum of Natural History, New York 162 pp
+^ P. Dodson and P.J. Currie. 1990. "Neoceratopsia", pp 593-618 in: D.B. Weishampel, H. Osmolska, and P. Dodson (eds.), The Dinosauria. First Edition, University of California Press, Berkeley,
+
+
+
+
+
+
+Dinosaurs portal
+
+
+
+
+
+
+Wikimedia Commons has media related to Anchiceratops.
+
+
+
+
+ 
+NewPP limit report
+CPU time usage: 5.572 seconds
+Real time usage: 5.819 seconds
+Preprocessor visited node count: 27790/1000000
+Preprocessor generated node count: 43907/1500000
+Post‐expand include size: 87268/2048000 bytes
+Template argument size: 46199/2048000 bytes
+Highest expansion depth: 39/40
+Expensive parser function count: 1/500
+Lua time usage: 0.035s
+Lua memory usage: 1.08 MB
+
+
+ Saved in parser cache with key enwiki:pcache:idhash:3533455-0!*!0!!en!4!* and timestamp 20131002140803 
+								
+				Retrieved from "http://en.wikipedia.org/w/index.php?title=Anchiceratops&oldid=568924600"				
+												Categories: CeratopsidsCretaceous dinosaursDinosaurs of North AmericaFossil taxa described in 1914Hidden categories: Articles with 'species' microformatsCommons category with local link same as on Wikidata												
+							
+		
+		
+			Navigation menu
+			
+				
+	Personal tools
+	
+Create accountLog in	
+
+				
+					
+	Namespaces
+	
+					Article
+					Talk
+			
+
+
+	
+		
+	Variants
+	
+		
+					
+	
+
+				
+				
+					
+	Views
+	
+					Read
+					Edit
+					View history
+			
+
+
+	Actions
+	
+		
+					
+	
+
+
+	Search
+	
+				
+																				
+		
+	
+
+				
+			
+			
+					
+				
+	Navigation
+	
+		
+			Main page
+			Contents
+			Featured content
+			Current events
+			Random article
+			Donate to Wikipedia
+		
+	
+
+
+	Interaction
+	
+		
+			Help
+			About Wikipedia
+			Community portal
+			Recent changes
+			Contact page
+		
+	
+
+
+	Toolbox
+	
+		
+			What links here
+			Related changes
+			Upload file
+			Special pages
+			Permanent link
+			Page information
+			Data item
+Cite this page		
+	
+
+
+	Print/export
+	
+		
+			Create a book
+			Download as PDF
+			Printable version
+		
+	
+
+
+	Languages
+	
+		
+			Català
+			Česky
+			Deutsch
+			Español
+			Français
+			한국어
+			Italiano
+			עברית
+			Lietuvių
+			Magyar
+			Nederlands
+			日本語
+			Polski
+			Português
+			Русский
+			Slovenčina
+			Svenska
+			தமிழ்
+			中文
+			
+			Edit links
+		
+	
+
+			
+		
+		
+							
+											 This page was last modified on 17 August 2013 at 12:18.
+											Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. 
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+									
+							
+											Privacy policy
+											About Wikipedia
+											Disclaimers
+											Contact Wikipedia
+											Developers
+											Mobile view
+									
+										
+					
+						
+					
+					
+						
+					
+				
+						
+		
+		
+
+
+ Served by mw1080 in 0.257 secs. 
+	
+if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Anchiceratops","wgTitle":"Anchiceratops","wgCurRevisionId":568924600,"wgArticleId":3533455,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with 'species' microformats","Commons category with local link same as on Wikidata","Ceratopsids","Cretaceous dinosaurs","Dinosaurs of North America","Fossil taxa described in 1914"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Anchiceratops","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgVectorEnabledModules":{"collapsiblenav":true,"experiments":true},"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"templateEditor":false,"templates":false,"preview":false,"previewDialog":false,"publish":false,"toc":false},"wgArticleFeedbackv5Permissions":{"aft-reader":false,"aft-member":false,"aft-editor":false,"aft-monitor":false,"aft-administrator":false,"aft-oversighter":false,"aft-noone":false},"wgVisualEditor":{"isPageWatched":false,"magnifyClipIconURL":"//bits.wikimedia.org/static-1.22wmf18/skins/common/images/magnify-clip.png","pageLanguageCode":"en","pageLanguageDir":"ltr"},"wikilove-recipient":"","wikilove-anon":0,"wgGuidedTourHelpGuiderUrl":"Help:Guided tours/guider","wgULSAcceptLanguageList":[],"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia","aftv5Article":{"id":3533455,"title":"Anchiceratops","namespace":0,"categories":["Articles with 'species' microformats","Ceratopsids","Commons category with local link same as on Wikidata","Cretaceous dinosaurs","Dinosaurs of North America","Fossil taxa described in 1914"],"permissionLevel":false},"wgWikibaseItemId":"Q131580"});
+}if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":false,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,
+"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"useeditwarning":1,"prefershttps":1,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"vector-simplesearch":1,"vector-collapsiblenav":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"aftv5-last-filter":null,"visualeditor-enable":0,"visualeditor-enable-experimental":0,"visualeditor-betatempdisable":0,"wikilove-enabled":1,"echo-subscriptions-web-page-review":true,"echo-subscriptions-email-page-review":false,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"echo-notify-show-link":true,"echo-show-alert":true,"echo-email-frequency":0,"echo-email-format":"html","echo-subscriptions-email-system":true,"echo-subscriptions-web-system":true,"echo-subscriptions-email-other":false,"echo-subscriptions-web-other":true,"echo-subscriptions-email-edit-user-talk":false,"echo-subscriptions-web-edit-user-talk":true,
+"echo-subscriptions-email-reverted":false,"echo-subscriptions-web-reverted":true,"echo-subscriptions-email-article-linked":false,"echo-subscriptions-web-article-linked":false,"echo-subscriptions-email-mention":false,"echo-subscriptions-web-mention":true,"echo-subscriptions-web-edit-thank":true,"echo-subscriptions-email-edit-thank":false,"gettingstarted-task-toolbar-show-intro":true,"uls-preferences":"","language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs446":false,"searchNs447":false
+,"searchNs710":false,"searchNs711":false,"searchNs828":false,"searchNs829":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-mySandbox":1,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:156d8fe0ae17f8afd74198057563e45d */
+}if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","ext.visualEditor.viewPageTarget.init","ext.wikimediaShopLink.core","ext.uls.init","ext.uls.interface","wikibase.client.init","ext.centralNotice.bannerController","skins.vector.js"]);
+}/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}if(window.mw){
+mw.loader.load(["mobile.desktop","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.cite","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","mw.MwEmbedSupport.style","ext.vector.collapsibleNav","ext.articleFeedbackv5.startup","ext.gettingstarted.logging","ext.gettingstarted.openTask","schema.HttpsSupport","ext.coreEvents.httpsSupport","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","mw.PopUpMediaTransform"],null,true);
+}

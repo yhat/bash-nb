@@ -1,0 +1,418 @@
+
+
+
+Anchisaurus - Wikipedia, the free encyclopedia
+
+
+
+
+
+
+
+
+
+
+
+
+a:lang(ar),a:lang(ckb),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:0de201fdea5d684523607ed88007b127 */
+
+
+
+
+[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.22wmf18/skins/vector/csshover.min.htc")}</style><![endif]
+
+		
+		
+		
+			
+			
+						 CentralNotice 
+						Anchisaurus
+			
+								From Wikipedia, the free encyclopedia
+								
+												
+					Jump to:					navigation, 					search
+				
+				
+
+
+Anchisaurus
+Temporal range: Early Jurassic, 200–188Ma
+
+PreЄ
+Є
+O
+S
+D
+C
+P
+T
+J
+K
+Pg
+N
+
+
+
+
+
+
+
+
+
+
+
+
+
+Life restoration
+
+
+Scientific classification 
+
+
+Kingdom:
+Animalia
+
+
+Phylum:
+Chordata
+
+
+Clade:
+Sauropsida
+
+
+Clade:
+Dinosauria
+
+
+Suborder:
+†Sauropodomorpha
+
+
+Clade:
+†Anchisauria
+
+
+Family:
+†Anchisauridae
+Marsh, 1885
+
+
+Genus:
+†Anchisaurus
+Marsh, 1885
+
+
+Species:
+† A. polyzelus
+
+
+Binomial name
+
+
+Anchisaurus polyzelus
+(Hitchcock, 1865)
+
+
+Synonyms
+
+
+
+
+Megadactylus polyzelus Hitchcock, 1865 (preoccupied)
+Amphisaurus polyzelus Marsh, 1882 (preoccupied)
+Yaleosaurus colurus Huene, 1932
+
+
+
+
+
+Anchisaurus is a genus of basal sauropodomorph, and was an early herbivorous dinosaur.[1] It lived during the Early Jurassic Period; more specifically, the Pliensbachian to Toarcian ages, 200 to 188 million years ago. Until recently it was classed as a member of Prosauropoda. The name comes from the Greek αγχι/agkhi anchi-; "near, close" + Greek σαυρος/sauros; "lizard", probably referring to Marsh's interpretation of it as intermediate between primitive dinosaurs (at the time Palaeosaurus was an example of what was thought to be a primitive dinosaur) and more derived dinosaurs. Anchisaurus was coined as a replacement name for Amphisaurus, which was itself a replacement name for Hitchcock's Megadactylus, both of which had already been used for other animals.
+Hitchcock collected these bones under the name Megadactylus in 1865. Unfortunately, the name was in use, and the famous paleontologist Othniel Charles Marsh renamed it Anchisaurus in 1885. Remains thought to belong to this genus were found in South Africa and China, adding to the theory that these land masses were at the time joined in one super-continent, Pangaea, but these assignments have been contentious (Gyposaurus). A recovery from Nova Scotia may also be an Anchisaurus but this is unconfirmed.
+
+
+Contents
+
+
+1 Description
+2 Behaviour and diet
+3 Discovery
+4 Classification
+5 References
+6 External links
+
+
+Description[edit]
+
+
+
+
+Size of Anchisaurus, compared to a human.
+
+
+Anchisaurus was a rather small dinosaur, with a length of just over 2 metres (6.6 ft), which helps explain why it was once mistaken for human bones.[2] It probably weighed around 27 kilograms (60 lb). However, Marsh's species A. major (also known as Ammosaurus) was larger, from 2.5 to 4 metres (8 ft 2 in to 13 ft 1 in) and some estimates give it a weight of up to 70 pounds (32 kg).
+Behaviour and diet[edit]
+Digesting plant matter is a much more intensive biochemical process than digesting meat. This herbivore swallowed gastroliths (gizzard stones) to help break down the food in its stomach.[1] Herbivorous dinosaurs needed a huge gut. Since this had to be positioned in front of the pelvis, balancing on two legs became increasingly difficult, as dinosaurs became larger and they gradually evolved into the quadrupedal position that characterizes the later sauropods such as Diplodocus.[3] Prosauropods represented a middle phase between the earliest bipedal herbivores and the later giant sauropods. Although it was not itself a prosauropod, Anchisaurus was mostly typical of this group,[clarification needed] which flourished briefly during the late Triassic and early Jurassic. Anchisaurus teeth, used to rip food, were shaped like spoons.[1] It had fewer and more widely spaced teeth than true prosauropods, and as Peter Galton and Michael Cluver observed, narrower feet.[2] Anchisaurus would have spent most of its time on four legs but could have reared up on its hind legs to reach higher plants.
+On the other hand, some paleontologists[who?] believe Anchisaurus may also have eaten meat, as it was in the transition between these two ultimately distinct groups. The teeth were blunt but with file-like edges, suggesting mostly plant matter was eaten and the jaw hinge was arranged in a way not entirely suited for tearing meat. Nevertheless, there is still some debate. The thumb had a large claw and the large eyes were not entirely on the side (as would be expected in an animal of a natural prey species).
+As a quadrupedal/bipedal crossover, Anchisaurus had to have multi-purpose front legs. As 'hands', they could be turned inwards and be used for grasping. It had a simple reversible first 'finger', similar to a 'thumb'. As feet, the five toes could be placed flat against the floor and were strong at the ankle. This unspecialized design is typical of the early dinosaurs.
+Discovery[edit]
+
+
+
+
+Anchisaurus skeleton restoration by O.C. Marsh.
+
+
+The first discovery of Anchisaurus remains was made before anything was known about dinosaurs and it was probably the first dinosaur discovery in North America. When, in 1818, some large bones were discovered in Manchester, Connecticut, USA, it was assumed that they were of human origin.[2] Gradually, as a result of further finds in Massachusetts, the number of these bones began to accumulate and, by 1855, they were at least recognized as reptilian.
+Classification[edit]
+
+
+
+
+Restoration by Lancelot Speed from 1905
+
+
+Due to its primitive appearance, Anchisaurus was previously classified as a prosauropod, a member of a group of animals related to or ancestral to the sauropods. Recent investigations show that a group of traditional prosauropods form a monophyletic sister-group to Sauropoda, and that Anchisaurus is instead closer to sauropods.[4]
+Marsh was originally happy with Hitchcock's name Megadactylus but this name was already taken. Therefore, he renamed it Amphisaurus in 1882. However, this name was also already in use and therefore, it became Anchisaurus in 1885.
+The type species is Hitchcock's A. polyzelus. Marsh's A. major ("greater near lizard") is still often considered a valid species (as Ammosaurus) but his A. colurus (1891), once known as Yaleosaurus (von Huene, 1932), is now generally accepted as a female A. polyzelus, and his A. solus of 1892 is now reclassified as Ammosaurus major. However, Ammosaurus major itself may well be a synonym of A. polyzelus.
+Broom named Gyposaurus capensis in 1911, from the bones discovered in South Africa but Peter Galton officially renamed it A. capensis in 1976. This species has since been reclassified again and is probably a juvenile of Massospondylus carinatus. G. sinensis was also referred here, but appears to be a distinct animal. Other specimens are still awaiting reclassification. This confusion is typical of the first dinosaurs to be discovered, when classification was not considered as important and precise a process as today.
+The family Anchisauridae was first proposed by Othniel Charles Marsh in 1885 and later defined as a clade consisting of Anchisaurus and its nearest relatives. However, it is not clear which other genera are included in the family; many of the dinosaurs once included have since been moved elsewhere, and the group is not used in most current taxonomies.[4]
+References[edit]
+
+
+^ a b c Gaines, Richard M. (2001). Coelophysis. ABDO Publishing Company. p. 14. ISBN 1-57765-488-9. 
+^ a b c "Anchisaurus." In: Dodson, Peter & Britt, Brooks & Carpenter, Kenneth & Forster, Catherine A. & Gillette, David D. & Norell, Mark A. & Olshevsky, George & Parrish, J. Michael & Weishampel, David B. The Age of Dinosaurs. Publications International, LTD. p. 27. ISBN 0-7853-0443-6.
+^ Palmer, D., ed. (1999). The Marshall Illustrated Encyclopedia of Dinosaurs and Prehistoric Animals. London: Marshall Editions. p. 122. ISBN 1-84028-152-9. 
+^ a b Yates, Adam M. (2010). "A revision of the problematic sauropodomorph dinosaurs from Manchester, Connecticut and the status of Anchisaurus Marsh". Palaeontology 53 (4): 739–752. doi:10.1111/j.1475-4983.2010.00952.x. 
+
+
+External links[edit]
+
+
+
+Wikispecies has information related to: Anchisaurus
+
+
+
+
+
+Wikimedia Commons has media related to Anchisaurus.
+
+
+
+
+
+
+Dinosaurs portal
+
+
+
+
+Anchisaurus at DinoData
+
+
+
+ 
+NewPP limit report
+CPU time usage: 5.148 seconds
+Real time usage: 5.399 seconds
+Preprocessor visited node count: 27465/1000000
+Preprocessor generated node count: 45635/1500000
+Post‐expand include size: 128752/2048000 bytes
+Template argument size: 118278/2048000 bytes
+Highest expansion depth: 39/40
+Expensive parser function count: 2/500
+Lua time usage: 0.079s
+Lua memory usage: 1.56 MB
+
+
+ Saved in parser cache with key enwiki:pcache:idhash:1091949-0!*!0!!en!4!* and timestamp 20131002091339 
+								
+				Retrieved from "http://en.wikipedia.org/w/index.php?title=Anchisaurus&oldid=539636708"				
+												Categories: Jurassic dinosaursDinosaurs of North AmericaSauropodomorphaHidden categories: Articles with 'species' microformatsWikipedia articles needing clarification from March 2009All articles with specifically marked weasel-worded phrasesArticles with specifically marked weasel-worded phrases from March 2009Commons category template with no category setCommons category with page title same as on Wikidata												
+							
+		
+		
+			Navigation menu
+			
+				
+	Personal tools
+	
+Create accountLog in	
+
+				
+					
+	Namespaces
+	
+					Article
+					Talk
+			
+
+
+	
+		
+	Variants
+	
+		
+					
+	
+
+				
+				
+					
+	Views
+	
+					Read
+					Edit
+					View history
+			
+
+
+	Actions
+	
+		
+					
+	
+
+
+	Search
+	
+				
+																				
+		
+	
+
+				
+			
+			
+					
+				
+	Navigation
+	
+		
+			Main page
+			Contents
+			Featured content
+			Current events
+			Random article
+			Donate to Wikipedia
+		
+	
+
+
+	Interaction
+	
+		
+			Help
+			About Wikipedia
+			Community portal
+			Recent changes
+			Contact page
+		
+	
+
+
+	Toolbox
+	
+		
+			What links here
+			Related changes
+			Upload file
+			Special pages
+			Permanent link
+			Page information
+			Data item
+Cite this page		
+	
+
+
+	Print/export
+	
+		
+			Create a book
+			Download as PDF
+			Printable version
+		
+	
+
+
+	Languages
+	
+		
+			Català
+			Česky
+			Deutsch
+			Español
+			Français
+			한국어
+			Italiano
+			Lietuvių
+			Magyar
+			Монгол
+			Nederlands
+			日本語
+			ଓଡ଼ିଆ
+			Polski
+			Português
+			Русский
+			Simple English
+			Slovenčina
+			Suomi
+			Svenska
+			Українська
+			中文
+			
+			Edit links
+		
+	
+
+			
+		
+		
+							
+											 This page was last modified on 22 February 2013 at 12:15.
+											Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. 
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+									
+							
+											Privacy policy
+											About Wikipedia
+											Disclaimers
+											Contact Wikipedia
+											Developers
+											Mobile view
+									
+										
+					
+						
+					
+					
+						
+					
+				
+						
+		
+		
+
+
+ Served by mw1044 in 0.200 secs. 
+	
+if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Anchisaurus","wgTitle":"Anchisaurus","wgCurRevisionId":539636708,"wgArticleId":1091949,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with 'species' microformats","Wikipedia articles needing clarification from March 2009","All articles with specifically marked weasel-worded phrases","Articles with specifically marked weasel-worded phrases from March 2009","Commons category template with no category set","Commons category with page title same as on Wikidata","Jurassic dinosaurs","Dinosaurs of North America","Sauropodomorpha"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Anchisaurus","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgVectorEnabledModules":{"collapsiblenav":true,"experiments":true},"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"templateEditor":false,"templates":false,"preview":false,"previewDialog":false,"publish":false,"toc":false},"wgArticleFeedbackv5Permissions":{"aft-reader":true,"aft-member":false,"aft-editor":false,"aft-monitor":false,"aft-administrator":false,"aft-oversighter":false,"aft-noone":false},"wgVisualEditor":{"isPageWatched":false,"magnifyClipIconURL":"//bits.wikimedia.org/static-1.22wmf18/skins/common/images/magnify-clip.png","pageLanguageCode":"en","pageLanguageDir":"ltr"},"wikilove-recipient":"","wikilove-anon":0,"wgGuidedTourHelpGuiderUrl":"Help:Guided tours/guider","wgULSAcceptLanguageList":["ja"],"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia","aftv5Article":{"id":1091949,"title":"Anchisaurus","namespace":0,"categories":["All articles with specifically marked weasel-worded phrases","Articles with 'species' microformats","Articles with specifically marked weasel-worded phrases from March 2009","Commons category template with no category set","Commons category with page title same as on Wikidata","Dinosaurs of North America","Jurassic dinosaurs","Sauropodomorpha","Wikipedia articles needing clarification from March 2009"],"permissionLevel":false},"wgWikibaseItemId":"Q311281"});
+}if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":false,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,
+"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"useeditwarning":1,"prefershttps":1,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"vector-simplesearch":1,"vector-collapsiblenav":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"aftv5-last-filter":null,"visualeditor-enable":0,"visualeditor-enable-experimental":0,"visualeditor-betatempdisable":0,"wikilove-enabled":1,"echo-subscriptions-web-page-review":true,"echo-subscriptions-email-page-review":false,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"echo-notify-show-link":true,"echo-show-alert":true,"echo-email-frequency":0,"echo-email-format":"html","echo-subscriptions-email-system":true,"echo-subscriptions-web-system":true,"echo-subscriptions-email-other":false,"echo-subscriptions-web-other":true,"echo-subscriptions-email-edit-user-talk":false,"echo-subscriptions-web-edit-user-talk":true,
+"echo-subscriptions-email-reverted":false,"echo-subscriptions-web-reverted":true,"echo-subscriptions-email-article-linked":false,"echo-subscriptions-web-article-linked":false,"echo-subscriptions-email-mention":false,"echo-subscriptions-web-mention":true,"echo-subscriptions-web-edit-thank":true,"echo-subscriptions-email-edit-thank":false,"gettingstarted-task-toolbar-show-intro":true,"uls-preferences":"","language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs446":false,"searchNs447":false
+,"searchNs710":false,"searchNs711":false,"searchNs828":false,"searchNs829":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-mySandbox":1,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:156d8fe0ae17f8afd74198057563e45d */
+}if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","ext.visualEditor.viewPageTarget.init","ext.wikimediaShopLink.core","ext.uls.init","ext.uls.interface","wikibase.client.init","ext.centralNotice.bannerController","skins.vector.js"]);
+}/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}if(window.mw){
+mw.loader.load(["mobile.desktop","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.cite","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","mw.MwEmbedSupport.style","ext.vector.collapsibleNav","ext.articleFeedbackv5.startup","ext.gettingstarted.logging","ext.gettingstarted.openTask","schema.HttpsSupport","ext.coreEvents.httpsSupport","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","mw.PopUpMediaTransform"],null,true);
+}

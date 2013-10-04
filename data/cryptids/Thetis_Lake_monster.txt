@@ -1,0 +1,276 @@
+
+
+
+Thetis Lake Monster - Wikipedia, the free encyclopedia
+
+
+
+
+
+
+
+
+
+
+
+
+a:lang(ar),a:lang(ckb),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:0de201fdea5d684523607ed88007b127 */
+
+
+
+
+[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.22wmf18/skins/vector/csshover.min.htc")}</style><![endif]
+
+		
+		
+		
+			
+			
+						 CentralNotice 
+						Thetis Lake Monster
+			
+								From Wikipedia, the free encyclopedia
+								  (Redirected from Thetis Lake monster)
+												
+					Jump to:					navigation, 					search
+				
+				
+
+
+
+The initial report described the Thetis Lake Monster as looking like Gill-man.
+
+
+The Thetis Lake monster is a reptilian humanoid cryptid claimed by many proponents of cryptozoology to have been seen in 1972 by Thetis Lake, outside of Victoria, British Columbia, Canada. A local man attempted to explain the phenomenon with reports of misplacing a domesticated Tegu lizard near the area a year prior, but experts claim that in addition to the fact that a Tegu lizard wouldn't survive a Canadian winter, the original description differs too greatly from the lizard in size and attributes. Two of the original four witnesses of this monster recently came forward and admitted that they had fabricated the encounter.
+
+
+Contents
+
+
+1 History
+2 Possible solution
+3 See also
+4 References
+
+
+History[edit]
+Thetis Lake was the first regional conservation area in Canada, and was established in 1958. It spans approximately 831 hectares of protected forest and parkland. Approximately 20 minutes from Victoria, and located next to the Old Island Highway and a regional trail, it is a popular spot for hiking, swimming, fishing, and boating.[1][2]
+However, on 22 August 1972, the Victoria Daily Times reported that two local teens claimed to have been chased from the beach at Thetis lake by a creature which roughly resembled Gill-man from the Creature from the Black Lagoon.[1] One of the teens claimed to have been slashed on the hand by the creature, which displayed three webbed toes and fingers along with barbed fins on its skull, arms, and legs, prompting an investigation by the Royal Canadian Mounted Police. It was described to be "roughly triangular in shape, about five feet (~1.5 m) tall[3] and five feet across the base". At the time, the officer stated that "the boys seem sincere, and until we determine otherwise we have no alternative but to continue our investigation."[4][5] Four days after the story was reported, two men claimed to have spotted the creature on the opposite side of the lake from its first appearance. According to one, "it came out of the water and looked around. Then it went back into the water. Then we ran!"[4] The boys described the creature as "shaped like an ordinary body, like a human being body but it had a monster face, and it was scaly [with] a point sticking out of its head [and] great big ears." They believed the creature had a humanlike face, although it appeared to have scaly and silvery-blue colored skin.[3][4]
+
+
+
+
+Main beach at Thetis Lake
+
+
+Similar creatures have been reported from places such as Ohio, Delaware, Louisiana, and North Carolina, for at least the last century. They are said to be related to another cryptozoological creature, the chupacabra. Also, lake monsters like this one, are said to exist all over the world. Haida mythology from the Queen Charlotte Islands describes a similar creature, with a humanlike face, two tails, and often wears a hat. This creature is often feared by Haida canoeists.[3]
+Possible solution[edit]
+
+
+
+
+A Tegu lizard — an explanation for the monster
+
+
+On 26 August 1972, The Province received a call from a man claiming to have lost a pet Tegu lizard in the area the previous year. Tegus, indigenous to Latin America and mostly carnivorous, can grow up to four feet in length. They are commonly kept as pets. The investigating police officers did not believe the lizard matched the description of the creature.[6]
+The sightings have been repeated in some cryptozoology literature which portray it as a genuine cryptid and relative of the Loveland Frog, no other sightings have been reported since leading the monster sighting to be "a fact widely unknown among swimmers."[1] Local historian Ross Crockford remarks that the advice given in Haden Blackman's 1998 Field Guide to North American Monsters to carry a flaming torch to defend oneself from the monster is probably more dangerous than any monster, given the tinder-dry nature of the park.[6]
+One of the original "witnesses," Russell Van Nice has said, "it was just a big lie," his friend [Mike Gold] was, "trying to get attention." According to Van Nice, his friend was "famous" for being a habitual liar.[7]
+See also[edit]
+
+Loch Ness Monster
+
+References[edit]
+
+
+^ a b c Mason, Alister (2006-06-22). "Dragons in the Water". The Epoch Times. Retrieved 2008-04-13. 
+^ "Thetis Lake Regional Park". Capital Regional District. 2007. Retrieved 2008-04-13. 
+^ a b c The Field Guide to Bigfoot, Yeti, and Other Mystery Primates Worldwide, Loren Coleman and Patrick Huyghe, Illust. Harry Trumbore, ISBN 0-380-80263-5
+^ a b c Coleman, Loren (2002). Mothman and Other Curious Encounters. Cosimo, Inc. pp. 90–91. ISBN 1-931044-34-1. 
+^ Godfrey, Linda (2003). The Beast of Bray Road: Tailing Wisconsin's Werewolf. Big Earth Publishing. p. vi. ISBN 1-879483-91-2. 
+^ a b Crockford, Ross (2006-04-07). "The Gill Man of Thetis Lake". Unknown Victoria. Retrieved 2008-04-13. 
+^ Loxton, Daniel. "Junior Skeptic #35: The Shocking Secret of Thetis Lake".  Skeptic Vol. 15, No. 2. (Altadena: Skeptics Society, 2009) pp. 74-81
+
+
+
+
+ 
+NewPP limit report
+CPU time usage: 0.432 seconds
+Real time usage: 0.473 seconds
+Preprocessor visited node count: 503/1000000
+Preprocessor generated node count: 2559/1500000
+Post‐expand include size: 8330/2048000 bytes
+Template argument size: 126/2048000 bytes
+Highest expansion depth: 13/40
+Expensive parser function count: 1/500
+Lua time usage: 0.031s
+Lua memory usage: 1.53 MB
+
+
+ Saved in parser cache with key enwiki:pcache:idhash:8717964-0!*!0!!en!4!* and timestamp 20130913225135 
+								
+				Retrieved from "http://en.wikipedia.org/w/index.php?title=Thetis_Lake_Monster&oldid=564410283"				
+												Categories: Canadian lake cryptidsCanadian mythologyCulture of British ColumbiaGreater VictoriaHistory of Vancouver IslandHumanoid cryptidsReptile cryptidsHidden categories: Use dmy dates from September 2010												
+							
+		
+		
+			Navigation menu
+			
+				
+	Personal tools
+	
+Create accountLog in	
+
+				
+					
+	Namespaces
+	
+					Article
+					Talk
+			
+
+
+	
+		
+	Variants
+	
+		
+					
+	
+
+				
+				
+					
+	Views
+	
+					Read
+					Edit
+					View history
+			
+
+
+	Actions
+	
+		
+					
+	
+
+
+	Search
+	
+				
+																				
+		
+	
+
+				
+			
+			
+					
+				
+	Navigation
+	
+		
+			Main page
+			Contents
+			Featured content
+			Current events
+			Random article
+			Donate to Wikipedia
+		
+	
+
+
+	Interaction
+	
+		
+			Help
+			About Wikipedia
+			Community portal
+			Recent changes
+			Contact page
+		
+	
+
+
+	Toolbox
+	
+		
+			What links here
+			Related changes
+			Upload file
+			Special pages
+			Permanent link
+			Page information
+			Data item
+Cite this page		
+	
+
+
+	Print/export
+	
+		
+			Create a book
+			Download as PDF
+			Printable version
+		
+	
+
+
+	Languages
+	
+		
+			Suomi
+			
+			Edit links
+		
+	
+
+			
+		
+		
+							
+											 This page was last modified on 15 July 2013 at 20:33.
+											Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. 
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+									
+							
+											Privacy policy
+											About Wikipedia
+											Disclaimers
+											Contact Wikipedia
+											Developers
+											Mobile view
+									
+										
+					
+						
+					
+					
+						
+					
+				
+						
+		
+		
+
+
+ Served by mw1216 in 0.169 secs. 
+	
+if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Thetis_Lake_Monster","wgTitle":"Thetis Lake Monster","wgCurRevisionId":564410283,"wgArticleId":8717964,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Use dmy dates from September 2010","Canadian lake cryptids","Canadian mythology","Culture of British Columbia","Greater Victoria","History of Vancouver Island","Humanoid cryptids","Reptile cryptids"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Thetis_Lake_Monster","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Thetis_Lake_monster","wgVectorEnabledModules":{"collapsiblenav":true,"experiments":true},"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"templateEditor":false,"templates":false,"preview":false,"previewDialog":false,"publish":false,"toc":false},"wgArticleFeedbackv5Permissions":{"aft-reader":true,"aft-member":false,"aft-editor":false,"aft-monitor":false,"aft-administrator":false,"aft-oversighter":false,"aft-noone":false},"wgVisualEditor":{"isPageWatched":false,"magnifyClipIconURL":"//bits.wikimedia.org/static-1.22wmf18/skins/common/images/magnify-clip.png","pageLanguageCode":"en","pageLanguageDir":"ltr"},"wikilove-recipient":"","wikilove-anon":0,"wgGuidedTourHelpGuiderUrl":"Help:Guided tours/guider","wgULSAcceptLanguageList":["en-us"],"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia","aftv5Article":{"id":8717964,"title":"Thetis Lake Monster","namespace":0,"categories":["Canadian lake cryptids","Canadian mythology","Culture of British Columbia","Greater Victoria","History of Vancouver Island","Humanoid cryptids","Reptile cryptids","Use dmy dates from September 2010"],"permissionLevel":false},"wgWikibaseItemId":"Q7783580"});
+}if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":false,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,
+"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"useeditwarning":1,"prefershttps":1,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"vector-simplesearch":1,"vector-collapsiblenav":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"aftv5-last-filter":null,"visualeditor-enable":0,"visualeditor-enable-experimental":0,"visualeditor-betatempdisable":0,"wikilove-enabled":1,"echo-subscriptions-web-page-review":true,"echo-subscriptions-email-page-review":false,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"echo-notify-show-link":true,"echo-show-alert":true,"echo-email-frequency":0,"echo-email-format":"html","echo-subscriptions-email-system":true,"echo-subscriptions-web-system":true,"echo-subscriptions-email-other":false,"echo-subscriptions-web-other":true,"echo-subscriptions-email-edit-user-talk":false,"echo-subscriptions-web-edit-user-talk":true,
+"echo-subscriptions-email-reverted":false,"echo-subscriptions-web-reverted":true,"echo-subscriptions-email-article-linked":false,"echo-subscriptions-web-article-linked":false,"echo-subscriptions-email-mention":false,"echo-subscriptions-web-mention":true,"echo-subscriptions-web-edit-thank":true,"echo-subscriptions-email-edit-thank":false,"gettingstarted-task-toolbar-show-intro":true,"uls-preferences":"","language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs446":false,"searchNs447":false
+,"searchNs710":false,"searchNs711":false,"searchNs828":false,"searchNs829":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-mySandbox":1,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:156d8fe0ae17f8afd74198057563e45d */
+}if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","ext.visualEditor.viewPageTarget.init","ext.wikimediaShopLink.core","ext.uls.init","ext.uls.interface","wikibase.client.init","ext.centralNotice.bannerController","skins.vector.js"]);
+}/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}if(window.mw){
+mw.loader.load(["mobile.desktop","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.cite","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","mw.MwEmbedSupport.style","ext.vector.collapsibleNav","ext.articleFeedbackv5.startup","ext.gettingstarted.logging","ext.gettingstarted.openTask","schema.HttpsSupport","ext.coreEvents.httpsSupport","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","mw.PopUpMediaTransform"],null,true);
+}
