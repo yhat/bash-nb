@@ -1,9 +1,15 @@
 # nb
 
 ### Install `nb`
+    $ git clone https://github.com/yhat/bash-nb.git
+    $ cd bash-nb
+    $ npm install -g 
+    
+*This doesn't work...yet*
 
     $ npm install -g nb
-
+    
+    
 ### Get the data
 
     $ ./scripts/getdata.sh
