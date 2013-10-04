@@ -36,7 +36,7 @@
     # select the entire page and convert to text only
     $ curl http://en.wikipedia.org/wiki/Chupacabra | html2Text 
 
-    # select only the children of the `id="bodyContent"`
+    # select only the children of the id=bodyContent
     $ curl http://en.wikipedia.org/wiki/Chupacabra | html2Text "#bodyContent" 
 
     # select bodyContent but leave as plain HTML
